@@ -77,7 +77,10 @@ python tools/install_local.py               # into WoW Forever, and teach the in
 Spoken 3.8.3 does not know Hebrew yet. `install_local.py` adds one line to each of Spoken's language
 lists, the same lines Spoken added for Polish (upstream commit `e7a1a957`), and keeps a
 `.before-heIL` backup of each file. A Spoken update overwrites these files, so run the script again
-after updating.
+after updating. `addon/Hebrew.lua` hooks Spoken's internals, so after a Spoken update also run
+`python tools/test_captions.py --spoken "<your AddOns folder>"`: it checks that what the captions use is
+still in that Spoken. If it is not, the pack turns its captions off by itself in game (the voice still
+plays, with Spoken's own text) and says so once in chat.
 
 ## Before sharing it
 

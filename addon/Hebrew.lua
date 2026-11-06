@@ -106,6 +106,10 @@ local function IsHebrew(clip)
     return clip and clip.present and clip.present.rtl
 end
 
+local env = SpokenEnv
+local flipped = setmetatable({}, { __mode = "k" }) -- font strings Flip right-aligned
+local off -- why the captions stopped, once they have
+
 --- Turn a font string Spoken just set around, once: the text it holds is Spoken's (logical) only
 --- when it differs from what this last put there.
 local function Flip(fontString, rtl)
@@ -114,6 +118,7 @@ local function Flip(fontString, rtl)
         if fontString.hebrewFlipped then
             fontString:SetJustifyH("LEFT")
             fontString.hebrewFlipped, fontString.hebrewShown = nil, nil
+            flipped[fontString] = nil
         end
         return
     end
@@ -127,26 +132,9 @@ local function Flip(fontString, rtl)
     if not fontString.hebrewFlipped then
         fontString:SetJustifyH("RIGHT")
         fontString.hebrewFlipped = true
+        flipped[fontString] = true
     end
 end
-
--- 1. Each line this pack plays carries its Hebrew text and font.
-if VoiceOver and VoiceOver.Player and VoiceOver.Player.Prepare then
-    hooksecurefunc(VoiceOver.Player, "Prepare", function(_, soundData)
-        if not soundData or not soundData.present then return end
-        local ours = soundData.module == MODULE
-            or (soundData.filePath and soundData.filePath:find("SpokenCommunity_ivrit", 1, true))
-        if not ours then return end
-        local stem = (soundData.fileName or ""):gsub("^[mf]%-", "")
-        local text = TEXT[stem]
-        if not text then return end
-        soundData.present.transcript = text
-        soundData.present.font = working or FONT
-        soundData.present.rtl = true
-    end)
-end
-
-local env = SpokenEnv
 
 -- Whether `fontString` draws a clip's words: the subtitle's lines and the string it measures them
 -- with. Everything else Spoken refonts for a clip is the speaker's name or the quest's title,
@@ -161,32 +149,89 @@ local function HoldsWords(fontString)
     return false
 end
 
--- 2. The words of a Hebrew clip get a Hebrew face, every time (see UseHebrewFont). Its English
--- name and title keep the player's own face: in the Hebrew one they drew nothing in game. Other
--- clips go through Spoken as before.
-if env and env.Addon and env.Addon.ClipFont then
-    local ClipFont = env.Addon.ClipFont
-    env.Addon.ClipFont = function(self, fontString, clip, ...)
-        if IsHebrew(clip) then
-            if not HoldsWords(fontString) then return ClipFont(self, fontString, nil, ...) end
-            if UseHebrewFont(fontString) then return end
-        end
-        return ClipFont(self, fontString, clip, ...)
+-- What this file reaches into. None of it is Spoken's public API, so a Spoken release may rename
+-- any of it. With one gone nothing here is installed: Spoken shows its own text under the Hebrew
+-- voice, rather than Hebrew drawn left to right or in a face without its letters.
+local function Missing()
+    if type(hooksecurefunc) ~= "function" then return "hooksecurefunc" end
+    if not (VoiceOver and VoiceOver.Player and type(VoiceOver.Player.Prepare) == "function") then
+        return "VoiceOver.Player.Prepare"
+    end
+    if not (env and env.Addon and type(env.Addon.ClipFont) == "function") then return "Addon.ClipFont" end
+    if not (env.Subtitle and type(env.Subtitle.Reveal) == "function") then return "Subtitle.Reveal" end
+    if not (env.Transcript and type(env.Transcript.Render) == "function") then return "Transcript.Render" end
+end
+
+--- Stops every hook below for the rest of the session and says so once. The voice does not go
+--- through this file, so it plays either way.
+local function TurnOff(why)
+    if off then return end
+    off = tostring(why)
+    for fontString in pairs(flipped) do pcall(fontString.SetJustifyH, fontString, "LEFT") end
+    print("|cffb48cffSpoken Hebrew|r: Hebrew captions are off (" .. off .. "). The voice still plays, "
+        .. "under Spoken's own text. A newer Spoken Hebrew pack may bring them back.")
+end
+
+--- `f` as a hook that does nothing once the captions are off, and turns them off if it errors.
+local function Guarded(name, f)
+    return function(...)
+        if off then return end
+        local ok, err = pcall(f, ...)
+        if not ok then TurnOff(name .. ": " .. tostring(err)) end
     end
 end
 
--- 3. Spoken's two displays, turned right-to-left while one of those lines is up.
-if env and env.Transcript and env.Transcript.Render then
-    hooksecurefunc(env.Transcript, "Render", function(self)
+--- "words" once a Hebrew face is on `fontString`, "name" for a string that keeps its own.
+local function Refont(fontString)
+    if not HoldsWords(fontString) then return "name" end
+    if UseHebrewFont(fontString) then return "words" end
+end
+
+local missing = Missing()
+if missing then
+    TurnOff("this Spoken has no " .. missing)
+else
+    -- 1. Each line this pack plays carries its Hebrew text and font.
+    hooksecurefunc(VoiceOver.Player, "Prepare", Guarded("Prepare", function(_, soundData)
+        if not soundData or not soundData.present then return end
+        local ours = soundData.module == MODULE
+            or (soundData.filePath and soundData.filePath:find("SpokenCommunity_ivrit", 1, true))
+        if not ours then return end
+        local stem = (soundData.fileName or ""):gsub("^[mf]%-", "")
+        local text = TEXT[stem]
+        if not text then return end
+        soundData.present.transcript = text
+        soundData.present.font = working or FONT
+        soundData.present.rtl = true
+    end))
+
+    -- 2. The words of a Hebrew clip get a Hebrew face, every time (see UseHebrewFont). Its English
+    -- name and title keep the player's own face: in the Hebrew one they drew nothing in game.
+    -- Everything else, and everything once the captions are off, goes through Spoken's own.
+    local ClipFont = env.Addon.ClipFont
+    env.Addon.ClipFont = function(self, fontString, clip, ...)
+        if not off and IsHebrew(clip) then
+            local ok, done = pcall(Refont, fontString)
+            if not ok then
+                TurnOff("ClipFont: " .. tostring(done))
+            elseif done == "words" then
+                return
+            elseif done == "name" then
+                return ClipFont(self, fontString, nil, ...)
+            end
+        end
+        return ClipFont(self, fontString, clip, ...)
+    end
+
+    -- 3. Spoken's two displays, turned right-to-left while one of those lines is up.
+    hooksecurefunc(env.Transcript, "Render", Guarded("Transcript.Render", function(self)
         local rtl = IsHebrew(self.clip)
         for _, label in ipairs(self.labels or {}) do Flip(label, rtl) end
-    end)
-end
-if env and env.Subtitle and env.Subtitle.Reveal then
-    hooksecurefunc(env.Subtitle, "Reveal", function(self)
+    end))
+    hooksecurefunc(env.Subtitle, "Reveal", Guarded("Subtitle.Reveal", function(self)
         local rtl = IsHebrew(self.clip)
         for _, line in ipairs(self.lines or {}) do Flip(line, rtl) end
-    end)
+    end))
 end
 
 -- /spokenhe: what the captions are drawn with, for when they show boxes.
@@ -198,6 +243,7 @@ SlashCmdList.SPOKENHEBREW = function()
         local ok = probe:SetFont(path, 16, "")
         say(format("font %d %s: %s", i, path:match("[^\\]+$"), (ok ~= false and SameFace(probe:GetFont(), path)) and "loads" or "FAILED"))
     end
+    say("captions:", off and ("off, " .. off) or "on")
     say("in use:", working or "none yet", "| captions:", (function() local n = 0 for _ in pairs(TEXT) do n = n + 1 end return n end)())
     local sub = env and env.Subtitle
     if sub then
