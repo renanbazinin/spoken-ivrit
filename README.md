@@ -81,26 +81,21 @@ after updating.
 
 ## Before sharing it
 
-**Don't give the pack to other players yet.** A Spoken that doesn't know `heIL` reads the pack as
+**Only install the pack on a Spoken that knows Hebrew (`heIL`).** An older Spoken reads the pack as
 English. It would then play Hebrew to English listeners, because `SpokenCommunity_…` sorts ahead of
-the official packs.
+the official packs. Until a Spoken release has Hebrew, `tools/install_local.py` patches your own copy.
 
-To share it:
+Where sharing stands:
 
-1. **Spoken support for heIL.** This needs a pull request to rusty-key/spoken-wow that mirrors the Polish
-   commit `e7a1a957`. Add `heIL` (Hebrew, עברית, script `hebrew`, `client: false`, elevenLabs `he`) to:
-   - `pipelines/lib/locales.mjs`
-   - `apps/web/src/lib/lang.ts`
-   - `addons/Spoken_Quests/Language.lua`
-   - `addons/Spoken_Readables/Language.lua`
-   - `addons/Spoken_Places/Language.lua`
-   - `addons/Spoken/UI/Options.lua`
-   - `manager/src/shared/products.ts`
-   - the `lang` list in `community/README.md`
-2. **Community listing.** Once Spoken ships heIL, upload the zip to a GitHub release and add an entry to
-   `community/packs.json` with the zip's size and SHA-256, which `build_pack.py` prints.
-3. **Font.** The captions use Windows' Arial, copied in by `build_pack.py`. That's fine on your own computer, but you
-   may not share it. Before sharing, change `FONT` in `tools/build_pack.py` to an open font such as Noto Sans Hebrew (OFL).
-4. **Licence and credits.** The text is our translation of Blizzard's quest text, and the voices are
+1. **Spoken support for heIL:** draft PR [rusty-key/spoken-wow#930](https://github.com/rusty-key/spoken-wow/pull/930),
+   from the `add-hebrew-language` branch of [renanbazinin/spoken-wow](https://github.com/renanbazinin/spoken-wow).
+   It mirrors the Polish commit `e7a1a957`.
+2. **Community listing:** releases of this repo carry the zip, and a second draft PR adds the pack to
+   `community/packs.json` with the zip's size and SHA-256, which `build_pack.py` prints. It can merge only
+   after Spoken ships heIL. For each new version, upload the zip, then update `version`, `size`, `sha256`
+   and `url` in that entry.
+3. **Font:** the captions use Noto Sans Hebrew (`fonts/`, SIL Open Font License 1.1), which may be shared.
+   Windows' Arial and Gisha may not.
+4. **Licence and credits:** the text is our translation of Blizzard's quest text, and the voices are
    clones of Blizzard's NPC recordings. Spoken's English packs are made the same way. Present it as
    non-commercial fan work.

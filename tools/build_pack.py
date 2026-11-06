@@ -25,11 +25,13 @@ from common import HERE, load_json, pack_files, units
 MODULE = "SpokenCommunity_ivrit"
 SPOKEN = HERE / "vendor" / "spoken-wow" / "pipelines" / "quests"
 PYTHON = HERE / ".venv" / "Scripts" / "python.exe"
-# A face with Hebrew letters for the captions (the game's own fonts have none). Arial is fine for
-# this computer; a pack handed to others needs a font it may share, such as Noto Sans Hebrew (OFL).
-FONT = pathlib.Path(r"C:\Windows\Fonts\arial.ttf")
-# Tried if the client will not load the first (a small Hebrew UI face).
-FONT_FALLBACK = pathlib.Path(r"C:\Windows\Fonts\gisha.ttf")
+# A face with Hebrew letters for the captions (the game's own fonts have none). It ships inside a
+# pack other players download, so it has to be a font we may share: Noto Sans Hebrew, SIL OFL 1.1,
+# whose licence travels in the font's own metadata. Windows' Arial and Gisha may not be shared.
+FONT = HERE / "fonts" / "NotoSansHebrew-Regular.ttf"
+# Hebrew.lua tries a second face when the client will not load the first; with one open font,
+# both are the same file.
+FONT_FALLBACK = FONT
 
 
 def encode(mp3, ogg):
