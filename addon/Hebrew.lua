@@ -148,12 +148,29 @@ end
 
 local env = SpokenEnv
 
--- 2. Every font string Spoken puts a Hebrew clip's words or names in gets a Hebrew face, every
--- time (see UseHebrewFont); other clips go through Spoken as before.
+-- Whether `fontString` draws a clip's words: the subtitle's lines and the string it measures them
+-- with. Everything else Spoken refonts for a clip is the speaker's name or the quest's title,
+-- which the client gives in English.
+local function HoldsWords(fontString)
+    local sub = env and env.Subtitle
+    if not sub then return false end
+    if fontString == sub.measure then return true end
+    for _, line in ipairs(sub.lines or {}) do
+        if line == fontString then return true end
+    end
+    return false
+end
+
+-- 2. The words of a Hebrew clip get a Hebrew face, every time (see UseHebrewFont). Its English
+-- name and title keep the player's own face: in the Hebrew one they drew nothing in game. Other
+-- clips go through Spoken as before.
 if env and env.Addon and env.Addon.ClipFont then
     local ClipFont = env.Addon.ClipFont
     env.Addon.ClipFont = function(self, fontString, clip, ...)
-        if IsHebrew(clip) and UseHebrewFont(fontString) then return end
+        if IsHebrew(clip) then
+            if not HoldsWords(fontString) then return ClipFont(self, fontString, nil, ...) end
+            if UseHebrewFont(fontString) then return end
+        end
         return ClipFont(self, fontString, clip, ...)
     end
 end
@@ -187,5 +204,14 @@ SlashCmdList.SPOKENHEBREW = function()
         say("subtitle clip is Hebrew:", tostring(IsHebrew(sub.clip) and true or false))
         if sub.measure then say("subtitle measure:", (sub.measure:GetFont())) end
         for i, line in ipairs(sub.lines or {}) do say(format("subtitle line %d: %s", i, tostring((line:GetFont())))) end
+        for _, key in ipairs({ "title", "label" }) do
+            local fs = sub[key]
+            if fs and fs.GetFont then
+                local face, size, flags = fs:GetFont()
+                say(format("subtitle %s: %s %s %s | %q | width %.0f | shown %s | alpha %.2f", key,
+                    tostring(face), tostring(size), tostring(flags), tostring(fs:GetText()),
+                    fs:GetStringWidth() or 0, tostring(fs:IsShown()), fs:GetAlpha() or 0))
+            end
+        end
     end
 end

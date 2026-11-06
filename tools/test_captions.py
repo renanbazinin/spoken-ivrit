@@ -6,8 +6,9 @@ Loads build/dist/SpokenCommunity_ivrit's generated\\hebrew_text.lua and Hebrew.l
 would (after Module.lua's global), with Spoken's Addon:ClipFont copied as it is in 3.8.3, then
 checks: a line from this pack gets its Hebrew text, font and rtl flag, another pack's does not;
 a caption line is turned around once, keeps its highlight colour on the right letters, and goes
-back to left-aligned for a non-Hebrew clip; and a font string whose first try at the Hebrew face
-failed still ends up with it (Spoken's ClipFont alone would keep the game's face there for good).
+back to left-aligned for a non-Hebrew clip; a font string whose first try at the Hebrew face
+failed still ends up with it (Spoken's ClipFont alone would keep the game's face there for good);
+and the subtitle's English name and title keep the game's face.
 """
 import pathlib
 import sys
@@ -33,6 +34,9 @@ function FontString()
   function fs:GetText() return self.text end
   function fs:SetJustifyH(j) self.justify = j end
   function fs:GetFont() return self.face, self.size, self.flags end
+  function fs:GetStringWidth() return 0 end
+  function fs:IsShown() return true end
+  function fs:GetAlpha() return 1 end
   function fs:SetFont(path, size, flags)
     if FAIL_NEXT[path] then FAIL_NEXT[path] = nil; return false end
     self.face, self.size, self.flags = path, size, flags; return true
@@ -45,7 +49,7 @@ VoiceOver = { Player = { Prepare = function(self, soundData) soundData.present =
 SpokenEnv = {
   Addon = {},
   Transcript = { labels = { FontString(), FontString() } },
-  Subtitle = { lines = { FontString() }, measure = FontString() },
+  Subtitle = { lines = { FontString() }, measure = FontString(), title = FontString(), label = FontString() },
 }
 -- Spoken 3.8.3's Addon:ClipFont, as it is (Core.lua).
 function SpokenEnv.Addon:ClipFont(fontString, clip)
@@ -131,6 +135,18 @@ check("subtitle partial", s.lines[1].text, "ולש")
 check("subtitle justify", s.lines[1].justify, "RIGHT")
 s.Layout(s)
 check("subtitle face next layout", s.lines[1].face, ARIAL)
+clip_font = g.SpokenEnv.Addon.ClipFont
+clip_font(g.SpokenEnv.Addon, s.measure, sd)
+check("subtitle measure face", s.measure.face, ARIAL)
+
+# 4b. The speaker's name and the quest title above a Hebrew line are English: the game's face,
+#     also for one a session already gave the Hebrew face.
+clip_font(g.SpokenEnv.Addon, s.title, sd)
+check("subtitle title face", s.title.face, QUEST)
+s.label.spokenOwnFace, s.label.spokenClipFace, s.label.spokenClipWant = QUEST, ARIAL, ARIAL
+s.label.face = ARIAL
+clip_font(g.SpokenEnv.Addon, s.label, sd)
+check("subtitle label face back", s.label.face, QUEST)
 
 # 5. The diagnostic command runs.
 g.print = lambda *a: None
