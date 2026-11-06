@@ -1,0 +1,604 @@
+[
+ {
+  "id": "a594ec347132",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Bloodmage Drazial",
+  "quest": "A Boar's Vitality",
+  "en": "Within these blasted lands exists two species of boar: the ash-mane boar and the helboar.\n\nIt would appear that the stamina of these beasts renders them nearly immune to harm, as the other animals find them too difficult to kill and consequently, not worth the effort.\n\nWe need to perform further analysis, Adventurer. Should you bring me three blasted boar lungs, two scorpok pincers, and one basilisk brain, I shall create a divine elixir from the residue of the assay. You will be my first test subject!",
+  "files": [
+   "quests/2583-accept"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "ef7a0bca5262",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Bloodmage Drazial",
+  "quest": "A Boar's Vitality",
+  "en": "The spirit of the boar illuminates your being, Adventurer! I wonder, do you believe yourself to be as invulnerable as these beasts?",
+  "files": [
+   "quests/2583-complete"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "7b6ac3020550",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "A Tale of Sorrow",
+  "en": "Before we may continue, you must hear my story.",
+  "files": [
+   "quests/2801-accept"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "e2a63d20ca35",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "A Tale of Sorrow",
+  "en": "The time to act is now, Adventurer.",
+  "files": [
+   "quests/2801-complete"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "0dd0e0a6e606",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "Fall From Grace",
+  "en": "Hear my story, traveler.",
+  "files": [
+   "quests/2784-accept"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "f9a55e699048",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "Fall From Grace",
+  "en": "As a spirit, I am powerless, Adventurer. Assist me. Allow me to regain my honor.",
+  "files": [
+   "quests/2784-complete"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "a68239127abc",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Corporal Thund Splithoof",
+  "quest": "Heroes of Old",
+  "en": "Please, take from this a relic of old. We no longer have a use for the item.\n\nMay it serve you well in your fight against the legion.",
+  "files": [
+   "quests/2701-accept"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "57f9a2d00a01",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Corporal Thund Splithoof",
+  "quest": "Heroes of Old",
+  "en": "Indeed, you have honored us all. Our thanks alone are not sufficient.",
+  "files": [
+   "quests/2702-complete"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "5ddcc734ab8b",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "Heroes of Old",
+  "en": "You have honored me with your nobility and heroism, Adventurer.\n\nYou have also honored them...",
+  "files": [
+   "quests/2702-accept"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "a2f8298a4594",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Spectral Lockbox",
+  "quest": "Heroes of Old",
+  "en": "You are temporarily blinded by the sparkle and gleam.",
+  "files": [
+   "quests/2701-complete"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "07c8e538d866",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Bloodmage Lynnore",
+  "quest": "Infallible Mind",
+  "en": "Your focused concentration has dwindled so soon? More research must be done!\n\nOh yes, the price remains the same, Adventurer. Venture forth into the blasted lands and return to me with ten brains from the redstone and two vulture gizzards.",
+  "files": [
+   "quests/2602-accept"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "e52c052feef1",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Bloodmage Lynnore",
+  "quest": "Infallible Mind",
+  "en": "Yes, yes, give me a moment and more of the compound will be ready for your consumption, Adventurer.\n\nTake it... and Adventurer, do not attempt to consume these experimental concoctions in rapid succession. The results could be disastrous.",
+  "files": [
+   "quests/2602-complete"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "ebf600d508c5",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "Kirith",
+  "en": "As one chapter of your adventure closes, another one begins, Adventurer.\n\nOne of my men is still unaccounted for, lost somewhere in the Blasted Lands. I am talking about Lieutenant Kirith, of course.\n\nAs I had mentioned earlier, we were both imprisoned and tortured by Allistarj, but poor Kirith, his strength of will faltered. I could hear the experiments from my cage; the tortured screams rang through the halls of the cave. That was the last I saw or heard of Kirith.",
+  "files": [
+   "quests/2721-accept"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "d372a91931f5",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Spirit of Kirith",
+  "quest": "Kirith",
+  "en": "Trebor? Trebor sent you?",
+  "files": [
+   "quests/2721-complete"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "c26770595fa1",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "Petty Squabbles",
+  "en": "The Alliance wishes to assist?\n\nI thought to never see this day again. A day in which the Alliance fights side by side with the Horde against a common enemy.\n\nIt shall be... we will unite.",
+  "files": [
+   "quests/2783-complete"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "0b00ecb2adef",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Bloodmage Drazial",
+  "quest": "Rage of Ages",
+  "en": "Ah, Adventurer, welcome back. It seems you enjoyed the effect of the robust, operational imbue, derived from snickerfang. Be warned, while the immediate effect is a titanic burst of strength, the long term effects on your spirit and intelligence could be hazardous.\n\nWith that said, do you require more? If so, bring me another three snickerfang jowls, two blasted boar lungs, and one scorpok pincer.",
+  "files": [
+   "quests/2582-accept"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "0de098879cf9",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Bloodmage Drazial",
+  "quest": "Rage of Ages",
+  "en": "There you go! Remember, use it sparingly. If you require another, come see me after you finish the one you currently have in your possession.",
+  "files": [
+   "quests/2582-complete"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "8b210efd3918",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Bloodmage Drazial",
+  "quest": "Salt of the Scorpok",
+  "en": "You live! This is good news, indeed. I assume you are back for more of the scorpok assay?\n\nVery well, Adventurer, back to the wasteland with you and do not return until you have collected three scorpok pincers, two vulture gizzards, and one blasted boar lung.",
+  "files": [
+   "quests/2586-accept"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "28f9a46f69b9",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Bloodmage Drazial",
+  "quest": "Salt of the Scorpok",
+  "en": "Fine work, Adventurer. Here is one sample of the assay for you and the remaining nine will be used in my research.\n\nAnytime you require more of the ground scorpok assay, return to me and we shall work out a deal.",
+  "files": [
+   "quests/2586-complete"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "a04c978ea3de",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Bloodmage Drazial",
+  "quest": "Snickerfang Jowls",
+  "en": "It is a well known fact that hyenas possess tremendous strength in their jowls, but the strength to snap through three inches of thorium steel? Impossible, improbable, and yet I have seen this demonstrated with my own eyes.\n\nVenture forth, into the Blasted Lands, and bring me three snickerfang jowls. As you search for the snickerfang, be on the lookout for boars and scorpoks: The initial assay also requires two blasted boar lungs and one scorpok pincer to complete.",
+  "files": [
+   "quests/2581-accept"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "465b7cdfc1db",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Bloodmage Drazial",
+  "quest": "Snickerfang Jowls",
+  "en": "How do you feel, Adventurer? You radiate with the aura of the snickerfang--your strength, unmatched by mortals!\n\nUnfortunately, with the components you brought to me, I could only make enough of the assay for one tablet. I will require more components, should you require another tablet.",
+  "files": [
+   "quests/2581-complete"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "ddd658d108c4",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Bloodmage Drazial",
+  "quest": "Spirit of the Boar",
+  "en": "When I first administered the elixir, Adventurer, I could tell that one or two applications would not satiate your appetite. Even now, I can see the hunger in your eyes. The concoction has addictive properties of which, seemingly, the most strong of will cannot resist.\n\nSo be it! Should you require more of the lung juice cocktail, venture back into the wasteland and find for me three blasted boar lungs, two scorpok pincers, and one basilisk brain.",
+  "files": [
+   "quests/2584-accept"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "74969819ac5c",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Bloodmage Drazial",
+  "quest": "Spirit of the Boar",
+  "en": "I must warn you, Adventurer, do not attempt to mix the formulas I have created. The chemical properties of the formula you most recently ingested will always take precedence over former enchantments; thus, rendering the other formulation null.",
+  "files": [
+   "quests/2584-complete"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "4bc587bdb7d8",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Bloodmage Lynnore",
+  "quest": "Spiritual Domination",
+  "en": "I see that the inner fire has dwindled. Would you say the spiritual euphoria lasted an hour?\n\nIf it's more of the gizzard gum you desire, then more of the gizzards I require. Back to the wastelands, Adventurer. Do not return until you have recovered ten gizzards and two jowls.",
+  "files": [
+   "quests/2604-accept"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "d36128f4a5d6",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Bloodmage Lynnore",
+  "quest": "Spiritual Domination",
+  "en": "Perhaps one day I shall be able to isolate the active enzymes of this assay and produce a much more efficient resultant. Unfortunately, you will have to settle for what I am currently able to produce. Return to me should you require more gizzard gum.",
+  "files": [
+   "quests/2604-complete"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "17145e0c4fff",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Bloodmage Lynnore",
+  "quest": "The Basilisk's Bite",
+  "en": "These wastelands are riddled with redstone basilisk, Adventurer. These basilisk have adapted and flourished, more so than any of the other wildlife within the region.\n\nI have watched from afar as they hunt and go about their daily activities - the beasts exhibit a thought process more complex than even some humanoids.\n\nI must study their brains!\n\nRetrieve ten of their brains for me, Adventurer. The compound cannot be complete, however, without two vulture gizzards to form the base of the solution.",
+  "files": [
+   "quests/2601-accept"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "34f678a3de38",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Bloodmage Lynnore",
+  "quest": "The Basilisk's Bite",
+  "en": "This is wondrous, Adventurer! My offering to you is a taste of the inner workings of the redstone basilisk.\n\nShould the compound be to your liking, more can always be made... for a price.",
+  "files": [
+   "quests/2601-complete"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "90acc7cdf7c7",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "The Cover of Darkness",
+  "en": "The demon lord displays a cunning almost as calculated as his brutality, Adventurer.",
+  "files": [
+   "quests/2743-complete"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "41b64c63e2d5",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Spirit of Kirith",
+  "quest": "The Cover of Darkness",
+  "en": "Let us not mince words, traveler; my time here is limited.\n\nYou must destroy the triad of power which protects the demon lord, Razelikh. Doing so will not be as simple a task as freeing a damned soul.\n\n\nYou see, each of Razelikh's underlings wears a third of an amulet of Razelikh's creation around their neck. The very same amulet you will need in order to summon the arch demon.\n\nReturn to Trebor and tell him what is required to summon Razelikh. He will be able to instruct you further.",
+  "files": [
+   "quests/2743-accept"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "9becc14a473d",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Bloodmage Drazial",
+  "quest": "The Decisive Striker",
+  "en": "Have you ever watched them in battle, Adventurer? The scorpoks, I mean. Have you ever seen the grace and agility with which they move? The decisiveness of their strikes?\n\nIf only we could somehow isolate that agility and encapsulate it, we would be wealthy beyond our... I mean... it would be a boon for the scientific community.\n\nAssist me, Adventurer, and I shall allow you a sampling of the assay.\n\nIn order to create a stable sample, I will need three scorpok pincers, two vulture gizzards, and one blasted boar lung.",
+  "files": [
+   "quests/2585-accept"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "85881076c000",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Bloodmage Drazial",
+  "quest": "The Decisive Striker",
+  "en": "Fascinating. This has been the most difficult of all assays to analyze.\n\nTake a pinch of this residual salt and place it under your tongue. You should experience a slight feeling of euphoria followed by a state of unprecedented agility and quickness.",
+  "files": [
+   "quests/2585-complete"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "03584879c112",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "The Demon Hunter",
+  "en": "The triad is protected by Razelikh.\n\nIn exchange for their servitude, Razelikh granted each of them nearly unlimited power within the Blasted Lands. The amulet pieces are each attuned to the lifeforce of their owner, granting them immortality. As long as they remain within the Blasted Lands, they cannot be slain, their life spans extended until the end of days.\n\nThere is one who may be able to assist you further, Adventurer. Travel to Azshara and find the demon hunter, Loramus Thalipedes. Search the islands.",
+  "files": [
+   "quests/2744-accept"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "9a265a690a06",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Loramus Thalipedes",
+  "quest": "The Demon Hunter",
+  "en": "I will help you. Although, I do not think you fully understand what you are up against.",
+  "files": [
+   "quests/2744-complete"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "249d1b536562",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Dispatch Commander Ruag",
+  "quest": "The Disgraced One",
+  "en": "Thrall's Grasp... The story is still fresh in my mind.\n\n\nTerrible thing that happened to that regiment. The horde lost some of its best soldiers when that battalion was destroyed.",
+  "files": [
+   "quests/2621-complete"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "5a44aa36b6c2",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "The Disgraced One",
+  "en": "Regret. It is all I have now. One bad decision resulting in several horrible outcomes. If only I had waited for those orders. Maybe they would have detailed the horrors that awaited us in those cursed lands! Maybe they were to redirect us to another detail? Ultimately, it was my fault. All of it was my fault.\n\nSo here I stand, awaiting orders. I must know. I must have those orders.\n\nDispatch Commander Ruag resides in Stonard. Find him and find out what became of the orders.",
+  "files": [
+   "quests/2621-accept"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "a84e2da62407",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "The Stones That Bind Us",
+  "en": "It will take more than you alone to overcome the forces of Razelikh and his subordinates.\n\nGather a suitable group of adventurers and free my men of their eternal torture! Eighteen stones you must shatter.\n\nFight hard and die with honor, Adventurer.",
+  "files": [
+   "quests/2681-accept"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "a635bd56217e",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "The Stones That Bind Us",
+  "en": "You have done it, Adventurer! The poor, tortured souls can finally rest.\n\nOur work is not yet over, Adventurer. We have much to discuss and much more to accomplish.",
+  "files": [
+   "quests/2681-complete"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "632e478ab63c",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "Uniting the Shattered Amulet",
+  "en": "To reach the Defiler, you must first destroy the triad of power and recover the amulet pieces. When you recover all three pieces, return to me and I shall give you further instruction.\n\nGo Adventurer! To the Blasted Lands! Sevine, Allistarj, and Grol must fall!",
+  "files": [
+   "quests/3627-accept"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "7eed31e3bb58",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "Uniting the Shattered Amulet",
+  "en": "The amulet of Razelikh the Defiler is once again complete but he senses the disruption in his chain of command. He knows you come for him...",
+  "files": [
+   "quests/3627-complete"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "969ff96b0656",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Bloodmage Lynnore",
+  "quest": "Vulture's Vigor",
+  "en": "Death does indeed have wings in these blasted lands, traveler. I have witnessed the black slayers and bonepickers feasting upon the corpse of many a fallen explorer - sometimes feeding upon the most vile and disease ridden of carcasses. It is a wonder, then, how their internal systems overcome the pestilence that claims these lands.\n\nAssist me in my studies, Adventurer! Gizzards I need! Two snickerfang jowls will also be required for the base of the concoction.\n\nYou shall be rewarded two-fold for your efforts.",
+  "files": [
+   "quests/2603-accept"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "241a77d0d0f4",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Bloodmage Lynnore",
+  "quest": "Vulture's Vigor",
+  "en": "Most excellent! I shall get to work immediately. Perhaps a cure for many of the ailments of the world is to be found!\n\nAh yes, your reward - of course, should you require more of the gum, return to me and another task you shall be given.",
+  "files": [
+   "quests/2603-complete"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "f4a0e1790c20",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "You Are Rakh'likh, Demon",
+  "en": "Razelikh's lair is atop the highest mountain in the Blasted Lands. The only way to the lair is through the use of the teleport runes near the mountain. As long as you hold the amulet, you can freely transport up to the lair. Once you reach the lair, you must conjure the beast. The amulet is your key, Adventurer. Use it on the Altar of the Defiler.\n\nShould you defeat the Defiler, bring back his horn. It will become a symbol of hope for all that view it - proof that heroes do exist in this war torn world.",
+  "files": [
+   "quests/3628-accept"
+  ],
+  "uiMap": 1419
+ },
+ {
+  "id": "ad00e0a64898",
+  "zone": "blasted-lands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "You Are Rakh'likh, Demon",
+  "en": "Today is a day that will be remembered for all eternity. The demonic overlord of the Blasted Lands has finally fallen!",
+  "files": [
+   "quests/3628-complete"
+  ],
+  "uiMap": 1419
+ }
+]

@@ -1,0 +1,2802 @@
+[
+ {
+  "id": "b25d2a0fdb60",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Helbrim",
+  "quest": null,
+  "en": "The Barrens holds a wealth of substances for which we, the apothecaries or Lordaeron, may find use.",
+  "files": [
+   "gossip/70a6f22a823c6bf980331f94c44faaf3"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "3568d488cf6c",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Baine Bloodhoof",
+  "quest": null,
+  "en": "The land has been good to our people, adventurer. We must be thankful for our good fortune.",
+  "files": [
+   "gossip/3e8c53aa855468f12565cf09eda25b72"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "40239eb73079",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Beaten Corpse",
+  "quest": null,
+  "en": "You turn the body over and see the marks from blades and spells upon the deceased orc--her armor all but destroyed, her hair matted to her face.\n\nBased on Mankrik's description of her, there is no doubt in your mind that this was his wife.\n\nHe will be upset by the news, but you are sure he should know the truth.",
+  "files": [
+   "gossip/234801d843bf8cf2c310d7552c3d58d3"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "6a02c59ef0cc",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Beaten Corpse",
+  "quest": null,
+  "en": "The body is that of a female orc warrior.\n\nIt is clear that she died in battle, probably against the quilboar in the area.",
+  "files": [
+   "gossip/3b33513dae45313b3f3adfa0fe9a92e2"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "6c426efd2207",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Which profession?",
+  "files": [
+   "gossip/4a850dc32d00c265e503622c595cebf4"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "dd2cff04f8ff",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "What are you looking for?",
+  "files": [
+   "gossip/b3d11178772212cc804676804bb92ca1"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "b08f2917b027",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Which trainer do you seek?",
+  "files": [
+   "gossip/c5fec459a17d0b54dc8cfb9f0c9066ae"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "3b7614fede35",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "What are you looking for?",
+  "files": [
+   "gossip/00194bd1912d495a809752f13911ce30"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "e06946141db5",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "It is Gennia Runetotem's counsel that you seek. You will find her in the large tent on the east side of the village.",
+  "files": [
+   "gossip/0c40ff0ebe77be70ce1a62dc6ed9cea5"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "d0d8bb83865c",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "The way of the Druid is sibling to the Shaman. Gennia Runetotem is steeped in such knowledge. Seek her out in the large tent on the east side of Bloodhoof Village.",
+  "files": [
+   "gossip/1847fdcddef3e68075875dabef0e92ec"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "36a17f77a7b4",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "There is a Blacksmithing Trainer in our great home Thunder Bluff to the north. If you seek such knowledge then head there and ask one of the Bluffwatchers for directions.",
+  "files": [
+   "gossip/20fe8dafb1b652eedfa130fe89774396"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "0ee25f413a61",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "There is a large tent on the east side of Bloodhoof Village. You will find Narm Skychaser awaiting you there.",
+  "files": [
+   "gossip/2cc8a84851d7a88a809391efe90970e2"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "b8917cdab72b",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "Away to Thunder Bluff to the north is where your journey takes you then friend. Once there seek out the wisdom of one of the Bluffwatchers who can tell you directly where to find whom you seek.",
+  "files": [
+   "gossip/342039144f9b83811abcd0fc69301c5d"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "842e5250225b",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "Give a bull a fish and feed him for a day. Teach a bull to fish and feed him for life. Uthan Stillwater can teach you how to fish. Seek his wisdom west of Bloodhoof Village along the banks of Stonebull Lake.",
+  "files": [
+   "gossip/36df698748e90c5d62441b1b2b971913"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "6cb12cd7c63c",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "Ah yes, it is Seikwa that you must find. I believe I saw her last standing out in front of the inn.",
+  "files": [
+   "gossip/4b846af59d88843ba65c5b14298e254e"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "9556eb9e5429",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "Nothing frees the spirit like soaring through the sky. There is such a place in our great tribal center Thunder Bluff. The road north out of Bloodhoof Village will guide you there. Once you ride the elevator to the top speak with one of the Bluffwatchers who can give you further directions.",
+  "files": [
+   "gossip/4cf39374ff7284a5b21cfc6b497fab6b"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "c13662591b15",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "Which profession?",
+  "files": [
+   "gossip/4deee9d3ecac92ac21b2a2f5401711e6"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "48fcc4d6846d",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "You will find Pyall Silentstride inside the great tent in the northwest corner of the village. He can teach you what you crave.",
+  "files": [
+   "gossip/5c95413a6633181b565858b1815a5303"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "5f44f14e77fc",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "My mouth waters just to think on it. Pyall Silentstride is the finest cook in Bloodhoof Village. You will find him in the great tent at the northwest corner of the village.",
+  "files": [
+   "gossip/60277780cb1e0c01412eb7a031a0ca2e"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "68380dc96544",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "Such wisdom is steeped in a mystery that can only be found in great Thunder Bluff. Follow the path north out of Bloodhoof Village until you come to an elevator at the base of the bluffs. Ride it to the top and ask one of the Bluffwatchers for further assistance.",
+  "files": [
+   "gossip/66caf9c27f97efdb42edc70cc18be649"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "660026ef7b70",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "Tailoring you say? Hmmm. Ah yes, of course. You'll need to head to Thunder Bluff, up north. Take the path out of the village to get there. When you arrive at the base of the bluffs ride the elevator to the top of the rise and speak with one of the Bluffwatchers.",
+  "files": [
+   "gossip/6bbecd1d0a266d717b54a938edbfcf57"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "de452de96023",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "I hear that they have a Mining Trainer in Thunder Bluff to the north. Take the road out of the village and when you get there ride the elevator to the top of the rise. Any of the Bluffwatchers should be able to help you from there.",
+  "files": [
+   "gossip/7143577bcefa4d0e783529cbdba526b2"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "72d756249d70",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "Inside the great tent at the northwest corner of the village is where Chaw Stronghide resides. He will teach you what you must know of Leatherworking for now.",
+  "files": [
+   "gossip/72d3b9186e1596ba056ea710fc81ecf6"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "afe554d8cfdc",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "If it is the way of the Warrior that you crave then you must seek out Krang Stonehoof. You will find him in the southeast corner of the village at his training circle, often instructing his other students.",
+  "files": [
+   "gossip/8561b5ef70805de6adb31be7df0beb1b"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "197ae1dbd0fa",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "Yonn Deepcut can be found inside the great tent at the northwest corner of Bloodhoof Village.",
+  "files": [
+   "gossip/8dae139ad18d57d82ef08b6478035261"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "11f852367a5c",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "When we use the hides of the animals we must fell for food or protection we give honor to the Earth Mother and respect to the animal. Chaw Stronghide can teach you of such things. You will find him in the great tent at the northwest corner of Bloodhoof Village.",
+  "files": [
+   "gossip/8f17e662420dec70b168bb432ce2a11f"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "b74822303cce",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "There is a wise one in the village who goes by the name Narm Skychaser. He can continue your learning along the path of the Shaman.",
+  "files": [
+   "gossip/96139546004881a4294304b598ccc1bd"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "c5baccc09670",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "Unfortunately we do not have one who teaches Tailoring here in Bloodhoof Village, but you can find a trainer in Thunder Bluff. Follow the path north out of the village until you come to a set of elevators. Take one up to the top of the rise and ask one of the Bluffwatchers there for directions.",
+  "files": [
+   "gossip/96adccaa34d859c8a885b02f148efebd"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "74da80b1c8d8",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "Ah, you must go to the great heights of Thunder Bluff to visit one of those. Follow the path north out of Bloodhoof Village. At the base of the bluffs is an elevator that will take you to the top. When you get there ask for further directions from one of the Bluffwatchers.",
+  "files": [
+   "gossip/9e59faa86e4dae4d1725cb773a40ef48"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "c23250ce64fb",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "We have no such place in the village. The soaring heights of Thunder Bluff does though. Head north up the road out of Bloodhoof Village until you come to the base of the bluffs. There ride the elevator to the top and speak with a Bluffwatcher. May your ancestors watch over you.",
+  "files": [
+   "gossip/a07a2212481a399576ae9fe06a7f42c1"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "a3a6820b3eb4",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "Krang Stonehoof stands astride his training circle at the southeast corner of the village.",
+  "files": [
+   "gossip/b2a8c34179a4d841383ff97395514958"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "d06093861880",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "There are those that would teach you of Herbalism in the great home of Thunder Bluff away to the north. Follow the road out of the village to get there and at the base of the bluff ride the elevator to the top of the rise. There are many Bluffwatchers there who can direct you further.",
+  "files": [
+   "gossip/b6bf43efd45295b67a4a5fec348bcbfb"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "7859eae0d4ae",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "Hmmm, I think you will need to go up to Thunder Bluff to learn that. Head north on the road out of Bloodhoof Village. It will take you to the base of Thunder Bluff. Ride the elevator to the top and you should be able to ask any of the Bluffwatchers there for further assistance.",
+  "files": [
+   "gossip/b87378d05f06dc5aa6854e33a9d1da1f"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "4b07b72f920b",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "To learn to be one with Nature in the eyes of the Earth Mother, this is a matter of pride. If your will is to learn the ways of the Hunter you must seek out Yaw Sharpmane at the north end of Bloodhoof Village.",
+  "files": [
+   "gossip/bf3892655633ebde448465a11f22228f"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "8aea0f4d9251",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "While we have no Alchemy Trainer here in Bloodhoof Village, there is one in Thunder Bluff to the north. Follow the road there and ask one of the Bluffwatchers for directions when you get to the top.",
+  "files": [
+   "gossip/c3af611102860e167bee51a4ceaeac25"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "5d8699d75008",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "You desire to shape the bones of the Earth Mother into tools that will aid the Horde. Good, good. Follow the path north out of Bloodhoof Village until you come to the elevator leading to the top of Thunder Bluff. A Bluffwatcher there can give you further assistance.",
+  "files": [
+   "gossip/caa3688c962307b9b36884353c132080"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "f85a847ff4aa",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "If you desire to learn the ways of Herbalism then it is to Thunder Bluff that you must go. Follow the road north out of Bloodhoof Village and take the elevator to the top of the rise. You can ask a Bluffwatcher there for further assistance.",
+  "files": [
+   "gossip/ce8bb67e85d7a847e3207905f6b1109b"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "08d6bb239e6d",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "Which trainer do you seek?",
+  "files": [
+   "gossip/cfe020697f1863a2bc8a41431401f702"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "34d8acce2d95",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "Using the fruits of the Earth Mother to create potions to aid us in our eternal struggle is an honorable endeavor. To learn of this you must travel north to our great home of Thunder Bluff. When you arrive at the top seek out the assistance of one of the Bluffwatchers for more specific directions.",
+  "files": [
+   "gossip/d0fa2619a007e29f2bcfcd0e5820bc3f"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "c1810d245773",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "Bandages, anti-venoms and such things, these are the inevitable necessities of life on the plains. Vira Younghoof can teach you this knowledge. You can find her in the long house on the west side of Bloodhoof Village.",
+  "files": [
+   "gossip/d70aa339a19f08bb3a1f9cc6bec76f6a"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "2163b442ff6e",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "Innkeeper Kauth can see to your needs. He can be found on the west side of the village in one of the long houses.",
+  "files": [
+   "gossip/d8529bed329ec6d3ba33e0046164fc29"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "6b24ed4d7985",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "There is a time and a place for all things, including relaxation. On the west side of Bloodhoof Village Innkeeper Kauth maintains a long house for those who seek to rest. You will find him there.",
+  "files": [
+   "gossip/dbbfad5e8e294f119b31f17d69011c77"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "e77facca3f0d",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "Ah yes, Skinning. There is no one finer in wielding a skinning knife than Yonn Deepcut. You can find him in the great tent at the northwest corner of the village.",
+  "files": [
+   "gossip/e3314daab9e334b6f1e7993a6167eff9"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "ca2c84a263cb",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "There is a Wind Rider Master in the great city of Thunder Bluff to the north. Ride the elevator from the base of Thunder Bluff to the top and ask one of the Bluffwatchers there for further instructions.",
+  "files": [
+   "gossip/eaaf7438e186e62ee1ea9c69523e1696"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "2deab02c9ea1",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "Vira Younghoof keeps her practice inside the long house on the west side of the village.",
+  "files": [
+   "gossip/ee9dc1161bbd06619acbadaa1ca2b2f0"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "2fab720b9453",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "Seikwa can take care of your animal friends when you have the need. Seek her out in front of the inn.",
+  "files": [
+   "gossip/fe99a91596ce335846112023b5594460"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "37e0ef04c2ef",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "You are looking for Uthan Stillwater. You will find him west of the village, fishing at Stonebull Lake.",
+  "files": [
+   "gossip/fee6da195cf9ff2a6c9a1d6acd19b3c7"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "11827e92aafe",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Dawneagle",
+  "quest": null,
+  "en": "Yaw Sharpmane awaits you on the north edge of the village. He can teach you the ways of the Hunter.",
+  "files": [
+   "gossip/ff13d0d3ffce0e3452bba6d278dd54de"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "61fed34bebe4",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "Innkeeper Kauth can see to your needs. He can be found on the west side of the village in one of the long houses.",
+  "files": [
+   "gossip/07ac0c881242c277b1b4be65bb1bb779"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "7ba6fe82a1bc",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "Krang Stonehoof stands astride his training circle at the southeast corner of the village.",
+  "files": [
+   "gossip/14d4e5dc44125fe42705f2ed118e5aed"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "781cf4601972",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "My mouth waters just to think on it. Pyall Silentstride is the finest cook in Bloodhoof Village. You will find him in the great tent at the northwest corner of the village.",
+  "files": [
+   "gossip/1c9e8d41e271bfa8a081921047868b8c"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "8f9518c01218",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "There are those that would teach you of Herbalism in the great home of Thunder Bluff away to the north. Follow the road out of the village to get there and at the base of the bluff ride the elevator to the top of the rise. There are many Bluffwatchers there who can direct you further.",
+  "files": [
+   "gossip/201f3cba26808c32bb7ee62dfa628e09"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "bc594fb4892c",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "To learn to be one with Nature in the eyes of the Earth Mother, this is a matter of pride. If your will is to learn the ways of the Hunter you must seek out Yaw Sharpmane at the north end of Bloodhoof Village.",
+  "files": [
+   "gossip/21ee90ef1c873dcee3c9e57987f0dab4"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "b17979184d47",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "There is a Blacksmithing Trainer in our great home Thunder Bluff to the north. If you seek such knowledge then head there and ask one of the Bluffwatchers for directions.",
+  "files": [
+   "gossip/302142138778affead2a13087925b7b1"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "e22ce582fb16",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "Bandages, anti-venoms and such things, these are the inevitable necessities of life on the plains. Vira Younghoof can teach you this knowledge. You can find her in the long house on the west side of Bloodhoof Village.",
+  "files": [
+   "gossip/3134d4a4d8b645aeefba37aba15985b7"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "961448511848",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "Such wisdom is steeped in a mystery that can only be found in great Thunder Bluff. Follow the path north out of Bloodhoof Village until you come to an elevator at the base of the bluffs. Ride it to the top and ask one of the Bluffwatchers for further assistance.",
+  "files": [
+   "gossip/360397b474c43b7dcab78b62333d6ac1"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "287197c499e2",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "If it is the way of the Warrior that you crave then you must seek out Krang Stonehoof. You will find him in the southeast corner of the village at his training circle, often instructing his other students.",
+  "files": [
+   "gossip/37885a7674244dd6e4cdeec2c68f5685"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "61b73dfac0f1",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "Seikwa can take care of your animal friends when you have the need. Seek her out in front of the inn.",
+  "files": [
+   "gossip/38fd4c76a36f825f232997fc50761870"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "433f1671ea16",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "There is a large tent on the east side of Bloodhoof Village. You will find Narm Skychaser awaiting you there.",
+  "files": [
+   "gossip/460e9ebf106048fdb04f6a2f81157b23"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "316bc0df4221",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "Yaw Sharpmane awaits you on the north edge of the village. He can teach you the ways of the Hunter.",
+  "files": [
+   "gossip/4c1b626c145d8077c5aa2db55852dcfa"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "714518a45339",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "Ah yes, it is Seikwa that you must find. I believe I saw her last standing out in front of the inn.",
+  "files": [
+   "gossip/4e99c32785b303ece538f803ff4fcb96"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "b2e1e6400ed4",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "Vira Younghoof keeps her practice inside the long house on the west side of the village.",
+  "files": [
+   "gossip/4f5f7ae4d60dbe2bd1bf43b0ad2e8786"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "033a8669dc2c",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "You are looking for Uthan Stillwater. You will find him west of the village, fishing at Stonebull Lake.",
+  "files": [
+   "gossip/50f0680942e77b17d91b589f7a3a11f1"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "b22759140a79",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "If you desire to learn the ways of Herbalism then it is to Thunder Bluff that you must go. Follow the road north out of Bloodhoof Village and take the elevator to the top of the rise. You can ask a Bluffwatcher there for further assistance.",
+  "files": [
+   "gossip/52d1b670cce86f12a40bdf74b938d00d"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "adb9d3df56ce",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "The way of the Druid is sibling to the Shaman. Gennia Runetotem is steeped in such knowledge. Seek her out in the large tent on the east side of Bloodhoof Village.",
+  "files": [
+   "gossip/6c2a1f69d196c4657a53b7c110c61e4c"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "ef9b00d56ea9",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "Away to Thunder Bluff to the north is where your journey takes you then friend. Once there seek out the wisdom of one of the Bluffwatchers who can tell you directly where to find whom you seek.",
+  "files": [
+   "gossip/7c186bc25b44ca7d456a044d9c8671a4"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "45d291fd55e2",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "Ah yes, Skinning. There is no one finer in wielding a skinning knife than Yonn Deepcut. You can find him in the great tent at the northwest corner of the village.",
+  "files": [
+   "gossip/822d9c5197a44204042199ef7be11a36"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "229dde326421",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "While we have no Alchemy Trainer here in Bloodhoof Village, there is one in Thunder Bluff to the north. Follow the road there and ask one of the Bluffwatchers for directions when you get to the top.",
+  "files": [
+   "gossip/83cd87a9bd04fe41340d47a6a3863fb1"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "9cb0ade8744d",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "Yonn Deepcut can be found inside the great tent at the northwest corner of Bloodhoof Village.",
+  "files": [
+   "gossip/951cf972b72fa8a3afed83790bceb3f0"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "03bbd5bb1ba8",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "Ah, you must go to the great heights of Thunder Bluff to visit one of those. Follow the path north out of Bloodhoof Village. At the base of the bluffs is an elevator that will take you to the top. When you get there ask for further directions from one of the Bluffwatchers.",
+  "files": [
+   "gossip/9e546e689233ec91191a43a7e36c67f5"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "1db55ff19ff8",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "You will find Pyall Silentstride inside the great tent in the northwest corner of the village. He can teach you what you crave.",
+  "files": [
+   "gossip/a234d4b10d5440d815b7b7172e8e8687"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "067bbc28da3d",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "Give a bull a fish and feed him for a day. Teach a bull to fish and feed him for life. Uthan Stillwater can teach you how to fish. Seek his wisdom west of Bloodhoof Village along the banks of Stonebull Lake.",
+  "files": [
+   "gossip/a50a61ff9211f062ebc4c78f9fccc5f6"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "632f7e3972f2",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "Tailoring you say? Hmmm. Ah yes, of course. You'll need to head to Thunder Bluff, up north. Take the path out of the village to get there. When you arrive at the base of the bluffs ride the elevator to the top of the rise and speak with one of the Bluffwatchers.",
+  "files": [
+   "gossip/aae10fc784263c4cb468d55cea4fd71e"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "5ed6a092034e",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "There is a wise one in the village who goes by the name Narm Skychaser. He can continue your learning along the path of the Shaman.",
+  "files": [
+   "gossip/af5b82f4f5903c5285a8c966bbd9396d"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "d924f0702fb5",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "There is a Wind Rider Master in the great city of Thunder Bluff to the north. Ride the elevator from the base of Thunder Bluff to the top and ask one of the Bluffwatchers there for further instructions.",
+  "files": [
+   "gossip/b0b81da2b32d5fdbc23302be9744240a"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "8e2a537a6b32",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "Unfortunately we do not have one who teaches Tailoring here in Bloodhoof Village, but you can find a trainer in Thunder Bluff. Follow the path north out of the village until you come to a set of elevators. Take one up to the top of the rise and ask one of the Bluffwatchers there for directions.",
+  "files": [
+   "gossip/bbf8a87da18419b0d4c795a3f40babb6"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "293269517e69",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "Hmmm, I think you will need to go up to Thunder Bluff to learn that. Head north on the road out of Bloodhoof Village. It will take you to the base of Thunder Bluff. Ride the elevator to the top and you should be able to ask any of the Bluffwatchers there for further assistance.",
+  "files": [
+   "gossip/bd7be540acfdb0455e58364636e73dda"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "6bccf891420d",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "We have no such place in the village. The soaring heights of Thunder Bluff does though. Head north up the road out of Bloodhoof Village until you come to the base of the bluffs. There ride the elevator to the top and speak with a Bluffwatcher. May your ancestors watch over you.",
+  "files": [
+   "gossip/c61c8d0a95bbdd9d8df4d9db44c53e73"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "b0c58dae8f94",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "There is a time and a place for all things, including relaxation. On the west side of Bloodhoof Village Innkeeper Kauth maintains a long house for those who seek to rest. You will find him there.",
+  "files": [
+   "gossip/d0fbd1df4ebdde74721d6f5659827225"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "986b4392b50f",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "It is Gennia Runetotem's counsel that you seek. You will find her in the large tent on the east side of the village.",
+  "files": [
+   "gossip/dce81535973ad9064578c7dc07d654a1"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "9f73f8fa3db3",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "You desire to shape the bones of the Earth Mother into tools that will aid the Horde. Good, good. Follow the path north out of Bloodhoof Village until you come to the elevator leading to the top of Thunder Bluff. A Bluffwatcher there can give you further assistance.",
+  "files": [
+   "gossip/e150bdb40bb2ad6d87a0d8460847996a"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "9c1db1af7242",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "When we use the hides of the animals we must fell for food or protection we give honor to the Earth Mother and respect to the animal. Chaw Stronghide can teach you of such things. You will find him in the great tent at the northwest corner of Bloodhoof Village.",
+  "files": [
+   "gossip/e1efe823ee30b1c010852c13a53cb700"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "28adb340c218",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "Nothing frees the spirit like soaring through the sky. There is such a place in our great tribal center Thunder Bluff. The road north out of Bloodhoof Village will guide you there. Once you ride the elevator to the top speak with one of the Bluffwatchers who can give you further directions.",
+  "files": [
+   "gossip/e3b119cda97abe5ee10979d688350484"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "20a92c3359ea",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "I hear that they have a Mining Trainer in Thunder Bluff to the north. Take the road out of the village and when you get there ride the elevator to the top of the rise. Any of the Bluffwatchers should be able to help you from there.",
+  "files": [
+   "gossip/e6cb4ccc587cd2a258b3ded78ae7a3f0"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "e0858f3e5c42",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "Using the fruits of the Earth Mother to create potions to aid us in our eternal struggle is an honorable endeavor. To learn of this you must travel north to our great home of Thunder Bluff. When you arrive at the top seek out the assistance of one of the Bluffwatchers for more specific directions.",
+  "files": [
+   "gossip/f53e995a55576c4dc433b9e11460ad87"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "8fb1ec6c0de1",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Ironhorn",
+  "quest": null,
+  "en": "Inside the great tent at the northwest corner of the village is where Chaw Stronghide resides. He will teach you what you must know of Leatherworking for now.",
+  "files": [
+   "gossip/f68fe1ab41731a31f4c94d358440f989"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "45de6c2faac0",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Chaw Stronghide",
+  "quest": null,
+  "en": "We live and die, and the land remains, eternal, unmoved by our passage. Thus, land cannot belong to us, adventurer. Instead, we belong to it. Therefore we protect the land, for without it we cannot hope to survive.",
+  "files": [
+   "gossip/9802c328fee5a83bc01704102bf807c7"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "9ded5d701e61",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Chaw Stronghide",
+  "quest": null,
+  "en": "You have outgrown any teachings I could offer. Go with the blessing of the Earth Mother. Seek out the tauren Tarn in the northwestern shops of Thunder Bluff's central plateau. Be guided by his wisdom.",
+  "files": [
+   "gossip/e5c3faa7754d65e972344cb259b1aec1"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "164d2d88f178",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Chaw Stronghide",
+  "quest": null,
+  "en": "Meat, skin, bones... a good hunter lets nothing go to waste. Every scrap of leather can be salvaged, perhaps to reinforce an ally's armor. Thus, each of us is strong alone, but together we become invincible.",
+  "files": [
+   "gossip/f13238d0343549166ee185d5c7b13512"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "29524f9a2a10",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Chief Hawkwind",
+  "quest": null,
+  "en": "Hail, adventurer. In my years I have seen many eager tauren who wish to prove their worth to the tribe. It should not be forgotten that eagerness is no substitute for wisdom and experience.",
+  "files": [
+   "gossip/23184afbbe624fbbe9500ad0be33ec26"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "5150fed4f426",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Devrak",
+  "quest": null,
+  "en": "My wind riders are trained to fly quickly through the hot Barrens air.",
+  "files": [
+   "gossip/27c5a394b6b942d2aa0a5871fb44a353"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "508f014d4047",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder Bloodhoof",
+  "quest": null,
+  "en": "Elder Proudhorn is enjoying the vistas above Mulgore at Thunder Bluff.",
+  "files": [
+   "gossip/3ce8affbd052994a38e875471b5a16f5"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "6860e967c1b6",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder Bloodhoof",
+  "quest": null,
+  "en": "Elder High Mountain is at Camp Taurajo in the Barrens.",
+  "files": [
+   "gossip/a0411c5dc5eae28773e27f86119bc416"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "afddc343e348",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder High Mountain",
+  "quest": null,
+  "en": "Elder Windtotem is keeping company with the goblins of Ratchet on the coast of the Barrens.",
+  "files": [
+   "gossip/067d65e3c2fbe8eb4e1a2388861b3326"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "2077e6a3aac5",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder High Mountain",
+  "quest": null,
+  "en": "Elder Morningdew has taken to watching the commotion at the Mirage Raceway in Thousand Needles.",
+  "files": [
+   "gossip/399dfef350a5c3ab09628627c7547583"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "d93d65bca20b",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder High Mountain",
+  "quest": null,
+  "en": "Elder Moonwarden is observing the Crossroads in the Barrens.",
+  "files": [
+   "gossip/75131cdcf295a1977f67f9c00d3cf8d4"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "17138cd1865e",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder High Mountain",
+  "quest": null,
+  "en": "Last I heard, Elder Runetotem was traveling to Razor Hill in Durotar.",
+  "files": [
+   "gossip/93c823818f1191274628210cac34bb35"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "61a711d8a658",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder High Mountain",
+  "quest": null,
+  "en": "In days long past, we lived for the hunt. We hunted for glory, for honor...\n\nIs it so different now?",
+  "files": [
+   "gossip/956f33a41a2b943e6bf70d43377dc266"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "fb603b0d28fe",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder High Mountain",
+  "quest": null,
+  "en": "Elder Bloodhoof can be found at Bloodhoof Village in Mulgore.",
+  "files": [
+   "gossip/ee07ebc245b5c268805f6d35781945cd"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "87ea92c277be",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elder Moonwarden",
+  "quest": null,
+  "en": "Elder Bloodhoof can be found at Bloodhoof Village in Mulgore.",
+  "files": [
+   "gossip/295f23d073642ffe0c3fea1e84a03482"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "70eb549a7892",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elder Moonwarden",
+  "quest": null,
+  "en": "Last I heard, Elder Runetotem was traveling to Razor Hill in Durotar.",
+  "files": [
+   "gossip/4f0cec911b29675190c83a33008efd07"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "7cb6d047f27f",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elder Moonwarden",
+  "quest": null,
+  "en": "Elder Windtotem is keeping company with the goblins of Ratchet on the coast of the Barrens.",
+  "files": [
+   "gossip/52cb0013bbbc659e2c7256d41bdab138"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "394c69e7f4d5",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elder Moonwarden",
+  "quest": null,
+  "en": "Elder Morningdew has taken to watching the commotion at the Mirage Raceway in Thousand Needles.",
+  "files": [
+   "gossip/8ca204f1aa7e67e77cdba04e50e02902"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "a1bf9b9a5c01",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elder Moonwarden",
+  "quest": null,
+  "en": "Elder High Mountain is at Camp Taurajo in the Barrens.",
+  "files": [
+   "gossip/e203cef5ebe9d4572e8bda507ec1814f"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "533342a05729",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Gann Stonespire",
+  "quest": null,
+  "en": "Yes, I have seen the shaman you seek. Last I saw her, she was to the west of here. She hides in the hills above the Razormane tribe. If you're clever, you'll be able to find a path to her hut in the hills. It is not too far north of here. That path should allow you to find her without fighting through the quilboar.",
+  "files": [
+   "gossip/352919ecdb6b9b239ce6b40f838cf528"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "606e1e54de86",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Gann Stonespire",
+  "quest": null,
+  "en": "I walk this road alone, seeking ways to defend my honor and rid this land of our enemies.\n\nWhat can I do for you, adventurer?",
+  "files": [
+   "gossip/8f91f2acecd0ce7ec9e9398bfec0d760"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "83e49fef8ca5",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Gart Mistrunner",
+  "quest": null,
+  "en": "Many are the paths of the Earth Mother. May your ancestors watch over you adventurer.",
+  "files": [
+   "gossip/b6f4bdc2a8d3684c359c1880591a1f0c"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "5dff7358e15f",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Gart Mistrunner",
+  "quest": null,
+  "en": "adventurer, how may I further your training in the eyes of the Earth Mother?",
+  "files": [
+   "gossip/f316fce98de9499e71406388009e60c4"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "b22dd7578e94",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Gennia Runetotem",
+  "quest": null,
+  "en": "We work to preserve the balance as Cenarius teaches, adventurer. His is the light of a beacon that shows the way for us, and we must do everything in our power to preserve that light.",
+  "files": [
+   "gossip/4346d3d89406f259d67b448273c50839"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "ce0bd687639f",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Gennia Runetotem",
+  "quest": null,
+  "en": "Welcome, my brother. If you are here to train, then I would be delighted to train you.\n\nWe are the preservers of the balance, now and forever, as Cenarius has taught us. Never forget this.",
+  "files": [
+   "gossip/m-63bd6c629838bc3014277633d29e8dd1"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "ad5559b56b0a",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Grull Hawkwind",
+  "quest": null,
+  "en": "Greetings, Adventurer, and welcome to Camp Narache. News of your arrival spread quickly among the tribe.",
+  "files": [
+   "gossip/20e50f7907859f3c67714458b3ebf738"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "ec962e8883cb",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Harb Clawhoof",
+  "quest": null,
+  "en": "Kodo beasts, my friend! Trained from a young age and raised on the Golden Plains of Mulgore, these fine animals will make even finer steeds! Please, browse my selection, and see for yourself why we taurens have come to rely on these magnificant creatures!",
+  "files": [
+   "gossip/6ad7b860a7e349ed33a00b378002bd6a"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "4a4de09f88eb",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Harb Clawhoof",
+  "quest": null,
+  "en": "You are not known to my people. A kodo is a mighty steed, and it is the product of love and care by my people; such is not given onto strangers. Until the elders of Thunder Bluff consider you to be exalted, I cannot offer you the sale of a kodo.",
+  "files": [
+   "gossip/e697b765d9a3d2d0863bbd1489325a14"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "91bbc85dc5b0",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Blackrock Mountain lies between Searing Gorge in the north and Burning Steppes in the south.",
+  "files": [
+   "gossip/105703cf3292f20db785559210529138"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "39d89ba6b259",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Frustrated by the Dalaran wizards' lack of progress against the undead during the Third War, the Archmage Arugal elected to summon the extra-dimensional worgen to bolster his side's diminishing ranks. The wolf-men slaughtered the Scourge, then quickly turned on the wizards themselves and laid siege to the keep of the noble, Baron Silverlaine. The fort quickly fell into shadow and ruin. Driven mad with guilt, Arugal adopted the worgen as his children and retreated to the newly dubbed 'Shadowfang Keep'.",
+  "files": [
+   "gossip/131cac36cbe3c50c8b0b73b5a5cc8e31"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "8d57baf9f80a",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "This sun-blasted city is home to the Sandfury trolls, known for their particular ruthlessness and dark mysticism. Troll legends tell of a powerful sword called Sul'thraze the Lasher, a weapon capable of instilling fear and weakness in even the most formidable of foes. Long ago, the weapon was split in half. However, rumors have circulated that the two halves may be found somewhere within Zul'Farrak's walls.",
+  "files": [
+   "gossip/134711fa5dcb6d2514b7dd12cb58353f"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "bb45ef77794f",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Shadowfang Keep is in southern Silverpine just north of Pyrewood Village.",
+  "files": [
+   "gossip/15cc28e6650ead1cf3c24a21428162eb"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "3a336dec3af4",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Recently, a night elf druid named Naralex discovered a network of underground caverns within the heart of the Barrens. Believing he could use the caverns' springs to restore lushness to the Barrens, the druid began siphoning the energies of the fabled Emerald Dream. His vision somehow became a nightmare, however, and soon the Wailing Caverns changed into a den of vicious, deadly predators. It is said that Naralex still resides somewhere inside the labyrinth, trapped beyond the edges of the Emerald Dream.",
+  "files": [
+   "gossip/1631876c10990f6b69fb643f319f15da"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "cc4181e4dcd2",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Crafted from the same vines as Razorfen Kraul, Razorfen Downs is the traditional capital city of the quilboar race. The sprawling, thorn-ridden labyrinth houses a veritable army of loyal quilboar as well as their high priests - the Death's Head tribe. Recently, however, a looming shadow has fallen over the crude den. Agents of the undead Scourge - led by the lich, Amnennar the Coldbringer - have taken control over the quilboar race and turned the maze of thorns into a bastion of undead might.",
+  "files": [
+   "gossip/1efdcf0d1f0182cadd7e556c2271b952"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "8b02e023b72c",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "The monastery was once a center for learning and enlightenment. With the rise of the undead Scourge during the Third War, the peaceful Monastery was converted into a stronghold of the fanatical Scarlet Crusade. The Crusaders are intolerant of all non-human races, regardless of alliance or affiliation. They believe that any and all outsiders are potential carriers of the undead plague - and must be destroyed.",
+  "files": [
+   "gossip/2669d18d8bca0062b048b5b892ff56be"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "9f6a4ac466a4",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "The Deadmines can be found beneath Moonbrook in the south of Westfall.",
+  "files": [
+   "gossip/2761a549194820781531b07e3ccf0a6f"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "71fd6dc5df29",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "The Scholomance is housed in crypts beneath the Caer Darrow keep. Once owned by the noble Barov family, the keep fell to ruin after the Second War. As the wizard Kel'Thuzad enlisted followers for his Cult of the Damned, he often promised immortality for those who served his Lich King. The Barovs fell to his influence and donated their keep, but the cultists killed the family and turned the crypts into a school of necromancy. Though Kel'Thuzad no longer resides there, cultists and instructors still remain.",
+  "files": [
+   "gossip/2ace78d92e3daa88d503880d61a8825e"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "9053f8ce8b78",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Situated along the Zoram Strand of Ashenvale, Blackfathom Deeps was once a glorious temple dedicated to the night elves' moon-goddess Elune. However, the great Sundering shattered the temple - sinking it beneath the waves of the Veiled Sea. There it remained untouched - until, drawn by its ancient power - the naga and satyr emerged to plumb its secrets. Legends hold that the ancient beast, Aku'mai, has taken up residence within the temple's ruins.",
+  "files": [
+   "gossip/2d70ab98f838e1bb06030fcf93158968"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "d6a7ca08f47b",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Gnomeregan can be found in western Dun Morogh.",
+  "files": [
+   "gossip/3a31427822c5fa1a87c7a675bd12855e"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "657bf1eb6321",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "The ruins of Dire Maul stand in central Ferelas.",
+  "files": [
+   "gossip/3e983a22901faae3beabe07a57c404e1"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "926597693ebc",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Cairne, Sylvanas and Thrall.",
+  "files": [
+   "gossip/40835d72adb6d19a66d4db7eaf7b44e6"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "1c05168bcd54",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Blackfathom Deeps can be found at the north end of Zoram Strand along the coast of Ashenvale.",
+  "files": [
+   "gossip/421a85045f22b0366436f5c512836a4b"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "09fde8be0204",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "The Wailing Caverns has its entrance at the Lushwater Oasis southwest of Crossroads in the Barrens.",
+  "files": [
+   "gossip/473bac4f85c8b79c1dd5b392e510c6c1"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "79b972bfc53f",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "The School for Necromancy known as Scholomance is on the ruined island of Caer Darrow in the Western Plaguelands.",
+  "files": [
+   "gossip/4d0ece2f2228a1a4c22ff7047c560d51"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "f1b25b9cc12f",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Ragefire Chasm can be found beneath the Shadow Cleft in the center of Orgrimmar.",
+  "files": [
+   "gossip/5699ecf40556711f57d029b802122744"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "979439f58479",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Ragefire Chasm consists of a network of volcanic caverns below the orcs' new capital city of Orgrimmar. Recently, rumors have spread that a cult loyal to the demonic Shadow Council has taken up residence within the Chasm's fiery depths. This cult, known as the Burning Blade, threatens the very sovereignty of Durotar. Many believe that the orc Warchief Thrall is aware of the Blade's existence and has chosen not to destroy it in the hopes that its members might lead him straight to the Shadow Council.",
+  "files": [
+   "gossip/579d342215c9b859125b292dde81b3dd"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "9a4d43c7d47c",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "The Stormwind Stockades are found near the mage quarter in Stormwind.",
+  "files": [
+   "gossip/5d241a73257b83bfb3f2a35e6c559cb8"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "dae25db324ed",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Located in Dun Morogh, Gnomeregan has been the gnomes' capital city for generations, though it was recently infested by mutant troggs. In a desperate attempt to retaliate, High Tinker Mekkatorque ordered the emergency venting of the city's radioactive waste tanks. Though the troggs became irradiated, their siege continued unabated and the gnomes were forced to seek refuge in the dwarven city of Ironforge, where the High Tinker now enlists brave souls to help his people reclaim their beloved city.",
+  "files": [
+   "gossip/5d58291140199149e578fcbfbeed18cf"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "e7a65980ea11",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Over a thousand years ago a group of troll priests known as the Atal'ai attempted to bring back an ancient blood god named Hakkar the Soulflayer. After the resulting civil war the priests were defeated and exiled to the Swamp of Sorrows. There they erected a temple to Hakkar to prepare for his arrival into the physical world. The dragon Aspect Ysera soon learned of the Atal'ai's plans and smashed the temple beneath the marshes. To this day, the temple's ruins are guarded by the mighty green dragons.",
+  "files": [
+   "gossip/5f4d64e508e2e540625383eeae8529e5"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "bc4672e62907",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Once the greatest gold production center in the human lands, the Dead Mines are now inhabited by the Defias Brotherhood, who have turned the dark tunnels into their private sanctum. It is rumored that the thieves have conscripted the clever goblins to help them build something terrible at the bottom of the mines - but what that may be is still uncertain. Rumor has it that the way into the Deadmines lies through the quiet, unassuming village of Moonbrook.",
+  "files": [
+   "gossip/7f35f35703d028305ee4d76b181b5fac"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "4101e1eddaf0",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Bolvar, Magni, or Tyrande.",
+  "files": [
+   "gossip/84004ad843c4e25945ff9c41c2c64e48"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "52024fea8495",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Razorfen Downs can be found on the very southern tip of the Barrens on the east side of the road.",
+  "files": [
+   "gossip/8960494e8735de52e731bccc5622764d"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "407e68e1699a",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "The mighty fortress carved within the fiery bowels of Blackrock Mountain was held by the sinister Dark Iron dwarves for centuries until Nefarian - the cunning son of the dragon, Deathwing - took control of the upper Spire and made war on the dwarves' holdings in the mountain's volcanic depths. Realizing that the dwarves were led by the mighty fire elemental, Ragnaros - Nefarian vowed to crush his enemies and claim the whole of Blackrock mountain for himself.",
+  "files": [
+   "gossip/9607305c9027305933951bfdb21a86f2"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "6268ee4717f8",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "The Stockades are a high-security prison complex, hidden beneath the canal district of Stormwind city. Presided over by Warden Thelwater, the Stockades are home to petty crooks, political insurgents, murderers and a score of the most dangerous criminals in the land. Recently, a prisoner-led revolt has resulted in a state of pandemonium within the Stockades - where the guards have been driven out and the convicts roam free.",
+  "files": [
+   "gossip/97df9679462d394c9c8acea3163a1db4"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "153176d4658b",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Uldaman is an ancient Titan vault that has laid buried within the earth since the world's creation. Dwarven excavations of the city have recently released the Titans' first failed creations: the troggs. Legends say that when the Titans deemed the trogg experiment a failure they tried again, resulting in the creation of the dwarven race. These secrets are recorded on the fabled Discs of Norgannon - massive artifacts that lie at the bottom of the ancient city, protected by giant constructs of living stone.",
+  "files": [
+   "gossip/991c35a1c8f32e2d36fef5a051a928bf"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "f159881416ad",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Scarlet Monastery lies in the hills northeast of Tirisfal Glades.",
+  "files": [
+   "gossip/9d99c94eab41fbb7d5d8577ea1ef5b17"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "f3a0e7dac8e4",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "During the War of the Ancients, the demigod Agamaggan came forth to battle the Burning Legion. The colossal boar was defeated, and over time in the areas where his blood fell, massive thorn-ridden vines sprouted to life. The quilboar came to occupy these regions and hold them sacred. The heart of these massive thorn-colonies is the Razorfen. Razorfen Kraul was conquered by the crone, Charlga Razorflank, who some speculate has been negotiating with agents of the Scourge for some insidious purpose.",
+  "files": [
+   "gossip/a3c3d767ea37682d4d5d32cdda15eb9e"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "a5b6cbea6390",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Built twelve thousand years ago by a covert sect of night elf sorcerers, the ancient city of Eldre'Thalas was used to protect Queen Azshara's most prized arcane secrets. Though it was ravaged by the Great Sundering of the world, much of the wondrous city still stands as the imposing Dire Maul. The ruins' three distinct districts have been overrun by all manner of creatures - especially the spectral highborne, foul satyr and brutish ogres.",
+  "files": [
+   "gossip/a5bb313bf3bd25a50fb0157cbb68e362"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "6b43498d29b5",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Are you interested in exploring one of these dungeons?",
+  "files": [
+   "gossip/a61f3b373d7747d0767475c1b5dab2f6"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "1b50d1f90ef6",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Once the jewel of northern Lordaeron, the city of Stratholme is where Prince Arthas turned against his mentor, Uther Lightbringer, and slaughtered hundreds of his own subjects who were believed to have contracted the plague of undeath. Arthas' surrender to the Lich King soon followed. The broken city is now inhabited by the undead Scourge - led by the powerful lich, Kel'Thuzad, and a contingent of Scarlet Crusaders, led by Grand Crusader Dathrohan. The two sides are locked in constant, violent combat.",
+  "files": [
+   "gossip/a68c695060e8db92a6407dbd039e03c7"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "46fb6339239a",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "No, I'm not, but lots of others are looking for love. You should buy my love tokens, put on some cologne or perfume, and then pass them around!",
+  "files": [
+   "gossip/a70be99ff08d4df4c93b09b77588a051"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "76e821381755",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "As the wind on the plains, you are always welcome here.",
+  "files": [
+   "gossip/a98c33cf2b0c65fb09a0b00d67122e46"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "72223aa6879f",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Uldaman can be found at the very northern end of the Badlands.",
+  "files": [
+   "gossip/af158d110faf65cf2c8cfe5981eddc3e"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "fd01d8901920",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Razorfen Kraul can be found on the very southern tip of the Barrens on the west side of the road.",
+  "files": [
+   "gossip/b07c8c68897f70867bbb75e49138b18d"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "eebef84ec3ec",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Maraudon is one of the most sacred sites within Desolace. The great temple/cavern is the burial place of Zaetar, one of two immortal sons born to the demigod, Cenarius. Legend holds that Zaetar and the earth elemental princess, Theradras, sired the misbegotten centaur race. It is said that upon their emergence, the barbaric centaur turned on their father and killed him. Some believe that Theradras, in her grief, trapped Zaetar's spirit within the winding cavern - used its energies for some malign purpose.",
+  "files": [
+   "gossip/b08c334deb14a22220d649a65f3c74fa"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "045440a2b2c5",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Once the capital city of the Dark Iron dwarves, this volcanic labyrinth now serves as the seat of power for Ragnaros the Firelord. Ragnaros has uncovered the secret to creating life from stone and plans to build an army of unstoppable golems to aid him in conquering the whole of Blackrock Mountain. Obsessed with defeating Nefarian and his draconic minions, Ragnaros will go to any extreme to achieve final victory.",
+  "files": [
+   "gossip/d1d167264b852e04dcc247504cad2f84"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "9d7c187f4ec9",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "If you put on cologne or perfume, then you'll see who is amorous. Those are the ones who accept love tokens... and offer a gift in return.\n\nBut remember: to give someone a love token, you have to smell just right! Men like the scent of perfume, while women prefer cologne.",
+  "files": [
+   "gossip/d208c04226b80a24f1f58b9d6011d18c"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "e8c9308d78b8",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "The ruined city of Stratholme lies in the Eastern Plaguelands to the north of the Plaguewood.",
+  "files": [
+   "gossip/d3df88e9b21fb13e7181cf562fb15e42"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "e0992d66a77e",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "The Sunken Temple can be found in the center of a great lake in eastern Swamp of Sorrows.",
+  "files": [
+   "gossip/ec90c3b20200ec711da3c83a7d439020"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "35c6ea31f1fb",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Maraudon is located in the middle of the western coast of Desolace, in the Valley of Spears.",
+  "files": [
+   "gossip/ee0633ddb8208d730c4a1f7e2f75724f"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "7ecb038bf003",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "Love tokens are small messages of affection you can give to amorous town and city folk. Such people will reward you with a gift of adoration.\n\nOr, if you are already adored by another, then at the least they'll give you a gift of friendship.",
+  "files": [
+   "gossip/f108787b96326f0485800f2468879b89"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "53f70cab970b",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Boorand Plainswind",
+  "quest": null,
+  "en": "The ruins of Zul'Farrak are located in the northwestern corner of the Tanaris Desert.",
+  "files": [
+   "gossip/f469edb565c0b095a0fc47a970c24323"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "e5180babb601",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Kauth",
+  "quest": null,
+  "en": "What can you do at an inn?\n\nWell when you stay at an inn, you rest very comfortably. Because of this, you will become \"well rested\" much more quickly than you would in the wilderness. When you are well rested, you learn more from experience.\n\nYou may also speak with any innkeeper to get a hearthstone, and can later use the hearthstone in order to quickly return to that inn.",
+  "files": [
+   "gossip/cd4dc163ef49a6f5e9f2e1e9c61ec79f"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "8c911423025d",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jahan Hawkwing",
+  "quest": null,
+  "en": "The Barrens, with its hot sun and hostile denizens, is the perfect place to test your strength and fortitude.",
+  "files": [
+   "gossip/18a3a77c5ae8b48a2bbaab1d5d833914"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "238febc0d7c6",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jorn Skyseer",
+  "quest": null,
+  "en": "Although we call this land the Barrens, to one who knows where to look this place teems with life.",
+  "files": [
+   "gossip/be12953a2eb9e2b4f53206a938cf050f"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "261dde651314",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Kalin Windflight",
+  "quest": null,
+  "en": "To get down safely, I provide wings to those in need.",
+  "files": [
+   "gossip/095e13d4bc42c0c93f1c874f146d577f"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "c39d0ad6711f",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Kar Stormsinger",
+  "quest": null,
+  "en": "I can teach you the finer points of Kodo Riding, provided you have enough gold to cover the lesson!",
+  "files": [
+   "gossip/544bf09fc5a6bba4ba78407a379f613d"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "7b2e14bef514",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Kar Stormsinger",
+  "quest": null,
+  "en": "You need to be exalted with the tauren of Thunder Bluff before I will teach you a riding skill, adventurer.",
+  "files": [
+   "gossip/843dad948139077784615fef7ef434d9"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "42afdc48781e",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Kil'hala",
+  "quest": null,
+  "en": "Hey mon, what can I be doin' for you?",
+  "files": [
+   "gossip/b9c260f10777917d0aaa23c86b095d93"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "47f4accfcad4",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Krog",
+  "quest": null,
+  "en": "If Reethe is somehow involved with the burning of the Shady Rest Inn, you'll have to find him and get some answers out of him.\n\nI sent Ogron to track him down. He was headed off to the southeast. Meet up with Ogron and then go find Reethe.",
+  "files": [
+   "gossip/4d81478e7c4dd7fd2c1d6764a9644265"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "d6616627ff9e",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Krog",
+  "quest": null,
+  "en": "The humans built an inn on the edge of the Barrens. The Shady Rest, they called it. Weeks ago, it was burned down.\n\nThe Warchief told us to leave the humans alone, so long as they didn't cross our borders, but it appears someone violated his wishes.\n\nHe has put me in charge of getting to the bottom of it. If you wish to provide assistance, go to the remains of the Shady Rest Inn and return any clues you find to me.",
+  "files": [
+   "gossip/8b40a379be9d0422acd93cc0ce1dd2fe"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "7bd0b10a3287",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Krog",
+  "quest": null,
+  "en": "The humans claimed much of the Dustwallow Marsh for themselves, but the Stonemaul clan, with our help, has been able to push them back.",
+  "files": [
+   "gossip/c54732d09cb3a1663d7e277b1364f2bc"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "389cccab7b36",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Krulmoo Fullmoon",
+  "quest": null,
+  "en": "I do not offer apprentice training. Look for the tauren Waldor in the Wailing Caverns, here in the Barrens. He can assist you with whatever you need.",
+  "files": [
+   "gossip/4b0168981471cd2230e7238c590e1752"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "6a2e8a7af4c9",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Krulmoo Fullmoon",
+  "quest": null,
+  "en": "The strongest hides come from those kodo that have laid themselves to rest in this wasteland.",
+  "files": [
+   "gossip/67523c45386916357dd48fdb7eb1a7d6"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "78b746c9ac69",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Krulmoo Fullmoon",
+  "quest": null,
+  "en": "Have you come for further training? Shake the dust of the road from your garments, then, and let us get to work.",
+  "files": [
+   "gossip/7c9d448728e77caa310e938972d07ce1"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "4b34fcd41b76",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Krulmoo Fullmoon",
+  "quest": null,
+  "en": "I cannot aid you with further lessons: your skills have surpassed mine. Go and see the tauren Una in the northwestern shops of Thunder Bluff's central plateau. She offers more advanced training.",
+  "files": [
+   "gossip/bffaa502fd9b791647a5cfdc9c001744"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "9ed10c71a6db",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Lanti'gah",
+  "quest": null,
+  "en": "This was the site of a great battle. Many great battles.",
+  "files": [
+   "gossip/f9fe6067b476d43bd34c6ff1b4e89b22"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "ae2b3772f57f",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Mahani",
+  "quest": null,
+  "en": "Expertly accomplished! Now, let us continue your education...",
+  "files": [
+   "gossip/651cd8c7fffe3f754010171159d19b0b"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "01dc04cd0f0a",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Mahani",
+  "quest": null,
+  "en": "Your knowledge is great, traveler. You must learn from one who is wiser than I. Many tales have been told of the wisdom of Josef Gregorian. You may find him in Undercity.",
+  "files": [
+   "gossip/73e96fb1a07c125598142a73843f48ec"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "51b52f37e506",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Mahani",
+  "quest": null,
+  "en": "Welcome to our tent. May I assist you?",
+  "files": [
+   "gossip/d7169e879eea1cff18879230ca84816c"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "c27234e8cf8e",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mankrik",
+  "quest": null,
+  "en": "I came to the Crossroads from the south seeking help, adventurer, but I find only cowards who turn their backs on me--even the mighty Thork insults me so. He is a good leader, but his dismissal of my plea causes me greater anger.\n\nHe claims my rage makes me hasty--that it clouds my judgement--but I will not rest until I have vengeance!",
+  "files": [
+   "gossip/63a72ba3d24c591ed6c49d61ff2efbe2"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "2afe23d6cd4b",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mankrik",
+  "quest": null,
+  "en": "I thank you, adventurer. Your dedication to my plea gives rest to my lost wife's spirit, and for that I could never repay you enough.\n\nI cannot say that my hatred will ever cease for the quilboar, but it is satiated for now.\n\nNow I must begin to rebuild my life.",
+  "files": [
+   "gossip/bad017b3adfc64250ce72451884a2780"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "1457b0fd363f",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Morin Cloudstalker",
+  "quest": null,
+  "en": "The Outrunners' duty is to ensure the safety of those who travel across the plains of Mulgore. Those that would threaten the safety of the tauren homeland risk punishment at our hands.",
+  "files": [
+   "gossip/21870266ef32a4792d46ecf5478e3069"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "fd3ac91ed730",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mudduk",
+  "quest": null,
+  "en": "Wulan in Shadowprey Village can sell you the \"Expert Cookbook\". You will need that if you are to better yourself.",
+  "files": [
+   "gossip/178749ad5f34e7d82d4f95b09e30304c"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "93b49917629f",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mudduk",
+  "quest": null,
+  "en": "I can teach you how to cook!",
+  "files": [
+   "gossip/3c5599de03c8689a7c59e4a9c7e86daa"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "9a0f8bb5432a",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mudduk",
+  "quest": null,
+  "en": "Cooking is a life long pursuit and I see we share the same passion!",
+  "files": [
+   "gossip/6b8ea29137624c8512925cd734b18e4f"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "789a160947e5",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mudduk",
+  "quest": null,
+  "en": "Dirge Quikcleave of Gadgetzan is a master of the culinary arts. To better yourself you will need to seek him out.",
+  "files": [
+   "gossip/fa94f3b2a7756a7206f2d739132e099b"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "1b67711136d5",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Nalpak",
+  "quest": null,
+  "en": "Our only hope is to create something good from an already bad situation.",
+  "files": [
+   "gossip/2988d572937d9b7f4a0a78a8e94bf806"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "db0ea5ed9a70",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Nazeer Bloodpike",
+  "quest": null,
+  "en": "We may not be in open war with the Alliance, but blood is still shed between us.",
+  "files": [
+   "gossip/36b7a513c0f640991018d8fcdd4d51cd"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "37a5da6bae5b",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Omusa Thunderhorn",
+  "quest": null,
+  "en": "Many are the paths of the Earth Mother. Wherever you decide to travel, may she watch over you.",
+  "files": [
+   "gossip/6d3a93f6d75f5ea11db68e9fab66c95f"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "ad140f832406",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Omusa Thunderhorn",
+  "quest": null,
+  "en": "Treat the wind rider well as it takes you to your destination. May your ancestors watch over you adventurer.",
+  "files": [
+   "gossip/a2429122d1ceeaef4fd2594c4ed06f2b"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "da603278fa55",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Omusa Thunderhorn",
+  "quest": null,
+  "en": "Where can I send you today adventurer?",
+  "files": [
+   "gossip/a281fc87589677c9d7b3b3b6c436891c"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "d33338a1407b",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Omusa Thunderhorn",
+  "quest": null,
+  "en": "Though the Crossroads seems to be the center of activity in The Barrens, I prefer the quietude of Camp Taurajo. Where shall I send you?",
+  "files": [
+   "gossip/ab5956b42af65d0c546a7454fb3339dd"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "32da997945c7",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Pyall Silentstride",
+  "quest": null,
+  "en": "Wulan in Shadowprey Village can sell you the \"Expert Cookbook\". You will need that if you are to better yourself.",
+  "files": [
+   "gossip/3c198949d138d51ba2c086ace10803eb"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "4bf475fe49ba",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Pyall Silentstride",
+  "quest": null,
+  "en": "I can teach you how to cook!",
+  "files": [
+   "gossip/70f65371057af31cdb1fa7f511b011d1"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "3bd5a3df9428",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Pyall Silentstride",
+  "quest": null,
+  "en": "Dirge Quikcleave of Gadgetzan is a master of the culinary arts. To better yourself you will need to seek him out.",
+  "files": [
+   "gossip/74007003c2cd2bd77e1c3e8b0496a254"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "baf0dd8cd578",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Pyall Silentstride",
+  "quest": null,
+  "en": "Cooking is a life long pursuit and I see we share the same passion!",
+  "files": [
+   "gossip/aa33a0b2e8a8965bb6b87437e70b467c"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "95dc21deaf77",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Reban Freerunner",
+  "quest": null,
+  "en": "Ah friend, I only help hunters and their pets.",
+  "files": [
+   "gossip/99ae018db8b20fbf298b816ac77acd9c"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "d782b8b39b21",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Reban Freerunner",
+  "quest": null,
+  "en": "You've come for training in order to pass it on to your pets?",
+  "files": [
+   "gossip/aa7ffa0f57cad7bf854f0f5b49d0d64f"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "2b86919b7729",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Regthar Deathgate",
+  "quest": null,
+  "en": "I think I hear him coming! Look to the west!",
+  "files": [
+   "gossip/99de77c0a5a974e26ae9dfd849d37ce8"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "8e909e6c74ed",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Regthar Deathgate",
+  "quest": null,
+  "en": "We have our duties, adventurer. Duties to the Horde.",
+  "files": [
+   "gossip/a325f9b1e91967df6e334cb3d0b0784d"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "170521afbe48",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Seer Ravenfeather",
+  "quest": null,
+  "en": "The earth calls to you, Adventurer. Go to it, and know that your brethren are proud of you and all you will accomplish.",
+  "files": [
+   "gossip/45a4bcde1a510ba1a7b943ffd77a7090"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "1585fc42ec06",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Sergra Darkthorn",
+  "quest": null,
+  "en": "The land, the water, and the sky are all as one. It is your eyes that deceive you with such separation. The Earthmother is all those things and more.",
+  "files": [
+   "gossip/e615d846c409ff343cf8bf718a859a66"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "a5630c217594",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Siln Skychaser",
+  "quest": null,
+  "en": "Through rigorous retraining I have had to break many students of all they had previously learned so that I might teach them anew. The service I offer becomes increasingly difficult to perform each time it is done. It is for that reason that it becomes increasingly expensive with each retraining. Do you desire that I break you of the talents you have learned?",
+  "files": [
+   "gossip/0ad2a902852beef6cfe7ead6b6979fff"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "01bced57c885",
+  "zone": "mulgore-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Siln Skychaser",
+  "quest": null,
+  "en": "May the spirits be with you.",
+  "files": [
+   "gossip/a81b670b0b0a6cd4fd4aafff91e45f6c"
+  ],
+  "uiMap": 1412
+ }
+]

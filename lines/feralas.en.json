@@ -1,0 +1,2825 @@
+[
+ {
+  "id": "1ad9e80464b0",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Broken Trap",
+  "quest": "A Broken Trap",
+  "en": "The thorium widget slides effortlessly into place, creating a conduit to pour the frost oil down. Once the last drops of oil have been emptied into it, the trap snaps into position.\n\nWoe be to any unwary ogre that should just so happen to wander by!",
+  "files": [
+   "quests/1193-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "1a847fb608e5",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Belgrom Rockmaul",
+  "quest": "A Grim Discovery",
+  "en": "The Grimtotem!? This is interesting. You say you came across them while hunting in Feralas? Truly?\n\nMy peers will want to hear your news, adventurer. Tell me more and I'll count out your coin while you do so.\n\nAnd before you go, know that I give you thanks for the information you've passed on to me this day.",
+  "files": [
+   "quests/2976-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "4d5ef3f313cf",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Krueg Skullsplitter",
+  "quest": "A Grim Discovery",
+  "en": "What!? You came across tauren in the area? You're joking! What did they look like!?\n\nThe Grimtotem clan! You found some of them? Belgrom, one of our masters, has an interest in their kind... he's even put a bounty on them.\n\nYou have to go back, adventurer. Go back and bring me their horns... piles of them if you can. The Grimtotem are not to be trifled with or underestimated. Go back and slay them; let the rivers in Feralas run red with their dark blood.",
+  "files": [
+   "quests/2974-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "4727708c3103",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Krueg Skullsplitter",
+  "quest": "A Grim Discovery",
+  "en": "These are good horns, adventurer. Well done. I'll take these from you and be sure to tell Belgrom as soon as we return to Orgrimmar. You've helped me twice now, and for that, you have my mark. Perhaps in the future I can help you! Good luck to you.",
+  "files": [
+   "quests/2974-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "4a20f4beff8e",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Krueg Skullsplitter",
+  "quest": "A Grim Discovery",
+  "en": "What?!\n\nAh, so I did mention a bounty, didn't I? Well, that'll teach me to open my mouth, won't it?\n\nYou did the work, so I suppose it is only right you reap the greatest reward from it. Take the horns, I'll have them put in a crate for you. Find Belgrom Rockmaul in the Valley of Honor, he'll want to know what you saw and he'll reward you for your hard work.\n\nBe well, adventurer, and thank you again for everything you've done.",
+  "files": [
+   "quests/2976-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "56f84fc1974d",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Ginro Hearthkindle",
+  "quest": "A Hero's Welcome",
+  "en": "Adventurer, General Shandris Feathermoon would like to speak with you personally. No doubt she wants to thank you for your service to the Stronghold, but I do know that she also wants to talk to you about the insect creatures that you and Raschal faced in southern Feralas. The reports of those Zukk'ash insects are... frightening, to say the least.\n\nGeneral Feathermoon is waiting for you in the main compound.",
+  "files": [
+   "quests/4266-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "b6ed98decf96",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Shandris Feathermoon",
+  "quest": "A Hero's Welcome",
+  "en": "Adventurer, I give you my warmest thanks for the aid you've given us. Your bravery in the face of overwhelming odds has warranted a reward worth a thousand times greater. Nevertheless, I hope you accept this on behalf of the entire Stronghold.\n\nNow, if I may... I'd like to ask for your aid one more time. In light of the discovery of the Zukk'ash hive here in Feralas, I think you're the best choice for this mission.",
+  "files": [
+   "quests/4266-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "841dd0caa65d",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Krueg Skullsplitter",
+  "quest": "A New Cloak's Sheen",
+  "en": "Well met, adventurer. I've traveled with my companions down to the Feralas on a mission for our Orgrimmar masters.\n\nMy life-mate Korrin finds great pleasure in new clothing, so I aim to make her a new cloak adorned with the gossamer wings of faerie dragons. Would you be able to help me? Sprite darters with gorgeous wings I want are west of Camp Mojache.",
+  "files": [
+   "quests/2973-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "08594cec0937",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Krueg Skullsplitter",
+  "quest": "A New Cloak's Sheen",
+  "en": "Wonderful, adventurer! These will do nicely. There are enough here to make a cloak for Korrin, and possibly even more! Thank you.\n\nI hope the trip wasn't too dangerous? The area of Feralas is not known for being forgiving, but you've obviously done well enough.\n\nThank you again, adventurer.",
+  "files": [
+   "quests/2973-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "cf7cce2bc943",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Quentin",
+  "quest": "A Short Incubation",
+  "en": "The Moonweavers, huh? Most intriguing. I wish the sprite darters could truly appreciate what it means to have those two look after them. They are both quite capable.\n\nSo, they gave you the egg as a gift. Well, then you should be responsible for it for as long as you desire. It appears it's almost ready to hatch, but we should ensure it's healthy and no damage has been done to it.\n\nI only need two elixirs of fortitude for a small spell to protect the egg. I have the rest of the components here with me.",
+  "files": [
+   "quests/3842-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "f29e1f20607d",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Quentin",
+  "quest": "A Short Incubation",
+  "en": "Wonderful. These will do nicely. Give me a moment to mix together my components and we shall see how well this egg is going to do.",
+  "files": [
+   "quests/3842-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "f24770b4dcd5",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Neeru Fireblade",
+  "quest": "A Strange Request",
+  "en": "I have been waiting for Uzer'i to deliver this...\n\nLet me give you the herb mixture I prepared for his... well, experiments...",
+  "files": [
+   "quests/3121-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "05d46eb13060",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Uzer'i",
+  "quest": "A Strange Request",
+  "en": "Neeru Fireblade in Orgrimmar has what I need to get started here! He has mixed up a concoction that I need for my... well, you'll see.\n\nOff with you now -- to Orgrimmar. Here, take this with you. It's a shrunken head that I promised Neeru in exchange for the herbs. It's the head of some poor dwarf I ventured across in the forest. I'm sure Neeru will be pleased.\n\nYou'll find Neeru in the Cleft of Shadow.",
+  "files": [
+   "quests/3121-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "4743ea65e40e",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Zorbin Fandazzle",
+  "quest": "Again With the Zapped Giants",
+  "en": "Inconceivably fantastical, Adventurer! You've come through for me again, and for that I thank you.\n\nThank you!\n\nWhile you may find this coin to be a little less than you're accustomed to, rest assured your great deeds on the field of goblindom are echoing through the halls of power in the Steamwheedle Cartel. Should you need something else to do, then by all means talk to me!",
+  "files": [
+   "quests/7725-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "f1d40ae16571",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Zorbin Fandazzle",
+  "quest": "Again With the Zapped Giants",
+  "en": "I know you've gathered residue for me already... but should you find yourself for want of an encore performance to a fun-time activity, I can always use more residue.\n\nWhile I can't offer nearly as much in the way of compensation again, I'll be more than happy to spread the good word of your service to all my goblin friends with ears.\n\nBelieve me sir when I say that these goblins have quite large ears.",
+  "files": [
+   "quests/m-7725-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "9c7f58184465",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Latronicus Moonspear",
+  "quest": "Against Lord Shalzaru",
+  "en": "adventurer, new scouting reports have given us a good idea on the naga chain of command. Royalty is present amongst their rank and file, and they're the ones calling all the shots.\n\nSpecifically, we've identified one of the crueler royals as Lord Shalzaru. Scouts report that he himself has uncovered an odd relic during a recent naga excavation in a cave south of the main ruins, across the water on the Isle of Dread.\n\nPut a stop to it by putting a stop to him, and bring me his relic so we can study it.",
+  "files": [
+   "quests/2870-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "cb4f4fb4a697",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Latronicus Moonspear",
+  "quest": "Against Lord Shalzaru",
+  "en": "Well played, adventurer! Lord Shalzaru's demise will throw the naga into disarray for some time, if not permanently. The threat they pose is now under more of our control than it has ever been, and we have you to thank for it.\n\nHere is more bounty money from the stronghold treasury - you've earned every copper. You and yours are welcome in Feathermoon Stronghold anytime, my friend.\n\nOne more thing before you depart, adventurer... if you could...",
+  "files": [
+   "quests/2870-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "b948d5846818",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Latronicus Moonspear",
+  "quest": "Against the Hatecrest",
+  "en": "The best course of action at this point is to assume that, regardless of what the naga are up to, they will eventually move to secure the island for their own. We need to take aggressive steps to counter that threat before it is too late.\n\nBring me ten Hatecrest Scales that are in good condition; it should be obvious to you how to acquire them. You'll cut your teeth on the naga for the first time, and we'll have a weakened naga presence on Sardor Isle - both are prospects that play to our advantage.",
+  "files": [
+   "quests/2869-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "928252e5d438",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Latronicus Moonspear",
+  "quest": "Against the Hatecrest",
+  "en": "Yes, yes, these scales are more than satisfactory. Actually, I think I will send these down to Pratt for him to take a look at. Maybe he can craft something useful out of them.\n\nAs for you, I have another mission I want to send you on. But first, here is your bounty for the scales. Your continued service to the General and Feathermoon Stronghold at large is a blessing in the face of adversity.",
+  "files": [
+   "quests/2869-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "1f006f8e5a41",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Latronicus Moonspear",
+  "quest": "Against the Hatecrest",
+  "en": "Excellent, adventurer - I value a \"can do\" attitude in those who I work with.\n\nI've been tasked by General Feathermoon to address the naga in a direct manner. My plans are two fold: one, we will weaken their forces both in number and in command, and two, we will uncover what they are up to in the ruins. With your help, we'll counter the naga presence without sacrificing the general security of the stronghold.",
+  "files": [
+   "quests/3130-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "c861029ffde3",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Shandris Feathermoon",
+  "quest": "Against the Hatecrest",
+  "en": "At this point, I am going to direct you to my second, Latronicus. He's been keeping a close eye on the naga forces to date. I'll assess the general situation here in regards to the naga; as much as I want to commit a full force to move against them, leaving the stronghold open to direct attack from the Horde - or worse - seems less than optimal.\n\nAnyway, Latronicus awaits. Good work thus far, adventurer. Keep it up.\n\nYou're dismissed.",
+  "files": [
+   "quests/3130-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "b37c424dfd73",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Hadoken Swiftstrider",
+  "quest": "Alpha Strike",
+  "en": "The plan is for various leaders of the gnolls - Alphas as they call themselves - to be taken down within rapid succession. If we're able to execute this sort of swift and precise devastation against them, it would cause chaos in their ranks. Perhaps it would also drive a message through their thick flea-bitten heads that we can and will destroy them!\n\nI want you to be the messenger of my will; eliminate five of their Alphas within one hour for this to work Adventurer, or we'll remain at this impasse!",
+  "files": [
+   "quests/2863-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "1cac47189929",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Hadoken Swiftstrider",
+  "quest": "Alpha Strike",
+  "en": "You've done as I have asked, and for that I salute you. Take this small reward as compensation for your efforts, adventurer.\n\nWith their numbers thinned and their leaders slain, the gnolls will think twice about storming the camp. This doesn't conclude the issue at hand, however...\n\nThere must be some reason why the gnolls have been whipped into such a frenzied state. Before they have a chance to regroup though, I want to find out what is causing it.",
+  "files": [
+   "quests/2863-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "aa3b6daa4dfd",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Kindal Moonweaver",
+  "quest": "An Orphan Looking For a Home",
+  "en": "Oh, hello, Adventurer. I'm so glad to see you again. How was your trip to Darnassus?\n\nWell, you'll be happy to know that we've made quite a bit of progress while you've been gone. We even saved a nest full of eggs. Unfortunately, the mother died before we got to her.\n\nSay, would you want one for a pet? They look to hatch soon, so they'll need a good father. What do you say?\n\nIf you're really interested, take one of the eggs to Quentin at the race tracks in Shimmering Flats. He'll tell you more.",
+  "files": [
+   "quests/m-3841-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "11e9faf79698",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Quentin",
+  "quest": "An Orphan Looking For a Home",
+  "en": "Ah, a sprite darter egg, and one near maturation, if I'm not mistaken. Remarkable you've found one, let alone in this good a condition. They're rarely seen in Feralas these days. I understand there were various poachers in the area trying to capture and kill them for many reasons. Too bad really... such beautiful creatures when they reach adulthood.\n\nHow did you come across such a find?",
+  "files": [
+   "quests/3841-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "8cad7bd73612",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Anthion Harmon",
+  "quest": "Anthion's Old Friend",
+  "en": "Theldren is not one to willingly participate in a fair fight. I've shaped this banner to display his family colors.\n\nWith some additional sorcery, this banner shall provoke him in a way he won't be able to resist.\n\nAn old acquaintance of mine named Falrin knows the exact procedure required. He has a particular way of... aggravating people. You shall find him at the library in Dire Maul.",
+  "files": [
+   "quests/8948-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "c33abcc11141",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Falrin Treeshaper",
+  "quest": "Anthion's Old Friend",
+  "en": "Anthion sent you, you say? I thought he was dead. I guess I've heard stranger things in my life.\n\nVery well, then. What is it you want me to do with this banner?",
+  "files": [
+   "quests/8948-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "76d6598bfb10",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Lorekeeper Lydros",
+  "quest": "Arcane Refreshment",
+  "en": "A traveler mage! How wonderous. I have not seen one of your kind for... oh what is it going on now? 500 years!\n\nI have something that will quench your thirst, but first you must do a task for me.\n\n\nThere is an anomaly in Eldre'Thalas. A water elemental has taken residence in the east wing. His presence must be catalogued!\n\nVenture to the Warpwood Quarter and extract a portion of the elemental essence of the Hydrospawn. Return it to me and I shall teach you a useful cantrip.",
+  "files": [
+   "quests/7463-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "d5ad303c716c",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Lorekeeper Lydros",
+  "quest": "Arcane Refreshment",
+  "en": "Wonderful! Who are you again? Oh it matters not. What was I supposed to give you? Hrm... well you are a mage, perhaps you will find this useful.",
+  "files": [
+   "quests/7463-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "dbeb7864d946",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Agnar Beastamer",
+  "quest": "Becoming a Parent",
+  "en": "Whoa, it was a lot more ready than I thought...",
+  "files": [
+   "quests/4298-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "a8a7de63c609",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Agnar Beastamer",
+  "quest": "Becoming a Parent",
+  "en": "Here, take the egg... better you have it so it bonds to you and looks to you to be its dadda.\n\nCongrats, Adventurer. You're a parent... kinda.",
+  "files": [
+   "quests/m-4298-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "b23be91c0987",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Ginro Hearthkindle",
+  "quest": "Boat Wreckage",
+  "en": "Interesting... I believe that this is Raschal's knife. You say you found it at the bottom of the water, along with his boat? Well, just the knife's discovery might not be enough to connect this to Raschal's disappearance; we do, however, have an unconventional option available to us to try and learn more.\n\nHave you ever heard of psychometry?",
+  "files": [
+   "quests/4127-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "6392fef4a11b",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wrecked Row Boat",
+  "quest": "Boat Wreckage",
+  "en": "Running your hand along the mud, your fingers graze the handle of a knife. It looks well cared for, and it might be safe to assume that whoever was on the boat might have lost it. Perhaps the large chunk of the missing boat might have something to do with the loss.\n\nYou grab the knife, remembering that Ginro Hearthkindle in the Feathermoon Stronghold instructed you to return to him with any found clues. You get the feeling, however, that you are not quite alone in the water...",
+  "files": [
+   "quests/4127-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "e2581908e0e1",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluff Runner Windstrider",
+  "quest": "Camp Mojache",
+  "en": "Talo Thornhoof, a Tauren elder in Feralas, sends a request for aid. He offered few details, but he did say that he needs agents for a matter both delicate... and dire.\n\nServe the Horde, Adventurer. Go to Camp Mojache in Feralas and speak with Talo.",
+  "files": [
+   "quests/7492-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "e7cd621f89a1",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Harbinger Balthazad",
+  "quest": "Camp Mojache",
+  "en": "Talo Thornhoof, a Tauren elder in Feralas, sends a request for aid. He offered few details, but he did say that he needs agents for a matter both delicate... and dire.\n\nServe the Horde, Adventurer. Go to Camp Mojache in Feralas and speak with Talo.",
+  "files": [
+   "quests/7492-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "5acff750a458",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Talo Thornhoof",
+  "quest": "Camp Mojache",
+  "en": "Ah, it is good to see a adventurer heed my summons. I have need of your services, Adventurer, and fear they will take you down a dangerous path...\n\nA path into Dire Maul.",
+  "files": [
+   "quests/7492-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "66dd0942ca29",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warcaller Gorlach",
+  "quest": "Camp Mojache",
+  "en": "Talo Thornhoof, a Tauren elder in Feralas, sends a request for aid. He offered few details, but he did say that he needs agents for a matter both delicate... and dire.\n\nServe the Horde, Adventurer. Go to Camp Mojache in Feralas and speak with Talo.",
+  "files": [
+   "quests/7492-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "7f0d7a32ec81",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Rok Orhan",
+  "quest": "Dark Ceremony",
+  "en": "These seem to be plans for some sort of dark ceremony, Adventurer. From what I can make out, this ritual is conducted by the Gordunni mage-lords.\n\nFind one of these mage-lords, and from him, gather an orb.\n\nThe orb of a mage contains great power, and will help us discover more about this ceremony and the magic that the Gordunni wield.",
+  "files": [
+   "quests/2979-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "bac867ede5af",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Rok Orhan",
+  "quest": "Dark Ceremony",
+  "en": "This orb will provide us with more information about the Gordunni... which we will then use in planning their downfall, Adventurer.",
+  "files": [
+   "quests/2979-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "ed7ff74f96c5",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Talo Thornhoof",
+  "quest": "Dark Heart",
+  "en": "Edana Hatetalon is the queen of the Northspring harpies that reside in the ruins to the west. She is pure evil; I have heard that her heart is one of crystal. She is void of any emotion aside from the hate she feels towards all others. You must face Edana and bring me back her dark heart.\n\nI have heard of a horn that harpies carry -- blowing it by the Hatetalon stones, in the northern part of the ruins, will summon the queen.\n\nImagine her surprise when it is not her kin calling her, but her death.",
+  "files": [
+   "quests/3062-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "6687cb9f0cfb",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Talo Thornhoof",
+  "quest": "Dark Heart",
+  "en": "Now I know that Edana is truly dead. This heart; I will keep it in memory of what did here for me, Adventurer. Thank you.",
+  "files": [
+   "quests/3062-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "963ad85eddfd",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Latronicus Moonspear",
+  "quest": "Delivering the Relic",
+  "en": "If you would be so kind as to deliver the relic to my wife Vestia, I would appreciate it. She's not only a fine priestess for our community, but she is one of the most well-versed scholars you'll find anywhere. I couldn't make heads or tails of this device even if there was a wager involved. My wife though, if anyone can figure out what this thing is, she could... and we need to know!\n\nShe's just around the bend, no doubt studying. Thanks, adventurer.",
+  "files": [
+   "quests/2871-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "6da958a93e0a",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Vestia Moonspear",
+  "quest": "Delivering the Relic",
+  "en": "Interesting... this came from the Ruins of Solarsal, you say? Well, Latro's right that I need to look at this. At first glance, it seems non-indigenous to the ruins. Then again, this isn't of naga design... not something as alien as this.\n\nIt is going to take some time to research this item. Once my research on it is done, maybe I will make use of your talents, should you be around.\n\nHere, take one of these extra items we have; I hope you'll find some use for it!",
+  "files": [
+   "quests/2871-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "609c8d034905",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Jer'kai Moonweaver",
+  "quest": "Doling Justice",
+  "en": "As she's already told you, Kindal and I will now take the fight to the Grimtotem. Together, we should still be able to pick off some of the tauren without much threat to ourselves, but we'd love some help if you're willing and able.\n\nYou've seen the camp below us, but there are more to the east. Using your own tactics, deal as much damage to the tauren as you can. We can all meet back here after they've felt the sting of Kindal's arrows and your own weapons.",
+  "files": [
+   "quests/2970-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "40c223c68707",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Jer'kai Moonweaver",
+  "quest": "Doling Justice",
+  "en": "Kindal was right about you, Adventurer--you do have a knack for this. You are a more seasoned adventurer than the both of us, and for that we thank you.\n\nThe Grimtotem clan is much more hostile than most tauren... I wonder if their own kind frowns upon their actions. I wouldn't be surprised. As you are probably aware, many races on Azeroth have ties to less kindly counterparts.\n\nBut that is a discussion for another day.",
+  "files": [
+   "quests/2970-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "8d92549c1d58",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Jer'kai Moonweaver",
+  "quest": "Doling Justice",
+  "en": "Out here in the wilderness, Kindal and I have meager means to reward your help, but we don't want you to feel unappreciated. Take my signet ring. If you ever find yourself in the boughs of Teldrassil, go to the Temple of the Moon in the heart of Darnassus. There you will find my High Priestess Tyrande Whisperwind. The ring will let her know that we are well and give credit to your story.\n\nWe both thank you, Adventurer.",
+  "files": [
+   "quests/2972-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "0bd7894bf347",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Tyrande Whisperwind",
+  "quest": "Doling Justice",
+  "en": "That's an amazing story, Adventurer. It pleases us that you've not only helped dragonkind, but also one of our own priestess. Jer'kai was right to send you to me. I will make sure she has her ring returned to her--I have scouts heading the direction of Feralas soon. This will be one more thing for them to investigate while on their mission.\n\nThank you again, and please, make yourself at home while you're here.",
+  "files": [
+   "quests/2972-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "e04aa520c13e",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Sage Korolusk",
+  "quest": "Elven Legends",
+  "en": "Several years ago, a lone elven master named Kariel Winthalus fled the devastation of his homeland with several ancient elven artifacts in tow.\n\nOur search for this lost master lead us from the ruins of Quel'Thalas, through the Burning Steppes, across the great expanses of the sea, to Feralas.\n\nWe suspect that the elf sought sanctuary in the halls of Eldre'Thalas (what is now known as Dire Maul).\n\nYou must find him, adventurer. Whether alive or dead, the knowledge he carried must be recovered!",
+  "files": [
+   "quests/7481-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "8e5e418968e0",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Sage Korolusk",
+  "quest": "Elven Legends",
+  "en": "A shame... a tragedy. The items are lost you say? No trace of him, eh?",
+  "files": [
+   "quests/7481-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "0ac98b2d39bc",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Scholar Runethorn",
+  "quest": "Elven Legends",
+  "en": "Several years ago, a lone elven master named Kariel Winthalus fled the devastation of his homeland with several ancient elven artifacts in tow.\n\nOur search for this lost master lead us from the ruins of Quel'Thalas, through the Burning Steppes, across the great expanses of the sea, to Feralas.\n\nWe suspect that the elf sought sanctuary in the halls of Eldre'Thalas (what is now known as Dire Maul).\n\nYou must find him, adventurer. Whether alive or dead, the knowledge he carried must be recovered!",
+  "files": [
+   "quests/7482-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "4b8d2df286e9",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Scholar Runethorn",
+  "quest": "Elven Legends",
+  "en": "A shame... a tragedy. The items are lost you say? No trace of him, eh?",
+  "files": [
+   "quests/7482-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "4094aec4da91",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Ginro Hearthkindle",
+  "quest": "Escaping the Hive",
+  "en": "Welcome home, Adventurer. Raschal checked in just a little while ago and told me what happened.\n\nI... no, the entire Stronghold can't even begin to thank you for your great deed; Raschal would have been dead without your timely aid, and your assistance came to us without even so much as the whisper of a mercenary's fee. You bear the mark of a true hero. Know that you will always have a friend in Ginro Hearthkindle.",
+  "files": [
+   "quests/4265-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "1b8e9505a3bb",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Zukk'ash Pod",
+  "quest": "Escaping the Hive",
+  "en": "The pod splits opens some when you touch it, revealing a night elven male who is surprisingly still alive. He seems to be in good health, though deeply stunned. As you help him down from the pod, he stirs to life.\n\n\"Thank Elune - you've saved me, friend! I... I'm Raschal, and I awoke paralyzed inside this pod after these bugs overwhelmed me. I could use a hand getting out of here; after that, would you let the Stronghold know that I am all right? I'll be fine - we just need to leave, and fast!\"",
+  "files": [
+   "quests/4265-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "c591ca08c235",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Uzer'i",
+  "quest": "Faerie Dragon Muisek",
+  "en": "Adventurer, next I must have you capture a creature that in appearance, may look quite fragile, yet its powerful spirit is what we are truly after. The faerie dragons that I speak of have served the night elves as their allies. We must capture one so that the horde may benefit from this strength of spirit as well.\n\nHere is the muisek, Adventurer. Kill 8 sprite darters or sprite dragons, and capture their muisek. They may be found to the west of here.",
+  "files": [
+   "quests/3125-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "62d60a8e2cbf",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Uzer'i",
+  "quest": "Faerie Dragon Muisek",
+  "en": "Thank you, Adventurer. Now the spiritual powers of the faerie dragon will be available to us.\n\nI hope you willing to perform another task for me.",
+  "files": [
+   "quests/3125-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "c4bb684ce44f",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Falrin Treeshaper",
+  "quest": "Falrin's Vendetta",
+  "en": "Yes, it is true that I am familiar with this enchantment you require, adventurer. Yet I'm not one to give out favors freely, even if you were sent here by an old friend.\n\nI hold nothing but hatred and contempt for our brutish ogre neighbors. And not only them, I hate the followers of Omokk just as much as I hate those that follow King Gordok.\n\nI want you to kill them. Kill lots of them! Bring me the beads they carry around their neck as proof of your work. Do this and we shall talk about your request.",
+  "files": [
+   "quests/8949-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "1e4523a4cb96",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Falrin Treeshaper",
+  "quest": "Falrin's Vendetta",
+  "en": "Hmmm... strangely enough I don't feel any better about my brother's death at the hands of those brutes.\n\nWell, you held your end of the bargain. Let's see what I can do for you.",
+  "files": [
+   "quests/8949-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "9548fe517b95",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Courier Hammerfall",
+  "quest": "Feathermoon Stronghold",
+  "en": "Adventurer! Your aid is needed in Feralas!\n\nAn outlaw mage, Lethtendris, has fled to the ancient elven ruins Eldre'thalas, now called Dire Maul. It is believed she has an item of dangerous magical energy which must be recovered.\n\nLatronicus Moonspear requests agents to enter Dire Maul and retrieve the item from Lethtendris.\n\nServe the Alliance! Seek out Latronicus at the Feathermoon Stronghold in Feralas.",
+  "files": [
+   "quests/7494-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "33d69d8454b6",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Crier Goodman",
+  "quest": "Feathermoon Stronghold",
+  "en": "Adventurer! Your aid is needed in Feralas!\n\nAn outlaw mage, Lethtendris, has fled to the ancient elven ruins Eldre'thalas, now called Dire Maul. It is believed she has an item of dangerous magical energy which must be recovered.\n\nLatronicus Moonspear requests agents to enter Dire Maul and retrieve the item from Lethtendris.\n\nServe the Alliance! Seek out Latronicus at the Feathermoon Stronghold in Feralas.",
+  "files": [
+   "quests/7494-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "04a330a61dc1",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Herald Moonstalker",
+  "quest": "Feathermoon Stronghold",
+  "en": "Adventurer! Your aid is needed in Feralas!\n\nAn outlaw mage, Lethtendris, has fled to the ancient elven ruins Eldre'thalas, now called Dire Maul. It is believed she has an item of dangerous magical energy which must be recovered.\n\nLatronicus Moonspear requests agents to enter Dire Maul and retrieve the item from Lethtendris.\n\nServe the Alliance! Seek out Latronicus at the Feathermoon Stronghold in Feralas.",
+  "files": [
+   "quests/7494-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "a06f76947cde",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Latronicus Moonspear",
+  "quest": "Feathermoon Stronghold",
+  "en": "Hail, Adventurer. I am pleased to see you, but regret that our meeting is not under more pleasant conditions.\n\nListen close, for I have a vital task for you...",
+  "files": [
+   "quests/7494-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "5a1f203bf662",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Daryn Lightwind",
+  "quest": "Feralas: A History",
+  "en": "So, you'd like to borrow Feralas: A History?\n\nLet me think...\n\nI will allow you to borrow this book, Adventurer, but only if you do something for me first.",
+  "files": [
+   "quests/2940-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "3e18a355a4eb",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Feralas: A History",
+  "quest": "Feralas: A History",
+  "en": "This book looks as if no one has opened it for quite a long time. Its covers are quite worn, and its pages yellowed, but after examining it, you notice that it might be just what Troyas is looking for.\n\nYou pick it up, but realize you should probably ask before borrowing it.",
+  "files": [
+   "quests/2940-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "3ffb8c90515b",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "OOX-22/FE Distress Beacon",
+  "quest": "Find OOX-22/FE!",
+  "en": "You have uncovered some sort of strange, egg-shaped device made from metal. Fiddling with one of its knobs springs the egg to life, as it opens up into some sort of gnomish robotic contraption! A voice from inside the robotic egg crackles to life.\n\n\"My name's Oglethorpe Obnoticus, and my homing robot has crashed! I will reward you for its recovery; please take this beacon to the robot!\"\n\n\"I now have computed the coordinates of the robot for you; it is in a cave near Feral Scar Vale!\"",
+  "files": [
+   "quests/2766-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "93fc76e5fdcf",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Agnar Beastamer",
+  "quest": "Food for Baby",
+  "en": "Sprite darters are omnivores--that means they eat both meat and vegetation. If your egg here's gonna hatch, we best be prepared. Some good eats for these little guys are flanks of meat, raw and juicy, believe it or not. I was never able to find out why, but it has somethin' to do with Elune's plan for the elves... maybe they were to be protectors or somethin', I don't know.\n\nI'll take care of the egg for now, why don't you get me some good Silvermane stalker flanks for 'em to eat when he's hatched.",
+  "files": [
+   "quests/4297-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "e386929476c2",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Agnar Beastamer",
+  "quest": "Food for Baby",
+  "en": "These'll do nicely, and if I'm not mistaken, your little egg's just about ready to hatch. How does it feel? You know, you about to be a father? Haha, didn't think ya'd have to deal with such responsibility, now did ya?",
+  "files": [
+   "quests/m-4297-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "0d54677f1da3",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Foror's Compendium of Dragon Slaying",
+  "quest": "Foror's Compendium",
+  "en": "You have uncovered something of great importance. This book is unlike any that you have seen.\n\nIt would appear as if someone or something has managed to shatter the seal of Athenaeum. The text within is garbled and barely legible.",
+  "files": [
+   "quests/7507-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "b77ea56bb74b",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Knot Thimblejack",
+  "quest": "Free Knot!",
+  "en": "You - ranked number one. Everyone else - ranked number two or lower. Oh, thank you for freeing me!\n\nI knew my life was destined for more than just being an appetizer to some ogre!",
+  "files": [
+   "quests/5525-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "dff91a46b8d4",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Knot Thimblejack",
+  "quest": "Free Knot!",
+  "en": "Oh, thank you for freeing me! You - ranked number one. Everyone else - ranked number two or lower.\n\nI knew my life was destined for more than just being an appetizer to some ogre!",
+  "files": [
+   "quests/7429-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "66ea7f57d71a",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Zukk'ash Pod",
+  "quest": "Freed from the Hive",
+  "en": "The pod splits opens some when you touch it, revealing a night elven male who is surprisingly still alive. He seems to be in good health, though deeply stunned. As you help him down from the pod, he stirs to life.\n\n\"Thank Elune - you've saved me, friend! I... I'm Raschal, and I awoke paralyzed inside this pod after these bugs overwhelmed me. Were you sent by the Stronghold?\"\n\nIt would seem that you've found the missing courier!",
+  "files": [
+   "quests/4265-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "7ad0b461a552",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Kindal Moonweaver",
+  "quest": "Freedom for All Creatures",
+  "en": "The filthy Grimtotem clan are capturing faerie dragons, Adventurer. Jer'kai and I have no idea what they plan on doing with them, but they're obviously up to no good.\n\nWe're not powerful enough to fight our way into the camp and free the captured dragons, but perhaps with your help...\n\nIf you're willing, and you have some strong friends, release the creatures from their cage with this key and make sure they escape with their lives. I'll be by your side the entire time. Jer'kai will remain here.",
+  "files": [
+   "quests/2969-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "633850316b84",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Kindal Moonweaver",
+  "quest": "Freedom for All Creatures",
+  "en": "Thank Elune, Adventurer! You are a great blessing to us and to the darters you saved. Jer'kai and I would never have been able to help the dragons ourselves--your intervention in the Grimtotem's affairs will be remembered.\n\nSpeak to Jer'kai now... I have to prepare for our retribution. Just because the faerie dragons are free, it doesn't mean they will remain so. Jer'kai and I will now go on the offensive.",
+  "files": [
+   "quests/2969-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "13a237d14b78",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Lorekeeper Javon",
+  "quest": "Frost Shock and You",
+  "en": "Excellent work, traveler. Should you find any more tomes, do not hesitate to return them to us.\n\nAs time passes, we tend to change around and even add new rewards for the return of missing tomes.",
+  "files": [
+   "quests/7505-complete",
+   "quests/7500-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "03510218bfdf",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Zorbin Fandazzle",
+  "quest": "Fuel for the Zapping",
+  "en": "If I bet against my own better judgment and stay to run an engineering shop along the Forgotten Coast, I will need to deal with these pesky elementals. Curse the powers of elementalism unchecked, I say!\n\nFortunately for me, and now for you my hopeful agent provocateur, the elementals represent an ideal source of raw power for my Ultra-Shrinker refinement - give them the what-for I say! When doing this though, be sure to save me the water elemental cores!",
+  "files": [
+   "quests/7721-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "9a0d08ea84e1",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Zorbin Fandazzle",
+  "quest": "Fuel for the Zapping",
+  "en": "Scrumdillyriffic! These cores will keep me working for some time. Add to that the benefit of there now being fewer elementals along the coast, and I might no longer cry myself to sleep at the prospect of having set up shop in perhaps the worst place imaginable!\n\nThank you, Adventurer, for your efforts on my behalf. While it certainly straps me financially to do this, allow me to show you some gratitude you may understand and appreciate... loot!",
+  "files": [
+   "quests/7721-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "22707065739f",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Garona: A Study on Stealth and Treachery",
+  "quest": "Garona: A Study on Stealth and Treachery",
+  "en": "The tome carries the mark of the Athenaeum.",
+  "files": [
+   "quests/7498-accept",
+   "quests/7499-accept",
+   "quests/7500-accept",
+   "quests/7501-accept",
+   "quests/7502-accept",
+   "quests/7503-accept",
+   "quests/7504-accept",
+   "quests/7505-accept",
+   "quests/7506-accept",
+   "quests/7649-accept",
+   "quests/7650-accept",
+   "quests/7651-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "5d5accdcbdfa",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Orwin Gizzmick",
+  "quest": "Gordunni Cobalt",
+  "en": "I just arrived here in Feralas, and I've heard that the Gordunni Ogres that inhabit the wilds here have some interesting minerals. Who knows what they are up to, but they sure are protective of that stuff! They don't leave it just lying around; no, they bury it to protect folks like me from getting their hands on it.\n\nIf you'd be willing, I'll give you my shovel. Go to the Gordunni Outpost north of here and dig me up some Gordunni cobalt. Look for the blue glow, then start digging!",
+  "files": [
+   "quests/2987-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "3a73f2e83ae0",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Orwin Gizzmick",
+  "quest": "Gordunni Cobalt",
+  "en": "Perfect! I will take these along as I continue my travels, Adventurer. I'm sure I can find someone that will pay a pretty penny for this cobalt.\n\nHere, take this for your trouble.",
+  "files": [
+   "quests/2987-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "b35599b4fa1b",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Uzer'i",
+  "quest": "Hippogryph Muisek",
+  "en": "Since you have proven that you are both trustworthy and gifted with the ability to use the muisek vessel, I now wish you to capture another creature.\n\nHippogryphs have been loyal companions to the night elves for many years; their spirits are loyal and steadfast.\n\nYour task is to kill 10 frayfeather hippogryphs, and quickly, shrink and capture them with the vessel, so that their muisek may be preserved. You will find the hippogryphs in the High Wilderness, to the south of here.",
+  "files": [
+   "quests/3124-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "72b483189578",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Uzer'i",
+  "quest": "Hippogryph Muisek",
+  "en": "After killing an animal, if we allowed the muisek to escape, it may take the form of an even greater creature. We would never be safe from its vengeance.\n\nThis is a dangerous job I have given you, Adventurer. Again, you have completed it well.",
+  "files": [
+   "quests/3124-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "51fb68a6c13d",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Lorekeeper Javon",
+  "quest": "Holy Bologna: What the Light Won't Tell You",
+  "en": "Excellent work, Traveler. Should you find any more tomes, do not hesitate to return them to us.\n\nAs time passes, we tend to change around and even add new rewards for the return of missing tomes.",
+  "files": [
+   "quests/7504-complete",
+   "quests/7506-complete",
+   "quests/7498-complete",
+   "quests/7499-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "9195be3e9b93",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jangdor Swiftstrider",
+  "quest": "Improved Quality",
+  "en": "I have a lead on an even BETTER source of hides, if that's even possible to believe! In the northern parts of Feralas - deep within Rage Scar Hold - are another throng of yetis. They're much tougher than the ones you dealt with before, so if you're up for a bigger challenge you'd best be on your toes!\n\nI would reward you handsomely for a stack of ten of their hides; bring them to me here, and we'll finish our business.",
+  "files": [
+   "quests/7734-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "1e8cc620e91d",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jangdor Swiftstrider",
+  "quest": "Improved Quality",
+  "en": "Excellent, excellent! These are going to work out incredibly well - I can already tell that they're going to be much harder when properly cured.\n\nThanks again for your aid, Adventurer. Here - please take one of my latest creations.",
+  "files": [
+   "quests/7734-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "b4b31ab952b8",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Pratt McGrubben",
+  "quest": "Improved Quality",
+  "en": "I have a lead on an even BETTER source of hides, if that's even possible to believe! In the northern parts of Feralas - deep within Rage Scar Hold - are another throng of yetis. They're much tougher than the ones you dealt with before, so if you're up for a bigger challenge you'd best be on your toes!\n\nI would reward you handsomely for a stack of ten of their hides; bring them to me here, and we'll finish our business.",
+  "files": [
+   "quests/7733-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "0f39bc823e8d",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Pratt McGrubben",
+  "quest": "Improved Quality",
+  "en": "Excellent, excellent! These are going to work out incredibly well - I can already tell that they're going to be much harder when properly cured.\n\nThanks again for your help Adventurer. Here - please take one of my latest creations.",
+  "files": [
+   "quests/7733-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "11ef7063fadb",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Daryn Lightwind",
+  "quest": "In Search of Knowledge",
+  "en": "Take a look around, adventurer. Perhaps you will find something that I have missed.",
+  "files": [
+   "followup/4042-nightelf-female-priestess"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "c3588af4e3c7",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Troyas Moonbreeze",
+  "quest": "In Search of Knowledge",
+  "en": "While the ruins of Feralas can be quite dangerous, they have much to tell of what has happened here.\n\nSearching through the rubble to the south a few days ago, I discovered what appears to be a normal stave. However, I just can't shake the feeling that there is something more to it. Angelas and I have been poring over our books here, but we can't find a thing about it.\n\nI have a colleague in Darnassus that may be able to tell us what this is, Adventurer. Why don't you go talk to her and see if she can help us?",
+  "files": [
+   "quests/2939-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "3fc5186d1b7c",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Shyria",
+  "quest": "Jonespyre's Request",
+  "en": "Excuse me, friend...\n\nA colleague of mine would like to speak with you about the research you are doing in conjunction with the Cenarion Circle. He is a druid by the name of Quintis Jonespyre, and he resides here in Feathermoon Stronghold. He would like to confer with you about morrowgrain... and he very much would like for you to keep our discussion from the ears of the Arch Druid.\n\nIf you're interested, speak with him; no doubt, all will be revealed once you do.",
+  "files": [
+   "quests/3788-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "b0489dd1da7c",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Latronicus Moonspear",
+  "quest": "Lethtendris's Web",
+  "en": "The mage Lethtendris, a vicious blood elf whose brutality is matched only by her twisted addiction to magic, has fled into Dire Maul. She has created a device, a web to ensnare the magical energies of that place and we fear that, if left unchecked, she will cause irreparable damage to our world!\n\nStop her, Adventurer. Find her and retrieve her web. She is likely near the satyrs in Warpwood Quarter of Dire Maul. Bring the web to me so that its power may be released safely back into the wilds...",
+  "files": [
+   "quests/7488-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "9046815a20a1",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Latronicus Moonspear",
+  "quest": "Lethtendris's Web",
+  "en": "You retrieved the web! Well done, Adventurer! Lethtendris, like many elves of her ilk, are blind to the dangers the abuse of magic can cause to our world. They believe they are masters of magic; they do not realize that they are slaves to their own addiction. Her death saddens me, but it was necessary.\n\nThank you, Adventurer. I will have the energies within the web released safely over a wide area, and then I'll destroy it to prevent future magical exploits.",
+  "files": [
+   "quests/7488-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "ddf5c3cf1be1",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Talo Thornhoof",
+  "quest": "Lethtendris's Web",
+  "en": "The blood elf Lethtendris has overstepped her bounds. So eager was she to gather magical power that she defied her brethren and created a device of insidious design, a web meant to siphon the tainted magical energies of Dire Maul. Even now she gathers those energies and plans to release them against her enemies.\n\nLethtendris must be stopped. Find her within the Warpwood Quarter of Dire Maul, defeat her and bring her web to me so that it might be returned to more clear-headed blood elves for study.",
+  "files": [
+   "quests/7489-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "c94cd4a52796",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Talo Thornhoof",
+  "quest": "Lethtendris's Web",
+  "en": "You have done well, Adventurer. This web holds within it vast stores of the magic of Dire Maul, and I fear what damage may be unleashed if those energies were harnessed by one so irresponsible as Lethtendris. I am saddened by her death, but I know that she could never part with her web while alive.\n\nThank you, Adventurer. I will send the web to students of magic more responsible than Lethtendris. They will be the new wardens of its power.",
+  "files": [
+   "quests/7489-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "8b39cde09194",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Lorekeeper Lydros",
+  "quest": "Libram of Focus",
+  "en": "This libram almost aroused interest in one of the younger Lorekeeper's familiars. Poor thing, it was only a few weeks old.\n\nThose among you who are more magically inclined might find this item interesting.\n\nThe Libram of Focus was lost in this wing. I can only assume one of the Highborne spirits holds it in their possession.\n\nBring the Libram along with some large brilliant shards, skin of shadow, and a pristine black diamond and I shall conjure the Arcanum.",
+  "files": [
+   "quests/7479-accept",
+   "quests/7484-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "1b180cf02d08",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Lorekeeper Lydros",
+  "quest": "Libram of Focus",
+  "en": "Don't hurt yourself when applying the enchantment, Traveler.",
+  "files": [
+   "quests/7479-complete",
+   "quests/7484-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "25b692d4c1dd",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Lorekeeper Lydros",
+  "quest": "Libram of Protection",
+  "en": "He wept like an infant at the loss of this libram. Mind you, I myself have wept over texts - there is no greater loss than that of knowledge and history - but to cry over this nearly useless jumbling of incantations? Preposterous! It left me to believe that the Prince was doing him a favor in flaying the flesh from his bones.\n\nBring the Libram along with a pristine black diamond, large brilliant shards, and a frayed abomination stitching and I shall recreate the Arcanum.\n\nOh, and check the north wing.",
+  "files": [
+   "quests/7480-accept",
+   "quests/7485-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "8be424ad6270",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Lorekeeper Lydros",
+  "quest": "Libram of Protection",
+  "en": "Yes, yes... Calm yourself. As promised, here is your Arcanum.",
+  "files": [
+   "quests/7480-complete",
+   "quests/7485-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "28885ef75072",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Quintis Jonespyre",
+  "quest": "Morrowgrain to Feathermoon Stronghold",
+  "en": "Thanks Adventurer; I'll just store these out of the way for the time being. While I don't command the resources that Staghelm does, I am able to give you a little something for your trouble. Anyway, who knows what will happen if Staghelm keeps getting Morrowgrain after Morrowgrain. There's something fishy going on, mark my words.\n\nRemember that I'm always looking for more Morrowgrain. I'll take them in quantities of five at a time.",
+  "files": [
+   "quests/3792-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "c8a262aaa4f8",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Uzer'i",
+  "quest": "Mountain Giant Muisek",
+  "en": "The last task I will require of you is to travel to the northwest and find the final enemy.\n\nThe mountain giants left the mountains to aid the night elves when the burning legion appeared in the world. You will know them by their massive size and the way the ground begins to shake as you travel along their rocky terrain.\n\nI am eager to harness power of that size. Kill 7 mountain giants, then use the muisek vessel to capture their powerful muisek.",
+  "files": [
+   "quests/3127-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "540b15eea0cc",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Uzer'i",
+  "quest": "Mountain Giant Muisek",
+  "en": "Just imagine the possibilities of what we now possess, Adventurer. Along with the materials that you have collected, I will be able to forever trap the muisek of these creatures into whatever I wish.",
+  "files": [
+   "quests/3127-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "85563dbaffd5",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Uzer'i",
+  "quest": "Natural Materials",
+  "en": "I will need certain materials to complete my endeavor... You may do this alongside the other tasks I will give you.\n\nI'll need a splintered log from a treant of Feralas. Encrusted minerals, these can be found on the mountain giants and faerie dragons to the west. Also, find me some resilient sinew from the owlbeasts of the Hinterlands or hippogryphs of Feralas. Finally, I'll need a large amount of metallic fragments from any of these creatures I mentioned.",
+  "files": [
+   "quests/3128-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "5923f6314ec0",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Uzer'i",
+  "quest": "Natural Materials",
+  "en": "Excellent! These materials, combined with the muisek, should yield just the results we've been wanting.",
+  "files": [
+   "quests/3128-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "25d1ef2f5cbb",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jangdor Swiftstrider",
+  "quest": "Perfect Yeti Hide",
+  "en": "This is an incredible find! I believe this is the finest yeti hide specimen I have ever seen!\n\nIndeed, this is certainly worthy of an appropriate bounty. I normally don't pay that much for a single hide, but I'm confident I can make something special from it. Thanks for thinking of me on this, Adventurer!",
+  "files": [
+   "quests/7738-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "51dad1159506",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Perfect Yeti Hide",
+  "quest": "Perfect Yeti Hide",
+  "en": "You have found what may very well be a perfect yeti hide. You easily note that it is exceptionally thick and sturdy - more so than even the ones you've seen from the yeti in Rage Scar.\n\nConsidering that Jangdor Swiftstrider at Camp Mojache is in the market for yeti hides, this particular one may be of considerable interest to him.",
+  "files": [
+   "quests/7738-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "806edd7fa093",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Pratt McGrubben",
+  "quest": "Pristine Yeti Hide",
+  "en": "Incredible! You may have found the granddaddy of all yeti hides with this!\n\nYou better believe I'll pay you for it. I normally don't pay that much for a single hide, but I'm pretty sure I can make something special from it. Thanks for thinking of me on this, Adventurer!",
+  "files": [
+   "quests/7735-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "2d13b49536db",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Pristine Yeti Hide",
+  "quest": "Pristine Yeti Hide",
+  "en": "You have found a pristine yeti hide that is exceptionally thick and sturdy - more so than even the ones you've seen from the yeti in Rage Scar.\n\nConsidering that Pratt McGrubben at the Feathermoon Stronghold is in the market for yeti hides, this particular one may be of considerable interest to him.",
+  "files": [
+   "quests/7735-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "8f00778cba59",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Ginro Hearthkindle",
+  "quest": "Psychometric Reading",
+  "en": "Thanks for passing along Quint's visions to me, Adventurer. I'll try to remember to be a little easier on him the next time we play cards.\n\nRaschal can hold his own in a fight, and gnolls aren't anything that would get him worried - nay, terrified. Still, maybe you and yours can act on this new information and make the breakthrough we desperately need.",
+  "files": [
+   "quests/4130-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "75e7986dc21b",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Quintis Jonespyre",
+  "quest": "Psychometric Reading",
+  "en": "I'm a little wobbly still, sorry. Anyway, I received some useful visions.\n\nRaschal takes two large leather backpacks from his boat and goes inland; he returns to the boat, however. I see gnoll scalps... he ran into some gnolls - Woodpaw I think they're called. He's very worried - almost terrified - about something. So much so, that he is not paying attention to water elementals forming behind him. The images... stop there.\n\nI need to rest, sorry Adventurer. Tell Gin what I've seen. He needs to know.",
+  "files": [
+   "quests/4130-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "7b82d608827f",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Azj'Tordin",
+  "quest": "Pusillin and the Elder Azj'Tordin",
+  "en": "I had let my guard down for only one moment, stranger. In my haste to escape the grip of the fallen Prince, I was robbed. A most foul demon, the imp Pusillin, pilfered my book of incantations and the key to the once great halls of Eldre'Thalas.\n\nI no longer hold interest in the key, as I have exchanged my immortality for freedom, but I desperately need my book of incantations.\n\nFind the imp, Pusillin, and recover my book.\n\nSearch the Warpwood Quarter of Dire Maul for Pusillin.",
+  "files": [
+   "quests/7441-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "43bd0dac188f",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Azj'Tordin",
+  "quest": "Pusillin and the Elder Azj'Tordin",
+  "en": "You have found it! A curse upon that miserable imp. Alas, my material possessions are meager at best. You may choose from what I have to offer.",
+  "files": [
+   "quests/7441-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "da06eadd6fd0",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Zorbin Fandazzle",
+  "quest": "Refuel for the Zapping",
+  "en": "More work, you say? Did my heroic mission of collecting bits of goo found inside elemental beings not slake your thirst for adventure? Perhaps more of the same will vainly try to fill the bottomless well of questing you possess...\n\nOK, melodrama aside, I do need more water elemental cores. I'm trying desperately to set up shop here, so the rewards won't be as great... but I promise you I'll tell everyone in earshot how you've helped me. Trust me on this - I know people in the Cartel!",
+  "files": [
+   "quests/7726-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "3b2e25f1840f",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Zorbin Fandazzle",
+  "quest": "Refuel for the Zapping",
+  "en": "Top notch, Adventurer, top notch! While the coin I give you might not be the most you'll ever receive for such work, rest assured my comrades in the Steamwheedle Cartel will hear about your efforts!\n\nIf you are looking for anything else to do, then let me know. I can always use more elemental cores and such.",
+  "files": [
+   "quests/7726-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "78bd66eebf4b",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Oglethorpe Obnoticus",
+  "quest": "Rescue OOX-22/FE!",
+  "en": "Oh, YOU'RE the great savior of OOX-22/FE! I cannot even begin to express my thanks for your assistance! My homing robot series needs more development, but your recovery has saved me countless hours of extra rebuilding time, as well as many gold pieces in manufacture costs!\n\nPlease, take your choice of any of these items I have. Thank you again for your generous assistance adventurer, my robots and I are in your debt!",
+  "files": [
+   "quests/2767-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "bc9f9ac4d8a7",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Shandris Feathermoon",
+  "quest": "Return to Feathermoon Stronghold",
+  "en": "Welcome back, adventurer. Your report on this gazebo is most... disturbing. It would seem that even if the naga there were not planning on an attack, their continued presence bodes ill for our push into Feralas. At any rate, here is compensation for your investigation.\n\nIt would seem that Feathermoon Stronghold is in dire need of additional assistance concerning the Hatecrest naga. I'd like to offer you the task, if you are so inclined. There is much to do.",
+  "files": [
+   "quests/2867-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "7a26c96ee249",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Solarsal Gazebo",
+  "quest": "Return to Feathermoon Stronghold",
+  "en": "With the discovery of the strange gazebo in the heart of the Ruins of Solarsal, the time has come to return to Feathermoon Stronghold and report to General Shandris Feathermoon what has been discovered here.",
+  "files": [
+   "quests/2867-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "6f529c039c75",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Daryn Lightwind",
+  "quest": "Return to Troyas",
+  "en": "Here it is, Adventurer. Please, take care of my book.\n\nNow, hurry along. I'm sure Troyas is eager for your return.",
+  "files": [
+   "quests/2943-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "9ec15d21ff40",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Troyas Moonbreeze",
+  "quest": "Return to Troyas",
+  "en": "Feralas: A History... Hmmmm... Let me examine this for a moment.",
+  "files": [
+   "followup/4039-nightelf-male-warrior"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "07359a9b5a8b",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Troyas Moonbreeze",
+  "quest": "Return to Troyas",
+  "en": "Amazing! I think I have found it, adventurer!",
+  "files": [
+   "followup/4041-nightelf-male-warrior"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "24415ee5e898",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Troyas Moonbreeze",
+  "quest": "Return to Troyas",
+  "en": "You have brought a book along. Excellent!",
+  "files": [
+   "quests/2943-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "538f89e1b2e8",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Neeru Fireblade",
+  "quest": "Return to Witch Doctor Uzer'i",
+  "en": "Here are the herbs, Adventurer. Take them to Witch Doctor Uzer'i.\n\nPlease let him know that I am satisfied with the shrunken head.",
+  "files": [
+   "quests/3122-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "abbc0d78600b",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Uzer'i",
+  "quest": "Return to Witch Doctor Uzer'i",
+  "en": "The muisek vessels are now ready, adventurer.",
+  "files": [
+   "followup/4180-troll-male-shaman"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "7ee1ba8d8e77",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Uzer'i",
+  "quest": "Return to Witch Doctor Uzer'i",
+  "en": "This is just what I need to prepare the muisek vessel, Adventurer. Soon we will see if my latest incantations prove to be as powerful as I had hoped.\n\nPlease, a moment. I must perform the ritual and apply the herbs.",
+  "files": [
+   "quests/3122-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "2755c397f8a7",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Gracina Spiritmight",
+  "quest": "Rise of the Silithid",
+  "en": "We night elves know of the terror outlined in this report. Shandris was wise to send this, and you, to me.\n\nThese creatures will consume Feralas rapidly; they are nothing short of one of the greatest menaces we all will ever face. The insects you and the courier encountered are known as the silithid. They are mere tools of one of the greatest threats that both the Horde and Alliance will ever face.\n\nI pray we will have the resolve to defeat them before they destroy us.",
+  "files": [
+   "quests/4267-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "85c2bf1d794d",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Shandris Feathermoon",
+  "quest": "Rise of the Silithid",
+  "en": "I am entrusting you with a copy of the report Raschal made on the infestation of southeastern Feralas. While the main report is being filed in Darnassus, I want you to give this copy to an associate of the Protectorate. Her name is Gracina Spiritmight; she is a priestess who dwells in the Temple of the Moon in Darnassus. She has broad knowledge on these kinds of creatures, and her receiving this report would benefit us all.\n\nYou're dismissed - good luck, Adventurer; may Elune watch over us all.",
+  "files": [
+   "quests/4267-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "bf4394180d53",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Hadoken Swiftstrider",
+  "quest": "Stinglasher",
+  "en": "In surveying the Writhing Deep, one of our scouts reported seeing a giant insect - much larger than the other insects spotted - wandering about the twisted terrain. Not only is it larger, it also seems to secrete some sort of aura that the other insects don't. We've given it a name - Stinglasher.\n\nThe innards of this beast would be invaluable to study as we figure out the best way to deal with this new threat. Cut out its secretion glands and bring it back to me immediately!",
+  "files": [
+   "quests/7731-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "f13b9085740e",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Hadoken Swiftstrider",
+  "quest": "Stinglasher",
+  "en": "Impressive, adventurer... most impressive! If Stinglasher is indeed one of their strongest creatures, the study of the beast will prove to be quite valuable in time. It's now my charge to make sure we defend ourselves long enough to take advantage of it.\n\nPlease accept this coin bounty as a token of the entire camp's thanks, Adventurer. Well done.",
+  "files": [
+   "quests/7731-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "56010663acab",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Uzer'i",
+  "quest": "Testing the Vessel",
+  "en": "This will be a test; both of the ritual I performed, and of your abilities. Take this vessel, Adventurer. With it, you will have the power to shrink and capture a creature inside of it.\n\nTravel to the Hinterlands and look for creatures known as Wildkin that were once pets of the night elf goddess Elune. The vicious, primitive, or savage owlbeasts are your targets, Adventurer. Kill 10, and use the muisek vessel to shrink and capture them before their spirits can escape.",
+  "files": [
+   "quests/3123-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "2830d6d00ac6",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Uzer'i",
+  "quest": "Testing the Vessel",
+  "en": "Upon a violent death, the muisek of a creature may escape and seek revenge. Shrinking the creatures, as you did, Adventurer, prevents the muisek from escaping. Now we may use it as we please!",
+  "files": [
+   "quests/3123-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "e1b75e2ac949",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Falfindel Waywarder",
+  "quest": "Thalanaar Delivery",
+  "en": "Elune be praised, the delivery from Feathermoon Stronghold has finally arrived!\n\nYour presence here indicates to me that perhaps some ill fate may have befallen Raschal, our usual courier. I hope that everything works out. I know that recently, the Woodpaw have become highly agitated from some source to their south. Maybe he fell to the wilds there; I would be careful, friend.\n\nRegardless, thank you again. Here is payment for this parcel's delivery.",
+  "files": [
+   "quests/4281-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "6a95e003b56e",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Undelivered Parcel",
+  "quest": "Thalanaar Delivery",
+  "en": "This parcel of goods you found in the Woodpaw gnoll camps was supposed to be delivered to the small way-station of Thalanaar in southeastern Feralas. Regardless of the missing courier's fate, the task of delivering the parcel remains unfinished.\n\nExamining the parcel in detail reveals a hand written name of \"Falfindel Waywarder\" on the outside of the packaging. Perhaps this is the parcel's ultimate recipient.",
+  "files": [
+   "quests/4281-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "8cdf520f595c",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Hadoken Swiftstrider",
+  "quest": "The Battle Plans",
+  "en": "Ah, this is exactly what we needed. While I am not so skilled at ciphering what most of the scrawling on this map is, I've seen enough battle plans in my day to understand what is happening with the gnolls. It looks like they are currently fighting a two front war. One is with us... but it seems that their main energy has been against a foe to their south.\n\nThere's more at hand here than meets the eye. Perhaps it is time to figure out who this other foe they face really is.",
+  "files": [
+   "quests/2903-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "fcaa2cc8f10e",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Woodpaw Battle Map",
+  "quest": "The Battle Plans",
+  "en": "With the battle plans of the gnolls discovered, all that now remains is to bring the plans back to Hadoken Swiftstrider in Camp Mojache. Perhaps he or someone there can make further sense of what the gnolls are up to.",
+  "files": [
+   "quests/2903-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "46240091990d",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Curgle Cranklehop",
+  "quest": "The Borrower",
+  "en": "Are you another one of Daryn's interns? She's quite a knowledgeable historian, Adventurer. You should be grateful to be studying under her leadership.\n\nNow, let me get the Super Snapper FX. You're gonna love it!",
+  "files": [
+   "quests/2941-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "b397643eee12",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Daryn Lightwind",
+  "quest": "The Borrower",
+  "en": "I have studied many subjects in my time, and my latest fascination is with the snapjaw that occupy the beach in the Hinterlands. There's one in particular I'd like to see, a giant snapjaw named Gammerita. I'd like to go myself, but my research keeps me here. I think a picture of her would be the next best thing.\n\nTake this letter to Curgle Cranklehop in Tanaris. She has created an invention for me that can capture a picture. She called it a \"snapshot,\" I think...",
+  "files": [
+   "quests/2941-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "6cc17b5c1d59",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "A Dull and Flat Elven Blade",
+  "quest": "The Forging of Quel'Serrar",
+  "en": "If you wish to take on this task, present Lydros with the dull blade.",
+  "files": [
+   "quests/7508-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "cabb4dded571",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Lorekeeper Lydros",
+  "quest": "The Forging of Quel'Serrar",
+  "en": "If you wish to take on this task, present Lydros with the dull blade.",
+  "files": [
+   "quests/7508-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "885262f08148",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Lorekeeper Lydros",
+  "quest": "The Forging of Quel'Serrar",
+  "en": "If you manage to enter the lair of the dragon, heat the blade under her fiery breath, and ultimately temper it in her blood, I shall bind the blade for your use.",
+  "files": [
+   "quests/7508-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "c87be9ee352b",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Shay Leafrunner",
+  "quest": "The Giant Guardian",
+  "en": "Oh, I am so glad you found me! I must admit, I am a bit lost... But isn't this a beautiful place?",
+  "files": [
+   "quests/2844-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "2e60197747ea",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Knot Thimblejack",
+  "quest": "The Gordok Ogre Suit",
+  "en": "If you're going to fight the king of this dump - and I think that's what you're bound to do - then you're going to need to get by Captain Kromcrush. Now, you can get by him by killing him, sure. You might actually want to leave him alive.\n\nHow, you ask? Since I've been here, I think I know how to make an ogre suit that will last just long enough to fool these bozos. The only problem is stability - ten minutes tops. Bring me what I need, and I'll make you one. I'm not going anywhere...",
+  "files": [
+   "quests/5518-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "2377783be22d",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Knot Thimblejack",
+  "quest": "The Gordok Ogre Suit",
+  "en": "Yeah, this will do the trick. Just a slip here, and tuck here... heh - this is going to work out just fine! \nHere you go, you're all set. Remember- this isn't the most securely fashioned item in the world. You'll have ten minutes of use before it falls apart, and then you're not going to fool anybody! Try using it just before you approach him, and remember... it only will make him think that YOU are an ally - not your group mates!",
+  "files": [
+   "quests/5518-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "32107439c7d4",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Knot Thimblejack",
+  "quest": "The Gordok Ogre Suit",
+  "en": "Here ya go Adventurer - put this thing on, and you'll have ten minutes to do whatever. Good luck!\n\nOh, and if you happen to find a key to get me out of here, BY ALL MEANS LET ME KNOW!!!",
+  "files": [
+   "quests/5519-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "3106cf104bb7",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Rok Orhan",
+  "quest": "The Gordunni Orb",
+  "en": "Although I know my enemy well, I am a warrior, Adventurer. I cannot begin to tell you what this orb is capable of.\n\nI know of a mage in Orgrimmar that will be able to tell us more about the orb. Take it to him.",
+  "files": [
+   "quests/3002-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "7e164ec4992e",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Uthel'nay",
+  "quest": "The Gordunni Orb",
+  "en": "Fascinating, Adventurer...\n\nThis orb is very powerful, but also very dangerous.",
+  "files": [
+   "quests/3002-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "9b3ad6b64b22",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Gordunni Scroll",
+  "quest": "The Gordunni Scroll",
+  "en": "Picking up the soiled scroll, you notice that it seems to be depicting some sort of meeting or ceremony. Rok Orhan would be interested in this scroll, and what it might mean to the Gordunni.",
+  "files": [
+   "quests/2978-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "ed03a5ef0a78",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Rok Orhan",
+  "quest": "The Gordunni Scroll",
+  "en": "This scroll... You found this in the Gordunni Outpost?",
+  "files": [
+   "quests/2978-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "cc14b910372a",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Angelas Moonbreeze",
+  "quest": "The High Wilderness",
+  "en": "Although it is dangerous, Troyas and I have been investigating the ruins that cover the forests of Feralas.\n\nLately, though, Troyas has been going on his own to the High Wilderness, and I really worry about him. The Gordunni Ogres have taken over that area, and they don't take kindly to anyone that enters their territory.\n\nI was hoping you might be willing to travel to the ruins to the southeast and clear out some of the ogres. Make it a little safer for my Troyas, and I will be extremely grateful.",
+  "files": [
+   "quests/2982-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "5e730e416de7",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Angelas Moonbreeze",
+  "quest": "The High Wilderness",
+  "en": "I am very grateful you were able to do this for me.\n\nNow, please, don't mention a word to Troyas about this...",
+  "files": [
+   "quests/2982-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "f066730784c7",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Falrin Treeshaper",
+  "quest": "The Instigator's Enchantment",
+  "en": "I can place the enchantment you require on the banner quite easily, Adventurer. Unfortunately I don't have the materials I need as it is very rarely that someone asks for this sort of charm.\n\nI will require the essence of one of the Eldreth ghosts that haunt these halls, a handful of Scholomance dark runes and some large brilliant shards. Bring me these reagents and I shall perform this task for you.",
+  "files": [
+   "quests/8950-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "c170ad10ea68",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Falrin Treeshaper",
+  "quest": "The Instigator's Enchantment",
+  "en": "Yes, these will do just fine. After I'm done, no force in the world will be able to stop your victim from accepting your challenge.",
+  "files": [
+   "quests/8950-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "13c74e168d99",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Ginro Hearthkindle",
+  "quest": "The Knife Revealed",
+  "en": "The Stronghold's resident druid, Quintis Jonespyre, has some... unusual skills. One of them involves psychometry - the ability to reveal an item's history by touch. Don't ask me how he does it; I chalk it up to magic I do not and choose not to understand. I do know, however, two things: one, I've seen it work and two, the bum owes me.\n\nTake the knife up to Quint in his little tree-house here, and tell him for me that his Kalimdor Hold 'Em debt will be paid if he works his mojo on that knife.",
+  "files": [
+   "quests/4129-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "5b9cb9052147",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Quintis Jonespyre",
+  "quest": "The Knife Revealed",
+  "en": "I will need to focus my energies onto this knife. By doing so, I should catch some of the stronger psychic impressions associated with it.",
+  "files": [
+   "followup/5148-nightelf-male-official"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "4c373ef35005",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Quintis Jonespyre",
+  "quest": "The Knife Revealed",
+  "en": "I... I've seen enough I think... so very draining...",
+  "files": [
+   "followup/5149-nightelf-male-official"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "5498e161c616",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Quintis Jonespyre",
+  "quest": "The Knife Revealed",
+  "en": "Thank you, Adventurer.\n\nWhile psychometry isn't an exact art by any stretch of the imagination, I've used it in times past to give insight into situations that others have chalked up to lost causes. I think using it on the knife you've uncovered will give us a glimpse into what happened to Raschal.\n\nIt will only take a moment to do, but it isn't what I'd call a caster-friendly task. Bear with me on this.",
+  "files": [
+   "quests/4129-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "0d3e503d849d",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "The Left Piece of Lord Valthalak's Amulet",
+  "en": "It became known to us in later days, as we were doing what we could ourselves to survive, that Isalien, a night elf priestess of our company, had gone to the night elvic ancestral city, now known as Dire Maul. From what we gathered, she went there both for personal reasons and also to unlock the secrets of the piece of the amulet that she had in her possession.\n\nShe didn't quite make it, though. Word got back to us that she was ambushed at the Shrine of Eldretharr by Alzzin the Wildshaper and his forces.",
+  "files": [
+   "quests/8967-accept",
+   "quests/8990-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "f1881b87b763",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "The Left Piece of Lord Valthalak's Amulet",
+  "en": "Thank you, Adventurer, for putting Isalien's spirit to rest. Now, perhaps, she will find peace with her goddess. But, there is still a great deal of work ahead of us if we are to get out of this fine pickle we find ourselves in.\n\nUnfortunately, I do not know the location of the one who died with the right piece of the amulet in their possession. But do not fear; in life I was a dabbler in the art of divination, so I have another task for you, which is going to enable us to ferret out the final piece.",
+  "files": [
+   "quests/8967-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "d15de4e48592",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lorekeeper Mykos",
+  "quest": "The Light and How To Swing It",
+  "en": "Excellent work, Traveler. Should you find any more tomes, do not hesitate to return them to us.\n\nAs time passes, we tend to change around and even add new rewards for the return of missing tomes.",
+  "files": [
+   "quests/7501-complete",
+   "quests/7502-complete",
+   "quests/7503-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "4aeb2afbddb6",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Shen'dralar Ancient",
+  "quest": "The Madness Within",
+  "en": "We thank you, hero.",
+  "files": [
+   "quests/7461-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "60ca0d26d7f7",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Shen'dralar Ancient",
+  "quest": "The Madness Within",
+  "en": "Have you heard enough? Are you a man of action?\n\nThis madness must come to an end. The age of the immortals has long since passed. Destroy the guardians surrounding the pylons to lower the force field. When this is done, destroy Immol'thar. With the Prince's power greatly reduced, attack and end him. Lay the spirits of this city to rest, adventurer.",
+  "files": [
+   "quests/m-7461-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "62ce628d4ee7",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jangdor Swiftstrider",
+  "quest": "The Mark of Quality",
+  "en": "I take pride in my leather work, and I feel it shows; quality should never be compromised. Anyone who says that quality doesn't matter would also have you believe that the earth does not keep secrets!\n\nIn my latest pursuit of high-quality materials, I have discovered thick yeti hides. Yetis are native to Feralas, often found west of here in Feral Scar Vale. I'll give you a choice of one of my leather goods for a stack of ten. If that is agreeable to you, then we are set!",
+  "files": [
+   "quests/2822-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "7f49fc2b8f60",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jangdor Swiftstrider",
+  "quest": "The Mark of Quality",
+  "en": "Ah, excellent! These hides, when given a special treatment, are as resilient as iron I tell you! It will take many tries in order to get the right mix down for the tanning, but I am confident they will bring my mark of quality to the next level.\n\nAs for you, adventurer... your assistance has proven invaluable to me. Please take your choice from these items I have crafted.",
+  "files": [
+   "quests/2822-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "8fc9abd930ee",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Pratt McGrubben",
+  "quest": "The Mark of Quality",
+  "en": "My philosophy on leatherworking is that the work must be the best quality possible - no compromises. Anyone who says that quality doesn't matter is trying to sell you ocean-front property in Dun Morogh!\n\nIn my latest pursuit of high-quality materials, I have run across thick yeti hides. The Yeti are native to Feralas, with many found in Feral Scar Vale. I want some, and I'll give you a choice of one of my leather goods for a stack of ten. If that sounds fair to you, then we're in business.",
+  "files": [
+   "quests/2821-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "6198a894db44",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Pratt McGrubben",
+  "quest": "The Mark of Quality",
+  "en": "Did you stop and examine the texture of these hides? Properly treated, these hides could very well be stronger than iron. Not many people know about these hides, and that in combination with the vast treating solutions I know will allow me to potentially make items with a true mark of quality... thanks to you, of course!\n\nAnd now, please choose from what I am able to offer you for your service!",
+  "files": [
+   "quests/2821-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "55c6cdc050a1",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Ginro Hearthkindle",
+  "quest": "The Missing Courier",
+  "en": "Latro sent you to me, I presume. While I think it is a lost cause at this point, I'll take whatever assistance you can offer. I must admit... I'll be glad once I can put my mind to rest on this matter. Every day I set out into the wilds of Feralas looking for signs of Raschal, and every night I have come back with nothing to show for my work save gnoll teeth and disappointment.",
+  "files": [
+   "quests/4124-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "d3bfb534c400",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Ginro Hearthkindle",
+  "quest": "The Missing Courier",
+  "en": "It's been about a week since Raschal, the courier, set out for Thalanaar. He knows Feralas well; he's been with us since General Feathermoon led the expeditionary forces here. I know his plan was to take a row boat down the coast and try and traverse across southern Feralas to avoid the Horde camp.\n\nI couldn't find his boat, but maybe you can. Maybe it is hidden, or maybe it was sunk. Regardless, it might hold a clue as to where he is. If you uncover something, please let me know.",
+  "files": [
+   "quests/4125-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "a156162db9f9",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Latronicus Moonspear",
+  "quest": "The Missing Courier",
+  "en": "An associate of mine, Ginro Hearthkindle, is looking for assistance concerning the location of a courier and the parcels he was carrying. It has been a week or so since the courier went missing; our own searches have proved fruitless, and we're at an impasse. Unfortunately, I have had to declare the courier as missing in action.\n\nIf you have the time and resources to spare, please speak with Ginro. He should be here in the Stronghold - perhaps in his quarters.",
+  "files": [
+   "quests/4124-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "1c3d7a9a58d0",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wrecked Row Boat",
+  "quest": "The Missing Courier",
+  "en": "You have found what appears to be a wrecked row boat. Through the slightly muddy water you see gaping holes riddling the port side; the boat is nearly shredded down to its simple wooden frame. Whatever broke this boat most likely tried to snap it in two. A small crest of the Feathermoon Stronghold is painted on the starboard side.\n\nIn the mud at the base of the boat, a glint of something metallic catches your eye...",
+  "files": [
+   "quests/4125-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "183e914c4078",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Equinex Monolith",
+  "quest": "The Morrow Stone",
+  "en": "The moment the artifact is removed from the Monolith, you feel the energy in the Stave of Equinex begin to fade.",
+  "files": [
+   "quests/2942-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "ef8ca3a5972f",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Troyas Moonbreeze",
+  "quest": "The Morrow Stone",
+  "en": "I have been reading since you left, Adventurer. This stone you have found is called the Morrow Stone. While I am not entirely sure what its purpose is yet, you can be sure that it is something of great significance to be hidden away inside the Equinex Monolith the way it was.\n\nI will continue my studies, and I hope I will be able to count on you in the future, Adventurer. Thank you for all your help.",
+  "files": [
+   "quests/2942-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "213bc9b46d92",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Quintis Jonespyre",
+  "quest": "The Mystery of Morrowgrain",
+  "en": "Let me to be frank with you, Adventurer. I'm interested - nay, concerned with why the Arch Druid in Darnassus is using the name of the Cenarion Circle as well as the Circle's resources to procure vast amounts of morrowgrain. I'm a researcher - curses are my specialty. I've heard that morrowgrain, under the right conditions, exude qualities like other herbs used in primitive curses.\n\nI want to know more, and I ask for your help. Bring me ten morrowgrain, and I will be sure to take care of you.",
+  "files": [
+   "quests/3791-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "1c9b4651dc29",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Quintis Jonespyre",
+  "quest": "The Mystery of Morrowgrain",
+  "en": "Gah, these morrowgrain make me feel... weird. What in the name of Elune is Staghelm up to with these things?\n\nAnyway, thank you again for your help. Here's a little something... you know, for the effort. My research on morrowgrain is going to take a while, and I no doubt am going to need more. While I'm at it, I suppose I could take the time to see if morrowgrain have some pertinent alchemical uses. Still, I feel uncomfortable even being around them.",
+  "files": [
+   "quests/3791-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "be7f5363e8dc",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Agnar Beastamer",
+  "quest": "The Newest Member of the Family",
+  "en": "Well, well, well... I haven't seen one of these in a dragon's age. Faerie dragon, if I'm not mistaken... looks to be of the sprite darter variety. Excellent, excellent indeed.\n\nWell, if this little fella's gonna hatch and live to be strong and healthy, then we should get some food for it. Good ya got it to me in time.",
+  "files": [
+   "quests/3843-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "7fc1ca30aacf",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Quentin",
+  "quest": "The Newest Member of the Family",
+  "en": "A magnificent specimen, Adventurer. If this creature survives gestation, then it'll be a healthy pet indeed!\n\nThere is one last thing I would suggest doing if you plan on following through with this--head to Aerie Peak in the Hinterlands. Speak to a dwarf there named Agnar Beastamer, he's a master animal handler and should be able to guide you in the final steps of incubation.\n\nBut hurry, Adventurer, this egg is fragile and will not last long without proper care.",
+  "files": [
+   "quests/3843-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "ceb2912b056e",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Rok Orhan",
+  "quest": "The Ogres of Feralas",
+  "en": "The effects of the Gordunni Ogre tribe can hardly go unnoticed in this area. Look around, Adventurer; their very presence scars this land. We must push them back before they expand even further into Feralas.\n\nFollow the river north, and you will find their outpost. Decrease their numbers, Adventurer. We must show them that their kind is not wanted here.",
+  "files": [
+   "quests/2975-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "45e0918daf55",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Rok Orhan",
+  "quest": "The Ogres of Feralas",
+  "en": "Excellent, Adventurer. In time, the land will heal. We must not give up.",
+  "files": [
+   "quests/2975-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "7de3bca4ec1a",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Rok Orhan",
+  "quest": "The Ogres of Feralas",
+  "en": "Now that you have proven that you are a true fighter, I trust that you possess the courage to continue with the task at hand.\n\nTravel to the High Wilderness, southwest of here. There lie some abandoned and destroyed structures, on land that once belonged to the night elves. Look for these ruins, and when you see the withered trees and desecrated terrain, you will find the Gordunni. Push them back.\n\nThese ogres are much stronger than the ones you faced previously, Adventurer. Be aware.",
+  "files": [
+   "quests/2980-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "2534a75fda92",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Rok Orhan",
+  "quest": "The Ogres of Feralas",
+  "en": "You have proven yourself to be a trustworthy and dependable ally, Adventurer.",
+  "files": [
+   "quests/2980-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "1803c1eae357",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "The Right Piece of Lord Valthalak's Amulet",
+  "en": "Thank you, Adventurer, for putting Isalien's spirit to rest. Now, perhaps, she will find peace with her goddess. And, we have the reassembled amulet, as well! But we still have the hardest test ahead of us.\n\nIn order for the brazier to be attuned to calling forth Lord Valthalak, there are a few more items that need to be gathered and brought back to me here.",
+  "files": [
+   "quests/8990-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "621e66e7b8b0",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Shandris Feathermoon",
+  "quest": "The Ruins of Solarsal ",
+  "en": "To our south are the Ruins of Solarsal; this is an area that far pre-dates modern times. We explored the ruins initially and found nothing of note; as such, we left it in peace.\n\nVery recently, the Hatecrest naga have occupied these ruins in alarming numbers. At first, we considered it as the precursor for an attack. Though that threat is still possible, we believe there might be something else going on.\n\nGo there, explore the ruins, and look for anything that stands out to you. Good luck, adventurer.",
+  "files": [
+   "quests/2866-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "db3270fa22ee",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Solarsal Gazebo",
+  "quest": "The Ruins of Solarsal ",
+  "en": "Examining the gazebo reveals some interesting and unusual things in contrast to the surrounding ruins.\n\nFirst, the gazebo is clearly a more recent construction than the other objects in the ruins. Second, the gazebo has a small series of glyphs engraved into the sides of it; the glyphs repeat in their pattern, but it otherwise is unknown in origin and meaning. Third, the stone of the gazebo itself is warm to the touch.\n\nThis certainly quantifies as \"standing out\" in the search of the ruins!",
+  "files": [
+   "quests/2866-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "5743cdb26e54",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Equinex Monolith",
+  "quest": "The Stave of Equinex",
+  "en": "Holding the energized stave is almost impossible. Its power rumbles through your body.\n\nYou reach out to the cold surface of the Equinex Monolith...\n\nA small door opens, allowing you to reach in and take the artifact inside.\n\nBeams of light fill the area around the Equinex Monolith.",
+  "files": [
+   "quests/2879-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "3d45c7676d8f",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Troyas Moonbreeze",
+  "quest": "The Stave of Equinex",
+  "en": "This stave might be the Stave of Equinex! The Stave of Equinex is actually a key, used to unlock the Equinex Monolith in the Ruins of Ravenwind, on the mainland west of the Dream Bough.\n\nFind the four flames that still burn in those ruins: Samha, Imbel, Byltan, and Lahassa. Retrieve their essence and then while standing by the Equinex Monolith, use the essences to energize the stave. If this is truly is the Stave of Equinex, you will be able to unlock the Monolith and gather a sacred artifact from it.",
+  "files": [
+   "quests/2879-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "6d3499abbabb",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Talo Thornhoof",
+  "quest": "The Strength of Corruption",
+  "en": "Being a hunter, I strive to emulate the strengths I see in my opponents. It is possible to turn the battle in your favor by simply knowing your enemy well, Adventurer.\n\nIn a place called Felwood, north of Ashenvale, the creatures have been tainted by a substance called fel. The bears and wolves have been driven mad by it, but I believe that they have also grown even stronger as well.\n\nGo, Adventurer. Travel to Felwood and face these beasts. Learn for yourself if they are truly as strong as I believe.",
+  "files": [
+   "quests/4120-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "45f54c853823",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Talo Thornhoof",
+  "quest": "The Strength of Corruption",
+  "en": "It sounds from your descriptions as if the creatures show a mindless ferocity...\n\nStay alert, Adventurer. It would be in your best interest to learn more of the corruption. Always know your enemy.",
+  "files": [
+   "quests/4120-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "bcb078059046",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Angelas Moonbreeze",
+  "quest": "The Sunken Temple",
+  "en": "I have heard of a place that lies deep below the surface of the earth -- banished there by powers greater than I have ever seen.\n\nIf you wish to learn more of this place; the Sunken Temple, seek out a goblin named Marvon Rivetseeker. Much like Troyas and I, he has studied many ancient areas of the world. He was last known to have left his home in Ratchet to study the troll ruins in Tanaris.\n\nGood luck finding him; he hasn't been heard from in some time.",
+  "files": [
+   "quests/3445-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "766af9ab1bcc",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Curgle Cranklehop",
+  "quest": "The Super Snapper FX",
+  "en": "Have the first look at my new invention, Adventurer. All you need to do is target whatever it is you'd like to take a picture of, and push the button.\n\nWhat was that creature from the Hinterlands that you mentioned? Gammerita? Well, good luck finding her. I'm sure Daryn will be quite pleased with the snapshot you return to her.\n\nIn any case, here's the Super Snapper. Have fun!",
+  "files": [
+   "quests/2944-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "fe757d6d4ec6",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Daryn Lightwind",
+  "quest": "The Super Snapper FX",
+  "en": "Well! Curgle's invention lived up to its expectations.\n\nDon't get too excited, but do know that I am pleased with your work, Adventurer.\n\nNow, where did I leave that book...",
+  "files": [
+   "quests/2944-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "6d00b81ea12d",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Shen'dralar Ancient",
+  "quest": "The Treasure of the Shen'dralar",
+  "en": "In the library, Athenaeum, you will find an ancient chest hidden beneath the stairway. Take from it that which you desire.",
+  "files": [
+   "quests/7877-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "3e4662fd0a15",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Treasure of the Shen'dralar",
+  "quest": "The Treasure of the Shen'dralar",
+  "en": "You open the chest to find...",
+  "files": [
+   "quests/7462-complete",
+   "quests/7877-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "a56768e1edd5",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gregan Brewspewer",
+  "quest": "The Videre Elixir",
+  "en": "So, you pulled a fast one on ol' Miblon, eh?",
+  "files": [
+   "quests/4041-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "48a830f3e0db",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Ginro Hearthkindle",
+  "quest": "The Woodpaw Gnolls",
+  "en": "Our \"friends\" the Woodpaw might have gotten Raschal in the end, but something tells me that's not what occurred. Still, they're the best place to start looking.\n\nI wish I had clearer insight as to what to do, but all I have right now is 'Search the Woodpaw camps - go.' I do know that gnolls will keep items they scavenge and fight over them; maybe they ran across the backpacks Quint mentioned. I hadn't risked a head-on fight in past searches, but with Quint's vision on this I say rip into them.",
+  "files": [
+   "quests/4131-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "8542af6a8b58",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Large Leather Backpacks",
+  "quest": "The Woodpaw Gnolls",
+  "en": "Tacked up on a nearby tree are two large leather backpacks. Each bears a small insignia of the Feathermoon Stronghold on the front of the pack...",
+  "files": [
+   "quests/4131-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "d90bde86ffc6",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Large Leather Backpacks",
+  "quest": "The Writhing Deep",
+  "en": "Inside the backpacks are two items: the first is a parcel of goods that was bound for Thalanaar, and the second is a note hastily penned to an unknown reader.\n\nThe note tells of discovering insidious bug-like creatures south of the gnoll camps in a place called the Writhing Deep. The author felt the need to investigate it personally, as though it was a serious threat to all of Feralas. The note is signed, \"Raschal of Feathermoon\".\n\nIt would seem that you have located where Raschal ultimately went.",
+  "files": [
+   "quests/4135-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "e28ef4fa781d",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Zukk'ash Pod",
+  "quest": "The Writhing Deep",
+  "en": "You have discovered a large pod of an alien nature. The texture of the pod appears mucous, though hardened protrusions stick out from random parts of it. The pod itself has the height and width to easily encompass a humanoid inside of it... and from the faint humanoid shape visible through the skin of the pod, you surmise that this is what it indeed encapsulates.",
+  "files": [
+   "quests/4135-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "bb9143fe2894",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Marli Wishrunner",
+  "quest": "To the Top",
+  "en": "Would you like to see the view atop one of the twin colossals? I can send you there, traveler.\n\nDo consider how you will get down, though. This is a one way trip only.",
+  "files": [
+   "quests/3567-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "480b6c0e15ac",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Uzer'i",
+  "quest": "Treant Muisek",
+  "en": "The wandering forest walkers that can be found meandering through the forest are our next target, Adventurer. Night elves have enlisted treants as allies to fight against the horde. Their movement may be slow, but their role as protectors is undeniable.\n\nSoon we will be able to use this power for our own benefit.\n\nFind 3 wandering forest walkers; kill them, and use the muisek vessel to shrink and capture them.",
+  "files": [
+   "quests/3126-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "a3d85061f577",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Uzer'i",
+  "quest": "Treant Muisek",
+  "en": "Thank you, Adventurer. Our muisek collection is almost complete.",
+  "files": [
+   "quests/3126-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "569131329c73",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Talo Thornhoof",
+  "quest": "Vengeance on the Northspring",
+  "en": "In my day, I was a seasoned hunter. There wasn't any creature around that I feared. Until...\n\nI was out in the forest, sharpening my blade after a tough battle, when I was ambushed. Harpies surrounded me, and I barely managed to drag myself to safety.\n\nEven now, I can still hear their cries echoing...\n\nI was never the same after that. But the hate boils inside of me -- I must get even, after all these years.\n\nThe Northspring harpies can be found to the west of here. Adventurer, get my revenge.",
+  "files": [
+   "quests/3063-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "dc66dc4df6b5",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Talo Thornhoof",
+  "quest": "Vengeance on the Northspring",
+  "en": "Thank you, Adventurer. You have put an old tauren's mind at peace.",
+  "files": [
+   "quests/3063-complete"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "fbd232809441",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Shay Leafrunner",
+  "quest": "Wandering Shay",
+  "en": "Do you think you could help me find my way back to my friend, Rockbiter? He was supposed to be watching me... But I do have a tendency to wander off now and then. There are just so many things to see, and I get so distracted.\n\nThere is one thing that will always work to get my attention, though.\n\nInside this chest, you'll find a bell that is very precious to me. I just love the sound of it. You have my word, if I wander off, all you have to do is ring it and I'll come running back.",
+  "files": [
+   "quests/2845-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "507f4d833911",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Hadoken Swiftstrider",
+  "quest": "War on the Woodpaw",
+  "en": "The gnolls... they are more than a nuisance. They are a constant threat to the existence of this very camp! It is irrelevant whether they are indigenous to Feralas or not; if we do not strengthen our resolve against them, we will find ourselves driven out of the entire region.\n\nThe gnoll attacks against the camp have become more fevered as of late. We need your aid in thinning their numbers; bring to me ten of their manes, and I will reward you handsomely for your effort.\n\nGo!",
+  "files": [
+   "quests/2862-accept"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "8968565f2713",
+  "zone": "feralas",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Hadoken Swiftstrider",
+  "quest": "War on the Woodpaw",
+  "en": "This is proof of a good start, adventurer. Your skills as a soldier are to be commended.\n\nYou are not the only one I ask that task of. Many before you have fought them, and in times past our efforts have kept them at bay. Recently though, their attempts to push northward into our area of influence have increased dramatically. Their attacks have also become more savage... almost as if they were desperate.\n\nI have a plan though, adventurer, that might settle things once and for all against them...",
+  "files": [
+   "quests/2862-complete"
+  ],
+  "uiMap": 1444
+ }
+]

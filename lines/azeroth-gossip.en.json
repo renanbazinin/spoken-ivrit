@@ -1,0 +1,16 @@
+[
+ {
+  "id": "62aaf4b2d511",
+  "zone": "azeroth-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Hive'Regal Glyphed Crystal",
+  "quest": null,
+  "en": "The crystal is covered in intricate glyphs and runes. You can't make sense of any of it.",
+  "files": [
+   "gossip/580ccf1ef42fead3e20032eee01f307c"
+  ],
+  "uiMap": 947
+ }
+]

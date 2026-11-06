@@ -1,0 +1,366 @@
+[
+ {
+  "id": "a75f9c720004",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bunthen Plainswind",
+  "quest": null,
+  "en": "Would you like a flight to Thunder Bluff, courtesy of the Cenarion Circle?",
+  "files": [
+   "gossip/155c5f7fcaa47599e5718aa28c430db2"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "bca5e0896535",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bunthen Plainswind",
+  "quest": null,
+  "en": "The waters of Westfall are where you must search, due west-northwest of where the Gold Coast Quarry meets with the shore. An anchor shows where a boat has sunk beyond it, deep within the water. The underwater pressure is fierce here; swimming too far will crush even the mightiest swimmer from fatigue. \n\nLook for a natural formation to aid you, adventurer - a bubbly fissure is near here, offering deep-water swimmers a chance for renewed breath.",
+  "files": [
+   "gossip/58917c8c3ab49673db3986c9f9ce7b31"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "078078dcf1e3",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bunthen Plainswind",
+  "quest": null,
+  "en": "You're not a druid!",
+  "files": [
+   "gossip/5cfd7206f10c06184a22b230f17e7e9b"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "fe945246359f",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bunthen Plainswind",
+  "quest": null,
+  "en": "In the Silverpine Forest along the edges of the North Tide's Run, a derelict boat rests on the shore. Out to the west of this lies what you seek; swim too far and the ocean will crush you from fatigue. It resides on the ocean floor in a lockbox, waiting for you to claim it.\n\nYou'll be hard pressed to survive a dive to such depths without aid, so take heart; a bubbly fissure offers renewed breath to divers seeking this half of the pendant. Use it wisely.",
+  "files": [
+   "gossip/8f4726b4aaa640c64d970e27f5507d9f"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "ee2b3ca929fb",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bunthen Plainswind",
+  "quest": null,
+  "en": "If you're looking for a flight back to Rut'theran Village, then you should talk to my night elven counterpart, Silva Fil'naveth.",
+  "files": [
+   "gossip/e06e352070d1d0f09e52dc97d8a078e5"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "9cfcde6dffe6",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dendrite Starblaze",
+  "quest": null,
+  "en": "Greetings, adventurer. You are welcome in Nighthaven, as well as all of Moonglade. The Cenarion Circle welcomes all beings who respect the authority and command of nature.\n\nWhile you are here, please be sure to preserve the balance in all things. Disturbances are not welcome here, and our wardens are trained to cease all hostilities without question.",
+  "files": [
+   "gossip/628e4025e875b588722edea856c7e595"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "b6a6c2d50b98",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Fariel Starsong",
+  "quest": null,
+  "en": "I, like my brother, honor those who honor their ancestors. It brings me great joy to share my crafting secrets to disciples of the Lunar Festival!",
+  "files": [
+   "gossip/63da9bd89a3205deec3a0d71f3209f77"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "1cf04bcdee34",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Lunar Festival Reveler",
+  "quest": null,
+  "en": "They're going to show fireworks all night long. From 6PM until dawn, the sky will blaze over Elune'ara!",
+  "files": [
+   "gossip/3ebd4c9fbc15b539397a05f7c7e9bfb7"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "f1bb614860bf",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Lunar Festival Reveler",
+  "quest": null,
+  "en": "May your elders bless you, adventurer, and bring you luck in the coming year.",
+  "files": [
+   "gossip/5e8efcc987de096a86113fbf1f74025c"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "590ce318843a",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Lunar Festival Reveler",
+  "quest": null,
+  "en": "They put these lanterns out to commemorate the closing of the Lunar Festival.",
+  "files": [
+   "gossip/7e9c620ca526252a37ea37761109af3c"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "d13848603541",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Lunar Festival Reveler",
+  "quest": null,
+  "en": "It is the last night of the Lunar Festival. May fortune be with you!",
+  "files": [
+   "gossip/ea6aed234baf22eb98af03d184469b13"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "750985ea65b7",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rabine Saturna",
+  "quest": null,
+  "en": "In ages past, Eldre'Thalas was a nexus of magical power, and those who dwelt within its hallowed halls wielded immense power. One such night elf was Millicent Serene - a naturalist who willed the power of nature itself into potent artifacts she forged.\n\nThe Fruit of Fertility was her crowning achievement... she used a specially prepared moonwell to grow an exotic and vibrant vine that was imbued with an aura of protection and growth. All of Eldre'Thalas flourished from its existence.",
+  "files": [
+   "gossip/308540acd4522979045cee37918c6a8c"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "dac1021f4f24",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rabine Saturna",
+  "quest": null,
+  "en": "Agents of the Cenarion Circle have uncovered disturbing information pertaining to the current situation in Eldre'Thalas. I am at an impasse as to what to do about it, and I will no doubt soon seek the aid of able bodied beings capable of handling themselves in a fight.\n\nTo properly take action in Eldre'Thalas, however, is to understand the lore of an object known as the Fruit of Fertility.",
+  "files": [
+   "gossip/7a3713e922465a73a16446086589817a"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "81aaf8533ef3",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rabine Saturna",
+  "quest": null,
+  "en": "Alas, it always seems like it does. I - as did the rest of the Cenarion Circle - had assumed that Milli's creation was destroyed during the War of the Ancients. This, as I have come to learn, is far from correct.\n\nThe Fruit of Fertility survived... though now it is known as the Felvine. It is being corrupted by the demonic lord of that section of Eldre'Thalas, Alzzin the Wildshaper.",
+  "files": [
+   "gossip/7eb5b4d204e4e905b3fc4a03671e7928"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "5d0cb6f8dbdd",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rabine Saturna",
+  "quest": null,
+  "en": "Aye, but I know it by its true name - Eldre'Thalas. It was a bastion of magical power for the night elves many, many years ago.\n\nYou know of Eldre'Thalas, young one? One might say that is coincidental to my current plight... but I am one not to believe in coincidence.",
+  "files": [
+   "gossip/888a945f04773f48531be690856af34d"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "43292da4d530",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rabine Saturna",
+  "quest": null,
+  "en": "I... cannot begin to imagine, adventurer. All I know is that I am not going to allow it to happen. It will be destroyed - if not for our continued safety from demonic taint, then for the memory of Millicent Serene... Milli...\n\nThis, my friend, this is where I hope you will come in.",
+  "files": [
+   "gossip/a9d5f6215316701664aa2f69863fa29a"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "f6e5539f6e92",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rabine Saturna",
+  "quest": null,
+  "en": "Don't listen to the hearts of the world - the answer lies within. You know the truth.",
+  "files": [
+   "gossip/f4177bd0951c2f715a697139a8a7c918"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "9e3621e35921",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Silva Fil'naveth",
+  "quest": null,
+  "en": "In the northern part of Darkshore runs the Cliffspring River, flowing down from the lands now known as Felwood. As the river flows out and empties out into the Mist's Edge, travel north to where the deepest parts of the ocean begin. A stone formation that some call the Stone Claw due to its shape is where you may find what you seek.\n\nBe warned - threshers gather by the Stone Claw, and will attack those who trespass on their territory.",
+  "files": [
+   "gossip/3d6d602f1e2f055fef17cf3368d58ec6"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "731d5a090c59",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Silva Fil'naveth",
+  "quest": null,
+  "en": "In the northeastern Barrens lies a pool of water sickened by pollution. The locals call it the Sludge Fen; the Venture Company has turned the once crystal-blue waters into a mire of industrial byproducts and waste. In the heart of this fen lies what you seek, adventurer.\n\nBe warned - the Venture Company does not tolerate trespassers, and they consider anyone who does not work for them as such. You'll especially be a target as a protector of nature, something they vehemently oppose.",
+  "files": [
+   "gossip/94a4bfe6c74514d3611a508fc1a3f472"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "ea04b1dbb193",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Silva Fil'naveth",
+  "quest": null,
+  "en": "You're not a druid!",
+  "files": [
+   "gossip/b6d7af778c178854770fdd337d5b015a"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "29b9a9009e66",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Silva Fil'naveth",
+  "quest": null,
+  "en": "If you're looking for a flight back to Thunder Bluff, then you should talk to my tauren counterpart, Bunthen Plainswind.",
+  "files": [
+   "gossip/cbbd89806b3ea7f79bc9dbdcee8cdcb8"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "e4b4fa610e60",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Silva Fil'naveth",
+  "quest": null,
+  "en": "Would you like a flight to Rut'theran Village, courtesy of the Cenarion Circle?",
+  "files": [
+   "gossip/cfbd485026f0de1a03206ff943a27ce2"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "49a2f9e9456c",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Tajarri",
+  "quest": null,
+  "en": "The Shrine of Remulos is a sacred place for us in the Cenarion Circle here in Moonglade... so please conduct yourself in a manner befitting a visitor.\n\nA visitor who doesn't want my scimitar buried in them, that is.",
+  "files": [
+   "gossip/2e8e186a35fdbdc4167c9a2d1cbd23c8"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "92766db44225",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Umber",
+  "quest": null,
+  "en": "If you're looking for information that the Cenarion Circle might have archived somewhere, then I'm the one to talk to. Then again, you need to know what information you're looking for first before I can really help you.\n\nSee how that works? Brilliant!",
+  "files": [
+   "gossip/310c9f80926c7ac56d95a59b469ade54"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "4455e2f67930",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Valadar Starsong",
+  "quest": null,
+  "en": "To honor your elders is to honor your culture and your people, adventurer. For this, the Coins of Ancestry serve as a tangible means to recognize those who choose to follow a venerable path of respect.\n\nDuring this Lunar Festival, you may have the opportunity to honor many elders. As you do so, you will acquire the Coins of Ancestry. Bring me these coins, and I will reward your diligence with a selection of unique items.",
+  "files": [
+   "gossip/5ff684abf73ab59dca0e0d04d8c6f804"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "ee3d907498a3",
+  "zone": "moonglade-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Valadar Starsong",
+  "quest": null,
+  "en": "Omen sleeps in the depths of Lake Elune'ara, but may be summoned at the southeast banks near the Stormrage Barrow Dens. There, you will find special cluster launchers...\n\nUse your rockets in the launchers and Omen's minions will come. Fire more rockets, nearly three dozen, or fire Elune's candles at his minions, and soon he will awaken.",
+  "files": [
+   "gossip/8380da37ec60070f5cc0417fd12e3bc6"
+  ],
+  "uiMap": 1450
+ }
+]

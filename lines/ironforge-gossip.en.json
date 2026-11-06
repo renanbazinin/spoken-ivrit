@@ -1,0 +1,2803 @@
+[
+ {
+  "id": "0292ec880617",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alliance Brigadier General",
+  "quest": null,
+  "en": "The war against the Horde has reached full tilt, Adventurer. This is a time of great need for the Alliance and it's quite necessary that all of us do our part to help.",
+  "files": [
+   "gossip/59639744f57566c294774d64cbef1436"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "f30d2532fbb5",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Argent Quartermaster",
+  "quest": null,
+  "en": "Greetings, adventurer. If you bring me necrotic stones from the undead invaders, I can give you access to the stores of the Argent Dawn.",
+  "files": [
+   "gossip/58b18aa4a206e098e7239f5a128d11eb"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "16fc536fca2b",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Barrus",
+  "quest": null,
+  "en": "Greetings! I am here to promote a tournament to test your fishing skill in Stranglethorn. To participate you need enough might to survive there and have enough skill in fishing to coax the fish from the water.\n\n Come back later when you are more qualified!",
+  "files": [
+   "gossip/3f6b8f110896d04e7a6ad663cef0e70d"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "7c5300390548",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Barrus",
+  "quest": null,
+  "en": "Well met master of Rod and Reel! If you be willing to test your skills against the best fisher-folk in the lands then listen up! On this very Sunday there be a contest in Stranglethorn where the master angler will be chosen!",
+  "files": [
+   "gossip/999cf7c2621e41f28cf2b13cc9d97ede"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "5ab4087ad383",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Bengus Deepforge",
+  "quest": null,
+  "en": "I can't say enough about yer work, truly amazing things that ye can do with a hammer and an anvil. Now, don't be tellin anyone that I suggested ye go find a goblin to teach ye but that's exactly what I'm gonna do. Brikk Keencraft is his name, and last I heard he was operating a shop down in Booty Bay.",
+  "files": [
+   "gossip/c3356da865caee5c14d5f6bf59f6db2a"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "357cc471d9ab",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Bengus Deepforge",
+  "quest": null,
+  "en": "Ye have the look of a Blacksmith to ye. Soot under the nails, steel in yer bones. Aye, very much the blood of a Blacksmith in yer veins. Which means ye've come to me looking to learn a thing or two, well lad grab a hammer. Let's see what I can teach ye.",
+  "files": [
+   "gossip/m-6d836253374e7258f1d26abac7475d18"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "1cba6dd478f3",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Bengus Deepforge",
+  "quest": null,
+  "en": "I'm sorry lad but ye just don't have the foundation to learn what I have to teach. But don't fret, go speak with my student Rotgath, he'll help ye out.",
+  "files": [
+   "gossip/m-ae2d32ca31d33d2e9a8717028c168fb8"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "c2778c7cee26",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Bengus Deepforge",
+  "quest": null,
+  "en": "I hope ye didn't come all the way to the Great Forge just to stay warm. Speak up lad, tell me what it is I can do for ye?",
+  "files": [
+   "gossip/m-e40bd9cff0a2b475b7f856f9b06f20cd"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "64d34a43527e",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bilban Tosslespanner",
+  "quest": null,
+  "en": "Due to incompatibility on your class specification, I am unable to help you rectify any situation you have with lack of ability.",
+  "files": [
+   "gossip/43a1a5f8d367e470a976ff4bba7a35ed"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "d4edf138dd14",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bilban Tosslespanner",
+  "quest": null,
+  "en": "Excellent! You meet the required parameters and specifications. What can I do for you?",
+  "files": [
+   "gossip/bb5e78178b059f89784b631f64c36858"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "9f7147bb5536",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Bink",
+  "quest": null,
+  "en": "Well met, adventurer. You want some advice? Befriend a mage! We have a trick or two up our sleeves, we do...",
+  "files": [
+   "gossip/162dfb07afee97dc4d79532fb14ed623"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "0ed70c988a8c",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Bink",
+  "quest": null,
+  "en": "Through rigorous retraining I have had to break many students of all they had previously learned so that I might teach them anew. The service I offer becomes increasingly difficult to perform each time it is done. It is for that reason that it becomes increasingly expensive with each retraining. Do you desire that I break you of the talents you have learned?",
+  "files": [
+   "gossip/6cabdb4331ddecbb973a32e419e6be83"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "1f1f84ec2c10",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Bink",
+  "quest": null,
+  "en": "Greetings. I'm a gnome mage trainer, and you're a mage.",
+  "files": [
+   "gossip/cdf2e086bf2b6776973657b23b505e5a"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "cf87655c7552",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Bixi Wobblebonk",
+  "quest": null,
+  "en": "Buliwyf, the dwarven weapon master right here at the Timberline Arms, teaches fist weapons, guns, one and two-handed axes and one and two-handed maces.\n\nWoo Ping, the human weapon master at Weller's Arsenal in Stormwind, teaches crossbow, daggers, one and two-handed swords, polearms, and staff.\n\nIlyenia Moonfire, the night elf weapon master, resides at the Warrior's Terrace in Darnassus where she teaches bow, daggers, fist weapons, staff and throwing weapons.",
+  "files": [
+   "gossip/24fbc29bbfa684d547e89fb18cc02719"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "cadf3169235a",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Bixi Wobblebonk",
+  "quest": null,
+  "en": "Well hi there! Are you here to learn the proper technique of a new weapon?",
+  "files": [
+   "gossip/aca797c5fc53636876bb9796d70dee29"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "c8ce06dd37d5",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Braenna Flintcrag",
+  "quest": null,
+  "en": "I hope the Light is with you, adventurer. Is there anything I can do for you today?",
+  "files": [
+   "gossip/4aab004f4103403f80277e098e208dd0"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "1f5b5b60c9f7",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Braenna Flintcrag",
+  "quest": null,
+  "en": "The Light protect you, adventurer.",
+  "files": [
+   "gossip/a2d6560ac0ea81674c83c91abf44c3ec"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "f989bbd91dc2",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Brandur Ironhammer",
+  "quest": null,
+  "en": "May the Light protect you this day.",
+  "files": [
+   "gossip/b1f671a83d85773481b210fa271a5959"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "b734491ce1d8",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bubulo Acerbus",
+  "quest": null,
+  "en": "The exiles of Gnomeregan find ourselves in even more dire straits by running low on cloth reserves! Perhaps you can help us, eh?!\n\nBring me extra cloth pieces you might have to help us replenish our stocks. By donating them, you'll be earning the respect and trust of gnomes everywhere. That's something that money can't buy! Well, I guess cloth does, but that's beside the point...",
+  "files": [
+   "gossip/6b524e6f63821d7aa775800797480d02"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "7aaedd70e971",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Buliwyf Stonehand",
+  "quest": null,
+  "en": "Bixi Wobblebonk, the gnome weapon master, is wandering about in this shop. She can teach crossbow, daggers and throwing weapons.\n\nWoo Ping, the human weapon master at Weller's Arsenal in Stormwind, teaches crossbow, daggers, one and two-handed swords, polearms, and staff.\n\nIlyenia Moonfire, the night elf weapon master, resides at the Warrior's Terrace in Darnassus where she teaches bow, daggers, fist weapons, staff and throwing weapons.",
+  "files": [
+   "gossip/907cb6456b6c5ff065e865380e9b9180"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "35fc31157fbe",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Buliwyf Stonehand",
+  "quest": null,
+  "en": "Ye want to be trained in the use of a weapon, do ye? Well don't stand there slack-jawed, speak up laddie!",
+  "files": [
+   "gossip/m-944b95dab7611ca743debffc47ea0d42"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "54ff946c8551",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Courier Hammerfall",
+  "quest": null,
+  "en": "Greetings and salutations, hero! I have the latest news from both continents and points beyond for your consideration.",
+  "files": [
+   "gossip/c94ca2feeaad2ed6fcb17744b822fad7"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "9d0fadaeaf15",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Curator Thorius",
+  "quest": null,
+  "en": "Greetings, Adventurer.",
+  "files": [
+   "gossip/1339cf526a755cc8690cf68d8fc70027"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "83fca6efdf74",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Daera Brightspear",
+  "quest": null,
+  "en": "Through rigorous retraining I have had to break many students of all they had previously learned so that I might teach them anew. The service I offer becomes increasingly difficult to perform each time it is done. It is for that reason that it becomes increasingly expensive with each retraining. Do you desire that I break you of the talents you have learned?",
+  "files": [
+   "gossip/125a186cc1dc5f89644a87549bcf2140"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "1114d2b14016",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Daera Brightspear",
+  "quest": null,
+  "en": "I kinnae help ye with trainin'. Ye should look fer a adventurer trainer.",
+  "files": [
+   "gossip/50c3dde9457501168f44f5feeb295930"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "39801c3eab63",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Daera Brightspear",
+  "quest": null,
+  "en": "Wot kin I do fer ye?",
+  "files": [
+   "gossip/9c3f9e8bac3e32fdbb42974f695b0203"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "33e710d39274",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Darnassus Commendation Officer",
+  "quest": null,
+  "en": "Greetings, adventurer - I'm a Commendation Officer acting on behalf of Darnassus. It is my duty to assist adventurers who have received Alliance Commendation Signets.\n\nI accept signets in different quantities, but the most beneficial exchange for you is to hand in a set of ten at once. I will enter your deeds into our records when you hand in your signets. As a result, you will earn recognition from Darnassus for your duty and service.",
+  "files": [
+   "gossip/94e2524c35344ffbb05e9b1869c245f6"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "818053066dda",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Daryl Riknussun",
+  "quest": null,
+  "en": "I keep 'em fed, kid. Yep, Daryl Riknussun, at yer service.",
+  "files": [
+   "gossip/039eb14670494f86ef32cacf9598a8de"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "92a77290f180",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Deliana",
+  "quest": null,
+  "en": "Try not to draw too much attention, I'm waiting for the King to grant me audience. Not that I mind waiting, I feel pretty safe around all these burly guards.",
+  "files": [
+   "gossip/f555efebf575408048587026c0aa3577"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "45932adcb485",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Donal Osgood",
+  "quest": null,
+  "en": "Arathi Basin was once our home, and will be again with your aid! Will you help us adventurer?",
+  "files": [
+   "gossip/72c6e36686e172b92adf3e89a32b9bdf"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "bd809fecec3b",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Bronzebeard",
+  "quest": null,
+  "en": "Elder Goldwell spends his time in the village of Kharanos in Dun Morogh.",
+  "files": [
+   "gossip/11ccf478d11d91ad3de1ce0965dd1e7c"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "a817d7c45316",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Bronzebeard",
+  "quest": null,
+  "en": "Elder Bladeswift wanders the paths of Darnassus atop Teldrassil.",
+  "files": [
+   "gossip/7b97edf23dc2c013612ec1169de003d7"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "1a74db08ec93",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Fenthwick",
+  "quest": null,
+  "en": "I got something for you, adventurer. Looks important.",
+  "files": [
+   "gossip/1386cec4f6af29f36bd5573434ef6346"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "83308361535b",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Fenthwick",
+  "quest": null,
+  "en": "Can't help ya, adventurer. I only train rogues.",
+  "files": [
+   "gossip/43b3f8a2dccd9bc719502a75168dd3a7"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "439817a61ee8",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Fenthwick",
+  "quest": null,
+  "en": "What can I do for ya?",
+  "files": [
+   "gossip/efccc277549ac449f3a2ab1328a8b644"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "63f2725eaf58",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Field Marshal Snowfall",
+  "quest": null,
+  "en": "Greetings, adventurer. I am Field Marshal Snowfall, commander of the war effort here. We've a hard road to plow ahead of us, lad, so if you can help out, please do so. And feel free to ask questions.",
+  "files": [
+   "gossip/m-ac0a0b581e16d91b9d2a09b564f6d6c3"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "c9cc29439df3",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Fimble Finespindle",
+  "quest": null,
+  "en": "Well, I declare! It's a new student! I'll gladly teach you everything I know once you have a little more skill. Go talk to Gretta Finespindle over there, would you? She'll have you up to speed in no time.",
+  "files": [
+   "gossip/10d29ce6d81dc4cf54ce10f28a538a8b"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "b966a41a5ca0",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Fimble Finespindle",
+  "quest": null,
+  "en": "Lots to do! Haven't been this busy since my cousin accidentally vaporized all the cloth and leather in Gnomeregan. My, it was drafty for a while! Ah, adventurer, those were the days....",
+  "files": [
+   "gossip/844d2fb5a4d4d41fdd8a5e1cfc1061ab"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "3c450b7b00e7",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Fimble Finespindle",
+  "quest": null,
+  "en": "Your skills are coming along nicely. Soon you'll be running a leather shop of your own. I'll be glad for the help, adventurer. My hands are only so fast, you know? There's so much work to do!",
+  "files": [
+   "gossip/84eac8cc8416941453343ffa518cb882"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "6c6ec147aafb",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Fimble Finespindle",
+  "quest": null,
+  "en": "Nope, can't help you, I'm afraid. Your skills have mine beat! If you want to learn more, talk to the night elf Telonis in the Craftsmen's Terrace of Darnassus. He's amazing!",
+  "files": [
+   "gossip/db9fa2c2d699dd1ac20a87ea78997fd7"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "523bc3bd6e1a",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Gaily Wrapped Present",
+  "quest": null,
+  "en": "There is a pile of wrapped gifts here.",
+  "files": [
+   "gossip/8ba566373c8454ba2c9076cbe5ab1416"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "7f699d2b6d11",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "General Zog",
+  "quest": null,
+  "en": "Lok'tar, traveler. I am General Zog, ambassador of the Horde. I am here to keep you apprised of the progress that the mighty Horde is making in their efforts toward the Ahn'Qiraj War. What is it that you want to know?",
+  "files": [
+   "gossip/d2747cbf9e92ad97f5c16f908b596c77"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "0fcc656944fc",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gerrig Bonegrip",
+  "quest": null,
+  "en": "Welcome to Bonegrip's Runes and Dooms, adventurer. You may look, but do not touch.\n\nSome of the knowledge here is not meant for the...uninitiated.",
+  "files": [
+   "gossip/e9122556274f96f9c44be0119beaa6bc"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "41ab979c2839",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gimble Thistlefuzz",
+  "quest": null,
+  "en": "Okay, well... don't get cocky! Since you have demonstrated your competence though, we may now begin!",
+  "files": [
+   "gossip/6060b8c4b3447bc4bc2a3a4970d592bb"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "a8e194a26c51",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gimble Thistlefuzz",
+  "quest": null,
+  "en": "Who are you? What do you want from me?",
+  "files": [
+   "gossip/8632fa71e51a2117b8aea60d681a69cd"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "52280f2ebc89",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gimble Thistlefuzz",
+  "quest": null,
+  "en": "What do I look like, the Grand Poobah of enchanters? Your skills require the guidance of an Artisan! Go find Kitta Firewind at the Tower of Azora.",
+  "files": [
+   "gossip/87fbe434423bc54374ebb83d5f1e1cd4"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "8f5896a7ec0e",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gimble Thistlefuzz",
+  "quest": null,
+  "en": "You're joking, right? I believe you're looking for the OTHER short fellow, Thonys Pillarstone. He's downstairs. Now skedaddle!",
+  "files": [
+   "gossip/b10770dd7a0519306cbaf4e55d6acf9f"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "6cae3ff5fe86",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Glordrum Steelbeard",
+  "quest": null,
+  "en": "adventurer, have ye any idea o' what we're up against in Alterac Valley? Are ye ready to fight the Frostwolf Clan?",
+  "files": [
+   "gossip/fe70eb05a6a384f2150bdbcaad041ebd"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "5f79553f2af9",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gnoarn",
+  "quest": null,
+  "en": "Where Troggs and Leper Gnomes roam stands our home - Gnomeregan.\n\nOur families lost, our homes displaced. Scattered.\n\nOh how I long for the days of carefree Gnomeregan life, but those days are no more. We must make our stand! We must save Gnomeregan!",
+  "files": [
+   "gossip/0611a596b8d331df81155138b5af01ed"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "d532f9931172",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Golnir Bouldertoe",
+  "quest": null,
+  "en": "If you ask me, there's no greater profession than a miner. And if you ask me, there's no greater miner than a dwarf!",
+  "files": [
+   "gossip/77ab7ea3aff9f5b83ed9f444750c2f64"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "ff994c95fddd",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Greatfather Winter",
+  "quest": null,
+  "en": "I have a pretty good idea what ol' Greatfather Winter's gonna be doing when this shift is over. I got a bottle of Winter Veil cheer right here in my bag, and I intend to get to the bottom of it.",
+  "files": [
+   "gossip/56e883add54dbdeee15af3096f46347a"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "08f7e00394ed",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Greatfather Winter",
+  "quest": null,
+  "en": "Yeah, sure, go ahead and tell ol' Greatfather Winter what you'd like for this Winter's Veil.\n\nHo ho hurry up.",
+  "files": [
+   "gossip/a7303a484bddb8b02ffecc928c1f55f0"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "a67c6a631d9e",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Greatfather Winter",
+  "quest": null,
+  "en": "No... you can't sit on my lap.",
+  "files": [
+   "gossip/d182853c15566b0e4b66ef86169f2b6a"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "e0be1373c3fd",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Greatfather Winter",
+  "quest": null,
+  "en": "A wondrous Winter's Veil to you... uh... little boy. Good children get special, um, discounts at any local Smokywood Pastures vendor. Yum.",
+  "files": [
+   "gossip/m-d521f35e8a2bb45f7ecec0bd6763edf2"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "491a731b07c1",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Gretta Finespindle",
+  "quest": null,
+  "en": "This hide isn't ready to work with yet. I wish it didn't take so long to make leather. There has to be some way to cut down on all this waiting. It can't be good for my health, you know?",
+  "files": [
+   "gossip/d66a2bc101b5a2594db0e958f8da478a"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "ef8edb80406e",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grimnur Stonebrand",
+  "quest": null,
+  "en": "Yap, I can teach ye to fish.",
+  "files": [
+   "gossip/d242a87d4357b57022f9a29ca65d59ae"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "07bbed44fd22",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Groum Stonebeard",
+  "quest": null,
+  "en": "Eh? I don't have time ta chat, my da' wants me ta finish this order fer him.",
+  "files": [
+   "gossip/23e45eee692218bf280d545a69ead14a"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "0c9593aff25b",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Groum Stonebeard",
+  "quest": null,
+  "en": "Ye know more than I do, that's a certainty. Tell ye what though, go talk with me da'. He'll want ye ta prove yerself, but he is a fine teacher indeed. His name's Rotgath, and ye'll find him near the anvils workin steel for ol' Bengus.",
+  "files": [
+   "gossip/8cb31fa91b233530a009b37757a52a1c"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "f23cec64f297",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Groum Stonebeard",
+  "quest": null,
+  "en": "Ye've got a little skill on ye. Enough to learn ye a few things I wager. Let's see what I can teach ye, shall we?",
+  "files": [
+   "gossip/e7e02c3d3ac0a13d76cb2cf9dc565fb0"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "e160372c7ca4",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grumnus Steelshaper",
+  "quest": null,
+  "en": "Ye bothered me for that? Ye'd be better off strapping a dead rabbit to yer back and running through a Troll's den than wearing that piece of garbage.",
+  "files": [
+   "gossip/199016ae1623083a335a02df66eb48dd"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "a092b9a67676",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grumnus Steelshaper",
+  "quest": null,
+  "en": "adventurer, was it? That is a mighty fine piece of work ye have there. I'll take ye on, train ye how to make armor fit fer King Magni himself.",
+  "files": [
+   "gossip/5ff44c51f6575ac3bc79f634e821a9e6"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "8449e5bbb49f",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grumnus Steelshaper",
+  "quest": null,
+  "en": "Welcome back to the Great Forge, adventurer. Ye come to visit an old Dwarf or do ye think yer ready for the next step in yer training?",
+  "files": [
+   "gossip/a07c9ac1b4c67fa1992198a90d99379a"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "1fe62827b6fb",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gryth Thurden",
+  "quest": null,
+  "en": "The Wildhammer dwarves might have fast steeds, but can those Aerie Peak gryphons stand the heat of The Great Forge? I think not!",
+  "files": [
+   "gossip/d440ae293e3b396fde51ad230c446188"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "2009aee9e429",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "High Tinker Mekkatorque",
+  "quest": null,
+  "en": "Hello there, adventurer. I am High Tinker Mekkatorque of the exiles of Gnomeregan.",
+  "files": [
+   "gossip/38a1d69a314dd45283ba8da34ea6c8b5"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "b58e6486f91f",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "High Tinker Mekkatorque",
+  "quest": null,
+  "en": "Oh yes, how wonderful! I have been expecting an emissary from your people, and I am very happy to make your acquaintance.\n\nI do wish I could receive you in our home city of Gnomeregan, but our people have recently fallen on hard times and our homeland is, at present, lost to us.\n\nKing Bronzebeard is ever a friend to we gnomes however, and has graciously opened his city to us in this difficult time.\n\nI hope that your adventures on Azeroth treat you well, and I look forward to further opportunities to learn more of your people.\n\nFarewell, Adventurer.",
+  "files": [
+   "gossip/ca236f5b5f6dc0043317aa75e43240ef"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "c519df411795",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Historian Karnik",
+  "quest": null,
+  "en": "Welcome to the Explorer's League. If you need information, and it is in book form, then I might be able to help you out.",
+  "files": [
+   "gossip/d0ef52056e69de8890c17a16c8e0a5ac"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "05af07346849",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hulfdan Blackbeard",
+  "quest": null,
+  "en": "I got something for you, adventurer. Looks important.",
+  "files": [
+   "gossip/703991b7b1b4a5bcf7524b1a79f94a81"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "e7302b315474",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hulfdan Blackbeard",
+  "quest": null,
+  "en": "He grows fatter and more corrupt with each passing day. Ye can smell the stink comin' off o' his body. He be dirty, an' I dun just mean he be needin' a wash.\n\nEnough babblin' from Hulfdan. Where did ye come from and how can me help ye, adventurer?",
+  "files": [
+   "gossip/8515a7c8dc5b8746fab062eb6c4b7545"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "c522656ee210",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Are you interested in exploring one of these dungeons?",
+  "files": [
+   "gossip/036da6474362e31b5c5b8714997221d3"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "cae33c695535",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Crafted from the same vines as Razorfen Kraul, Razorfen Downs is the traditional capital city of the quilboar race. The sprawling, thorn-ridden labyrinth houses a veritable army of loyal quilboar as well as their high priests - the Death's Head tribe. Recently, however, a looming shadow has fallen over the crude den. Agents of the undead Scourge - led by the lich, Amnennar the Coldbringer - have taken control over the quilboar race and turned the maze of thorns into a bastion of undead might.",
+  "files": [
+   "gossip/0696ddb759f36db8a31b0de8dfe773e6"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "2cb3d55bd7ba",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "The Stockades are a high-security prison complex, hidden beneath the canal district of Stormwind city. Presided over by Warden Thelwater, the Stockades are home to petty crooks, political insurgents, murderers and a score of the most dangerous criminals in the land. Recently, a prisoner-led revolt has resulted in a state of pandemonium within the Stockades - where the guards have been driven out and the convicts roam free.",
+  "files": [
+   "gossip/09a72d48b06490f955cd61ccf3e6a038"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "3cc99eb48ca1",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "The Deadmines can be found beneath Moonbrook in the south of Westfall.",
+  "files": [
+   "gossip/0de78051c05d635c0f53d505687c9a11"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "40834f8ecd0a",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Maraudon is one of the most sacred sites within Desolace. The great temple/cavern is the burial place of Zaetar, one of two immortal sons born to the demigod, Cenarius. Legend holds that Zaetar and the earth elemental princess, Theradras, sired the misbegotten centaur race. It is said that upon their emergence, the barbaric centaur turned on their father and killed him. Some believe that Theradras, in her grief, trapped Zaetar's spirit within the winding cavern - used its energies for some malign purpose.",
+  "files": [
+   "gossip/1c36c2f9f75af3f1994be97e3fa76600"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "8d3cbb1e3995",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Ragefire Chasm can be found beneath the Shadow Cleft in the center of Orgrimmar.",
+  "files": [
+   "gossip/252356bb3f6f7907c717b8af0e9450c5"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "8ae3a3976d69",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Once the jewel of northern Lordaeron, the city of Stratholme is where Prince Arthas turned against his mentor, Uther Lightbringer, and slaughtered hundreds of his own subjects who were believed to have contracted the plague of undeath. Arthas' surrender to the Lich King soon followed. The broken city is now inhabited by the undead Scourge - led by the powerful lich, Kel'Thuzad, and a contingent of Scarlet Crusaders, led by Grand Crusader Dathrohan. The two sides are locked in constant, violent combat.",
+  "files": [
+   "gossip/327242bcd711775eb7720e35cac612af"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "2655afb6e132",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "The ruined city of Stratholme lies in the Eastern Plaguelands to the north of the Plaguewood.",
+  "files": [
+   "gossip/334b73436ddc4b1bda745af5eb1e4f32"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "45e5c2a5ab36",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Frustrated by the Dalaran wizards' lack of progress against the undead during the Third War, the Archmage Arugal elected to summon the extra-dimensional worgen to bolster his side's diminishing ranks. The wolf-men slaughtered the Scourge, then quickly turned on the wizards themselves and laid siege to the keep of the noble, Baron Silverlaine. The fort quickly fell into shadow and ruin. Driven mad with guilt, Arugal adopted the worgen as his children and retreated to the newly dubbed 'Shadowfang Keep'.",
+  "files": [
+   "gossip/387741cc6b9473695e470695f72c685c"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "96f6ee30acb3",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "The monastery was once a center for learning and enlightenment. With the rise of the undead Scourge during the Third War, the peaceful Monastery was converted into a stronghold of the fanatical Scarlet Crusade. The Crusaders are intolerant of all non-human races, regardless of alliance or affiliation. They believe that any and all outsiders are potential carriers of the undead plague - and must be destroyed.",
+  "files": [
+   "gossip/3ca87dd2a1766fe3430d6ece60a54be7"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "f3656b9ca3fc",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Razorfen Kraul can be found on the very southern tip of the Barrens on the west side of the road.",
+  "files": [
+   "gossip/41e7446de8a99d017f4dbbef7255bc13"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "51f4c88aa524",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "The Scholomance is housed in crypts beneath the Caer Darrow keep. Once owned by the noble Barov family, the keep fell to ruin after the Second War. As the wizard Kel'Thuzad enlisted followers for his Cult of the Damned, he often promised immortality for those who served his Lich King. The Barovs fell to his influence and donated their keep, but the cultists killed the family and turned the crypts into a school of necromancy. Though Kel'Thuzad no longer resides there, cultists and instructors still remain.",
+  "files": [
+   "gossip/637ea23cab1a47898f266b7ddbe033ca"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "5b8b7728951a",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Ragefire Chasm consists of a network of volcanic caverns below the orcs' new capital city of Orgrimmar. Recently, rumors have spread that a cult loyal to the demonic Shadow Council has taken up residence within the Chasm's fiery depths. This cult, known as the Burning Blade, threatens the very sovereignty of Durotar. Many believe that the orc Warchief Thrall is aware of the Blade's existence and has chosen not to destroy it in the hopes that its members might lead him straight to the Shadow Council.",
+  "files": [
+   "gossip/672d1e8529c61b7cd4745f6b33011c68"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "91a539b914c5",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Maraudon is located in the middle of the western coast of Desolace, in the Valley of Spears.",
+  "files": [
+   "gossip/722216dcb64e2fd4e0adfbec7f5a169e"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "314df230271f",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Blackfathom Deeps can be found at the north end of Zoram Strand along the coast of Ashenvale.",
+  "files": [
+   "gossip/77aa9a2034ff610f83189bb1b5922172"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "dcd2ccfe0349",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "During the War of the Ancients, the demigod Agamaggan came forth to battle the Burning Legion. The colossal boar was defeated, and over time in the areas where his blood fell, massive thorn-ridden vines sprouted to life. The quilboar came to occupy these regions and hold them sacred. The heart of these massive thorn-colonies is the Razorfen. Razorfen Kraul was conquered by the crone, Charlga Razorflank, who some speculate has been negotiating with agents of the Scourge for some insidious purpose.",
+  "files": [
+   "gossip/7f5e67249a1d4971841ece6127c8d749"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "7b76c119c2c7",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "The ruins of Dire Maul stand in central Ferelas.",
+  "files": [
+   "gossip/8bcc27057464ad8295116b381b58f4c4"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "f7325326bbf3",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Shadowfang Keep is in southern Silverpine just north of Pyrewood Village.",
+  "files": [
+   "gossip/8fb15b22af529953dc80e7257f2df256"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "f18e5e221fb7",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Situated along the Zoram Strand of Ashenvale, Blackfathom Deeps was once a glorious temple dedicated to the night elves' moon-goddess Elune. However, the great Sundering shattered the temple - sinking it beneath the waves of the Veiled Sea. There it remained untouched - until, drawn by its ancient power - the naga and satyr emerged to plumb its secrets. Legends hold that the ancient beast, Aku'mai, has taken up residence within the temple's ruins.",
+  "files": [
+   "gossip/970d265673ae5fad5a5c1dc628457490"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "d4f7d24cdc24",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Located in Dun Morogh, Gnomeregan has been the gnomes' capital city for generations, though it was recently infested by mutant troggs. In a desperate attempt to retaliate, High Tinker Mekkatorque ordered the emergency venting of the city's radioactive waste tanks. Though the troggs became irradiated, their siege continued unabated and the gnomes were forced to seek refuge in the dwarven city of Ironforge, where the High Tinker now enlists brave souls to help his people reclaim their beloved city.",
+  "files": [
+   "gossip/a4d0603824a832576cec3e3d0e01eb3a"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "1344007dcde2",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Once the greatest gold production center in the human lands, the Dead Mines are now inhabited by the Defias Brotherhood, who have turned the dark tunnels into their private sanctum. It is rumored that the thieves have conscripted the clever goblins to help them build something terrible at the bottom of the mines - but what that may be is still uncertain. Rumor has it that the way into the Deadmines lies through the quiet, unassuming village of Moonbrook.",
+  "files": [
+   "gossip/a8a237543c2ca2b43003dda93eb3bc66"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "1fcf0ace2e45",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "The Wailing Caverns has its entrance at the Lushwater Oasis southwest of Crossroads in the Barrens.",
+  "files": [
+   "gossip/adddbf128dedf6f6ca7aac8e3be5bf92"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "b91fa0fbaa07",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "The School for Necromancy known as Scholomance is on the ruined island of Caer Darrow in the Western Plaguelands.",
+  "files": [
+   "gossip/b1f375bae193622f365bfe78f36e26a6"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "6f5eec15d7f7",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Gnomeregan can be found in western Dun Morogh.",
+  "files": [
+   "gossip/b5a78d9a4eb2335b05dc3e74b7bf93d2"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "91f7ead6b714",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "The mighty fortress carved within the fiery bowels of Blackrock Mountain was held by the sinister Dark Iron dwarves for centuries until Nefarian - the cunning son of the dragon, Deathwing - took control of the upper Spire and made war on the dwarves' holdings in the mountain's volcanic depths. Realizing that the dwarves were led by the mighty fire elemental, Ragnaros - Nefarian vowed to crush his enemies and claim the whole of Blackrock mountain for himself.",
+  "files": [
+   "gossip/b81280ccbca7aa10e3280895aec17ea5"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "71cc28f34359",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Razorfen Downs can be found on the very southern tip of the Barrens on the east side of the road.",
+  "files": [
+   "gossip/b85a4524b031030828761221440ff4cd"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "3bbe54805a5a",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Recently, a night elf druid named Naralex discovered a network of underground caverns within the heart of the Barrens. Believing he could use the caverns' springs to restore lushness to the Barrens, the druid began siphoning the energies of the fabled Emerald Dream. His vision somehow became a nightmare, however, and soon the Wailing Caverns changed into a den of vicious, deadly predators. It is said that Naralex still resides somewhere inside the labyrinth, trapped beyond the edges of the Emerald Dream.",
+  "files": [
+   "gossip/bddcb2f11ff849b592a1d76b4d46b5d1"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "71108de7ca91",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "The ruins of Zul'Farrak are located in the northwestern corner of the Tanaris Desert.",
+  "files": [
+   "gossip/be509dfb481fe127dfd82ad17e93b19e"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "bd7ad4cf2b11",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Uldaman is an ancient Titan vault that has laid buried within the earth since the world's creation. Dwarven excavations of the city have recently released the Titans' first failed creations: the troggs. Legends say that when the Titans deemed the trogg experiment a failure they tried again, resulting in the creation of the dwarven race. These secrets are recorded on the fabled Discs of Norgannon - massive artifacts that lie at the bottom of the ancient city, protected by giant constructs of living stone.",
+  "files": [
+   "gossip/c7a772d767a66660e5da8715a151a796"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "3d2a0266cf6e",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Over a thousand years ago a group of troll priests known as the Atal'ai attempted to bring back an ancient blood god named Hakkar the Soulflayer. After the resulting civil war the priests were defeated and exiled to the Swamp of Sorrows. There they erected a temple to Hakkar to prepare for his arrival into the physical world. The dragon Aspect Ysera soon learned of the Atal'ai's plans and smashed the temple beneath the marshes. To this day, the temple's ruins are guarded by the mighty green dragons.",
+  "files": [
+   "gossip/d0b8820f2e1f29977d61ec36fbba4c37"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "febc77312c0c",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Once the capital city of the Dark Iron dwarves, this volcanic labyrinth now serves as the seat of power for Ragnaros the Firelord. Ragnaros has uncovered the secret to creating life from stone and plans to build an army of unstoppable golems to aid him in conquering the whole of Blackrock Mountain. Obsessed with defeating Nefarian and his draconic minions, Ragnaros will go to any extreme to achieve final victory.",
+  "files": [
+   "gossip/d4c8367f7e096bd61f9f2c15a639c5d5"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "96ed6372070a",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "The Sunken Temple can be found in the center of a great lake in eastern Swamp of Sorrows.",
+  "files": [
+   "gossip/d590cc10020ce147fee1519be78c0e51"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "7d9c7a3d87ad",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Built twelve thousand years ago by a covert sect of night elf sorcerers, the ancient city of Eldre'Thalas was used to protect Queen Azshara's most prized arcane secrets. Though it was ravaged by the Great Sundering of the world, much of the wondrous city still stands as the imposing Dire Maul. The ruins' three distinct districts have been overrun by all manner of creatures - especially the spectral highborne, foul satyr and brutish ogres.",
+  "files": [
+   "gossip/dfbf5c158793a5d635b039bb99fbcd86"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "496f23552f47",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Blackrock Mountain lies between Searing Gorge in the north and Burning Steppes in the south.",
+  "files": [
+   "gossip/e0678027d988e76f5db5e0b28bd5fded"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "ae709c9d1586",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Scarlet Monastery lies in the hills northeast of Tirisfal Glades.",
+  "files": [
+   "gossip/e303428e45f8504ab95951e7cf3b15a5"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "d3ec4a35222c",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "Uldaman can be found at the very northern end of the Badlands.",
+  "files": [
+   "gossip/e395d0b7e6c95518344f6330e935cace"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "6a94e58eabdc",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "The Stormwind Stockades are found near the mage quarter in Stormwind.",
+  "files": [
+   "gossip/e9e63692c2220a4c865d9adef19b35e9"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "ef60e414c181",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Helbrek",
+  "quest": null,
+  "en": "This sun-blasted city is home to the Sandfury trolls, known for their particular ruthlessness and dark mysticism. Troll legends tell of a powerful sword called Sul'thraze the Lasher, a weapon capable of instilling fear and weakness in even the most formidable of foes. Long ago, the weapon was split in half. However, rumors have circulated that the two halves may be found somewhere within Zul'Farrak's walls.",
+  "files": [
+   "gossip/ecab747cb61959b39b57ef0de545ae6e"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "c02235d4936a",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Taking care of animals is something that Ulbrek Firehand takes quite seriously. He usually hangs out with the hunters at the Hall of Arms if ye want him to look after a pet or two.",
+  "files": [
+   "gossip/02f503b66aaa06ff7cf2372c215ba1f0"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "f3750c97cf28",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Grimnur Stonebrand will tell ye some whoppers about the one that got away, but he's still one o' the best fishermen around. He's got a shop set up in The Forlorn Cavern called the Traveling Fisherman.",
+  "files": [
+   "gossip/0ddcbbb7af1ef15099416e16690edff4"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "6222dbfc193e",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Yer looking for an Alchemy trainer are ye? Just came from there, I did. Ye'll find Ms. Berryfizz over in Tinker Town where the gnomes gather. \n\n::sigh:: ...why o' why didn't I take the blue potion.",
+  "files": [
+   "gossip/10124c09c298bee683297933e30e1865"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "bde742946126",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "You can find a mailbox right o'er by The Stonefire Tavern. It's just north of the gates of Ironforge.",
+  "files": [
+   "gossip/164f8858641d9fa2782d051756979421"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "e14218537f8d",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Balthus Stoneflayer is the one to see about Skinning. If it can be skinned, he can teach ye how. Just walk yerself over to Finespindle's Leather Goods on the northern side of The Great Forge.",
+  "files": [
+   "gossip/19d7a62aa644748c5d13eaad7341a221"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "878ca6a57773",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Where better to look for a dark and brooding lot, than the dark section of Ironforge, aptly named The Forlorn Cavern. Thistleheart is sure to be found there, likely summoning some manner of vile creature to do his bidding.",
+  "files": [
+   "gossip/205d885c660f13d010f41ecd69423cc6"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "b214d23d39cd",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Brandur Ironhammer would be the one ye'd want to see. Ye can find him in the Hall of Mysteries north of the gates of Ironforge.",
+  "files": [
+   "gossip/31c78e407d6e78277f84d7122edc2533"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "4f8792bc335c",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Now why would ye be needing the services of one of those types? We get enough trouble out of that rogue, Hulfdan Blackbeard, over in The Forlorn Cavern, do I need to be turning my eye to you as well?",
+  "files": [
+   "gossip/36ac17a15ff106629b6c52dbefcd7203"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "b49621807e6d",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "The League of Arathor is trying to reclaim their ancestral holdings in Arathi Basin from the Forsaken. If you would aid them adventurer speak to Donal Osgood in the Hall of Arms.",
+  "files": [
+   "gossip/44b04e19a4aa4b719b00c378a9acd900"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "985f0d98f576",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Aye, and which battleground be ye looking for?",
+  "files": [
+   "gossip/495cb758f46f91069a540dc47968d5b3"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "15d1ac9d743a",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Ah, Braenna Flintcrag. She has magic hands, that one. Braenna is the one to see about Priestly matters. \n\nYe'll want to travel north from the gates of Ironforge to the Hall of Mysteries. That's where ye'll find her.",
+  "files": [
+   "gossip/59e9a008fc9fe41cf912bf06861683df"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "7356633479bd",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Skinning? The only thing ye look like ye could skin is yer own knee! Ha! Now why don't you go see Balthus Stoneflayer so he can teach you how to properly skin some animals. You'll find him in Finespindle's Leather Goods on the northern side of The Great Forge.",
+  "files": [
+   "gossip/5a0adca7c8c31d843cea219178821576"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "1beef200e5f0",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Och! That Daryl Riknussun is a brilliant cook! He makes a chilli so hot ye could temper steel with it! I don't think he'll teach ye the recipe, but he'll certainly help ye to become a good cook. Ye'll find him at the Bronze Kettle o'er on the northeastern side of The Great Forge.",
+  "files": [
+   "gossip/5a9c20e893c2fd018c67b13bea773ae2"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "1aef13e0ca2b",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Warsong Gulch you say? Well then, you'll be wanting to speak with fair Lylandris over in the Hall of Arms.",
+  "files": [
+   "gossip/65538115404a72c45137bf80f3f5572c"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "2bd31b035e9e",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "If yer thinking about forming a guild, then ye'll need to put it past Jondor Steelbrow o'er in the Ironforge Visitor's Center. Just head southeast from the gates of Ironforge to see him.",
+  "files": [
+   "gossip/67bc72e3f75682dc138f1d22ef089d92"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "662d8bab90d0",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Ah, I believe Gimble Thistlefuzz is who ye'll be needing if yer looking to learn the Enchanter's profession. Ye'll find Gimble in his shop, Thistlefuzz Arcanery, right by the Gryphon Master at The Great Forge.",
+  "files": [
+   "gossip/6e1942115134fa4728a8bd01469f0ee2"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "6bdfc393a799",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "The tinkerer's craft for you is it? No doubt ye'll want to go see Springspindle Fizzlegear in Tinker Town. \n\nJust head east from the gates of Ironforge, or follow the sound of the explosions.",
+  "files": [
+   "gossip/6edc9f2da8079aff91202f55fb3e3dc7"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "551d225f798a",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "The bank? Oh, ye mean The Vault! No safer place to store yer valuables than The Vault. Ye'll find it just northeast of the entrance to Ironforge.",
+  "files": [
+   "gossip/726ce72b8aa754ecf613d9315fa35780"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "fa8bf92c71fa",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Och! Ye seek training in the way of the warrior, do ye? Kelstrum Stonebreaker will put ye through yer paces! Just march yerself over to the Hall of Arms east of the gates of Ironforge.",
+  "files": [
+   "gossip/740a72f70d8805a7b803e0d29dbe0d05"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "be0970916dd6",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "That Jormund Stonebrow has a knack for the needle, he does. Should you be needing some training, then you'll find him at Stonebrow's Clothier on the northern side of The Great Forge.",
+  "files": [
+   "gossip/759b920689d00afab4a880a03c8bd208"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "8eb4783703ed",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Do we have Mining trainers here? Where do ye think ye are!? \n\nWhy you'll find one o' the best miners in all Dun Morogh at the Deepmountain Mining Guild on the northern side of The Great Forge. There, Geofram Bouldertoe will show ye the true art of mining.",
+  "files": [
+   "gossip/75e0a88cc8fcf68c42a9c9a4f31ea193"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "aa40aaa76d33",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "An Alchemy trainer is what you need? Well, I just came from there, I did. Ye'll find Ms. Berryfizz over in Tinker Town where the gnomes gather.",
+  "files": [
+   "gossip/76c8e36d99bf968b0318157d711f4ce3"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "efd2fef5459d",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Are ye really askin' me where the Blacksmith is? Have ye not heard of The Great Forge!? All our best blacksmiths gather there to craft their weapons and armor! \n\nIt's dead smack in the middle of Ironforge, and that's where you'll find one of our most brilliant blacksmiths, Bengus Deepforge.",
+  "files": [
+   "gossip/79bd37ced9c62943a531dbe47af6053b"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "e1338d366f9c",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Well now, ye'll need papers to form a guild, and Jondor Steelbrow can help you get started with the process. He can be found over at the Ironforge Visitor's Center when yer ready to get started.",
+  "files": [
+   "gossip/7b31a92e46c77d8643368a8d82916e89"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "c753517e63d1",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Well ye'd be sure to find some training in the magical arts over in the Hall of Mysteries, north of the gates of Ironforge. Juli Stormkettle can always be found there with her nose in a book.",
+  "files": [
+   "gossip/7e98ceebc9414083a4cc3fb3ae42f394"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "6259951779cb",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Looking to take a ride on a gryphon, now are ye? Gryth Thurden is the one ye'll want to be seeing about that. \n\nYe can find him on the eastern side of The Great Forge in the middle of Ironforge.",
+  "files": [
+   "gossip/818c80ba62a6062182774f0d488d44b8"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "d3c67dd71677",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Over in the Hall of Arms you can find our resident stable master, Ulbrek Firehand. He'll make sure any pets ye have are well fed and rightly cared for.",
+  "files": [
+   "gossip/8417670da6e88a3c0046fbf19a284faf"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "d45c1ffb6884",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "The Inn? Ah, ye looking to toss back some of the best ales Ironforge has to offer? The Stonefire Tavern is where ye'll want to go. \n\nYe'll find it just to the left of the entrance to Ironforge if ye be coming, or to the right if ye be going.",
+  "files": [
+   "gossip/886fa9ce5bf2e50d6df39dca00c5e72c"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "ae1069fd14a5",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "That wee wizardly lass, Bink, over in the Hall of Mysteries would probably be able to help ye out with any magical needs you have. \n\nThe Hall of Mysteries is just north of the gates of Ironforge.",
+  "files": [
+   "gossip/8d292d1b067d993333147a509e6e409c"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "8a74d19d8422",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Flowers and seeds and such? That would be Reyna Stonebranch's area of expertise. Ye can find her tending to her plants over at the Ironforge Physician on the southern side of The Great Forge.",
+  "files": [
+   "gossip/9341074330c1dbc19f8fdf714badbebf"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "e466e680188f",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "If yer of need of an Inn, The Stonefire Inn is where ye should be. Ye'll find it just to the left of the entrance to Ironforge if ye be coming, or to the right if ye be going. \n\nOh, and if yer going that way, then tell them to have a tankard ready for me.",
+  "files": [
+   "gossip/9678dcc90aee99c0461684dd12aa5a6d"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "b4003523d5bd",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Between Bixi and Buliwyf, there ain't many weapons they haven't had the pleasure of slashing or smashing an orc with. You can find them hanging out at the Timberline Arms weapon shop if ye need some training.",
+  "files": [
+   "gossip/96990add552d311d4fe9f5b1e0e496d4"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "c7fd3157d7b3",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Sure ye don't want to be a Blacksmith? Well, if yer heart is set on Leatherworking, then you best talk to Fimble Finespindle over at his shop on the northwest side of The Great Forge.",
+  "files": [
+   "gossip/a3b00fdf92a61d7b9b93fae27791e95f"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "5ab5dc83bb71",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "The humans are in need of your assistance in their fight against The Forsaken at Arathi Basin. Go to the Hall of Arms and speak with their representative, Donal Osgood.",
+  "files": [
+   "gossip/a551a630e051c403297c7c5b9ebba84b"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "e2f1fbd2263c",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "A valuable skill First Aid is. Our resident trainer, Nissa Firestone, can show ye how it's done. Look for her on the southern side of The Great Forge at the Ironforge Physician.",
+  "files": [
+   "gossip/aa54bc8510198f4330f29e9a0b3eae00"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "71e3ae1cf26f",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "First Aid? Well ye don't look hurt to me. If yer really interested in learning First Aid, then Nissa Firestone is the one to learn from. Go see her over by The Great Forge in her shop, The Ironforge Physician.",
+  "files": [
+   "gossip/acbd5104f14dbadffa1e4f40e28a6ffd"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "f4b7a6cf3db6",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "I once heard ol' Grimnur say he fished up a sword. Or was it a swordfish? Damn that Grimnur, he's told so many fish tales I can't remember which is which. Well, why don't you go see him over in The Forlorn Cavern and have him tell you what it was.",
+  "files": [
+   "gossip/b4e38865182ec7942e86379c3c9fcdf9"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "d15dab206b85",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Oh, the tram, the tram... everyone wants to ride the tram. What happened to the good ol' days of flying on the back of a gryphon, gripping the saddle for dear life as you flew up high in the sky above? \n\nBah! You go take the tram then... it's over in Tinker Town with the rest of the gnomish contraptions.",
+  "files": [
+   "gossip/b6f01b7cfb83b6af6ea28d402cd03b91"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "61e066857a3d",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Ah, nothing better than a priest to cure what ails ye. Of course a nice tall pint cures a lot of what ails ye too, but I don't think Braenna Flintcrag teaches brewing. I guess ye'll have to settle for some priest training over in the Hall of Mysteries instead.",
+  "files": [
+   "gossip/c813addf44eeb3041f9442747e4f19b7"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "f264bf332430",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Ye might not know it, but in addition to being a skilled tailor, Jormund is also a slayer of giants! Why he must have overheard a few of us sharing stories when he shouted that he'd killed seven with one blow! \n\nYe should pay him a visit at his store on the north side of The Great Forge an' see if he'll tell ye the tale!",
+  "files": [
+   "gossip/c8b7cc29723f78c9a33d40dd94b43a31"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "3550521659aa",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Oh, you're looking for Springspindle Fizzlegear then. Why that little gnome and his gadgets... Let me tell you, if you're going to his shop in Tinker Town, keep your hands to yourself and don't pet any of his mechanical sheep! \n\nExploding sheep... now why would you even make such a thing!?",
+  "files": [
+   "gossip/cb4411cf05a5193ed1592cf994d7a1e6"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "73cb0fa7d52d",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Ah, nothing quite like a ride on a gryphon, is there? The night elves can keep those hippo's of theirs, just give me a gryphon and the wind in me hair! \n\nWell now, I won't keep ye any longer, just head over to Gryth Thurden on the east side of The Great Forge and he'll get ye on yer way.",
+  "files": [
+   "gossip/cb6734d0257007705c4566a44b980164"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "b2e589e4f0b9",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Kelstrum is a loudmouth and a braggart... and if that weren't enough he's also one of the most skilled warriors ye'll ever meet! \n\nI tell ye, if ye're looking to be trained in the ways of a warrior, that's who ye should be talking to. I'm sure he can be found over in the Hall of Arms east of the Gates of Ironforge.",
+  "files": [
+   "gossip/cbf2a15cc62d3fbd23d5f088837de2bf"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "21cd020f967c",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Bah! Mailboxes... all I get is junk mail lately! \n\nIncrease the size of this... decrease the size of that... act now for your free Sword of Dragonslaying. I have to change my mailbox number every other month! \n\nWell, ye can't say I didn't warn ye. If you're looking for the mailbox it's just outside the Stonefire Tavern.",
+  "files": [
+   "gossip/cc8d5bdde66d34c96aeda15e29b244e5"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "420faa01db7b",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Do ye have some new treasures that ye want to keep safe n' sound? Then ye'll be wanting to store them at The Vault with the Stonemantles. \n\nYe'll find The Vault just a hammer's throw northeast from the entrance to Ironforge.",
+  "files": [
+   "gossip/d3430aba4fb0b400b8dca87cf1df8b15"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "4eddee014737",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Where is the Auction House? Why it's right by the gates of Ironforge as you enter our fine city. Ye'll find it just across from The Vault.",
+  "files": [
+   "gossip/d6e64cdc436665776809311fd999e5cd"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "db4f61fc99a4",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "I overheard Regnus Thundergranite in the Hall of Arms bragging about a new trophy for his den the other day. If yer looking for training from a skilled hunter, Regnus is the one to see.",
+  "files": [
+   "gossip/d93d0f3b1e5ea15a5dd989a27017ef56"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "646659c1b25f",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Ah, Alterac Valley, I have fine memories I tell ya. Well, I cannot join ya, but do me proud just the same! To get there you'll be wanting to speak with Glordrum Steelbeard at the Hall of Arms here in Ironforge.",
+  "files": [
+   "gossip/e06fd55d9c7b155fdb8e8ed8c2d4b286"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "e67ff742c65e",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Aye, everyone wants to ride the tram, it's a real hoot and a half. Well, if ye want to find the tram, it's located over in Tinker Town just east of the gates of Ironforge.",
+  "files": [
+   "gossip/e151e5a6629ea4a4c716bafbf9cf9641"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "959639b4ed0f",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Fimble Finespindle has a shop set up on the northwest side of The Great Forge. I wager he could show ye how to make some fine armor.",
+  "files": [
+   "gossip/e6b5bccb2a9112e11e11306a28cbcb09"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "ced55ab9c6a5",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "A Cooking trainer is it? Well then, get yerself over to the Bronze Kettle on the northeastern side of The Great Forge. Daryl Riknussun will teach ye to make a mighty fine dish that's sure to put the life back in ye!",
+  "files": [
+   "gossip/f62abc611ce83aa205cd0e2b5918cc10"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "58041afde2ab",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Any chance to fight against the Horde, especially orcs, is a good time if you ask me. You'll find plenty of battle in Warsong Gulch, that you will. Head on over to the Hall of Arms and speak with Lylandris. She'll set you on your way.",
+  "files": [
+   "gossip/fa89dafc6960a6d66ea3bc3288a08a03"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "094485714078",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Ye've come to the right place lad! People come here from all o'er the world to train to be a blacksmith. Ye'll find Bengus Deepforge hammering away at an anvil in the middle of our fine city by The Great Forge itself.",
+  "files": [
+   "gossip/m-2ffc912f1ac294a9f6bb188522b88c70"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "a23dbbb6184f",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Do ye have the potential to be a skilled hunter? Well laddie, only time will tell. Just don't ye go shooting at apples atop peoples' heads till ye've spoken with Regnus o'er in the Hall of Arms.",
+  "files": [
+   "gossip/m-4ee53decdddf5b8264e87b7865aae7ab"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "ae408d18b6ec",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Well well! You've come to the right place to learn Mining, boyo! Geofram Bouldertoe himself resides at the Deepmountain Mining Guild. Ye couldn't ask for a better instructor than him.",
+  "files": [
+   "gossip/m-57c3f67ebbf0020b5e1987aa2869782f"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "4043b9e5a34c",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Och! Ye should be careful what ye get enchanted lad. I had me mug enchanted so it wouldn't spill a drop, but now I can't drink from it! Such a tragedy. \n\nYou be sure to heed me advice when ye see Gimble. He'll be in his shop right by the Gryphon Master at The Great Forge.",
+  "files": [
+   "gossip/m-5906a29765d2173d53b9ab776005d62b"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "7c3efa403bab",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Ah, good ol' Brandur Ironhammer. There's no doubt he'll provide ye with the guidance ye seek, lad. Ye'll find him in the Hall of Mysteries north of the gates of Ironforge.",
+  "files": [
+   "gossip/m-63f213a9fe7d396bded4b0fcdb6f51b1"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "731028eabb53",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "A warlock, eh... Well, if you've got a mind to be doing that sort of thing around here then ye best keep yer demons on a leash boyo. I don't like demons, but I love putting mah axe to them. Ye get me? \n\nNow you just leave me be and go get lost in The Forlorn Cavern. That's where you'll find that warlock, Thistleheart.",
+  "files": [
+   "gossip/m-8dd3f0d79f6df157dda9178efcf166dd"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "806578d13937",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "All the roguish types hang out in The Forlorn Cavern, north of the gates of Ironforge. I'd wager ye'll find Fenthwick there, no doubt counting the coin of another cut purse. I'll catch him one of these days! \n\nIn the meantime I'll have my eye on you as well, lad.",
+  "files": [
+   "gossip/m-9528aea502ae9f7db96fe57bfe2c7e48"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "54276b312c79",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Oh, ye want to learn to pick some daisies do ye? Ha! I'm just teasing ye laddie. \n\nA fine profession it is, and Reyna Stonebranch can show ye how it's done. She works at the Ironforge Physician on the southern side of The Great Forge.",
+  "files": [
+   "gossip/m-9ba6396c2f8ca0fde5f32bf5810ac783"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "58a2d3a39e03",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "So lad, you think you have what it takes to defend the Alliance against the Horde in Alterac Valley? Very well then, you will want to speak with our very own Glordrum Steelbeard here in Ironforge. You'll find him strategizing over the war table in the Hall of Arms.",
+  "files": [
+   "gossip/m-f0b32b90ead935933c43bb1468fa3f95"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "208c91232bdc",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Guard",
+  "quest": null,
+  "en": "Yer looking to learn how to use a new weapon are ye? Well, ye should be talking to Bixi or Buliwyf over at the Timberline Arms weapon shop then lad. They know their weapons from axes to... uh... zweihanders.",
+  "files": [
+   "gossip/m-fc659204f3f853f42dd60c81107e99b8"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "4e051ce20f29",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Reveler",
+  "quest": null,
+  "en": "Well met, friend!",
+  "files": [
+   "gossip/43ccb729b1ae428d1ed345812ed65bd0"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "dc875889a0bf",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Reveler",
+  "quest": null,
+  "en": "I don't know what they put in those kegs, but it goes down like honey!",
+  "files": [
+   "gossip/8667d501338eab68c0b14814dab835dd"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "6d86738578c4",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Reveler",
+  "quest": null,
+  "en": "Be sure to stick around for the next firework show! Starting at 6PM, they're every hour on the hour!",
+  "files": [
+   "gossip/9946d1873a48e8fbc8fac8ab278eb276"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "96932bd7f588",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Reveler",
+  "quest": null,
+  "en": "I sure could use a kiss about now. Know where I can find one?",
+  "files": [
+   "gossip/bafd33062e7a5ef7f88bd3ac468a4a2e"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "1baaa463218f",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Reveler",
+  "quest": null,
+  "en": "After the firework show, they'll put out goblets so we can raise a toast!",
+  "files": [
+   "gossip/ed03fb23ae16fb04599c13080c1acffe"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "296827461421",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironus Coldsteel",
+  "quest": null,
+  "en": "Greetings, traveler.",
+  "files": [
+   "gossip/ff6b7b64cb17b855134fc86b013b44ba",
+   "gossip/d8461992f589cbc9e251cd2872a33b62"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "c146a17a6d23",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Jemma Quikswitch",
+  "quest": null,
+  "en": "I heard the new Henweigh 6000 will be rolling off the assembly line soon. I can barely contain my excitement!",
+  "files": [
+   "gossip/2b87e1e15de666a355e9344472dc0289"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "102a85fa927a",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Jemma Quikswitch",
+  "quest": null,
+  "en": "I'd love to teach you! Show my sister she's not the only one who knows a thing or two about engineering...",
+  "files": [
+   "gossip/40798c8f61800bb3be5e40fd48e87515"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "309d71df50ee",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Jemma Quikswitch",
+  "quest": null,
+  "en": "Well... I hate to admit it, but my sister's the one you'll have to talk to if you want to continue training. I don't know as much as she does... yet! She's standing over by the rocket car.",
+  "files": [
+   "gossip/bc4c0de7e227a1661c90d7b622f3e02f"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "917aa500848f",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Jondor Steelbrow",
+  "quest": null,
+  "en": "Aye, you look the type to be a leader. Here to organize a guild to fight for the Alliance?",
+  "files": [
+   "gossip/f775a0450139eacb7f76a973d4915e00"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "85fc6a764c28",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Jormund Stonebrow",
+  "quest": null,
+  "en": "Ah, this Darnassian fabric is the finest!",
+  "files": [
+   "gossip/5eab0d76d4ff9ea837e56c38ac2add13"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "c62fd4d92537",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Jormund Stonebrow",
+  "quest": null,
+  "en": "I don't have time to babysit! Go talk to me assistant, Uthrar!",
+  "files": [
+   "gossip/5f5302a774fbbd3527130d5ba986e049"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "be10644af7be",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Jormund Stonebrow",
+  "quest": null,
+  "en": "Well, aren't you the smarty-pants? Ye know more than I do, I can tell ye that! Don't go getting' a big head, but if ye want to keep learnin', have a chat with Georgio Bolero in Stormwind. They say he knows his tailorin'!",
+  "files": [
+   "gossip/852840d250a1d2a2cf4c3f13dd2cdfdf"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "eafd0782c14d",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Jormund Stonebrow",
+  "quest": null,
+  "en": "Hmm... you show a little promise, I'll give you that. Okay then, where were we?",
+  "files": [
+   "gossip/fc2e2e0ae153eab86ed8c1d8e1012b1d"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "3bed47e6304d",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Katrina Shimmerstar",
+  "quest": null,
+  "en": "Happy Hallow's End! Do you like my mask? Very scary!",
+  "files": [
+   "gossip/3bc518d31131ac14baee97e92ff44f6e"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "0ee200bc8707",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Katrina Shimmerstar",
+  "quest": null,
+  "en": "What ISN'T there to do, you mean!\n\nEach of the innkeepers throughout the world are handing out trick-or-treat goodies, and many of the towns are decorated for the season! Also, Sergeant Hartman in Southshore needs help against the Forsaken and their Wickerman Festival.\n\nOne more thing - I've heard that a sick little boy at the orphanage in Stormwind is looking for someone to help him gather treats for the holiday.",
+  "files": [
+   "gossip/413f1f49e910de4126637d428d95ef9c"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "d9ace0fb23c6",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "King Magni Bronzebeard",
+  "quest": null,
+  "en": "Ah, so you have. You are most welcome in Ironforge, adventurer.\n\nThis city is the seat of the Bronzebeard Clan. We are an ancient and proud people and our craftsmen are second to none. You'll find no finer creations of metal or stonework than dwarven-make.\n\nWe are also amongst boldest of explorers on Azeroth. If you have a taste for adventure, you will be in good company amongst our people.\n\nThank you for speaking with me, Adventurer. Go now with the blessings of the Bronzebeard Clan.\n\nI wish you and your people well.",
+  "files": [
+   "gossip/c8a295d96318cfe25c08103ab90745a4"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "0317222764bb",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "King Magni Bronzebeard",
+  "quest": null,
+  "en": "Welcome to Ironforge, adventurer.",
+  "files": [
+   "gossip/da139f8c3bd6d9d5e183b9248e3b2403"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "e8881877a565",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Klockmort Spannerspan",
+  "quest": null,
+  "en": "I'm on quest. A quest! A quest for new alloys and harder metals for the greatest invention of all!!",
+  "files": [
+   "gossip/fd36929e9e25bc691e23d0c229fdab40"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "36a836524ebb",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Laris Geardawdle",
+  "quest": null,
+  "en": "Look at these samples! What does it mean? What does it mean? I'm going to need time, time to look at all this information. And I'll need more information. Information I can't get... damn! Think, Laris, think!\n\nWhat are you going to do? What?!\n\nThere has to be a solution!",
+  "files": [
+   "gossip/325202f61bd075f89ee398965028ddbf"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "bfb3a20b991c",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Laris Geardawdle",
+  "quest": null,
+  "en": "Amazing, aren't they? All these artifacts and remains.\n\nI'm not sure what I'm more impressed by, their size, or the stories that go along with them. There's so much to study and learn. And the connections we can make...\n\nDid you know rumor has it that many races have the same heritage as Night elves?",
+  "files": [
+   "gossip/42caaa998442825e5b9fbce4fbeebb15"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "ab37330b28bc",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Laris Geardawdle",
+  "quest": null,
+  "en": "It'll definitely not be anywhere in the Eastern Kingdoms, that's for sure.\n\nIt'll have to be somwhere on Kalimdor, but still far enough away from the Horde and other races. Someplace unaffected by the Sundering--that means no where near the Night elves' civilization either.\n\nI would guess it'd be someplace protected also... like a valley, or a crater. I don't know. I'm just guessing now. I'm sorry I couldn't help you more.",
+  "files": [
+   "gossip/5064c5f5065d6cee4390d39aafdd640a"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "703c4d31c718",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Laris Geardawdle",
+  "quest": null,
+  "en": "No, not that I can tell. It seems to be mostly based on region. Some races have labled them slimes, some oozes. It seems to be preference mostly.\n\nEvery time I've encountered ooze, sludge, or slime they have basically been the same creatures. The differences seem to be based on their environment, which is why we need a pure sample.",
+  "files": [
+   "gossip/b987f43f6e42e054381a65cb49093b00"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "85b2cb402aaa",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Laris Geardawdle",
+  "quest": null,
+  "en": "A pure sample would be one that's uncorrupted by unintentional influences. We need to find the creatures in the most basic, normal environment we can.\n\nThat means somewhere devoid of civilization or the effects of the dominant races of Azeroth. Someplace... untouched.",
+  "files": [
+   "gossip/f2a8da67c8ee4c6d3a3393f105fc59f6"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "7026afd0ab9d",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "League of Arathor Emissary",
+  "quest": null,
+  "en": "Thank you for the offer, adventurer. Unfortunately you are not yet experienced enough to weather the hazards of Arathi Basin.",
+  "files": [
+   "gossip/a7aeb4a623d4e606d380ae2595ce637e"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "8aa5fd36dc05",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "League of Arathor Emissary",
+  "quest": null,
+  "en": "Will you help us in our time of great need at Arathi Basin, adventurer? The chance for increased honor and standing is greater than ever, and your assistance is sure to help to turn the tide against The Defilers. Can we count on you?",
+  "files": [
+   "gossip/f89a0bf28da74e8eb8f97d6f99a54359"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "8dca9b4b1e1c",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Lylandris",
+  "quest": null,
+  "en": "Adventurer, we need your assistance at Warsong Gulch. Will you aid us in our fight against the Warsong Outriders?",
+  "files": [
+   "gossip/d02d422dcd7131e686d6532177696d9a"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "9f6f96bd0034",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lylandris",
+  "quest": null,
+  "en": "Adventurer, we need your assistance at Warsong Gulch. Will you aid us in our fight against the Warsong Outriders?",
+  "files": [
+   "gossip/dd959e61c698ff0b58943c6cce1a774d"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "dccb039bf54b",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Master Sergeant Fizzlebolt",
+  "quest": null,
+  "en": "Well met, adventurer. I hope you are here to inquire on the Ahn'Qiraj war effort. We are going to need a great deal of assistance.\n\nThe war effort is a united effort between the Alliance and Horde to prepare for the upcoming war against the Silithid and their masters in Ahn'Qiraj. In the Military Ward of Ironforge, we are collecting all manner of goods to create our war materiel from, and these gathering tasks are what we need your help with.\n\nCan I convince you to speak with our commander about pitching in?",
+  "files": [
+   "gossip/715abbee6fe7adab32ccbe9ca9fc20d0"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "2c16b24945ea",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Melnan Darkstone",
+  "quest": null,
+  "en": "The Darkmoon Faire is coming to town! Don't miss it!",
+  "files": [
+   "gossip/0b8c021e068c941cfeacca0fdc06342d"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "a9d5627e5b57",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Melnan Darkstone",
+  "quest": null,
+  "en": "The Darkmoon Faire has come to town! Be sure to experience the most thrilling show you'll ever see?",
+  "files": [
+   "gossip/3aa015524426a84e50f001c38fa67af3"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "4a6ae2d8328a",
+  "zone": "ironforge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Melnan Darkstone",
+  "quest": null,
+  "en": "Step right up and hear about the most amazing spectacle in all of Azeroth - the Darkmoon Faire! Huzzah!",
+  "files": [
+   "gossip/6d6ca23ecd5ae25cef66ba84f4d8acb5"
+  ],
+  "uiMap": 1455
+ }
+]

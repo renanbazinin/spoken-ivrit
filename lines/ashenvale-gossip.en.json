@@ -1,0 +1,156 @@
+[
+ {
+  "id": "ce847c04dfae",
+  "zone": "ashenvale-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Delgren the Purifier",
+  "quest": null,
+  "en": "Good day, lad! Perhaps you could help me with some things that need to be taken care of.",
+  "files": [
+   "gossip/m-91058db50d61e967510b5e5942d0d3a6"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "f5862cdb0f16",
+  "zone": "ashenvale-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Illiyana Moonblaze",
+  "quest": null,
+  "en": "May the blessings of the night be yours, friend! I am Illiyana Moonblaze, and I am the main supplier for the Silverwing Sentinels here in Ashenvale. As you improve your standing with the Sentinels, I will make available to you a fine selection of goods that you can use inside Warsong Gulch. Should you find yourself in need of item repair, I also provide those services.",
+  "files": [
+   "gossip/195812b7e9f6837cc257437efd0f0dfd"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "bdb8d100efd3",
+  "zone": "ashenvale-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Kayneth Stillwind",
+  "quest": null,
+  "en": "The balance of nature is a delicate one, and easily tipped. Are you brave enough to make things right?",
+  "files": [
+   "gossip/cbed37216e2b581656842149819367bc"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "475735488ade",
+  "zone": "ashenvale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mastok Wrilehiss",
+  "quest": null,
+  "en": "If you want to know about the comings and goings of caravans and merchants here in Splintertree Post, then I am fortunately the orc you are looking for. Unfortunately for you though, I don't like people.\n\nIf you want something, make it quick.",
+  "files": [
+   "gossip/0d07f0a4ca3a5cd318acb1ed5b17e3de"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "f1fcf7638a0f",
+  "zone": "ashenvale-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Orendil Broadleaf",
+  "quest": null,
+  "en": "Ashenvale is a lush forest, brimming with life. It is a pleasure to walk down its secret paths in search of herbs, but one must take care. The forest is not without its dangers.",
+  "files": [
+   "gossip/7e4eedcbc310a8889bc2d0b287ef099b"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "07aac943e66a",
+  "zone": "ashenvale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Pixel",
+  "quest": null,
+  "en": "This forest can be confusing! Be careful out there.",
+  "files": [
+   "gossip/6021998ac094693ef86cf366f8e389f8"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "6a4c254f0673",
+  "zone": "ashenvale-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Senani Thunderheart",
+  "quest": null,
+  "en": "This nightsaber is rumored to be docile in the presence of night elves and their allies, which makes her an even more worthy opponent. Shadumbra's hunting path takes her from the Raynewood Retreat to our west, ultimately to lands due west of there. Her fur is the color of pitch, and her speed is not to be underestimated.",
+  "files": [
+   "gossip/12b6c7a941e965437e30f09d3a14b002"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "a7ed36b5c62e",
+  "zone": "ashenvale-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Senani Thunderheart",
+  "quest": null,
+  "en": "This bear wanders a path close to where the Talondeep Path lies, due west of Mystral Lake and the Alliance outpost of Silverwind Refuge. While he is the easiest of the three creatures you will face on the Ashenvale Hunt, he should not be trifled with. His presence is a constant threat to travelers who sojourn between Ashenvale and the Stonetalon Mountains.",
+  "files": [
+   "gossip/d1f866875591d687da8e4a807ff8fed2"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "65b534f76e66",
+  "zone": "ashenvale-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Senani Thunderheart",
+  "quest": null,
+  "en": "Do you hear the call of the hunt, adventurer? You must listen closely, but the call comes from deep within you. It comes from deep within all of us.",
+  "files": [
+   "gossip/d6db8cda45395ece303eac030d3ff6f3"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "1fd3c860b4b7",
+  "zone": "ashenvale-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Senani Thunderheart",
+  "quest": null,
+  "en": "The mightiest of all the beasts that make up the Ashenvale Hunt, Sharptalon is let to wander freely by the self-proclaimed guardians of this land, the night elves. Sharptalon patrols for prey to the south of here, taking delight in rending the unsuspecting and unaware traveler limb from limb.\n\nTo bring down such a beast would be the mightiest of hauls, adventurer. I wish you luck in the hunt for this creature!",
+  "files": [
+   "gossip/dab92356ed8e0a6f55c5ecdea69948a1"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "df1230978c78",
+  "zone": "ashenvale-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Farsong",
+  "quest": null,
+  "en": "The battle for Warsong Gulch is a battle that we cannot lose. We fight for our honor and we fight for our land, and no orc or misguided ally will take them from us!",
+  "files": [
+   "gossip/9701a4e7da22327ecb2b934e24b01980"
+  ],
+  "uiMap": 1440
+ }
+]

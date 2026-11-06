@@ -1,0 +1,2679 @@
+[
+ {
+  "id": "772aebfa4b96",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aethalas",
+  "quest": null,
+  "en": "Greetings adventurer. Do you wish to aid the Silverwing Sentinels in their fight at Warsong Gulch?",
+  "files": [
+   "gossip/5f903d5d4508abe7b82460c9b5fcf80e"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "5ae0bb1556b2",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aethalas",
+  "quest": null,
+  "en": "I am sorry adventurer, but you are not seasoned enough yet to enter Warsong Gulch.",
+  "files": [
+   "gossip/db6d2a2e49b804a2cf643369c2d678f3"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "95f143664922",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ainethil",
+  "quest": null,
+  "en": "Your education is progressing well. You should be proud of your accomplishments.",
+  "files": [
+   "gossip/015468259c43500419a2f50f203dbd3e"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "f249086bf94e",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ainethil",
+  "quest": null,
+  "en": "This potion seems to heal less damage every time I brew it, though I use the same ingredients. There can be only one conclusion: the plants are changing. I cannot say why or into what.",
+  "files": [
+   "gossip/13119ff66e549fa7660732b19647f9bd"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "dcdf571c8783",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ainethil",
+  "quest": null,
+  "en": "Your skill at brewing potions needs to be greater before you can become one of my students. In the meantime, perhaps Sylvanna Forestmoon or Milla Fairancora can help you, just over there.",
+  "files": [
+   "gossip/58b32f3b07654af166e55ee5ae463360"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "6252bdf32eb8",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ainethil",
+  "quest": null,
+  "en": "It is time you moved on to a more advanced teacher. In the Feathermoon Stronghold of Feralas dwells the night elf Kylanna Windwhisper. She has a brilliant mind; doubtless she can train you further.",
+  "files": [
+   "gossip/a6416950bbc59cd6baa28946a3f76041"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "662c0f237592",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Alegorn",
+  "quest": null,
+  "en": "Dirge Quikcleave of Gadgetzan is a master of the culinary arts. To better yourself you will need to seek him out.",
+  "files": [
+   "gossip/39b65bdd01752b5105cbbb2683f8191b"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "1882f25125f4",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Alegorn",
+  "quest": null,
+  "en": "Seek out Shandrina in Silverwind Refuge. She can sell you the \"Expert Cookbook\".",
+  "files": [
+   "gossip/9530fe03acd8fd0d529479909397654b"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "9e39f3abae1c",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Alegorn",
+  "quest": null,
+  "en": "Cooking is a life long pursuit and I see we share the same passion!",
+  "files": [
+   "gossip/95be6f4a5e8c06f411a7922aba42f920"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "ef5c0ab3e4b2",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Alegorn",
+  "quest": null,
+  "en": "I can teach you how to cook!",
+  "files": [
+   "gossip/d8db5bcf701df43b6392f5a3b85ce404"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "306c2e96077e",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Fandral Staghelm",
+  "quest": null,
+  "en": "Yes, but you'll find it more rewarding if you have skill in herbalism! You will be required to nurture and cultivate special seeds -- not to swing an axe blindly or gesticulate wildly at passing shadows. While the Evergreen Pouch you'll receive allows even the simplest brute to grow something, those who show some aptitude will have more bountiful results.",
+  "files": [
+   "gossip/246b760cf38fc3d7b56b064fcda8d886"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "b2c6ade6de3c",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Fandral Staghelm",
+  "quest": null,
+  "en": "If you are here to waste my time, then you are wasting the time of the Cenarion Circle as a whole. For your sake, let us hope that you are not foolish enough to be doing just that.",
+  "files": [
+   "gossip/dbf255d67eb367a5e2e26df7615ab1d9"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "83d08f3e1c3e",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Argent Dawn Paladin",
+  "quest": null,
+  "en": "The battle is won. For the time being, the Scourge threat has been pushed back. Our resources can be channeled into aiding you, in thanks and preparation for the future.",
+  "files": [
+   "gossip/4b36cae8ffab10bd243caafa37fd7ebd"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "ca5bb2bc277d",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Argent Dawn Paladin",
+  "quest": null,
+  "en": "The first steps of our fight against the Scourge go well. We have had some successes, and hopefully my assistance can aid you in bringing future success to the battle.",
+  "files": [
+   "gossip/b4933008c7c76fbea261d6b6ba7192ca"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "331767a4adcc",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Argent Dawn Paladin",
+  "quest": null,
+  "en": "The battle goes well. The Scourge forces seem weakened. I believe it will only be a matter of time before we drive them from our shores. I will turn my magics to you, to aid in this struggle.",
+  "files": [
+   "gossip/fdaab9e2b8a9ef75ee889a83109b9758"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "ce807271d1e4",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Astaia",
+  "quest": null,
+  "en": "You will need to find Nat Pagle in Dustwallow Marsh to get any better than you are currently.",
+  "files": [
+   "gossip/49c592e9b3c5eeb0c33e65239b4c0b06"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "0938b208a0b4",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Astaia",
+  "quest": null,
+  "en": "I can teach you fishing skills.",
+  "files": [
+   "gossip/b4dab18389b060695ecdb043fb33d368"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "68e63d280253",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Astaia",
+  "quest": null,
+  "en": "Your skill exceeds mine, though I've heard that Old Man Heming in Booty Bay has copies of \"The Bass and You\". That is sure to help you increase your skill.",
+  "files": [
+   "gossip/e170ac547f813e355db1e3b75f753815"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "77b42dc4cef3",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Brogun Stoneshield",
+  "quest": null,
+  "en": "I am sorry adventurer, but you need to be more experienced before you can survive in Alterac Valley.",
+  "files": [
+   "gossip/f78c3c41a85a94fe125292149c2763de"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "d1ca89aeeecf",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Brogun Stoneshield",
+  "quest": null,
+  "en": "Aye lad are ye ready to head to Alterac Valley and give the Horde a taste o' what they been asking for?",
+  "files": [
+   "gossip/m-8b3c666dc6e4c0c98f9d6747a2aea0f8"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "871e6a6ac1da",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dannelor",
+  "quest": null,
+  "en": "The esteemed Doctor Gustaf VanHowzen can train you further. He can be found in Theramore treating the wounded at the barracks.",
+  "files": [
+   "gossip/d3686c1236f20aa21b8980c23e1b8adb"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "9a20d59aa13a",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dannelor",
+  "quest": null,
+  "en": "I can train you in First Aid techniques.",
+  "files": [
+   "gossip/d4d40db0ea32c39f6285731935893eca"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "835e19dab180",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dannelor",
+  "quest": null,
+  "en": "I've heard it said that Deneb Walker, holed up in Stromgarde, has a book that is sure to help improve your First Aid techniques.",
+  "files": [
+   "gossip/f4ce78e835b2a64f849bbc3c885698a9"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "7646c9577342",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darianna",
+  "quest": null,
+  "en": "If you're interested in sewing with leather, you've certainly come to the right place. Faldron and Telonis are true artists, and I hope to learn much from them.",
+  "files": [
+   "gossip/ce221bcf9ee4474099d2525c5ca9f11a"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "ce7f89418b87",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "Jocaste was the greatest of Hunters of her time. These days you can find her over in the Cenarion Enclave where she teaches those who are just starting down the Hunter's path.",
+  "files": [
+   "gossip/00076a2f6e55d2922d9773ef70577aa5"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "916390dd3f01",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "A time consuming, yet rewarding skill. Speak with Astaia in the Tradesman's Terrace and maybe you'll learn something useful.",
+  "files": [
+   "gossip/04597ac6ff8258c56c07b668a4c288ac"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "64a717941606",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "Here in Darnassus you will find skilled trainers who have perfected the skills of their chosen class through ages of training and dedication. I will guide you to one who can become your mentor, you have but to name your chosen path.",
+  "files": [
+   "gossip/05f41dc20d172bc58dcbca463c852a7a"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "ae6c3cba1f30",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "Ever vigilant in their protection of the natural world, the druids are guided by Arch Druid Fandral Staghelm who resides in the Cenarion Enclave. You will find him and the other Druid trainers in the northern section of Darnassus.",
+  "files": [
+   "gossip/1050e24a7181b4781e75952eb85b3d9a"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "e981653e7bd9",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "The gathering and knowledge of herbs is a specialty of Firodren Mooncaller. Seek him out in the Temple Gardens in the southwestern area of Darnassus.",
+  "files": [
+   "gossip/1e49a3cf6e73b8db88f365f3278429d3"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "bdf3faa10e7a",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "It is Vesprystus that you seek. He watches over the hippogryphs that come and go from the base of Teldrassil. You will find him through the portal in western Darnassus that will take you to Rut'theran Village.",
+  "files": [
+   "gossip/21666b1c2ab2afe583fd533d9f03402b"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "0fc487ac7aa1",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "Because the blade can never be too sharp nor the armor too tough a talented enchanter will always be needed. Such an enchanter is Taladan, who can show you how to properly weave enchantments to improve your weapons and armor. Seek him out in the Craftsmen's Terrace.",
+  "files": [
+   "gossip/244792d6c2e0f82f39ae6c0a4b8bc872"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "31dcab9020bc",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "You would certainly be looking for Me'Lynn if you have any hope of learning to be a tailor. She resides at the Craftsmen's Terrace in northeastern Darnassus.",
+  "files": [
+   "gossip/244b2695394eae58d2ff7f21af8ec998"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "b2b406bc80d6",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "Sildinair has trained many of the Sentinels who guard our beloved city. I am certain she can make a warrior out of the likes of you. Seek her out at the Warrior's Terrace near the entrance to our city.",
+  "files": [
+   "gossip/2fe98252b42a97d60efb568891e47919"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "f9a6b9dcb8d1",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "If you desire to form a fellowship then it is the guild master, Lysheana, that you must see. You will find her in the Craftsmen's Terrace in the northeastern section of Darnassus.",
+  "files": [
+   "gossip/36a062f0dc1636d9af51d4236918fc7a"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "c6caf51d60e1",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "Elune be praised! You seek out our Warsong Gulch Battlemaster? Her name is Aethalas, and she stands ready to greet you near the warrior trainers.",
+  "files": [
+   "gossip/3b431228797b39bb81cdc82774f643d5"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "b2d7046df9cc",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "Lysheana can offer you the proper documents, she resides in the Craftsmen's Terrace in northeasten Darnassus. May your fellowship bring glory to the Night Elves!",
+  "files": [
+   "gossip/3eb0dbc4dec391944ba49aa445235c37"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "e25874c2cd91",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "I received the majority of my weapons training from Ilyenia Moonfire in the Warrior's Terrace. You would do well to seek her out if you desire to learn the use of a new weapon.",
+  "files": [
+   "gossip/3fdb5882d52420a10cedda5c6704aa3b"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "e3077cf828f9",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "For many hundreds of years Alassin has cared for the animals that our hunters befriend. His care of animals is highly sought for by the hunters around here. If you seek him as well, then look for him in the Cenarion Enclave.",
+  "files": [
+   "gossip/417a4e706b4f46ae4fb091d34eec2534"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "04df025570be",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "The skill with which Telonis crafts armor is beyond compare. You should be grateful that he does not charge more for the knowledge he passes to others. Go now and seek him out in the Craftsmen's Terrace in the northeast section of Darnassus.",
+  "files": [
+   "gossip/460a90211acc699941f3d86d6b4ff971"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "1c455de2f2e1",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "Has the sun risen already? There are just never enough hours in the night! Well, Saelienne will take good care of you. You can find her tending to her guests over in the Craftsmen's Terrace in northeastern Darnassus.",
+  "files": [
+   "gossip/4a2ffe6ddb889c11783a240b6fbb5753"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "ca0499558f45",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "A mailbox? You have a letter to send, or perhaps have received one? I hope it's something good! There's a mailbox right outside of the Bank in the center of Darnassus.",
+  "files": [
+   "gossip/4f8593ba9dc0933eabfbe1601c8a4af6"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "55e0ffd4dff2",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "Though I find the cool grass which covers Teldrassil as good a bed as any, the beds which Saelienne keeps at the Inn in Craftsman's Terrace are quite suitable for those with a taste for luxury.",
+  "files": [
+   "gossip/5573d0a9c052f20b0f5fb6476dc53256"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "d39abb09b350",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "The Temple of the Moon is home to the priests of Elune. There you will find Jandria and Lariia, who will provide you with further guidance in the path of priesthood.",
+  "files": [
+   "gossip/5963595e8e789ae76d21d76349020da9"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "b7722b903c0f",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "You can trust any pets you have to be well taken care of by Alassin. He resides in the Cenarion Enclave where the hunters gather.",
+  "files": [
+   "gossip/59d50b4f9dac8cf71ca0cfbdeaec5833"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "7934f2862911",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "Of all the wondrous places within Darnassus, which would you have me direct you to?",
+  "files": [
+   "gossip/5f49a0ce5b3654379f0db519a20b64a4"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "d34aeb29a699",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "The humans definitely need all of our help in Arathi Basin. The one that you wish to speak to is named Keras Wolfheart. He stands ready to assist you on the Warrior's Terrace.",
+  "files": [
+   "gossip/6307e625367c135b351d633c760f9a2e"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "635280b9f037",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "Vesprystus' hippogryphs will bear you swiftly to your destination. Seek him out in Rut'theran Village, through the portal which lies in the western section of Darnassus.",
+  "files": [
+   "gossip/6d0616990747b3cf281cc9641375724d"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "2ba1307ae2e8",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "It is no light endeavor upon which you embark adventurer. To get to Warsong Gulch you will want to speak to Aethalas, the Battlemaster of the Silverwing Sentinels. She will guide your way. Blessings of the Goddess be with you!",
+  "files": [
+   "gossip/6fb5236e00160c864eb6347215bab509"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "9b0073aa8ed6",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "When you have not a healer to tend to your wounds, the knowledge of First Aid can be a lifesaver. I would consult Dannelor over at the Craftsmen's Terrace for instruction on this skill.",
+  "files": [
+   "gossip/6fd835875fbe8020422ad312f515153d"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "1886ccaff95f",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "It is Syurna that you seek if you are to follow the rogue's path. She dwells in the Cenarion Enclave down the spiraling path within the western most tree.",
+  "files": [
+   "gossip/75e196ec78d6cb7a83a96b0b2894c9b7"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "a126ccd271f3",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "The dishes that Alegorn whips up are to die for. He's always busy preparing new delicacies over in the Craftsman's Terrace. Be sure to try his Cenarion Green recipe if he has any left. \n\nNow, if you don't mind, I must investigate this rash of missing deer.",
+  "files": [
+   "gossip/7a065b152cd98b50e6ec1647535c2bc0"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "9324e636481a",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "We plant the vegetables. Our vegetables are eaten by the rabbit. The rabbit is devoured by the wolf. The wolf is slain by us. We take the meat and hide from the wolf's corpse. It's that Magic Circle of life, or whatever you call it. \n\nNow go see Telonis in the Cenarion Enclave to get started and let me return to my duties.",
+  "files": [
+   "gossip/86a6b22447f3864053114200f5749bbf"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "c16579d36008",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "You may find storage for your worldly goods at the bank of Darnassus, which lies in the center of our wondrous city.",
+  "files": [
+   "gossip/8eb9ba45b797263e4803382aebcf7ae3"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "54c7b373300e",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "I'm flattered, but really I'm not interested... What? You want to know where to learn enchanting? Oh, how embarrassing! Well, you should... I'm sure you could... go see, um... Taladan! Yes, see Taladan over in the Craftsmen's Terrace!",
+  "files": [
+   "gossip/8efec801651f3192ea4b39d9178f4ff8"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "4e45903eeb00",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "One has opened up on the Tradesman's Terrace. If you take the path leading Southeast from the bank, it should be easy to find.",
+  "files": [
+   "gossip/9053576b60544f166b688a294bcea667"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "6a630f1a2aaa",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "If you truly have the desire to learn this profession, then I would point you in the direction of Ainethil, a skilled alchemist at the Craftsmen's Terrace in northern Darnassus.",
+  "files": [
+   "gossip/92c77d24eda0e89d883523e9617dfaab"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "aa4d68b9bfaa",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "There are those that attempt to follow the path of the Rogue, but only the night elves are truly embraced by the night. If you seek to walk the shaded path then find Syurna in the Cenarion Enclave.",
+  "files": [
+   "gossip/9955006745f984da2926e3193c72c1bf"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "e79179f4370b",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "Through the milennia, Ilyenia Moonfire has mastered numerous weapons and now offers to train others in their use. You can find her at the Warrior's Terrace if you desire training.",
+  "files": [
+   "gossip/9a3ffcf5f60258c99f20760ca3d68d55"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "3f04b86dad29",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "The Stormpike Guard is in need of your assistance in the fight against the Frostwolf Clan, adventurer. Speak to Brogun Stoneshield on the Warrior's Terrace and he will help you find your way to Alterac Valley. Elune be praised!",
+  "files": [
+   "gossip/a3be30c0db4f2d4b202783dd948834c7"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "974f84988bc9",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "Here among the craftsmen of Darnassus, there is a millenium of knowledge for the benefit of your chosen craft. Now tell me, which craft do you find the most intriguing?",
+  "files": [
+   "gossip/b653ff673ce5e58760ed8282427e63d7"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "96357b44f694",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "There are several battlegrounds from which to choose. To which battlemaster shall I send you?",
+  "files": [
+   "gossip/bc8107859019ab2e37a4c010332b9f07"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "b2e9f6b1f9b0",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "Astaia has fished up some curious treasures over the ages she has spent fishing. Why don't you go see her over in the Tradesman's terrace and have her show you some of them.",
+  "files": [
+   "gossip/bd5332cda23cfb988a28235b91583693"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "6032aa8fca2b",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "As a culture we believe in letting nothing go to waste. When we are forced to slay a creature we take what we can to make sure its sacrifice was not in vain. \n\nIf you wish to learn the proper way to take the skin of a slain beast, then seek out Eladriel in the Craftsmen's Terrace.",
+  "files": [
+   "gossip/c96f29161dcade9647c6f8707b27e20c"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "7a3bbb63bfd6",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "You are fortunate to have come to Darnassus where you can find such an accomplished Hunter as Jocaste among our trainers. I encourage you to visit her over in the Cenarion Enclave and seek her tutelage.",
+  "files": [
+   "gossip/d15a97ec9abacddad8435f5774a0eb2c"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "8daa01d04604",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "In death, the animals of the world bestow both life and protection unto us. If you feel that you can offer the appropriate respect for their sacrifice, then the skinner's profession may suit you. Speak with Eladriel in the Craftsman's Terrace in northern Darnassus to learn more.",
+  "files": [
+   "gossip/d56f05ee073017a9143e842d802a0700"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "ff5543269fc6",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "Oh, the ever-present obsession with material wealth. Well, fortune smiles on you, as you can find the auction house in the Tradesman's Terrace.",
+  "files": [
+   "gossip/d90f95e047a57954e455f354c946ef06"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "624262f0cc50",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "An alchemist? No trouble at all adventurer. Ainethil, in all her labor and toil, has become the most accomplished alchemist in the Craftsmen's Terrace. I would head over there on the double if I were you. On the double! Now off with you!",
+  "files": [
+   "gossip/dd479dae533f32a3992c77a3d1aa7f7e"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "1df6caa5eac6",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "With the garments that Me'Lynn tailors, one might think that her needle was blessed by Elune herself. Unless your needle is so blessed, you best pay her a visit and listen to her teachings. You can find her in The Craftsmen's Terrace in northeastern Darnassus.",
+  "files": [
+   "gossip/df79484b5472d76db96b41898d02b9b7"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "4e7e77c05e1b",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "Alegorn is a masterful chef who has had centuries with which to perfect his cooking. You should consider yourself blessed should he decide to teach you. If you believe you are worthy, you can find him in the Craftsmen's Terrace.",
+  "files": [
+   "gossip/ed3705061b45f850ff33561c67657b78"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "9ff12bce8da1",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "There is a mailbox outside of the Bank which you'll find in the center of Darnassus.",
+  "files": [
+   "gossip/f051b310bb2a6de52b45a40b67fd3a3f"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "59f7d8fa840e",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "You will find Sildinair at the Warrior's Terrace among the guards, her keen eyes scanning the forest for enemies that might dare to enter our fair city.",
+  "files": [
+   "gossip/f44318c049c218b57b0e409073bd7f96"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "b31d480b92ec",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "If that is your wish adventurer, then you will need to speak to Keras Wolfheart on the Warrior's Terrace. He is a representative of The League of Arathor and can help you to get to Arathi Basin.",
+  "files": [
+   "gossip/f59a17baa98d87d57ad047e9e528c0a0"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "bc63f9e3ca60",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "In grizzly times a druid can be a dear friend to those around them. Ask any of the druids in the Cenarion Enclave and they will tell you the same.",
+  "files": [
+   "gossip/f818dab29f5921c495fafd0e54c105fe"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "b60d894bdb56",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "I know just the one that you speak of adventurer. You must seek out Brogun Stoneshield on the Warrior's Terrace.",
+  "files": [
+   "gossip/fde3cbd79786d9234392c6be3a040901"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "7a570986d60e",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "The power of Elune compels you! The power of Elune compels you! \n\nGo now! Seek out Jandria in the central hall of the Temple of the Moon in the southern section of Darnassus!",
+  "files": [
+   "gossip/fe788e668631819d89ea6f47c42c2f9e"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "05f5cd4f74ec",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "A budding herbalist are we? Then you should visit with Firodren Mooncaller over in the Temple Gardens. He may have some tricks of the trade to impart with you.",
+  "files": [
+   "gossip/ffcf7d3fc05ebc9a1303d2c59a697fcc"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "40d4cfa8414c",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Darnassus Sentinel",
+  "quest": null,
+  "en": "Another material boy are we? Well, if you are obsessed with your precious items then you will probably want to store them at the Darnassus Bank in the center of our city.",
+  "files": [
+   "gossip/m-c45c7553069860089340adb456de7764"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "4d0f29cb9501",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Darnath Bladesinger",
+  "quest": null,
+  "en": "Greetings. You seek instruction in the art of war?",
+  "files": [
+   "gossip/45a2136a6992d2a4bd174e0b70ed104b"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "257e96ea2651",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Darnath Bladesinger",
+  "quest": null,
+  "en": "I do not see the warrior's spirit within you, child. I have no teachings which would benefit a adventurer such as yourself.",
+  "files": [
+   "gossip/cc54bded9c0ad342e3ec1eb23083d5f2"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "206074a16ca8",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denatharion",
+  "quest": null,
+  "en": "The blessings of Cenarius be yours, adventurer. Our leader, Arch Druid Staghelm, guides us and all of Teldrassil to a renewed life!",
+  "files": [
+   "gossip/04deb31038105cfd74ab05f52c151823"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "fa5ea17256a7",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dorion",
+  "quest": null,
+  "en": "Welcome to the Cenarion Circle, adventurer. How may I assist you?",
+  "files": [
+   "gossip/7dd7ee318342731a34bf5316088d4c74"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "6d60f31eeb1b",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elder Bladeswift",
+  "quest": null,
+  "en": "Elder Bronzebeard can be found in the ancestral home of the Bronzebeards, Ironforge.",
+  "files": [
+   "gossip/bb867ac15a6374047fe55ff21e0b3596"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "b78017e60ec9",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elder Bladeswift",
+  "quest": null,
+  "en": "The village of Dolanaar atop Teldrassil is home to Elder Bladeleaf.",
+  "files": [
+   "gossip/e105ead9c89b01b6b63c23944ec68c3e"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "51a344eb3f7e",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elder Bladeswift",
+  "quest": null,
+  "en": "Elder Starweave can be found at the coastal village of Auberdine in Darkshore.",
+  "files": [
+   "gossip/e29dfc1e3b8900e23ce82f864f3a4250"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "4a82347b8370",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elder Bladeswift",
+  "quest": null,
+  "en": "Elder Hammershout can be found within the walls of Stormwind.",
+  "files": [
+   "gossip/f2969e5b8c871202ddfcc37c40f2f19e"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "d83c23dfc62f",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Erion Shadewhisper",
+  "quest": null,
+  "en": "Messengers from Ravenholdt delivered this letter to me this morning. It is addressed to you, adventurer.",
+  "files": [
+   "gossip/cd9efe92b4cd73363689d342f33b4061"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "08a9f8c2da14",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Erion Shadewhisper",
+  "quest": null,
+  "en": "I don't train your kind adventurer.",
+  "files": [
+   "gossip/f7c03ed04dab075fddaf94fa5e6690d8"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "946308721662",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Faldron",
+  "quest": null,
+  "en": "Many animals lost their lives so that we could gain these materials. Do not take their sacrifice lightly, adventurer. Handle the leather with the respect it deserves.",
+  "files": [
+   "gossip/07dddb1848993b2c42d35c0967501a16"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "31601b45fce2",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Faldron",
+  "quest": null,
+  "en": "If you are here for further training, you have overestimated my abilities. Have a word with Telonis over there; he can help you.",
+  "files": [
+   "gossip/08fd93ddedad6346d0a253b6fb302639"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "d77755117421",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Faldron",
+  "quest": null,
+  "en": "In time you will be ready for what I have to teach, adventurer. Until then, please ask Darianna over there to help you with your training.",
+  "files": [
+   "gossip/6492b5a570e6859c5b995d9408c55800"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "797925742249",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Faldron",
+  "quest": null,
+  "en": "Darianna shows promise, but she is so full of energy that it is hard for her to stay still and listen. With her strength and agility, I fear it won't be long before she is called to fight. We must teach her quickly.",
+  "files": [
+   "gossip/c6e9bfb1e8766c8a77060344db3714dd"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "ed5167e6b8a9",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Herald Moonstalker",
+  "quest": null,
+  "en": "Greetings and salutations, hero! I have the latest news from both continents and points beyond for your consideration.",
+  "files": [
+   "gossip/3725afd9871a58ee99a7d026e3563aeb"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "ab69c9e424b1",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Idriana",
+  "quest": null,
+  "en": "Welcome to the Bank of Darnassus. We offer financial accounts and safety deposit boxes for valuable items. Do you already have an account with us ma'am?",
+  "files": [
+   "gossip/f-72fdda7ff30be23db5fd1e0d05a37089",
+   "gossip/f7a31d2cfbdbde329401adbd3941e93b"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "b1cd8b5d3c8e",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Idriana",
+  "quest": null,
+  "en": "Welcome to the Bank of Darnassus. We offer financial accounts and safety deposit boxes for valuable items. Do you already have an account with us sir?",
+  "files": [
+   "gossip/m-72fdda7ff30be23db5fd1e0d05a37089"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "270926be41e8",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ilyenia Moonfire",
+  "quest": null,
+  "en": "The grace with which I fight is not something I can teach you, but I can teach you the use of various weapons.",
+  "files": [
+   "gossip/2e514c1eb9b20edc5d2084e30fe9df15"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "269200a57f21",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ilyenia Moonfire",
+  "quest": null,
+  "en": "Buliwyf, the dwarven weapon master at the Timberline Arms in Ironforge, teaches fist weapons, guns, one and two-handed axes and one and two-handed maces.\n\nBixi Wobblebonk, the gnome weapon master at the Timberline Arms in Ironforge, teaches crossbow, daggers and throwing weapons.\n\nWoo Ping, the human weapon master at Weller's Arsenal in Stormwind, teaches crossbow, daggers, one and two-handed swords, polearms, and staff.",
+  "files": [
+   "gossip/d360ac04210d718276dddc83f8708938"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "8ae02179e3b5",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "The Scholomance is housed in crypts beneath the Caer Darrow keep. Once owned by the noble Barov family, the keep fell to ruin after the Second War. As the wizard Kel'Thuzad enlisted followers for his Cult of the Damned, he often promised immortality for those who served his Lich King. The Barovs fell to his influence and donated their keep, but the cultists killed the family and turned the crypts into a school of necromancy. Though Kel'Thuzad no longer resides there, cultists and instructors still remain.",
+  "files": [
+   "gossip/03ee214820f246ccc4e751c56c822ace"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "13ef988fc99f",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Blackfathom Deeps can be found at the north end of Zoram Strand along the coast of Ashenvale.",
+  "files": [
+   "gossip/0e3148ee13bdc4aad5af84663b24d1ce"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "a2708dec0879",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "The Stockades are a high-security prison complex, hidden beneath the canal district of Stormwind city. Presided over by Warden Thelwater, the Stockades are home to petty crooks, political insurgents, murderers and a score of the most dangerous criminals in the land. Recently, a prisoner-led revolt has resulted in a state of pandemonium within the Stockades - where the guards have been driven out and the convicts roam free.",
+  "files": [
+   "gossip/10e3746148a7f37b2c1af2d199833368"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "0b304485b3c1",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "If you put on cologne or perfume, then you'll see who is amorous. Those are the ones who accept love tokens... and offer a gift in return.\n\nBut remember: to give someone a love token, you have to smell just right! Men like the scent of perfume, while women prefer cologne.",
+  "files": [
+   "gossip/136e146f620b6e7197755a682b68ce84"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "bb85e44ea6b5",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Maraudon is one of the most sacred sites within Desolace. The great temple/cavern is the burial place of Zaetar, one of two immortal sons born to the demigod, Cenarius. Legend holds that Zaetar and the earth elemental princess, Theradras, sired the misbegotten centaur race. It is said that upon their emergence, the barbaric centaur turned on their father and killed him. Some believe that Theradras, in her grief, trapped Zaetar's spirit within the winding cavern - used its energies for some malign purpose.",
+  "files": [
+   "gossip/1d59940e7ccbee60370a304b33835f99"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "2c2b59ba6f83",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Built twelve thousand years ago by a covert sect of night elf sorcerers, the ancient city of Eldre'Thalas was used to protect Queen Azshara's most prized arcane secrets. Though it was ravaged by the Great Sundering of the world, much of the wondrous city still stands as the imposing Dire Maul. The ruins' three distinct districts have been overrun by all manner of creatures - especially the spectral highborne, foul satyr and brutish ogres.",
+  "files": [
+   "gossip/24cd799771f287be14f8060e5444dfa5"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "1f3076fa6b1c",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Razorfen Kraul can be found on the very southern tip of the Barrens on the west side of the road.",
+  "files": [
+   "gossip/25a80704f18ee56676b132bdded0fe94"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "d66add3cd67d",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "During the War of the Ancients, the demigod Agamaggan came forth to battle the Burning Legion. The colossal boar was defeated, and over time in the areas where his blood fell, massive thorn-ridden vines sprouted to life. The quilboar came to occupy these regions and hold them sacred. The heart of these massive thorn-colonies is the Razorfen. Razorfen Kraul was conquered by the crone, Charlga Razorflank, who some speculate has been negotiating with agents of the Scourge for some insidious purpose.",
+  "files": [
+   "gossip/310fe6a22db0bf2928c1ff8e5c70cd20"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "d8a0d1729272",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "No, I'm not, but lots of others are looking for love. You should buy my love tokens, put on some cologne or perfume, and then pass them around!",
+  "files": [
+   "gossip/3334d2c3be49af24ec80966cd3044afb"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "3cb514a58cdc",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Uldaman can be found at the very northern end of the Badlands.",
+  "files": [
+   "gossip/36de161eff379c5060e7c2e31cdc975a"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "a0fafc6b7ed9",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Once the greatest gold production center in the human lands, the Dead Mines are now inhabited by the Defias Brotherhood, who have turned the dark tunnels into their private sanctum. It is rumored that the thieves have conscripted the clever goblins to help them build something terrible at the bottom of the mines - but what that may be is still uncertain. Rumor has it that the way into the Deadmines lies through the quiet, unassuming village of Moonbrook.",
+  "files": [
+   "gossip/3b08e6def8fe2881c84a302e3f4c7fea"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "553b7ee49569",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Recently, a night elf druid named Naralex discovered a network of underground caverns within the heart of the Barrens. Believing he could use the caverns' springs to restore lushness to the Barrens, the druid began siphoning the energies of the fabled Emerald Dream. His vision somehow became a nightmare, however, and soon the Wailing Caverns changed into a den of vicious, deadly predators. It is said that Naralex still resides somewhere inside the labyrinth, trapped beyond the edges of the Emerald Dream.",
+  "files": [
+   "gossip/4352ca0c9a3782df4f9b0a23c9c7f9d7"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "0b8ebcbabebe",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Over a thousand years ago a group of troll priests known as the Atal'ai attempted to bring back an ancient blood god named Hakkar the Soulflayer. After the resulting civil war the priests were defeated and exiled to the Swamp of Sorrows. There they erected a temple to Hakkar to prepare for his arrival into the physical world. The dragon Aspect Ysera soon learned of the Atal'ai's plans and smashed the temple beneath the marshes. To this day, the temple's ruins are guarded by the mighty green dragons.",
+  "files": [
+   "gossip/4b24ea6b391a2efd0be7d84cc947d159"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "bb1f953cdd8d",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Ragefire Chasm consists of a network of volcanic caverns below the orcs' new capital city of Orgrimmar. Recently, rumors have spread that a cult loyal to the demonic Shadow Council has taken up residence within the Chasm's fiery depths. This cult, known as the Burning Blade, threatens the very sovereignty of Durotar. Many believe that the orc Warchief Thrall is aware of the Blade's existence and has chosen not to destroy it in the hopes that its members might lead him straight to the Shadow Council.",
+  "files": [
+   "gossip/530c2f46cebb57733cec5f86ad8383d3"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "daf21c4f1e65",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "The monastery was once a center for learning and enlightenment. With the rise of the undead Scourge during the Third War, the peaceful Monastery was converted into a stronghold of the fanatical Scarlet Crusade. The Crusaders are intolerant of all non-human races, regardless of alliance or affiliation. They believe that any and all outsiders are potential carriers of the undead plague - and must be destroyed.",
+  "files": [
+   "gossip/54bd2c1a937b1392327adbdf92ce5e6d"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "97f6bc3c0ff6",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Frustrated by the Dalaran wizards' lack of progress against the undead during the Third War, the Archmage Arugal elected to summon the extra-dimensional worgen to bolster his side's diminishing ranks. The wolf-men slaughtered the Scourge, then quickly turned on the wizards themselves and laid siege to the keep of the noble, Baron Silverlaine. The fort quickly fell into shadow and ruin. Driven mad with guilt, Arugal adopted the worgen as his children and retreated to the newly dubbed 'Shadowfang Keep'.",
+  "files": [
+   "gossip/5d076554d313584aa1c5611cf0129a23"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "a5f494c387d8",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Maraudon is located in the middle of the western coast of Desolace, in the Valley of Spears.",
+  "files": [
+   "gossip/6679f691680afda8b76a2dd04f2e7144"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "e7051ee9dc50",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Shadowfang Keep is in southern Silverpine just north of Pyrewood Village.",
+  "files": [
+   "gossip/6f1db228470e4b9d299edd3c7168c063"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "1138e94679de",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Scarlet Monastery lies in the hills northeast of Tirisfal Glades.",
+  "files": [
+   "gossip/78e6008fbf1d737dce7812540853511c"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "0f3dc1536e1e",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Ragefire Chasm can be found beneath the Shadow Cleft in the center of Orgrimmar.",
+  "files": [
+   "gossip/7bef92afa79765ff95f06d3660786a79"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "c6cd6de877e6",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "The School for Necromancy known as Scholomance is on the ruined island of Caer Darrow in the Western Plaguelands.",
+  "files": [
+   "gossip/7eddf733901dbca29a5a21752dd1ceb4"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "b7ea94f37b5a",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Your body looks worn and your spirit weary. Rest yourself beneath our roof and allow Elune to guide your dreams.",
+  "files": [
+   "gossip/88ed28bad52992326e81df54efce5146"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "d34095d55e28",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "The ruins of Dire Maul stand in central Ferelas.",
+  "files": [
+   "gossip/89054fe6fb8e52df563c9e80702c264a"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "bc8726a7b261",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "The ruined city of Stratholme lies in the Eastern Plaguelands to the north of the Plaguewood.",
+  "files": [
+   "gossip/8d0c3e032d49fe079017a90965f53922"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "983835eba78c",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "The Stormwind Stockades are found near the mage quarter in Stormwind.",
+  "files": [
+   "gossip/8f49377bcf39a38a76d2cf7cbacbefb0"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "5f7b73d7fc00",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "The mighty fortress carved within the fiery bowels of Blackrock Mountain was held by the sinister Dark Iron dwarves for centuries until Nefarian - the cunning son of the dragon, Deathwing - took control of the upper Spire and made war on the dwarves' holdings in the mountain's volcanic depths. Realizing that the dwarves were led by the mighty fire elemental, Ragnaros - Nefarian vowed to crush his enemies and claim the whole of Blackrock mountain for himself.",
+  "files": [
+   "gossip/8f57f5e81f55defd22e287d36b233496"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "34fa47326612",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Located in Dun Morogh, Gnomeregan has been the gnomes' capital city for generations, though it was recently infested by mutant troggs. In a desperate attempt to retaliate, High Tinker Mekkatorque ordered the emergency venting of the city's radioactive waste tanks. Though the troggs became irradiated, their siege continued unabated and the gnomes were forced to seek refuge in the dwarven city of Ironforge, where the High Tinker now enlists brave souls to help his people reclaim their beloved city.",
+  "files": [
+   "gossip/90657c7dd9fc98c4960a8c613e7e0841"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "ad7a3376bcb4",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "The ruins of Zul'Farrak are located in the northwestern corner of the Tanaris Desert.",
+  "files": [
+   "gossip/927f2bfc50de1f03c38ac6ec3198f4a7"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "dc679bab0cbe",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "This sun-blasted city is home to the Sandfury trolls, known for their particular ruthlessness and dark mysticism. Troll legends tell of a powerful sword called Sul'thraze the Lasher, a weapon capable of instilling fear and weakness in even the most formidable of foes. Long ago, the weapon was split in half. However, rumors have circulated that the two halves may be found somewhere within Zul'Farrak's walls.",
+  "files": [
+   "gossip/94fa40981e2a4d5c4b4b0b68b37f782c"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "01c4d69c36b2",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Once the capital city of the Dark Iron dwarves, this volcanic labyrinth now serves as the seat of power for Ragnaros the Firelord. Ragnaros has uncovered the secret to creating life from stone and plans to build an army of unstoppable golems to aid him in conquering the whole of Blackrock Mountain. Obsessed with defeating Nefarian and his draconic minions, Ragnaros will go to any extreme to achieve final victory.",
+  "files": [
+   "gossip/9c2b22f32a137854d984166b2aaded4b"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "67354f671087",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Razorfen Downs can be found on the very southern tip of the Barrens on the east side of the road.",
+  "files": [
+   "gossip/9cdbd4512dccbc458675c5216058ddcd"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "5c6877223bca",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Gnomeregan can be found in western Dun Morogh.",
+  "files": [
+   "gossip/a4f613548f3f5a63415a978d891ce475"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "a19b42de26a9",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Blackrock Mountain lies between Searing Gorge in the north and Burning Steppes in the south.",
+  "files": [
+   "gossip/aab40b74860886caa96dcfdaf979e180"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "378f500ef7b6",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Bolvar, Magni, or Tyrande.",
+  "files": [
+   "gossip/b19764fa4b6d3a891fa5f750b3dd2517"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "739a2d8f23ad",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Crafted from the same vines as Razorfen Kraul, Razorfen Downs is the traditional capital city of the quilboar race. The sprawling, thorn-ridden labyrinth houses a veritable army of loyal quilboar as well as their high priests - the Death's Head tribe. Recently, however, a looming shadow has fallen over the crude den. Agents of the undead Scourge - led by the lich, Amnennar the Coldbringer - have taken control over the quilboar race and turned the maze of thorns into a bastion of undead might.",
+  "files": [
+   "gossip/bbbb6f1884cdacec9af6cb67e3e1abd4"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "bc8d200b695a",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "The Deadmines can be found beneath Moonbrook in the south of Westfall.",
+  "files": [
+   "gossip/c14eefa9bf01ea21ee6c512a62f5270c"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "ef278ea3ab85",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Uldaman is an ancient Titan vault that has laid buried within the earth since the world's creation. Dwarven excavations of the city have recently released the Titans' first failed creations: the troggs. Legends say that when the Titans deemed the trogg experiment a failure they tried again, resulting in the creation of the dwarven race. These secrets are recorded on the fabled Discs of Norgannon - massive artifacts that lie at the bottom of the ancient city, protected by giant constructs of living stone.",
+  "files": [
+   "gossip/cac489d41abedaef7c5d7041fd7492e3"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "c85a659f39b1",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "The Wailing Caverns has its entrance at the Lushwater Oasis southwest of Crossroads in the Barrens.",
+  "files": [
+   "gossip/d34171a9fbd911b8f1bf818f71cc3f32"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "3a3184fa7b67",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "The Sunken Temple can be found in the center of a great lake in eastern Swamp of Sorrows.",
+  "files": [
+   "gossip/e33d4e6573f24d17efcc2b0ecf76516d"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "f57dc90b3eb4",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Love tokens are small messages of affection you can give to amorous town and city folk. Such people will reward you with a gift of adoration.\n\nOr, if you are already adored by another, then at the least they'll give you a gift of friendship.",
+  "files": [
+   "gossip/edd64941f9ca57aeaac37f4c4e0fdf4d"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "c9081a950ca7",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Situated along the Zoram Strand of Ashenvale, Blackfathom Deeps was once a glorious temple dedicated to the night elves' moon-goddess Elune. However, the great Sundering shattered the temple - sinking it beneath the waves of the Veiled Sea. There it remained untouched - until, drawn by its ancient power - the naga and satyr emerged to plumb its secrets. Legends hold that the ancient beast, Aku'mai, has taken up residence within the temple's ruins.",
+  "files": [
+   "gossip/f3dc300ddc1883b724afefb742b27c54"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "7a6d51cdc7d8",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Are you interested in exploring one of these dungeons?",
+  "files": [
+   "gossip/f70c987e98c43a9ac4f1ef6eb271008a"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "b396809d07a7",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Cairne, Sylvanas and Thrall.",
+  "files": [
+   "gossip/f9432ed28b2dabcd595eddb702af9ca1"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "db72759e791a",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": null,
+  "en": "Once the jewel of northern Lordaeron, the city of Stratholme is where Prince Arthas turned against his mentor, Uther Lightbringer, and slaughtered hundreds of his own subjects who were believed to have contracted the plague of undeath. Arthas' surrender to the Lich King soon followed. The broken city is now inhabited by the undead Scourge - led by the powerful lich, Kel'Thuzad, and a contingent of Scarlet Crusaders, led by Grand Crusader Dathrohan. The two sides are locked in constant, violent combat.",
+  "files": [
+   "gossip/fd70ec87881856186158a19c159addb7"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "0cec9f81ec0c",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Jartsam",
+  "quest": null,
+  "en": "I can teach you the finer points of Tiger Riding, provided you have enough gold to cover the lesson!",
+  "files": [
+   "gossip/526f461af3793f53ec97bde2843a2b62"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "234ed7d2be43",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Jartsam",
+  "quest": null,
+  "en": "You need to be exalted with the night elves of Darnassus before I will teach you a riding skill, adventurer.",
+  "files": [
+   "gossip/950e62db1899a7457b6402427589475d"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "24cb57164cb5",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Jeen'ra Nightrunner",
+  "quest": null,
+  "en": "What can I do for you my child?",
+  "files": [
+   "gossip/86385c0e08f5231d7ee0120c77531745"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "7a58afa6de52",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Jenal",
+  "quest": null,
+  "en": "Conspiracies abound, I say. There are those who lack vision in understanding what I do, and would seek to keep me shackled to obscurity!\n\nDon't step in the dirt.",
+  "files": [
+   "gossip/af91358e01b26b90df86916c42d32ec1"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "30dd9a77545b",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Jenal",
+  "quest": null,
+  "en": "What am I doing? Do you lack vision? I am a dreamer, good sir, and I dream of a better future for us all. Clearly, I am a visionary.\n\nThere are those, however, who seek to keep us mired in banality. I told him that I was a dreamer, and Arch Druid Staghelm replied, \"Well, the world needs ditch diggers too.\"\n\nUntil such time as the shackles of banality are ripped from us, I will help the Cenarion Circle by shuffling these piles of dirt around.",
+  "files": [
+   "gossip/m-912dd407768fd71b3934d051423f5235"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "017e2ebd3f4e",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Keras Wolfheart",
+  "quest": null,
+  "en": "I hope that you're here to help us take back Arathi Basin from The Defilers. What do you say adventurer?",
+  "files": [
+   "gossip/9a848f97bc7e29cb25689795f0cb46c4"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "40420f319274",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Keras Wolfheart",
+  "quest": null,
+  "en": "I am sorry adventurer, but you need to be more powerful before I can allow you to enter Arathi Basin.",
+  "files": [
+   "gossip/a88973a558029a639cb379b7365f229a"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "aad614cf4ab2",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lalina Summermoon",
+  "quest": null,
+  "en": "I will teach you what I can. Each lesson is a gift from the Goddess herself. Use her gifts wisely, and you shall not falter.",
+  "files": [
+   "gossip/49cf4b5dbf7897550054ed6265ce60a4"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "6dcf04250e7d",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lalina Summermoon",
+  "quest": null,
+  "en": "Your skills are beyond my reach. It is time for you to face new challenges. Taladan will help you prepare. He is standing by the table there.",
+  "files": [
+   "gossip/8f4b95140c7a58c303b176c5542cc921"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "78f864cec1e0",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lalina Summermoon",
+  "quest": null,
+  "en": "The Goddess has granted me wisdom, stranger. If it is her will, I shall pass it on to you.",
+  "files": [
+   "gossip/bc70c44f8b7482fbb065577cfb4d784f"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "23a4e565816e",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lelanai",
+  "quest": null,
+  "en": "Hello friend! I would be happy to offer you a riding saber, but first you should train with Jartsam over there. These fearless creatures are not easily ridden, but once you know how to ride one you will not find a better companion.",
+  "files": [
+   "gossip/06c68ca456914affe97d69a900ab1dd5"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "7fc9408c970c",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lelanai",
+  "quest": null,
+  "en": "By the grace of Elune, I am pleased to offer you the finest steed found anywhere in Teldrassil, and perhaps the world - the nightsaber. For years, the Sentinel Army has relied on the value of these companions.\n\nTake your time friend and examine each one to your satisfaction. I am sure you will not be disappointed.",
+  "files": [
+   "gossip/a781c38bfffdae4147fb52746afd65fc"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "0fcc22978318",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lelanai",
+  "quest": null,
+  "en": "Alas adventurer, you are not considered to be exalted to Darnassus and the night elves of Teldrassil. Only when you prove yourself to us through deeds - not just mere words - will I then make available my selection of mounts for your perusal.",
+  "files": [
+   "gossip/f0e0e0355a74b78bd4d0da79fda2ad22"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "5206f3b4ce3e",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Master Sergeant Moonshadow",
+  "quest": null,
+  "en": "Well met, adventurer. I hope you are here to inquire on the Ahn'Qiraj war effort. We are going to need a great deal of assistance.\n\nThe war effort is a united effort between the Alliance and Horde to prepare for the upcoming war against the Silithid and their masters in Ahn'Qiraj. In the Military Ward of Ironforge, we are collecting all manner of goods to create our war materiel from, and these gathering tasks are what we need your help with.\n\nCan I convince you to speak with our commander about pitching in?",
+  "files": [
+   "gossip/fa64bddf4571be9bf5ab8eda9ea581c3"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "282f9607f04b",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mathiel",
+  "quest": null,
+  "en": "The craft of the night elves ranges beyond the woods and its denizens. We know much of the earth below, and of the metals within it.",
+  "files": [
+   "gossip/b65f2e84ddaa5dd1c822ac36f9f65943"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "a466bbedd6ab",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mathrengyl Bearwalker",
+  "quest": null,
+  "en": "Welcome, my sister. If you are here to train, then I would be delighted to train you.\n\nThere are rumors of strife within the Cenarion Circle, but you should pay such loose talk no heed. Our Arch Adventurer, Fandral Staghelm, leads us and all of Teldrassil to glory!",
+  "files": [
+   "gossip/6fa21111ce784d41526e17b99bb13d84"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "ca18f22fb82f",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mathrengyl Bearwalker",
+  "quest": null,
+  "en": "If you desire, in addition to training, I have it within my power to erase the knowledge of your talents from your mind. Be warned that every time you undergo this procedure the more difficult it is to perform, and therefore the more expensive it becomes.",
+  "files": [
+   "gossip/d8d678c1fa7a5d0ec00c8daf69cd26f9"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "32d0e9ed63f5",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mathrengyl Bearwalker",
+  "quest": null,
+  "en": "What brings you to the Cenarion Circle, adventurer?",
+  "files": [
+   "gossip/fb107f4dbefdbafaf3a91b5c9b3d998b"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "b8e69fb9e597",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mathrengyl Bearwalker",
+  "quest": null,
+  "en": "Welcome, my brother. If you are here to train, then I would be delighted to train you.\n\nThere are rumors of strife within the Cenarion Circle, but you should pay such loose talk no heed. Our Arch Druid, Fandral Staghelm, leads us and all of Teldrassil to glory!",
+  "files": [
+   "gossip/m-765d7c8eab15fae760b184c664fb9e9a"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "e865db4ebdcd",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Me'lynn",
+  "quest": null,
+  "en": "You have done well, traveler. I am proud to call you my student!",
+  "files": [
+   "gossip/0fb161fe21a8ff5f560e714f38fb0b44"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "eec635c1f464",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Me'lynn",
+  "quest": null,
+  "en": "There are basics that must be learned. Trianna is standing nearby, speak with her and return to me later.",
+  "files": [
+   "gossip/35b8db7ba4c158e508af94c80ef204f9"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "d85b400c011f",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Me'lynn",
+  "quest": null,
+  "en": "What a fine day! It inspires me to create a new design.",
+  "files": [
+   "gossip/8ad0f749911a3563135d77e9f55d331f"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "ecef25b65330",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Me'lynn",
+  "quest": null,
+  "en": "Your talents excel! You are truly inspired. To continue your pursuit of knowledge, speak with Georgio Bolero in Stormwind. He is held in high regard, and will be able to further your instruction.",
+  "files": [
+   "gossip/8fde40eee1eab031066dd85909d1ef50"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "960b6ba5a76c",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Milla Fairancora",
+  "quest": null,
+  "en": "Is it not astonishing what one can create from the plants of the forest? Truly, Elune has blessed us with her bounty.",
+  "files": [
+   "gossip/2e7aa0040d2afc72a1b0f9bae685d34d"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "7097312eb810",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Milla Fairancora",
+  "quest": null,
+  "en": "You are kind to seek me out, but your skills are beyond my own. Have a word with Sylvanna Forestmoon, just over there. She's been looking for another student.",
+  "files": [
+   "gossip/ecd83d20e2f098bc5add3914f93110a4"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "f5704b352347",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Milla Fairancora",
+  "quest": null,
+  "en": "Elune-adore, my brother. You are welcome here. Speak, and I will do what I can to aid you.",
+  "files": [
+   "gossip/m-a854580ba8ca58d56fc2b87f8ed84c66"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "4e18398951d3",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mydrannul",
+  "quest": null,
+  "en": "It is my honor to provide for adventurers, for they are heroes in the making.",
+  "files": [
+   "gossip/1245860919a037af19c20e24c625c670"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "36482f795ec0",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Nalesette Wildbringer",
+  "quest": null,
+  "en": "Ah friend, I only help hunters and their pets.",
+  "files": [
+   "gossip/4c9a93178a8bd81be46f856336284914",
+   "gossip/b50387cdfaa021b93b00c9395fdcd709"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "dd716262a914",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Nalesette Wildbringer",
+  "quest": null,
+  "en": "You've come for training in order to pass it on to your pets?",
+  "files": [
+   "gossip/89218c24a0eff1fa5c10022467769ef7",
+   "gossip/758bb9641b1f6e1d5a0914f0f9fae645"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "fb7e823cb00a",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Officer Lunalight",
+  "quest": null,
+  "en": "Greetings, adventurer - I'm a Commendation Officer acting on behalf of Darnassus. It is my duty to assist adventurers who have received Alliance Commendation Signets.\n\nI accept signets in different quantities, but the most beneficial exchange for you is to hand in a set of ten at once. I will enter your deeds into our records when you hand in your signets. As a result, you will earn recognition from Darnassus for your duty and service.",
+  "files": [
+   "gossip/9ee40dfd64a80fc0f2e81e82830840f6"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "397f20c3f9b9",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Raedon Duskstriker",
+  "quest": null,
+  "en": "Hail friend - a moment of your time, if I may...\n\nWe have endured much in our trials and tribulations in establishing Teldrassil. Were the constant strife of the times not enough, we now find ourselves in a dire shortage of cloth. If you have the materials to spare, I ask that you please donate them. You certainly would earn the gratitude of night elves everywhere in helping us out!",
+  "files": [
+   "gossip/f1bba8b8fe977e9469a2a2d8535cd5bc"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "db85a99488cd",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sylvanna Forestmoon",
+  "quest": null,
+  "en": "My skill at creating potions is inferior to yours. You are ready to speak with Ainethil, just over there. She will understand that you are ready for further instruction.",
+  "files": [
+   "gossip/2b08b8a8d1cc4135fd5dab22809bb623"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "4e23bf9b5688",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sylvanna Forestmoon",
+  "quest": null,
+  "en": "Ah, to be young again, and to have discovered potions for the first time. Thank you for refreshing my memory, adventurer. Now go share that youthful enthusiasm with Milla Fairancora over there.",
+  "files": [
+   "gossip/9bbd69aca397498d004508fd7ad19163"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "693df5b0e1ef",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sylvanna Forestmoon",
+  "quest": null,
+  "en": "I have learned much of potions over the long years, adventurer, and that knowledge is at your disposal. You have only to ask.",
+  "files": [
+   "gossip/9f32bd308165fadcfae13b5b7ce6688a"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "35285f275573",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sylvanna Forestmoon",
+  "quest": null,
+  "en": "Even slight alterations to a potion's ingredients can change it fundamentally. Patience and precision, young one: they will serve you well in all walks of life.",
+  "files": [
+   "gossip/f70bb9d40494b7b9d4c5e313cc9f435a"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "a37764b33551",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Syurna",
+  "quest": null,
+  "en": "Greetings young rogue. What do you seek?",
+  "files": [
+   "gossip/249236308a24ca006ca2a9251d3eea0a"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "55adf3f88430",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Syurna",
+  "quest": null,
+  "en": "Messengers from Ravenholdt delivered this letter to me this morning. It is addressed to you, adventurer.",
+  "files": [
+   "gossip/8a0abdcbc600f60a9fcf653afbc414fa"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "7550a6f8d324",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Syurna",
+  "quest": null,
+  "en": "We are but darkness and shadows. Eternal. Invisible.",
+  "files": [
+   "gossip/e8b964bb2f42459fd5d4d58181834b5d"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "b97102a9d55b",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Taladan",
+  "quest": null,
+  "en": "You have not yet learned the basics, wanderer. Have you spoken to my assistant, Lalina Summermoon? Perhaps you should.",
+  "files": [
+   "gossip/3179709b6d6763d00fafe6e4d749f3e0"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "888643aaf3e5",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Taladan",
+  "quest": null,
+  "en": "Fine work! You are truly deserving of the knowledge I shall bestow upon you!",
+  "files": [
+   "gossip/3184759a6de00367ad581b70c97d3358"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "9cafaaefda95",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Taladan",
+  "quest": null,
+  "en": "You are an exceptional enchanter. Beyond my talents as a teacher, I fear. Seek out Kitta Firewind at the Tower of Azora. Only she can qualify as your instructor now.",
+  "files": [
+   "gossip/41da82d3c3fe92c245b041f83fe5f39c"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "96e040ac3b82",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Taladan",
+  "quest": null,
+  "en": "It is true I have skills to teach to those who are worthy. Would that be you?",
+  "files": [
+   "gossip/a53ae503ee886bb7a89a674e55487015"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "478b35512ad6",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Telonis",
+  "quest": null,
+  "en": "Do not try to force your will upon the leather. Rather, let its natural tendencies dictate what form and function it will take. This is not a battle to be won. Work with the leather, not against it.",
+  "files": [
+   "gossip/2311acc40d0eada3baa06ec889348fc2"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "841e4d0f7e4d",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Telonis",
+  "quest": null,
+  "en": "The grass is soft and lush. The air is fresh, full of light and song. Everything I've seen suggests that Teldrassil is a dream come true. Why, then, is my heart full of foreboding?",
+  "files": [
+   "gossip/4c3e882d5b6e6e4d3050a7dcc19f97b7"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "0d8fcc2cf193",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Telonis",
+  "quest": null,
+  "en": "You have advanced beyond my skill to teach you. Journey now to Aerie Peak in the Hinterlands and speak with the dwarf Drakk Stonehand. His work is magnificent, far better than my own.",
+  "files": [
+   "gossip/7461509c37eb6a03aa5e3875c4eeb8d1"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "c74e706062ea",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Telonis",
+  "quest": null,
+  "en": "I regret to say that I cannot aid you, noble sir, until you learn more of working with leather. Speak with Faldron or Darianna here instead. They can teach you the skill you require.",
+  "files": [
+   "gossip/m-5d568f2ee6e5585a3694d234762d64af"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "c04ad8113919",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Trianna",
+  "quest": null,
+  "en": "There is no greater way to clear the mind than to weave.",
+  "files": [
+   "gossip/5b50f9a0624a9cfe928cbc1729b09550"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "d5dabc6f919b",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Trianna",
+  "quest": null,
+  "en": "My education is ongoing, and your knowledge surpasses mine. If you wish to learn more you must speak to Me'lynn. She will guide you.",
+  "files": [
+   "gossip/c453788c146e8b0170bf3c9d3740b16d"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "a1507337c94b",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Trianna",
+  "quest": null,
+  "en": "You will not be disappointed, traveler. Tailoring is a joyous endeavor.",
+  "files": [
+   "gossip/e1ccf40d7d245683a5cca2f1001e49b0"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "68a5f648c4fe",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Tyrande Whisperwind",
+  "quest": null,
+  "en": "It pleases me greatly to at last meet one of your people. I've heard much of the shen'dorei and your long history, and I am glad to see our cousins return home to Kalimdor at long last.\n\nI confess that our people have a... complicated relationship with the Highborne. Some amongst the Night Elves are quick to distrust those of Highborne descent such as those in your High Order. However, you have my assurance that you will be shown the utmost respect while a guest in our city.\n\nPlease, make yourself at home here. I'd encourage you to explore and familiarize yourself with our culture. It is, after all, your culture as well in a way.",
+  "files": [
+   "gossip/a28116c165b329fe646b70fff5ad55de"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "d0d6a59b579b",
+  "zone": "darnassus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Tyrande Whisperwind",
+  "quest": null,
+  "en": "Greetings, adventurer. I am Tyrande Whisperwind, High Priestess of Elune.",
+  "files": [
+   "gossip/d5d11c09b878dd3c167a32a3a3a5e8fe"
+  ],
+  "uiMap": 1457
+ }
+]

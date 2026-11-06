@@ -1,0 +1,2116 @@
+[
+ {
+  "id": "a8c1a62d0d8b",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Aelthalyste",
+  "quest": null,
+  "en": "What can this insignificant servant do for you, Adventurer? Training perhaps?",
+  "files": [
+   "gossip/65a3b6b9d50c63563e6e4c3211a93148"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "286c15f3c855",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Aelthalyste",
+  "quest": null,
+  "en": "Yes, adventurer?",
+  "files": [
+   "gossip/6cb32b3bfd2cfbdde35f3652a10058c8"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "5934b637dd9e",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Aelthalyste",
+  "quest": null,
+  "en": "What can this insignificant servant do for you, adventurer? Training perhaps?",
+  "files": [
+   "gossip/d466fe41f6f2d22f7a8db09a7966d6c7"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "3414a3b59c87",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Alessandro Luca",
+  "quest": null,
+  "en": "Welcome to Blue Moon Odds and Ends, adventurer. If you have any questions, please let me know.",
+  "files": [
+   "gossip/e64b23275f5f92fd2f9a00db491593ba"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "af9d08849d56",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Angela Curthas",
+  "quest": null,
+  "en": "Do not waste my time, adventurer.",
+  "files": [
+   "gossip/02cc223588cf2fb137041f2bd1a1f1d5"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "e2791428abde",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Angela Curthas",
+  "quest": null,
+  "en": "The warrior's role is one of protection. Just as we protect our compatriots in battle, we must also protect the interests of the Forsaken.",
+  "files": [
+   "gossip/c120b2893ccd5d95cf264a7c9dbdef91"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "ce93e9fb0dca",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Apothecary Zinge",
+  "quest": null,
+  "en": "If we are to make our place in this world, then we will do so through study, and through the will to ignore our fading human instincts.",
+  "files": [
+   "gossip/b544585c44f7d4db7584201c5df8fc3e"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "1a77edc318a3",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Archibald",
+  "quest": null,
+  "en": "Sayoc is the orc weapon master. He is located in Orgrimmar's Valley of Honor. He can train the use of bows, daggers, fist weapons, one and two-handed axes and thrown weapons.\n\nHanashi, the troll weapon master in the Valley of Honor of Orgrimmar, can instruct in the use of bows, one and two-handed axes, staves and all thrown weapons.\n\nAnsekhwa, the tauren weapon master, is on Thunder Bluff's lower rise. He teaches the use of one and two-handed maces, staves and guns.",
+  "files": [
+   "gossip/1e08fa1b1a06707d7772a9d8bffbb01c"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "6ad1127cac8e",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Archibald",
+  "quest": null,
+  "en": "I suppose you are here to be trained in the use of a new weapon? Make it fast, I'm very busy!",
+  "files": [
+   "gossip/cebc5bda58373eb38beb32738253fcd6"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "0c22c967b443",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Armand Cromwell",
+  "quest": null,
+  "en": "Your skill exceeds mine, though I've heard that Old Man Heming in Booty Bay has copies of \"The Bass and You\". That is sure to help you increase your skill.",
+  "files": [
+   "gossip/2d7b16d91c48d1f95424bebad9fad5b4"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "ce17a5708784",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Armand Cromwell",
+  "quest": null,
+  "en": "I can teach you fishing skills.",
+  "files": [
+   "gossip/7e16cec2614e5f2a337e7a0f19d3b1fb"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "ffc940f859f8",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Armand Cromwell",
+  "quest": null,
+  "en": "You will need to find Nat Pagle in Dustwallow Marsh to get any better than you are currently.",
+  "files": [
+   "gossip/f9765122a8b8d34eb9260fb601b38747"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "45858bf735bd",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Arthur Moore",
+  "quest": null,
+  "en": "Before my death, I was a librarian; I had nothing to do with wars and plagues. I never asked to become this. On the other hand, now that my mind is my own again, I'm not about to surrender without a fight.",
+  "files": [
+   "gossip/a7e84b1b5e75939894edeab15157fc04"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "ee75f5d8c3e8",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Basil Frye",
+  "quest": null,
+  "en": "I hope to one day forge weapons and armor from the bones of my enemies.",
+  "files": [
+   "gossip/69a0c87f4f69938bb74f9ba3c0752679"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "f53f06402a4c",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Carolyn Ward",
+  "quest": null,
+  "en": "I got something for you, adventurer. Looks important.",
+  "files": [
+   "gossip/1ebfb378bca82042c76b1c5318543ecd"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "72afa3e69200",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Chemist Fuely",
+  "quest": null,
+  "en": "Lady Sylvanas has ordered the investigation of some of the natural phenomena of Azeroth. She feels there is something great to be learned from its secretive past.\n\nI know not how she learned such things, but I trust her completely, so I will do my best.\n\nI am currently investigating slimes, oozes and such. The creatures all seem to be similar in make up, but greatly affected by their environment.\n\nI could use your help in gathering samples of the creatures..",
+  "files": [
+   "gossip/33c6ef2aac8ebd35c760b534ba1417d9"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "8b2258ced1bd",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Christopher Drakul",
+  "quest": null,
+  "en": "Welcome to the Undercity Guild Registry. What do you want?",
+  "files": [
+   "gossip/3fa902384e7e58171d9d75b73691b44d"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "f1bc5f1dce2e",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Dan Golthas",
+  "quest": null,
+  "en": "When I clawed my way out of the grave, I thought my family would welcome me with open arms. Instead, they drove me from the village, screaming in a language I could no longer understand.",
+  "files": [
+   "gossip/94095eb43627763b471b3b24bdf02a82"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "97a3a7c01187",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Dark Cleric Beryl",
+  "quest": null,
+  "en": "What can this insignificant servant do for you, Adventurer? Training perhaps?",
+  "files": [
+   "gossip/650cd75a030b0fef3f59f216d895e8d1"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "9bc0a496ed14",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Darkcaller Yanka",
+  "quest": null,
+  "en": "Welcome to the Wickerman Festival, adventurer!\n\nOn the observance of Hallow's End, the Forsaken burn a wickerman in honor of this, the most revered of occasions. It was on this day that the Banshee Queen herself delivered us from the clutches of the Lich King and the Scourge. We have remained free ever since. Those who would have seen us fall are repayed in full... with vengeance!\n\nThe burning of the Wickerman begins at 8:00 PM!",
+  "files": [
+   "gossip/ade7be73d65eb161512d4630be4b5df0"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "cae7cef6d4de",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Doctor Herbert Halsey",
+  "quest": null,
+  "en": "You don't yet have the skill to study with me. Go talk to Doctor Martin Felben over there, or go up the ramp to the southeast and see Doctor Marsh. They are Forsaken who can give you the training you need.",
+  "files": [
+   "gossip/183281291d4acd1b6242a8bc12427ef3"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "7d4136154c09",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Doctor Herbert Halsey",
+  "quest": null,
+  "en": "Ready for training? Then try to keep up, adventurer. We've got a lot of ground to cover.",
+  "files": [
+   "gossip/6785653724e3b6091cc91439955fe110"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "e7beb4b7d1df",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Doctor Herbert Halsey",
+  "quest": null,
+  "en": "My colleagues and I are gathering the deadliest substances we know and testing their effects on our enemies. Once I have everything I need, I shall brew such plagues as this world has never seen.",
+  "files": [
+   "gossip/c989bb417bf3ad34f8fec01bb109cf46"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "18fcb25c4a83",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Doctor Herbert Halsey",
+  "quest": null,
+  "en": "Incredible. Your potions display a knowledge that rivals my own. I cannot train you further, but talk to the orc Rogvar of Stonard in the Swamp of Sorrows. He's known for his cutting-edge experiments.",
+  "files": [
+   "gossip/f578ceea65698599fa038d8a9a944952"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "0599621e1ab4",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Doctor Marsh",
+  "quest": null,
+  "en": "Here to learn? Very well. I suppose you can't cause our allies much harm if I teach you. Just as long as you actually do manage to harm our enemies.",
+  "files": [
+   "gossip/5c9cac6d701387d0eb5882649854f365"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "60bce86d3ee2",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Doctor Marsh",
+  "quest": null,
+  "en": "I'm not amused by your audacity in coming to me for training. Go through the archway and down the ramp to the southeast, and talk to Doctor Martin Felben. He is a Forsaken who can teach you the basics.",
+  "files": [
+   "gossip/89dfbc51cc4699f0f3e8fbf7cf4a12d8"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "2eef599bc19a",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Doctor Marsh",
+  "quest": null,
+  "en": "With Algernon to keep me supplied, I can do all my work here without hunting for a single herb. If I never have to see the wonders of nature again, it won't be too soon.",
+  "files": [
+   "gossip/dbd4a28dca16161d9053687453a92060"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "5268c69d94b6",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Doctor Marsh",
+  "quest": null,
+  "en": "I have no more knowledge to bestow upon you. Go through the archway and down the ramp to the southeast, and talk to Doctor Herbert Halsey. He is a Forsaken who can teach you more advanced techniques.",
+  "files": [
+   "gossip/ef9aaac1e3da49f65602785a177bfb20"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "f0599ba51814",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Doctor Martin Felben",
+  "quest": null,
+  "en": "Very well. Cut another lump of flesh from one of these specimens. Let us test what you've learned so far, and we can progress from there.",
+  "files": [
+   "gossip/8e532ac34ab9bb5262ee3ed4d514db22"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "0082fad7546e",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Doctor Martin Felben",
+  "quest": null,
+  "en": "Your knowledge of potions has exceeded mine, but you still have much to learn. Go up the stairs to the southeast and see Doctor Marsh. He will teach you true sufferi--ahem. He is a Forsaken who will train you further.",
+  "files": [
+   "gossip/b7269b9e677d42ed7131e6719a1f24ca"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "ee25b37ae0b2",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Doctor Martin Felben",
+  "quest": null,
+  "en": "Once, it is true, I was human. What might otherwise be a shortcoming works to our advantage, adventurer, for I know human weaknesses intimately.",
+  "files": [
+   "gossip/f8d646bc5e246662bfd10d01a3e55223"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "4ec0b9d41714",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Darkcore",
+  "quest": null,
+  "en": "Elder Darkhorn can be found among the red rocks of Orgrimmar.",
+  "files": [
+   "gossip/3ed20e40a747c138c0eecee1728c0bc2"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "115e774014c3",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Darkcore",
+  "quest": null,
+  "en": "Elder Proudhorn is enjoying the vistas above Mulgore at Thunder Bluff.",
+  "files": [
+   "gossip/b80bf0f17a5a9bd7f89a8fedb644b26e"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "b2b2277a7d00",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Graveborn",
+  "quest": null,
+  "en": "Elder Moonstrike can be found in the Scholomance in the Western Plaguelands.",
+  "files": [
+   "gossip/969acaf245ed6f2b05bdbb672a4a18c9"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "14bf9736a861",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Snowcrown",
+  "quest": null,
+  "en": "Elder Graveborn spends time near Brill in Tirisfal Glades.",
+  "files": [
+   "gossip/8aa7da319f4642917680c8b017576c28"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "223efa33d651",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Eunice Burch",
+  "quest": null,
+  "en": "I can teach you how to cook!",
+  "files": [
+   "gossip/02987be90f767850ec8e9f572adbc4ed"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "2552043e325d",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Eunice Burch",
+  "quest": null,
+  "en": "Dirge Quikcleave of Gadgetzan is a master of the culinary arts. To better yourself you will need to seek him out.",
+  "files": [
+   "gossip/9f8ebedd06a040d3d2ffa50aac35d51f"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "b7ad52f0ae23",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Eunice Burch",
+  "quest": null,
+  "en": "Cooking is a life long pursuit and I see we share the same passion!",
+  "files": [
+   "gossip/f5400ec6ebea670b036a6880beada4ab"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "f355bd791dd1",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Eunice Burch",
+  "quest": null,
+  "en": "Wulan in Shadowprey Village can sell you the \"Expert Cookbook\". You will need that if you are to better yourself.",
+  "files": [
+   "gossip/fc64c85b44749257ced7e34a940a1c64"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "3dd54a3b1457",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Franklin Lloyd",
+  "quest": null,
+  "en": "This is a waste of time, mine and yours! Go see Graham Van Talen if you want to begin your instruction! He's standing to my left over there.",
+  "files": [
+   "gossip/3c86418f99690dcbc3d2abc483df7c97"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "c2a6cc64cc34",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Franklin Lloyd",
+  "quest": null,
+  "en": "I don't have time for idle gossip, I'm a professional!",
+  "files": [
+   "gossip/4f9bce54372fe3d983c0ce382b780af9"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "1a83c95bb526",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Franklin Lloyd",
+  "quest": null,
+  "en": "What do you think I could teach you? Roxxik would do a much better job. You can find him in Orgrimmar. Now be off!",
+  "files": [
+   "gossip/d0ae4b28fa408acb398c05a214d1bb97"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "fc367eae518d",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Franklin Lloyd",
+  "quest": null,
+  "en": "Let's see how competent you are, shall we? If you perform this task to my liking, I'll spend the time to teach you!",
+  "files": [
+   "gossip/dca6d9a909bc13f7a4499f00b5850587"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "1ceebe48b953",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Frostwolf Emissary",
+  "quest": null,
+  "en": "Hail, adventurer. There is a great need and even greater honor and renown to be had in Alterac Valley at this time. Will you join our fight against the Stormpike Guard?",
+  "files": [
+   "gossip/99f6365eca208317d557bba2b924e015"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "8073d8bb09ee",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Frostwolf Emissary",
+  "quest": null,
+  "en": "You need to be stronger, adventurer before you can help us in Alterac Valley.",
+  "files": [
+   "gossip/f4899549736f46c15cd46831ff21c964"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "620ceeead62a",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Gordon Wendham",
+  "quest": null,
+  "en": "Greetings, and welcome. I am not very good at smiling, but trust me; I am happy to serve you.",
+  "files": [
+   "gossip/f036f024de84a7992c236bf86b742eab"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "4540bccffd34",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Graham Van Talen",
+  "quest": null,
+  "en": "You are ready for greater things! See Franklin Lloyd, to my right. He will guide you from now on.",
+  "files": [
+   "gossip/b3ef331cc4f5efde29882dc6787e4557"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "2ce21fe53314",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Graham Van Talen",
+  "quest": null,
+  "en": "The Dark Lady has said that knowledge will be our greatest weapon in this war.",
+  "files": [
+   "gossip/c1ea9f1bbc1fb9412d6073bf79a02085"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "1e4c5987e1a7",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Graham Van Talen",
+  "quest": null,
+  "en": "Engineering will provide you with the skills and knowledge to dismantle your opponents! Let me show you how...",
+  "files": [
+   "gossip/e9c805eb3174e0a7d6f2fc51b91c337a"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "b911f752e3f6",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Grizzle Halfmane",
+  "quest": null,
+  "en": "The Stormpike Guard must be destroyed! Ready for Alterac Valley adventurer?",
+  "files": [
+   "gossip/81ed3ff7e3aa4663fea43677ac077dd8"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "39c76ff84e5d",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Grizzle Halfmane",
+  "quest": null,
+  "en": "I am sorry adventurer, but you need to be more experienced before you can survive in Alterac Valley.",
+  "files": [
+   "gossip/b83ab9c1a9dd85b93121a8a221e21094"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "551827e72439",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Harbinger Balthazad",
+  "quest": null,
+  "en": "Greetings and salutations, hero! I have the latest news from both continents and points beyond for your consideration.",
+  "files": [
+   "gossip/c42d03e178578b6a44439fb32f8365a9"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "72e746885122",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "The ruined city of Stratholme lies in the Eastern Plaguelands to the north of the Plaguewood.",
+  "files": [
+   "gossip/0815aba74c3a70d73e32cc5365b4babf"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "89482b98f8c1",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Blackrock Mountain lies between Searing Gorge in the north and Burning Steppes in the south.",
+  "files": [
+   "gossip/14d2c5e49f0b36f12cb7480a8300476a"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "d94fb539544b",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "The Wailing Caverns has its entrance at the Lushwater Oasis southwest of Crossroads in the Barrens.",
+  "files": [
+   "gossip/19478f299bf1f913ecdd844a7b1ec37c"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "3a5e3ad1429a",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Razorfen Kraul can be found on the very southern tip of the Barrens on the west side of the road.",
+  "files": [
+   "gossip/2391b5317315d4d4a8941b336ba01d82"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "a82a4605c3d4",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "If you put on cologne or perfume, then you'll see who is amorous. Those are the ones who accept love tokens... and offer a gift in return.\n\nBut remember: to give someone a love token, you have to smell just right! Men like the scent of perfume, while women prefer cologne.",
+  "files": [
+   "gossip/2531cc395d4ced6a637c04f1ab1619dd"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "685625ff917d",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "The monastery was once a center for learning and enlightenment. With the rise of the undead Scourge during the Third War, the peaceful Monastery was converted into a stronghold of the fanatical Scarlet Crusade. The Crusaders are intolerant of all non-human races, regardless of alliance or affiliation. They believe that any and all outsiders are potential carriers of the undead plague - and must be destroyed.",
+  "files": [
+   "gossip/2bd1ba7a047b7f12cd181339448588cc"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "4d0feb83949e",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Ragefire Chasm can be found beneath the Shadow Cleft in the center of Orgrimmar.",
+  "files": [
+   "gossip/2f5d6341d44b8829dd7f6f1dd2237ef3"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "1d5a4c69cd2c",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Maraudon is located in the middle of the western coast of Desolace, in the Valley of Spears.",
+  "files": [
+   "gossip/355f0eaf3e41bbd9ac2b4927dd3ae00d"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "5337a1dbe351",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "The ruins of Zul'Farrak are located in the northwestern corner of the Tanaris Desert.",
+  "files": [
+   "gossip/35f023a0322674670e5742c64f6dde74"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "cd20517142b3",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Situated along the Zoram Strand of Ashenvale, Blackfathom Deeps was once a glorious temple dedicated to the night elves' moon-goddess Elune. However, the great Sundering shattered the temple - sinking it beneath the waves of the Veiled Sea. There it remained untouched - until, drawn by its ancient power - the naga and satyr emerged to plumb its secrets. Legends hold that the ancient beast, Aku'mai, has taken up residence within the temple's ruins.",
+  "files": [
+   "gossip/3f25eaca37dd5ce3380c10c71eac60c2"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "262cc64bf992",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Gnomeregan can be found in western Dun Morogh.",
+  "files": [
+   "gossip/45400c7ff98d6669e16f6f738a544da2"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "048bccf56cb5",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Maraudon is one of the most sacred sites within Desolace. The great temple/cavern is the burial place of Zaetar, one of two immortal sons born to the demigod, Cenarius. Legend holds that Zaetar and the earth elemental princess, Theradras, sired the misbegotten centaur race. It is said that upon their emergence, the barbaric centaur turned on their father and killed him. Some believe that Theradras, in her grief, trapped Zaetar's spirit within the winding cavern - used its energies for some malign purpose.",
+  "files": [
+   "gossip/465cf8b7ffede50d2c9d078908c27ebf"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "6c7745ac9e1b",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Are you interested in exploring one of these dungeons?",
+  "files": [
+   "gossip/488213bad6a40fbf7079b51dde4826ad"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "47dd8286a2be",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Over a thousand years ago a group of troll priests known as the Atal'ai attempted to bring back an ancient blood god named Hakkar the Soulflayer. After the resulting civil war the priests were defeated and exiled to the Swamp of Sorrows. There they erected a temple to Hakkar to prepare for his arrival into the physical world. The dragon Aspect Ysera soon learned of the Atal'ai's plans and smashed the temple beneath the marshes. To this day, the temple's ruins are guarded by the mighty green dragons.",
+  "files": [
+   "gossip/4af8645fc89247fb0892c4705462e74d"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "c74c495cc146",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Uldaman is an ancient Titan vault that has laid buried within the earth since the world's creation. Dwarven excavations of the city have recently released the Titans' first failed creations: the troggs. Legends say that when the Titans deemed the trogg experiment a failure they tried again, resulting in the creation of the dwarven race. These secrets are recorded on the fabled Discs of Norgannon - massive artifacts that lie at the bottom of the ancient city, protected by giant constructs of living stone.",
+  "files": [
+   "gossip/4bad438e187701f17fab5db0369bfa7e"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "e8ffa1c758ac",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "This sun-blasted city is home to the Sandfury trolls, known for their particular ruthlessness and dark mysticism. Troll legends tell of a powerful sword called Sul'thraze the Lasher, a weapon capable of instilling fear and weakness in even the most formidable of foes. Long ago, the weapon was split in half. However, rumors have circulated that the two halves may be found somewhere within Zul'Farrak's walls.",
+  "files": [
+   "gossip/4d9fe927578f203ba1f939866e8eb07f"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "eca25530c013",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Frustrated by the Dalaran wizards' lack of progress against the undead during the Third War, the Archmage Arugal elected to summon the extra-dimensional worgen to bolster his side's diminishing ranks. The wolf-men slaughtered the Scourge, then quickly turned on the wizards themselves and laid siege to the keep of the noble, Baron Silverlaine. The fort quickly fell into shadow and ruin. Driven mad with guilt, Arugal adopted the worgen as his children and retreated to the newly dubbed 'Shadowfang Keep'.",
+  "files": [
+   "gossip/5561946a80fa1778f731cd1da49a7f21"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "affb61684d20",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Recently, a night elf druid named Naralex discovered a network of underground caverns within the heart of the Barrens. Believing he could use the caverns' springs to restore lushness to the Barrens, the druid began siphoning the energies of the fabled Emerald Dream. His vision somehow became a nightmare, however, and soon the Wailing Caverns changed into a den of vicious, deadly predators. It is said that Naralex still resides somewhere inside the labyrinth, trapped beyond the edges of the Emerald Dream.",
+  "files": [
+   "gossip/5a0c8734a5baf412a3c8a6ea7f840971"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "d788507568cf",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "The ruins of Dire Maul stand in central Ferelas.",
+  "files": [
+   "gossip/69d5225f370d5873a20086b12494e196"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "90a568147e14",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "The Stormwind Stockades are found near the mage quarter in Stormwind.",
+  "files": [
+   "gossip/70c1e67468aaeaa3a549f39f40b0750e"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "2f1133839647",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Once the jewel of northern Lordaeron, the city of Stratholme is where Prince Arthas turned against his mentor, Uther Lightbringer, and slaughtered hundreds of his own subjects who were believed to have contracted the plague of undeath. Arthas' surrender to the Lich King soon followed. The broken city is now inhabited by the undead Scourge - led by the powerful lich, Kel'Thuzad, and a contingent of Scarlet Crusaders, led by Grand Crusader Dathrohan. The two sides are locked in constant, violent combat.",
+  "files": [
+   "gossip/7daf3bd91cab3bbe4b086b50a641371d"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "52d89d39d71c",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Bolvar, Magni, or Tyrande.",
+  "files": [
+   "gossip/81a3af904e5e838f33cd0c337609ca1e"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "2f51a734878b",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Scarlet Monastery lies in the hills northeast of Tirisfal Glades.",
+  "files": [
+   "gossip/918ba333b33ba169bd8203f33cbfdeb1"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "2663511ef509",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Blackfathom Deeps can be found at the north end of Zoram Strand along the coast of Ashenvale.",
+  "files": [
+   "gossip/95e0ef5ee5d277942310d2636ab0068b"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "73c2652c5fdc",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "The School for Necromancy known as Scholomance is on the ruined island of Caer Darrow in the Western Plaguelands.",
+  "files": [
+   "gossip/990feb669a320e4a8ee851b5411d8ac2"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "fed297bd10c0",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "No, I'm not, but lots of others are looking for love. You should buy my love tokens, put on some cologne or perfume, and then pass them around!",
+  "files": [
+   "gossip/a1c3340c748bfd2a378997d42cba3570"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "c296fb65f47d",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Razorfen Downs can be found on the very southern tip of the Barrens on the east side of the road.",
+  "files": [
+   "gossip/a92e7dde31e809f1b96a4d8f50c2d96e"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "b7c08cbe400d",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "The Scholomance is housed in crypts beneath the Caer Darrow keep. Once owned by the noble Barov family, the keep fell to ruin after the Second War. As the wizard Kel'Thuzad enlisted followers for his Cult of the Damned, he often promised immortality for those who served his Lich King. The Barovs fell to his influence and donated their keep, but the cultists killed the family and turned the crypts into a school of necromancy. Though Kel'Thuzad no longer resides there, cultists and instructors still remain.",
+  "files": [
+   "gossip/a99bd805ffc7f479b01c1f060c183d80"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "19c527055f6d",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Love tokens are small messages of affection you can give to amorous town and city folk. Such people will reward you with a gift of adoration.\n\nOr, if you are already adored by another, then at the least they'll give you a gift of friendship.",
+  "files": [
+   "gossip/acf39d2dcbeb2bb9768b8299a999e831"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "735793cca1a9",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Shadowfang Keep is in southern Silverpine just north of Pyrewood Village.",
+  "files": [
+   "gossip/b2f4c438fc5d7bb524d33db32a8d464d"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "b8a2b6f23703",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Ragefire Chasm consists of a network of volcanic caverns below the orcs' new capital city of Orgrimmar. Recently, rumors have spread that a cult loyal to the demonic Shadow Council has taken up residence within the Chasm's fiery depths. This cult, known as the Burning Blade, threatens the very sovereignty of Durotar. Many believe that the orc Warchief Thrall is aware of the Blade's existence and has chosen not to destroy it in the hopes that its members might lead him straight to the Shadow Council.",
+  "files": [
+   "gossip/c27212ba1429be052be892df280bdc70"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "5c86ba1f92f9",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "During the War of the Ancients, the demigod Agamaggan came forth to battle the Burning Legion. The colossal boar was defeated, and over time in the areas where his blood fell, massive thorn-ridden vines sprouted to life. The quilboar came to occupy these regions and hold them sacred. The heart of these massive thorn-colonies is the Razorfen. Razorfen Kraul was conquered by the crone, Charlga Razorflank, who some speculate has been negotiating with agents of the Scourge for some insidious purpose.",
+  "files": [
+   "gossip/c57a00c42fdfecf52c42b66d787bc1cd"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "8ac1937d798b",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "The Deadmines can be found beneath Moonbrook in the south of Westfall.",
+  "files": [
+   "gossip/cc9cfe1577ac40fdf30626ca38853f4c"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "f5f51da1aca4",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "The Stockades are a high-security prison complex, hidden beneath the canal district of Stormwind city. Presided over by Warden Thelwater, the Stockades are home to petty crooks, political insurgents, murderers and a score of the most dangerous criminals in the land. Recently, a prisoner-led revolt has resulted in a state of pandemonium within the Stockades - where the guards have been driven out and the convicts roam free.",
+  "files": [
+   "gossip/cec5376f55346bfe3dc2c2cc3e7250df"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "26f2c2a11ff6",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Rest your weary bones for a spell.",
+  "files": [
+   "gossip/cf5c0c6563faca35ab89050ffaff07a3"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "c134863fe8fd",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "The Sunken Temple can be found in the center of a great lake in eastern Swamp of Sorrows.",
+  "files": [
+   "gossip/d23384c474fd5420239b53802a4cb878"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "1f52e80873ec",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Uldaman can be found at the very northern end of the Badlands.",
+  "files": [
+   "gossip/d3b374cc078d522b47d39d918bf336ae"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "bfde4d2de3d6",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Crafted from the same vines as Razorfen Kraul, Razorfen Downs is the traditional capital city of the quilboar race. The sprawling, thorn-ridden labyrinth houses a veritable army of loyal quilboar as well as their high priests - the Death's Head tribe. Recently, however, a looming shadow has fallen over the crude den. Agents of the undead Scourge - led by the lich, Amnennar the Coldbringer - have taken control over the quilboar race and turned the maze of thorns into a bastion of undead might.",
+  "files": [
+   "gossip/df15192a7814812aa87b737075049c7f"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "e2e837f06d93",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "The mighty fortress carved within the fiery bowels of Blackrock Mountain was held by the sinister Dark Iron dwarves for centuries until Nefarian - the cunning son of the dragon, Deathwing - took control of the upper Spire and made war on the dwarves' holdings in the mountain's volcanic depths. Realizing that the dwarves were led by the mighty fire elemental, Ragnaros - Nefarian vowed to crush his enemies and claim the whole of Blackrock mountain for himself.",
+  "files": [
+   "gossip/e8cfd96680fc3ab29c2ca67c5e6131f3"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "cdcd2aea7412",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Once the capital city of the Dark Iron dwarves, this volcanic labyrinth now serves as the seat of power for Ragnaros the Firelord. Ragnaros has uncovered the secret to creating life from stone and plans to build an army of unstoppable golems to aid him in conquering the whole of Blackrock Mountain. Obsessed with defeating Nefarian and his draconic minions, Ragnaros will go to any extreme to achieve final victory.",
+  "files": [
+   "gossip/f3796e44c383e2f2dab079058435a9e6"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "ea2cb8b8ef43",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Located in Dun Morogh, Gnomeregan has been the gnomes' capital city for generations, though it was recently infested by mutant troggs. In a desperate attempt to retaliate, High Tinker Mekkatorque ordered the emergency venting of the city's radioactive waste tanks. Though the troggs became irradiated, their siege continued unabated and the gnomes were forced to seek refuge in the dwarven city of Ironforge, where the High Tinker now enlists brave souls to help his people reclaim their beloved city.",
+  "files": [
+   "gossip/f6e7182f2b831d3e98ea00acd3a557b4"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "4ecdce6e156f",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Built twelve thousand years ago by a covert sect of night elf sorcerers, the ancient city of Eldre'Thalas was used to protect Queen Azshara's most prized arcane secrets. Though it was ravaged by the Great Sundering of the world, much of the wondrous city still stands as the imposing Dire Maul. The ruins' three distinct districts have been overrun by all manner of creatures - especially the spectral highborne, foul satyr and brutish ogres.",
+  "files": [
+   "gossip/fa92810b103689a5e9744a90f05b45f4"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "fd339f31eba8",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Cairne, Sylvanas and Thrall.",
+  "files": [
+   "gossip/febd2c30f0ceec03812a46456d34b870"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "0c3354101cca",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Shay",
+  "quest": null,
+  "en": "Once the greatest gold production center in the human lands, the Dead Mines are now inhabited by the Defias Brotherhood, who have turned the dark tunnels into their private sanctum. It is rumored that the thieves have conscripted the clever goblins to help them build something terrible at the bottom of the mines - but what that may be is still uncertain. Rumor has it that the way into the Deadmines lies through the quiet, unassuming village of Moonbrook.",
+  "files": [
+   "gossip/ffbcb214f8bde35165c1e81f0262353a"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "68caee7f943c",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "James Van Brunt",
+  "quest": null,
+  "en": "Want to be a smith? Want to forge blades to gut your foe? Hammers to crush his skull? Aye I can help, and gladly too if there is blood to be shed from it.",
+  "files": [
+   "gossip/a4f5b9fe64550e019e5c5fc4f9716103"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "a9948dfa37b9",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Jeremiah Payson",
+  "quest": null,
+  "en": "Wanna buy a cockroach?",
+  "files": [
+   "gossip/7693cb63c5c8e9a15a4c651d5eb5c5f7"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "83e1b0db44e5",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Josef Gregorian",
+  "quest": null,
+  "en": "Good! I can tell that my efforts will not be wasted!",
+  "files": [
+   "gossip/094fa5433027839383a3e504a5026efe"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "33bf8a9b3116",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Josef Gregorian",
+  "quest": null,
+  "en": "You require the instruction of a true master! Go to Daryl Stack in Tarren Mill and embrace your destiny!",
+  "files": [
+   "gossip/219eb27afa3b0d2ddc962f79765170b8"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "bd24b7cf5623",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Josef Gregorian",
+  "quest": null,
+  "en": "Cloth is okay. Personally I prefer to work with human skin.",
+  "files": [
+   "gossip/a28ef0400b8b68493cc0c0bec5e96f56"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "30130f3c74db",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Josef Gregorian",
+  "quest": null,
+  "en": "I will instruct you when the time is right... that time is not now. You have much more to learn first!",
+  "files": [
+   "gossip/e8b392cb37c329c537afc0e93b50fbad"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "bcc8f9ffdb06",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Josephine Lister",
+  "quest": null,
+  "en": "Between the light and the dark, there is shadow... and those shadows have powers you have yet to see.",
+  "files": [
+   "gossip/32c32b0abd07adc607eabc8dab11e7f6"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "f74002bd1381",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Kaelystia Hatebringer",
+  "quest": null,
+  "en": "Well met, adventurer. My advice to you is this: as you travel the world, be wary of magic for it will burn the untrained.",
+  "files": [
+   "gossip/4031c7427d8998bb7fe7c1d3b0b84add"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "59ff7f157692",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Keeper Bel'dugur",
+  "quest": null,
+  "en": "Knowledge is both tool and weapon to those with the will to use it.",
+  "files": [
+   "gossip/29e223c174ec864c78dddac5c261e9f6"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "f1afc4e8d5a5",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kurden Bloodclaw",
+  "quest": null,
+  "en": "Are you here to fight for us at Warsong Gulch? Lok'tar Ogar adventurer!",
+  "files": [
+   "gossip/61dae5f4ed0e4cb3f60d344587e21b7c"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "647087cfcd34",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kurden Bloodclaw",
+  "quest": null,
+  "en": "I am sorry adventurer, but you are not seasoned enough yet to enter Warsong Gulch.",
+  "files": [
+   "gossip/7fe3331e4b1c06adee7ab9eb667d175d"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "c44fc22d51d3",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lady Sylvanas Windrunner",
+  "quest": null,
+  "en": "<Lady Sylvanas Windrunner regards you silently.>",
+  "files": [
+   "gossip/251d0975c5486f17e5fa423e79427d15"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "c11872f9ade2",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lady Sylvanas Windrunner",
+  "quest": null,
+  "en": "I've heard of you. Windshapers. Wayward children of ancient Eldre'Thalas.\n\nI once would have called you kin--albeit distant kin. Now I have no more in common with elfkind than I have with any of the other living races. All I value from any creature that draws breath is how well they may further the goals of the Forsaken. Make yourself useful to my people, and you will be welcome in our lands.\n\nGo. Explore the Undercity as you like and enjoy its comforts, such as they are. Just remember, nothing escapes my notice within my own domain.",
+  "files": [
+   "gossip/69049503eddd382269df18615b48e78b"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "887d8a33253c",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Lavinia Crowe",
+  "quest": null,
+  "en": "I don't get many visitors. You're looking for something specific, yes?",
+  "files": [
+   "gossip/014b07ee972c5fd050bf0997fe5b94ee"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "94f936d18961",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Lavinia Crowe",
+  "quest": null,
+  "en": "No, no, you'll need FAR more training before you're ready to learn from me! Go talk to that uptight dabbler Malcomb Wynn. He's the one buried in books over there.",
+  "files": [
+   "gossip/0d5d618e483f1cf0c19645c1d8efe716"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "016c499c2f5c",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Lavinia Crowe",
+  "quest": null,
+  "en": "If I wasn't stuck here day in and day out, I would have attained the mastery required to train the likes of you! Unfortunately that's not the case. Go talk to Hgarth at the Sun Rock Retreat in the Stonetalon Mountains.",
+  "files": [
+   "gossip/7217b0d1581a639542adae21f445f93d"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "73555ea7c7cb",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Lavinia Crowe",
+  "quest": null,
+  "en": "Well, I've seen better. But, you have potential, I won't deny it. Pay attention and you just might learn something!",
+  "files": [
+   "gossip/bec8ab340577543a45e2fa06872d01b1"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "8500ad7f3e02",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Lexington Mortaim",
+  "quest": null,
+  "en": "As a mage, you are one of a select group that can conjure a portal to transport you back to this very place. I can teach you if you are ready.",
+  "files": [
+   "gossip/3de4dfc277400108c32e9317af807f3a"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "a4aa696894de",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Lexington Mortaim",
+  "quest": null,
+  "en": "I do not believe you possess the mental acuity to grasp the nature of portal magic.",
+  "files": [
+   "gossip/94b6577e5651410a517d8b6494716ade"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "579da01680a9",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Lieutenant Rukag",
+  "quest": null,
+  "en": "Good day to you, citizen. Have you come to aid us against the Scourge?",
+  "files": [
+   "gossip/f65fe454e48559305e895a0f25ea0380"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "26323c907245",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Luther Pickman",
+  "quest": null,
+  "en": "You know enough to be dangerous, but you still look like you need training to me adventurer.",
+  "files": [
+   "gossip/40ed4acb596b8797e28b2e4ec74f6940"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "f2ad9c673dcc",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Malcomb Wynn",
+  "quest": null,
+  "en": "I do not have time to waste, stranger. State your business or be off!",
+  "files": [
+   "gossip/5326a24ee0ea6449c67c18d4327bde5d"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "0f10b873083e",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Malcomb Wynn",
+  "quest": null,
+  "en": "You don't look like much to me, but who knows, maybe there's an enchanter hidden in there somewhere!",
+  "files": [
+   "gossip/61487ac6146fba1f9b5c99729ccb3322"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "5937c9108e48",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Malcomb Wynn",
+  "quest": null,
+  "en": "Eh, well you've made it this far... go see Lavinia Crowe by the other bookshelf there. If you don't mess things up with her, maybe you can learn some more.",
+  "files": [
+   "gossip/ef5041ab92f8b0bb4ee9644254c363c9"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "05bfbda0757f",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Marion Call",
+  "quest": null,
+  "en": "I can not train you. You need to talk to your class trainer.",
+  "files": [
+   "gossip/d27bd058351066858c056f51bdfeb0bd"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "305836be5cd2",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Marion Call",
+  "quest": null,
+  "en": "With the sanction of Lord Varimathras, the Deathstalkers' numbers grow. More blades to strike at our enemies when they least expect it.",
+  "files": [
+   "gossip/d727a9a6c19bda725fe90de6453f386d"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "3607b53bc384",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Mary Edras",
+  "quest": null,
+  "en": "Only the renowned Doctor Gregory Victor can improve your skill now. He can be found in Arathi Highlands at Hammerfall.",
+  "files": [
+   "gossip/1da3761ad74cf7eb8c780bd1d6ef8d0f"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "d270b2ed067e",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Mary Edras",
+  "quest": null,
+  "en": "Balai Lok'Wein of Brackenwall Village in Dustwallow Marsh sells a manual that you will need to study in order to improve your skills!",
+  "files": [
+   "gossip/87c89b57e3313dbfc3b9494758c30fff"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "70b93e245bd3",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Mary Edras",
+  "quest": null,
+  "en": "I can train you in First Aid techniques.",
+  "files": [
+   "gossip/b989a2ab06d53ba30e6226c9b588d90b"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "cf50c962c276",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Master Apothecary Faranell",
+  "quest": null,
+  "en": "The Royal Apothecary Society shall heed The Dark Lady's call to uncover the New Plague and drive Arthas and his heathen Scourge Army from the world once and for all.",
+  "files": [
+   "gossip/aabb12114c07d4e6cb40cdd5e339c9eb"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "2870af3bc236",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Michael Garrett",
+  "quest": null,
+  "en": "How may I be of service?",
+  "files": [
+   "gossip/7c8c7304e2aa7ceedcd878cb5540437f"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "ae192a30165d",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Miles Dexter",
+  "quest": null,
+  "en": "Messengers from Ravenholdt delivered this letter to me this morning. It is addressed to you, adventurer.",
+  "files": [
+   "gossip/905f380534c597ffe329082b2db08cd9"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "e020d57a3f7d",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Officer Gothena",
+  "quest": null,
+  "en": "Greetings, adventurer - I'm a Commendation Officer acting on behalf of the Undercity. It is my duty to assist adventurers who have received Horde Commendation Signets.\n\nI accept signets in different quantities, but the most beneficial exchange for you is to hand in a set of ten at once. I will enter your deeds into our records when you hand in your signets. As a result, you will earn recognition from the Undercity for your duty and service.",
+  "files": [
+   "gossip/785ab4fc105ad5b95f78d5dd7a0e36e2"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "760eb6d3915f",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Parqual Fintallas",
+  "quest": null,
+  "en": "It's always nice when someone wishes to speak to me. How are things with you, adventurer?",
+  "files": [
+   "gossip/b219a709c06746dd4308b42ceae14a51"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "5c4e19a84117",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Parqual Fintallas",
+  "quest": null,
+  "en": "Now, answer me this, adventurer:\nWhich creature became the Lich King before spreading the plague across Lordaeron?",
+  "files": [
+   "gossip/f6f7ba02da1200cdb9a4345823966550"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "c3c22c7db220",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Ralston Farnsley",
+  "quest": null,
+  "en": "You there... it is in your best interest to aid the Forsaken during these dire times. Listen closely, as I dislike repeating myself.\n\nWe currently find ourselves in a dire shortage of cloth. Bandages and simple textiles are running low, and donations are being accepted to bolster sagging inventories. While you'll not receive financial compensation - hence what donation means - your aid will not go unnoticed.",
+  "files": [
+   "gossip/142f4365ed15cdab171cacd75afb66fc"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "76313389aafa",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Rhiannon Davis",
+  "quest": null,
+  "en": "How can I share my secrets with a beginner? Try speaking with Victor Ward first.",
+  "files": [
+   "gossip/0638cab49daffdf96bf1ac788edc45a1"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "d4f1559f1d23",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Rhiannon Davis",
+  "quest": null,
+  "en": "Tailoring can come in very handy. I once had to sew my arm back on.",
+  "files": [
+   "gossip/77c219389146b4ffabb25acd8f094702"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "3c7e6e345abc",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Rhiannon Davis",
+  "quest": null,
+  "en": "You have worked your way up... time to see the boss. Go to Josef and tell him you are ready.",
+  "files": [
+   "gossip/c53c4d2d827cfe2a748ce5b3b062c6bd"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "196de2b5921c",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Rhiannon Davis",
+  "quest": null,
+  "en": "Good, you've got some grit! I like that. Well then, let's get going!",
+  "files": [
+   "gossip/d6877ad93174a1c14b6b0dbbb153fbb8"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "aa6c7104933b",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Royal Overseer Bauhaus",
+  "quest": null,
+  "en": "I am an officer of the city, working in the capacity of the Undercity's census. Since our liberation from the Scourge, we have tried to keep an accurate track of our city's populace. Through arcane methods and sharpened mental discipline, I am able to access these records. If you have business with me accordingly, please proceed. You should know if you do, at any rate.",
+  "files": [
+   "gossip/24e7ef74fe54cfa4f4d5f92d6d6644ab"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "8d8a3537f366",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Senior Sergeant Grimsford",
+  "quest": null,
+  "en": "Hail, adventurer. I trust you are here to inquire on the Ahn'Qiraj war effort. We are going to need a great deal of assistance.\n\nThe war effort is a united effort between the Horde and Alliance to prepare for the impending war against the Silithid and their masters in Ahn'Qiraj. In Orgrimmar's Valley of Spirits, we are collecting a vast number of goods to create war materiel, and these gathering tasks are what we need your help with.\n\nCan I convince you to speak with our commander about helping out?",
+  "files": [
+   "gossip/f54d2505d254f8e348f3bd182ed879e7"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "f0cc8b9a383d",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Sir Malory Wheeler",
+  "quest": null,
+  "en": "Look around you adventurer. You are in rare company to be certain, yet still I think you need to prove yourself. Hmm, perhaps I shall allow you to aid us in our cause at Arathi Basin. Would you like that?",
+  "files": [
+   "gossip/d434eab0594d28c2d08ea9dbd4f04fbe"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "ebd8aa664607",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Theodore Griffs",
+  "quest": null,
+  "en": "Hello, adventurer.",
+  "files": [
+   "gossip/384ac0a49aebaacce2b295d67b189472"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "d974ca5643dc",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Undercity Reveler",
+  "quest": null,
+  "en": "The kegs are filled with strong brew! Drink, friend, and celebrate!",
+  "files": [
+   "gossip/06f49d9f9d5fb1edcf209836d4309855"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "7cc0afb13d0e",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Undercity Reveler",
+  "quest": null,
+  "en": "Hail, adventurer! Welcome to the celebration!",
+  "files": [
+   "gossip/82e1f388e3d1053dc0d340f63090e225"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "1d966b8b400f",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Undercity Reveler",
+  "quest": null,
+  "en": "Starting at 6PM, they will show fireworks from the highest bluff!",
+  "files": [
+   "gossip/c5f7e2df05ba63b220570cf049a0ae7a"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "5cee269e9ae6",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Undercity Reveler",
+  "quest": null,
+  "en": "I sure could use a kiss about now. Know where I can find one?",
+  "files": [
+   "gossip/e46a99e660cce12f8a4292fdb7f7bc29"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "de2c243cc6c4",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Undercity Reveler",
+  "quest": null,
+  "en": "I heard that, after the fireworks show, goblets will be brought to the tables. Fine toasts we shall raise!",
+  "files": [
+   "gossip/ed962dfa7d7188507f9a08ba0eb16209"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "c338f931f1ae",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Varimathras",
+  "quest": null,
+  "en": "Do not presume to speak to me as though you are my equal, adventurer. Sylvanas is my queen, and I will do as she bids.\n\nIf you do not show the proper respect, I assure you, we can find a more than suitable place for you in the Nether.\n\nBut there is no reason we cannot have words if you wish to aid the Dark Lady...",
+  "files": [
+   "gossip/df026ba116c46347a0f53bb2c2836f20"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "b6caa419a3f5",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Victor Ward",
+  "quest": null,
+  "en": "We don't get many visitors out here. May I interest you in something?",
+  "files": [
+   "gossip/5d1d54fe06f83ab0d94d3657a2656351"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "2f5b850289df",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Victor Ward",
+  "quest": null,
+  "en": "Yes, I think you have potential. Maybe I can show you a thing or two.",
+  "files": [
+   "gossip/667d01f5431aa66becfa107bd97d1b6b"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "d1709dd0174b",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Victor Ward",
+  "quest": null,
+  "en": "I'm just a student myself, really. Rhiannon's the expert. She's standing by the crates over there. You can learn a lot from her.",
+  "files": [
+   "gossip/b3ce892e3e9d7520713df2a64935ea72"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "0cee3c92e8ae",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warsong Emissary",
+  "quest": null,
+  "en": "Adventurer, we have a great need for your help in Warsong Gulch against the Silverwing Sentinels. And there is even greater honor and reputation with the Warsong Outriders to be gained as well! Do you have the courage to enter battle?",
+  "files": [
+   "gossip/94e10ef8ca4f4ba7b2ed059da3d417e8"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "6a1baed2df57",
+  "zone": "undercity-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warsong Emissary",
+  "quest": null,
+  "en": "Unfortunately you are not yet strong enough to survive in Warsong Gulch, adventurer.",
+  "files": [
+   "gossip/f24e4a79c576d78e3b220d459097ffb8"
+  ],
+  "uiMap": 1458
+ }
+]

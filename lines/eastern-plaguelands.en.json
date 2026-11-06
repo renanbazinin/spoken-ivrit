@@ -1,0 +1,2855 @@
+[
+ {
+  "id": "2a6800cb54df",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Chromie",
+  "quest": "A Strange Historian",
+  "en": "What is this? A wedding ring? Let me see...\n\nAh! This ring was once on the hand of a great man, but there is much tragedy in that man's past.\n\nAre you here to help him? It's far too late for him now... but perhaps we can help him in the past!",
+  "files": [
+   "quests/5153-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "cfa09f6c1542",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Marlene Redpath",
+  "quest": "A Strange Historian",
+  "en": "I wish Joseph could again be with his daughter, but it cannot be so. His soul was twisted by the Scourge, and he became a monster. Oh, he is doomed!\n\nBut perhaps we can change his fate.\n\nSearch the graves outside for Joseph's monument. His body's not there, for it was trampled and destroyed years ago, but under the monument is his wedding ring. Take that ring to Chromie... a strange gnome with very strange powers.\n\nChromie is staying in the ruined inn at the northwest corner of Andorhal.",
+  "files": [
+   "quests/5153-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "4cc6bbfa5c66",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Duke Nicholas Zverenhoff",
+  "quest": "Above and Beyond",
+  "en": "You display a natural aptitude for destruction and you follow orders. It is rare to see the two coexist. I am beginning to think that you may make an excellent vehicle of divine justice.\n\n\nKel'Thuzad's errand boy rules over Stratholme. Prove to me that you are a champion - my champion. Destroy Baron Rivendare and return to me with his head.",
+  "files": [
+   "quests/5263-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "01bca084653e",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Duke Nicholas Zverenhoff",
+  "quest": "Above and Beyond",
+  "en": "It has been many years since I have ushered a champion into our ranks. You are the first to be granted audience with Lord Maxwell in years.",
+  "files": [
+   "quests/5263-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "d2c34d6bb6dc",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Anthion Harmon",
+  "quest": "Anthion's Strange Request",
+  "en": "We didn't realize the importance of Valthalak's medallion, so it was divided along with the rest of the spoils. The first piece was taken by a dwarf named Theldren. I tried to retrieve it from him and he beat me within an inch of my life. You shall have to take the fragment by force.\n\nLast I heard of him, he'd become a gladiator for the Dark Iron dwarves. Getting him to fight you is going to present a bit of a challenge, though.\n\nGather the following materials for me. You're going to need them.",
+  "files": [
+   "quests/8947-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f3e7d25d467c",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Anthion Harmon",
+  "quest": "Anthion's Strange Request",
+  "en": "Excellent. I shall transmute these into something more suitable to our needs.",
+  "files": [
+   "quests/8947-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "1f53c789baae",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Duke Nicholas Zverenhoff",
+  "quest": "Argent Dawn Commission",
+  "en": "All who fight evil on behalf of the Argent Dawn must don our commission. Wearing such will earn your right to claim rewards our quartermasters have to offer.\n\nWhile under commission, you'll be able to acquire Scourgestones from slain Scourge; these are marks of insignia that they sometimes possess. Procure these insignia and bring them to me. For each set you turn in, you will receive our marker of heroism - the Argent Dawn Valor Token.\n\nAchieve your destiny, Adventurer join the fight today!",
+  "files": [
+   "quests/5503-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "387270e52b62",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Augustus the Touched",
+  "quest": "Augustus' Receipt Book",
+  "en": "I'm ready for business! What you do want?\n\nOh wait... I can't open up shop without my receipt book. How am I to keep track of things without my receipt book?\n\nI must have left it in town somewhere. I had a room in the inn... the book must be there.\n\nBring me my book. Please, bring it to me! Bring me my book and you'll see! I'll set up shop and you'll see that my prices are INSANE!",
+  "files": [
+   "quests/6164-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "ac995fcd939e",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Augustus the Touched",
+  "quest": "Augustus' Receipt Book",
+  "en": "There it is! And oh my! I forgot how full it was!\n\nThis is a glorious day, Adventurer! Stupendous! Insanely good, I say!",
+  "files": [
+   "quests/6164-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "c582ea66ad67",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Marlene Redpath",
+  "quest": "Auntie Marlene",
+  "en": "You saw Pamela? How is she? Is she alive?? Oh, no! Poor Pamela! She was so young, and such a happy child...\n\nShe doesn't know what happened to her father, does she? My brother, Joseph?\n\nNo... she couldn't understand what happened to Joseph. And even if she could, I don't have the heart to tell her...",
+  "files": [
+   "quests/5152-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "493be43b4ac5",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Aurius",
+  "quest": "Aurius' Reckoning",
+  "en": "Adventurer, I am dying... but my soul is saved. For that, I owe you more than words can say. Please, take this... and fight on, brave adventurer!",
+  "files": [
+   "quests/5125-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f00751284a25",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Korfax, Champion of the Light",
+  "quest": "Binding the Dreadnaught",
+  "en": "This will do, for now. If you get more, you know where to find me.",
+  "files": [
+   "quests/9131-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "991aa5580a0d",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Korfax, Champion of the Light",
+  "quest": "Binding the Dreadnaught",
+  "en": "Have you ever seen Dreadnaught armor, adventurer? No, of course you haven't. You're still a boy - a tyke. Let me tell you, it is glorious.\n\nYou're probably asking yourself what any of this has to do with you, right? I'll tell you what, scrub; I need Dark Iron scraps and I'm willing to pay to get my hands on as many as possible.\n\nI need the scraps to put together sets of Dreadnaught for our champions. Bring me scraps and get paid.",
+  "files": [
+   "quests/m-9131-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "a179c6f0d907",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Father Inigo Montoy",
+  "quest": "Bindings of Faith",
+  "en": "Exellent Adventurer !\n, you got everything just as i asked and now i can make a Bindings of Faith.",
+  "files": [
+   "quests/9118-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "e14a699ddf7b",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tirion Fordring",
+  "quest": "Blood Tinged Skies",
+  "en": "Woe to those that foolishly wander into the Plaguelands. All manner of foulness inhabit these woods - from the fanatical Scarlet Crusade, who will kill any that do not bear the mark of the Crusade, to the murderous Scourge, who only look to bolster their numbers by adding more undead to their ranks.\n\nEven the wildlife have been transformed into rapacious, man eating beasts. I ask that you destroy those that would strike from the skies: The Plaguebats.",
+  "files": [
+   "quests/5543-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "5af0f6b8344c",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tirion Fordring",
+  "quest": "Blood Tinged Skies",
+  "en": "You are a shining example of decency, traveler! It has been long since I have felt the blood of heroes pump through my veins. Your acts of bravery are uplifting!",
+  "files": [
+   "quests/5543-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "e7943e418743",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Emmisary Gormok",
+  "quest": "Bolstering Our Defenses",
+  "en": "Agents of the Forsaken uncovered an Alliance plot to establish new bases here in the Eastern Plaguelands, at abandoned towers throughout the area.\n\nIt is imperative that we not allow them to establish a significant presence on our eastern borders, and so we must stave off this Alliance incursion. Our current plans are to drive them out of any towers they may have already seized, and occupy those that we have under our control against further attacks.",
+  "files": [
+   "quests/9665-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "03043dbd5102",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Emmisary Gormok",
+  "quest": "Bolstering Our Defenses",
+  "en": "This is good news, adventurer. It will be a constant struggle here in the Plaguelands until we have fully driven back the forces of the Alliance.\n\nUntil that day, I hope that we will have your continued assistance.",
+  "files": [
+   "quests/9665-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "fda54c6a152e",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Rohan the Assassin",
+  "quest": "Bone Fragments",
+  "en": "My dream of becoming a full-time dancer at the Gadgetzan disco is soon to become a reality! Keep up the good work, adventurer.",
+  "files": [
+   "quests/9127-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "75952075aff9",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Rohan the Assassin",
+  "quest": "Bonescythe Breastplate",
+  "en": "If you want Bonescythe made, you're going to have to supply the materials.\n\nEnter Naxxramas, the big floating city of death in the sky up there, and find desecrated armor and wartorn armor scraps. Bring those back along with the materials to put everything together and you'll have your Bonescythe. Oh, and you'll need to pay me for my troubles... I'll supply the bones.",
+  "files": [
+   "quests/9077-accept",
+   "quests/9078-accept",
+   "quests/9079-accept",
+   "quests/9080-accept",
+   "quests/9081-accept",
+   "quests/9082-accept",
+   "quests/9083-accept",
+   "quests/9084-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "bc120f3ebdcf",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Rohan the Assassin",
+  "quest": "Bonescythe Breastplate",
+  "en": "Exellent Adventurer !\n,you got everything just as i asked and now i can make a Bonescythe Breastplate.",
+  "files": [
+   "quests/9077-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "86fe792ec5c7",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Rohan the Assassin",
+  "quest": "Bonescythe Digs",
+  "en": "Don Julio's Bonescythe armor pattern requires bone fragments - a lot of bone fragments. While those crazy enough to venture into Naxxramas provide me with enough of the core materials to make the armor, I'm always looking for more Scourge bone fragments.\n\nSo what do you think? Interested in getting your hands dirty and destroying some Scourge at the same time? It's a win-win situation.",
+  "files": [
+   "quests/9126-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "0788766d0727",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Rohan the Assassin",
+  "quest": "Bonescythe Digs",
+  "en": "You work fast, Adventurer. Fast like a fox... Say, have I ever told you about the time I was in a barber shop quartet?\n\nRemind me to tell you that story one of these days.",
+  "files": [
+   "quests/9126-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "a397b895ee57",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Rohan the Assassin",
+  "quest": "Bonescythe Gauntlets",
+  "en": "These gauntlets could probably substitute as weapons if absolutely necessary. Wear them with pride!",
+  "files": [
+   "quests/9082-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "1baf5e989ac6",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Rohan the Assassin",
+  "quest": "Bonescythe Helmet",
+  "en": "Exellent Adventurer !\n,you got everything just as i asked and now i can make a Bonescythe Helmet.",
+  "files": [
+   "quests/9079-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "d0a8976cd0a9",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Rohan the Assassin",
+  "quest": "Bonescythe Legplates",
+  "en": "Be careful walking around in those things. You might cut yourself.",
+  "files": [
+   "quests/9078-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "b4d933b7bae5",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Rohan the Assassin",
+  "quest": "Bonescythe Pauldrons",
+  "en": "These shoulders took some work! Don't go out and get yourself killed like a scrub, Adventurer.",
+  "files": [
+   "quests/9080-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "777e0446ba2c",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Rohan the Assassin",
+  "quest": "Bonescythe Sabatons",
+  "en": "They go on your feet. Say, you haven't been nosing around in Tyr's Hand again, have you?",
+  "files": [
+   "quests/9081-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "ef6f3aea23a0",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Rohan the Assassin",
+  "quest": "Bonescythe Waistguard",
+  "en": "The belt is ready, Adventurer. Have you ever seen such a high-quality item sold for so little?",
+  "files": [
+   "quests/9083-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "4026f1c1c1b5",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Carlin Redpath",
+  "quest": "Brother Carlin",
+  "en": "What is this book? The Annals of Darrowshire? That was my home before the war... my home before the battle that destroyed it! Why did you bring me this book?\n\nBut look here! At the end there are pages that tell tales of the days beyond the battle! Here is a passage about me! And one about my brother Joseph! Is this book true?\n\nWe must discover the truth!",
+  "files": [
+   "quests/5210-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "19a74d8d8a01",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Chromie",
+  "quest": "Brother Carlin",
+  "en": "The Annals of Darrowshire, through my magic, has gained pages at its end, and now it extends its history beyond the battle. One of the extra passages tells of another Redpath, Carlin, who survived Joseph's betrayal. Carlin's now in the Plaguelands to the east, at the Light's Hope Chapel.\n\nTake the book and speak with him.",
+  "files": [
+   "quests/5210-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "93fd820a6da7",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tirion Fordring",
+  "quest": "Carrion Grubbage",
+  "en": "My food supplies are running low, traveler. I am ashamed to admit that I might not have enough food to share with you.\n\nCould you assist an old man with a simple task? Around here, the only manner of beast unaffected by the ravages of the Plague are the Carrion worms. While rather bland in taste, the meat of the worms can easily be preserved to last for months. I will need several hundred pounds to restock for the coming winter!",
+  "files": [
+   "quests/5544-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "32c7362ff2fa",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tirion Fordring",
+  "quest": "Carrion Grubbage",
+  "en": "May the Light watch over you! Bless you, young one.",
+  "files": [
+   "quests/5544-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "7b7cef56b300",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Quartermaster Miranda Breechlock",
+  "quest": "Chromatic Mantle of the Dawn",
+  "en": "Most impressive, Adventurer - the Chromatic Mantle of the Dawn is now yours!\n\nAs long as you maintain Exalted status with the Argent Dawn, you will be able to purchase additional Chromatic Mantles. They will be made available to you immediately from any of the Dawn's quartermasters.",
+  "files": [
+   "quests/5517-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "c6014957d070",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Quartermaster Miranda Breechlock",
+  "quest": "Chromatic Mantle of the Dawn",
+  "en": "Brother Adventurer - your deeds on behalf of the Argent Dawn are far too numerous to be recounted easily. As a fitting tribute, I'll part with one of our special Chromatic Mantles of the Dawn - a version that protects the wearer from all forms of resistible magic simultaneously. Chromatic Mantles of the Dawn are reserved for only the mightiest of the Dawn's heroes!\n\nBring to me twenty-five valor tokens as a sign of tribute, and I'll give you the finest of all our mantles.",
+  "files": [
+   "quests/m-5517-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "630db0b0a31c",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Father Inigo Montoy",
+  "quest": "Circlet of Faith",
+  "en": "Exellent Adventurer !\n, you got everything just as i asked and now i can make a Circlet of Faith.",
+  "files": [
+   "quests/9113-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "faecaf38d1d7",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": "Core of Elements",
+  "en": "You perform a great service for us, adventurer. Well done!",
+  "files": [
+   "quests/9129-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "9a0873b21c03",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Duke Nicholas Zverenhoff",
+  "quest": "Corruptor's Scourgestones",
+  "en": "Congratulations, Adventurer - I am pleased to award you with an Argent Dawn valor token!\n\nTo acquire a valor token in such a manner indicates that you are a true hero in the cause of good. We value all effort brought to bear against the Scourge, but to take down one of their leaders is to truly deliver onto them a crushing defeat!\n\nFor the Dawn, my brother!",
+  "files": [
+   "quests/m-5508-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "dc8ea0b476e6",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Dispatch Commander Metz",
+  "quest": "Craftsman's Writ",
+  "en": "You earned this, scrub. Now, don't cry about your orders. Fill 'em or destroy 'em.",
+  "files": [
+   "quests/9142-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "d19bc5dfc279",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Brightcloth Pants",
+  "quest": "Craftsman's Writ - Brightcloth Pants",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order TR-95:\n\n6 Brightcloth Pants.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9188-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "fcaf33bcf44e",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Brightcloth Pants",
+  "en": "I can almost see my reflection in these things! That's crazy.",
+  "files": [
+   "quests/9188-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "13d987ee8660",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Dense Weightstone",
+  "quest": "Craftsman's Writ - Dense Weightstone",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order BS-091:\n\n120 Dense Weightstones.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9178-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "b546c8550935",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Dense Weightstone",
+  "en": "Yep, these will come in handy for the infantry's bashin' weapons.",
+  "files": [
+   "quests/9178-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "42c95c241f02",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Flask of Petrification",
+  "quest": "Craftsman's Writ - Flask of Petrification",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order AL-90:\n\n1 Flask of Petrification.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9203-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "627867f7cae0",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Flask of Petrification",
+  "en": "No comment.\n\n\nI said no comment! Now get out of my sight!",
+  "files": [
+   "quests/9203-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "be3814708fa3",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Gnomish Battle Chicken",
+  "quest": "Craftsman's Writ - Gnomish Battle Chicken",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order EN-0:\n\n4 Gnomish Battle Chickens.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9197-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "155ec2067d51",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Gnomish Battle Chicken",
+  "en": "Why are you smiling? What's so funny? Listen, mister, a gnomish battle chicken is a very important unit and not to be taken lightly - EVER. We send these in to areas that might be heavily plagued or infested and they clean up any plagued insects or carrion maggots that might still be fluttering about. Everybody knows that robots are immune to the plague.\n\nI bet you don't feel so smart now, do you? Big dummy...",
+  "files": [
+   "quests/m-9197-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f151ac74a192",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Goblin Sapper Charge",
+  "quest": "Craftsman's Writ - Goblin Sapper Charge",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order EN-11:\n\n20 Goblin Sapper Charges.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9195-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "7040ea6fadf9",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Goblin Sapper Charge",
+  "en": "Now you're talking my language, Adventurer. Things that go BOOM!",
+  "files": [
+   "quests/9195-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "07ec8d9bb38a",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Greater Arcane Protection Potion",
+  "quest": "Craftsman's Writ - Greater Arcane Protection Potion",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order AL-1420:\n\n15 Greater Arcane Protection Potions.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9201-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "239e832dfde6",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Greater Arcane Protection Potion",
+  "en": "WOOT! These pack a kick, baby! A kick I say!",
+  "files": [
+   "quests/9201-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "5548527aeaec",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Huge Thorium Battleaxe",
+  "quest": "Craftsman's Writ - Huge Thorium Battleaxe",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order BS-6020:\n\n3 Huge Thorium Battleaxes.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9182-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "561d053d65ea",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Huge Thorium Battleaxe",
+  "en": "These aren't as huge as I expected. Regardless, a deal is a deal.",
+  "files": [
+   "quests/9182-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "ecb3058c4829",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Imperial Plate Chest",
+  "quest": "Craftsman's Writ - Imperial Plate Chest",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order BS-428:\n\n3 Imperial Plate Chests.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9179-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "0fee75c7feed",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Imperial Plate Chest",
+  "en": "More armor for the troops! Fantastic, Adventurer!",
+  "files": [
+   "quests/9179-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "b61faa09507a",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Lightning Eel",
+  "quest": "Craftsman's Writ - Lightning Eel",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order FS-9:\n\n30 Lightning Eel.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9206-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "3894fe5f68b3",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Lightning Eel",
+  "en": "These make the best eel rolls in the world. That's right - IN THE WORLD.",
+  "files": [
+   "quests/9206-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f6f47c398811",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Major Healing Potion",
+  "quest": "Craftsman's Writ - Major Healing Potion",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order AL-169110:\n\n20 Major Healing Potions.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9202-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "23374ea6e938",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Major Healing Potion",
+  "en": "Do you know what the troops on the front lines call these? Priests in a bottle...\n\n\n\"I'm your priest in a bott-le baby... you gotta drink me the right way...\"\n\nWhat's the matter sonny? It's a very popular song around these parts.",
+  "files": [
+   "quests/9202-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "2ce1fbddbccd",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Major Mana Potion",
+  "quest": "Craftsman's Writ - Major Mana Potion",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order AL-473:\n\n10 Major Mana Potions.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9200-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "6398d9c31365",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Major Mana Potion",
+  "en": "The utility of these should go without saying.",
+  "files": [
+   "quests/9200-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "1226ca4ed867",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Plated Armorfish",
+  "quest": "Craftsman's Writ - Plated Armorfish",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order FS-12:\n\n30 Plated Armorfish.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9205-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "8ef69b7d8a4a",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Plated Armorfish",
+  "en": "You really don't know what these are for?\n\n\nLike I'm going to tell you!",
+  "files": [
+   "quests/9205-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f0d84c21de61",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Radiant Circlet",
+  "quest": "Craftsman's Writ - Radiant Circlet",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order BS-80:\n\n3 Radiant Circlets.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9183-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "5f54c81632a6",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Radiant Circlet",
+  "en": "I still can't believe Metz expects our troops to wear this low-quality garbage to protect against the freezing attacks of the Scourge.",
+  "files": [
+   "quests/9183-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "91cabecebf27",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Rugged Armor Kit",
+  "quest": "Craftsman's Writ - Rugged Armor Kit",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order LW-448:\n\n25 Rugged Armor Kits.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9185-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "503720695f24",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Rugged Armor Kit",
+  "en": "The rugged armor kits have many uses, Adventurer. They aren't JUST for slapping on certain armor pieces for added protection. Like this one here, I'm going to use it as teapot cozy.",
+  "files": [
+   "quests/9185-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "3e8c0f6c7549",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Runecloth Bag",
+  "quest": "Craftsman's Writ - Runecloth Bag",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order TR-9999:\n\n8 Runecloth Bags.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9191-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "24f04daf61e6",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Runecloth Bag",
+  "en": "Blessed bootstraps! Are those what I think they are? The troops have been complaining non-stop about the lack of storage space for all that is required while in the field. One of them even drew me a diagram - such a pansy...\n\nThese will definitely help alleviate some of the whining.",
+  "files": [
+   "quests/9191-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "89081fb3838d",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Runecloth Boots",
+  "quest": "Craftsman's Writ - Runecloth Boots",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order TR-635:\n\n8 Runecloth Boots.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9190-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "1265bec57b96",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Runecloth Boots",
+  "en": "By Bronzebeard's beard! You actually brought me runecloth boots... I guess I lost that bet.",
+  "files": [
+   "quests/9190-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "3898ef7249a8",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Runecloth Robe",
+  "quest": "Craftsman's Writ - Runecloth Robe",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order TR-7229:\n\n8 Runecloth Robes.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9194-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "a18ca67d950a",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Runecloth Robe",
+  "en": "You shouldn't have! No really, you shouldn't have. I don't know what Metz is thinking, but nobody is going to be wearing these robes into Naxxramas.\n\n\nBah, another pile of junk I'll have to get transferred to the front lines and another berating I'll have to take from Chambers.",
+  "files": [
+   "quests/9194-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "03413a17aea5",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Runic Leather Pants",
+  "quest": "Craftsman's Writ - Runic Leather Pants",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order LW-8485:\n\n4 Runic Leather Pants.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9187-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "b381cfdb055d",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Runic Leather Pants",
+  "en": "The druids will definitely appreciate the craftsmanship that went into the making of these pants. Many thanks, Adventurer.",
+  "files": [
+   "quests/9187-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "0da45e7f4ac6",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Stonescale Eel",
+  "quest": "Craftsman's Writ - Stonescale Eel",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order FS-5:\n\n40 Stonescale Eel.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9204-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "1e076fffe36d",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Stonescale Eel",
+  "en": "You could have used this for something else, but you didn't, did you? No use crying about it now, Adventurer.",
+  "files": [
+   "quests/9204-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "74ac5a61c200",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Thorium Grenade",
+  "quest": "Craftsman's Writ - Thorium Grenade",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order EN-7:\n\n20 Thorium Grenades.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9196-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "da5007abb691",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Thorium Grenade",
+  "en": "These must have cost a pretty copper piece to make. Am I right or am I right, Adventurer?",
+  "files": [
+   "quests/9196-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "b2c914b1c54c",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Thorium Tube",
+  "quest": "Craftsman's Writ - Thorium Tube",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order EN-558:\n\n14 Thorium Tubes.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9198-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "b7432fb9f76a",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Thorium Tube",
+  "en": "Thorium tubes? Gee, thanks.",
+  "files": [
+   "quests/9198-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "dfcaf0dcfb8a",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Volcanic Hammer",
+  "quest": "Craftsman's Writ - Volcanic Hammer",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order BS-697:\n\n3 Volcanic Hammers.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9181-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "6a681d792bdb",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Volcanic Hammer",
+  "en": "These should go well with the dense weightstones we're stockpiling.",
+  "files": [
+   "quests/9181-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "3b1aabe8b554",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Wicked Leather Belt",
+  "quest": "Craftsman's Writ - Wicked Leather Belt",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order LW-736:\n\n9 Wicked Leather Belts.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9186-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "e83a88a0e91f",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Wicked Leather Belt",
+  "en": "These belts are actually more wicked than the headbands - if you can believe such a thing to be possible.",
+  "files": [
+   "quests/9186-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "9bd18260bd78",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Craftsman's Writ - Wicked Leather Headband",
+  "quest": "Craftsman's Writ - Wicked Leather Headband",
+  "en": "The bearer of this writ is entitled to payment in the form of an insignia of their choice upon completion of the contracted work order.\n\nWork Order LW-971:\n\n10 Wicked Leather Headbands.\n\nAll filled orders should be delivered to Packmaster Stonebruiser at Light's Hope Chapel in the Eastern Plaguelands.\n\nContract is null and void if tampered with or damaged.\n\n-Dispatch Commander Metz, The Argent Dawn",
+  "files": [
+   "quests/9184-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "cee2594a0610",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": "Craftsman's Writ - Wicked Leather Headband",
+  "en": "These are... wicked.",
+  "files": [
+   "quests/9184-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "21e62bf9bfe4",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Leopold",
+  "quest": "Crypt Fiend Parts",
+  "en": "Most excellent, adventurer! These will definitely come to good use.",
+  "files": [
+   "quests/9125-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "472202981e51",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Leopold",
+  "quest": "Cryptstalker Armor Doesn't Make Itself...",
+  "en": "How would you like to earn yourself one of these shiny coins?\n\n\nI've got a little problem that you might be able to help me with, Adventurer. You see, I make Cryptstalker armor for those daft enough to venture into Naxxramas. While they supply me with the core material requirements for the armor, I always run out of the crypt fiend parts. Bring me back a bundle of parts and I'll pay you with an insignia - usable at the quartermaster.",
+  "files": [
+   "quests/9124-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f99acd05b346",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Leopold",
+  "quest": "Cryptstalker Armor Doesn't Make Itself...",
+  "en": "Ah, that'll do nicely, Adventurer. Remember, I'm always accepting more parts. For every bundle you bring me, I'll reward you with an insignia.",
+  "files": [
+   "quests/9124-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "58e3698ffcc6",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Leopold",
+  "quest": "Cryptstalker Boots",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Cryptstalker Boots.",
+  "files": [
+   "quests/9058-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f2eb2527c27b",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Leopold",
+  "quest": "Cryptstalker Girdle",
+  "en": "A girdle fit for royalty! It's ready for you, Adventurer.",
+  "files": [
+   "quests/9060-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "36ab4ce0cec6",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Leopold",
+  "quest": "Cryptstalker Handguards",
+  "en": "Let the rage of the crypt fiend guide your hand, Adventurer.",
+  "files": [
+   "quests/9059-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "a4f7e1d2c2b1",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Leopold",
+  "quest": "Cryptstalker Headpiece",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Cryptstalker Headpiece.",
+  "files": [
+   "quests/9056-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "db9712257fb3",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Leopold",
+  "quest": "Cryptstalker Legguards",
+  "en": "As you don more of this armor, you will notice that your persona is changing. You will gain a preternatural ability for killing. Perhaps, even, a lust for blood.\n\nLet it be said that I will not be held responsible for what chaos you may invoke...",
+  "files": [
+   "quests/9055-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "0ce554466b77",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Leopold",
+  "quest": "Cryptstalker Spaulders",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Cryptstalker Spaulders.",
+  "files": [
+   "quests/9057-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f6568da39ec3",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Leopold",
+  "quest": "Cryptstalker Tunic",
+  "en": "I have discovered a use for the carapace of the crypt fiend. I am able to fashion an extremely light and very deadly set of armor by combining the fragments with some of the desecrated magical armors lost in Naxxramas.\n\nBring me the items I require and I shall fashion for you a suit of armor the likes of which has never before been seen in our world!",
+  "files": [
+   "quests/9054-accept",
+   "quests/9055-accept",
+   "quests/9056-accept",
+   "quests/9057-accept",
+   "quests/9058-accept",
+   "quests/9059-accept",
+   "quests/9060-accept",
+   "quests/9061-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "15bab58e6cbb",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Leopold",
+  "quest": "Cryptstalker Tunic",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Cryptstalker Tunic.",
+  "files": [
+   "quests/9054-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "aa30e5446a5f",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Leopold",
+  "quest": "Cryptstalker Wristguards",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Cryptstalker Wristguards.",
+  "files": [
+   "quests/9061-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "d5dbc8229480",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Korfax, Champion of the Light",
+  "quest": "Dark Iron Scraps",
+  "en": "That's all you brought me? Maybe you didn't hear me the first time. I need MORE!",
+  "files": [
+   "quests/9132-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "974e614a4dce",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Anthion Harmon",
+  "quest": "Dead Man's Plea",
+  "en": "I'll provide you the information you ask for, Adventurer. But more pressing matters are at hand.\n\nMy beloved wife has been taken prisoner by Rivendare's undead scum.\n\nI strongly objected to her joining the Argent Dawn's foolish crusade, yet that's not of importance anymore. You must finish what I attempted to do, you must rescue Ysida from the clutches of the Baron!",
+  "files": [
+   "quests/8945-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "efa0520cad71",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Ysida Harmon",
+  "quest": "Dead Man's Plea",
+  "en": "Thank you for rescuing me... I feared for my life. Please accept this as a small token of my gratitude.\n\nAnthion is... no... he can't be...",
+  "files": [
+   "quests/8945-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "9aeee722f3e1",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Carlin Redpath",
+  "quest": "Defenders of Darrowshire",
+  "en": "Many of the defenders fell at the battle of Darrowshire. And many roam again as the ghastly servants of the Scourge! Find these poor souls and end their misery!\n\nHunt cannibal ghouls, gibbering ghouls and diseased flayers. Many of these fiends were once the good folk of Darrowshire and destroying their forms now will set their souls free.\n\nYou will find them in Plaguewood and Corin's Crossing, and in other Scourge strongholds of Eastern Plaguelands.",
+  "files": [
+   "quests/5211-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f51ff6ca21a6",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Carlin Redpath",
+  "quest": "Defenders of Darrowshire",
+  "en": "It is good to hear you found the tortured souls of my brethren and freed them. My heart will weep less, knowing at least some of the defenders of Darrowshire no longer wallow in the vile subservience of the Scourge.",
+  "files": [
+   "quests/5211-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "41d2171af5af",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tirion Fordring",
+  "quest": "Demon Dogs",
+  "en": "If you are going to remain here, I ask only that you earn your keep. We have many nuisances that could use some 'discipline.'\n\nYou can start with the Plaguehounds and their runts.\n\nI cannot offer much in return, but you are guaranteed a warm meal and some conversation should you succeed.",
+  "files": [
+   "quests/5542-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "832929732197",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tirion Fordring",
+  "quest": "Demon Dogs",
+  "en": "Well done, Adventurer. Come. Rest. Let us eat and talk of days long past!",
+  "files": [
+   "quests/5542-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "fcd929c6e5b3",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Korfax, Champion of the Light",
+  "quest": "Dreadnaught Bracers",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Dreadnaught Bracers.",
+  "files": [
+   "quests/9042-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "b70a27e39e78",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Korfax, Champion of the Light",
+  "quest": "Dreadnaught Breastplate",
+  "en": "During your battles with the Scourge in Naxxramas, should you come across desecrated battlements and wartorn plate scraps, return them to me and I shall craft for you a piece of armor worn by heroes.",
+  "files": [
+   "quests/9034-accept",
+   "quests/9036-accept",
+   "quests/9037-accept",
+   "quests/9038-accept",
+   "quests/9039-accept",
+   "quests/9040-accept",
+   "quests/9041-accept",
+   "quests/9042-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "8996135f3d9f",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Korfax, Champion of the Light",
+  "quest": "Dreadnaught Breastplate",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Dreadnaught Breastplate.",
+  "files": [
+   "quests/9034-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "47c8bcf9ad86",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Korfax, Champion of the Light",
+  "quest": "Dreadnaught Gauntlets",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Dreadnaught Gauntlets.",
+  "files": [
+   "quests/9040-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "639b8426505b",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Korfax, Champion of the Light",
+  "quest": "Dreadnaught Helmet",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Dreadnaught Helmet.",
+  "files": [
+   "quests/9037-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "801df7eb5483",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Korfax, Champion of the Light",
+  "quest": "Dreadnaught Legplates",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Dreadnaught Legplates.",
+  "files": [
+   "quests/9036-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "d7e27ae4a95f",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Korfax, Champion of the Light",
+  "quest": "Dreadnaught Pauldrons",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Dreadnaught Pauldrons.",
+  "files": [
+   "quests/9038-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "af8ce29d5713",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Korfax, Champion of the Light",
+  "quest": "Dreadnaught Sabatons",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Dreadnaught Sabatons.",
+  "files": [
+   "quests/9039-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "a8163ea75aef",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Korfax, Champion of the Light",
+  "quest": "Dreadnaught Waistguard",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Dreadnaught Waistguard.",
+  "files": [
+   "quests/9041-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "e4f8da97e20d",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Rayne",
+  "quest": "Dreamwalker Boots",
+  "en": "Your Dreamwalker Boots are ready, Adventurer.",
+  "files": [
+   "quests/9090-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "514dc688b1c8",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Rayne",
+  "quest": "Dreamwalker Girdle",
+  "en": "Your Dreamwalker Girdle is ready, Adventurer.",
+  "files": [
+   "quests/9092-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "79a491f0c18c",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Rayne",
+  "quest": "Dreamwalker Handguards",
+  "en": "Your Dreamwalker Handguards are ready, Adventurer.",
+  "files": [
+   "quests/9091-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "14f6850e458e",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Rayne",
+  "quest": "Dreamwalker Headpiece",
+  "en": "Your Dreamwalker Headpiece is ready, Adventurer.",
+  "files": [
+   "quests/9088-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "289e31fade36",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Rayne",
+  "quest": "Dreamwalker Spaulders",
+  "en": "Your Dreamwalker Spaulders are ready, Adventurer.",
+  "files": [
+   "quests/9089-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "210f060363d4",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Rayne",
+  "quest": "Dreamwalker Tunic",
+  "en": "Many heroes fell in the last war and many continue to perish at the hands of the Scourge to this day. From the corpses of the fallen, the armor is stripped and taken back to Naxxramas to be used for unknown purposes.\n\nRecover the desecrated armor and wartorn armor scraps and supply to me the other material components I require and I will craft Dreamwalker armor.",
+  "files": [
+   "quests/9086-accept",
+   "quests/9087-accept",
+   "quests/9088-accept",
+   "quests/9089-accept",
+   "quests/9090-accept",
+   "quests/9091-accept",
+   "quests/9092-accept",
+   "quests/9093-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "9ae5a3169402",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Rayne",
+  "quest": "Dreamwalker Tunic",
+  "en": "Your Dreamwalker Tunic is ready, Adventurer.",
+  "files": [
+   "quests/9086-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "91a549e35551",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Rayne",
+  "quest": "Dreamwalker Wristguards",
+  "en": "Your Dreamwalker Wristguards are ready, Adventurer.",
+  "files": [
+   "quests/9093-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "4eca0102e64e",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Nathanos Blightcaller",
+  "quest": "Duskwing, Oh How I Hate Thee...",
+  "en": "Up until now, you have completed the missions I have assigned; even if not in the most timely manner.\n\nI suppose you think that you are ready for a challenge. Yes... Yes, imbecile, perhaps you are ready for a more involved set of missions.\n\nThe albino demon bat, Duskwing, roams the countryside just north of here. Track him down and destroy him. Return to me with a patch of his white fur and you shall be rewarded.",
+  "files": [
+   "quests/6135-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "174a76117cc3",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Nathanos Blightcaller",
+  "quest": "Duskwing, Oh How I Hate Thee...",
+  "en": "Excellent work, imbecile. I shall fashion this fur into something you can use.",
+  "files": [
+   "quests/6135-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "2e61ed6b2a05",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Rimblat Earthshatter",
+  "quest": "Earthshatter Boots",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Earthshatter Boots.",
+  "files": [
+   "quests/9072-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "721fa1d4b09b",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Rimblat Earthshatter",
+  "quest": "Earthshatter Girdle",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Earthshatter Girdle.",
+  "files": [
+   "quests/9074-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "2349b993f8aa",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Rimblat Earthshatter",
+  "quest": "Earthshatter Handguards",
+  "en": "These handguards channel the power of the elements!",
+  "files": [
+   "quests/9073-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "c1b61b64e044",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Rimblat Earthshatter",
+  "quest": "Earthshatter Headpiece",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Earthshatter Headpiece.",
+  "files": [
+   "quests/9070-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "901e28ee32d1",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Rimblat Earthshatter",
+  "quest": "Earthshatter Legguards",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Earthshatter Legguards.",
+  "files": [
+   "quests/9069-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "187a34fd0762",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Rimblat Earthshatter",
+  "quest": "Earthshatter Spaulders",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Earthshatter Spaulders.",
+  "files": [
+   "quests/9071-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "6226d71adbcb",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Rimblat Earthshatter",
+  "quest": "Earthshatter Tunic",
+  "en": "Would you honor me by returning the armor of those that fell in the defense of these lands?\n\nThe armor has been desecrated and is undoubtedly being used for evil; however, with wartorn armor scraps, the desecrated armor can be renewed and worn for battle once more.\n\nBring me the remnants of the fallen along with purification materials and Earthshatter shall be yours to don.\n\nSearch Naxxramas.",
+  "files": [
+   "quests/9068-accept",
+   "quests/9069-accept",
+   "quests/9070-accept",
+   "quests/9071-accept",
+   "quests/9072-accept",
+   "quests/9073-accept",
+   "quests/9074-accept",
+   "quests/9075-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "3f40ddcf7768",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Rimblat Earthshatter",
+  "quest": "Earthshatter Tunic",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Earthshatter Tunic.",
+  "files": [
+   "quests/9068-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "d30a9429f106",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Eligor Dawnbringer",
+  "quest": "Echoes of War",
+  "en": "Five years since the last war...\n\nTens of thousands of lives were lost and for what? The threat was never fully extinguished.\n\nAnd so the Lich King stirs once more... His yes-man, Kel'Thuzad, amassing for another attack upon our lands.\n\nWe will not allow it! Prove your dedication. Prove that you are willing to risk life and limb to stop this madness and the combined might of the Dawn and the Crusade will be at your beck and call.\n\nEnter Naxxramas and destroy the Scourge within...",
+  "files": [
+   "quests/9033-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "63d21582d003",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Eligor Dawnbringer",
+  "quest": "Echoes of War",
+  "en": "A job well done! You will be rewarded via the services of the men and women at Light's Hope.",
+  "files": [
+   "quests/9033-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "796d8a33952c",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Quartermaster Miranda Breechlock",
+  "quest": "Epic Armaments of Battle - Exalted Amongst the Dawn",
+  "en": "Greetings, friend. Have you insignias of the Dawn or the Crusade that you would like to redeem for items of great power?\n\nThose exalted amongst the Dawn receive our greatest discounts! I encourage you to make a purchase.",
+  "files": [
+   "quests/9228-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "4a28754e62c4",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Quartermaster Miranda Breechlock",
+  "quest": "Epic Armaments of Battle - Friend of the Dawn",
+  "en": "Greetings, friend. Have you insignias of the Dawn or the Crusade that you would like to redeem for items of great power?\n\nI must warn you; purchases made at a friendly reputation with the Dawn come with an extremely hefty surcharge. I would advise that you gain a better reputation with the Dawn before moving forward with your plans.",
+  "files": [
+   "quests/9222-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "14a4238744cb",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Quartermaster Miranda Breechlock",
+  "quest": "Epic Armaments of Battle - Honored Amongst the Dawn",
+  "en": "Greetings, friend. Have you insignias of the Dawn or the Crusade that you would like to redeem for items of great power?\n\nI must warn you; purchases made at honored reputation with the Dawn come with an extremely hefty surcharge. I would advise that you gain a better reputation with the Dawn before moving forward with your plans.",
+  "files": [
+   "quests/9224-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "b2d2728f3074",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Quartermaster Miranda Breechlock",
+  "quest": "Epic Armaments of Battle - Revered Amongst the Dawn",
+  "en": "Greetings, friend. Have you insignias of the Dawn or the Crusade that you would like to redeem for items of great power?\n\nI must warn you; epic purchases made at revered reputation with the Dawn are still quite expensive. I would advise that you gain a better reputation with the Dawn before moving forward with your plans.",
+  "files": [
+   "quests/9225-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "24ed1946eee7",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Emmisary Whitebeard",
+  "quest": "Establishing New Outposts",
+  "en": "Welcome to the Plaguelands, adventurer. As you know, the Forsaken and their allies hold the lands to the west of here against our best efforts. The Alliance commanders have decided that here in the east, we will establish new fortifications to tighten the noose around our enemies.\n\nTowers long abandoned since the days of Lordaeron are to be seized and rebuilt for this purpose. These lands are dangerous, and we could use your help.",
+  "files": [
+   "quests/9664-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "03bfec7f503f",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Emmisary Whitebeard",
+  "quest": "Establishing New Outposts",
+  "en": "Very good, adventurer. It will be important for us to hold these towers against future attacks, and for that we may need your assistance until reinforcements can be brought in to secure the area.",
+  "files": [
+   "quests/9664-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "7c30a4ce1037",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": "Frostfire Belt",
+  "en": "Exellent Adventurer !\n ,you got everything just as i asked and now i can make a Frostfire Belt.",
+  "files": [
+   "quests/9101-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "8e5f03f3d20d",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": "Frostfire Bindings",
+  "en": "Exellent Adventurer !,\nyou got everything just as i asked and now i can make a Frostfire Bindings.",
+  "files": [
+   "quests/9102-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "b4932f74df7f",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": "Frostfire Circlet",
+  "en": "Exellent Adventurer !,\nyou got everything just as i asked and now i can make a Frostfire Circlet.",
+  "files": [
+   "quests/9097-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "95a9963014b7",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": "Frostfire Gloves",
+  "en": "Exellent Adventurer !,\nyou got everything just as i asked and now i can make a Frostfire Gloves.",
+  "files": [
+   "quests/9100-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "a1720786aa3c",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": "Frostfire Leggings",
+  "en": "Exellent Adventurer !,\nyou got everything just as i asked and now i can make a Frostfire Leggings.",
+  "files": [
+   "quests/9096-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "da55566c19b4",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": "Frostfire Robe",
+  "en": "As a Watcher, I was allowed access to many of Medivh's personal effects. Among those items, I found the tomes most enlightening. While the majority of the books were filled with - to put it bluntly - tripe, there were some gems. One of those tomes documented the creation of a set of armor fit for an archmage: Frostfire.\n\n\nIt's all in here and I am willing to share the fruits of that knowledge with you as long as you are able to provide me with the necessary materials.",
+  "files": [
+   "quests/9095-accept",
+   "quests/9096-accept",
+   "quests/9097-accept",
+   "quests/9098-accept",
+   "quests/9099-accept",
+   "quests/9100-accept",
+   "quests/9101-accept",
+   "quests/9102-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "d4910381dceb",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": "Frostfire Robe",
+  "en": "Exellent Adventurer !,\nyou got everything just as i asked and now i can make a Frostfire Robe.",
+  "files": [
+   "quests/9095-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "6a5d1a35b3dd",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": "Frostfire Sandals",
+  "en": "Exellent Adventurer !,\nyou got everything just as i asked and now i can make a Frostfire Sandals.",
+  "files": [
+   "quests/9099-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "d1d53ff6badd",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": "Frostfire Shoulderpads",
+  "en": "Exellent Adventurer !,\nyou got everything just as i asked and now i can make a Frostfire Shoulderpads.",
+  "files": [
+   "quests/9098-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "73f2676bf811",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Craftsman Wilhelm",
+  "quest": "Glacial Cloak",
+  "en": "Thanks to you and Omarion, may he rest in peace, I am now able to create a Glacial cloak. All you need to do is bring me the materials and pay a small crafting fee.",
+  "files": [
+   "quests/9237-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "ea21d4d76282",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Craftsman Wilhelm",
+  "quest": "Glacial Gloves",
+  "en": "Thanks to you and Omarion, may he rest in peace, I am now able to create Glacial gloves. All you need to do is bring me the materials and pay a small crafting fee.",
+  "files": [
+   "quests/9239-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "925e688bd337",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Craftsman Wilhelm",
+  "quest": "Glacial Vest",
+  "en": "Thanks to you and Omarion, may he rest in peace, I am now able to create a Glacial vest. All you need to do is bring me the materials and pay a small crafting fee.",
+  "files": [
+   "quests/9240-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "5e979731f94d",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Craftsman Wilhelm",
+  "quest": "Glacial Wrists",
+  "en": "Thanks to you and Omarion, may he rest in peace, I am now able to create Glacial wrists. All you need to do is bring me the materials and pay a small crafting fee.",
+  "files": [
+   "quests/9238-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "9faf39e0480a",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Craftsman Wilhelm",
+  "quest": "Glacial Wrists",
+  "en": "Now that's one face I was not expecting to see so soon.\n\nThis is quite the good news. Adventurer, in more ways than you can imagine.",
+  "files": [
+   "quests/9238-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "259049f41e37",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Mound of Dirt",
+  "quest": "Hameya's Plea",
+  "en": "Hameya's chest is opened!!",
+  "files": [
+   "quests/6024-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f20aaaf5872d",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Torn Scroll",
+  "quest": "Hameya's Plea",
+  "en": "Kill me. Before it's too late.\n\nI am Hameya. While traveling to Zul'Mashar, my brethren and I ate some bad meat... and we changed. We are infected.\n\nI can feel the lich's words now, urging me to reach Zul'Mashar and infect more of my people. I cannot resist, and so I wrote this scroll before my will left me.\n\nI buried a chest in dirt next to a wagon behind this crypt, but only my key will open it. I have the key. If you want my treasure, then find me.\n\nKill me. Before it's too late.",
+  "files": [
+   "quests/6024-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "a8db60fda002",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Carlin Redpath",
+  "quest": "Heroes of Darrowshire",
+  "en": "The heroes of Darrowshire hold a place in my heart, and the book you brought me, the Annals of Darrowshire, tells their tales.\n\nIt tells of the paladin Davil Lightfire and how the Crusade took his libram to the town hall of Hearthglen.\n\nIts passages also speak of my brother, Captain Redpath. After his betrayal, his shield was cracked and discarded and now lies in the most unlikely of places -- near the barn of Gahrron's Withering.\n\nGather these relics, Adventurer. For fate and tragedy surrounds them.",
+  "files": [
+   "quests/5168-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "a783b8d410b5",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Carlin Redpath",
+  "quest": "Heroes of Darrowshire",
+  "en": "You have the libram and the shield!\n\nTheir history is entwined with the history of Darrowshire, and somehow, I know that fate will bring them together again.",
+  "files": [
+   "quests/5168-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "7fe7030c7187",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Joseph's Chest",
+  "quest": "Hidden Treasures",
+  "en": "The key fits the lock, and the chest opens...",
+  "files": [
+   "quests/5942-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "c5690eefd818",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Leonid Barthalomew the Revered",
+  "quest": "Houses of the Holy",
+  "en": "I look at my undeath as a malady, traveler. An illness that merely requires treatment; however, it is also a great blessing for the Argent Dawn. What better vessel to smite the heathens of the Scourge than through the undead?\n\nI am revered by my colleagues because of the sacrifices I have made, but the accolades mean nothing to me.\n\nIf you are interested in assisting the Argent Dawn, then a job I can offer.\n\nVenture to Stratholme and recover our surplus of holy water. Search the supply crates.",
+  "files": [
+   "quests/5243-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "9d77c748e554",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Leonid Barthalomew the Revered",
+  "quest": "Houses of the Holy",
+  "en": "Well done, traveler. You have proven that while you are tolerant of others, you will stop at nothing to destroy the minions of Kel'Thuzad.",
+  "files": [
+   "quests/5243-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "e5277d08a1ee",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Craftsman Wilhelm",
+  "quest": "Icebane Bracers",
+  "en": "Thanks to you and Omarion (May he rest in peace), I am now able to create Icebane bracers. All you need to do is bring me the materials and pay a small crafting fee.",
+  "files": [
+   "quests/9235-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "47b9c25c4e33",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Craftsman Wilhelm",
+  "quest": "Icebane Breastplate",
+  "en": "Thanks to you and Omarion (May he rest in peace), I am now able to create an Icebane breastplate. All you need to do is bring me the materials and pay a small crafting fee.",
+  "files": [
+   "quests/9236-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "233295a0eda9",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Craftsman Wilhelm",
+  "quest": "Icebane Gauntlets",
+  "en": "Thanks to you and Omarion, may he rest in peace, I am now able to create Icebane gauntlets. All you need to do is bring me the materials and pay a small crafting fee.",
+  "files": [
+   "quests/9234-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "6072b3b7d920",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Craftsman Wilhelm",
+  "quest": "Icebane Gauntlets",
+  "en": "Here is your order, Adventurer. Delivered as promised!",
+  "files": [
+   "quests/9234-complete",
+   "quests/9235-complete",
+   "quests/9236-complete",
+   "quests/9237-complete",
+   "quests/9239-complete",
+   "quests/9240-complete",
+   "quests/9241-complete",
+   "quests/9242-complete",
+   "quests/9243-complete",
+   "quests/9244-complete",
+   "quests/9245-complete",
+   "quests/9246-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "6666480817aa",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Craftsman Wilhelm",
+  "quest": "Icy Scale Bracers",
+  "en": "Thanks to you and Omarion, may he rest in peace, I am now able to create Icy Scale bracers. All you need to do is bring me the materials and pay a small crafting fee.",
+  "files": [
+   "quests/9244-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "fff4410a7539",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Craftsman Wilhelm",
+  "quest": "Icy Scale Breastplate",
+  "en": "Thanks to you and Omarion (May he rest in peace), I am now able to create an Icy Scale breastplate. All you need to do is bring me the materials and pay a small crafting fee.",
+  "files": [
+   "quests/9246-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "88b5c9ebad11",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Craftsman Wilhelm",
+  "quest": "Icy Scale Gauntlets",
+  "en": "Thanks to you and Omarion (May he rest in peace), I am now able to create Icy Scale gauntlets. All you need to do is bring me the materials and pay a small crafting fee.",
+  "files": [
+   "quests/9245-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "e7eb1f46fd90",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Anthion Harmon",
+  "quest": "In Search of Anthion",
+  "en": "Deliana had you contact me? I'll do my best to help you, but first I must ask a great favor of you.",
+  "files": [
+   "quests/8929-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "c4695c119786",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Anthion Harmon",
+  "quest": "In Search of Anthion",
+  "en": "Mokvar had you contact me? I'll do my best to help you, but first I must ask a great favor of you.",
+  "files": [
+   "quests/8930-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "330e0120ee6d",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Deliana",
+  "quest": "In Search of Anthion",
+  "en": "Well, nothing left for us to do but try out the goblin's invention. Word has it that Anthion was mowed down by the undead legions of Stratholme as he tried to enter its gates.\n\nTry using the device there and find out whatever Anthion knew.",
+  "files": [
+   "quests/8929-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "674c15515da8",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mokvar",
+  "quest": "In Search of Anthion",
+  "en": "Very well, Adventurer. All that remains is to put the goblin's invention to the test. Word has it that Anthion was slain by the undead legions of Stratholme as he tried to enter its gates.\n\nTry using the device there and see if, indeed, you can speak with the dead!",
+  "files": [
+   "quests/8930-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "cfa933e46edd",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Duke Nicholas Zverenhoff",
+  "quest": "Invader's Scourgestones",
+  "en": "Congratulations, Adventurer - I am pleased to award you with an Argent Dawn valor token!\n\nEach valor token handed out to worthy recipients is a sign of the tide turning against the Scourge. With more and more heroes fighting the Scourge in their own lands, the Argent Dawn will assuredly be at the forefront when the time comes to wage war on the ultimate evil of the Scourge. I hope that the valor you've shown what it took to acquiring your token will carry the day then as well!",
+  "files": [
+   "quests/5509-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "6b71e342fd08",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Father Inigo Montoy",
+  "quest": "Leggings of Faith",
+  "en": "Exellent Adventurer !\n, you got everything just as i asked and now i can make a Leggings of Faith.",
+  "files": [
+   "quests/9112-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "ddf2cdd156f0",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Marlene Redpath",
+  "quest": "Little Pamela",
+  "en": "So many of us died at the battle of Darrowshire. So many died... and worse.\n\nWhen the battle began I hid my niece Pamela, and I do not know what happened to her. I am but a wandering spirit, but my heart still longs to know Pamela's fate.\n\nPlease, good adventurer. Will you go to Darrowshire and search for her? It is to the east, beyond Gahrron's Withering.",
+  "files": [
+   "quests/5142-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "6ea5e44b3249",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Duke Nicholas Zverenhoff",
+  "quest": "Lord Maxwell Tyrosus",
+  "en": "I am about to bestow a great honor upon you, Adventurer.\n\nLord Maxwell wishes to reward you for your service to the Argent Dawn!\n\nIt has been years since Maxwell has granted audience to outsiders.",
+  "files": [
+   "quests/5264-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "4ccc72731289",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lord Maxwell Tyrosus",
+  "quest": "Lord Maxwell Tyrosus",
+  "en": "You are a worthy ally, Adventurer. You shall reap the rewards of your stalwart dedication.",
+  "files": [
+   "quests/5264-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "57450496bc08",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Quartermaster Miranda Breechlock",
+  "quest": "Mantles of the Dawn",
+  "en": "Your service to the Argent Dawn is to be commended, Adventurer. You are truly revered amongst us. I have been authorized to make available for you to purchase one of the Dawn's most valued items - our magic resistance mantles.\n\nApplication of a mantle to your existing shoulder piece will enhance your resistance to the powers of magic in one of five potential ways. As a sign of continued dedication to our cause, I ask for no less than ten of our valor tokens in exchange for access to these mantles.",
+  "files": [
+   "quests/5513-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "791097e59696",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Quartermaster Miranda Breechlock",
+  "quest": "Mantles of the Dawn",
+  "en": "Outstanding - your tribute to the Dawn is duly noted, Adventurer. With this accomplished, I am delighted to make our mantles available to you for purchase. So long as you maintain your current status with us, these mantles will be purchasable from any authorized quartermaster of the Argent Dawn.\n\nFor the Dawn, my brother!",
+  "files": [
+   "quests/5513-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "bc903b128309",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Carlin Redpath",
+  "quest": "Marauders of Darrowshire",
+  "en": "Chromie said the relics you gathered are reagents to a powerful spell, and one more is required: skulls from the scourge who took part in the battle of Darrowshire.\n\nTake this crystal and hunt scourge champions for their skulls. The crystal is enchanted; if a champion took part in the battle, then when you pass the crystal over its skull it will resonate. Bring me those resonating skulls.\n\nGo, Adventurer. You'll find scourge champions in the Noxious Glade to the north and the Fungal Vale to the west.",
+  "files": [
+   "quests/5206-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "d2b17e5f9ea6",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Carlin Redpath",
+  "quest": "Marauders of Darrowshire",
+  "en": "You found them! Wonderful!\n\nAlthough I don't fully understand how they can help us, I feel their power and I know in my bones that they are linked to my home village of Darrowshire.",
+  "files": [
+   "quests/5206-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "976e6f76a5d8",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Leonid Barthalomew the Revered",
+  "quest": "Menethil's Gift",
+  "en": "I watched as the human, Ras Frostwhisper, pledged his undying soul to the Lich King. He drew the dagger to his own throat and with a smile, cut from ear to ear. His body collapsed inside the borders of the pentagram. The Lich King stood over the fallen mage and with a single motion, Ras Frostwhisper the lich, was born.\n\n\nYes, traveler, I remember. What you seek has a name - Menethil's Gift: The ground blessed by the Lich King - holy ground to Scourge.",
+  "files": [
+   "quests/5463-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "603f1c6f30d3",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Leonid Barthalomew the Revered",
+  "quest": "Menethil's Gift",
+  "en": "As the soul clung to the keepsake, so shall it cling to the physical form of Ras Frostwhisper.",
+  "files": [
+   "quests/5464-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "96a20cce120e",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Menethil's Gift",
+  "quest": "Menethil's Gift",
+  "en": "You place the keepsake on the tainted soil.",
+  "files": [
+   "quests/5463-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "75b8c101c493",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Menethil's Gift",
+  "quest": "Menethil's Gift",
+  "en": "The soul of the fallen clings to that which represents its former life and transforms the item into a soulbound keepsake. You pick the item up and place it in your pack.",
+  "files": [
+   "quests/5464-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "a443dde29931",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Duke Nicholas Zverenhoff",
+  "quest": "Minion's Scourgestones",
+  "en": "Congratulations, Adventurer - I am pleased to award you with an Argent Dawn valor token!\n\nThe tokens serve two purposes. One - they can be used to further your standing within the Argent Dawn; to do so may avail you options and rewards that are reserved for our honored and revered allies. Two - they can be given to our quartermasters, along with coin, as payment for some of the Dawn's more prized items.\n\nWhatever you decide, know that you are earning your commission. Well done!",
+  "files": [
+   "quests/5510-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "c3c022145823",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Crusader Lord Valdelmar",
+  "quest": "Nathanos' Ruse",
+  "en": "Where have you been? We had thought the Scourge had captured you.",
+  "files": [
+   "quests/6146-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "aa874f0a4dc6",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Nathanos Blightcaller",
+  "quest": "Nathanos' Ruse",
+  "en": "I have made some adjustments to this command. Should our little ruse work, they will expose the Scarlet Oracle and we shall strike!\n\nNow pay attention, adventurer. You are to deliver this command to the Crusader Lord, Valdelmar.\n\nHow? You are going to hand it to him, imbecile.\n\nTake the command and this rotten apple to Tyr's Hand. When you cross into the city, eat the apple. You will transform into something more... palatable to the humans. Take the command and hand it to the Crusader Lord, Valdelmar.",
+  "files": [
+   "quests/6146-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "5c949d0a5929",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tirion Fordring",
+  "quest": "Of Forgotten Memories",
+  "en": "To help Taelan regain what he has lost, you must gather items from his past.\n\nThe first such item is a toy that I gave to him on his 7th birthday. It was his most cherished possession: A miniature war hammer; an exact replica of my very own.\n\nAfter I was banished for treason, his mother told him that I had died. He was taken to my false grave at the Undercroft, where he buried the hammer along with my memory - forever.\n\nYou must venture to the Undercroft and recover Taelan's hammer.",
+  "files": [
+   "quests/5781-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "39c0d94cdb8e",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tirion Fordring",
+  "quest": "Of Forgotten Memories",
+  "en": "It was destiny that we meet, Adventurer. You have blessed me with your kindness.",
+  "files": [
+   "quests/5781-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "c5b96a18fd19",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tirion Fordring",
+  "quest": "Of Lost Honor",
+  "en": "The Order of the Silver Hand was utterly decimated when Uther was slain.\n\nThe boy held out for as long as he could. Pushed to the war torn hamlet of Northdale, he made his final stand.\n\nWere any of the Order left alive, he thought - and did it matter?\n\nIt was with that thought that Taelan threw down the standard of the Order and renounced all that he had known. His honor left upon the blood soaked ground of Northdale.\n\nYou must travel to Northdale and recover that symbol of lost honor.",
+  "files": [
+   "quests/5845-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "776a19f60a4d",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tirion Fordring",
+  "quest": "Of Lost Honor",
+  "en": "It is as glorious now - even in its tattered state - as the day I looked upon it and took my oath of allegiance.\n\nHis redemption comes and perhaps mine with it...",
+  "files": [
+   "quests/5845-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "5f895da95d03",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Artist Renfray",
+  "quest": "Of Love and Family",
+  "en": "How could I forget? Many of the spirits on this island are cursed to relive their last happy memory before they met their tragic end.\n\nI too am cursed, but not as they - I am one of the few that remembers all...\n\nPerhaps this thing that you ask me is why I haunt these ruins. Perhaps this thing I tell you shall set me free.",
+  "files": [
+   "quests/5846-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "bf82395d4d54",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Artist Renfray",
+  "quest": "Of Love and Family",
+  "en": "The painting... It hung on the wall of my workshop - inside the Order's barracks - for years.\n\nAfter Tirion's trial was over, I knew that I could no longer keep the painting visible. I hid it in a place that they would never think to look.\n\nTravel to Stratholme and make your way deep inside what is now the Scarlet Bastion, search for a painting of our twin moons. Chip away at the paint until you uncover my master work, 'Of Love and Family.'\n\nMay the Light guide your actions.",
+  "files": [
+   "quests/5848-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "9349f8d0c6fc",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tirion Fordring",
+  "quest": "Of Love and Family",
+  "en": "When Taelan was a child, we would oft visit Caer Darrow on family excursions. On our last visit, an artist by the name of Renfray painted a portrait of us poised along the beachside. It is my fondest memory of both Taelan and Karandra. For it was at that moment, with my wife and son in my arms, that I felt a bond of love and family that I would never know again.\n\nIf this painting still exists, you must find it.\n\nTravel to the ruined island of Caer Darrow and see if the painting or the artist remain.",
+  "files": [
+   "quests/5846-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "c3b12d5fb221",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Craftsman Wilhelm",
+  "quest": "Omarion's Handbook",
+  "en": "He musta really been off his rocker when he wrote this! Omarion and I - we were thick as thieves!\n\nAnyhow, this certainly opens up some new possibilities, Adventurer. I am now able to craft more items - for a small fee and material charges, of course.",
+  "files": [
+   "quests/9233-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "c23e77aed627",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Omarion's Handbook",
+  "quest": "Omarion's Handbook",
+  "en": "Wilhelm,\n\nIf you are reading this, I have perished - finally. I want you to know that my dying thoughts revolved around you and your ineptitude when it comes to tradeskills. Unfortunately, the bearer of this handbook is in even worse shape than you in regards to crafting.\n\nAbout the book: These are the rest of my recipes. Make the bearer of this book whatever they request. I'm sure you will charge a hefty fee for your services because you are, after all, a bastard.\n\nIn Disdain,\n\nOmarion",
+  "files": [
+   "quests/9233-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "13d71071f54f",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Bolvar Fordragon",
+  "quest": "Order Must Be Restored",
+  "en": "Do you know how many ranger lords exist in this world? How many human ranger lords have ever existed?\n\nNathanos' accomplishments were unprecedented. He was a tactical genius, responsible for Alliance victories spanning a decade of conflict.\n\nAnd now... the champion of the Forsaken.\n\nNo. This cannot be. Order must be restored.\n\nGather an army, Adventurer. Return to the Plagues with your army and destroy the Blightcaller.\n\nI wish you luck, Adventurer. Truly, you will need it for this battle.",
+  "files": [
+   "quests/6187-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f053aa237c46",
+  "zone": "eastern-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Bolvar Fordragon",
+  "quest": "Order Must Be Restored",
+  "en": "It is a tragedy. I think... I believe that our kind is cursed, Adventurer. We are cursed to lose our greatest warriors; our most noble heroes; our most gifted scholars.\n\nWe are indebted to you and I assure you, Adventurer, wherever Nathanos Marris is now, he smiles down upon you.",
+  "files": [
+   "quests/6187-complete"
+  ],
+  "uiMap": 1423
+ }
+]

@@ -1,0 +1,268 @@
+[
+ {
+  "id": "4f517ddadc04",
+  "zone": "dustwallow-marsh-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "\"Swamp Eye\" Jarl",
+  "quest": null,
+  "en": "Some people think the swamp's no good... no good, they say.",
+  "files": [
+   "gossip/b9160b5bacf563e5d21cce7fb1b935c7"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "39e1b439961d",
+  "zone": "dustwallow-marsh-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Narett",
+  "quest": null,
+  "en": "There's nothing more I can teach you. I've heard of a night elf who might be able to, though. Her name is Ainethil, and she lives in the Craftsmen's Terrace of Darnassus.",
+  "files": [
+   "gossip/18b7641805b9860312823c6781f21372"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "61ca9d889d94",
+  "zone": "dustwallow-marsh-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Narett",
+  "quest": null,
+  "en": "You want my help? You got it. What do you need?",
+  "files": [
+   "gossip/953a2f6b83ade3437b2b31391f79f95b"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "90314e75ebb3",
+  "zone": "dustwallow-marsh-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Narett",
+  "quest": null,
+  "en": "I'm sorry, adventurer, but I have no time to spend on novices. You want someone closer to your own skill level. Try the night elf Milla Fairancora, in the Craftsmen's Terrace of Darnassus.",
+  "files": [
+   "gossip/b27d8d76ceedb566e8ec960533bf3a52"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "c296b8e27fcf",
+  "zone": "dustwallow-marsh-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Narett",
+  "quest": null,
+  "en": "Stop giving me that look. I may not be an adventurer like you, but that doesn't mean I can't have a few muscles. All that stirring makes your arms strong.",
+  "files": [
+   "gossip/b8c5e8911ab1e330ffe50027b082bf9a"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "b7099e54e79a",
+  "zone": "dustwallow-marsh-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Archmage Tervosh",
+  "quest": null,
+  "en": "Well met, adventurer. We must be brief because there is much to do.",
+  "files": [
+   "gossip/96a3daa8a4f7ab7babfc5a1c8d9f5ca1"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "40f2ad9cae30",
+  "zone": "dustwallow-marsh-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captain Evencane",
+  "quest": null,
+  "en": "While Theramore is reknown for it's exceptional training of warriors, I am afraid that I can not help you.",
+  "files": [
+   "gossip/04ac79bf79b4a0fe7bbe614f88b668d0"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "8256b7c9ce23",
+  "zone": "dustwallow-marsh-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captain Evencane",
+  "quest": null,
+  "en": "Come to train with the Theramore guard have you?",
+  "files": [
+   "gossip/0507fea60d7059874621212e7d11d203"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "cc1cf2a6c43e",
+  "zone": "dustwallow-marsh-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captain Garran Vimes",
+  "quest": null,
+  "en": "The guards of Theramore are the finest group of Alliance soldiers based in Kalimdor. It is our duty to uphold the laws of the Alliance even so far away from our homes.",
+  "files": [
+   "gossip/a3944720bf739eea8f6e8620dda9802f"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "5405e6a1a109",
+  "zone": "dustwallow-marsh-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captain Garran Vimes",
+  "quest": null,
+  "en": "We don't know much about the burning of the Shady Rest Inn, except that James Hyal's wife and child were unable to escape.\n\nWe managed to drag James out, but he hasn't been the same since.\n\nWe have many leads but not much evidence. It is our hope that through the efforts of the guard and the vigilant help of the people of Theramore, we will unravel this terrible crime.\n\nIf you would like to lend assistance to the investigation, what remains of the inn can be found at the border to the Barrens.",
+  "files": [
+   "gossip/c00f3b3d2d31c0618519d6001d85e5e8"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "c908e9201b24",
+  "zone": "dustwallow-marsh-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Doctor Gustaf VanHowzen",
+  "quest": null,
+  "en": "Greetings, adventurer. I am Doctor Gustaf VanHowzen, head trauma surgeon of Alliance Trauma.",
+  "files": [
+   "gossip/0ba18a644f30676df3277200c1ada92e"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "13affdc4a30b",
+  "zone": "dustwallow-marsh-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Doctor Gustaf VanHowzen",
+  "quest": null,
+  "en": "You have learned all that I am able to teach you at this time, Doctor adventurer. Return to me when your practice has expanded and I shall train you in the ways of the more advanced medicinal arts.",
+  "files": [
+   "gossip/b4c40d18e1bc694e2ebd862b96fbe637"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "f882d1731c1f",
+  "zone": "dustwallow-marsh-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Doctor Gustaf VanHowzen",
+  "quest": null,
+  "en": "It is good to see you again, Doctor adventurer. I have been following your progress and I dare say that it is time you learned some of the more advanced bandaging techniques.\n\nReturn to me from time to time, as your skill advances, and I shall teach you all that I know.",
+  "files": [
+   "gossip/f4e3a2c79c79518799f91abcc4d1c545"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "2492964b510b",
+  "zone": "dustwallow-marsh-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Fiora Longears",
+  "quest": null,
+  "en": "No, Longears isn't my real name. And I'm not going to tell you what it is, so don't ask.",
+  "files": [
+   "gossip/e461668e8025a4a3b9eadc29aecfc47b"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "43fd71f8904d",
+  "zone": "dustwallow-marsh-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Lady Jaina Proudmoore",
+  "quest": null,
+  "en": "I welcome you to Theramore, adventurer.\n\nI apologize for being abrupt and not having a lot of time to exchange pleasantries, but my city must come first. Too many things threaten our way of life and the sanctity of the Alliance. I must stay ever vigilant against forces outside of our control if I'm to ensure my people remain safe and happy.\n\nPerhaps we'll have more time to speak later.",
+  "files": [
+   "gossip/6a4b81d7d70a940c7734d52c5bd021ed"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "f32fd1258b71",
+  "zone": "dustwallow-marsh-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Lady Jaina Proudmoore",
+  "quest": null,
+  "en": "Hendel is in our custody now, adventurer, thanks to you.\n\nAlthough the questioning goes slowly, I assure you, he will tell us everything he knows.\n\nFor now, please be patient. I will contact you immediately if we have need of your assistance.\n\nUntil then, please, enjoy Theramore and I invite you to stay for as long as you like within our city's walls as a friend of the Alliance.",
+  "files": [
+   "gossip/a078043dde2955ab1a66ca8a6e5495e0"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "9e6568feb944",
+  "zone": "dustwallow-marsh-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Morgan Stern",
+  "quest": null,
+  "en": "Researching in Theramore is an interesting job, but it's sure hard to find a soft bed in this town!",
+  "files": [
+   "gossip/5947e5799cbea5168942db6a610a8bf1"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "c0394dd39f32",
+  "zone": "dustwallow-marsh-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Smiling Jim",
+  "quest": null,
+  "en": "He'll bring you mead\nHe'll bring you beer\nA grinning face from ear to ear\nHe's served us all from year to year\nWe call him Smiling Jim.",
+  "files": [
+   "gossip/6f8224b4f320e401defad08ad3ce0181"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "eddbbbb11d17",
+  "zone": "dustwallow-marsh-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Timothy Worthington",
+  "quest": null,
+  "en": "I have outfitted kings. With the proper training, you can too.",
+  "files": [
+   "gossip/e8371e1cc30433d550a506007485f833"
+  ],
+  "uiMap": 1445
+ }
+]

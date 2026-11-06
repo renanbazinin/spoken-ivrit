@@ -1,0 +1,1291 @@
+[
+ {
+  "id": "fb68fbdc5642",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Gilveradin Sunchaser",
+  "quest": "A Sticky Situation",
+  "en": "I possess original packaging materials for the ripple Dran Droffers seeks. I will assist you in packaging the ripple for Malton's abrasive father... for a fee of two additional bottles of said ripple. They are located in crates found in the abandoned Horde base near Skulk Rock.\n\nIt will be an arduous task, to wit; foul slimes and oozes will be found sticking to the ruins; rumor has it they are led by some sort of master ooze. Regardless, procure the ripple and return to me here for packaging.",
+  "files": [
+   "quests/77-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "f375f02fe78f",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Gilveradin Sunchaser",
+  "quest": "A Sticky Situation",
+  "en": "Finely executed, adventurer. I am glad you had enough foresight not to bruise the delicacy of the ripple. There is nothing worse than the bouquet of ripple that has been jostled about needlessly.\n\nIt will take a moment for the magic to be wrought over this precious cargo. Actually, no magic is involved; I merely have some empty packaging for Hinterlands Honey Ripple. Our chicanery shall turn these bottles into an alcoholic treasure of the ages.\n\nOnward - for great booze!",
+  "files": [
+   "quests/77-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "d8679bdcfbc5",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Otho Moji'ko",
+  "quest": "Another Message to the Wildhammer",
+  "en": "They say the Wildhammer and gryphon are as close to each other as troll and mate. Disgusting, but we be able to use this to our advantage, mon. We send them another message.\n\nKill all the gryphons you see in the Hinterlands, collect their feathers. From this we make the final message.",
+  "files": [
+   "quests/7842-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "8e2e167c8b8c",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Otho Moji'ko",
+  "quest": "Another Message to the Wildhammer",
+  "en": "Oh, mon, this gonna be good. One more step to go and Wildhammer see that they can't mess with troll!",
+  "files": [
+   "quests/7842-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "f61fa0984617",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Markhor",
+  "quest": "Avenging the Fallen",
+  "en": "The filth that calls itself Wildhammer trains gryphon to slay troll. Horrible, I know, but worry not, justice will soon be meted out.\n\nFor now, I want you to focus on eradicating the elder gryphons of the region. They are known as Skylords.\n\nSlay one and return to me with its plume.",
+  "files": [
+   "quests/7830-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "0c0c86de7ae4",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Markhor",
+  "quest": "Avenging the Fallen",
+  "en": "I wonder how many of our hunters this beast devoured before you brought it to justice.",
+  "files": [
+   "quests/7830-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "71e46a5b588b",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Mystic Yayo'jin",
+  "quest": "Cannibalistic Cousins",
+  "en": "Three different tribes of trolls inhabit the Hinterlands, Adventurer. That is about as far as the similarities between the tribes extends: We are all trolls and we live in the Hinterlands.\n\nThe Vilebranch - aptly named - are a depraved lot; feeding on other trolls and humanoids.\n\nIf Zul'jin were here, he would have destroyed the whole lot of them with a flick of his wrist - alas, Zul'jin has not yet returned and we are left to our own devices.\n\nIt is up to you to destroy the filth of the region!",
+  "files": [
+   "quests/7844-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "82d883f85709",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Mystic Yayo'jin",
+  "quest": "Cannibalistic Cousins",
+  "en": "Well done, adventurer. Zul'jin himself could not have done a better job!",
+  "files": [
+   "quests/7844-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "d51d4a926e8e",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Lydon",
+  "quest": "Consult Master Gadrin",
+  "en": "The venom from the broodguards wasn't as potent as the venom you brought originally. It must have come from a different spider.\n\nI want a fresh sample of that venom. To find out where it came from, you must consult with a troll who knows the Witherbark well--Master Gadrin in Sen'jin Village. Travel to Durotar and speak with Gadrin. With luck, he'll know where the Witherbarks get their venom.",
+  "files": [
+   "quests/2935-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "764d91226011",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Master Gadrin",
+  "quest": "Consult Master Gadrin",
+  "en": "Ah, so you want fresh venom from the spider of the witherbarks, yes? Well, sit down... you're not going to like what I have to tell you.",
+  "files": [
+   "quests/2935-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "09f431469c3f",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Primal Torntusk",
+  "quest": "Dark Vessels",
+  "en": "The Vilebranch fight with supernatural ferocity. This is due to the foul magical weavings of the Vile Priestess Hexx.\n\nThroughout Jintha'alor you will find dark vessels of tainted blood. The vessels radiate the foul magic of the faceless blood God, empowering the Vilebranch and also driving them to madness.\n\nSteal those vessels and return them to me so that I may remove the taint and ultimately loosen the grip of the blood God.",
+  "files": [
+   "quests/7850-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "b862e5189c12",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Primal Torntusk",
+  "quest": "Dark Vessels",
+  "en": "The dark energy that compels the Vilebranch has been lifted - for now. We must remain ever vigilant in our battle against evil, as even if the Vile Priestess is destroyed, another soon takes her place.",
+  "files": [
+   "quests/7850-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "097c71426b41",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "OOX-09/HL Distress Beacon",
+  "quest": "Find OOX-09/HL!",
+  "en": "You have uncovered some sort of strange, egg-shaped device made from metal. Fiddling with one of its knobs springs the egg to life, as it opens up into some sort of gnomish robotic contraption! A voice from inside the robotic egg crackles to life.\n\n\"My name's Oglethorpe Obnoticus, and my homing robot has crashed! I will reward you for its recovery; please take this beacon to the robot!\"\n\n\"I now have computed the coordinates of the robot for you; it crashed at the head of the river near Skulk Rock!\"",
+  "files": [
+   "quests/485-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "2d918c199d46",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Katoom the Angler",
+  "quest": "Gammerita, Mon!",
+  "en": "Yo! There be a turtle out there not like the others. She be the Gammerita, leader of the saltwater snapjaws - a downright dirty thievin' reptile.\n\nMon, she stole my best lure. Snapped it right off my line! Since then, the fish just aren't biting the same.\n\nFind Gammerita and get my lure out of her stomach.",
+  "files": [
+   "quests/7816-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "eafaf857b1eb",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Katoom the Angler",
+  "quest": "Gammerita, Mon!",
+  "en": "MON! This is fantastic! With my best lure and the snapjaw population down, the fish will pile up.",
+  "files": [
+   "quests/7816-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "accc0cbee1ef",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Nimboya",
+  "quest": "Grim Message",
+  "en": "The Witherbark trolls were once allies to the Horde, but they betrayed Thrall... and that must be punished!\n\nHere, take my pike and go to the Hinterlands, far to the north. You will find it northeast of Tarren Mill, a village held by our allies, the Forsaken.\n\nWhen you enter the Hinterlands, hunt Witherbark trolls. Gather their skulls and drive my pike into the ground at one of their smaller villages, Hiri'watha or Zun'watha.\n\nShow them their vile actions are of consequence!",
+  "files": [
+   "quests/2932-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "e9fc2ec5ff55",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Nimboya",
+  "quest": "Grim Message",
+  "en": "Word reached me of your deed. A grim deed, but one of honor. Let us hope the Witherbarks heed your message.",
+  "files": [
+   "quests/2932-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "af0b8040bf32",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Falstad Wildhammer",
+  "quest": "Gryphon Master Talonaxe",
+  "en": "So you're a glorified errand boy for some old Explorers' League geezer, eh?\n\nWell you listen to me, adventurer. I don't know who your old buddy was flying around with down in Azeroth. Do I look like Gryphon Master Talonaxe to you? Do I?\n\nIf you're so interested in the flight assignments why don't you ask the gryphon master? If I catch you idling around here for much longer, I'm going to put you to some real work.\n\nNow get a move on.",
+  "files": [
+   "quests/m-1450-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "e7463e9905aa",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gryphon Master Talonaxe",
+  "quest": "Gryphon Master Talonaxe",
+  "en": "Ah, yes. Of course I remember sending one of my gryphon riders to lend a hand to Brohann Caskbelly.\n\nAlways had a soft spot in my heart for the Explorers' League. My father helped with the initial excavation team that discovered Uldaman as a matter of fact.\n\nI sent who I thought was my best gryphon rider at the time with Brohann. He was a chap by the name of Rhapsody Shindigger.\n\nAnd what a gryphon jockey he was! Well until...",
+  "files": [
+   "quests/1450-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "ca8073430b9e",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Markhor",
+  "quest": "Hunt the Savages",
+  "en": "Among the more ornery of the wildlife of the Hinterlands are the savage owlbeasts. Many a good Revantusk warrior has been lost to the ferocious claws and beak of the beasts.\n\nKill every savage owlbeast you see, traveler. Return to me when you can stand no more bloodshed. Your contribution will then be weighed, measured, and judged.",
+  "files": [
+   "quests/7829-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "77d973b9a45c",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Markhor",
+  "quest": "Hunt the Savages",
+  "en": "You have proven a worthy ally to the Revantusk, Adventurer. Well done.",
+  "files": [
+   "quests/7829-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "a4795dfd0085",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Call to Arms!",
+  "quest": "Job Opening: Guard Captain of Revantusk Village",
+  "en": "With the loss of Guard Captain Malkhor, the position of Guard Captain of Revantusk is once again open. If you are interested in becoming Captain of the Guard for Revantusk, complete the following tasks and submit your application to Primal Torntusk:\n\nExterminate Vilebranch Berserkers.\n\nExterminate Vilebranch Shadow Hunters.\n\nExterminate Vilebranch Blood Drinkers.\n\nExterminate Vilebranch Soul Eaters.",
+  "files": [
+   "quests/7862-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "06796c31b7a1",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Primal Torntusk",
+  "quest": "Job Opening: Guard Captain of Revantusk Village",
+  "en": "You are indeed a worthy candidate for the new position, Adventurer. Accept this trinket as a token of our appreciation for your hard work. I will be reviewing all applications next year.",
+  "files": [
+   "quests/7862-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "4f57ea9a9f44",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Elder Torntusk",
+  "quest": "Kidnapped Elder Torntusk!",
+  "en": "You must act quickly, Adventurer. Surely the guards have been alerted to your presence.",
+  "files": [
+   "quests/7845-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "a2b376aa7652",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Primal Torntusk",
+  "quest": "Kidnapped Elder Torntusk!",
+  "en": "My mate was taken by Vilebranch savages in a bold midnight raid on our village. Our spies have told me that he is still alive and being held prisoner atop Jintha'alor. The Vile Priestess Hexx is said to be preparing him for a sacrifice to the faceless blood God, Hakkar.\n\nYou must save him, Adventurer! Our village could not stand a loss this great.",
+  "files": [
+   "quests/7845-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "fd32079e6fee",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Otho Moji'ko",
+  "quest": "Message to the Wildhammer",
+  "en": "The Wildhammer be striking up deals with our enemies, forgin' new alliances. This time, they be workin' with the high elves, mon.\n\n\nWe be needin' to send those Wildhammer dwarves a message - a message in the blood of our enemies. Slaughter every Highvale high elf that you come across, leave their bodies as a warnin'.\n\nNever mess with trolls!",
+  "files": [
+   "quests/7841-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "32f2cc5a9c4a",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Otho Moji'ko",
+  "quest": "Message to the Wildhammer",
+  "en": "It be lookin' like the Revantusk are forgin' new alliances as well, mon! You done good.",
+  "files": [
+   "quests/7841-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "74c5e93ad6c8",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Oran Snakewrithe",
+  "quest": "Oran's Gratitude",
+  "en": "Now isn't this interesting? You say you found this tablet on a small, deserted island at The Overlook Cliffs in The Hinterlands, adventurer? Very interesting indeed. \nI thank you for your efforts in this matter. Our Dark Lady shall be very pleased with this discovery. Here, allow me to reward you proportionately.",
+  "files": [
+   "quests/8273-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "09a5bc52f165",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Elder Torntusk",
+  "quest": "Recover the Key!",
+  "en": "Finally, I am free! I come home soon, my dear!",
+  "files": [
+   "followup/10013-troll-male-shaman"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "f435a08d1c5c",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Elder Torntusk",
+  "quest": "Recover the Key!",
+  "en": "The key to my bindings is held by Hitah'ya the Keeper. She is in the nearby cave. Be careful, adventurer, for she is guarded well.\n\nKill her and bring the key back to loosen my shackles. Only then will I be free to return home.",
+  "files": [
+   "quests/7846-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "10a8dfda729b",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Elder Torntusk",
+  "quest": "Recover the Key!",
+  "en": "Freedom at last! Thank you, Adventurer. Revantusk will know your deeds!",
+  "files": [
+   "quests/7846-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "e68e6aa2fc4e",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Oglethorpe Obnoticus",
+  "quest": "Rescue OOX-09/HL!",
+  "en": "Oh, YOU'RE the great savior of OOX-09/HL! I cannot even begin to express my thanks for your assistance! My homing robot series needs more development, but your recovery has saved me countless hours of extra rebuilding time, as well as many gold pieces in manufacture costs!\n\nPlease, take your choice of any of these items I have. Thank you again for your generous assistance adventurer, my robots and I are in your debt!",
+  "files": [
+   "quests/836-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "69a41c9cb688",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Atal'ai Exile",
+  "quest": "Return to Fel'Zerul",
+  "en": "Jammal'an the Prophet sentenced me to exile from The Temple of Atal'Hakkar. I once felt the high priest was a worthy leader.\n\nHis unyielding faith in his prophecy will bring about the destruction of the Atal'ai. If it hasn't already.\n\nWhen I expressed my concerns, I was labeled an infidel and ousted from the temple.\n\nThose artifacts you brought to me are harmless. But if Jammal'an has found the proper fetish enchantment for the summoning ritual, the world lies in great peril....",
+  "files": [
+   "quests/1444-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "ccd28cad0b02",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fel'zerul",
+  "quest": "Return to Fel'Zerul",
+  "en": "It has been quite some time since we spoke, adventurer. I hope your journey was successful.\n\nWhat knowledge did you gain from the exiled Atal'ai in the Hinterlands?",
+  "files": [
+   "quests/1444-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "44ec0265fa60",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Elder Torntusk",
+  "quest": "Return to Primal Torntusk",
+  "en": "Return to my mate, Primal Torntusk at Revantusk Village. Tell her that I am coming home! She is sure to reward you.",
+  "files": [
+   "quests/7847-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "3e5c35d176ed",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Primal Torntusk",
+  "quest": "Return to Primal Torntusk",
+  "en": "You have done the Revantusk a great service, Adventurer! We owe you a great debt of gratitude.",
+  "files": [
+   "quests/7847-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "a96536ad8b4b",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gryphon Master Talonaxe",
+  "quest": "Return to the Hinterlands",
+  "en": "You've spoken with Grimshade? What did he say?\n\n...What? The Vilebranch trolls have Sharpbeak? That's unbearable! We must organize a force to get him back!",
+  "files": [
+   "quests/2993-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "5dfb0dc968f8",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thadius Grimshade",
+  "quest": "Return to the Hinterlands",
+  "en": "Sharpbeak is held in a cage, high on a cliff at the top of Jintha'Alor in the Hinterlands. The key to this cage is possessed by the high priestess of the Vilebranch trolls, Vile Priestess Hexx.\n\nThere. I have done my part. I bid you fortune on your quest, Adventurer.",
+  "files": [
+   "quests/2993-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "586bc663a224",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gryphon Master Talonaxe",
+  "quest": "Rhapsody Shindigger",
+  "en": "Rhapsody took quite a liking to the booze. Now don't get me wrong -- all of us dwarves up here at the aviary love a good ale when the time is right.\n\nBut ol' Shindigger took to the liquor like a gryphon takes to the skies. And a damned shame it was, too. No one could fly like Rhapsody.\n\nFirst sign of trouble was when he came stumbling back from that mission with your buddy, Brohann. All went down hill quickly after that. Had to let him go.\n\nLast I heard, he's set up a brew camp to the east of here...",
+  "files": [
+   "quests/1451-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "eda4d0f92e09",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rhapsody Shindigger",
+  "quest": "Rhapsody Shindigger",
+  "en": "Hiccup!\n\nI'm a-lookin' right at you but you keep bobbing up and down. Makin' me dizzy. Hoho!\n\nHiccup!\n\nWhoa! Did ya feel that? Ground is a-shakin', my friend. I need a drink.\n\nHiccup!",
+  "files": [
+   "quests/1451-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "6ddbafb12bec",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rhapsody Shindigger",
+  "quest": "Rhapsody's Kalimdor Kocktail",
+  "en": "Time to brew up a Kalimdor Kocktail! Hiccup!",
+  "files": [
+   "followup/1950-dwarf-male-guard"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "c9166b078524",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rhapsody Shindigger",
+  "quest": "Rhapsody's Kalimdor Kocktail",
+  "en": "That should do it! Hiccup!",
+  "files": [
+   "followup/1951-dwarf-male-guard"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "994186957107",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rhapsody Shindigger",
+  "quest": "Rhapsody's Kalimdor Kocktail",
+  "en": "Hiccup!",
+  "files": [
+   "followup/1953-dwarf-male-guard"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "5f73c8e622d1",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rhapsody Shindigger",
+  "quest": "Rhapsody's Kalimdor Kocktail",
+  "en": "Ok, who pushed me down? Was it you, adventurer? Someone turn the lights back on. Hiccup!",
+  "files": [
+   "followup/1954-dwarf-male-guard"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "ab8013d6d5df",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rhapsody Shindigger",
+  "quest": "Rhapsody's Kalimdor Kocktail",
+  "en": "One more sip of the ol' fire water and I'll be ready to talk. Hiccup! Cheers!",
+  "files": [
+   "followup/1955-dwarf-male-guard"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "e789cdfb828c",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rhapsody Shindigger",
+  "quest": "Rhapsody's Kalimdor Kocktail",
+  "en": "So, adventurer, I'm ready to tell you what happened in the Swamp of Sorrows. Hiccup!",
+  "files": [
+   "followup/1956-dwarf-male-guard"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "6f691d22d80a",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rhapsody Shindigger",
+  "quest": "Rhapsody's Kalimdor Kocktail",
+  "en": "Hiccup!\n\nSo that crazy fool Brohann sent ya? My we had quite an adventure...Hiccup!\n\nIf ya want me to tell ya what happened down in the swamp, I'm gonna need me something stiff to drink. It wasn't a pretty scene, ya see. Hiccup!\n\nTell ya what... bring me what I need to whip up a Kalimdor Kocktail and I'll tell ya all about it.\n\nGonna need some Roc gizzards from Tanaris... and let's see... some Groddoc and Ironfur livers from Feralas...\n\nA nice stiff Kalimdor Kocktail... that'll get me talking!",
+  "files": [
+   "quests/1452-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "a47822f88624",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rhapsody Shindigger",
+  "quest": "Rhapsody's Kalimdor Kocktail",
+  "en": "I see ya had no trouble at all getting me what I need! Musta been quite a stint you had over there in far-off Kalimdor.\n\nIt won't take but a moment for me to extract what I need from these gizzards and livers. Hiccup!\n\nThen I can distill me a fierce ol' drink and finally tell ya what ya wanna know.\n\nHiccup!\n\nGetting shivers just thinking about that ol' swamp.\n\nHiccup!\n\nLemme whip up a drink real fast.",
+  "files": [
+   "quests/1452-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "69274e2e45ba",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Brohann Caskbelly",
+  "quest": "Rhapsody's Tale",
+  "en": "Rhapsody Shindigger! That's right... how could I forget such a name?\n\nSo he knew about the sinking of the temple all along? Well, that certainly would have saved you some leg work.\n\nBut this Atal'ai artifact! Why, it's quite a find!",
+  "files": [
+   "quests/1469-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "cb1e934d42f9",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rhapsody Shindigger",
+  "quest": "Rhapsody's Tale",
+  "en": "Before the flight, I drank me a whole keg of stout. Hiccup!\n\nAnd what a flight it was. Zipping around with Brohann following me. Didn't see no temple though. Hiccup!\n\nWell, didn't see no temple till I got a little too tipsy and fell off my mount. I plunged right into the water and was sucked down. Found myself surrounded by a bunch of creepy trolls. Sure swam out of there fast! Even made off with this troll souvenir. Here, take it to Brohann and let him know his temple is down there, indeed. Hiccup!",
+  "files": [
+   "quests/1469-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "e564e42e3e07",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Rin'ji",
+  "quest": "Rin'ji is Trapped!",
+  "en": "Hey traveler!\n\nRin'ji lost axe and was captured! Please, help Rin'ji escape. Me know that traveler like you don't like Rin'ji's kind, but Rin'ji begs! Must get out of here!\n\nGot something for nice traveler if he helps Rin'ji out of here...\n\nRin'ji is hiding something secret at the Overlook Cliffs.",
+  "files": [
+   "quests/m-2742-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "27b4f13089d7",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Rin'ji's Secret",
+  "quest": "Rin'ji is Trapped!",
+  "en": "This troll tablet must be the \"secret\" that Rin'ji was talking about.\n\nCovered with strange markings, you can not decipher what the tablet says.",
+  "files": [
+   "quests/2742-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "e10af768f458",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Oran Snakewrithe",
+  "quest": "Rin'ji's Secret",
+  "en": "This tablet... Quite unusual... Where did you find this, Adventurer?",
+  "files": [
+   "quests/2782-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "db42ef84479c",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Rin'ji's Secret",
+  "quest": "Rin'ji's Secret",
+  "en": "The tablet is covered with Witherbark troll markings. Rin'ji's secret truly is a mystery... \n\nIt's possible that you might have something quite valuable on your hands here. On the other hand, quite the opposite is also possible. A Witherbark troll in distress would probably do anything to find his way out of trouble...",
+  "files": [
+   "quests/2782-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "deaf422c7bd8",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gryphon Master Talonaxe",
+  "quest": "Saving Sharpbeak",
+  "en": "We must save Sharpbeak!\n\nFight your way to the top of Jintha'Alor in the heart of Vilebranch territory, gain the key to Sharpbeak's cage from the vile Priestess Hexx, and then find and save Sharpbeak!",
+  "files": [
+   "quests/2994-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "415f53891a6b",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gryphon Master Talonaxe",
+  "quest": "Saving Sharpbeak",
+  "en": "Swiftwind and Keenclaw returned with their child moments ago, and are fussing over him like new parents. Seeing them together again is enough to give even this old dwarf mist in the eyes...\n\nWe cannot repay you enough for what you have done, Adventurer. The gryphons of Aerie peak, and their riders, will sing your name for a long, long time.",
+  "files": [
+   "quests/2994-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "6a003c5925d1",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Markhor",
+  "quest": "Separation Anxiety",
+  "en": "Like many in our village, I too have lost a loved one to the wilds. Alas, it was my twin brother Malkhor - taken in the same raid as Torntusk's mate by the Vilebranch.\n\nSadly, he was not fated to live and was given a swift, brutal execution; his remains fed to the oozes and wolves of the Vilebranch.\n\nIt is too late to save his life but not too late to save his soul. Recover his remains, Adventurer.",
+  "files": [
+   "quests/7849-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "37f2dba5fd2c",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Markhor",
+  "quest": "Separation Anxiety",
+  "en": "My dearest brother, how I will miss you...\n\nThank you for your assistance, Adventurer. You are truly a hero in my eyes.",
+  "files": [
+   "quests/7849-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "cb1dafd62e06",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Fraggar Thundermantle",
+  "quest": "Skulk Rock Clean-up",
+  "en": "We Wildhammers remember the past, more than our brothers in Ironforge. If you want to make friends here, then you get your hands dirty for us!\n\nThe Horde abandoned their positions in the Hinterlands around Skulk Rock; it's now overrun with nasty sludges and oozes. We've got plans on that area, but first we need a clean-up crew to make a hole for us.\n\nThat's where you come in, Sunshine! Head down there and take out ten green sludges and ten jade oozes, then report back to me here. Move out!",
+  "files": [
+   "quests/2877-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "03a588d3b7a3",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Fraggar Thundermantle",
+  "quest": "Skulk Rock Clean-up",
+  "en": "Well look at you, helping out the Wildhammers! You're a adventurer of action, and action is what we respect around here.\n\nYour little clean-up mission is a lot more important than you might think it is. With folks thinning out the oozes and sludges, we'll be able to extend our sphere of influence in no time. Here - have a little something in addition to just making new friends here in Aerie Peak!",
+  "files": [
+   "quests/2877-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "ec4d7a0e4025",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Katoom the Angler",
+  "quest": "Snapjaws, Mon!",
+  "en": "Don't let their big eyes fool you, mon! Those saltwater snapjaws be a menace. I can't fish for five minutes without getting a broken line from one of those oversized fish vacuums stealing my bait.\n\nDo me and the people of Revantusk Village a service and kill em, mon.\n\nKill the whole lot of em!",
+  "files": [
+   "quests/7815-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "1b095234d0d4",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Katoom the Angler",
+  "quest": "Snapjaws, Mon!",
+  "en": "Oh, mon! I can't thank you enough! Hopefully this here fishing pole will be reward enough for the job.",
+  "files": [
+   "quests/7815-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "a97ef0c00184",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Markhor",
+  "quest": "Stalking the Stalkers",
+  "en": "Many brave trolls have been lost to the harsh wilds of the Hinterlands, traveler. The Silvermane wolves are one of the biggest threats to our hunters. They lay in wait, hiding amongst the bushes and landscape, then strike out when the opportunity presents itself.\n\nThis type of ferocity will not go unchecked!\n\nYou must think like the Silvermane. Stalk the stalkers! Slay them all!",
+  "files": [
+   "quests/7828-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "a2a784b2af03",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Markhor",
+  "quest": "Stalking the Stalkers",
+  "en": "A job well done, traveler. The Revantusk thank you for your contribution.",
+  "files": [
+   "quests/7828-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "c44dfa73b23a",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Lydon",
+  "quest": "Summoning Shadra",
+  "en": "Sweet, you got it!",
+  "files": [
+   "quests/2937-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "2b13744dbb76",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Master Gadrin",
+  "quest": "Summoning Shadra",
+  "en": "Take his parchment, and read it at the altar of Shadra'Alor, deep within the witherbark realm in the Hinterlands. This will summon Shadra the spider god.",
+  "files": [
+   "quests/2937-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "4db29bd34e2a",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gryphon Master Talonaxe",
+  "quest": "Thadius Grimshade",
+  "en": "Take this feather to Thadius Grimshade, the diviner. He left Aerie Peak years ago to pursue darker knowledge, but in his heart he is still a Wildhammer!\n\nAnd perhaps his talents can help us find Sharpbeak.\n\nThis feather was taken from the nest where the gryphon child sleeps. If you give it to Thadius then, with luck, he can use his divining magics to find Sharpbeak.\n\nGood luck, Adventurer. You will find Thadius in the Blasted Lands, in the mage tower of Nethergarde Keep.",
+  "files": [
+   "quests/2990-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "b6c20e01f880",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thadius Grimshade",
+  "quest": "Thadius Grimshade",
+  "en": "Ah, yes. This feather belongs to a fine gryphon. One destined for great things... if he can survive into adulthood undamaged.\n\nYou wish to find him? Then listen close, brave adventurer...",
+  "files": [
+   "quests/2990-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "7459763adfe8",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gryphon Master Talonaxe",
+  "quest": "The Altar of Zul",
+  "en": "Sharpbeak was not with the Witherbark trolls. Perhaps the Vilebranch trolls took him. Go to the Altar of Zul on the western edge of Vilebranch territory and search for the gryphon child.",
+  "files": [
+   "quests/2989-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "9548787e3a9c",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gryphon Master Talonaxe",
+  "quest": "The Altar of Zul",
+  "en": "Sharpbeak wasn't there? That is bad news, but it is good news too...\n\nIt is good that he was not at the Altar of Zul for the Vilebranch trolls are known for performing sacrifices.\n\nI thank you for all of your aid, but I'm afraid I have an even greater task ahead.",
+  "files": [
+   "quests/2989-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "fdeb5b40d872",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Yeh'kinya",
+  "quest": "The Ancient Egg",
+  "en": "The Prophecy of Mosh'aru speaks of an ancient egg. It is a relic of a time when trolls ruled vast empires, and it has the power to hold the essence of Hakkar. It may be the only way to keep our world safe from his evil.\n\nBring me the ancient egg, Adventurer. It is said to lay hidden deep within Jintha'Alor in the Hinterlands, in a cave behind the amphitheater at the top of the city.",
+  "files": [
+   "quests/4787-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "7dc45c5c44f7",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Yeh'kinya",
+  "quest": "The Ancient Egg",
+  "en": "Ah, you have the egg! I bow to you, Adventurer. Your strength and bravery will be long remembered.",
+  "files": [
+   "quests/4787-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "0d34211005df",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thadius Grimshade",
+  "quest": "The Divination",
+  "en": "Make no sound during the ritual. One misstep could spell our doom...",
+  "files": [
+   "followup/4126-dwarf-male-grim"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "1e98a47e1d75",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thadius Grimshade",
+  "quest": "The Divination",
+  "en": "There. It is done.",
+  "files": [
+   "followup/4128-dwarf-male-grim"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "e49e13badd17",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thadius Grimshade",
+  "quest": "The Divination",
+  "en": "Give me room while I perform a ritual of divination. I will find the connection between the feather you brought me and its owner, and follow that connection to Sharpbeak himself.\n\nThat is... I will if all goes according to plan. If it does not, then... you better close your eyes.",
+  "files": [
+   "quests/2992-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "9604cf10714d",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thadius Grimshade",
+  "quest": "The Divination",
+  "en": "The ritual was a success. I have seen Sharpbeak and can tell you how to find him.",
+  "files": [
+   "quests/2992-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "87faa71baeb2",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Otho Moji'ko",
+  "quest": "The Final Message to the Wildhammer",
+  "en": "You take this, mon. You take this to Aerie Peak, dead center of town by the well. You plant it! Drive it right into the ground! Show those dwarves that troll mean business! Come back when you do this. Hopefully you come back alive.",
+  "files": [
+   "quests/7843-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "5e0e73610935",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Otho Moji'ko",
+  "quest": "The Final Message to the Wildhammer",
+  "en": "I wish I coulda been there to see the look on their faces, mon. Are they packing up their bags? Leavin' town?\n\nYou done good, Adventurer. Real good. Otho reward you with the big mojo.",
+  "files": [
+   "quests/7843-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "adbdb1863940",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Fraggar Thundermantle",
+  "quest": "Troll Necklace Bounty",
+  "en": "Get this straight, traveler - we are NOT part of the Alliance! The Wildhammers are independent, relying on deeds and actions to prove one's worth, rather than the blather of those who use jibber-jabber to bolster their do-nothing attitudes!\n\nIf you're looking for friends here, then prove your worth to us first! The foul trolls that choke the hillsides of the Hinterlands sometimes carry tribal necklaces. Bring five of them to me, and we'll mark it down as a step in the right direction for you.",
+  "files": [
+   "quests/2880-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "b9633a3345e6",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Fraggar Thundermantle",
+  "quest": "Troll Necklace Bounty",
+  "en": "Now that's what I am talking about! See - these necklaces prove that you're willing to get your hands dirty. We Wildhammers value that in those we associate with.\n\nYou keep this up, and you'll be in our good graces yet.",
+  "files": [
+   "quests/2880-complete",
+   "quests/2881-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "103c3757d784",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Lydon",
+  "quest": "Undamaged Venom Sac",
+  "en": "I must have a fresh sample of the venom you brought me. The spiders from which it was gathered must dwell in the Hinterlands -- hunt them until you find an undamaged venom sac and bring it to me. You will find many spiders near the troll city of Shadra'Alor.\n\nDo not tarry, Adventurer, for the venom sac must be fresh when you deliver it.",
+  "files": [
+   "quests/2934-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "aadd8c4f12ce",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Lydon",
+  "quest": "Undamaged Venom Sac",
+  "en": "Oh, splendid! The venom is quite fresh and I'm sure very deadly. Thank you!",
+  "files": [
+   "quests/2934-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "28d4dcd1bc46",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Lydon",
+  "quest": "Venom Bottles",
+  "en": "Ah, and what is this? It appears to be venom... from some arachnoid creature I deem. And where did you get it?",
+  "files": [
+   "quests/2933-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "1e43a7f17a20",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Venom Bottle",
+  "quest": "Venom Bottles",
+  "en": "These bottles hold a vile, green venom.\n\nConsidering the number of bottles in this village, the Witherbarks must deem it very important. Perhaps an apothecary in nearby Tarren Mill would like a sample.",
+  "files": [
+   "quests/2933-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "cd152eba1614",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Lydon",
+  "quest": "Venom to the Undercity",
+  "en": "The venom you gathered from the Witherbark's spider god is quite a find! I've been able to kill nearly two dozen rabbits with just a drop of the stuff. Granted, some of those rabbits were very young and small enough to fit in the palm of one's hand so I'm certain their resistance to toxins was low, but it can't be denied that this poison is powerful!\n\nI'd like a sample sent to my superior, Apothecary Faranell in the Apothecarium of the Undercity. I am positive he would want to test this himself.",
+  "files": [
+   "quests/2938-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "548de2c3182a",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Master Apothecary Faranell",
+  "quest": "Venom to the Undercity",
+  "en": "Ah, very good. Lydon mentioned the poison in this parcel is the most potent he has come in contact with, and is busy working on new applications with it.\n\nWith luck, we will find many.\n\nThank you, Adventurer. Your service to the Royal Apothecary Society is undeniable.",
+  "files": [
+   "quests/2938-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "798d905aecb3",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Smith Slagtree",
+  "quest": "Vilebranch Hooligans",
+  "en": "Vilebranch scum invaded our village and stole my tools! I have backup tools but the set they stole was a gift given to me by a kind hearted gnome that saved my life when I was a young orc.\n\nI want those tools back, Adventurer - they mean the world to me.\n\nMarkhor reported that the tools were spotted near the Agol'watha and Shaol'watha temples.\n\nThose temples are in the northeastern region of the Hinterlands.\n\nRecover my tools!",
+  "files": [
+   "quests/7839-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "2e4c503df132",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Smith Slagtree",
+  "quest": "Vilebranch Hooligans",
+  "en": "My tools! You found them! Oh glorious day! Thank you, Adventurer.",
+  "files": [
+   "quests/7839-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "eb1d5e80ed7f",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Call to Arms!",
+  "quest": "Wanted: Vile Priestess Hexx and Her Minions",
+  "en": "By order of Primal Torntusk, Vile Priestess Hexx and her minions are to be brought to justice!\n\nA grand reward is offered for any that slay the Vile Priestess Hexx and all of her Aman'zasi elite guard.",
+  "files": [
+   "quests/7861-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "ae53d26bc843",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Primal Torntusk",
+  "quest": "Wanted: Vile Priestess Hexx and Her Minions",
+  "en": "A crippling blow to the Vilebranch, indeed. You shall be richly rewarded, Adventurer.",
+  "files": [
+   "quests/7861-complete"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "a7729f149e87",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gryphon Master Talonaxe",
+  "quest": "Witherbark Cages",
+  "en": "The son of our mightiest gryphon is gone! Swiftwing's heir, Sharpbeak, was lost while hunting with his parents a few days ago, and we believe it was the trolls who took him.\n\nYou must aid us! Search the cages in the two Witherbark troll villages to see if Sharpbeak is there.",
+  "files": [
+   "quests/2988-accept"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "0d1acc27c339",
+  "zone": "the-hinterlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gryphon Master Talonaxe",
+  "quest": "Witherbark Cages",
+  "en": "Sharpbeak wasn't at the villages? Hm... this is grim news. That gryphon is destined to lead the next generation of gryphons. If he is lost then the strength and spirit of our fleet will suffer immensely.",
+  "files": [
+   "quests/2988-complete"
+  ],
+  "uiMap": 1425
+ }
+]

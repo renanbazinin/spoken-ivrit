@@ -1,0 +1,801 @@
+[
+ {
+  "id": "d2643b49cdc6",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Katar",
+  "quest": "Continued Threat",
+  "en": "It pleases me to see your hatred for the fish men grows with mine.\n\nFind more of their kind along the beach, and when you've had your fill of combat, return to me. We shall speak then of a reward for your diligence.",
+  "files": [
+   "quests/1428-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "e29c735f938d",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Katar",
+  "quest": "Continued Threat",
+  "en": "Well done, adventurer. I call for more of their blood. Let all the fish men perish.",
+  "files": [
+   "quests/1428-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "f5dd2afb48a3",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Quartermaster Lungertz",
+  "quest": "Deliver the Shipment",
+  "en": "What? A package from Biggs' caravan? We thought it, and he, were lost.\n\nThank you, Adventurer. With luck, these supplies will carry the much needed reagent, Azoran Crystals. Our stock is running low...",
+  "files": [
+   "quests/1425-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "cc58e79fff32",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Watcher Biggs",
+  "quest": "Deliver the Shipment",
+  "en": "While I fix this wagon, Adventurer, I have one last task for you.\n\nI have packed the most vital supplies saved from the ogre attacks. Take them to Nethergarde Keep. The keep is nestled in the northern hills of the Blasted Lands, keeping watch over the Dark Portal.\n\nTo reach Nethergard, follow the road east. When it branches head south into the Blasted Lands, then turn left at the next fork. Follow the road, Adventurer, and be wary.",
+  "files": [
+   "quests/1425-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "833d5e222484",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Watcher Biggs",
+  "quest": "Driftwood",
+  "en": "I owe you greatly, Adventurer. An honorable heart beats within you. And now I have another task for which I humbly ask your aid.\n\nIf I'm ever to reach Nethergarde, then I must fix this wagon. And for that... I will need wood. Strong, dry wood--not the spongy, tangled wood of the swamp's trees.\n\nAdventurer, go east to the coast and search for driftwood that has been dried by the sun. Bring it to me.",
+  "files": [
+   "quests/1398-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "82ac862ca996",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Watcher Biggs",
+  "quest": "Driftwood",
+  "en": "This wood is light, but tough. Thank you, Adventurer. It will work nicely.",
+  "files": [
+   "quests/1398-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "f320c00453b5",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Watcher Biggs",
+  "quest": "Encroaching Wildlife",
+  "en": "My caravan was destined for the eastern coast, but we did not reach our goal. Lost Ones attacked us, killing guards and dashing supplies.\n\nI alone survived their assault. I have sworn to protect what supplies remain, but wild creatures skulk near. Please, help me defend my camp from the beasts!",
+  "files": [
+   "quests/1396-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "39e1d6b15c89",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Watcher Biggs",
+  "quest": "Encroaching Wildlife",
+  "en": "The sounds of animals are now faint, more distant. Thank you, Adventurer. Now let's hope they don't return!",
+  "files": [
+   "quests/1396-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "8a08dbd979df",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Malfurion Stormrage",
+  "quest": "Eranikus, Tyrant of the Dream",
+  "en": "This is a journey of redemption, hero. Would it be that I was slain today, I would have died for a just and righteous cause. You must recover the green scepter shard. You must cleanse Eranikus of the taint placed upon him by the Old Gods.\n\nTravel to Darnassus. Just outside the city walls you will find one of my agents. This agent will set things in motion for us and inform Tyrande of our plans without alerting Staghelm.\n\n\nA fall from grace a thousand years in the making...",
+  "files": [
+   "quests/8733-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "8825c8c35f4b",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Dar",
+  "quest": "Fresh Meat",
+  "en": "There's a high demand for the succulent taste of crawler meat among my customers; especially the meat from the monstrous crawlers.\n\nIf you plan on heading to the coast, then I could easily make it worth your while to bring me back some of their legs to have transported back to Orgrimmar.\n\nThe coast is to the east from here, and you should have no problem finding the creatures scurrying along the beaches and under the sea.",
+  "files": [
+   "quests/1430-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "e8ee0727b80e",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Dar",
+  "quest": "Fresh Meat",
+  "en": "Ah, this should be perfect. I can't wait to taste these after they are prepared perfectly over an open fire. You should take a sample of it with you on your travels. It truly is delicious.",
+  "files": [
+   "quests/1430-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "a926a9cc3026",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Galen Goodward",
+  "quest": "Galen's Escape",
+  "en": "Please help! These creatures are going to eat me!\n\nHelp me out of here, and I'll give you a great treasure! It's in my camp in the swamp north of Stonard, but it's locked in a strongbox that can be opened through a trick that only I know.\n\nIf you help me escape, then I'll teach it to you.",
+  "files": [
+   "quests/1393-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "f765774b2419",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Galen's Strongbox",
+  "quest": "Galen's Escape",
+  "en": "The keyhole of this strongbox is filled with black resin. It is impossible to open.\n\nBut Galen told you of a hidden latch on the box's bottom... \n\n...After a quick search the latch is found. The latch is flipped, and the strongbox opens...",
+  "files": [
+   "quests/1393-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "a316e543830f",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Umbranse the Spiritspeaker",
+  "quest": "In Eranikus' Own Words",
+  "en": "Itharius was wise to send you to me. While he is not dead as you understand death, Eranikus will soon give us advice in his own words. For now though, I cannot directly help you... at least not yet.\n\nI will lend my skill at death-speaking to you, but first I need the help of one who - unlike me - is not limited by the frailties of old age. My most potent augury device has been taken from me against my will, and unless I have it back we will be at a loss to help Eranikus.",
+  "files": [
+   "quests/3512-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "0c4372286de8",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Brohann Caskbelly",
+  "quest": "Into The Temple of Atal'Hakkar",
+  "en": "According to legend, The Temple of Atal'Hakkar is a holy shrine dedicated to the ancient god, Hakkar the Soulflayer. Maintained by a vicious tribe of trolls named the Atal'ai, the temple is rumored to be impenetrable.\n\nNow sunk beneath the Pool of Tears, retrieving artifacts from the temple is even more difficult. But that's what I need you to do, adventurer.\n\nAid me by gathering the intact Atal'ai Tablets. Bring them to me and I will return to the Explorers' Guild a hero. Together we will share the glory.",
+  "files": [
+   "quests/1475-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "bfd8917268ed",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Brohann Caskbelly",
+  "quest": "Into The Temple of Atal'Hakkar",
+  "en": "The Atal'ai Tablets! Thank you, adventurer!\n\nOnce I deliver these to the Explorers' League our names shall go down in history together. You have helped an old dwarf fulfill his final obligation in life. For that I am eternally grateful.",
+  "files": [
+   "quests/1475-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "2a7e44fa9128",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Altar of Hakkar",
+  "quest": "Into the Depths",
+  "en": "You push the stone circle into the opening, and you hear it lock into place.\n\nNow that the stone is in place, you may continue... but what should you do next?\n\nPerhaps you should examine this altar further...",
+  "files": [
+   "quests/3446-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "043a3a12f9a0",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Marvon Rivetseeker",
+  "quest": "Into the Depths",
+  "en": "Inside the temple, I found a circular room with six balconies, each one with a serpent statue on the edge. Curious, I pushed one of them to see what would happen, and it was a trap! I nearly fell to my death from the explosion. Laying there on the ledge, I looked down and noticed that there was another statue at the base of the room; an altar of sorts... Hakkar, I think it was called.\n\nI think that this altar is the secret -- you must bring this token to the altar in the Sunken Temple.",
+  "files": [
+   "quests/3446-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "0d8b4c715020",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Atal'ai Exile",
+  "quest": "Jammal'an the Prophet",
+  "en": "My Witherbark companions don't take kindly to strangers around their home.\n\nMe? I don't have a home anymore. I was exiled from my people, the great Atal'ai tribe of the Swamp of Sorrows.\n\nOur spiritual leader, Jammal'an, had what he called a prophecy. He believes the summoning of the god, Hakkar will bring the Atal'ai immortality.\n\nBut I urged caution. What if the prophecy was nothing more than manipulation?\n\nI want revenge for my exile. Bring me Jammal'an's head. Maybe then my people will be free.",
+  "files": [
+   "quests/1446-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "cb0e65f2d35c",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Atal'ai Exile",
+  "quest": "Jammal'an the Prophet",
+  "en": "Jammal'an's reckless trust of false visions led my people to their eternal doom.\n\nI thank you, adventurer, for avenging my exile. I mourn for my people. I have no home to return to.",
+  "files": [
+   "quests/1446-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "9118ba7f2192",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Dar",
+  "quest": "Lack of Surplus",
+  "en": "I'm working on getting some supplies together for our outpost near the beach to the east--Tok'kar does what he can, but between shifts of guard duty and cooking for his soldiers there's not much time left in the day.\n\nThey do enjoy cooking up some sawtooth meat when they can, but I haven't had time to get them another shipment. Would you mind helping them out?\n\nThe young sawtooths aren't as tasty as the older ones, so stay clear of those; give them a year or two to get to full size.",
+  "files": [
+   "quests/698-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "4bb62105b9b6",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Tok'Kar",
+  "quest": "Lack of Surplus",
+  "en": "Ah! Wonderful. Fresh meat for the fire tonight. Thank you, Adventurer.\n\nYou've helped make the coming nights more tolerable. The fire burns bright, and our stomachs will be full.\n\nIt's a pleasant surprise to have you bring us a shipment; Dar's not the most attractive orc anyone's laid eyes upon, but at least his attitude reeks far less than his smell.",
+  "files": [
+   "quests/698-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "3dc6d73a9589",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Tok'Kar",
+  "quest": "Lack of Surplus",
+  "en": "With the threat of murlocs along the coast, we're stationed out here to protect--or warn if the force is too large--of any coming threats to Stonard. It doesn't give us much time for relaxation, and we could use some more help if you're able.\n\nThe sawtooth snappers' claws make for fine weapons when properly prepared. Bring me some of their claws and I'll see you're rewarded with one of our weapons in thanks for the fresh meat and the good company.",
+  "files": [
+   "quests/699-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "fe85e280c6e4",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Tok'Kar",
+  "quest": "Lack of Surplus",
+  "en": "Glad to see you're alive and well, Adventurer.\n\nThese claws should make do nicely. The more weapons we have at the ready for attacks against us, the better off we'll be.\n\nI'll get started on your weapon as soon as possible. It will only take a short time. I've become quite adept and quick at their production.",
+  "files": [
+   "quests/699-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "f2bb6504489b",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Helgrum the Swift",
+  "quest": "Neeka Bloodscar",
+  "en": "The Badlands is harsh and lies close to the Alliance-held land of Loch Modan, so communication between Stonard and the Badlands outpost of Kargath is often cut.\n\nProve yourself, Adventurer. Travel to the Badlands and speak with Neeka Bloodscar, head scout of the Kargath outpost. Speak with her, and then send her report back to me.",
+  "files": [
+   "quests/1418-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "56a5935d4299",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Neeka Bloodscar",
+  "quest": "Neeka Bloodscar",
+  "en": "Helgrum wants a report, eh? I sent an outrunner to Stonard not three days past. Did he fail his mission? If Stonard does not have my report, then it appears he did fail.\n\nLet's hope the next runner I send has more skill, or more luck.",
+  "files": [
+   "quests/1418-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "8ef17da4976c",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Noboru's Cudgel",
+  "quest": "Noboru the Cudgel",
+  "en": "Noboru has plagued the Draenei of the Harborage for months, and his cudgel is a symbol of the brutality they have suffered at the hands of the lost ones.",
+  "files": [
+   "quests/1392-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "c886cf3feeef",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fel'zerul",
+  "quest": "Pool of Tears",
+  "en": "The Warchief sent us to investigate strange happenings at The Temple of Atal'Hakkar.\n\nThe Atal'ai trolls are a tribe of dark casters, known for practicing forbidden magic. You can imagine how astonished we were when we arrived here to discover the temple had been sunk.\n\nThe green dragons now guard the site, claiming to be protectors of Azeroth.\n\nWe need to discover what happened. Explore around the Pool of Tears and gather Atal'ai artifacts. From those I can begin to piece together this puzzle.",
+  "files": [
+   "quests/1424-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "ff71c8cfe70d",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fel'zerul",
+  "quest": "Pool of Tears",
+  "en": "Your diligence in collecting the Atal'ai artifacts is worthy of praise, adventurer.",
+  "files": [
+   "quests/1424-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "bd8637944dc0",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Idol of Hakkar",
+  "quest": "Secret of the Circle",
+  "en": "The eye of the idol glitters brightly even in the half-darkness of the temple. Its transparency reveals something shiny behind it. Sliding it to the side, you reach in and grasp what lies inside the statue.\n\nThe Atal'ai treasure is now yours.",
+  "files": [
+   "quests/3447-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "8e0833d3f0ff",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Marvon Rivetseeker",
+  "quest": "Secret of the Circle",
+  "en": "My memories are cloudy, but I will tell you what I can. The circle of statues in the Sunken Temple, while dangerous, I believe that they hold the secret to unlock an even greater treasure.\n\nFrom the main altar, I was able to activate a series of lights. I think that if you can uncover what these lights mean, you might be able to unlock whatever secrets are hiding in this room.\n\nI warn you though, Adventurer. Great evil lies in the temple. It's likely that anything valuable will be fervently guarded...",
+  "files": [
+   "quests/3447-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "1df1e879fb37",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Atal'ai Exile",
+  "quest": "The Atal'ai Exile",
+  "en": "You bring me the summoning artifacts of the Atal'ai?\n\nI see Jammal'an the Prophet is leading the disciples of the Chamber of Blood towards their chosen fate. Has Hakkar returned to the Temple I wonder? Has their fate been met?",
+  "files": [
+   "quests/1429-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "12b582d925be",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fel'zerul",
+  "quest": "The Atal'ai Exile",
+  "en": "While you were braving the dangers of the Pool of Tears, one of my scouts returned with a scroll written in blood on dried flesh. It seems to be a judicial sentence against a priest of the Atal'ai tribe.\n\nThis priest was sentenced to a fate worse than death amongst the Atal'ai.\n\nHe was exiled to live far north in the Hinterlands, with the Witherbark trolls.\n\nI will bundle these artifacts. You are to seek out the exile and discover their true use. Return to me once your journey is complete.",
+  "files": [
+   "quests/1429-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "c72e2d9dcfd8",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Essence Font",
+  "quest": "The Essence of Eranikus",
+  "en": "You place the gem inside the essence font.\n\n\"Thank you mortal, you have - no... this, this cannot be! No! The corruption of this accursed god even taints the sanctity of a Green Dragonflight essence font! No please, I feel my essence ripping from me! THE PAIN! I feel the grip of an eternal nightmare taking hold on me...\"\n\n\"Mortal, I implore you! Find one of the Green Dragonflight to stop this... help me... I am chained in darkness... forever in agony... please do not torture...\"",
+  "files": [
+   "quests/3373-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "fd696d1dc38d",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Essence of Eranikus",
+  "quest": "The Essence of Eranikus",
+  "en": "As you touch the gem, a deep voice resonates in your mind.\n\n\"Mortal, heed this plea. I am Eranikus of the Green Dragonflight, keeper of this accursed temple. My charge to ensure that the trolls never again bring forth their abomination of a god has for now ended in failure. As I imbue this gem with part of my essence, I sense my grip on the Dream twisting into chaos. Please - place this gem into the essence font in my lair, and let our magic there purge the taint from my psyche so that I may rest.\"",
+  "files": [
+   "quests/3373-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "a8169d588c6f",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Oathstone of Ysera's Dragonflight",
+  "quest": "The Essence of Eranikus",
+  "en": "You engage the Oathstone, and Itharius speaks directly to your mind through the stone.\n\n\"By accepting the charge placed in this Oathstone, you agree to aid my cause and the cause of Ysera's Dragonflight in redeeming the corrupted soul of Eranikus. The first sacrifice, one of many you and I will no doubt make, will be to relinquish the gem to me that has chained what free-willed part of Eranikus' psyche remains.\"\n\n\"Do this Adventurer, and we will work together to redeem a soul worthy of redemption.\"",
+  "files": [
+   "quests/3374-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "c744f44b3e13",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Yeh'kinya",
+  "quest": "The God Hakkar",
+  "en": "Now it is time to capture the essence of the avatar of Hakkar.\n\nTake the Egg of Hakkar to the Sanctum of the Fallen God in the Sunken Temple in Azeroth. Invoke the egg's power to stir the dead god.\n\nHe will send his minions against you. Defeat his bloodrinkers and take their Hakkari blood, then use the blood to dowse the eternal flames that hold Hakkar's spirit. When all the flames go out, the avatar of Hakkar will enter our world.\n\nDefeat him, and place his essence within the egg of Hakkar.",
+  "files": [
+   "quests/3528-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "2b5c65a7c79c",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Yeh'kinya",
+  "quest": "The God Hakkar",
+  "en": "The essence of Hakkar has been collected! Even now the Egg stirs with life! Could the myths of Hakkar be true?\n\nThat must not be true, for it is then I fear what Hakkar may do if birthed again. I will keep this egg safe and be sure it does not fall into evil hands.\n\nYour labors with me are finished, Adventurer. You have touched a legend, and your actions may one day change the face of our world.",
+  "files": [
+   "quests/3528-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "1f536e4c6d89",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Watcher Biggs",
+  "quest": "The Lost Caravan",
+  "en": "I was stunned during the attack by the Lost Ones, but before my sight went black I spied one of our wagons being dragged to the Fallow Sanctuary, the lost one village to the north.\n\nA caravan chest with valuable reagents was in that wagon, reagents vital to the studies of the wizards of Nethergarde Keep. Find the chest and get those reagents, Adventurer. Get them and bring them to me.",
+  "files": [
+   "quests/1421-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "2c4c23532111",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Watcher Biggs",
+  "quest": "The Lost Caravan",
+  "en": "Ah, you found them! With these, the wizards in Nethergarde may continue their work. I do not know what it is that they do, but it is linked to the Dark Portal in the Blasted Lands, and is vital to the security of the Alliance.",
+  "files": [
+   "quests/1421-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "3e256b367f3d",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Lost Supplies",
+  "quest": "The Lost Supplies",
+  "en": "This barrel is small yet sturdy. Its seams are sealed with a yellow, pungent wax. Stamped on the bottom of the barrel are the words:\n\nQUARTERMASTER LUNGERTZ\n\nNETHERGARDE KEEP",
+  "files": [
+   "quests/1423-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "c2f627ed4099",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Quartermaster Lungertz",
+  "quest": "The Lost Supplies",
+  "en": "Ah, thank you Adventurer! So many supplies are lost from Darkshire to here. It's good to see that some are recovered.",
+  "files": [
+   "quests/1423-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "b5f74dea0f35",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Bengor",
+  "quest": "The Missing Orders",
+  "en": "Swamp tal... talk.. talker...",
+  "files": [
+   "quests/2622-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "ce550d9ebbfa",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Dispatch Commander Ruag",
+  "quest": "The Missing Orders",
+  "en": "The orders? What could you possibly want with the orders?\n\nWhat are you implying, Adventurer? Of course I relayed those orders! The soldiers I sent the orders with were ambushed and brutally beaten by murlocs. Only one survived, if you can call that surviving. He can hardly speak, cannot walk, and must be fed through a tube. If you want to know what happened to those orders, speak with Bengor. I'm sure he is around here somewhere... and, Adventurer, be mindful of what you stick your nose into - it may get bitten off.",
+  "files": [
+   "quests/2622-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "f210bedffd4e",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Marvon Rivetseeker",
+  "quest": "The Sunken Temple",
+  "en": "Yes, the Sunken Temple, I can say that I have seen it with my own eyes. Perhaps you'd like to hear more about it?\n\nYou look like the adventurous type -- I know things that may intrigue you...",
+  "files": [
+   "quests/3380-complete",
+   "quests/3445-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "b371af08933b",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Uzer'i",
+  "quest": "The Sunken Temple",
+  "en": "There are restless spirits in this world, Adventurer. There are spirits that have been tainted by their isolation, bound to an ancient evil...\n\nI have heard of a place that lies deep below the surface of the earth -- banished there by powers greater than I have ever seen.\n\nIf you wish to learn more of this place; the Sunken Temple, seek out a goblin named Marvon Rivetseeker. He has studied many ancient areas of the world, and was last known to have left his home in Ratchet to study the troll ruins in Tanaris.",
+  "files": [
+   "quests/3380-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "ad9555381db5",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Bengor",
+  "quest": "The Swamp Talker",
+  "en": "Orders were given by the dispatch commander. We took... took orders. On way to Blasted Lands, ambushed.\n\nMurlocs... Many murlocs... One named Swamp Talker. Took orders from my hands as spear thrust into my skull. East... cave....",
+  "files": [
+   "quests/2623-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "9df6a5f02ce2",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "The Swamp Talker",
+  "en": "It is worse than I imagined. Nineteen of my men could have been spared from the agony which they faced. If only I had not acted so irrationally.\n\nYou must help them, Adventurer! I am powerless to act.",
+  "files": [
+   "quests/2623-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "979cf8bd9cf3",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fel'zerul",
+  "quest": "The Temple of Atal'Hakkar",
+  "en": "I hereby destroy these instruments of evil! For the Horde!",
+  "files": [
+   "followup/1949-orc-male-shady"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "b711886d10d4",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fel'zerul",
+  "quest": "The Temple of Atal'Hakkar",
+  "en": "So he spoke of Jammal'an's prophecy?\n\nThe Atal'ai spiritual leader believes once Hakkar returns to Azeroth from the Nether, the god will grant the Atal'ai tribe immortality.\n\nFoolish trickery to bring about a premature doomsday if you ask me.\n\nBut you say the exile spoke of enchanted fetishes? This concerns me greatly. If these are in fact the key to the Atal'ai ritual which caused this mess, we must understand their intrinsic powers.\n\nVenture into the Temple, and seize the fetishes!",
+  "files": [
+   "quests/1445-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "213d3c9d1c9c",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fel'zerul",
+  "quest": "The Temple of Atal'Hakkar",
+  "en": "Brave Adventurer, you have proven yourself to be a great champion of the Horde.\n\nNow this collection of fetishes of Hakkar must be dealt with at once!",
+  "files": [
+   "quests/1445-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "ab2fd663a9fd",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Katar",
+  "quest": "Threat From the Sea",
+  "en": "Be silent a moment, adventurer. Even over the dull roar of the sea you can still hear those disgusting gurgles from the fish men.",
+  "files": [
+   "quests/1422-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "fff1c5ecad99",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Katar",
+  "quest": "Threat From the Sea",
+  "en": "I have no love for the sea, nor any creature I've seen come from its depths. It is a powerful but blind mistress; callous and brutal. It would bring me great pleasure to slay the fish men by the hundreds if it were within my power. But I garner some pleasure from watching their deaths at the hands of any who do the Horde's will.\n\nWhich brings us to you, adventurer. How many can you slay? Would you test yourself against their most powerful kind?",
+  "files": [
+   "quests/1426-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "79a402b8f509",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Katar",
+  "quest": "Threat From the Sea",
+  "en": "The sea seems vast and relentless, but you have stained her with the blood of her own spawn. The fish men know pain. Their stupidity will force them to refortify their ranks from the devastation you've caused, and that is good.\n\nLet their gurgling screams overshadow the sea's roar long into the night. I shall smile every time I hear one of them silenced.\n\nReturn to me if you wish to slay more of the fish men. I will gladly reward you again.",
+  "files": [
+   "quests/1426-complete"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "2a41ffe3c227",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Katar",
+  "quest": "Threat From the Sea",
+  "en": "Before you take rest, speak to Tok'Kar again. While you were gone I believe he finished a few weapons. For your help here, he would offer one of them to you. You would do well to test its strength against the fish men when you are ready... but only to please me further.",
+  "files": [
+   "quests/1427-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "933d2a4ff4ea",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Tok'Kar",
+  "quest": "Threat From the Sea",
+  "en": "While I begin work on your weapon, why don't you talk to Katar? He mentioned needing help with patrols along the beach, and I'd rather see you keep your wits and weapons prepared instead of getting drunk with some of the other louses I share this camp with.",
+  "files": [
+   "quests/1422-accept"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "42866c06a3dd",
+  "zone": "swamp-of-sorrows",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Tok'Kar",
+  "quest": "Threat From the Sea",
+  "en": "Ah, Adventurer, you've returned. Good. I've finished crafting more weapons for our fight against the murlocs. For bringing us the fresh sawtooth meat, and for bringing a small smile to Katar's face, I offer one of them to you.",
+  "files": [
+   "quests/1427-complete"
+  ],
+  "uiMap": 1435
+ }
+]

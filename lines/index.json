@@ -1,0 +1,1111 @@
+{
+ "units": [
+  {
+   "unit": "elwynn",
+   "name": "Elwynn Forest",
+   "kind": "quest",
+   "uiMap": 1429,
+   "clips": 143,
+   "chars": 32072,
+   "done": true
+  },
+  {
+   "unit": "dunmorogh",
+   "name": "Dun Morogh",
+   "kind": "quest",
+   "uiMap": 1426,
+   "clips": 170,
+   "chars": 48761,
+   "done": true
+  },
+  {
+   "unit": "teldrassil",
+   "name": "Teldrassil",
+   "kind": "quest",
+   "uiMap": 1438,
+   "clips": 126,
+   "chars": 37660,
+   "done": true
+  },
+  {
+   "unit": "durotar",
+   "name": "Durotar",
+   "kind": "quest",
+   "uiMap": 1411,
+   "clips": 120,
+   "chars": 33616,
+   "done": true
+  },
+  {
+   "unit": "mulgore",
+   "name": "Mulgore",
+   "kind": "quest",
+   "uiMap": 1412,
+   "clips": 99,
+   "chars": 28601,
+   "done": true
+  },
+  {
+   "unit": "tirisfal",
+   "name": "Tirisfal Glades",
+   "kind": "quest",
+   "uiMap": 1420,
+   "clips": 166,
+   "chars": 50273,
+   "done": true
+  },
+  {
+   "unit": "dunmorogh-gossip",
+   "name": "Dun Morogh (gossip)",
+   "kind": "gossip",
+   "uiMap": 1426,
+   "clips": 126,
+   "chars": 17456,
+   "done": false
+  },
+  {
+   "unit": "durotar-gossip",
+   "name": "Durotar (gossip)",
+   "kind": "gossip",
+   "uiMap": 1411,
+   "clips": 200,
+   "chars": 33891,
+   "done": false
+  },
+  {
+   "unit": "durotar-gossip-2",
+   "name": "Durotar (gossip, part 2)",
+   "kind": "gossip",
+   "uiMap": 1411,
+   "clips": 5,
+   "chars": 737,
+   "done": false
+  },
+  {
+   "unit": "elwynn-gossip",
+   "name": "Elwynn Forest (gossip)",
+   "kind": "gossip",
+   "uiMap": 1429,
+   "clips": 145,
+   "chars": 22142,
+   "done": false
+  },
+  {
+   "unit": "mulgore-gossip",
+   "name": "Mulgore (gossip)",
+   "kind": "gossip",
+   "uiMap": 1412,
+   "clips": 200,
+   "chars": 35856,
+   "done": false
+  },
+  {
+   "unit": "mulgore-gossip-2",
+   "name": "Mulgore (gossip, part 2)",
+   "kind": "gossip",
+   "uiMap": 1412,
+   "clips": 26,
+   "chars": 3591,
+   "done": false
+  },
+  {
+   "unit": "teldrassil-gossip",
+   "name": "Teldrassil (gossip)",
+   "kind": "gossip",
+   "uiMap": 1438,
+   "clips": 107,
+   "chars": 14911,
+   "done": false
+  },
+  {
+   "unit": "tirisfal-gossip",
+   "name": "Tirisfal Glades (gossip)",
+   "kind": "gossip",
+   "uiMap": 1420,
+   "clips": 63,
+   "chars": 10524,
+   "done": false
+  },
+  {
+   "unit": "darnassus",
+   "name": "Darnassus (quests)",
+   "kind": "quest",
+   "uiMap": 1457,
+   "clips": 40,
+   "chars": 13233,
+   "done": false
+  },
+  {
+   "unit": "darnassus-gossip",
+   "name": "Darnassus (gossip)",
+   "kind": "gossip",
+   "uiMap": 1457,
+   "clips": 191,
+   "chars": 35680,
+   "done": false
+  },
+  {
+   "unit": "ironforge",
+   "name": "Ironforge (quests)",
+   "kind": "quest",
+   "uiMap": 1455,
+   "clips": 110,
+   "chars": 31888,
+   "done": false
+  },
+  {
+   "unit": "ironforge-gossip",
+   "name": "Ironforge (gossip)",
+   "kind": "gossip",
+   "uiMap": 1455,
+   "clips": 200,
+   "chars": 39407,
+   "done": false
+  },
+  {
+   "unit": "ironforge-gossip-2",
+   "name": "Ironforge (gossip, part 2)",
+   "kind": "gossip",
+   "uiMap": 1455,
+   "clips": 73,
+   "chars": 11358,
+   "done": false
+  },
+  {
+   "unit": "orgrimmar",
+   "name": "Orgrimmar (quests)",
+   "kind": "quest",
+   "uiMap": 1454,
+   "clips": 118,
+   "chars": 39762,
+   "done": false
+  },
+  {
+   "unit": "orgrimmar-gossip",
+   "name": "Orgrimmar (gossip)",
+   "kind": "gossip",
+   "uiMap": 1454,
+   "clips": 200,
+   "chars": 35768,
+   "done": false
+  },
+  {
+   "unit": "orgrimmar-gossip-2",
+   "name": "Orgrimmar (gossip, part 2)",
+   "kind": "gossip",
+   "uiMap": 1454,
+   "clips": 115,
+   "chars": 18995,
+   "done": false
+  },
+  {
+   "unit": "stormwind-city",
+   "name": "Stormwind City (quests)",
+   "kind": "quest",
+   "uiMap": 1453,
+   "clips": 187,
+   "chars": 60194,
+   "done": false
+  },
+  {
+   "unit": "stormwind-city-gossip",
+   "name": "Stormwind City (gossip)",
+   "kind": "gossip",
+   "uiMap": 1453,
+   "clips": 200,
+   "chars": 32127,
+   "done": false
+  },
+  {
+   "unit": "stormwind-city-gossip-2",
+   "name": "Stormwind City (gossip, part 2)",
+   "kind": "gossip",
+   "uiMap": 1453,
+   "clips": 77,
+   "chars": 12638,
+   "done": false
+  },
+  {
+   "unit": "thunder-bluff",
+   "name": "Thunder Bluff (quests)",
+   "kind": "quest",
+   "uiMap": 1456,
+   "clips": 66,
+   "chars": 22471,
+   "done": false
+  },
+  {
+   "unit": "thunder-bluff-gossip",
+   "name": "Thunder Bluff (gossip)",
+   "kind": "gossip",
+   "uiMap": 1456,
+   "clips": 200,
+   "chars": 34235,
+   "done": false
+  },
+  {
+   "unit": "thunder-bluff-gossip-2",
+   "name": "Thunder Bluff (gossip, part 2)",
+   "kind": "gossip",
+   "uiMap": 1456,
+   "clips": 4,
+   "chars": 396,
+   "done": false
+  },
+  {
+   "unit": "undercity",
+   "name": "Undercity (quests)",
+   "kind": "quest",
+   "uiMap": 1458,
+   "clips": 50,
+   "chars": 16320,
+   "done": false
+  },
+  {
+   "unit": "undercity-gossip",
+   "name": "Undercity (gossip)",
+   "kind": "gossip",
+   "uiMap": 1458,
+   "clips": 151,
+   "chars": 25878,
+   "done": false
+  },
+  {
+   "unit": "1459",
+   "name": "Other (quests)",
+   "kind": "quest",
+   "uiMap": 1459,
+   "clips": 113,
+   "chars": 27863,
+   "done": false
+  },
+  {
+   "unit": "1459-gossip",
+   "name": "Other (gossip)",
+   "kind": "gossip",
+   "uiMap": 1459,
+   "clips": 6,
+   "chars": 698,
+   "done": false
+  },
+  {
+   "unit": "1460",
+   "name": "Other (quests)",
+   "kind": "quest",
+   "uiMap": 1460,
+   "clips": 26,
+   "chars": 6296,
+   "done": false
+  },
+  {
+   "unit": "1461",
+   "name": "Other (quests)",
+   "kind": "quest",
+   "uiMap": 1461,
+   "clips": 32,
+   "chars": 10211,
+   "done": false
+  },
+  {
+   "unit": "alterac-mountains",
+   "name": "Alterac Mountains (quests)",
+   "kind": "quest",
+   "uiMap": 1416,
+   "clips": 34,
+   "chars": 8887,
+   "done": false
+  },
+  {
+   "unit": "alterac-mountains-gossip",
+   "name": "Alterac Mountains (gossip)",
+   "kind": "gossip",
+   "uiMap": 1416,
+   "clips": 59,
+   "chars": 10696,
+   "done": false
+  },
+  {
+   "unit": "arathi-highlands",
+   "name": "Arathi Highlands (quests)",
+   "kind": "quest",
+   "uiMap": 1417,
+   "clips": 101,
+   "chars": 25676,
+   "done": false
+  },
+  {
+   "unit": "arathi-highlands-gossip",
+   "name": "Arathi Highlands (gossip)",
+   "kind": "gossip",
+   "uiMap": 1417,
+   "clips": 18,
+   "chars": 2568,
+   "done": false
+  },
+  {
+   "unit": "ashenvale",
+   "name": "Ashenvale (quests)",
+   "kind": "quest",
+   "uiMap": 1440,
+   "clips": 161,
+   "chars": 48809,
+   "done": false
+  },
+  {
+   "unit": "ashenvale-gossip",
+   "name": "Ashenvale (gossip)",
+   "kind": "gossip",
+   "uiMap": 1440,
+   "clips": 11,
+   "chars": 2436,
+   "done": false
+  },
+  {
+   "unit": "azeroth-gossip",
+   "name": "Azeroth (gossip)",
+   "kind": "gossip",
+   "uiMap": 947,
+   "clips": 1,
+   "chars": 88,
+   "done": false
+  },
+  {
+   "unit": "azshara",
+   "name": "Azshara (quests)",
+   "kind": "quest",
+   "uiMap": 1447,
+   "clips": 46,
+   "chars": 14025,
+   "done": false
+  },
+  {
+   "unit": "azshara-gossip",
+   "name": "Azshara (gossip)",
+   "kind": "gossip",
+   "uiMap": 1447,
+   "clips": 22,
+   "chars": 5714,
+   "done": false
+  },
+  {
+   "unit": "badlands",
+   "name": "Badlands (quests)",
+   "kind": "quest",
+   "uiMap": 1418,
+   "clips": 158,
+   "chars": 44923,
+   "done": false
+  },
+  {
+   "unit": "badlands-gossip",
+   "name": "Badlands (gossip)",
+   "kind": "gossip",
+   "uiMap": 1418,
+   "clips": 13,
+   "chars": 2850,
+   "done": false
+  },
+  {
+   "unit": "blasted-lands",
+   "name": "Blasted Lands (quests)",
+   "kind": "quest",
+   "uiMap": 1419,
+   "clips": 43,
+   "chars": 10803,
+   "done": false
+  },
+  {
+   "unit": "blasted-lands-gossip",
+   "name": "Blasted Lands (gossip)",
+   "kind": "gossip",
+   "uiMap": 1419,
+   "clips": 1,
+   "chars": 49,
+   "done": false
+  },
+  {
+   "unit": "burning-steppes",
+   "name": "Burning Steppes (quests)",
+   "kind": "quest",
+   "uiMap": 1428,
+   "clips": 31,
+   "chars": 9083,
+   "done": false
+  },
+  {
+   "unit": "burning-steppes-gossip",
+   "name": "Burning Steppes (gossip)",
+   "kind": "gossip",
+   "uiMap": 1428,
+   "clips": 16,
+   "chars": 2175,
+   "done": false
+  },
+  {
+   "unit": "darkshore",
+   "name": "Darkshore (quests)",
+   "kind": "quest",
+   "uiMap": 1439,
+   "clips": 180,
+   "chars": 53820,
+   "done": false
+  },
+  {
+   "unit": "deadwind-pass-gossip",
+   "name": "Deadwind Pass (gossip)",
+   "kind": "gossip",
+   "uiMap": 1430,
+   "clips": 17,
+   "chars": 2317,
+   "done": false
+  },
+  {
+   "unit": "desolace",
+   "name": "Desolace (quests)",
+   "kind": "quest",
+   "uiMap": 1443,
+   "clips": 107,
+   "chars": 34181,
+   "done": false
+  },
+  {
+   "unit": "desolace-gossip",
+   "name": "Desolace (gossip)",
+   "kind": "gossip",
+   "uiMap": 1443,
+   "clips": 41,
+   "chars": 7124,
+   "done": false
+  },
+  {
+   "unit": "duskwood",
+   "name": "Duskwood (quests)",
+   "kind": "quest",
+   "uiMap": 1431,
+   "clips": 159,
+   "chars": 38141,
+   "done": false
+  },
+  {
+   "unit": "duskwood-gossip",
+   "name": "Duskwood (gossip)",
+   "kind": "gossip",
+   "uiMap": 1431,
+   "clips": 5,
+   "chars": 665,
+   "done": false
+  },
+  {
+   "unit": "dustwallow-marsh",
+   "name": "Dustwallow Marsh (quests)",
+   "kind": "quest",
+   "uiMap": 1445,
+   "clips": 92,
+   "chars": 22913,
+   "done": false
+  },
+  {
+   "unit": "dustwallow-marsh-gossip",
+   "name": "Dustwallow Marsh (gossip)",
+   "kind": "gossip",
+   "uiMap": 1445,
+   "clips": 19,
+   "chars": 3216,
+   "done": false
+  },
+  {
+   "unit": "eastern-plaguelands",
+   "name": "Eastern Plaguelands (quests)",
+   "kind": "quest",
+   "uiMap": 1423,
+   "clips": 200,
+   "chars": 44968,
+   "done": false
+  },
+  {
+   "unit": "eastern-plaguelands-2",
+   "name": "Eastern Plaguelands (quests, part 2)",
+   "kind": "quest",
+   "uiMap": 1423,
+   "clips": 111,
+   "chars": 28578,
+   "done": false
+  },
+  {
+   "unit": "eastern-plaguelands-gossip",
+   "name": "Eastern Plaguelands (gossip)",
+   "kind": "gossip",
+   "uiMap": 1423,
+   "clips": 86,
+   "chars": 18525,
+   "done": false
+  },
+  {
+   "unit": "felwood",
+   "name": "Felwood (quests)",
+   "kind": "quest",
+   "uiMap": 1448,
+   "clips": 76,
+   "chars": 22480,
+   "done": false
+  },
+  {
+   "unit": "felwood-gossip",
+   "name": "Felwood (gossip)",
+   "kind": "gossip",
+   "uiMap": 1448,
+   "clips": 57,
+   "chars": 10788,
+   "done": false
+  },
+  {
+   "unit": "feralas",
+   "name": "Feralas (quests)",
+   "kind": "quest",
+   "uiMap": 1444,
+   "clips": 200,
+   "chars": 65288,
+   "done": false
+  },
+  {
+   "unit": "feralas-2",
+   "name": "Feralas (quests, part 2)",
+   "kind": "quest",
+   "uiMap": 1444,
+   "clips": 11,
+   "chars": 4092,
+   "done": false
+  },
+  {
+   "unit": "feralas-gossip",
+   "name": "Feralas (gossip)",
+   "kind": "gossip",
+   "uiMap": 1444,
+   "clips": 31,
+   "chars": 4798,
+   "done": false
+  },
+  {
+   "unit": "hillsbrad-foothills",
+   "name": "Hillsbrad Foothills (quests)",
+   "kind": "quest",
+   "uiMap": 1424,
+   "clips": 104,
+   "chars": 30269,
+   "done": false
+  },
+  {
+   "unit": "hillsbrad-foothills-gossip",
+   "name": "Hillsbrad Foothills (gossip)",
+   "kind": "gossip",
+   "uiMap": 1424,
+   "clips": 49,
+   "chars": 12165,
+   "done": false
+  },
+  {
+   "unit": "loch-modan",
+   "name": "Loch Modan (quests)",
+   "kind": "quest",
+   "uiMap": 1432,
+   "clips": 93,
+   "chars": 27451,
+   "done": false
+  },
+  {
+   "unit": "loch-modan-gossip",
+   "name": "Loch Modan (gossip)",
+   "kind": "gossip",
+   "uiMap": 1432,
+   "clips": 21,
+   "chars": 3036,
+   "done": false
+  },
+  {
+   "unit": "moonglade",
+   "name": "Moonglade (quests)",
+   "kind": "quest",
+   "uiMap": 1450,
+   "clips": 10,
+   "chars": 4250,
+   "done": false
+  },
+  {
+   "unit": "moonglade-gossip",
+   "name": "Moonglade (gossip)",
+   "kind": "gossip",
+   "uiMap": 1450,
+   "clips": 26,
+   "chars": 6218,
+   "done": false
+  },
+  {
+   "unit": "redridge-mountains",
+   "name": "Redridge Mountains (quests)",
+   "kind": "quest",
+   "uiMap": 1433,
+   "clips": 81,
+   "chars": 22470,
+   "done": false
+  },
+  {
+   "unit": "redridge-mountains-gossip",
+   "name": "Redridge Mountains (gossip)",
+   "kind": "gossip",
+   "uiMap": 1433,
+   "clips": 16,
+   "chars": 1800,
+   "done": false
+  },
+  {
+   "unit": "riverglades",
+   "name": "Riverglades (quests)",
+   "kind": "quest",
+   "uiMap": 2548,
+   "clips": 2,
+   "chars": 764,
+   "done": false
+  },
+  {
+   "unit": "searing-gorge",
+   "name": "Searing Gorge (quests)",
+   "kind": "quest",
+   "uiMap": 1427,
+   "clips": 200,
+   "chars": 55866,
+   "done": false
+  },
+  {
+   "unit": "searing-gorge-2",
+   "name": "Searing Gorge (quests, part 2)",
+   "kind": "quest",
+   "uiMap": 1427,
+   "clips": 26,
+   "chars": 5616,
+   "done": false
+  },
+  {
+   "unit": "searing-gorge-gossip",
+   "name": "Searing Gorge (gossip)",
+   "kind": "gossip",
+   "uiMap": 1427,
+   "clips": 60,
+   "chars": 13012,
+   "done": false
+  },
+  {
+   "unit": "silithus",
+   "name": "Silithus (quests)",
+   "kind": "quest",
+   "uiMap": 1451,
+   "clips": 200,
+   "chars": 50552,
+   "done": false
+  },
+  {
+   "unit": "silithus-2",
+   "name": "Silithus (quests, part 2)",
+   "kind": "quest",
+   "uiMap": 1451,
+   "clips": 13,
+   "chars": 3822,
+   "done": false
+  },
+  {
+   "unit": "silithus-gossip",
+   "name": "Silithus (gossip)",
+   "kind": "gossip",
+   "uiMap": 1451,
+   "clips": 85,
+   "chars": 14947,
+   "done": false
+  },
+  {
+   "unit": "silverpine-forest",
+   "name": "Silverpine Forest (quests)",
+   "kind": "quest",
+   "uiMap": 1421,
+   "clips": 102,
+   "chars": 28868,
+   "done": false
+  },
+  {
+   "unit": "silverpine-forest-gossip",
+   "name": "Silverpine Forest (gossip)",
+   "kind": "gossip",
+   "uiMap": 1421,
+   "clips": 14,
+   "chars": 2186,
+   "done": false
+  },
+  {
+   "unit": "stonetalon-mountains",
+   "name": "Stonetalon Mountains (quests)",
+   "kind": "quest",
+   "uiMap": 1442,
+   "clips": 97,
+   "chars": 28171,
+   "done": false
+  },
+  {
+   "unit": "stonetalon-mountains-gossip",
+   "name": "Stonetalon Mountains (gossip)",
+   "kind": "gossip",
+   "uiMap": 1442,
+   "clips": 30,
+   "chars": 3751,
+   "done": false
+  },
+  {
+   "unit": "stranglethorn-vale",
+   "name": "Stranglethorn Vale (quests)",
+   "kind": "quest",
+   "uiMap": 1434,
+   "clips": 200,
+   "chars": 56932,
+   "done": false
+  },
+  {
+   "unit": "stranglethorn-vale-2",
+   "name": "Stranglethorn Vale (quests, part 2)",
+   "kind": "quest",
+   "uiMap": 1434,
+   "clips": 104,
+   "chars": 25679,
+   "done": false
+  },
+  {
+   "unit": "stranglethorn-vale-gossip",
+   "name": "Stranglethorn Vale (gossip)",
+   "kind": "gossip",
+   "uiMap": 1434,
+   "clips": 103,
+   "chars": 21171,
+   "done": false
+  },
+  {
+   "unit": "swamp-of-sorrows",
+   "name": "Swamp of Sorrows (quests)",
+   "kind": "quest",
+   "uiMap": 1435,
+   "clips": 57,
+   "chars": 17845,
+   "done": false
+  },
+  {
+   "unit": "swamp-of-sorrows-gossip",
+   "name": "Swamp of Sorrows (gossip)",
+   "kind": "gossip",
+   "uiMap": 1435,
+   "clips": 17,
+   "chars": 5060,
+   "done": false
+  },
+  {
+   "unit": "tanaris",
+   "name": "Tanaris (quests)",
+   "kind": "quest",
+   "uiMap": 1446,
+   "clips": 153,
+   "chars": 49559,
+   "done": false
+  },
+  {
+   "unit": "tanaris-gossip",
+   "name": "Tanaris (gossip)",
+   "kind": "gossip",
+   "uiMap": 1446,
+   "clips": 39,
+   "chars": 6052,
+   "done": false
+  },
+  {
+   "unit": "the-barrens",
+   "name": "The Barrens (quests)",
+   "kind": "quest",
+   "uiMap": 1413,
+   "clips": 200,
+   "chars": 58290,
+   "done": false
+  },
+  {
+   "unit": "the-barrens-2",
+   "name": "The Barrens (quests, part 2)",
+   "kind": "quest",
+   "uiMap": 1413,
+   "clips": 79,
+   "chars": 22983,
+   "done": false
+  },
+  {
+   "unit": "the-hinterlands",
+   "name": "The Hinterlands (quests)",
+   "kind": "quest",
+   "uiMap": 1425,
+   "clips": 92,
+   "chars": 22412,
+   "done": false
+  },
+  {
+   "unit": "the-hinterlands-gossip",
+   "name": "The Hinterlands (gossip)",
+   "kind": "gossip",
+   "uiMap": 1425,
+   "clips": 52,
+   "chars": 8675,
+   "done": false
+  },
+  {
+   "unit": "thousand-needles",
+   "name": "Thousand Needles (quests)",
+   "kind": "quest",
+   "uiMap": 1441,
+   "clips": 147,
+   "chars": 38515,
+   "done": false
+  },
+  {
+   "unit": "thousand-needles-gossip",
+   "name": "Thousand Needles (gossip)",
+   "kind": "gossip",
+   "uiMap": 1441,
+   "clips": 49,
+   "chars": 5218,
+   "done": false
+  },
+  {
+   "unit": "un-goro-crater",
+   "name": "Un'Goro Crater (quests)",
+   "kind": "quest",
+   "uiMap": 1449,
+   "clips": 102,
+   "chars": 25605,
+   "done": false
+  },
+  {
+   "unit": "un-goro-crater-gossip",
+   "name": "Un'Goro Crater (gossip)",
+   "kind": "gossip",
+   "uiMap": 1449,
+   "clips": 31,
+   "chars": 7461,
+   "done": false
+  },
+  {
+   "unit": "western-plaguelands",
+   "name": "Western Plaguelands (quests)",
+   "kind": "quest",
+   "uiMap": 1422,
+   "clips": 193,
+   "chars": 69805,
+   "done": false
+  },
+  {
+   "unit": "western-plaguelands-gossip",
+   "name": "Western Plaguelands (gossip)",
+   "kind": "gossip",
+   "uiMap": 1422,
+   "clips": 104,
+   "chars": 20236,
+   "done": false
+  },
+  {
+   "unit": "westfall",
+   "name": "Westfall (quests)",
+   "kind": "quest",
+   "uiMap": 1436,
+   "clips": 107,
+   "chars": 23708,
+   "done": false
+  },
+  {
+   "unit": "westfall-gossip",
+   "name": "Westfall (gossip)",
+   "kind": "gossip",
+   "uiMap": 1436,
+   "clips": 9,
+   "chars": 1209,
+   "done": false
+  },
+  {
+   "unit": "wetlands",
+   "name": "Wetlands (quests)",
+   "kind": "quest",
+   "uiMap": 1437,
+   "clips": 106,
+   "chars": 35006,
+   "done": false
+  },
+  {
+   "unit": "wetlands-gossip",
+   "name": "Wetlands (gossip)",
+   "kind": "gossip",
+   "uiMap": 1437,
+   "clips": 11,
+   "chars": 1897,
+   "done": false
+  },
+  {
+   "unit": "winterspring",
+   "name": "Winterspring (quests)",
+   "kind": "quest",
+   "uiMap": 1452,
+   "clips": 100,
+   "chars": 29762,
+   "done": false
+  },
+  {
+   "unit": "winterspring-gossip",
+   "name": "Winterspring (gossip)",
+   "kind": "gossip",
+   "uiMap": 1452,
+   "clips": 77,
+   "chars": 17388,
+   "done": false
+  },
+  {
+   "unit": "zephras-isle",
+   "name": "Zephras Isle (quests)",
+   "kind": "quest",
+   "uiMap": 2521,
+   "clips": 200,
+   "chars": 69118,
+   "done": false
+  },
+  {
+   "unit": "zephras-isle-2",
+   "name": "Zephras Isle (quests, part 2)",
+   "kind": "quest",
+   "uiMap": 2521,
+   "clips": 10,
+   "chars": 4261,
+   "done": false
+  },
+  {
+   "unit": "other-gossip",
+   "name": "Other (gossip)",
+   "kind": "gossip",
+   "uiMap": null,
+   "clips": 200,
+   "chars": 37127,
+   "done": false
+  },
+  {
+   "unit": "other-gossip-2",
+   "name": "Other (gossip, part 2)",
+   "kind": "gossip",
+   "uiMap": null,
+   "clips": 200,
+   "chars": 37249,
+   "done": false
+  },
+  {
+   "unit": "other-gossip-3",
+   "name": "Other (gossip, part 3)",
+   "kind": "gossip",
+   "uiMap": null,
+   "clips": 200,
+   "chars": 37297,
+   "done": false
+  },
+  {
+   "unit": "other-gossip-4",
+   "name": "Other (gossip, part 4)",
+   "kind": "gossip",
+   "uiMap": null,
+   "clips": 37,
+   "chars": 6290,
+   "done": false
+  },
+  {
+   "unit": "other-quests",
+   "name": "Other (quests)",
+   "kind": "quest",
+   "uiMap": null,
+   "clips": 200,
+   "chars": 61116,
+   "done": false
+  },
+  {
+   "unit": "other-quests-10",
+   "name": "Other (quests, part 10)",
+   "kind": "quest",
+   "uiMap": null,
+   "clips": 156,
+   "chars": 45516,
+   "done": false
+  },
+  {
+   "unit": "other-quests-2",
+   "name": "Other (quests, part 2)",
+   "kind": "quest",
+   "uiMap": null,
+   "clips": 200,
+   "chars": 79260,
+   "done": false
+  },
+  {
+   "unit": "other-quests-3",
+   "name": "Other (quests, part 3)",
+   "kind": "quest",
+   "uiMap": null,
+   "clips": 200,
+   "chars": 61950,
+   "done": false
+  },
+  {
+   "unit": "other-quests-4",
+   "name": "Other (quests, part 4)",
+   "kind": "quest",
+   "uiMap": null,
+   "clips": 200,
+   "chars": 59746,
+   "done": false
+  },
+  {
+   "unit": "other-quests-5",
+   "name": "Other (quests, part 5)",
+   "kind": "quest",
+   "uiMap": null,
+   "clips": 200,
+   "chars": 57314,
+   "done": false
+  },
+  {
+   "unit": "other-quests-6",
+   "name": "Other (quests, part 6)",
+   "kind": "quest",
+   "uiMap": null,
+   "clips": 200,
+   "chars": 58945,
+   "done": false
+  },
+  {
+   "unit": "other-quests-7",
+   "name": "Other (quests, part 7)",
+   "kind": "quest",
+   "uiMap": null,
+   "clips": 200,
+   "chars": 54128,
+   "done": false
+  },
+  {
+   "unit": "other-quests-8",
+   "name": "Other (quests, part 8)",
+   "kind": "quest",
+   "uiMap": null,
+   "clips": 200,
+   "chars": 68018,
+   "done": false
+  },
+  {
+   "unit": "other-quests-9",
+   "name": "Other (quests, part 9)",
+   "kind": "quest",
+   "uiMap": null,
+   "clips": 200,
+   "chars": 61672,
+   "done": false
+  }
+ ]
+}

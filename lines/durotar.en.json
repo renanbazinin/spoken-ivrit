@@ -1,0 +1,1445 @@
+[
+ {
+  "id": "7ab00623c46c",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgnil Soulscar",
+  "quest": "A Missing Hand",
+  "en": "A member of the Shattered Hand, a group of more... subtle fighters, was watching Tiragarde Keep from a distance. Her reports suddenly stopped coming in.\n\nI doubt the humans would have caught her, so I'm concerned something more dangerous is at play. See if you can find her. Hopefully the messages are just delayed.",
+  "files": [
+   "quests/99048-accept"
+  ]
+ },
+ {
+  "id": "d29fc847e85f",
+  "zone": "durotar",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Heglan Shadeeye",
+  "quest": "A Missing Hand",
+  "en": "Heglan's body lies cold within the wreckage of the hut.\n\nWhatever killed her doesn't seem to be human. There may be signs of what happened nearby.",
+  "files": [
+   "quests/99048-complete"
+  ]
+ },
+ {
+  "id": "98fa039dbbda",
+  "zone": "durotar",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Pa'zula",
+  "quest": "A Pain in the Neck",
+  "en": "The trolls east of here have lost their will to the witchdoctor, Zalazane. He uses many cruel magics to keep hold of his prisoners' minds, but one of his favorite tricks is to make them wear pendants wrapped in evil binding spells.\n\nPractice your enchanting skills by stripping the magic from these pendants, and bring me the results. And don't accidentally put one around your neck, if you value your freedom!",
+  "files": [
+   "quests/96873-accept"
+  ]
+ },
+ {
+  "id": "25b1aa8e2f47",
+  "zone": "durotar",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Pa'zula",
+  "quest": "A Pain in the Neck",
+  "en": "Fine work. A shame about the slain trolls, but with the binding spells removed, their spirits can rest.",
+  "files": [
+   "quests/96873-complete"
+  ]
+ },
+ {
+  "id": "2c9820ec0178",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ukor",
+  "quest": "A Peon's Burden",
+  "en": "Excuse me? Can you help me?\n\nI have a load of food here. I walked along the road and braved scorpids and spiders and worse! I brought the food to the Valley of Trials because I thought they needed it and I like to help out. But they don't need any food! Now I have to take it back to Razor Hill and I'm afraid of all the beasts along the way...\n\nCan you take it for me? I'm just a peon, but you're a hero. You fear nothing!\n\nTake it to Innkeeper Grosk at the Razor Hill inn. Thank you!",
+  "files": [
+   "quests/2161-accept"
+  ]
+ },
+ {
+  "id": "b0593c6be33f",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Grosk",
+  "quest": "A Peon's Burden",
+  "en": "Ah, this is the food Ukor brought to the Valley of Trials. Did they not need it? Well, I guess they like to starve you heroes in training. Builds spirit, they say!\n\nThank you for returning the food. I'll stick it back on the shelves... but here, let me offer you some refreshment first!\n\nAnd don't forget to rest here in the inn. You may be a brave adventurer ready to take on the world, but if your energy is sapped you won't be doing yourself, or the Horde, much good.",
+  "files": [
+   "quests/2161-complete"
+  ]
+ },
+ {
+  "id": "c5cf6da30f60",
+  "zone": "durotar",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Rezlak",
+  "quest": "A Simmering Storm",
+  "en": "Woah, where did you find a neat thing like that? Ya know it reminds me of the other thing my boss Gazlowe always used to tell me...",
+  "files": [
+   "quests/97281-complete"
+  ]
+ },
+ {
+  "id": "b9ecf50ef7c9",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Master Vornal",
+  "quest": "A Solvent Spirit",
+  "en": "Although my eyes fail me, I still can see clearly enough. More often I must rely on my alchemical skills to aid me in magics that once came easily. But I refuse to take on an apprentice--no troll or orc worthy enough has ever come forward.\n\nAre you worthy? Yes, of course you are... of course you think you are.\n\nI need a few things. Will you get them for me?\n\nI need intact makrura eyes, and vials of crawler mucus. You can find them on any makrura or crawler in Durotar. We shall speak again soon.",
+  "files": [
+   "quests/818-accept"
+  ]
+ },
+ {
+  "id": "4470781eb929",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Master Vornal",
+  "quest": "A Solvent Spirit",
+  "en": "Well done, young one... well done indeed.",
+  "files": [
+   "quests/818-complete"
+  ]
+ },
+ {
+  "id": "6a991ef4f002",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Neeru Fireblade",
+  "quest": "Ak'Zeloth",
+  "en": "Since the last great war when the Burning Legion was defeated, I have searched for sources of demonic corruption in orc society. The collar you brought me confirms my fears.\n\nIt belongs to the Burning Blade, a cult that rallies around an item of demonic power. It is called the Demon Seed, and it resides in the Barrens atop Dreadmist Peak. It must be destroyed!\n\nGo to Far Watch Post, on the border of the Barrens to the west, and speak with my assistant, Ak'Zeloth. He will direct you further.",
+  "files": [
+   "quests/809-accept"
+  ]
+ },
+ {
+  "id": "854d9c3c9569",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ak'Zeloth",
+  "quest": "Ak'Zeloth",
+  "en": "Neeru wants the Demon Seed destroyed, does he? Strange...\n\nVery well. If he wishes the seed gone, then I will tell you how to remove it.",
+  "files": [
+   "quests/809-complete"
+  ]
+ },
+ {
+  "id": "35e91ad0f812",
+  "zone": "durotar",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Kamari",
+  "quest": "Beasts of Thunder Ridge",
+  "en": "Orgrimmar is always expanding, adventurer. And when the peons need hides to line the walls and roofs of our new buildings, they come to me!\n\nThe hides of the lizards in Thunder Ridge are typically too thick for armor, but they make excellent building material. Bring me some of their hides, along with a few lighter cured hides. Let's see your skill with leather!",
+  "files": [
+   "quests/96875-accept"
+  ]
+ },
+ {
+  "id": "dea865a97653",
+  "zone": "durotar",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Kamari",
+  "quest": "Beasts of Thunder Ridge",
+  "en": "Your work helps Orgrimmar grow. Know that as you walk the city's paths.",
+  "files": [
+   "quests/96875-complete"
+  ]
+ },
+ {
+  "id": "190c0f829257",
+  "zone": "durotar",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Xar'Ti",
+  "quest": "Bloodtalon Matriarch",
+  "en": "All of the raptors you see before you are ones I have trained myself. They come from all over Kalimdor, but some of the finest come from the Bloodtalon raptors on the isles off our coast.\n\nOne raptor amongst them, the Bloodtalon Matriarch, is particularly savage and has killed many from our village and has become too dangerous to leave at our borders. If you can strike her down, return with her eggs so that we can raise the hatchlings as allies instead of enemies.",
+  "files": [
+   "quests/97223-accept"
+  ]
+ },
+ {
+  "id": "fde7e99a2d7d",
+  "zone": "durotar",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Xar'Ti",
+  "quest": "Bloodtalon Matriarch",
+  "en": "Thank you, Adventurer. I am happy we will be able to preserve her bloodline and raise them to be our allies. You have done a great service for our tribe.",
+  "files": [
+   "quests/97223-complete"
+  ]
+ },
+ {
+  "id": "ffe8b16e5a4b",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Cook Torka",
+  "quest": "Break a Few Eggs",
+  "en": "Bah! I almost forgot I need to get breakfast ready.\n\nAdventurer, get yourself movin' and get me some taillasher eggs. I'll need at least three of them if I'm going to have enough for tomorrow's meal.\n\nThe Bloodtalon taillashers can be fierce, and protect their eggs to the death more often than not. They sometimes bury their eggs too deep in the earth to uncover safely, but if you head to the Echo Isles to the southeast of Sen'jin Village, you can usually find them all over those islands.",
+  "files": [
+   "quests/815-accept"
+  ]
+ },
+ {
+  "id": "7475aa3ba07a",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Cook Torka",
+  "quest": "Break a Few Eggs",
+  "en": "You might be weak, but at least you're not clumsy, Adventurer.\n\nHere, take this and get outta my way. I've got cooking to do.",
+  "files": [
+   "quests/815-complete"
+  ]
+ },
+ {
+  "id": "decdf4f58972",
+  "zone": "durotar",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Zureetha Fargaze",
+  "quest": "Burning Blade Medallion",
+  "en": "Through my divinations, I see that an item of power hides deep within the Burning Blade Coven, guarded by beasts and black magic.\n\nIt is called the Burning Blade Medallion, and your next task is to find it and remove it from the coven.\n\nBut be wary, for the medallion may be possessed by an agent of the Burning Blade, and if so then the agent's power would be greater than the familiars you have already encountered.\n\nGo, Adventurer. You will find the coven in a cave, to the north and west.",
+  "files": [
+   "quests/794-accept"
+  ]
+ },
+ {
+  "id": "5bfc81ffbc50",
+  "zone": "durotar",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Zureetha Fargaze",
+  "quest": "Burning Blade Medallion",
+  "en": "You retrieved it! Well done!\n\nYour efforts within the Burning Blade Coven are key in rooting out this cult in the Valley of Trials. But I fear they have further aims in our land.\n\nWe have not seen the end of them.",
+  "files": [
+   "quests/794-complete"
+  ]
+ },
+ {
+  "id": "4f71812cf2ca",
+  "zone": "durotar",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Eye of Burning Shadow",
+  "quest": "Burning Shadows",
+  "en": "Gazz'uz?\n\nGazz'uz...report!\n\nThere is word of your discovery in Skull Rock. You must prepare for an attack!\n\nGazz'uz, I order you to speak! Speak or I will make sure Neeru Fireblade knows of your presence, and he will descend on you with swift brutality.\n\nDo not test your skills against Neeru...\n\n...Gazz'uz, are you there...?",
+  "files": [
+   "quests/832-accept"
+  ]
+ },
+ {
+  "id": "031afe16ec1d",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Neeru Fireblade",
+  "quest": "Burning Shadows",
+  "en": "Intriguing. The voice you heard mentioned my name? I am known for hunting down enemies of our Warchief, but...it is strange that I was singled out. Stranger still that the Burning Blade cultists from whom you recovered this pendant have a name so close to my own.\n\nI must study this pendant. I must study and, and must ponder the meaning of its message.\n\nThank you for bringing this to my attention, Adventurer. You have done your people a great service.",
+  "files": [
+   "quests/832-complete"
+  ]
+ },
+ {
+  "id": "2aba5e60c3c1",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Furl Scornbrow",
+  "quest": "Carry Your Weight",
+  "en": "Age has rendered me useless in battle. Now I make myself useful in other ways.\n\nFrom this vantage point I watch for invaders. As our strength here grows, I find myself blowing the signal horn less and less.\n\nTo pass the time I fashion goods to help younger, more able warriors defend our homeland.\n\nFor you, I can fashion you a bag for your belongings. If such an item would be of use to you, bring me some canvas, a material common to the humans and centaurs.",
+  "files": [
+   "quests/791-accept"
+  ]
+ },
+ {
+  "id": "9b7d3f2bfc96",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Furl Scornbrow",
+  "quest": "Carry Your Weight",
+  "en": "Most excellent, adventurer. Any good adventurer will surely find a use for this bag on the battlefield.\n\nI salute your vigor and willingness to die in the name of the Horde!",
+  "files": [
+   "quests/791-complete"
+  ]
+ },
+ {
+  "id": "114faff90e90",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Takrin Pathseeker",
+  "quest": "Conscript of the Horde",
+  "en": "Hmm, you look pretty strong.\n\nListen, my good friend Kargal needs some new recruits for Barrens duty. I know you want to do what's right for the Horde. Well, this is your chance.\n\nTake this recruitment letter to Kargal and see if he'll sign it.",
+  "files": [
+   "quests/840-accept"
+  ]
+ },
+ {
+  "id": "4da20b7e4056",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kargal Battlescar",
+  "quest": "Conscript of the Horde",
+  "en": "Oh, so Takrin sent you? He's an excellent scout, I'm not sure what I'd do without him.\n\nI'll sign your recruitment letter, but what we really need is someone at the Crossroads.",
+  "files": [
+   "quests/840-complete"
+  ]
+ },
+ {
+  "id": "1b598ca43f88",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gornek",
+  "quest": "Cutting Teeth",
+  "en": "The first order of business will be to put a little strength in your backbone. I could send you out to the Barrens to hunt kodo, but well, in all honesty, you're more useful to us alive than dead.\n\nI believe you would find a good match with the mottled boars you'll find to the north of here.",
+  "files": [
+   "quests/788-accept"
+  ]
+ },
+ {
+  "id": "53b2c1680c7a",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gornek",
+  "quest": "Cutting Teeth",
+  "en": "Hmmm, not bad, adventurer. But don't let it get to your head...you'll fight tougher than boars in your career.\n\nNonetheless, you've proven yourself well, and your next trial will be against a considerably more dangerous opponent, so you'll need some extra protection.",
+  "files": [
+   "quests/788-complete"
+  ]
+ },
+ {
+  "id": "d668f329ee68",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgnil Soulscar",
+  "quest": "Dark Storms",
+  "en": "We will suffer no demon's servant in our lands!",
+  "files": [
+   "followup/985-orc-male-shady"
+  ]
+ },
+ {
+  "id": "1a82b7b3ed71",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgnil Soulscar",
+  "quest": "Dark Storms",
+  "en": "We cannot allow the Burning Blade a foothold in Durotar! We must destroy them before their evil festers!\n\nI have undergone my own investigations and found that a Burning Blade warlock, the goblin Fizzle Darkstorm, has camped within Thunder Ridge to the northwest. There he and his cultist minions spread chaos.\n\nFind and defeat Fizzle, and bring me his dead claw!",
+  "files": [
+   "quests/806-accept"
+  ]
+ },
+ {
+  "id": "526bd29ca343",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgnil Soulscar",
+  "quest": "Dark Storms",
+  "en": "Aha! You got him!\n\nYou do your clan proud, Adventurer. And because of you, Durotar is free of one more agent of evil.",
+  "files": [
+   "quests/806-complete"
+  ]
+ },
+ {
+  "id": "05ac7ba650c5",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gar'Thok",
+  "quest": "Encroachment",
+  "en": "When we arrived, the Razormane quilboars possessed much of the land, and proved a thorn in our sides. Through our efforts we have driven out the largest part of their numbers, but still they remain well-fortified in some areas.\n\nIt has gone on long enough, however. For our own protection, we cannot allow the Razormane any hold in our lands. Their camps can be found to the west of here. Look for the brambles and you will find them. Today we drive them from Durotar, tomorrow, perhaps from all of Kalimdor.",
+  "files": [
+   "quests/837-accept"
+  ]
+ },
+ {
+  "id": "6500613c0901",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gar'Thok",
+  "quest": "Encroachment",
+  "en": "I will pass along word that the quilboars have been removed from their lairs, and that their structures may be set to fire. The removal of the Razormane from Durotar brings us closer to fully securing the borders of our new homeland.",
+  "files": [
+   "quests/837-complete"
+  ]
+ },
+ {
+  "id": "4c1a3d92093e",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Kor'ghan",
+  "quest": "Finding the Antidote",
+  "en": "Venomtails are some of the deadliest scorpids in Durotar. It was unwise for Rhinag to hunt them without having some of the antidote with him, but right now, chastising is the last thing he needs.\n\nBring me a few venomtail poison sacs from any of the venomtails near the entrance of Orgrimmar and I'll make an antidote for him.\n\nMake haste, Adventurer. One of our own needs your help.",
+  "files": [
+   "quests/813-accept"
+  ]
+ },
+ {
+  "id": "727f13274f5a",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Kor'ghan",
+  "quest": "Finding the Antidote",
+  "en": "Here is the antidote, Adventurer. Take it to Rhinag as soon as you can, and be cautious.",
+  "files": [
+   "quests/813-complete"
+  ]
+ },
+ {
+  "id": "35daa19cfe3a",
+  "zone": "durotar",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Flawed Power Stone",
+  "quest": "Flawed Power Stone",
+  "en": "These stones are infused with magical energy, but purposefully flawed. They are very unstable and once removed from the table they will consume themselves quickly.",
+  "files": [
+   "quests/926-complete",
+   "quests/926-complete",
+   "quests/926-complete"
+  ]
+ },
+ {
+  "id": "33465b05e9e3",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Turroc",
+  "quest": "For Honor",
+  "en": "We lost many brave warriors of the Horde when we sacked Tiragarde Keep. Now that the humans have reinforced the ruins, we cannot collect their remains to properly honor their deaths.\n\nGo to the ruins surrounding the keep, and search for the weapons left by our fallen kin. We will display them in a place of honor.",
+  "files": [
+   "quests/96822-accept"
+  ]
+ },
+ {
+  "id": "66c48a20e392",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Turroc",
+  "quest": "For Honor",
+  "en": "These warriors will always be remembered, Ulvarg. You have made sure of that.",
+  "files": [
+   "quests/96822-complete"
+  ]
+ },
+ {
+  "id": "13d65efb94c7",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Master Vornal",
+  "quest": "Forgotten Loa Idols",
+  "en": "When we fled the isles that Zalazane and his ilk now inhabit, we left behind many precious idols that help us commune with spirits we worship: our loa. They are of grave importance to our tribe.\n\nThe followers of Zalazane show no reverence for our loa and have scattered these idols across the largest of the isles.\n\nThis is an action that will not go unnoticed if we are not able to collect these idols, and offending a loa is a grave matter.\n\nGo, find as many loa idols as you can and return them to me.",
+  "files": [
+   "quests/97225-accept"
+  ]
+ },
+ {
+  "id": "c8361fdca851",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Master Gadrin",
+  "quest": "Forgotten Loa Idols",
+  "en": "You have done a great deed for our tribe today.\n\nUnlike some tribes, our kinship with our loa is one of reverence and respect, and we owe them much.\n\nI would not want the Darkspear to fall out of favor with them.",
+  "files": [
+   "quests/97225-complete"
+  ]
+ },
+ {
+  "id": "4e016f7c64d9",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gar'Thok",
+  "quest": "From The Wreckage....",
+  "en": "One of my most observant scouts brings back word that the wreckage of Proudmoore's fleet still remains off the coast of Durotar, just east of Tiragarde Keep.\n\nIt is no secret that the humans, in alliance with those foul little creatures known as gnomes, have an advanced knowledge of mechanics. We must have a complete understanding of all our potential enemies. And our people will benefit from this new knowledge as well.\n\nSwim through the wreckage, adventurer, and retrieve for me the tools of the Alliance.",
+  "files": [
+   "quests/825-accept"
+  ]
+ },
+ {
+  "id": "6ae8dc10b042",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gar'Thok",
+  "quest": "From The Wreckage....",
+  "en": "Your recovery mission was a success, adventurer. I will see to it that these tools get to Orgrimmar with the next caravan.\n\nNicely done.",
+  "files": [
+   "quests/825-complete"
+  ]
+ },
+ {
+  "id": "aec49e3d5085",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Galgar",
+  "quest": "Galgar's Cactus Apple Surprise",
+  "en": "It sure gets hot out here in the Valley of Trials.\n\n\nIf only I had some cactus apples, I could make my famous cactus apple surprise! Nothing cools you off faster than a piece of that delicious treat.\n\nI'll tell you what, Adventurer. If you bring me 10 cactus apples, I'll make you a few portions of cactus apple surprise to take with you on your adventures. If you're interested, you can find cactus apples growing near the cactus plants around here.",
+  "files": [
+   "quests/4402-accept"
+  ]
+ },
+ {
+  "id": "a76d4d9fbb2b",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Galgar",
+  "quest": "Galgar's Cactus Apple Surprise",
+  "en": "Wonderful, Adventurer! As promised, here is your cactus apple surprise plus a little something extra.",
+  "files": [
+   "quests/4402-complete"
+  ]
+ },
+ {
+  "id": "0bd090dafc65",
+  "zone": "durotar",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Kamari",
+  "quest": "Halikor's Hoof",
+  "en": "What a trophy, adventurer! That must have been some fight!",
+  "files": [
+   "quests/96877-complete"
+  ]
+ },
+ {
+  "id": "a3699cc171ef",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zjolnir",
+  "quest": "Ivory Raptor Replacement",
+  "en": "You bring me your old raptor, I give you new one with freshly sharpened claws! The new raptor will be just as fast as your old one, but with a new look to him. You can look at the swift raptors here to see what you will have to choose from.",
+  "files": [
+   "quests/7664-complete",
+   "quests/7665-complete"
+  ]
+ },
+ {
+  "id": "31cd05f59297",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Foreman Thazz'ril",
+  "quest": "Lazy Peons",
+  "en": "Cursed peons! They work hard gathering lumber from the trees of the valley, but they're always taking naps! I need someone to help keep the peons in line.\n\nYou look like the right traveler for my task. Here, you take this blackjack and use it on any lazy peons you find sleeping on the job. A good smack will get them right back to work! Return the blackjack when you're done.\n\nLousy slacking peons...",
+  "files": [
+   "quests/5441-accept"
+  ]
+ },
+ {
+  "id": "206470418f8b",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Foreman Thazz'ril",
+  "quest": "Lazy Peons",
+  "en": "Good, good. Maybe they'll think twice before slacking next time! Thanks for the help!",
+  "files": [
+   "quests/5441-complete"
+  ]
+ },
+ {
+  "id": "794af0801d07",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Vel'rin Fang",
+  "quest": "Legging It",
+  "en": "We see fewer and fewer travelers from Razor Hill these days. The scorpids were never much fun, but now I hear there are spiders making their nest along the road.\n\nIf your travels take you up north, kill some of the spiders on your way. Then, let Razor Hill know the path's a bit safer for them.",
+  "files": [
+   "quests/96821-accept"
+  ]
+ },
+ {
+  "id": "19a0f0125a15",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gar'Thok",
+  "quest": "Legging It",
+  "en": "The peons have been scared to travel south for some time, Adventurer. Now that you've cleared the path a bit, we can get them back to work.",
+  "files": [
+   "quests/96821-complete"
+  ]
+ },
+ {
+  "id": "46b378fd2a1a",
+  "zone": "durotar",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Misha Tor'kren",
+  "quest": "Lost But Not Forgotten",
+  "en": "Adventurer, please, can you help me? My son Kron went hunting days ago, and he still hasn't returned. He went west towards the Barrens to hunt crocolisks along Southfury River. I fear the worst.\n\nAs strong as he was, his stubborn pride has always drawn him into trouble. I warned him that the crocolisks were powerful and vicious. He grew angry and stormed off.\n\nIf you can't find him, at least bring me a sign of his fate... even if you have to open up the stomach of every crocolisk along the Southfury's banks.",
+  "files": [
+   "quests/816-accept"
+  ]
+ },
+ {
+  "id": "e7959e48f652",
+  "zone": "durotar",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Misha Tor'kren",
+  "quest": "Lost But Not Forgotten",
+  "en": "Oh, my son... my beautiful son.\n\nUncertain of my son's fate, I have tormented myself since he left. Now that I know what's happened, perhaps I can finally begin to mourn.\n\nThank you, Adventurer. Please take this. I was going to give it to Kron as a gift when he returned successful. Now that I know he is dead, I cannot bear to look at it.",
+  "files": [
+   "quests/816-complete"
+  ]
+ },
+ {
+  "id": "b8c87621cc61",
+  "zone": "durotar",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Pal'juh",
+  "quest": "Lost in the Shadows",
+  "en": "I decided to do a bit of scouting in the crag on my own. Unfortunately my magic ran out at the wrong time and I've been stuck hiding here since.\n\nIf you could help me escape, I would appreciate it.",
+  "files": [
+   "quests/99123-accept"
+  ]
+ },
+ {
+  "id": "a895b14fd89d",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Master Vornal",
+  "quest": "Lost in the Shadows",
+  "en": "Ah, Pal'juh got herself in trouble again, did she?\n\nHopefully she learns her lesson about going alone this time. Thank you for helping her. She's a promising hunter, just tends to act more like a raptor than a tiger.",
+  "files": [
+   "quests/99123-complete"
+  ]
+ },
+ {
+  "id": "0d8ebd1f3ff0",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgnil Soulscar",
+  "quest": "Margoz",
+  "en": "One of our Shamans, Margoz, knows more of the Burning Blade's corruption. He speaks of a cave called Skull Rock in the mountains - just outside Orgrimmar! - that shelters a large band of Burning Blade cultists.\n\nBefore you go to Skull Rock speak with Margoz. He is wise and his council is valued.\n\nHe is camped to the northeast, between the coast and Drygulch Ravine.\n\nFollow his advice, but whatever Margoz says, Adventurer, I still want you to crush those cultists!",
+  "files": [
+   "quests/828-accept"
+  ]
+ },
+ {
+  "id": "cacd46a470b3",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Margoz",
+  "quest": "Margoz",
+  "en": "Welcome, Adventurer. Word reached me of your coming, and of your exploits in Durotar.\n\nYou are a adventurer of growing skill and renown.\n\nStay on the pure path, and your future will be great indeed.",
+  "files": [
+   "quests/828-complete"
+  ]
+ },
+ {
+  "id": "e8ed3ac9419c",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Master Gadrin",
+  "quest": "Minshina's Skull",
+  "en": "I thank you, adventurer. And my brother thanks you.",
+  "files": [
+   "followup/983-troll-male-shaman"
+  ]
+ },
+ {
+  "id": "e974ab729b48",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Master Gadrin",
+  "quest": "Minshina's Skull",
+  "en": "I hear the voice of my brother, Minshina, calling to me in my dreams.\n\nHe was taken by Zalazane, the warlock on the Echo Isles to the east. And he is dead.\n\nBut death is not freedom for my brother. Minshina's spirit was trapped within his own skull by Zalazane's magics. In my dreams I see it with other skulls, in a circle of power on the largest Echo Isle. As long as it remains there my brother's soul is doomed.\n\nPlease, Adventurer. Find the circle and retrieve Minshina's skull. Bring it to me.\n\nFree him!",
+  "files": [
+   "quests/808-accept"
+  ]
+ },
+ {
+  "id": "1f787eb02f86",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Master Gadrin",
+  "quest": "Minshina's Skull",
+  "en": "Thank you, Adventurer. You have saved Minshina. You have saved my brother's spirit from slavery!",
+  "files": [
+   "quests/808-complete"
+  ]
+ },
+ {
+  "id": "0abec5f87fc6",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Rhinag",
+  "quest": "Need for a Cure",
+  "en": "Adventurer... your timing is perfect. I just hope I can compliment your haste as well.\n\nI was careless while fighting a few of the venomtails nearby, and one of them stung me deeply. I can feel its poison weakening me even as we speak. At this rate, I got maybe an hour left to live. But I'll need your help if I'm to do so...\n\nKor'ghan in Orgrimmar knows how to make the antidote. Find him... and hurry, Adventurer. I won't be able to last much longer. He should be in the Cleft of Shadow.",
+  "files": [
+   "quests/812-accept"
+  ]
+ },
+ {
+  "id": "21cf953590ec",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Neeru Fireblade",
+  "quest": "Neeru Fireblade",
+  "en": "Interesting, very interesting. You found this in Durotar, adventurer?",
+  "files": [
+   "followup/991-orc-male-shady"
+  ]
+ },
+ {
+  "id": "06259a92df5a",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Neeru Fireblade",
+  "quest": "Neeru Fireblade",
+  "en": "The collar is indeed infused with demonic power, adventurer. This bodes ill for our people.",
+  "files": [
+   "followup/992-orc-male-shady"
+  ]
+ },
+ {
+  "id": "61c02f532d0a",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Neeru Fireblade",
+  "quest": "Neeru Fireblade",
+  "en": "Hm...it is good that you brought this to me, adventurer.",
+  "files": [
+   "followup/993-orc-male-shady"
+  ]
+ },
+ {
+  "id": "270df3ebbc45",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Neeru Fireblade",
+  "quest": "Neeru Fireblade",
+  "en": "A dangerous device this is, adventurer. I am glad you brought it to my attention.",
+  "files": [
+   "followup/994-orc-male-shady"
+  ]
+ },
+ {
+  "id": "adf32ce55aaf",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Margoz",
+  "quest": "Neeru Fireblade",
+  "en": "The Searing Collars you brought me are powerful, demonic implements. Divining their origin is, I'm afraid, beyond my skills as a shaman. We will need a warlock to study them.\n\nTake a searing collar to Neeru Fireblade. Although he is a skilled warlock, he professes to use his powers to thwart demons, and claims his research in the occult is benign. Be that true or false, we may need his aid against the demonic cult in Durotar.\n\nYou may find Neeru in Orgrimmar in the Cleft of Shadow.",
+  "files": [
+   "quests/829-accept"
+  ]
+ },
+ {
+  "id": "cb9c3992fece",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Neeru Fireblade",
+  "quest": "Neeru Fireblade",
+  "en": "Ah, and where did you get this? Good Margoz in Razor Hill sent you to me, did he?\n\nWell, let me take a closer look...",
+  "files": [
+   "quests/829-complete"
+  ]
+ },
+ {
+  "id": "0cc8cc4edaf2",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Vel'rin Fang",
+  "quest": "Practical Prey",
+  "en": "Many of the hides we use come from Durotar tigers, Adventurer. Blankets, armor, tents: there are a great many reasons we hunt the beasts, and many reasons we let them thrive at the same time.\n\nThe time has come for us to cull the flock, so to speak. Our numbers grow, and our needs are beginning to overwhelm our stocks. I need more hides if I'm to prepare suitable goods for our people.\n\nBring me 4 Durotar tiger furs, and I shall reward you. You can find them on the islands south of here.",
+  "files": [
+   "quests/817-accept"
+  ]
+ },
+ {
+  "id": "0dd0cff442bc",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Vel'rin Fang",
+  "quest": "Practical Prey",
+  "en": "I am pleased, Adventurer. Because of your help, our people will be protected, and not go cold as the seasons change.\n\nThank you.",
+  "files": [
+   "quests/817-complete"
+  ]
+ },
+ {
+  "id": "9498e8dd864e",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgnil Soulscar",
+  "quest": "Report to Orgnil",
+  "en": "What?? The Burning Blade is spreading! We must investigate!",
+  "files": [
+   "followup/982-orc-male-shady"
+  ]
+ },
+ {
+  "id": "53416ea4fe59",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Master Gadrin",
+  "quest": "Report to Orgnil",
+  "en": "We at Sen'jin Village are not without our own troubles, and we thank you for your aid. But the news you bring regarding the Burning Blade could be trouble for everyone.\n\nThere is an orc stationed at Razor Hill, Orgnil Soulscar, who polices Durotar from evils such as the Burning Blade! Go to Orgnil and tell him of our plight, as well as your news from the Valley of Trials. He will want to know these things.\n\nRazor Hill lies to the north.",
+  "files": [
+   "quests/823-accept"
+  ]
+ },
+ {
+  "id": "a582ee47611f",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgnil Soulscar",
+  "quest": "Report to Orgnil",
+  "en": "Yes? You have something to report? Well then, let's have it!",
+  "files": [
+   "quests/823-complete"
+  ]
+ },
+ {
+  "id": "85995bfb60f9",
+  "zone": "durotar",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Zureetha Fargaze",
+  "quest": "Report to Sen'jin Village",
+  "en": "Your trials against the Burning Blade are finished... here in the Valley. But I want you to report your findings.\n\nGo to the troll village of Sen'jin and seek out Master Gadrin. Sen'jin Village is east out of the valley, then right at the fork.\n\nTell Gadrin of the Burning Blade, and that they have reached the Valley of Trials. Discover from him if they have yet reached Sen'jin.\n\nGo, Adventurer, and be swift. I fear the evil found in the Burning Blade Coven is but the herald of a larger threat...",
+  "files": [
+   "quests/805-accept"
+  ]
+ },
+ {
+  "id": "5ab8e63244d4",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Master Gadrin",
+  "quest": "Report to Sen'jin Village",
+  "en": "Hm... your report comes at a bad time. The Burning Blade is not seen here in Sen'jin, but their evil has taken seed off the coast, on the Echo Isles.\n\nThe orcs are friends of the Darkspear Trolls. Honorable friends. We want to help the orcs, but... we need help too.",
+  "files": [
+   "quests/805-complete"
+  ]
+ },
+ {
+  "id": "fc51a28c88ff",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Hana'zua",
+  "quest": "Sarkoth",
+  "en": "Go swiftly, adventurer. My fate is in your hands.",
+  "files": [
+   "followup/1341-troll-male-standard"
+  ]
+ },
+ {
+  "id": "8b3fe159686e",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Hana'zua",
+  "quest": "Sarkoth",
+  "en": "Adventurer! I thought I would die out here with none to know of it. While I was hunting the scorpids of the Valley, I came across a particularly vicious-looking one. Hurling myself at it, I managed to inflict a massive blow to its claw before it closed around my leg.\n\nI wasn't ready for its stinger though, and it sliced down and into my chest, cutting into my flesh and letting my blood. Please, you must kill the scorpid for me! My honor must be upheld! I fought it up on the plateau to the south.",
+  "files": [
+   "quests/790-accept"
+  ]
+ },
+ {
+  "id": "07dd08b80151",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Hana'zua",
+  "quest": "Sarkoth",
+  "en": "My blow was not enough to kill him, but looking at the damage I inflicted gives me some small measure of pride. That small measure will be all I have to sustain myself if I die, and in that light, the short list of my life's accomplishments fills me with anger.",
+  "files": [
+   "quests/790-complete"
+  ]
+ },
+ {
+  "id": "d57dce102108",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Hana'zua",
+  "quest": "Sarkoth",
+  "en": "Seeing the deed you have done for me steels my heart. I cannot fall so easily! I must endure!\n\nBut it remains that I cannot make the trek back to the Den unassisted. Please, adventurer, return to the Den and tell Gornek of my situation. Perhaps he can help me.",
+  "files": [
+   "quests/804-accept"
+  ]
+ },
+ {
+  "id": "70861c287be6",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gornek",
+  "quest": "Sarkoth",
+  "en": "From your description of the beast, I believe you must be speaking of Sarkoth! It is no wonder that Hana'zua was overtaken by it. Aid will be dispatched to him immediately, trouble yourself no more with Hana'zua's plight.\n\nHowever, I must say, I am most impressed to hear that you brought Sarkoth to death. It is a feat to be proud of, adventurer. And that you would fight for a stranger's honor, while other tasks occupied your time, your own honor is heightened.",
+  "files": [
+   "quests/804-complete"
+  ]
+ },
+ {
+  "id": "30afe0f68c33",
+  "zone": "durotar",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Rezlak",
+  "quest": "Securing the Lines",
+  "en": "Gazlowe told me once, \"Rezlak. There's one thing you need to know in life, and that's if you want something done well, do it yourself.\"\n\nI can't deal with losing all our caravans, so I'm just going to take matters into my own hands. Drygulch Ravine lies through the eastern part of Razorwind Canyon. If we kill all the harpies there, the routes will be safe.\n\nOf course, there was one other thing that Gazlowe taught me, and that's \"You can get anything done for a price.\" So, going to help me out, adventurer?",
+  "files": [
+   "quests/835-accept"
+  ]
+ },
+ {
+  "id": "56e86c89e7d1",
+  "zone": "durotar",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Rezlak",
+  "quest": "Securing the Lines",
+  "en": "I think I can breathe easy now, knowing that the harpies won't be bothering our supply caravans anymore. And not one moment too soon, either. I hear I'm being sent some fun little toys with the next shipment!\n\nYou're pretty good at what you do, adventurer, you ought to track down my boss in Ratchet. I'll bet he could find some work for you.\n\nOh, and don't worry, I wouldn't forget to pay you for the service you provided me.",
+  "files": [
+   "quests/835-complete"
+  ]
+ },
+ {
+  "id": "ba64629412c7",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Margoz",
+  "quest": "Skull Rock",
+  "en": "adventurer, unlocking the secret of these collars is beyond my skills...",
+  "files": [
+   "followup/988-orc-male-standard"
+  ]
+ },
+ {
+  "id": "38ccc9ad2692",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Margoz",
+  "quest": "Skull Rock",
+  "en": "Argh!",
+  "files": [
+   "followup/989-orc-male-standard"
+  ]
+ },
+ {
+  "id": "e805a7bf79bd",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Margoz",
+  "quest": "Skull Rock",
+  "en": "Adventurer. The Burning Blade has infested the cave east of Orgrimmar known as Skull Rock. Inside that cave they perform vile rituals, and burn their own flesh with Searing Collars.\n\nBy wearing these collars, I believe the cultists attune themselves to demonic power. But to confirm this, I must have a collection of the collars to study.\n\nGo to Skull Rock and gather Searing Collars from the cultists you find there. Bring them to me, and I will uncover their secrets.",
+  "files": [
+   "quests/827-accept"
+  ]
+ },
+ {
+  "id": "a787c00ce155",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Margoz",
+  "quest": "Skull Rock",
+  "en": "Good. Hiding within these collars is the secret behind the Burning Blade. And I will uncover that secret...",
+  "files": [
+   "quests/827-complete"
+  ]
+ },
+ {
+  "id": "13c9cf422658",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gornek",
+  "quest": "Sting of the Scorpid",
+  "en": "Powerful warrior and awkward novice alike have fallen to the venomous sting of the scorpid. You will find large numbers of scorpids northwest of here. Bring me ten of their tails as proof of your prowess in battle.\n\nThe antidote for their sting is actually made from venom extracted from their stingers. We keep large quantities of antidote for scorpid venom on hand to heal young bloods just like you...\n\nBut I'm sure you won't be needing any of that, will you?",
+  "files": [
+   "quests/789-accept"
+  ]
+ },
+ {
+  "id": "bbc02188240c",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gornek",
+  "quest": "Sting of the Scorpid",
+  "en": "There is an important lesson that you must take away from fighting scorpids. The smallest or largest of opponents can still send you to your doom. In fierce combat, any number of things can prove your downfall.\n\nI have no more to teach you, adventurer. You have done well, and I will watch your progress with interest.",
+  "files": [
+   "quests/789-complete"
+  ]
+ },
+ {
+  "id": "cbe611f477a2",
+  "zone": "durotar",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Rezlak",
+  "quest": "Stormy Potential",
+  "en": "\"Rezlack, when an opportunity come's knocking make sure you're ready to seize it.\" That's another gem Gazlowe taught me and that's exactly what I intend to do.\n\nThis orb doesn't seem damaged, it just looks like it's out of juice, but I've the idea to supercharge it back to full strength!\n\nThere are a bunch of thunder lizards in a gorge west of here. They have organs that hold a strong electrical charge that would be perfect for this.\n\nGo harvest some and bring them back to me!",
+  "files": [
+   "quests/97282-accept"
+  ]
+ },
+ {
+  "id": "5e46c9793880",
+  "zone": "durotar",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Rezlak",
+  "quest": "Stormy Potential",
+  "en": "Hey, thanks pal! You've been a really big help to me here and I appreciate it.\n\nHere's to hoping I can get this all charged up using these organs. I bet it'll make those no good harpies think twice about attacking my caravan again. I sure hope this works.\n\nEither way you've done your side of the deal. Take this for your trouble.",
+  "files": [
+   "quests/97282-complete"
+  ]
+ },
+ {
+  "id": "078f4dd17d20",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Foreman Thazz'ril",
+  "quest": "Thazz'ril's Pick",
+  "en": "Adventurer, you are a dependable traveler. Can I count on you for another task?\n\nSome time ago I was surveying the cave to the north for minerals, and I left my favorite pick behind. When I later returned to retrieve it I found the cave was filled with vicious beasts! Will you go into the cave, the Burning Blade Coven, and get my pick?\n\nI left it in a chamber with waterfalls. My pick has a spell on it so you can see it in the dark, so you won't have to worry about finding it... just what's guarding it!",
+  "files": [
+   "quests/6394-accept"
+  ]
+ },
+ {
+  "id": "262ed32e35e9",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Foreman Thazz'ril",
+  "quest": "Thazz'ril's Pick",
+  "en": "Great, you got it! Thanks a lot, Adventurer. This is my favorite pick! Now if my peons ever finish chopping down these trees, maybe we can find a nice cave to mine!",
+  "files": [
+   "quests/6394-complete"
+  ]
+ },
+ {
+  "id": "e6190468c396",
+  "zone": "durotar",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Aged Envelope",
+  "quest": "The Admiral's Orders",
+  "en": "You open the aged and weathered envelope and discover an official looking document. You recognize the seal of Admiral Proudmoore.\n\nThis looks important. Perhaps Gar'Thok, the commander of Razor Hill, would be interested in having this information.",
+  "files": [
+   "quests/830-accept"
+  ]
+ },
+ {
+  "id": "7be72ac91303",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gar'Thok",
+  "quest": "The Admiral's Orders",
+  "en": "This does not bode well at all. You were wise to bring this information to my attention.",
+  "files": [
+   "quests/830-complete"
+  ]
+ },
+ {
+  "id": "7f0b99b07904",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gar'Thok",
+  "quest": "The Admiral's Orders",
+  "en": "Humans cannot be trusted. We fought alongside them with a weary heart, knowing they would betray us one day.\n\nAdmiral Proudmoore's death was not enough to stop his legacy of deceit. The human scum had his plans well laid out before he ever met his demise.\n\nHis reign won't even die with Benedict it seems. Who knows how long it will be before the next waves of Proudmoore's men land upon our shores.\n\nWe need to get these orders to Nazgrel in Orgrimmar immediately! He can be found in Thrall's chamber.",
+  "files": [
+   "quests/831-accept"
+  ]
+ },
+ {
+  "id": "ed5cef6f3b9f",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Nazgrel",
+  "quest": "The Admiral's Orders",
+  "en": "Countless times I urged the Warchief not to trust the humans, but personal pride is not what is at stake here.\n\nYou have served the Horde honorably, young adventurer.\n\nNow excuse me, I must counsel Thrall on these matters at once....",
+  "files": [
+   "quests/831-complete"
+  ]
+ },
+ {
+  "id": "291b06b73292",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Eitrigg",
+  "quest": "The New Horde",
+  "en": "Throm'ka, adventurer. I am Eitrigg, charged by Thrall to oversee the training of recruits.\n\nThe Horde has changed from what it once was. There was a time where I left the Horde, disillusioned by the growing influence of the power-hungry pawns of the Burning Legion. During my exile, I was taken prisoner by a group of humans, but was rescued by the Warchief. Hearing his vision of the Horde free of demonic influence, guided by the shamans, I returned.\n\nGornek will have further instructions for you.",
+  "files": [
+   "quests/787-accept"
+  ]
+ },
+ {
+  "id": "42397966d139",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gornek",
+  "quest": "The New Horde",
+  "en": "Another one of Eitrigg's recruits, hm?\n\nA sorry state of affairs we find ourselves in if this is the best the Horde can produce. No matter. By the time we think you're ready to leave the Valley, you'll be a proud warrior of the Horde.",
+  "files": [
+   "quests/787-complete"
+  ]
+ },
+ {
+  "id": "e8f4fa1ecf45",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Cook Torka",
+  "quest": "This Fruit Could Bite Back",
+  "en": "Our hunters and fishers bring back plenty of savory food for our troops - but it's rare that they get a sweet treat.\n\nI've seen a cactus that produces a prickly, tasty fruit. But it only grows in the hills to the west, where the wretched quilboars make their camps. Make your way past the quilboars and bring me some of those fruits. And be careful - the fruits are as spiny as the quilboars!",
+  "files": [
+   "quests/96825-accept"
+  ]
+ },
+ {
+  "id": "122ab58cdb15",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Cook Torka",
+  "quest": "This Fruit Could Bite Back",
+  "en": "I'll use these to prepare something tasty, and save the seeds for planting. Someday we'll have prickly pears growing all around Orgrimmar!",
+  "files": [
+   "quests/96825-complete"
+  ]
+ },
+ {
+  "id": "1b87fbdb171d",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ug'thok",
+  "quest": "This Is Spinal Axe",
+  "en": "Have you seen the huge beasts of Thunder Ridge? I keep thinking the spines on their backs would be perfect for crafting the head of a mighty axe. Saru laughed when I told him... but what does he know!?\n\nAs part of your smithing lessons, you can help me out! Bring me some of those spines, along with grinding stones to sharpen them.",
+  "files": [
+   "quests/96874-accept"
+  ]
+ },
+ {
+  "id": "720eccf59f96",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ug'thok",
+  "quest": "This Is Spinal Axe",
+  "en": "These spines are tougher than I expected, Gehrfik! Crafting with them may not be as easy as I thought... but I'll keep working on it!",
+  "files": [
+   "quests/96874-complete"
+  ]
+ },
+ {
+  "id": "8e6031dbe2b6",
+  "zone": "durotar",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Heglan Shadeeye",
+  "quest": "Threat from Below",
+  "en": "The nearby area is destroyed with obvious signs of a skirmish. Whatever ambushed Heglan didn't make it out unscathed. There's probably signs nearby of what happened.\n\nOrgnil will probably want to see any evidence left by the attackers.",
+  "files": [
+   "quests/99049-accept"
+  ]
+ },
+ {
+  "id": "9eac00244852",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgnil Soulscar",
+  "quest": "Threat from Below",
+  "en": "This banner and blade piece belong to the naga! They must have come down the coast from the north.\n\nWe cannot let them establish a foothold here. The pressure from both directions would be too much for Razor Hill.",
+  "files": [
+   "quests/99049-complete"
+  ]
+ },
+ {
+  "id": "58e692815413",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgnil Soulscar",
+  "quest": "Threat from Below",
+  "en": "It wouldn't be the first time those snakes bothered us. They need to be taught that their presence is not tolerated here.\n\nFind where their scouts are setting up camp and slaughter them. Bring me back their fins as proof. We need to act fast to make sure they understand.",
+  "files": [
+   "quests/99051-accept"
+  ]
+ },
+ {
+  "id": "1244a8ea8aa0",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgnil Soulscar",
+  "quest": "Threat from Below",
+  "en": "Hopefully that sends them packing back to the north. I'll have some grunts keep an eye out for any stragglers or funny business.",
+  "files": [
+   "quests/99051-complete"
+  ]
+ },
+ {
+  "id": "6710b869138b",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgnil Soulscar",
+  "quest": "Threat from Below",
+  "en": "One of my scouts has reported a sea giant followed those naga down here. Not sure if they brought him intentionally or what, but he's dangerous in any case.\n\nIt's a young one, but it could still rip an orc in half in a heartbeat if they were caught off guard. I need him gone. But I'd suggest you find some help to deal with it.",
+  "files": [
+   "quests/99052-accept"
+  ]
+ },
+ {
+  "id": "d9a665811f7c",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgnil Soulscar",
+  "quest": "Threat from Below",
+  "en": "Ha! I could hear his body fall from here!\n\nBe proud of your kill today, not many can claim they survived a fight with a sea giant.",
+  "files": [
+   "quests/99052-complete"
+  ]
+ },
+ {
+  "id": "c6bbd4cf59e3",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Lar Prowltusk",
+  "quest": "Thwarting Kolkar Aggression",
+  "en": "Lower your voice, adventurer. The Kolkar centaurs lie just over the ridge to the west in Kolkar Crag.\n\nLast night while they were raiding, I snuck into their village and discovered that the dirty beasts have a three-tiered attack planned on the trolls and orcs of Durotar.\n\nWe mustn't let their invasion come to fruition. Perhaps you can muster the might needed to infiltrate Kolkar Crag and destroy their attack plans.\n\nLast I saw, they had divided them up amongst three of their leaders.",
+  "files": [
+   "quests/786-accept"
+  ]
+ },
+ {
+  "id": "f353d26c1327",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Lar Prowltusk",
+  "quest": "Thwarting Kolkar Aggression",
+  "en": "The Horde would surely prevail if the Kolkar centaurs were to attack. But by preventing such an attack, we have spared our mighty warriors unnecessary bloodshed.\n\nAnd as sure as there is sand in the Tanaris desert, we know that there will be blood spilled before these trying times are through.\n\nYou have served your people well, adventurer.",
+  "files": [
+   "quests/786-complete"
+  ]
+ },
+ {
+  "id": "fe9fa6e54690",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ukor",
+  "quest": "Ukor's Lost Pack",
+  "en": "My pack! When I dropped it to run from that huge spider, I thought I'd never see it again. You really are a hero!",
+  "files": [
+   "quests/96876-complete"
+  ]
+ },
+ {
+  "id": "ff88d8c48d6c",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gar'Thok",
+  "quest": "Vanquish the Betrayers",
+  "en": "Led by Admiral Proudmoore, the humans of Kul Tiras encroached on Durotar, violating the Warchief's pact made with Jaina Proudmoore in order to defeat Archimonde years ago.\n\nThe human aggression was repelled and Tiragarde Keep fell. But recently, the Admiral's reserves, led by Lieutenant Benedict, have retaken the keep and once again pose a threat to our homeland. These humans show no respect for diplomacy.\n\nProve your honor and travel south to Tiragarde Keep to eliminate the human invaders.",
+  "files": [
+   "quests/784-accept"
+  ]
+ },
+ {
+  "id": "312345c2a00a",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gar'Thok",
+  "quest": "Vanquish the Betrayers",
+  "en": "Word of your bravery travels fast, adventurer. Tales of your victory at Tiragarde Keep will be heralded in Orgrimmar.",
+  "files": [
+   "quests/784-complete"
+  ]
+ },
+ {
+  "id": "1b7e5380ec25",
+  "zone": "durotar",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Zureetha Fargaze",
+  "quest": "Vile Familiars",
+  "en": "I trust the Valley of Trials will teach you much, young adventurer.\n\nI was sent to the Valley to guide you, but I have discovered a growing taint here...\n\nA group that calls itself the Burning Blade has a coven here in the Valley of Trials. They are skulking in a cave to the northeast, and their Vile Familiars have spilled from its mouth to cause havoc.\n\nAs your first task against the Burning Blade, I bid you, defeat these familiars. Slay many and, if you survive, return to me.",
+  "files": [
+   "quests/792-accept"
+  ]
+ },
+ {
+  "id": "d73d7976266e",
+  "zone": "durotar",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Zureetha Fargaze",
+  "quest": "Vile Familiars",
+  "en": "You have done well, Adventurer.\n\nAlthough the Vile Familiars were merely pets of the darker powers within the Burning Blade, your success against them foretells greater deeds ahead.",
+  "files": [
+   "quests/792-complete"
+  ]
+ },
+ {
+  "id": "1d0c44eafb9d",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gornek",
+  "quest": "Wayward Weapons",
+  "en": "With an influx of new recruits like yourself, it's been hard to keep our weapons supplied. Our weaponsmith, Kzan, is running low on training weapons and I'd like to see what kinds of skills you possess to get an idea of what I have to work with. Luckily for you, I have a solution to both.\n\nWhile you're out there cutting your teeth on boars, salvage six abandoned training weapons. Our failed recruits left them laying on the ground. Once you do, return them to our weaponsmith Kzan behind me in the Den.",
+  "files": [
+   "quests/97279-accept"
+  ]
+ },
+ {
+  "id": "55c001ac9310",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kzan Thornslash",
+  "quest": "Wayward Weapons",
+  "en": "Thank you for returning these weapons, Sparkled. I will get to work repairing them for the next wave of recruits.",
+  "files": [
+   "quests/97279-complete"
+  ]
+ },
+ {
+  "id": "35a951403cc1",
+  "zone": "durotar",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Rezlak",
+  "quest": "Winds in the Desert",
+  "en": "I'm Rezlak, one of Gazlowe's boys. Boss sent me to help the orcs here in Durotar. Things'd been going good except for the caravans. Can't manage to keep them safe! Makes my job a little harder, you know?\n\nThe last shipment--they promised it'd get through!--was snatched by the Dustwind harpies of...where was it...Razorwind Canyon?\n\nI gotta have those supplies or I'll never get anything done! Follow the big canyon to the south, you'll find the ravine cut right into the west and east sides of the walls.",
+  "files": [
+   "quests/834-accept"
+  ]
+ },
+ {
+  "id": "cede4181bd30",
+  "zone": "durotar",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Rezlak",
+  "quest": "Winds in the Desert",
+  "en": "Hey, now isn't that just the thing! You've got our supplies back for us. That's great. I'll be able to get back to work just as soon as I can find someone to haul these sacks for me.",
+  "files": [
+   "quests/834-complete"
+  ]
+ },
+ {
+  "id": "0361147aa98b",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kaltunk",
+  "quest": "Your Place In The World",
+  "en": "Finally, you are of age, Adventurer... of age to battle in the name of the Horde. To conquer for the glory of the Warchief.\n\nYes...\n\n\nYou will do nicely.\n\nNo doubt you wish to find a great dragon or demon and strangle it with your bare hands, but perhaps it would be wise to start on something less... dangerous.\n\n\nReport to Gornek, he should be able to assign a task better suited to a young adventurer. You will find Gornek in the Den, to the west.",
+  "files": [
+   "quests/4641-accept"
+  ]
+ },
+ {
+  "id": "89db8c79562d",
+  "zone": "durotar",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gornek",
+  "quest": "Your Place In The World",
+  "en": "Another one of Kaltunk's recruits, hm?\n\nA sorry state of affairs we find ourselves in if this is the best the Horde can produce. No matter. By the time we think you're ready to leave the Valley, you'll be a proud warrior of the Horde.",
+  "files": [
+   "quests/4641-complete"
+  ]
+ },
+ {
+  "id": "c6ea9b3dabc7",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Master Gadrin",
+  "quest": "Zalazane",
+  "en": "The witchdoctor Zalazane dwells on the Echo Isles to the east. They are the isles we once called home.\n\nFrom there he sends his trolls to the mainland, to hex our people and drag more of them under his sway.\n\nHe must be stopped.\n\nDefeat Zalazane and his minions -- former Darkspear trolls, now lost to us. Bring me his head and I will know his reign of evil is over.",
+  "files": [
+   "quests/826-accept"
+  ]
+ },
+ {
+  "id": "c86e007af95a",
+  "zone": "durotar",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Master Gadrin",
+  "quest": "Zalazane",
+  "en": "With Zalazane gone, our tribe can again sleep in peace.\n\nThank you, Adventurer. The Darkspear tribe owes you much. If you suffer from an ailment, visit my assistant Bom'bay, behind me. His voodoo is strong...",
+  "files": [
+   "quests/826-complete"
+  ]
+ }
+]

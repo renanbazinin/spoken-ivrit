@@ -1,0 +1,1612 @@
+[
+ {
+  "id": "af003bcec9dc",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Looking to learn how to use a new weapon? Find Sayoc and Hanashi inside Arms of Legend in the Valley of Honor.",
+  "files": [
+   "gossip/9edff2b4be1867c383c57d9f437a1916"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "1c46f3d66792",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Fishing is a sport for the old who have not died in battle! Go find Lumak on the lake in the Valley of Honor.",
+  "files": [
+   "gossip/a2e192907f9e8f21779ac2c1b989d419"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "669bc25d6d30",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "That's the second building on the right in the Valley of Strength north of the main city entrance. Speak to Innkeeper Gryshka.",
+  "files": [
+   "gossip/ab72d7c83a6d226e67a075b1ba52048e"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "df756537d221",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Just outside the city's main gate is a signpost. It will point you toward the zeppelin tower. Speak to Zeppelin Master Frezza at the top of the tower.",
+  "files": [
+   "gossip/ac0ba2a4466278a2ed6ceac133133a36"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "03bbfb7d40d2",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Xon'cha will stable your extra pets. Find him in the Valley of Honor at the stables between the arena and the Hunter's Hall. Now begone!",
+  "files": [
+   "gossip/b0e64bb72a28ec8edf23f963ff9ce7c8"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "f95460dbd71f",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "It is good that you wish to honor your kills by putting their bodies to use. Find Thuwd inside the Kodohide Leatherworks in the middle of The Drag.",
+  "files": [
+   "gossip/b71ac0b129e303f2e0d83640555128a9"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "2fd1d79952b9",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Arnok makes good bandages. Find him at the Survival of the Fittest hut on the shore of the lake next to Spirit Lodge in the Valley of Spirits. It's above and to the west of the Valley of Strength.",
+  "files": [
+   "gossip/bce8743c8a0bd63dc3920724e764d1fa"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "8fa8d04e921e",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Find the Wind Rider Master at the top of The Sky Tower in the Valley of Strength. Doras will make sure you find your way to the battle you seek.",
+  "files": [
+   "gossip/c50805eb336264793c344418e5961fbc"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "511a1787aac9",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Speak to Grezz Ragefist in the Hall of the Brave, which is in the Valley of Honor. Put in a good word for me!",
+  "files": [
+   "gossip/d64d7b97dd43fd06735418ebd2a16c48"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "6d27da714969",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Go to the Hall of the Brave. You will find The Defiler, Deze Snowbane there to assist you in getting to Arathi Basin.",
+  "files": [
+   "gossip/d79187c46c1d132053867c2cbc1e9e3e"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "07908074730f",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "You'll find one of those outside the Bank of Orgrimmar in the middle of the Valley of Strength.",
+  "files": [
+   "gossip/e0e6795a2a739fd62fe20834f1d3ff96"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "18f072fe793a",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Talk to Saru Steelfury at The Burning Anvil. Go to the Valley of Honor. It's at the end of the path to the right of Red Canyon Mining.",
+  "files": [
+   "gossip/e64f4df8c7e58b6297509a694416a3f4"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "ca6b8f1ab4f6",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Look for it high up on the west side of the Valley of Strength. They'll only let you in if you're an officer! Talk to Sergeant Ba'sha outside otherwise.",
+  "files": [
+   "gossip/e7866663b8f38742244edaa262c62e11"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "5cb18738f6c5",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Which battleground do you seek your glory in?",
+  "files": [
+   "gossip/e919f627ec93189b9e052d3ae120da80"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "5886bdd5f5e5",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Zayus and his priests are in the Spirit Lodge, which is in the Valley of Spirits. Look for it on the lake up above and to west of the Valley of Strength.",
+  "files": [
+   "gossip/ea2acf9d681b135ace8c51a731759494"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "be0a9adc6221",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Go to Kodohide Leatherworkers in The Drag. Ask for Kamari.",
+  "files": [
+   "gossip/ec858405ef47afd35954b41baf604e21"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "f6502b73b682",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Ya man, you be wantin Jandi's Arboretum. Did I just say that? Glok'tar I must be tired! Follow the wooden steps behind Asoran's Market in the Valley of Wisdom up into The Drag and you'll find Jandi's there on the upper level.",
+  "files": [
+   "gossip/ed31d9f384101e3d6caedb2bb8b89983"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "b2d8f9a0de77",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Herbs... you need to speak to Jandi at her arboretum in The Drag. There are some wooden steps behind Asoran's Market in the Valley of Wisdom. Follow them to the upper level of The Drag and you'll find her.",
+  "files": [
+   "gossip/f4d8e423146d1060237e65e944828604"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "ad6abfb2c8ba",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Potions and oils, these are things that Yelmak will teach you of if you are worthy. Look for his shop in the middle of The Drag.",
+  "files": [
+   "gossip/fdeac495307fb2d96ba514b92ca0eb97"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "fc7ede2a2409",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "That Lumak... always fishing instead of fighting. You'll find him out on his dock on the lake in the Valley of Honor. While you're there say hi to Shankys for me.",
+  "files": [
+   "gossip/ff136b77a5b4f0167b2bc90bed633ab3"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "5a55f56b7f8d",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ormak Grimshot",
+  "quest": null,
+  "en": "I can not train you.",
+  "files": [
+   "gossip/27047ba17cce8edfba9757279f001d39"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "fcd3bbe1c409",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ormak Grimshot",
+  "quest": null,
+  "en": "I have much knowledge to impress upon you, adventurer. You must learn to hunt with honor.",
+  "files": [
+   "gossip/5b5b66a181411dac0931427a9ff18c6c"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "71191998baea",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ormok",
+  "quest": null,
+  "en": "Messengers from Ravenholdt delivered this letter to me this morning. It is addressed to you, adventurer.",
+  "files": [
+   "gossip/665345d33fb8e63831d075e7b6457308"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "23a8db900d3b",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Orphan Matron Battlewail",
+  "quest": null,
+  "en": "There are costs with war, adventurer... ones often overlooked. Those costs are the orphans - children who have lost their parents to the far-too-numerous conflicts that rage across Azeroth. Those children who have no one else to turn to often come here to live until they are old enough to fend for themselves.\n\nOne week out of the year during the Spring, the Horde takes time to give something back to these innocents. This time is called Children's Week.",
+  "files": [
+   "gossip/a004a2e73880cb6882c600c406454b14"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "59e3b8e2fd0c",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Overlord Runthak",
+  "quest": null,
+  "en": "I am he that carries out the Warchief's commands without question. I am Horde.",
+  "files": [
+   "gossip/9f1fc0f188303aa506b43d5e4203e697"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "0f5b8e6df39c",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Overlord Runthak",
+  "quest": null,
+  "en": "Gaze upon the enemy, traveler. See what the might of the Horde reduces even the most powerful of dragons to! All that oppose us shall meet a similar fate!",
+  "files": [
+   "gossip/e84dc958c4a38bb68b73f260ddc8edec"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "f1368a6664fa",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Penney Copperpinch",
+  "quest": null,
+  "en": "Season's savings to you and yours!",
+  "files": [
+   "gossip/06446c93717ee24cf71146c8844d5209"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "68f94cd7c362",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Penney Copperpinch",
+  "quest": null,
+  "en": "'Tis the season for great bargains! Fah la la la la!",
+  "files": [
+   "gossip/4a32fbea4eafa7cc8a55a50a91ae41de"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "6e7858bb306b",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Penney Copperpinch",
+  "quest": null,
+  "en": "Have a wondrous Feast of Winter Veil! Start it off right with treats from Smokywood Pastures!",
+  "files": [
+   "gossip/6d2f68e829351e067178b3f036cd5d75"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "76f9d8510b71",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Penney Copperpinch",
+  "quest": null,
+  "en": "Don't let the jingle of the bells take away from the jingle in your pocket! Buy Smokywood Pastures treats for your Winter Veil festivities!",
+  "files": [
+   "gossip/871ad3477a3322d9a312056c078ef843"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "1fe5be12d591",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Penney Copperpinch",
+  "quest": null,
+  "en": "Be sure to tell Greatfather Winter what secret surprise you'd like to get this Winter Veil!",
+  "files": [
+   "gossip/8d77629139cb2841d86e8e3ea861bc05"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "a966e84ff986",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Penney Copperpinch",
+  "quest": null,
+  "en": "If I had some chestnuts, you'd better believe I'd have them roasting over an open fire. Mmmm!",
+  "files": [
+   "gossip/ec96335ecef05c3900dab2def0ea7d06"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "837c716df180",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Penney Copperpinch",
+  "quest": null,
+  "en": "Fresh from our farm to your plate - it's Smokywood Pastures wholesome goodness!",
+  "files": [
+   "gossip/f328cb6cd509244010ffea357d309bfc"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "dacd919b5217",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Penney Copperpinch",
+  "quest": null,
+  "en": "Don't forget to stock up on wrapping paper this holiday season! Nothing says \"Wondrous Winter Veil\" like wrapped armors and weapons for your friends and family.",
+  "files": [
+   "gossip/f9f9e7611322bf1ddbc11a3d206fbee1"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "caf7a2d5dfad",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Rachelle Gothena",
+  "quest": null,
+  "en": "What ISN'T there to do, you mean!\n\nEach of the innkeepers throughout the world are handing out trick-or-treat goodies, and many of the towns are decorated for the season! Also, there is the Wickerman Festival just outside the Undercity during the evenings.\n\nOne more thing - I've heard that a sick little girl at the orphanage here in Orgrimmar is looking for someone to help her gather treats for the holiday... maybe you could help her out?",
+  "files": [
+   "gossip/0381c9c7c5dfb5651cd61f8b8f45938b"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "d754099ae934",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Rachelle Gothena",
+  "quest": null,
+  "en": "Happy Hallow's End! How do you like my mask? Very scary!",
+  "files": [
+   "gossip/947ed96708cb7e54b6840b95cfc92d0b"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "bf3c77930003",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Rashona Straglash",
+  "quest": null,
+  "en": "In these trying times, a simple donation of cloth can go a long way to help those less fortunate than ourselves. Cloth goes a long way to making garments and bandages - both important for the war effort!\n\nIf you are interested in donating cloth pieces to the orcs of Orgrimmar, I will gladly accept them and make sure you receive the proper recognition for doing so.\n\nFor the Horde!",
+  "files": [
+   "gossip/8c358b35413bf96fe889092366c26195"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "bcbf7fec9a64",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Roxxik",
+  "quest": null,
+  "en": "Nice try, but you'll need some more experience before training with me! Back to the trenches!",
+  "files": [
+   "gossip/1b37830fe8480ed6bd57b3d834cd2310"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "495c6675779e",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Roxxik",
+  "quest": null,
+  "en": "Sometimes I surprise even myself!",
+  "files": [
+   "gossip/a33d076d120978aaaececdda45031962"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "6fe5ae0e55e5",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Roxxik",
+  "quest": null,
+  "en": "Nice going! I knew I was right about you, no matter what those other people said. Ha! I'm kidding! Okay, on with your lessons...",
+  "files": [
+   "gossip/a551611cff75484f9e317ceaee4ba354"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "55d627923086",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Roxxik",
+  "quest": null,
+  "en": "I can't teach what I don't know! If only there was someone else who knew more than I do... wait, there is! Go see Buzzek Bracketswing in Gadgetzan!",
+  "files": [
+   "gossip/bef0adf1ca4f95d60744bcfb2d4e9e99"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "f1bb4d5f9e85",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Saru Steelfury",
+  "quest": null,
+  "en": "What is it you seek at my forge? Is it training? Do you perhaps seek the secrets of steel? The mysteries of the forge? Speak up Grunt!",
+  "files": [
+   "gossip/03b20e4ae05f8ecd44ff03f0c3561c3f"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "60f697760df9",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Sayoc",
+  "quest": null,
+  "en": "Ansekhwa, the tauren weapon master, is on Thunder Bluff's lower rise. He can train one and two-handed maces, staves and guns.\n\nHanashi, standing next to me here, can instruct in the use of bows, one and two-handed axes, staves and all manner of thrown weapons.\n\nArchibald, the undead weapon master in the War Quarter of the Undercity, can teach the use of crossbows, daggers, one and two-handed swords and polearms.",
+  "files": [
+   "gossip/6fbe1caacff7fcf16cc0478c2dccd149"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "b76ebe5210ba",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Sayoc",
+  "quest": null,
+  "en": "Here to learn how to wield a new weapon, or just to waste my time?",
+  "files": [
+   "gossip/ac6104deed8fed0d5a86bb3bee66c1bd"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "7ed54d855b03",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Senior Sergeant Kai'jin",
+  "quest": null,
+  "en": "Hail, adventurer. I trust you are here to inquire on the Ahn'Qiraj war effort. We are going to need a great deal of assistance.\n\nThe war effort is a united effort between the Horde and Alliance to prepare for the impending war against the Silithid and their masters in Ahn'Qiraj. In Orgrimmar's Valley of Spirits, we are collecting a vast number of goods to create war materiel, and these gathering tasks are what we need your help with.\n\nCan I convince you to speak with our commander about helping out?",
+  "files": [
+   "gossip/17bbc17d735f1204b639e93017b4f12d"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "39b82930c88e",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Shayis Steelfury",
+  "quest": null,
+  "en": "I see potential in you adventurer. Now grab a hammer and some of those scraps, you need a lot of practice.",
+  "files": [
+   "gossip/1504f6272a4a6bdb32cf07a5ac0a1ca4"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "4755f720cefa",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Shayis Steelfury",
+  "quest": null,
+  "en": "I don't train smiths with no skill, come back when you have something decent to show me.",
+  "files": [
+   "gossip/be96c2d28873ad67329f21c88b5b2951"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "9d22da858c8c",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Shenthul",
+  "quest": null,
+  "en": "The Order of the Shattered Hand existed before Thrall and shall exist after Thrall.",
+  "files": [
+   "gossip/4f0a9d40e9cc2c1e6b1295172014d77e"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "dd0a8c87227f",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Shenthul",
+  "quest": null,
+  "en": "I don't train your kind adventurer.",
+  "files": [
+   "gossip/6de484f4be256ef1578f9421e15df66b"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "0ae42394099d",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Shenthul",
+  "quest": null,
+  "en": "I got something for you, adventurer. Looks important.",
+  "files": [
+   "gossip/d40a242b76d3772a9974107e9b235081"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "4ae1ebc3b20f",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Shenthul",
+  "quest": null,
+  "en": "The Shattered Hand's influence dominates these lands. We are the veil which covers Kalimdor: The protectorates, the police, the judges, the jury, and ultimately, the executioners. We see all, we know all.\n\nYou have grown much in the time which you have spent in service of the Hand, adventurer. The time has come to send you into the field.\n\nAre you prepared to undertake your next mission?",
+  "files": [
+   "gossip/e5b80def6be2f085b63829ee15ec4de0"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "51c3ff711e0b",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Sian'dur",
+  "quest": null,
+  "en": "Come learn the ways of the hunter. Pride, honor, and tradition.",
+  "files": [
+   "gossip/a0f285cb56be6782c0dc978d5a0617af"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "3b7c4492136d",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Sian'tsu",
+  "quest": null,
+  "en": "May da spirits protect you mon.",
+  "files": [
+   "gossip/5bcfe44c67f5e0a247451c8d54a13c74"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "fda77e234d55",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Sian'tsu",
+  "quest": null,
+  "en": "Da spirits be strong wit you, mon. What kin dis troll do for ya?",
+  "files": [
+   "gossip/6c82842b379af58a9a58e28cb35a4d49"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "59a2d946ef2e",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Snang",
+  "quest": null,
+  "en": "I will teach you what I can.",
+  "files": [
+   "gossip/011f710eb536c93c6af1ca4daa89c86b"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "893646ce9cfe",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Snang",
+  "quest": null,
+  "en": "We use many animal pelts and skins in our creations.",
+  "files": [
+   "gossip/414eb2110800e49fbeef5b9e23f4a1e9"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "1bdc62659a6f",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Snang",
+  "quest": null,
+  "en": "I know a few things, but I'm no expert. Lucky for you, Magar is. He's standing near the back of the shop. See if he can help you, but be careful not to rile him. He can be irritable.",
+  "files": [
+   "gossip/ff0d7b4773f6d4aaa94d74340ab3d2c4"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "d9e7a445d989",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Snarl",
+  "quest": null,
+  "en": "Stay away from Sumi and Tumi. They are....spoken for.",
+  "files": [
+   "gossip/3460cf49688cf1e61bb4c182e4fe1f25"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "93e7cdf3a60f",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Snarl",
+  "quest": null,
+  "en": "If I prove myself to Saru he will have no choice but to let me fight for one of his daughters. Then we will see who is sneering.",
+  "files": [
+   "gossip/892843767faa267d3c9dffac4a715fb9"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "8b1788683e1c",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Snarl",
+  "quest": null,
+  "en": "There is nothing more that I can teach - now get out! And don't even think of approaching Saru, for one as unworthy as you he will use your blood to temper his steel.",
+  "files": [
+   "gossip/9a53f418dd0796c16815bebd0a53e258"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "697482f7d8b5",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Snarl",
+  "quest": null,
+  "en": "Come to me again with such pathetic work and I will send you home in a small iron box that I tempered in goat urine. Now go see that idiot Ug'thok, he is better suited to your needs.",
+  "files": [
+   "gossip/a5954f50750c048ad3968621a36bb8a8"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "97f7c79fc3fb",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Snarl",
+  "quest": null,
+  "en": "So you think you are good enough to learn from me? The great Snarl? You are no more than a lowly worm beneath my boot. However, taking on an underling might make me seem more appealing to Sumi and Tumi. Let's see what meager skills you possess.",
+  "files": [
+   "gossip/ff39ca29b26a2bf82446bf23f9f6bdd7"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "72a22fad9e11",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Snurk Bucksquick",
+  "quest": null,
+  "en": "Hey there cutie, you looking for a ride to Grom'gol? I hear it gets mighty steamy down in those jungles, maybe I could join you for a short vacation, show you a real jungle cat.",
+  "files": [
+   "gossip/m-808af6c85a55d2308db805b9fb00b368"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "2f3a469a582c",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Soran",
+  "quest": null,
+  "en": "I guarantee this bank's security with my own blood, is that good enough for you?",
+  "files": [
+   "gossip/3b27a7cc7f607a01029609d1a72bc83d"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "751677471e02",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Soran",
+  "quest": null,
+  "en": "Besides the Grunts outside, my brothers and I fought at the battle of Hyjal. Any who seek to steal from the bank must face us first.",
+  "files": [
+   "gossip/a90d1a70d1794a0870befff1ef52b64e"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "753e96c98374",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Soran",
+  "quest": null,
+  "en": "Would you rather trust your goods with a goblin?",
+  "files": [
+   "gossip/bc269ca0f3298e0f908bb9eedbbb29c7"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "fff165837ba7",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Sovik",
+  "quest": null,
+  "en": "Hello, adventurer! If you don't see it in my shop, chances are good I can get it!",
+  "files": [
+   "gossip/3c995182358b09d304bb6e1c0a9dd8d1"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "b81293c1bb4f",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": null,
+  "en": "Indeed. The brood mother of the Black Dragonflight had used illusion and trickery to disguise herself as a member of the royal court. Worse yet, she had assumed control of the current Highlord of Stormwind, Bolvar Fordragon.\n\nIt is no wonder that such foolish military decisions had been made. The movement of the Alliance forces as of late had left us scratching our heads. We now understand that the Black Flight was attempting to divide the empire - destroy it from within.",
+  "files": [
+   "gossip/0dffdc856101982122f927ec598e0d13"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "2cbf971e9e32",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": null,
+  "en": "No, adventurer, you did not. I do not fault you, however, as yours is a mind much like mine was as a youth: Impetuous, rebellious, and often without a single coherent thought! Traits I can no longer afford to express.\n\nEnough lamenting. Traveler, I have a task for you; one that you may not survive.",
+  "files": [
+   "gossip/5aec396019fcdfa270db2683b7040e77"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "954e67916d9a",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": null,
+  "en": "It would appear as if the influence of the Black Dragonflight had extended beyond the borders of the Burning Steppes and into the kingdom of Stormwind itself! The usurper has since been unmasked and ousted.",
+  "files": [
+   "gossip/656b974c364b6b98a0e3c251f8c80d6d"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "fee0ad544e78",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": null,
+  "en": "So much to learn still, traveler.\n\nYou are too young to remember the wars and bloodshed of ages past. Too young to remember the burden of the curse carried by our people.\n\nOur position with the Alliance right now is a tenuous one. Skirmishes and smaller battles do take place, but there is peace - something our people have not known for millennia. Would you give this up and plunge us into the maw of chaos again but against a new foe? One that will not rest until we are all destroyed?",
+  "files": [
+   "gossip/694b0c97e3b67e685f1271af1647e677"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "57040b57ec22",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": null,
+  "en": "It would be wise to explain to you the depths at which our enemies will go to to hide themselves under our noses.\n\nKnow this first and foremost: our enemy is the Shadow Council. No matter what task I give you, or who I ask you to act against, know that one simple fact.\n\nMany cults exist within the Council, but only to hide its actions against the foolish.\n\nGroups like the Burning Blade, the Argus Wake, and the Searing Blade are all tools of the Council. Consider them one and the same.",
+  "files": [
+   "gossip/6f11c207d5f02ade4f07bf5a74fa922a"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "e505dba14ce5",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": null,
+  "en": "All members of the Horde are equal in my eyes, Adventurer. We have all suffered many burdens, and if it were not for wisdom and honor, then we would be no better than the Scourge or my people while our blood was tainted by the demon Mannoroth.\n\nIt is your duty to aid the Horde and to defend our way of life. But it is also your duty to know when quarter and compassion should be given to friend and foe alike.\n\nUnderstand this well. This is the new Horde, not some demon-spawned army who lack freewill.",
+  "files": [
+   "gossip/9f9522cb3b38114e38c26b9e2421f99e"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "96d9fc2f1778",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": null,
+  "en": "All members of the Horde are equal in my eyes, adventurer. We have all suffered many burdens, and if it were not for wisdom and honor, then we would be no better than the Scourge or my people while our blood was tainted by the demon Mannoroth.\n\nIt is your duty to aid the Horde and to defend our way of life. But it is also your duty to know when quarter and compassion should be given to friend and foe alike.\n\nUnderstand this well. This is the new Horde, not some demon-spawned army who lack freewill.",
+  "files": [
+   "gossip/9fdeb82237b72e8801030487901e690f"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "f2e7400ec8e6",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": null,
+  "en": "The Shattered Hand has been able to place spies throughout the upper citadel of Blackrock. Though the information gathering process has been slow, we have made discoveries that cannot be ignored.",
+  "files": [
+   "gossip/acb7f455459071212f789dd2f7374d82"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "7f2bb66fffa2",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": null,
+  "en": "Noted... Now pay attention, adventurer. The Black Dragonflight brood mother, Onyxia, has been flushed out from her position of power in Stormwind. She has escaped, fleeing to her lair in Dustwallow Marsh.\n\nShe cannot be allowed to live in such close proximity to our capital cities. We must strike before being struck!\n\nI want her destroyed, adventurer.",
+  "files": [
+   "gossip/b241537b75e65a8257b769bec9de42b7"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "8495b5673b95",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thund",
+  "quest": null,
+  "en": "You think you're smart enough? You think you got what it takes? Let's find out!",
+  "files": [
+   "gossip/421cebf2dd4b84c010b52de939feef56"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "ca25af20a542",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thund",
+  "quest": null,
+  "en": "You know who's really smart? Nogg! Smarter than me, even. You go tell Nogg Thund sent you! You can find him by the control panel over there.",
+  "files": [
+   "gossip/c0e4ed9720381722eb52b7670182508e"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "9404220a2b07",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thund",
+  "quest": null,
+  "en": "Who says orcs aren't smart? It takes a lot of brains to be an engineer!",
+  "files": [
+   "gossip/ffe9f497233899e162f84eafcbd6d0d3"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "41079e1828cc",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Thunder Bluff Commendation Officer",
+  "quest": null,
+  "en": "Greetings, adventurer - I'm a Commendation Officer acting on behalf of Thunder Bluff. It is my duty to assist adventurers who have received Horde Commendation Signets.\n\nI accept signets in different quantities, but the most beneficial exchange for you is to hand in a set of ten at once. I will enter your deeds into our records when you hand in your signets. As a result, you will earn recognition from Thunder Bluff for your duty and service.",
+  "files": [
+   "gossip/e546a36a7eeaabafa3ea21329d0ac9da"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "179347759f76",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Thuul",
+  "quest": null,
+  "en": "As a mage, you are one of a select group that can conjure a portal to transport you back to this very place. I can teach you if you are ready.",
+  "files": [
+   "gossip/317be279bffa2ab333006bdd6b42daa4"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "0451f2741462",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Thuul",
+  "quest": null,
+  "en": "I do not believe you possess the mental acuity to grasp the nature of portal magic.",
+  "files": [
+   "gossip/baf464737a46b2a2c6d3438c27648e04"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "392cf0d030d9",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ug'thok",
+  "quest": null,
+  "en": "I can show you what you wish to know, but you must be patient. Take your time to work the steel and feel the way it shapes beneath your hammer. When you become one with the steel, then you will understand.",
+  "files": [
+   "gossip/1292f9db32a49a3e54c9f232d6642515"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "34d56f487cae",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ug'thok",
+  "quest": null,
+  "en": "You learn quickly, that is not a bad thing. Just be sure to do the job right, as long as it takes to do so. Now, I fear I must send you to Snarl to learn more. Learn what he can teach, but do not listen to his angry words. He gets that way when Saru's daughters laugh at him.",
+  "files": [
+   "gossip/24f51d17fe915ec4494f6d0e34a9f697"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "bc3923f47a1f",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ug'thok",
+  "quest": null,
+  "en": "Snarl calls me simple because I am too slow. I just want to do the job right, and that takes time.",
+  "files": [
+   "gossip/fcb888f0ece4f405f7b532de65cab6d0"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "3c4ce9c5c96f",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Undercity Commendation Officer",
+  "quest": null,
+  "en": "Greetings, adventurer - I'm a Commendation Officer acting on behalf of the Undercity. It is my duty to assist adventurers who have received Horde Commendation Signets.\n\nI accept signets in different quantities, but the most beneficial exchange for you is to hand in a set of ten at once. I will enter your deeds into our records when you hand in your signets. As a result, you will earn recognition from the Undercity for your duty and service.",
+  "files": [
+   "gossip/89481ded6e9d55cdc37bf5cbd804a86c"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "6c034a44f3aa",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Urtharo",
+  "quest": null,
+  "en": "So many years of battle and slavery, it feels good to have a home again.",
+  "files": [
+   "gossip/42358e20aa4821ec13efafe2dafad720"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "754ce2718c42",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Urtharo",
+  "quest": null,
+  "en": "Tell me what you want, and make it quick.",
+  "files": [
+   "gossip/92c1b07e4e165a8813160a0c5e6a6a0c"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "24c5517705f7",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Urtrun Clanbringer",
+  "quest": null,
+  "en": "Even in peace there is still war, and many clans still fight beneath the banner of the Warchief. Are you here to add your clan to those that fight for Orgrimmar?",
+  "files": [
+   "gossip/9a8bdb372e76473a8705a53b71983df8"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "bfc78bba72f3",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Vehena",
+  "quest": null,
+  "en": "Aye, you there! If you want to earn the respect of the Darkspear, then you can start by donating valuable resources for those in need! Textiles and bandages don't grow on trees, ya know.\n\nRather than cash in various cloth pieces you find adventuring, donate them! Doing so will earn you the recognition of the Darkspear!",
+  "files": [
+   "gossip/fcd9c2164c91cf223aef5987fbacf8ff"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "63df89e9e164",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warcaller Gorlach",
+  "quest": null,
+  "en": "Greetings and salutations, hero! I have the latest news from both continents and points beyond for your consideration.",
+  "files": [
+   "gossip/cef7b238bc3c92479b26bc56a061585a"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "f6c3240d8b6a",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warlord Gorchuk",
+  "quest": null,
+  "en": "We stand together with the Alliance, traveler. An evil, so old that the world has forgotten it, seeks to engulf us all; first on Kalimdor and then the rest of Azeroth. It is driven by a hatred of all things born of the great Shapers: The eternal Titans.\n\nWe are all that stand in the way of C'Thun's armies. We will strike first and bring down the forces of Ahn'Qiraj. Let all of Azeroth quake at the combined might of the Horde and Alliance.\n\nThe war effort needs you!",
+  "files": [
+   "gossip/867569b880563887beb157cd19a1f51b"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "00f6024c1ae9",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warlord Gorchuk",
+  "quest": null,
+  "en": "Throm'ka, Horde Adventurer, stand proud! I am Warlord Gorchuk, commander of the Horde's war effort. There are trying times ahead of us, but we shall prevail, as always.\n\nIf you have questions, you should ask them.",
+  "files": [
+   "gossip/ff1113878810a7326aec257f03be15c6"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "f004c11f2e3f",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Whuut",
+  "quest": null,
+  "en": "All the bottles on this table are potions I brewed today. And they say a watched pot never boils. Ha!",
+  "files": [
+   "gossip/3acb15be9a5e8a5571335dcfcf05d155"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "0da6a9744ffd",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Whuut",
+  "quest": null,
+  "en": "They called me stupid, but I'll show them. I'm going to watch every pot I have and prove that they can all boil stuff anyway. Yeah, I'm on a roll! Who's stupid now, huh? Huh!?",
+  "files": [
+   "gossip/5aeba2ee94183ab7088af2ae15c03a01"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "bd564e4fdbd3",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Whuut",
+  "quest": null,
+  "en": "Can't help you. You know more about potions than I do. Besides, I have pots to watch. Talk to Yelmak over there. He knows a lot about potions.",
+  "files": [
+   "gossip/a6fce2f8c4b47202a170ae54b00fdde8"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "b5246730226b",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Witch Doctor Mau'ari",
+  "quest": null,
+  "en": "E'ko is da power dat each creatures possesses. Da charm I made for ya allows you ta capture it in a physical manifestation.\n\nI know an incantation dat can transform da e'ko you find, and turn it into juju.\n\nYou can den take the Cache of Mau'ari, an' use it ta reflect da power of da juju onto yourself.\n\nC'mon, give it a try. Bring da e'ko ta Mau'ari an' we have some fun.",
+  "files": [
+   "gossip/10bf42d80d54731cc56b1129871564d4"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "369ef7b3137b",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Witch Doctor Mau'ari",
+  "quest": null,
+  "en": "Ah am very surprised that one wit such a careless nature has gotten dis far...\n\nYah, you may have another charm, but Mau'ari is very displeased wit your actions!\n\nGo, now.",
+  "files": [
+   "gossip/55736486d43a06033535e44262d7f497"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "2fb83e320d02",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Witch Doctor Mau'ari",
+  "quest": null,
+  "en": "Da Cache of Mau'ari holds great secrets... The shards used ta make it are reflective, and you can use its shiny surface ta siphon power from other tings and den reflect it onto yourself.\n\nKeeping da charm in your inventory lets you collect e'ko, da spiritual power from the beasts you fight. Once you find e'ko, you bring it ta Mau'ari.",
+  "files": [
+   "gossip/8c3856d3ea60f4a2ad63d70c66960253"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "7b58b8300e20",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Witch Doctor Mau'ari",
+  "quest": null,
+  "en": "Ah, traveler... I possess great knowledge a' da world and how ta create charms a' great power.",
+  "files": [
+   "gossip/ee0118c262f4f0767f51f3c02deccad3"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "46bb825e990b",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Witch Doctor Mau'ari",
+  "quest": null,
+  "en": "Mau'ari know why you seek her out...\n\nBring me da E'ko you find in the world, an' I can transform it for you.",
+  "files": [
+   "gossip/f66cef306e49f3c3da47f92b03dae4eb"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "d50c147d6987",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Xao'tsu",
+  "quest": null,
+  "en": "Ah friend, I only help hunters and their pets.",
+  "files": [
+   "gossip/219bae0db1dc3bac08b33887cbea7f96"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "6cf6e1e065af",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Xao'tsu",
+  "quest": null,
+  "en": "You've come for training in order to pass it on to your pets?",
+  "files": [
+   "gossip/3e8648aa82161723a67251338bf73c39"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "ea4f0843c5b0",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Xor'juul",
+  "quest": null,
+  "en": "Hey mon, you be needin' to head on over to da adventurer trainer.",
+  "files": [
+   "gossip/3a75f8b0a2ec11bc929978a4d421dc5a"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "c53a8af1fde4",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Xor'juul",
+  "quest": null,
+  "en": "What kin I do for ya, mon?",
+  "files": [
+   "gossip/da08a8de6ae36ba7023d844f7af43f4c"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "81b798786165",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Yelmak",
+  "quest": null,
+  "en": "I'm busy, adventurer. Tell Whuut to handle whatever it is. That young pup has been stewing all day long. He spends much more time like that, and he's going to hurt something.",
+  "files": [
+   "gossip/394b7578a863582891b710fc0e4197bb"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "782562c0d080",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Yelmak",
+  "quest": null,
+  "en": "I'm honored to meet you, adventurer, but your skill at potions is greater than my own. Go see Doctor Herbert Halsey, an undead in the Apothecarium of the Undercity. He can help you from now on.",
+  "files": [
+   "gossip/a072b3abc76b71077e3d1be09b95da83"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "5a062ca16fc1",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Yelmak",
+  "quest": null,
+  "en": "Another student, eh? All right. I'll see what I can do to help you out.",
+  "files": [
+   "gossip/d3bef4bf422a40408d5b3a0703f1e056"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "181ab9210584",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Yelmak",
+  "quest": null,
+  "en": "You're talking to the wrong orc. I don't train novices. Talk to young Whuut over there... and use small words.",
+  "files": [
+   "gossip/dc5f01a7caf937c808eda68e7ed6a043"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "cc90dd5d6bb7",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Zamja",
+  "quest": null,
+  "en": "Can Zamja help you, traveler?",
+  "files": [
+   "gossip/ad344693e6c8ac1ec01370090a570643"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "af62b78167e1",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zando'zan",
+  "quest": null,
+  "en": "Zando'zan of the Shattered Hand. How can Zando'zan help you? He can't! He won't!",
+  "files": [
+   "gossip/278905793296e13c5c606639f4c4456e"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "b6837c856323",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Zas'Tysh",
+  "quest": null,
+  "en": "Hail adventurer. Didn't I see you recently at an exclusive gathering? You look familiar, but then again this city is a busy place.\n\nIf you attended that convention, then surely you were given a secret code. Tell me your code and I will give you a special prize in return.",
+  "files": [
+   "gossip/28755471b38e6eb285e0d80db6c9498a"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "dc8ffe6aae77",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zel'mak",
+  "quest": null,
+  "en": "Take it easy, mon. I only train da warriors.",
+  "files": [
+   "gossip/ca064fbb60369e53eafa38882b28ef51"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "a224095b4f72",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zilzibin Drumlore",
+  "quest": null,
+  "en": "These are dangerous times, traveler. An ancient evil is rising, and it cares not if you're Horde or Alliance.",
+  "files": [
+   "gossip/9fdec023d3ece5864f7f1093641f767e"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "0be8d88ad61b",
+  "zone": "orgrimmar-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Zor Lonetree",
+  "quest": null,
+  "en": "The spirits of nature are powers to respect. They offer great aid to the worthy, and mete out swift death to the foolish.",
+  "files": [
+   "gossip/a5223dc4bf0db5b831ca2ba32a54681b"
+  ],
+  "uiMap": 1454
+ }
+]

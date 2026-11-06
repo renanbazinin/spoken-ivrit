@@ -1,0 +1,1304 @@
+[
+ {
+  "id": "2f1eac46c151",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ashlan Stonesmirk",
+  "quest": "A Dark Threat Looms",
+  "en": "Ah, well Ol' Hinderweir is wise to be worried.",
+  "files": [
+   "quests/161-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "899dd5d978d6",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ashlan Stonesmirk",
+  "quest": "A Dark Threat Looms",
+  "en": "This ain't no ordinary blast powder. Look at the tiny silver crystals. And the distinct smell! Why it's clear as daylight that this is Seaforium Powder. Seaforium is harmless enough. But once it's wet it could blow Ironforge out of the mountain.\n\nThe chemical reaction can be defused by mixing four components: lurker venom, crushed Mo'Grosh crystal, a crocolisk tear and this disarming colloid. Now tell Hinderweir before it's too late!",
+  "files": [
+   "quests/274-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "1046683e80ab",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Hinderweir VII",
+  "quest": "A Dark Threat Looms",
+  "en": "The Stonewrought Dam has been saved! Three cheers for adventurer!",
+  "files": [
+   "followup/546-dwarf-male-grim"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "bb208314ba18",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Hinderweir VII",
+  "quest": "A Dark Threat Looms",
+  "en": "If my suspicions are correct, this is some type of explosive powder. This must be analyzed by an explosives expert so we know just what we're dealing with here. Ashlan Stonesmirk was assigned to the regiment guarding Dun Modr and the Thandol Span. I need you to make a grave and perilous journey, Adventurer.\n\nTravel through the Algaz Gate, follow the road through the Wetlands and seek out Stonesmirk in Dun Modr. Heed my advice: stick to the roads and stop for nothing!",
+  "files": [
+   "quests/161-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "61701d560652",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Hinderweir VII",
+  "quest": "A Dark Threat Looms",
+  "en": "This is an alarming discovery, to say the least!",
+  "files": [
+   "quests/199-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "212e3f7cce21",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Hinderweir VII",
+  "quest": "A Dark Threat Looms",
+  "en": "Thank the stars someone is concerned about the well-being of the Dam. First the destruction of the Thandol Span and then the pillaging of Dun Modr! I have no doubt that the Dam will be the target of the next Dark Iron threat. Most of the security detail here was reassigned to the Alliance Front, including my top inspector.\n\nThat's why I need you, Adventurer. I spotted some Dark Iron Sappers milling about the eastern ramp of the Dam. Investigate the area and bring back a clue.",
+  "files": [
+   "quests/250-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "7241a8e38cbf",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Hinderweir VII",
+  "quest": "A Dark Threat Looms",
+  "en": "A disarming colloid? For Seaforium? Oh heavens!",
+  "files": [
+   "quests/274-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "18ce84a04b89",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Hinderweir VII",
+  "quest": "A Dark Threat Looms",
+  "en": "Begin collecting the disarming materials immediately, Adventurer. Lurker Venom can be found on the indigenous spiders in Loch Modan. Crocolisk tears are found here in the Loch as well. But a Mo'Grosh crystal will be very difficult to procure. The ogres to the northeast mine them but the crystals are a very rare commodity.\n\nWe need to be prepared to defuse a Dark Iron attack! Return to me once you've collected the needed items and I will prepare the mixture.",
+  "files": [
+   "quests/278-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "fe48b09fbec0",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Hinderweir VII",
+  "quest": "A Dark Threat Looms",
+  "en": "Just in time, Adventurer!",
+  "files": [
+   "quests/278-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "7e74870a1d3e",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Hinderweir VII",
+  "quest": "A Dark Threat Looms",
+  "en": "Earlier today I spotted some Dark Iron Insurgents swimming toward the Dam with a large keg. No Mountaineers were on hand to stop them! I'm afraid they've planted the Seaforium at the base of the Dam and it could blow at any minute! Let me combine all these ingredients into the Disarming Mixture. There we go.\n\nNow I need you to take this mixture and stir it into the keg before it's too late! Hurry!",
+  "files": [
+   "quests/280-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "9316fbd26da7",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Hinderweir VII",
+  "quest": "A Dark Threat Looms",
+  "en": "Thank you so much, Adventurer!! You have saved the Stonewrought Dam! Without your help, the Dark Iron terrorists would have surely seen to this mighty landmark's demise. You have made the Kingdom and the Alliance proud, brave Adventurer.\n\nThe Dam is once again safe. . . for the time being at least. . . .",
+  "files": [
+   "quests/283-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "1bfe73f470af",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Explosive Charge",
+  "quest": "A Dark Threat Looms",
+  "en": "The keg fizzles slightly as the Disarming Mixture settles in.",
+  "files": [
+   "quests/280-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "887a125db470",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Explosive Charge",
+  "quest": "A Dark Threat Looms",
+  "en": "The keg fizzles slightly.",
+  "files": [
+   "quests/283-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "316814b081ed",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Suspicious Barrel",
+  "quest": "A Dark Threat Looms",
+  "en": "You take a sample of the strange smelling powder.",
+  "files": [
+   "quests/199-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "95e595bbc55e",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Suspicious Barrel",
+  "quest": "A Dark Threat Looms",
+  "en": "The suspicious looking barrel contains a strange smelling powder.",
+  "files": [
+   "quests/250-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "167e9cd05134",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Daryl the Youngling",
+  "quest": "A Hunter's Boast",
+  "en": "Think you can match wits with Daryl the Bold, huh? I should think not! Of course, you're more than welcome to try. Here's a challenge that should prove to be above your abilities, so don't feel too bad if you can't face up to it.\n\nA flock of buzzards has nested here in Loch Modan. Why don't you try to take down some of the beasts? Tell you what, if you meet my challenge in fifteen minutes, I'll give you my bow or gun.\n\n\nIt seems you haven't much to lose, anyways.",
+  "files": [
+   "quests/257-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "53afb27947e5",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Daryl the Youngling",
+  "quest": "A Hunter's Boast",
+  "en": "What? Success?\n\nTake it from me, adventurerama, you don't let it get to your head. I mean, any unshaven boy with a bow could have killed such... small specimens. And I hope you don't enjoy killing the buzzards so much, yes? We wouldn't want them to become extinct. \n\nWell, err... Never let it be said that Daryl the Bold would not hold to his word.",
+  "files": [
+   "quests/257-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "830b268e0467",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Daryl the Youngling",
+  "quest": "A Hunter's Challenge",
+  "en": "adventurerath, is it? I can tell you're bursting with pride over completing the first test, hm? As I told you before, it's no large feat.\n\nYou should try your hand at boar hunting. Trust me, this is no Coldridge Valley boar hunt, so you'd best have a care with them. I'll give you just twelve minutes this time.\n\nDon't feel bad if you fail. I'd give you the shirt off my back if you succeeded!\n\nHave I ever related to you the story of how I received my famous scar? No? It was two years ago...",
+  "files": [
+   "quests/258-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "06ae36b157a3",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Daryl the Youngling",
+  "quest": "A Hunter's Challenge",
+  "en": "You seem a bit worse for wear. No doubt the boars gave you some trouble, hm? No worries, I will be discreet about your struggle, I can imagine how hard it must be for you without the accusations of wagging tongues.\n\nOh! You managed to kill the boars? I... well, that is... that is to say, I'm not surprised! Any child could have--bet?\n\nWhat bet?",
+  "files": [
+   "quests/258-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "c26cc20d0f34",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Huldar",
+  "quest": "After the Ambush",
+  "en": "We'd been hauling the barrels of powder back and forth in trips before this... business. Now we have to split up the work, Miran's taking the barrels and I'm watching over the other ones.\n\nI don't feel safe letting Miran haul the rest of the shipment by himself. When he's ready to go, maybe you could escort him on his next trip?",
+  "files": [
+   "quests/454-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "cf117c411b3d",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Miran",
+  "quest": "After the Ambush",
+  "en": "Hello, adventurer.\n\nYou'll be escorting me to the excavation site? That's good to hear... After Saean and his cronies, who knows what else the Dark Irons might have up their sleeves?\n\nAnyways, let me just make some final checks. Talk to me again when you're ready to go.",
+  "files": [
+   "quests/454-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "b1392b85159d",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ghak Healtouch",
+  "quest": "Badlands Reagent Run",
+  "en": "Adventurer, I would make use of your services. I am an alchemist of some note, and I seek your aid in acquiring some reagents found out in the Badlands.\n\nI need the following items to replenish my stocks: five buzzard gizzards, ten crag coyote fangs, and five rock elemental shards. Obviously, you can get them off of the beasties themselves; if you're not the fighting type, then find friends who are.\n\nAcquire these items for me, you'll get some coin out of the deal.\n\nWell, what say ye?",
+  "files": [
+   "quests/2500-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "698967ce941c",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ghak Healtouch",
+  "quest": "Badlands Reagent Run",
+  "en": "Ah, well done Adventurer. These should last me for a little while at least. Here is your pay, as promised.\n\nIf you're interested, I have some more reagents I could use. These, however, are only found in the depths of the Uldaman excavation. They will not be easy to get, but I will make it worth your while if you are interested in helping me again.\n\nPerhaps something more than some shiny coins, yes?",
+  "files": [
+   "quests/2500-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "8a5edada40c4",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ghak Healtouch",
+  "quest": "Badlands Reagent Run II",
+  "en": "You have been most helpful to me, Adventurer. I would like to reward you with the very recipe for the brew I gave you earlier, but I must ask of you a favor that is quite dangerous.\n\nThis lockbox contains three empty thaumaturgy vessels; they are imbued with an attunement aura that will drain the blood of a scorched guardian dragon. Using one on the beast will anger it greatly, so be careful. Once you have all three filled, bring them to me.\n\nDo this, and the recipe will be yours.",
+  "files": [
+   "quests/2501-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "1f70eb769260",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ghak Healtouch",
+  "quest": "Badlands Reagent Run II",
+  "en": "From one alchemist to another, I salute you. Here, take this recipe and commit it to your knowledge. May it bring you the success and rewards that it has brought me over the years!",
+  "files": [
+   "quests/2501-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "4da24738cc8d",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Captain Rugelfuss",
+  "quest": "Banner of the Fallen",
+  "en": "You found Ylva's body? Ah, the poor woman. She said she was going to show the troggs that Ironforge would never fall to their kind. She went looking for a few mountaineers who never returned from a patrol through trogg country. She was always too independent-minded to be cautious. Now we know what happened.\n\nI'll take the banner back and make sure it's cleaned up and displayed. You should take her weapon. May it serve you well against the troggs.",
+  "files": [
+   "quests/86585-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "af809fb3a2f4",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Mountaineer Ylva",
+  "quest": "Banner of the Fallen",
+  "en": "The fallen mountaineer bears a standard of Ironforge. Perhaps she was scouting, or making a doomed charge. Either way, the standard has been cast down and trampled. The mountaineer was hit on the head so hard that her helm was knocked off and she was killed outright by a trogg, likely with a spiked club.\n\nThe trogg that killed her is probably still nearby, and likely remembers the banner. Raising the banner of Ironforge once more may call it out.",
+  "files": [
+   "quests/86585-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "690a61f7a31b",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bingles Blastenheimer",
+  "quest": "Bingles' Missing Supplies",
+  "en": "As if crashing into the Loch wasn't bad enough, troggs from the nearby island attacked me and stole my tools and special Blastenheimer Blastencapper explosives. With no gyrocopter and no explosives, the movement has no chance!\n\nGet my tools back and find my Blastencapper explosives, Adventurer. For Gnomeregan!",
+  "files": [
+   "quests/2038-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "34f5512f8616",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bingles Blastenheimer",
+  "quest": "Bingles' Missing Supplies",
+  "en": "You've done the movement a great service, Adventurer. The troggs and leper gnomes infesting Gnomeregan will soon feel the brunt of a gnomish air assault!",
+  "files": [
+   "quests/2038-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "491b33554d6f",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Marek Ironheart",
+  "quest": "Crocolisk Hunting",
+  "en": "Many a hunter is attracted to Loch Modan to hunt our famous crocs. There are always merchants who seek out crocolisk skins for clothing items or armor, and there are also some who enjoy the taste of their meat.\n\nWe do some trade in this, but not a huge amount, as the crocolisks are ferocious and have entrenched themselves on the islands in the Loch. But don't let me dissuade you, it's quite an experience, wrestling with the jaws of the beasts.\n\nWhy, this one time...",
+  "files": [
+   "quests/385-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "ef59d764e5e4",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Marek Ironheart",
+  "quest": "Crocolisk Hunting",
+  "en": "Well now, these are excellent specimens you collected, adventurer. Good money for high quality materials, that's for sure.",
+  "files": [
+   "quests/385-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "560023c82612",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Jern Hornhelm",
+  "quest": "Excavation Progress Report",
+  "en": "Bah! Ironband's having trouble with the Troggs. I wonder if he wants that blastpowder to aid his digging, or to aid his efforts against the Trogg beasts...\n\nWell, either way it's powder well spent!\n\nBut what's strange is, I sent him plenty of blastpowder weeks ago. I wonder where it went...",
+  "files": [
+   "quests/298-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "ef0187846e2c",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Ironband",
+  "quest": "Excavation Progress Report",
+  "en": "I need a progress report sent to Thelsamar - a progress report, and a restatement of my request for more blastpowder! Here's the report. Take it to Jern Hornhelm. He's our local contact in Thelsamar.\n\nIt's not a difficult task, but it must be done.",
+  "files": [
+   "quests/298-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "96047c8acc07",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Ironband",
+  "quest": "Excavation Tools",
+  "en": "Our tools!\n\nWhen the troggs overran the camp, we had to leave most of our tools behind. This'll be a big help once we get this invasion under control and can start working again!",
+  "files": [
+   "quests/86613-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "ea6a3f5ef82f",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Stormpike",
+  "quest": "Filthy Paws",
+  "en": "The Silver Stream Mine to the east ran dry long ago. It was converted by the Miners' League into a storage depot, but now Kobolds have moved in, putting their filthy paws on good, Dwarven tools!\n\nWe'll root out those vermin soon enough, but the League wants someone to get their gear out of the mine before we warriors tromp in there and break things. It'll be a tough delve - you might want cohorts at your side.\n\nThe gear is stored in Miners' League Crates throughout the mine. Good luck.",
+  "files": [
+   "quests/307-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "2813ec8b117d",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Stormpike",
+  "quest": "Filthy Paws",
+  "en": "Did you see a lot of Kobolds in there? I can't wait for the order to clear them out of the mine. The thought of their grimy hands clawing around our mine makes my stomach rumble!",
+  "files": [
+   "quests/307-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "1d2a657fd0e1",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Magmar Fellhew",
+  "quest": "Gathering Idols",
+  "en": "Recently, just before the Troggs surfaced within the site, we had uncovered a large number of strange, carved idols. But we didn't have the chance to study them, for soon after their discovery the Troggs chased us away from the ruins! And those idols have a strange effect on the Troggs. It makes them go berserk!\n\nBring me 8 idols - I want to study them, and I want them out of Trogg hands! You can find the idols on the Troggs infesting the site.",
+  "files": [
+   "quests/297-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "547e8e479ad1",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Magmar Fellhew",
+  "quest": "Gathering Idols",
+  "en": "You got them! Nicely done, Adventurer!\n\nAnd you don't look too worse for wear, even with those berserk Troggs about. I'm going to keep my eye on you...you show some promise.",
+  "files": [
+   "quests/297-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "4aa82f6ee031",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Golnir Bouldertoe",
+  "quest": "Gryth Thurden",
+  "en": "Here are the honorary picks for Brock's students. If you've already been to Thelsamar, then you should fly a gryphon back there!\n\nTake the picks to our gryphon master, Gryth Thurden, and speak with him about a ride back to Thelsamar.",
+  "files": [
+   "quests/6388-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "0fe876815f25",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gryth Thurden",
+  "quest": "Gryth Thurden",
+  "en": "You have to get these to Thelsamar, eh? That won't be a problem. As long as you've already been to Thelsamar and spoken to Thorgrum Borrelson, then you can take one of my gryphons back to him.",
+  "files": [
+   "quests/6388-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "b478c0fc0a2b",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Brock Stoneseeker",
+  "quest": "Honor Students",
+  "en": "I see a lot of young dwarves at my door, eager to learn the trade of mining. And if there's one thing a miner needs more than anything, it's a pick!\n\nI have a list of mining students who scored high in their lessons and earned an honorary pick. Take my list to Golnir Bouldertoe in Ironforge. He'll get the picks ready.\n\nThe fastest way to Ironforge is on a gryphon, so bring the list to our gryphon master, Thorgrum Borrelson, and speak with him about transport to Ironforge.",
+  "files": [
+   "quests/6387-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "f7012f2c1e0c",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thorgrum Borrelson",
+  "quest": "Honor Students",
+  "en": "You have to get this to Ironforge, eh? For a small fee I can put you on the back of one of my gryphons, and it'll take you there. How does that sound?",
+  "files": [
+   "quests/6387-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "8947ad771fa3",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Captain Rugelfuss",
+  "quest": "In Defense of the King's Lands",
+  "en": "Adventurer, our scouts have identified the leader of this recent Trogg incursion. It appears that these beasts in Loch Modan are following the lead of a chieftain named Grawmug. Grawmug is heavily guarded, however. Two of his most elite guards, Gnasher and Brawler, never leave his side.\n\nIf you feel yourself worthy, Adventurer, I want you to lead the assassination mission on Grawmug and his two thugs. With the Trogg leadership dead, we just might stand a chance at pushing these beasts back into the ground.",
+  "files": [
+   "quests/217-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "1e4463e2d4ee",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Captain Rugelfuss",
+  "quest": "In Defense of the King's Lands",
+  "en": "Most excellent, Adventurer! You have brought hope to Loch Modan. With Grawmug dead, we stand a better chance of seeing the Troggs eliminated from the land.",
+  "files": [
+   "quests/217-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "eea3b8e49c68",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Cobbleflint",
+  "quest": "In Defense of the King's Lands",
+  "en": "We need to protect the Loch, Adventurer! With so many of the King's soldiers fighting valiantly on remote battlefields, we've become overwhelmed on the home front. Troggs are tunneling up from every crevice! The Trogg infestation poses the largest threat to Ironforge. These disgusting mutants must be destroyed.\n\nWe need you, brave adventurer, to venture forth and lay waste to the Trogg threat. Slay 10 Stonesplinter Troggs and 10 Stonesplinter Scouts and report back.",
+  "files": [
+   "quests/224-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "6ed830317440",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Cobbleflint",
+  "quest": "In Defense of the King's Lands",
+  "en": "Well done, Adventurer! You demonstrated uncanny courage on the battlefield. Our war against the Troggs will be won with efforts such as yours. You have served King Magni well.\n\nIf you fancy yourself well-suited for this kind of adventuring, I suggest you speak with Mountaineer Gravelgaw. The Captain has him assigned to a rough patrol that I am sure he can use some help with. Check with Gravelgaw just inside the tower.",
+  "files": [
+   "quests/224-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "ced7c8eee652",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Gravelgaw",
+  "quest": "In Defense of the King's Lands",
+  "en": "Mountaineer Cobbleflint had nothing but good things to say about you, traveler. For that reason I am going to entrust upon you a mission of utmost importance. We need to keep pressure on the invading Trogg forces until our Dwarven brethren return from the Alliance front.\n\nSet forth into the southern hills and kill 10 Stonesplinter Skullthumpers and 10 Stonesplinter Seers. Your attacks will buy us some time. Report back when your mission is complete.",
+  "files": [
+   "quests/237-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "2541d5433372",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Gravelgaw",
+  "quest": "In Defense of the King's Lands",
+  "en": "You accomplished your mission well, traveler. The King himself would be proud.\n\nThe reinforcements promised to us never showed, however. Apparently the Alliance front is a sea of crimson from the blood of our fallen brethren. The news of the losses leaves a bitter taste in one's mouth. But we must not let their deaths go for naught. We must rally in these grim times and bring glory back to the Alliance.\n\nSpeak with Mountaineer Wallbang for reassignment. You're needed now more than ever.",
+  "files": [
+   "quests/237-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "705a4ba90275",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Wallbang",
+  "quest": "In Defense of the King's Lands",
+  "en": "The Mountaineers tell me you are quite brave and capable, Adventurer. We need a traveler like you around here. The Trogg problem isn't getting any better. The reserves have been called to the front and we're all alone out here. But now that we have a seasoned adventurer here, let's see what you can do.\n\nGo out and kill 10 Stonesplinter Shaman and 10 Stonesplinter Bonesnappers. Let's see if you live up to your reputation, Trogg-Slayer.",
+  "files": [
+   "quests/263-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "e565a785b13d",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Wallbang",
+  "quest": "In Defense of the King's Lands",
+  "en": "I knew the second I laid eyes on you, Adventurer, that you would make Ironforge proud. You have served King Magni well. Now that you've proven yourself to be such a loyal aid to the Kingdom, perhaps you should talk with the Captain to see if he'll entrust you with a higher detail.\n\nI salute you, Adventurer.",
+  "files": [
+   "quests/263-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "1c014930694c",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Morhan Coppertongue",
+  "quest": "Ingredients for the Forge",
+  "en": "Thelsamar's a great place to live, but we don't have all of the amenities of Ironforge. I'm always running out of bronze! I need more bronze if I'm going to keep making tools and kettles and pots!\n\nI can tell you have a little experience at the forge. Think you could smelt me some bronze bars? I can pay you well for it!",
+  "files": [
+   "quests/86776-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "6808ee10d82e",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Morhan Coppertongue",
+  "quest": "Ingredients for the Forge",
+  "en": "Ah, this is a relief! I should be able to keep the forge going now. Hopefully one of these days we'll get a trader bringing coal into town regularly!",
+  "files": [
+   "quests/86776-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "e11a7a2b94c4",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Jern Hornhelm",
+  "quest": "Ironband's Excavation",
+  "en": "Prospector Ironband is heading an excavation of ancient ruins east of the lake. His progress has been slow lately, especially considering all the supplies we've sent him.\n\nIronband's a stout, honest dwarf who values results, which has me worried that forces are at work against him.\n\nGo to Ironband's Excavation and speak with Magmar Fellhew. He manages the details of the site and will know why there's a slowdown.\n\nTo get to the excavation site, go around the southern tip of the lake, then head east.",
+  "files": [
+   "quests/436-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "a170216f46d0",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Magmar Fellhew",
+  "quest": "Ironband's Excavation",
+  "en": "Jern wants to know what the slowdown is, eh?\n\nIronband is putting together his latest progress report with details, but I can tell you this:\n\nIt's the Troggs!!",
+  "files": [
+   "quests/436-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "cb2ba3584c3c",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Bluntnose",
+  "quest": "Mercenaries",
+  "en": "Two months just to hear from Ironforge that we'll be spared a handful of soldiers for our own defense, and another two months until they arrive! Bad enough that our town goes unprotected, but the excavation and the dam--the dam!--are open to attacks as well.\n\nI've no choice then, it seems. I'll need hired arms.\n\nHow about you? You seem a likely sort, adventurer. A group of ogres has set up camp on the northeast of the lake. Perhaps you could recruit some others and help remove the threat to our town?",
+  "files": [
+   "quests/255-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "48f53a8afd5f",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Bluntnose",
+  "quest": "Mercenaries",
+  "en": "Ah, this is excellent news! Your efforts are greatly appreciated by myself and the people of Thelsamar. Better yet, if we can solve the ogre problem, we'll be able to shift our focus to those Light-burning troggs.",
+  "files": [
+   "quests/255-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "82aecd3a27c6",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Kadrell",
+  "quest": "Mountaineer Stormpike's Task",
+  "en": "I hear Mountaineer Stormpike is looking for a runner. Someone to do a little traveling for him. How about it? Are you the traveler for the job?\n\nIf so, then you'll find Stormpike at the top of the northern guard tower.",
+  "files": [
+   "quests/1339-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "e28565f1fd1f",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Stormpike",
+  "quest": "Mountaineer Stormpike's Task",
+  "en": "That's right. I have a task that I can't do while I'm guarding. In fact, it'll take you far from Loch Modan.\n\nYour perfect chance for adventure!",
+  "files": [
+   "quests/1339-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "dd9692f771c2",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Jern Hornhelm",
+  "quest": "Powder to Ironband",
+  "en": "What? Stormpike wants you to personally see the shipment to Ironband?\n\nI... suppose that's fine, the only problem is, I've already sent Huldar with the porters, Miran and Saean. You just missed them, they left just a short while ago.",
+  "files": [
+   "quests/302-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "da6841f70599",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Stormpike",
+  "quest": "Powder to Ironband",
+  "en": "If Ironband still needs blastpowder, then by Magni he'll have it! I sent the approval on ahead with a messenger to Jern Hornhelm in Thelsamar. He'll prepare the powder and other supplies to take to Ironband.\n\nAnd one more thing: I want you to personally see that the shipment of powder reaches its destination. The last one didn't, so keep your mind sharp and your eyes open.",
+  "files": [
+   "quests/302-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "7dae6fe1ad11",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Curator Thorius",
+  "quest": "Proof of Deed",
+  "en": "I have just the spot for this horn!",
+  "files": [
+   "followup/4305-dwarf-male-standard"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "5b7ca3c69595",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Curator Thorius",
+  "quest": "Proof of Deed",
+  "en": "What's this?\n\nOh my, I don't believe it! Do you realize what you've got here, traveler? This is the horn of Margol the Rager! Margol, the bane of every archaeologist that ever set foot in the Searing Gorge.\n\nMay I keep it?",
+  "files": [
+   "quests/3182-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "39557e1b3810",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Mountaineer Pebblebitty",
+  "quest": "Proof of Deed",
+  "en": "You expect me to believe a story like that? The real horn would have had my broken axe head still lodged into its surface.\n\nListen, take that obvious fake to Curator Thorius in Ironforge. If he can validate your claim, you will receive a proof of deed. Bring that proof back to me and I'll give you the key to the Searing Gorge.\n\nGet going!",
+  "files": [
+   "quests/3182-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "432c682ed3b4",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Miran",
+  "quest": "Protecting the Shipment",
+  "en": "Ready to go, adventurer?\n\nFirst, we need to get this powder to Ironband. It'll be a lot for me to carry, and these parts can get dangerous -- and who knows what else the Dark Irons might have in store for me.\n\nI'll feel a lot better with you coming along.",
+  "files": [
+   "quests/309-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "a2e857fde571",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Ironband",
+  "quest": "Protecting the Shipment",
+  "en": "Oh, thank the Light the powder is here. But it is troubling news that you bring as well. To think that the Dark Irons have sympathizers able to procure this sort of material for their dastardly plans.\n\nThat's a matter for someone else to consider, some other time. I must put this powder to good use.",
+  "files": [
+   "quests/309-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "f8505675050a",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Kadrell",
+  "quest": "Rat Catching",
+  "en": "We have a real infestation problem to the west. Tunnel rat kobolds have moved into the foothills, setting up dens and fouling our land with their filth!\n\nWe want them eliminated. Hunt them, bring me their ears and earn their bounty.\n\nYou can find tunnel rat kobolds and their dens west of Thelsamar, littered along the mountainside.",
+  "files": [
+   "quests/416-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "9009d055319d",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Kadrell",
+  "quest": "Rat Catching",
+  "en": "Ugh! When I asked for those ears I didn't realize they'd smell so bad!\n\nHere's your reward, Adventurer. Well done.",
+  "files": [
+   "quests/416-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "8858b668a3fc",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Jern Hornhelm",
+  "quest": "Report to Ironforge",
+  "en": "We'll need approval to get Ironband more blastpowder. You'll have to take his report to the Explorers' League headquarters in Ironforge.\n\nHere's the report. Give it to Prospector Stormpike, and don't forget to duck after you deliver it. Stormpike is hotheaded, and he won't be happy to hear of Ironband's slow progress at the site.\n\nYou'll find Stormpike in the Assembly of Explorers.",
+  "files": [
+   "quests/301-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "97afaad9d41c",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Stormpike",
+  "quest": "Report to Ironforge",
+  "en": "Curse that Ironband! I sent him a load of blastpowder weeks ago, but he's made no mention of it in this report.\n\nSo...where did the blastpowder go?!?",
+  "files": [
+   "quests/301-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "c4db4440439f",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Huldar",
+  "quest": "Resupplying the Excavation",
+  "en": "Hmph, it'll take more than a Dark Iron ambush to stop the deliveries!\n\nBut Saean... I would never have suspected him to be one of their sympathizers. We've been working with him for almost a year now... maybe I missed the signs.\n\nWell, I'll consider that later.",
+  "files": [
+   "quests/273-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "836b1a91d2bf",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Jern Hornhelm",
+  "quest": "Resupplying the Excavation",
+  "en": "It's not too late though, you're welcome to go look for Huldar. He can't have made it very far, strong as they are, Miran and Saean can only move so fast laden down with those barrels.\n\nThey're taking the normal route to the site, leaving south out of town and following the curve of the Loch.\n\nShouldn't have a problem finding them unless they've already gotten there.",
+  "files": [
+   "quests/273-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "6206261ee20d",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Brock Stoneseeker",
+  "quest": "Return to Brock",
+  "en": "You brought the picks. Great! I'll get these to my mining students. I'm sure they're eager to use them on the ore deposits of Loch Modan.\n\nThank you for your help, Adventurer. I am in your debt, but I hope this money will at least cover your travel costs.",
+  "files": [
+   "quests/6392-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "f48b5917e0a0",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gryth Thurden",
+  "quest": "Return to Brock",
+  "en": "For a small fee you can buy a gryphon ride to Thelsamar... as long as you've already been there. Gryphons will only fly you to places you've already been, so be sure to speak with every gryphon master you see so you can fly to him later.\n\nYou've already been to Thorgrum, the gryphon master of Thelsamar, so now you can return to him. And once in Thelsamar, you can deliver the picks to Brock Stoneseeker.\n\nSpeak with me when you're ready to go.",
+  "files": [
+   "quests/6392-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "5f166da829b9",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Golnir Bouldertoe",
+  "quest": "Ride to Ironforge",
+  "en": "Ah, the lastest list of Brock's best pupils. I have a batch of honorary picks ready to go. I just need to chisel in the names of the students...",
+  "files": [
+   "quests/6391-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "ba9c06640457",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thorgrum Borrelson",
+  "quest": "Ride to Ironforge",
+  "en": "For just a few coins, one of my gryphons will take you to Ironforge. From there, deliver Brock's list to Golnir Bouldertoe. You'll find him in the Deep Mountain Mining Guild. That's in the Great Forge District of Ironforge, which is right where my gryphon will drop you off!\n\nSpeak to me again when you're ready for the journey.",
+  "files": [
+   "quests/6391-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "c931e7e956d5",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Discarded Fishing Toolbox",
+  "quest": "Silver of the Waves",
+  "en": "<Among the fishing knickknacks in the debris are some rusty hooks, broken spools of wire, and a slightly corroded but ornate silver hair clip with the monogram \"K.D.\">",
+  "files": [
+   "quests/86614-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "7a95392457b5",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Khara Deepwater",
+  "quest": "Silver of the Waves",
+  "en": "My hair clip! I thought this was lost for good!\n\nThis'll shine right up with just a little work. Thank you for bringing it to me! I'll make it worth your while.",
+  "files": [
+   "quests/86614-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "41140281b026",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Grenhild Darktalon",
+  "quest": "Snowbound",
+  "en": "My old mentor, Norric, sent a minor elemental with an odd request. He needs a jar of snow for some of his shamanic workings! I don't know what he's going to do with that, but I learned a long time ago not to question his ways with respect to magic.\n\nI'm busy settling in and learning about the local elementals, so I can't leave to help him. Could you do this for me? Head over to South Gate Pass where there's snow year-round. Scoop some up in this ceramic jar and bring it to him before it melts.",
+  "files": [
+   "quests/86667-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "d6c90b1fb865",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Norric Lochthane",
+  "quest": "Snowbound",
+  "en": "This jar is for me?\n\nSnow! Grenhild did it! She sent the snow that I asked for!\n\nA pity, though, I was hoping she would come and visit herself.\n\nUh, anyway, you probably deserve a little something for your effort. Here you go.",
+  "files": [
+   "quests/86667-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "3480aa71c7de",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Furen Longbeard",
+  "quest": "Stormpike's Order",
+  "en": "Ah, a request from one of the Stormpikes. That's a proud clan, full of quality dwarves. Rich ones, too.\n\nThank you, Adventurer. I'll get to work on Mountaineer Stormpike's shield by the end of the day.",
+  "files": [
+   "quests/1338-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "ec2be40884f1",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Stormpike",
+  "quest": "Stormpike's Order",
+  "en": "There is a dwarven armorsmith whose work I admire greatly. His name is Furen Longbeard, and his skill is unmatched. I need a new shield, and I must have one of his!\n\nThe problem is... Furen is far to the south, in the dwarven district within Stormwind. In human lands! I can't imagine why he would live there, so far from Ironforge. The humans must pay him a king's ransom to keep him there!\n\nSo, if you want to travel and don't mind making some money, then will you send Furen my request for a shield?",
+  "files": [
+   "quests/1338-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "bd898a680083",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Captain Rugelfuss",
+  "quest": "The Trogg Threat",
+  "en": "Adventurer, you may or may not be aware of the Trogg threat looming over Dwarven lands. With the Ironforge Reserve called up to the Alliance Front, we are left with a fraction of the defense forces needed to keep these lands safe. My regiment is assigned to watch over the Gate here and we cannot leave our post for fear of invasion.\n\nBut we need some pressure put on those damned Troggs lurking in the hills. If you're up to the task, wage an assault on the Troggs. Bring me back 8 Trogg Stone Teeth as proof.",
+  "files": [
+   "quests/267-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "91f3516390cd",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Captain Rugelfuss",
+  "quest": "The Trogg Threat",
+  "en": "I am quite impressed, Adventurer. You have done the Dwarven race a great favor by defending our lands. King Magni Bronzebeard himself would be proud!",
+  "files": [
+   "quests/267-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "970231827665",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Vidra Hearthstove",
+  "quest": "Thelsamar Blood Sausages",
+  "en": "There's never a shortage of empty bellies here in Thelsamar, kids running in and out, workers from the excavation coming in after a hard day's work. We're famous for our blood sausages, I don't suppose you've ever tried them?\n\nNo? Well, around here you've got to work for your meals, and don't think just because you're a fancy adventurer, you'll be any exception.\n\nI'll need bear meat, boar intestines for the casings, and spider ichor for spice. You get me some of those, and leave the cooking to Vidra!",
+  "files": [
+   "quests/418-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "4492a527fd14",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Vidra Hearthstove",
+  "quest": "Thelsamar Blood Sausages",
+  "en": "Trust me, it seems a lot harder than it looks, but...\n\nOh, I've never known someone to take much interest in the making of sausages, but I'll give you the recipe just in case. Here you go, mind you eat them fresh!",
+  "files": [
+   "quests/418-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "767076cab39b",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Marek Ironheart",
+  "quest": "Twisting the Knife",
+  "en": "Did I ever tell you how I almost lost me hand to a crocolisk? Managed to jam me knife into its jaw, and scrambled out real quick. I thought I had the knife around here somewhere, but I can't seem to find it.\n\nAnyway, that croc is probably still out there hunting along the edge of the lake. That nasty brute probably needs to go, for the safety of the other hunters, if nothing else.\n\nI've taken to calling it Daggerfang. If you see it, give it a friendly hello from me! And by \"hello\" I mean \"stab.\"",
+  "files": [
+   "quests/86758-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "2d2c501bf4ce",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Marek Ironheart",
+  "quest": "Twisting the Knife",
+  "en": "Hah! You did it! I never thought that ol' croc would get its comeuppance, but that does the trick!\n\nOh ah... y'know, I had to get me another knife, but maybe that one will bring you some good luck. Why don't you hang onto it?",
+  "files": [
+   "quests/86758-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "f9617baf8c54",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Daryl the Youngling",
+  "quest": "Vyrin's Revenge",
+  "en": "Er... what's this? A bear's head, by the looks at it.\n\n\nWell, that's quite an interesting kill you have yourself there. Couldn't be that bear from back then...\n\n\nOh, take that away take it away! Get that grisly thing out of here!",
+  "files": [
+   "quests/271-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "f586d79b78bf",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Daryl the Youngling",
+  "quest": "Vyrin's Revenge",
+  "en": "Light! Don't bring things like that into the Lodge... it's unsanitary, unspeakable, un... un... unsanitary!\n\nJust get it out of here, will you? No one wants to see your bloody little trophy, really!",
+  "files": [
+   "quests/531-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "1743be96a96d",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Vyrin Swiftwind",
+  "quest": "Vyrin's Revenge",
+  "en": "I don't suppose you'd be interested in a little payback for His Boldness? Daryl does have some skill, it pains me to say.\n\nA year ago, a large bear had been the target of the Farstrider Lodge, but none of the hunters had any luck with him. So, Daryl thought he'd try his hand against him. All he had to show for his effort was that ugly scar over his eye.\n\nKill the bear, and I'm sure even Daryl would be speechless for once.\n\nThe bear, Ol' Sooty, can be found around his lair in the hills over Thelsamar.",
+  "files": [
+   "quests/271-accept"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "19d443310b1b",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Vyrin Swiftwind",
+  "quest": "Vyrin's Revenge",
+  "en": "Thanks for helping me out with my little plan, adventurer. I've been itching for months to get back at that snooty, stuck-up boy, and I'd say we did a pretty good job! Here, have this, you've earned it.",
+  "files": [
+   "quests/531-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "8d1a1fa6a285",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Bluntnose",
+  "quest": "WANTED: Chok'sul",
+  "en": "Yech! What is that thing? And why would you bring it...\n\nBloody--! Is it? Well, Light burn me, is that the head of that bloody ogre? This certainly is a catch then! Here, your reward and the thanks of myself and the people of Thelsamar.",
+  "files": [
+   "quests/256-complete"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "93e0d8e16918",
+  "zone": "loch-modan",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "WANTED",
+  "quest": "WANTED: Chok'sul",
+  "en": "By order of the Magistrate of Thelsamar:\n\nChok'sul, the ogre presumed to be the leader and coordinator of attacks against the town of Thelsamar, Stonewrought Dam, and the excavation site, is wanted dead through any means necessary.\n\nMonetary compensation will be provided when proof is brought to the Magistrate of Chok'sul's death.\n\nChok'sul was last seen at the ogre encampment in the northeastern part of Loch Modan.",
+  "files": [
+   "quests/256-accept"
+  ],
+  "uiMap": 1432
+ }
+]

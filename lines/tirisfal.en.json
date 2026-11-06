@@ -1,0 +1,1995 @@
+[
+ {
+  "id": "c7b007f9be90",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Tabitha Heartweaver",
+  "quest": "A Frightened Request",
+  "en": "It's my husband Edward...\n\nHe has not returned from his weekly journey to the graveyard in the Lordaeron ruins. Our son was lost when Arthas razed the city, and my dear Edward is still filled with guilt and sorrow that we never found his body. I've tried to warn him against searching those overrun ruins, but he refuses to give up. I try not worry, but it's been days.\n\nThere are things there I cannot contend with but if you are willing, I need to know the fate of my husband.",
+  "files": [
+   "quests/92401-accept"
+  ]
+ },
+ {
+  "id": "3905199f2669",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Tabitha Heartweaver",
+  "quest": "A Frightened Request",
+  "en": "What I asked of you was not fair, nor would it have been unjust for you to simply walk away. Thank you stranger. I am unable to repay you in kind but I hope one of these is acceptable.\n\nI hope our paths cross again without such sorrow.",
+  "files": [
+   "quests/92401-complete"
+  ]
+ },
+ {
+  "id": "002437d1e13b",
+  "zone": "tirisfal",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "A Letter to Yvette",
+  "quest": "A Letter Undelivered",
+  "en": "This is a letter written by Thurman, the eldest son of Gregor Agamand. It is addressed to an Yvette Farthing, though it does not appear to have reached her...",
+  "files": [
+   "quests/361-accept"
+  ]
+ },
+ {
+  "id": "3a04f458e3d6",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Yvette Farthing",
+  "quest": "A Letter Undelivered",
+  "en": "Oh...my poor Thurman! I begged him to leave Agamand Mills with me and my father, but his family loyalty was too strong! And I knew it! I just knew it that Brand meant him harm!! Oh, curse this Plague, and the Scourge!\n\n\nBut regrets are for the weak. As a Forsaken, I have new goals and love is not one of them. I would thank you for delivering this letter, for I had wondered what happened to my past love.\n\nBut that life is over. Forever.",
+  "files": [
+   "quests/361-complete"
+  ]
+ },
+ {
+  "id": "735d74ec3e61",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Aramis Hammerhand",
+  "quest": "A Light in the Darkness",
+  "en": "Greetings, adventurer. Yes, I am a paladin. Not even death can stop the Light.\n\nThis my kind have in common with all Forsaken--we have overcome what the living view as their end. However, some even among our own fear us; they suspect we will smite them as some monstrosity.\n\nIn truth, our relationship with undeath is complex, but I am not here to hurt our own. Help me show the others this. Venture to Night's Web Hollow to the northwest and free the freshly raised fools trapped by the spiders there.",
+  "files": [
+   "quests/98389-accept"
+  ]
+ },
+ {
+  "id": "f6a0d19fa40c",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Aramis Hammerhand",
+  "quest": "A Light in the Darkness",
+  "en": "May this help Executor Arren and so many others see our true nature. Much like in our past lives, we live to serve our people--to protect them with the gifts the Light provides us.\n\nThey will see in time that we are just as valuable to the Dark Lady's plans as any other.\n\nLight be with you.",
+  "files": [
+   "quests/98389-complete"
+  ]
+ },
+ {
+  "id": "4ad1ea3ccb41",
+  "zone": "tirisfal",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Captured Mountaineer",
+  "quest": "A New Plague",
+  "en": "I raise my brew and hope to be rid of the likes of you! Cheers, you no good scoundrel, adventurer!",
+  "files": [
+   "followup/576-dwarf-male-standard"
+  ]
+ },
+ {
+  "id": "469cb75fcb1c",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Johaan",
+  "quest": "A New Plague",
+  "en": "Lady Sylvanas has called upon the Royal Apothecary Society. The Dark Lady believes our knowledge coupled with the newfound magic will provide the key to Arthas's demise. She has challenged us to concoct a new plague, a plague deadlier than any ailment on Azeroth. This new disease will bring Arthas's Scourge Army to ruin.\n\nMy studies show that the blood of beasts might prove to be the key. Bring to me 5 vials of darkhound blood so I can test my theory.",
+  "files": [
+   "quests/367-accept"
+  ]
+ },
+ {
+  "id": "f0f645bfac12",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Johaan",
+  "quest": "A New Plague",
+  "en": "You have done well, Adventurer and I thank you for your efforts.",
+  "files": [
+   "quests/367-complete"
+  ]
+ },
+ {
+  "id": "ffa5b12daae7",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Johaan",
+  "quest": "A New Plague",
+  "en": "While you were collecting samples for me, my experiments led me to realize that more reagents will be required for this new disease to spread properly. Poisoning some hapless victim is child's play. Plaguing an entire world proves to be a bit more complicated.\n\nI will need 5 Vile Fin Scales from Murlocs in the vicinity. You will find the creatures along the coast to the north or to the west.",
+  "files": [
+   "quests/368-accept"
+  ]
+ },
+ {
+  "id": "31d3f1437be1",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Johaan",
+  "quest": "A New Plague",
+  "en": "The scales are perfect, Adventurer. Exactly what I needed for this concoction.",
+  "files": [
+   "quests/368-complete"
+  ]
+ },
+ {
+  "id": "e47c67725275",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Johaan",
+  "quest": "A New Plague",
+  "en": "While you were out gathering, I uncovered some old text in one of my tomes that indicates that an ancient plague wiped out thousands of innocent victims. Later it was discovered that the deadly agent in the plague was preserved through the venom of Night Web Spiders.\n\nBring me some venom from a Vicious Night Web Spider to complete this experiment. I want to see if the contagious element from the venom will work with my new concoction. Rumor has it the spiders can be found in Eastern Tirisfal Glades.",
+  "files": [
+   "quests/369-accept"
+  ]
+ },
+ {
+  "id": "a3ad2c2bf8de",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Johaan",
+  "quest": "A New Plague",
+  "en": "Ah, this venom will do perfectly, Adventurer. Everything else has been added to my concoction and boiled down. Finally, I am ready to try this new deadly agent!",
+  "files": [
+   "quests/369-complete"
+  ]
+ },
+ {
+  "id": "dca90ab8ad29",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Johaan",
+  "quest": "A New Plague",
+  "en": "According to the Deathguard, another one of those foolish Dwarven Mountaineers has just been captured. The Deathguard likes to use the cellar of the Gallows End Tavern as a holding cell until prisoners can be \"properly\" dealt with.\n\nWhy don't you go see how the Captured Mountaineer enjoys this special drink I made for him? It contains a subtle hint of what The Dark Lady has planned for the rest of Azeroth.",
+  "files": [
+   "quests/492-accept"
+  ]
+ },
+ {
+  "id": "ef4ec5e59d65",
+  "zone": "tirisfal",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Captured Mountaineer",
+  "quest": "A New Plague",
+  "en": "Ah, a drink at last. I'm sure it's no Rhapsody Malt but I'll take anything to whet the old whistle at this point.",
+  "files": [
+   "quests/492-complete"
+  ]
+ },
+ {
+  "id": "e1f46c9423e9",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Mickey Levine",
+  "quest": "A Plague Upon Thee",
+  "en": "So, to bring pain and strife to the Scarlet Crusade, I want to take their precious lumber mill from them. I'm sure the loss of such a resource will cause them a great deal of harm in defending and rebuilding the town for their own reasons. Will you help me, Adventurer?\n\nStart by taking this jar to Plaguewood in the Eastern Plaguelands. Fill it with the termites you find in their mounds throughout the woods. Come back when you have enough.",
+  "files": [
+   "quests/5901-accept"
+  ]
+ },
+ {
+  "id": "f0774b39a901",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Mickey Levine",
+  "quest": "A Plague Upon Thee",
+  "en": "These will do nicely, Adventurer. Thank you.\n\nIf you're ready, we can get on with the next step.",
+  "files": [
+   "quests/5901-complete"
+  ]
+ },
+ {
+  "id": "3a2bd5028947",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Mickey Levine",
+  "quest": "A Plague Upon Thee",
+  "en": "Now that we have plenty of termites, take this steel reinforced barrel to the Northridge Lumber Mill south of Hearthglen--you'll find it to the west of the road that leads you up to the town.\n\nOnce there, place the barrel in the center of the lumber mill; someplace high, like on a crate or something.\n\nAfter you open it, the rest should take care of itself. Just come back here and I'll reward you for helping me.",
+  "files": [
+   "quests/5902-accept"
+  ]
+ },
+ {
+  "id": "afd93027da61",
+  "zone": "tirisfal",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Termite Barrel",
+  "quest": "A Plague Upon Thee",
+  "en": "The termites are obviously getting restless as you place the barrel on top of the crate.",
+  "files": [
+   "quests/5902-complete",
+   "quests/5904-complete"
+  ]
+ },
+ {
+  "id": "afc9d16948d0",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": "A Putrid Task",
+  "en": "Scourge have trickled into Tirisfal Glades and have infested the area west of Brill, near the old bridge.\n\nGo there and beat back the rotting dead and ravaged corpses you find. Scatter their bones and bring back their putrid claws, and the Deathguards will reward you.",
+  "files": [
+   "quests/404-accept"
+  ]
+ },
+ {
+  "id": "73ff6b889720",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": "A Putrid Task",
+  "en": "Well done. I regret not being there to see you smash those undead into rotting pulp!",
+  "files": [
+   "quests/404-complete"
+  ]
+ },
+ {
+  "id": "27f18de30581",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Leonid Barthalomew the Revered",
+  "quest": "A Righteous Cause",
+  "en": "Danitha and I fought against the scourge in the defense of the Undercity when Naxxramas attacked. We lost many good friends that day, including the hero after which this keep was named--Garek Bandarion.\n\nHe might just have been the first Forsaken to rediscover how to wield the light as a adventurer. I am encouraged to see his legacy and potential live on here with Danitha and her cohort.\n\nIf only the rest of the forsaken felt the same way...",
+  "files": [
+   "quests/96896-accept"
+  ]
+ },
+ {
+  "id": "1b3765fd0d77",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Leonid Barthalomew the Revered",
+  "quest": "A Righteous Cause",
+  "en": "I plan to stay here for a time and speak with more of my friends, but I will return to Light's Hope Chapel in Eastern Plaguelands soon enough. Should you ever find yourself out that way, please do say hello. We could use always use more help from able-bodied adventurers.",
+  "files": [
+   "quests/96896-complete"
+  ]
+ },
+ {
+  "id": "994520b63317",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Calvin Montague",
+  "quest": "A Rogue's Deal",
+  "en": "What?\n\nWhat?!\n\nYou want money? I don't owe you any money.\n\nLetter? What letter? Oh, you wanna fight then? All right, mate... let's do this! Owe you any money...",
+  "files": [
+   "quests/590-accept"
+  ]
+ },
+ {
+  "id": "d38369742183",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Calvin Montague",
+  "quest": "A Rogue's Deal",
+  "en": "Incredible! What skill!\n\nThought you'd be easy prey, Adventurer. Got me good, you did.\n\nHere's the coin I promised... not as much as I said it'd be, but that's on a count o' me lying to ya in the first place.",
+  "files": [
+   "quests/590-complete"
+  ]
+ },
+ {
+  "id": "0dd21842d294",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Calvin Montague",
+  "quest": "A Rogue's Deal",
+  "en": "Hey, mate! Do a favor for a young man who's been fighting more than his fair share of mindless zombies and spiders?\n\nI got this here letter that needs to go to Brill... to an innkeeper named Renee something-or-other. Don't really matter none what her last name is.\n\nAnyway, it's a nice cozy little place full of victims of the plague trying to make their way in the world. And it be a great spot for you to rest too if the need arises. You should check it out... you do and I'll pay you well.",
+  "files": [
+   "quests/8-accept"
+  ]
+ },
+ {
+  "id": "1b2491db4fdc",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Renee",
+  "quest": "A Rogue's Deal",
+  "en": "Oh? A letter? Wonderful news! I've been waiting on word from my dear old mother in Deathknell. Such a saint, she is. I wonder how she's holding up.\n\nWhat? Too cheery? Not buying it, are you?\n\nWell, get lost then... it's really no business who the letter's from anyway. Go on! Get lost!\n\nCome back when you've got some coin to spend... loafer.\n\nNext thing you know, you'll be coming back to rest after a long days adventure or some stupid thing like that.",
+  "files": [
+   "quests/8-complete"
+  ]
+ },
+ {
+  "id": "23a91ceaaefe",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Hilda the Breaker",
+  "quest": "As Above, So Below",
+  "en": "While the Tarnished in Shadowvale to the southwest are definitely a problem, we cannot allow the cellars below the town to fester into a full-blown Scourge uprising on Bandarion Keep.\n\nI need to get these trainees up to snuff in case that happens. You, however, are going to receive what I like to call a crash course.\n\nTravel beneath Shadowvale and retrieve some of their wretched bones so we can study them further. I need ones that still retain some of the initial reanimation magic--that's glowing ones.",
+  "files": [
+   "quests/99152-accept"
+  ]
+ },
+ {
+  "id": "c586589d5915",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Hilda the Breaker",
+  "quest": "As Above, So Below",
+  "en": "Well done, recruit. We might just make something out of you yet.\n\nWith these bones we may be able to better understand how such a threat was able to go unnoticed for so long.",
+  "files": [
+   "quests/99152-complete"
+  ]
+ },
+ {
+  "id": "0a4386941dae",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Zygand",
+  "quest": "At War With The Scarlet Crusade",
+  "en": "The strategic documents from Executor Arren contain all the details we need to wipe the human infestation from the lands. According to the information, The Scarlet Crusade has assigned Captain Perrine and a brigade to the ruined tower southwest of Brill.\n\nKill Perrine along with 3 Zealots and 3 Missionaries and report back to me.",
+  "files": [
+   "quests/370-accept"
+  ]
+ },
+ {
+  "id": "f20e9e25db33",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Zygand",
+  "quest": "At War With The Scarlet Crusade",
+  "en": "Captain Perrine's death will undoubtedly please The Dark Lady. You have performed your duty well, adventurer.",
+  "files": [
+   "quests/370-complete"
+  ]
+ },
+ {
+  "id": "f0204cda845b",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Zygand",
+  "quest": "At War With The Scarlet Crusade",
+  "en": "We are still at war and the Scarlet Crusade grows in strength. The report Executor Arren sent me indicates Scarlet Crusaders have been raiding from the ruined tower in southeastern Tirisfal near the Balnir Farmstead under the command of Captain Vachon.\n\nKill Vachon along with 5 Scarlet Friars. It should prove to be a devastating blow to the Crusade!",
+  "files": [
+   "quests/371-accept"
+  ]
+ },
+ {
+  "id": "6d2450a449c0",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Zygand",
+  "quest": "At War With The Scarlet Crusade",
+  "en": "Captain Vachon's death will slow down the Scarlet Crusade's advancement in Tirisfal quite a bit. But other threats loom.",
+  "files": [
+   "quests/371-complete"
+  ]
+ },
+ {
+  "id": "da90511722b9",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Zygand",
+  "quest": "At War With The Scarlet Crusade",
+  "en": "Scarlet Crusaders have been raiding from the ruined tower in northern Tirisfal, past Faol's Rest. According to the information we have, a ruthless commander named Captain Melrache is in charge of this evil crew.\n\nI am entrusting you now with a special and dangerous mission. Slay Melrache and his two bodyguards, in the name of The Dark Lady.",
+  "files": [
+   "quests/372-accept"
+  ]
+ },
+ {
+  "id": "34f26a325db9",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Zygand",
+  "quest": "At War With The Scarlet Crusade",
+  "en": "You have done extremely well, adventurer. With ruthless fighters like you conquering in the name of The Forsaken our race is one step closer to defeating Arthas once and for all. I have a good feeling about you, comrade.",
+  "files": [
+   "quests/372-complete"
+  ]
+ },
+ {
+  "id": "e3469402d5c8",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Zygand",
+  "quest": "At War With The Scarlet Crusade",
+  "en": "The documents Executor Arren provided are just the break we needed in our battle with the wretched Scarlet Crusade. We now know their exact locations throughout Tirisfal Glades.\n\nBut the Deathguard has larger concerns. The Lich King's army grows in number each night. We need someone with \"initiative\" like yourself to drive the Scarlet Crusade to the grave.\n\nProve to me you are capable of serving The Dark Lady by travelling west to the tower past the Solliden Farmstead and slay 10 Scarlet Warriors.",
+  "files": [
+   "quests/427-accept"
+  ]
+ },
+ {
+  "id": "cfd36f0b7de2",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Zygand",
+  "quest": "At War With The Scarlet Crusade",
+  "en": "Most excellent, adventurer. Your skill in the art of combat is undeniable.",
+  "files": [
+   "quests/427-complete"
+  ]
+ },
+ {
+  "id": "a9b8bbe98f04",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Hadric Harlson",
+  "quest": "Bandarion Keep",
+  "en": "You've done a great thing for the cause of the Argent Dawn here today, and I thank you. I don't know how familiar you are with the fortress of Bandarion Keep, but my commander and I were headed that way to meet with the paladins that reside there. That was before we learned of the presence of the Cult of the Damned.\n\nIf you'd like to learn more about the Argent Dawn and our mission, seek out my commander at Bandarion Keep, to the northwest of here. I'll remain here to mop up the rest of this mess.",
+  "files": [
+   "quests/96899-accept"
+  ]
+ },
+ {
+  "id": "9babfc2d282f",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Leonid Barthalomew the Revered",
+  "quest": "Bandarion Keep",
+  "en": "This place is full of memories for me. This place was once held by the Argent Dawn. It was here from here that we prepared for many battles and skirmishes against the scourge during their most recent push into Tirisfal Glades.\n\nWhen we withdrew to the Plaguelands I feared it would fall into disrepair. My fear was well-founded, but I am glad that Danitha and her paladins have taken over stewardship of it now.\n\nShe even named the keep after... a mutual friend.",
+  "files": [
+   "quests/96899-complete"
+  ]
+ },
+ {
+  "id": "bc730b3371d9",
+  "zone": "tirisfal",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "General Marcus Jonathan",
+  "quest": "Bloodied Insignia",
+  "en": "Your instincts to bring these to me were not unfounded. When Lordaeron fell to the scourge, many people fled to take refuge here in Stormwind. There are likely few who remain to claim these insignias themselves.\n\nYour duty to Stormwind is commended, Black. I'll begin distributing these tokens to next of kin right away.",
+  "files": [
+   "quests/95195-complete"
+  ]
+ },
+ {
+  "id": "b6e0b9b84b28",
+  "zone": "tirisfal",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Crate of Candles",
+  "quest": "Candles of Beckoning",
+  "en": "You grab one of the candles and place it in your pack.",
+  "files": [
+   "quests/431-complete"
+  ]
+ },
+ {
+  "id": "c9db509b8b83",
+  "zone": "tirisfal",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Sage Truthseeker",
+  "quest": "Compendium of the Fallen",
+  "en": "The Earthen Ring had pure intentions towards our plagued brethren. But who is to know the motivations of those whispering in the ears of the Elder Council?\n\nThe Forsaken whom we have allied with have a history wrought with deceit. Too hasty was our pact. Perhaps Cairne would have been wise to heed the warnings from Orgrimmar.\n\nDeep within the Scarlet Monastery lies the Compendium of the Fallen, guarded by crazed human zealots. Their method is forged from insanity but their research might prove useful.",
+  "files": [
+   "quests/1049-accept"
+  ]
+ },
+ {
+  "id": "73255cc59b71",
+  "zone": "tirisfal",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Sage Truthseeker",
+  "quest": "Compendium of the Fallen",
+  "en": "The Compendium of the Fallen! I was beginning to wonder if the very book existed!\n\nYou have served the tauren of Thunder Bluff well, adventurer. Your dedication shall not be forgotten.",
+  "files": [
+   "quests/1049-complete"
+  ]
+ },
+ {
+  "id": "cc55eef38ed8",
+  "zone": "tirisfal",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Lady Dena Kennedy",
+  "quest": "Crest of Lordaeron",
+  "en": "How in the world did you find this? It's in such remarkable condition... all things considered.\n\nThank you for restoring this piece of Alliance history, adventurer. I'll have my best people get to work restoring this immediately.",
+  "files": [
+   "quests/95189-complete"
+  ]
+ },
+ {
+  "id": "5ce15f46eeef",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Oran Snakewrithe",
+  "quest": "Crest of Lordaeron",
+  "en": "<Oran bites the crest to ensure authenticity.>\n\nWell I'll be. A genuine relic of our home. Mostly intact, too. We need to be extra careful with this one.\n\nThank you for your aid in restoring our history, adventurer. I'll see to it that we take good care of this.",
+  "files": [
+   "quests/95204-complete"
+  ]
+ },
+ {
+  "id": "f2f8933008a1",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Coleman Farthing",
+  "quest": "Deaths in the Family",
+  "en": "The Agamand family was the most prosperous family in Tirisfal Glades. I used to work their mills...before the Plague.\n\nWhen the Scourge first came, the Agamands fortified their home and convinced those in their employ to remain and help them defend. We were fools, but at least we were loyal fools.\n\nThe Agamands, in their pride, doomed us to undeath. And now they are minions of the Scourge!\n\nServe the Forsaken by defeating the Agamands who fell to the Plague. Serve me by bringing me their remains.",
+  "files": [
+   "quests/354-accept"
+  ]
+ },
+ {
+  "id": "f96d587f14a4",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Coleman Farthing",
+  "quest": "Deaths in the Family",
+  "en": "Revenge has a sweet taste, don't you think? When you destroyed the Agamands, did you catch any hint of free will within them? I hope so. I hope they knew fear before they were smashed into oblivion.\n\nIt is a foolish hope, I know. But it is a hope I foster nonetheless.",
+  "files": [
+   "quests/354-complete"
+  ]
+ },
+ {
+  "id": "af4c1528064b",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Johaan",
+  "quest": "Delivery to Silverpine Forest",
+  "en": "Time is a luxury that is not afforded to those of us under the employ of Lady Sylvanas. Surely you know this by now.\n\nAs a member of the Royal Apothecary Society it is my duty to share my knowledge with my colleagues so that our collective efforts might one day provide The Dark Lady with the New Plague she so badly desires.\n\nTake these findings to Apothecary Renferrel who is stationed at The Sepulcher in Silverpine Forest. Follow the roads to the south from Brill. From the Undercity go southwest.",
+  "files": [
+   "quests/445-accept"
+  ]
+ },
+ {
+  "id": "5a70c114b1d8",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Renferrel",
+  "quest": "Delivery to Silverpine Forest",
+  "en": "Ah, how good of Apothecary Johaan to send his research. With so many new developments here in Silverpine, I nearly forgot about the findings coming out of Lordaeron and Tirisfal Glades. Which reminds me, I need to get those samples off to the Necropolis soon.\n\nBut you must excuse my rambling. Extend your stay in Silverpine, Adventurer. We could use an able bodied adventurer like you around here.",
+  "files": [
+   "quests/445-complete"
+  ]
+ },
+ {
+  "id": "f03033231e60",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Zygand",
+  "quest": "Discipline",
+  "en": "You are not a member of the Deathguard, and therefore have yet to disappoint me.\n\nAs a reward for your lack of incompetence, you shall be rewarded with punishing those that have demonstrated such talents in excess.\n\nSwiftly now--Adventurer, is it?--or I shall add your name to my ledger for someone else's reward.",
+  "files": [
+   "quests/99134-accept"
+  ]
+ },
+ {
+  "id": "237584f952da",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Zygand",
+  "quest": "Discipline",
+  "en": "There are precious few delights afforded to us in death. Thankfully, pain is chief among them.\n\nYou please me this day, and therefore you please the Dark Lady. Perhaps you can be of further use.",
+  "files": [
+   "quests/99134-complete"
+  ]
+ },
+ {
+  "id": "970435233e67",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Junior Apothecary Holland",
+  "quest": "Doom Weed",
+  "en": "So you can see the predicament that I'm in, Adventurer. That thing is out there collecting the wrong weeds! I'll make it worth your while to gather what I need. Bring back to me enough doom weed and I'll give you a suitable reward.\n\nIt is my understanding that they like to plague the flora near the mass gravesite, to the north of the Brill graveyard. Hurry and be mindful of the gnolls in the area.",
+  "files": [
+   "quests/5482-accept"
+  ]
+ },
+ {
+  "id": "3ec06ebe13c3",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Junior Apothecary Holland",
+  "quest": "Doom Weed",
+  "en": "Ah, my doom weed. Excellent!\n\n\nThese will come in quite handy. You've done me, uh, the Lady, a fine service today, Adventurer. As promised here is the reward that you deserve.",
+  "files": [
+   "quests/5482-complete"
+  ]
+ },
+ {
+  "id": "95464711687d",
+  "zone": "tirisfal",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captured Scarlet Zealot",
+  "quest": "Fields of Grief",
+  "en": "I. . .I. . .don't. . .feel. . .right. . .",
+  "files": [
+   "followup/425-human-male-standard"
+  ]
+ },
+ {
+  "id": "0553c2118b9b",
+  "zone": "tirisfal",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captured Scarlet Zealot",
+  "quest": "Fields of Grief",
+  "en": "My mind. . .my flesh. . .I'm. . .rotting. . . .!",
+  "files": [
+   "followup/428-human-male-standard"
+  ]
+ },
+ {
+  "id": "157b992f0cb6",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Simmer",
+  "quest": "Fields of Grief",
+  "en": "What have we here? You look like a fledgling adventurer. If you hope to prove yourself to The Dark Lady, you need to learn the ways of The Forsaken.\n\nTo the west you'll find a farm. Humans infest the land like mold on a rotting corpse. And worse yet, the Scarlet Crusade patrols nearby from their tower. Teach those scum a lesson and steal 10 of their precious pumpkins.\n\nOnce you have 10, take them to Apothecary Johaan in Brill.",
+  "files": [
+   "quests/365-accept"
+  ]
+ },
+ {
+  "id": "fa4e93ce8b5e",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Johaan",
+  "quest": "Fields of Grief",
+  "en": "You have performed your bidding well, young adventurer. You are proving yourself to be quite an asset to The Dark Lady's army.",
+  "files": [
+   "quests/365-complete"
+  ]
+ },
+ {
+  "id": "5ace3be39354",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Johaan",
+  "quest": "Fields of Grief",
+  "en": "Harmless pumpkins, right? Or so it would seem. If we are to defeat Arthas's advances from the North and the Human infestation from the South we need to start realizing the full potential of our gift of undeath.\n\nWith a little ingenuity a simple pumpkin becomes an agent for our Dark Lady. This pumpkin, laced with my latest formula, will prove to be quite a treat.\n\nYet another Scarlet Zealot has been captured and is being kept in the cellar of the Gallow's End Tavern. Take this pumpkin to the fool.",
+  "files": [
+   "quests/407-accept"
+  ]
+ },
+ {
+  "id": "d71a9fd03c6d",
+  "zone": "tirisfal",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captured Scarlet Zealot",
+  "quest": "Fields of Grief",
+  "en": "By the Light! Finally some food! Sweet, sweet pumpkin. . . .",
+  "files": [
+   "quests/407-complete"
+  ]
+ },
+ {
+  "id": "ad5af10f229e",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Sevren",
+  "quest": "Forsaken Duties",
+  "en": "I need a fresh report from our Deathguard waystation to the east.\n\nI must know if more Scourge forces have slipped past The Bulwark and into Tirisfal. Our vigilance on the border to the Plaguelands must be maintained - we can't let the Scourge get a stronger foothold here!\n\nTravel south along the road, then east at the fork to the waystation. Speak with Deathguard Linnea. She has the information I need.",
+  "files": [
+   "quests/359-accept"
+  ]
+ },
+ {
+  "id": "354100415d15",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Linnea",
+  "quest": "Forsaken Duties",
+  "en": "Magistrate Sevren wants a report? Very well: the defenders at The Bulwark are holding the majority of the Scourge at bay, but some do slip through on occasion.\n\nWe have seen sporadic Scourge activity east of this station, with a concentration around the Balnir Farmstead.",
+  "files": [
+   "quests/359-complete"
+  ]
+ },
+ {
+  "id": "8c726943a8b0",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Junior Apothecary Holland",
+  "quest": "Gordo's Task",
+  "en": "What's this? Gloom weed?! I've no need for gloom weed! That mindless mass of flesh is out there picking daisies and convincing the Lady knows how many dupes like you into doing the same. No offense.\n\nVery well, you're here now and that's all that matters. Since I'm not going to bother to try to explain things to that abomination how about you collect what I really need... doom weed!",
+  "files": [
+   "quests/5481-complete"
+  ]
+ },
+ {
+  "id": "4a13e4a22ba0",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Sevren",
+  "quest": "Graverobbers",
+  "en": "The Mass Graves, southwest of Garren's Haunt to the north, were made to accommodate the...impressive...number of deaths Tirisfal suffered when the Plague first came. \n\nThe bodies in these graves have so far been spared an undeath, but the Scourge now send Rot Hide Gnolls to gather the corpses and use them to bolster their armies. This cannot be allowed!\n\nYour task is twofold: slay the Rot Hides at the Mass Grave and Garren's Haunt, and gather from them the Embalming Ichor that gives them life.",
+  "files": [
+   "quests/358-accept"
+  ]
+ },
+ {
+  "id": "10a301c21331",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Sevren",
+  "quest": "Graverobbers",
+  "en": "Expertly done, Adventurer. The Scourge are mistaken if they think they can use those corpses against us, and the fluid you gathered from the Rot Hide slaves will be studied by our Apothecaries. It may have secrets we can use against them.\n\nAs I said, well done. But our struggle continues, and the conflict will surely offer you more chances to prove your worth to the Forsaken.",
+  "files": [
+   "quests/358-complete"
+  ]
+ },
+ {
+  "id": "0a603e5fab5a",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Master Apothecary Faranell",
+  "quest": "Hearts of Zeal",
+  "en": "Why do I need a rare type of guano, you might ask. Well, for this experiment I want to see what effect two diametrically opposed chemical substances can have on each other, especially when both are combined with an ever-toxic agent to ensure the most... ghastly results.\n\nIn the northeastern peaks of Tirisfal Glades lies the Scarlet Monastery. There the crazed disciples of the Scarlet Crusade congregate. Slay them and bring me their zealous hearts.\n\nOur concoction will be most wicked!",
+  "files": [
+   "quests/1113-accept"
+  ]
+ },
+ {
+  "id": "8aead1acbcdb",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Master Apothecary Faranell",
+  "quest": "Hearts of Zeal",
+  "en": "My what an abundance of gore you have brought me, adventurer! Your efforts have been most excellent!",
+  "files": [
+   "quests/1113-complete"
+  ]
+ },
+ {
+  "id": "f5ce3ad72808",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shelene Rhobart",
+  "quest": "Hides for the Forsaken",
+  "en": "One part of undeath no one mentions is what happens when we are injured. How does the skin of an traveler heal itself?\n\nWell, it doesn't.\n\nOurs is a cursed life, Adventurer. We must take from the living to further our own existence.\n\nWhen we sustain an injury, we must replace our skin which usually means animal hides. Since different hide thicknesses are better for different places on our bodies a variety is key!\n\nBring me wing membranes of a duskbat, hides from a darkhound and skin of a Vile Fin murloc.",
+  "files": [
+   "quests/97558-accept"
+  ]
+ },
+ {
+  "id": "8f48cbcfbf5a",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shelene Rhobart",
+  "quest": "Hides for the Forsaken",
+  "en": "Ah, excellent! Thank you for acquiring these. I can promise they will be put to good use.",
+  "files": [
+   "quests/97558-complete"
+  ]
+ },
+ {
+  "id": "caa2fc56fd1f",
+  "zone": "tirisfal",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Raleigh the Devout",
+  "quest": "In the Name of the Light",
+  "en": "I once served the Scarlet Crusade with honor, loyalty and pride. I believed their cause to be a noble one: to rid Azeroth of the undead.\n\nBut as I spent time at the Monastery in Tirisfal Glades I realized that their grasp on reality was slipping. They now think everyone is plagued who doesn't wear the tabard of the Crusade. Innocent men and women were tortured because they were supposedly plagued. \n\nThe Scarlet Crusade must be crushed in the name of the Light. You, adventurer, must destroy the deranged regime.",
+  "files": [
+   "quests/1053-accept"
+  ]
+ },
+ {
+  "id": "76793c3ac5c0",
+  "zone": "tirisfal",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Raleigh the Devout",
+  "quest": "In the Name of the Light",
+  "en": "While disciples of the Light never revel in the loss of life, we must accept that on occasion, such sacrifices must happen for the greater good of the Kingdom and the planet.\n\nThrough your deeds in the Monastery you have spared many innocent lives, adventurer. I salute your tenacity.",
+  "files": [
+   "quests/1053-complete"
+  ]
+ },
+ {
+  "id": "10fea350e171",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Varimathras",
+  "quest": "Into The Scarlet Monastery",
+  "en": "Whilst the Dark Lady tends to the pressing issue of the Lich King's advance to the north, I am seeing to it that matters closer to home are being taken care of accordingly.\n\nNo doubt, the human pests who call themselves the Scarlet Crusade are proving to be the sharpest thorn in our side domestically. Tirisfal Glades is literally crawling with the little red ants.\n\nTravel to the Monastery, adventurer, and lay waste to High Inquisitor Whitemane and her top lieutenants.",
+  "files": [
+   "quests/1048-accept"
+  ]
+ },
+ {
+  "id": "d274d624bf06",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Varimathras",
+  "quest": "Into The Scarlet Monastery",
+  "en": "You have served the Dark Lady well, adventurer. 'Twas no small task I asked of you.\n\nYour loyalty to the Forsaken has been noted. And your tenacity in combat will be remembered.",
+  "files": [
+   "quests/1048-complete"
+  ]
+ },
+ {
+  "id": "4488aae674fc",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Leonid Barthalomew the Revered",
+  "quest": "Leonid's Letter",
+  "en": "Since you are here, I'd like you to deliver this letter to an old friend of mine in the Undercity. I'd deliver myself but I have a somewhat colorful history with the Dark Lady, and it would be better if a neutral third party made the delivery.\n\nYou are looking for a goblin named Glix Xizzix in the Trade Quarter area of the Undercity. I'm sure he'd be happy to compensate you for your time.\n\n<Leonid lets out a low chuckle as he hands you the letter.>",
+  "files": [
+   "quests/98545-accept"
+  ]
+ },
+ {
+  "id": "f0725c263501",
+  "zone": "tirisfal",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Glix Xizzix",
+  "quest": "Leonid's Letter",
+  "en": "Thanks for delivering this, pal.\n\nWait... he said I'd tip you? I didn't agree to that!\n\nFine. Take your pick of this junk in the lost and found. You'd be surprised how many of these Forsaken leave their stuff laying around after getting haircuts. There's a joke here about them being brainless, but I suspect in a lot of cases it might actually be true.",
+  "files": [
+   "quests/98545-complete"
+  ]
+ },
+ {
+  "id": "65bf9309b13b",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Morbin Lightbane",
+  "quest": "Light's Justice",
+  "en": "As a paladin of the Forsaken, it is my duty to exact the will of our Dark Lady while tending to our people's needs. We are fortunate with an opportunity to accomplish both.\n\nAbove the Undercity, the scourge still roam unchecked in great numbers. Our forces dwindle trying to reclaim our land, and decaying flesh cannot be reknit. Not without replacements.\n\nWould that our glorious captain Garek Bandarion still be with us, I know what he would wish. To finish what he started and heal our kin. For Lordaeron!",
+  "files": [
+   "quests/92421-accept"
+  ]
+ },
+ {
+  "id": "3c1f699d9541",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Morbin Lightbane",
+  "quest": "Light's Justice",
+  "en": "Let those who fall from the Banshee Queen's grace meet our justice!\n\nWith these parts, our brothers and sisters have hope to see another day. You do Captain Bandarion proud.",
+  "files": [
+   "quests/92421-complete"
+  ]
+ },
+ {
+  "id": "81c42e8717a0",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Novice Elreth",
+  "quest": "Marla's Last Wish",
+  "en": "My friend Marla Fipps lived with her husband Samuel before the plague, but when the plague came Samuel succumbed and joined the Scourge's ranks.\n\nMarla was spared an undeath only to die at the hands of her now mindless husband. So strong was her love, however, that her last dying wish was to be buried with her beloved Samuel.\n\nSamuel Fipps roams at a ruined camp along the road northeast of Deathknell. Defeat him and grant Marla's wish: bury him at her grave, in the first row of our graveyard.",
+  "files": [
+   "quests/6395-accept"
+  ]
+ },
+ {
+  "id": "77f4e83546b3",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Novice Elreth",
+  "quest": "Marla's Last Wish",
+  "en": "You have done a good deed today, Adventurer. Although our struggle against the Scourge continues, let us hope that Marla and Samuel will find peace together in their final resting place.",
+  "files": [
+   "quests/6395-complete"
+  ]
+ },
+ {
+  "id": "4072f5de20f9",
+  "zone": "tirisfal",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Librarian Mae Paledust",
+  "quest": "Mythology of the Titans",
+  "en": "The future is inevitable! We hurl ourselves towards it like falling raindrops to the Great Sea.\n\nBut perhaps, by studying the past, we can know what to expect and be better prepared for the unknown.\n\nBefore dire troubles fell upon Lordaeron, there was a bastion of knowledge tucked away in the Tirisfal Glades. It is rumored that a book called Mythology of the Titans was housed in the library of the old Monastery.\n\nBring it to me and perhaps together we can unlock the secrets of the past!",
+  "files": [
+   "quests/1050-accept"
+  ]
+ },
+ {
+  "id": "cd4b20780bdd",
+  "zone": "tirisfal",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Librarian Mae Paledust",
+  "quest": "Mythology of the Titans",
+  "en": "You have rescued the sacred text!\n\nYour journey was long and acquiring the book was undoubtedly no easy task. But the dwarves of Ironforge stand to benefit from your success.\n\nThank you, adventurer, on behalf of the Explorers' League.",
+  "files": [
+   "quests/1050-complete"
+  ]
+ },
+ {
+  "id": "3266495b27f4",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Arren",
+  "quest": "Night Web's Hollow",
+  "en": "One of our greatest struggles is obtaining the natural resources we need to survive. Gold was scarce even in the height of the Alliance's power.\n\nThere is a gold mine to the northwest that has been overrun with spiders. We need gold from the mine, but we can't very well get it while the spiders are crawling around in there. I've not much manpower to commit to the task, so we'll just have to do it little by little.\n\nGet up there and see what you can do for us, adventurer.",
+  "files": [
+   "quests/380-accept"
+  ]
+ },
+ {
+  "id": "f100418eda61",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Arren",
+  "quest": "Night Web's Hollow",
+  "en": "Hmm, well, it's a start. It'll take a few weeks or months to fully clean out the infestation. After that, we'll have to get down there with some torches to burn away the webbing.\n\nYou've done your duty well, adventurer, I'm sure I can find something else for you to do.",
+  "files": [
+   "quests/380-complete"
+  ]
+ },
+ {
+  "id": "841cfe8f4a28",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Zygand",
+  "quest": "Patience",
+  "en": "Make no mistake, adventurer--the Dark Lady demands the perfect execution of her will. As an Executor, it is my duty to see that this happens.\n\nReports from several of my Deathguards are overdue. Needless to say, my patience has run out. Obtain their reports and bring them to me in the Dark Lady's name.\n\nYou will find Deathguard Dillinger just west of here, by the graveyard. Deathguard Kristof is stationed at the waystation to the east. And check on the abomination Gordo; he wanders west near Stillwater Pond.",
+  "files": [
+   "quests/99141-accept"
+  ]
+ },
+ {
+  "id": "59dbae76a2a8",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Zygand",
+  "quest": "Patience",
+  "en": "I should have known better than to think an abomination could write anything of use. Let us keep that lapse of judgment between us.\n\nYou have pleased me, and therefore pleased the Dark Lady. Perhaps there is hope for you.",
+  "files": [
+   "quests/99141-complete"
+  ]
+ },
+ {
+  "id": "9de2f70c2255",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Burgess",
+  "quest": "Proof of Demise",
+  "en": "Executor Zygand tells me you've been out killing Scarlet Crusaders. Tirisfal Glades is crawling with them.\n\nVarimathras, lieutenant to The Dark Lady, is seeing to it personally that the scum of Azeroth, the Human race, gets wiped into oblivion. Here in Tirisfal Glades we face a particularly annoying breed of humans: The Scarlet Crusade.\n\nVenture forth and wage an offensive on the Scarlet Crusade, adventurer. Bring me back 10 Scarlet Insignia Rings as proof of your loyalty to Varimathras and The Dark Lady.",
+  "files": [
+   "quests/374-accept"
+  ]
+ },
+ {
+  "id": "a38d13c352d0",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Burgess",
+  "quest": "Proof of Demise",
+  "en": "Varimathras would be proud. You serve your leaders well, adventurer.",
+  "files": [
+   "quests/374-complete"
+  ]
+ },
+ {
+  "id": "06ac1818a08b",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Gunther Arcanus",
+  "quest": "Proving Allegiance",
+  "en": "Take a Candle of Beckoning from this crate, adventurer.",
+  "files": [
+   "followup/1013-scourge-male-dark"
+  ]
+ },
+ {
+  "id": "8a487dd5cb8c",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Gunther Arcanus",
+  "quest": "Proving Allegiance",
+  "en": "You say you are not bound by the will of the Lich King, and the enchantment Bethor placed upon my book corroborates this. But before I believe you I must have proof that you are enemy to the Scourge.\n\nThere is an old, bloody altar just off the southern coast of this island. it is used by a powerful Scourge agent, Lillith Nefara.\n\nTake a Candle of Beckoning from this crate here. Light it on the altar and Lillith will awake. Destroy Lillith, and I will believe you are the Lich King's foe.",
+  "files": [
+   "quests/409-accept"
+  ]
+ },
+ {
+  "id": "69ef00677809",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Gunther Arcanus",
+  "quest": "Proving Allegiance",
+  "en": "You have defeated Lillith Nefara, proving you are an enemy of the Scourge. Incredible.\n\nI had believed I was the only Undead with free will, but you have shown me there are others who have broken the Lich King's domination.",
+  "files": [
+   "quests/409-complete"
+  ]
+ },
+ {
+  "id": "0c21b2cea32e",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Shadow Priest Sarvis",
+  "quest": "Rattling the Rattlecages",
+  "en": "You've shown your potential to the Forsaken under normal circumstances Adventurer - now let's see you under pressure.\n\nThe Rattlecage skeletons, more mindless minions of the Lich King, are a tougher foe than the zombies you have faced thus far. Again, thin their numbers and prove yourself to the Forsaken. Do not tarry - when you are done, speak to me again.",
+  "files": [
+   "quests/3901-accept"
+  ]
+ },
+ {
+  "id": "c10ac1c4b424",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Shadow Priest Sarvis",
+  "quest": "Rattling the Rattlecages",
+  "en": "I am finished with you, Adventurer - you have shown yourself to be worthy of the freedom that you have been given. Many will stand against you for what you have become, but know that no matter what they may try to do against us, we are free and will not be shackled again.\n\nTake these and be on your way. You have much to accomplish, adventurer.",
+  "files": [
+   "quests/3901-complete"
+  ]
+ },
+ {
+  "id": "508aabd7410f",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Linnea",
+  "quest": "Rear Guard Patrol",
+  "en": "The defenders on The Bulwark protecting Tirisfal from the Plaguelands are on constant alert. But sometimes Scourge will slip past them.\n\nOur success at the Bulwark depends on a one-front battle - we cannot allow an attack from the rear, nor can we allow our defenders' supply line to be cut.\n\nAssist the Bulwark. Patrol east and slay any Scourge you find. Spend particular effort at the Balnir Farmstead to the east. It has become a haven for interloping Scourge.",
+  "files": [
+   "quests/356-accept"
+  ]
+ },
+ {
+  "id": "1aa032b1e956",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Linnea",
+  "quest": "Rear Guard Patrol",
+  "en": "Very good. Your efforts do much to keep the Scourge at bay. A commendation will be sent to my superior, Executor Zygand.",
+  "files": [
+   "quests/356-complete"
+  ]
+ },
+ {
+  "id": "bb8c1c972351",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Linnea",
+  "quest": "Rear Guard Patrol",
+  "en": "Damn it all! A new report came in while you were on patrol. There has been a sighting of a rogue abomination wandering Eastern Tirisfal Glades, near Venomweb Vale.\n\nSomething is wrong. Abominations don't just slip through the Bulwark unnoticed.\n\nKeep this matter on a strictly need-to-know basis. That said, such a creature will not fall easily; you will need allies if you wish to be more than its next meal.\n\nSee this through, and you will be duly rewarded. Bring me its heart as proof of the deed.",
+  "files": [
+   "quests/99156-accept"
+  ]
+ },
+ {
+  "id": "f83aa77633f7",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Linnea",
+  "quest": "Rear Guard Patrol",
+  "en": "You are a testament to the cunning and coordination that all Forsaken possess--something the mindless Scourge will never have.\n\nPlease accept this as thanks for your efforts, as promised.",
+  "files": [
+   "quests/99156-complete"
+  ]
+ },
+ {
+  "id": "4dbf1e45c12b",
+  "zone": "tirisfal",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Orphan Matron Nightingale",
+  "quest": "Remember That I Love You",
+  "en": "Heartweaver? Heartweaver...\n\nOh! Little Jeremy Heartweaver. He was brought in years ago after the attack on Lordaeron. Lost both of his parents in the attack, poor thing.\n\nHe was actually adopted not too long ago by a sweet woman out in Duskwood.",
+  "files": [
+   "quests/92415-complete"
+  ]
+ },
+ {
+  "id": "04a58e44311f",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Hadric Harlson",
+  "quest": "Remnants of War",
+  "en": "It wasn't long ago that the citadel of Naxxramas bore down upon this city, intent on wiping the Forsaken off the map. Both the Forsaken and the Argent Dawn lost much that day to secure the future of the Forsaken.\n\nDuring the battle, the great necrotic focusing crystal hanging beneath Naxxramas was shattered and its fragments were scattered all over this area. I suspect that is what the cultists are here for. Help me recover the fragments and deprive the scourge of them.",
+  "files": [
+   "quests/96898-accept"
+  ]
+ },
+ {
+  "id": "17de7af57cad",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Hadric Harlson",
+  "quest": "Remnants of War",
+  "en": "Thank you. This should slow the efforts of the scourge in this area. I suspect the denizens of Tirisfal will be pulling these crystals out of the ground for years, but removing the most conspicuous of them can only help.",
+  "files": [
+   "quests/96898-complete"
+  ]
+ },
+ {
+  "id": "3acb54ea7d41",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Bethor Iceshard",
+  "quest": "Return the Book",
+  "en": "Long ago Gunther and I, along with the now Scourge Necromancer Thule Ravenclaw, were friends and students within the Kirin Tor - a society of mages in Dalaran.\n\nGunther and I both fell to the Plague, but I thought he either remained dead, or was raised into the ranks of the Lich King. It is good to know he is free.\n\nWe must have him. I have placed a spell on his book that, when he sees it, will show him that I too am free of the Lich King. After knowing this, it is my hope that he will join us.",
+  "files": [
+   "quests/366-accept"
+  ]
+ },
+ {
+  "id": "4302514ab6ea",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Gunther Arcanus",
+  "quest": "Return the Book",
+  "en": "My book?!? So you were the thief who stole it!\n\nBut...what is this new enchantment upon it...Bethor? He is in Lordaeron?\n\nIf he still exists, then perhaps he too escaped from the Lich King's grasp...",
+  "files": [
+   "quests/366-complete"
+  ]
+ },
+ {
+  "id": "d569b3478a00",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Linnea",
+  "quest": "Return to the Magistrate",
+  "en": "Now return to Magistrate Sevren with the information I gave you. He'll want it as soon as possible, so be swift.\n\nAnd if you see any Scourge on your way back, take them down - we can't let them wander our lands unchallenged.",
+  "files": [
+   "quests/360-accept"
+  ]
+ },
+ {
+  "id": "2cd76c7baa70",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Sevren",
+  "quest": "Return to the Magistrate",
+  "en": "It is troubling to hear of the Scourge slipping past the Bulwark. The Lich King and his minions are ceaseless in their assaults.\n\nBut we will not give in. He will not take us again!",
+  "files": [
+   "quests/360-complete"
+  ]
+ },
+ {
+  "id": "02f8956fb109",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Undertaker Mordo",
+  "quest": "Rude Awakening",
+  "en": "About time you woke up. We were ready to toss you into the fire with the others, but it looks like you made it.\n\nI am Mordo, the caretaker of the crypt of Deathknell. And you are the Lich King's slave no more.\n\nSpeak with Shadow Priest Sarvis in the chapel at the base of the hill, he will tell you more of what you must know.",
+  "files": [
+   "quests/363-accept"
+  ]
+ },
+ {
+  "id": "99654fb24c1d",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Shadow Priest Sarvis",
+  "quest": "Rude Awakening",
+  "en": "Another of the walking dead, hm? Must have been quite a shock, waking up in the crypt with only the cold and Mordo to greet you...\n\nI see the confusion on your face. Let me try to explain our... situation... to you.\n\nWe have been freed from the control of the Lich King by our new leader, Lady Sylvanas. The Dark Lady guides us in our war against the hated Scourge and the holdouts of humanity who dog our every step.",
+  "files": [
+   "quests/363-complete"
+  ]
+ },
+ {
+  "id": "2c0d8b7f96e6",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Saltain",
+  "quest": "Scavenging Deathknell",
+  "en": "You there! If you're looking for something to make yourself useful, then listen up!\n\nWe need fresh out-of-the-ground recruits to head into Deathknell and search for any sort of useful equipment. Most likely, they'll be in stacks of boxes. We expect more recruits to be rising soon, and unless we want them to stumble about naked we had better get to scavenging!\n\nWell get to work, you miserable bag of bones! I'm not going to reward those without some hustle.",
+  "files": [
+   "quests/3902-accept"
+  ]
+ },
+ {
+  "id": "93d61da89bf8",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Saltain",
+  "quest": "Scavenging Deathknell",
+  "en": "Great work Adventurer, I knew you weren't useless. Here - have one of the better items I've found out of the lots that have been collected so far.",
+  "files": [
+   "quests/3902-complete"
+  ]
+ },
+ {
+  "id": "8359722f4353",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Bareth Dawnstone",
+  "quest": "Seeking Refuge",
+  "en": "Light bless you for finding me. I was on my way from Bandarion Keep to deliver a message to Shari Stilwell in Brill when these monsters captured me. They wield the Light with a hatred in their hearts that makes what's left of my blood seethe. It goes against all we stand for!\n\n<Bareth Dawnstone steadies himself.>\n\nOur ranks are thin. If you would aid me in escaping this place, I would be forever grateful.",
+  "files": [
+   "quests/99144-accept"
+  ]
+ },
+ {
+  "id": "a5c884bf67aa",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shari Stilwell",
+  "quest": "Seeking Refuge",
+  "en": "Blessings upon you for aiding Dawnstone. Our order is still taking root here and it would be devastating to lose one so promising before his time.\n\nPlease accept this as a token of our thanks. Should you ever take an interest in our ways, our monastery Bandarion Keep lies on the bluffs northwest of the Solliden Farmstead. We welcome all who seek guidance in the Light.",
+  "files": [
+   "quests/99144-complete"
+  ]
+ },
+ {
+  "id": "f252ff3395ce",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Coleman Farthing",
+  "quest": "Speak with Sevren",
+  "en": "You have given me the remains of the Agamands, and satisfied my desire for revenge. But the Agamand Mills hold a threat to all the Forsaken, not just to me.\n\nI have spoken to Magistrate Sevren of your exploits against the Agamands, and he wishes to speak with you.",
+  "files": [
+   "quests/355-accept"
+  ]
+ },
+ {
+  "id": "5ae98c324faf",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Sevren",
+  "quest": "Speak with Sevren",
+  "en": "Coleman speaks well of you, Adventurer, telling of your successful forays into the Agamand Mills.\n\nThe Forsaken have need of your talents once again...",
+  "files": [
+   "quests/355-complete"
+  ]
+ },
+ {
+  "id": "7974e4edd7aa",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Bartholomew",
+  "quest": "Sticks and Bones",
+  "en": "My associate Eleanor Shackleton prides herself on traveling the wilds, surviving against weather and monsters. She is currently camped not far from here, in the hills to the west, and I remember a piece of advice that she once gave me: \"When you think you have enough firewood, gather five times more.\"\n\nIf you have some spare time, you could collect some wood in this basket and take it to her camp. I'm sure she could give you a few tips about the existence of a traveling adventurer.",
+  "files": [
+   "quests/86784-accept"
+  ]
+ },
+ {
+  "id": "7fc189e896b5",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Eleanor Shackleton",
+  "quest": "Sticks and Bones",
+  "en": "Extra firewood? That is always welcome. It will keep these old bones warm through the cold nights of the Glades.\n\nI have a sling for collecting wood myself, so you might as well hang onto that basket.",
+  "files": [
+   "quests/86784-complete"
+  ]
+ },
+ {
+  "id": "2e2bd5ec6d7c",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Parqual Fintallas",
+  "quest": "Test of Lore",
+  "en": "I will tell you what you must seek, and I will even ask you my question, but not because you wish to prove yourself. Knowledge is far more important than strength. Even as others seem to pass you by in ability, your knowledge of the world will be more valuable.\n\nGo to the Monastery in the north of Tirisfal Glades. In the library there, a book called Beginnings of the Undead Threat resides. It was used by the now-corrupt paladins there to train them to fight my kind.\n\nBring it to me.",
+  "files": [
+   "quests/1160-accept"
+  ]
+ },
+ {
+  "id": "beba7e3097c6",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Parqual Fintallas",
+  "quest": "Test of Lore",
+  "en": "This is the book I sent you to search for.\n\n\nSo now you wish a question to prove your mind is as powerful as your body and spirit. If you have studied the book long enough, then I shall ask you your question and you can be done with these tests!",
+  "files": [
+   "quests/1160-complete"
+  ]
+ },
+ {
+  "id": "f99a10920fe0",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Carolai Anise",
+  "quest": "That Shadowvale Green Elixir",
+  "en": "Before the Scourge invasion, the reclusive village of Shadowvale was known for its Whispering Elixir. Distilled from herbs found only in Tyr's Fall, the elixir was sought by apothecaries, mystics, and poisoners alike even after being banned in the city.\n\nI've had requests from a number of buyers eager to get their hands on some elixir. Travel to the ruins of Shadowvale deep in the Whispering Forest to the west. I'm prepared to offer significant compensation if you can recover some bottles for me.",
+  "files": [
+   "quests/95314-accept"
+  ]
+ },
+ {
+  "id": "d523d4291122",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Carolai Anise",
+  "quest": "That Shadowvale Green Elixir",
+  "en": "You say there is evil in Shadowvale? I admit, I am not surprised. The forest folk were an odd lot, and they did not care for visitors. Some believe the Whispering Forest itself is cursed, and the elixir distilled from its roots carries that same curse...\n\n...but enough of superstition and rumors, Adventurer. Thank you for the elixirs. Here, take this as payment.",
+  "files": [
+   "quests/95314-complete"
+  ]
+ },
+ {
+  "id": "06f23b64f402",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Terrence",
+  "quest": "The Argent Emissary",
+  "en": "Not sure if you heard, but two emissaries of the Argent Dawn just passed through here. I don't mind the Argent Dawn, but I don't like them poking around Tirisfal unsupervised either. They were both Forsaken... but that doesn't make me any less nervous.\n\nOne of them just passed by here, headed southeast. There's a group of scourge cultists snooping around the outskirts of the city in that direction. If those two heard about them, there's no doubt that would have caught their attention.",
+  "files": [
+   "quests/96895-accept"
+  ]
+ },
+ {
+  "id": "c112cda3e47c",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Hadric Harlson",
+  "quest": "The Argent Emissary",
+  "en": "Stay low and try not to be seen, adventurer. These cultists are not to be trifled with.",
+  "files": [
+   "quests/96895-complete"
+  ]
+ },
+ {
+  "id": "7ba52d2266c7",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Gretchen Dedmar",
+  "quest": "The Chill of Death",
+  "en": "It's so cold, now. The Plague of Undeath crawls through my veins like an icy serpent. The Mindless State will be upon me soon. But no doomed destiny will prevent me from serving our Dark Lady. When the call arose I sewed body bags for the fallen soldiers of Sylvanas's mighty army.\n\nNow my hands shake from the chill. If you would bring me five Duskbat Pelts and some Coarse Thread I could sew myself a blanket. Help me, Adventurer, so that I can continue to serve the cause.",
+  "files": [
+   "quests/375-accept"
+  ]
+ },
+ {
+  "id": "b285faf15e05",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Gretchen Dedmar",
+  "quest": "The Chill of Death",
+  "en": "I appreciate your efforts, Adventurer. May Sylvanas recognize your bravery one day. . . .",
+  "files": [
+   "quests/375-complete"
+  ]
+ },
+ {
+  "id": "804250b2541d",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Hadric Harlson",
+  "quest": "The Cult of the Damned",
+  "en": "The scourge are a blight on our lands, and their living servants are the worst of them. The people of Tirisfal have enough to deal with between the mindless dead and the Scarlet Crusade. If you wish to do some good, help me put an end to this scum.",
+  "files": [
+   "quests/96897-accept"
+  ]
+ },
+ {
+  "id": "b0193c46028a",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Hadric Harlson",
+  "quest": "The Cult of the Damned",
+  "en": "Thank you for your aid, adventurer. If we do not wish to see Lordaeron's history repeat itself, we've got to be vigilant when threats like this spring up.",
+  "files": [
+   "quests/96897-complete"
+  ]
+ },
+ {
+  "id": "5e01504f9f64",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Novice Elreth",
+  "quest": "The Damned",
+  "en": "My duties include tending to our wounded warriors, tailoring armor and clothes, and assisting Shadow Priest Sarvis with whatever else he might need.\n\nFrom the look of it, you'll be enlisted in his service also... hunting the Mindless Ones, if I know his mind. Well, if you'd like to stay in one piece--and I've no doubt you do--perhaps I can help. I'm running out of paws and wings, and if you bring me some, I'll find some armor for you. You'll find a good number of wolves and bats to the south.",
+  "files": [
+   "quests/376-accept"
+  ]
+ },
+ {
+  "id": "f9195c18c2e6",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Novice Elreth",
+  "quest": "The Damned",
+  "en": "Thank you, adventurer. This armor should help you out.\n\nHopefully, it should do you more good than the last one to wear it...",
+  "files": [
+   "quests/376-complete"
+  ]
+ },
+ {
+  "id": "4d3c0f7316a2",
+  "zone": "tirisfal",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Lillith's Dinner Table",
+  "quest": "The Dormant Shade",
+  "en": "You place the Candle of Beckoning upon the table and light it...",
+  "files": [
+   "quests/410-complete"
+  ]
+ },
+ {
+  "id": "6cc86c771e62",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Sevren",
+  "quest": "The Family Crypt",
+  "en": "The Agamand Mills area has become a foothold for the Scourge. Their strongest point is the Agamand Family Crypt where their local military leader, a skeleton named Captain Dargol, has headquartered. With Necromancy he has raised the ancestors of the Agamands and plans to use them against us.\n\nThis cannot pass, and you must stop it. Travel to the Agamand Family Crypt and defeat the raised Agamand ancestors.\n\nAnd, bring me the skull of Captain Dargol.",
+  "files": [
+   "quests/408-accept"
+  ]
+ },
+ {
+  "id": "be200cfe6846",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Sevren",
+  "quest": "The Family Crypt",
+  "en": "Your actions struck a telling blow against the Scourge. And your victory will not go unnoticed - not by the Forsaken, nor by our enemies.\n\nContinue the struggle as we all do, Adventurer, and one day we will drive the Lich King himself from Azeroth!",
+  "files": [
+   "quests/408-complete"
+  ]
+ },
+ {
+  "id": "776a3300c853",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Coleman Farthing",
+  "quest": "The Haunted Mills",
+  "en": "Devlin Agamand was the younger of two sons in the Agamand family, and in life the two could not be more different. Thurman was tall and gentle while his younger brother was weak and sharp tongued.\n\nWhen Agamand Mills fell to the Plague, I was not surprised to hear that Devlin was quick to succumb. His mad chattering can still be heard near the road leading to the Agamand Mills.\n\nI'm collecting the remains of the Agamands, and I want poor Devlin. Find him, destroy him, and bring me his bones.",
+  "files": [
+   "quests/362-accept"
+  ]
+ },
+ {
+  "id": "5011ec0c19c8",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Coleman Farthing",
+  "quest": "The Haunted Mills",
+  "en": "Thank you. Devlin's bones will rest nicely on my mantle.\n\nIf my cold heart can find warmth, it is in knowing that the Agamands are destroyed. They failed me and my family when the Plague came - now I swear I will smash their remains under my heel!",
+  "files": [
+   "quests/362-complete"
+  ]
+ },
+ {
+  "id": "7287de7f3be3",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": "The Mills Overrun",
+  "en": "The Scourge are trying to form a base at the Agamand Mills. If they do, then they can stage further attacks within Tirisfal.\n\nThe orders have been given. The Scourge in the Mills must be destroyed.\n\nGo to the Mills. Collect Notched Ribs from Rattlecage and Cracked Skull Soldiers, and Blackened Skulls from Darkeye Bonecasters.\n\nTo get to the Mills, follow the road west. After crossing the bridge, take the next fork north then keep going north. When you see windmills, the battle will begin.",
+  "files": [
+   "quests/426-accept"
+  ]
+ },
+ {
+  "id": "ebde3af54444",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": "The Mills Overrun",
+  "en": "Your efforts in the war are felt among us, Adventurer. I will not thank you for doing what is necessary, but the Deathguards of Tirisfal will remember your name.",
+  "files": [
+   "quests/426-complete"
+  ]
+ },
+ {
+  "id": "cf6bd3a58da7",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Shadow Priest Sarvis",
+  "quest": "The Mindless Ones",
+  "en": "We Forsaken are at war with the Lich King's army of the Scourge: necromantically raised armies of the undead, foul beasts of the north, and tormented spectres.\n\nThe northern part of the village has become overrun with the Mindless Ones, and they must be destroyed. Destroy them, show them no mercy, our former brothers and sisters as they might be. The Fallen are nothing but The Lich King's slaves.",
+  "files": [
+   "quests/364-accept"
+  ]
+ },
+ {
+  "id": "63e12b3905cf",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Shadow Priest Sarvis",
+  "quest": "The Mindless Ones",
+  "en": "It is unfortunate that the Scourge cannot be brought into the fold, their large numbers would be useful in the battles ahead.\n\nBut they will not join us, so we have no choice but to destroy them.",
+  "files": [
+   "quests/364-complete"
+  ]
+ },
+ {
+  "id": "e6633c6dea49",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Theodore Griffs",
+  "quest": "The New Plague",
+  "en": "Welcome to the most vital organ of the Undercity: The Apothecarium! Here we experiment on the most virulent of Azeroth's exotic specimens.\n\nYou've caught me in a good mood, so I will let you in on my latest investigation. It appears there is a particularly venomous arthropod stalking the ruins above our fair city. Its toxins are said to eat through even undead flesh. How exhilarating!\n\nI wish to validate these claims. Should you find yourself withering away from its bite, I should love a sample.",
+  "files": [
+   "quests/95216-accept"
+  ]
+ },
+ {
+  "id": "cae125d68d7f",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Theodore Griffs",
+  "quest": "The New Plague",
+  "en": "You killed it??\n\nHmmph. Lucky for you this should be enough ichor to reverse engineer its properties. You do not wish to be an enemy of the Royal Apothecary Society.\n\nGet out of my sight!",
+  "files": [
+   "quests/95216-complete"
+  ]
+ },
+ {
+  "id": "23b51917cf93",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Ephram Barbaro",
+  "quest": "The One That Got Away",
+  "en": "Oi, you! Word travels quickly among our ranks. I heard about the work you did with the cultists around the remnants of the battle with Naxxramas.\n\nProblem is, one of them cultists got away with a piece of the focusing crystal. Seems to still have some juice in it. Best guess we have is it's somewhere beneath Shadowvale. It's either raising 'em or making 'em stronger, and you don't want either one.\n\nFind that crystal before this gets out of hand.",
+  "files": [
+   "quests/99153-accept"
+  ]
+ },
+ {
+  "id": "b60e53c59e72",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Ephram Barbaro",
+  "quest": "The One That Got Away",
+  "en": "Well done--and quick, too! Now onto my favorite part...",
+  "files": [
+   "quests/99153-complete"
+  ]
+ },
+ {
+  "id": "da52b234ebc9",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Sevren",
+  "quest": "The Prodigal Lich",
+  "en": "Bethor Iceshard, a high-ranking and powerful mage in the Undercity to the south, commands me to send him an agent with proven worth against the Scourge. You, Adventurer, will be that agent.\n\nPresent these orders to Bethor. He will then instruct you on your mission. I don't know its details, but it deals with recruiting a wayward Lich. And it will be dangerous.\n\nSo ready yourself, Adventurer. You must not fail.\n\nYou may find Bethor in the Magic Quarter of the Undercity.",
+  "files": [
+   "quests/405-accept"
+  ]
+ },
+ {
+  "id": "692eb4d4cf3b",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Bethor Iceshard",
+  "quest": "The Prodigal Lich",
+  "en": "Ah, you are the agent sent by Magistrate Sevren. Then yes, your business with me is crucial.\n\nI trust Sevren has mustered someone suitable for my task...but we shall see.",
+  "files": [
+   "quests/405-complete"
+  ]
+ },
+ {
+  "id": "4b3316242b9a",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Gunther's Visage",
+  "quest": "The Prodigal Lich Returns",
+  "en": "When time permits, we must speak at length. For we have much to discuss.",
+  "files": [
+   "followup/1974-scourge-male-standard"
+  ]
+ },
+ {
+  "id": "4d6423975a8f",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Gunther's Visage",
+  "quest": "The Prodigal Lich Returns",
+  "en": "And thank you, adventurer. Without your aid I may never have found my way to the Forsaken.",
+  "files": [
+   "followup/1975-scourge-male-standard"
+  ]
+ },
+ {
+  "id": "ef5b146a0400",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Bethor Iceshard",
+  "quest": "The Prodigal Lich Returns",
+  "en": "Farewell, my friend.",
+  "files": [
+   "followup/1976-scourge-male-dark"
+  ]
+ },
+ {
+  "id": "e1fce989fcb5",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Gunther Arcanus",
+  "quest": "The Prodigal Lich Returns",
+  "en": "Take this Nether Gem to my old comrade Bethor. It will let us communicate ... and I have much to tell him.",
+  "files": [
+   "quests/411-accept"
+  ]
+ },
+ {
+  "id": "5ee905d49928",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Bethor Iceshard",
+  "quest": "The Prodigal Lich Returns",
+  "en": "You convinced him to join us! You have done a great deed for the Forsaken, Adventurer. The Dark Lady will be informed.",
+  "files": [
+   "quests/411-complete"
+  ]
+ },
+ {
+  "id": "543895d39ff0",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Arren",
+  "quest": "The Red Messenger",
+  "en": "Reports from my superiors in Brill indicate that an agent of the Scarlet Crusade was dispatched from the Scarlet Monastery and sent here to Deathknell. According to the reports, the messenger possesses important information on his person. I do not have further details, but whatever it is, we must have it!\n\nYou're the most qualified person I have to send, adventurer. Find that messenger and bring me whatever information you can find.",
+  "files": [
+   "quests/382-accept"
+  ]
+ },
+ {
+  "id": "0cab37913bab",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Arren",
+  "quest": "The Red Messenger",
+  "en": "Hmm... Let's see what you've got...\n\n\nSome news of their exploits against us... Worthless. Scouting reports... New orders, \"Continue to build up a camp near the ruined city...\" Nothing we didn't know already... Ah, what's this? A map of the dispositions of some of their field commanders and agents! We can use this.",
+  "files": [
+   "quests/382-complete"
+  ]
+ },
+ {
+  "id": "d4b7431db008",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Arren",
+  "quest": "The Scarlet Crusade",
+  "en": "You'll be happy to know we appear to be making progress in the mine, thanks in no small part to your efforts. We can now turn our eyes to other concerns.\n\nMy scouts have reported that a detachment of the Scarlet Crusade is setting up a camp southeast of here. The Scarlet Crusade is a despicable organization that hunts us, and they will not rest until every undead--Lich King's Scourge or no--is destroyed. We must strike first!\n\nBe careful, their unholy zeal makes them dangerous adversaries.",
+  "files": [
+   "quests/381-accept"
+  ]
+ },
+ {
+  "id": "c14b025945a6",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Arren",
+  "quest": "The Scarlet Crusade",
+  "en": "If only they listened to reason, eh, adventurer? Perhaps we could sit them down for reasonable discourse... ha!\n\nLight-blinded fools.",
+  "files": [
+   "quests/381-complete"
+  ]
+ },
+ {
+  "id": "d9fc990b235b",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Todeswache Kristof",
+  "quest": "The Wrath of Rath'mael",
+  "en": "Reports have come in from the Lordamere Overlook deep within the Ruins of Lordaeron. An unholy fog has taken over the streets and graveyard, affording the scourge up there some measure of stealth.\n\nOur scouts indicate they're being conjured by a new power within their ranks, a necromancer known as Rath'mael. We do not have the luxury of waiting this one out, Adventurer.\n\nIf you have allies, summon them and their aid to the Forsaken. Drive this creature out of our lands.",
+  "files": [
+   "quests/92422-accept"
+  ]
+ },
+ {
+  "id": "cbee01b63859",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Todeswache Kristof",
+  "quest": "The Wrath of Rath'mael",
+  "en": "While I have no doubt something of his kind will be replaced, we can only hope their ranks thin in the meantime.\n\nThank you Dead.",
+  "files": [
+   "quests/92422-complete"
+  ]
+ },
+ {
+  "id": "425314c6902b",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Junior Apothecary Holland",
+  "quest": "Tomb Weed",
+  "en": "If you're heading east, towards the Balnir Farmstead, I have more you might do for me. Good help is ever so hard to find these days, as your run-in with Gordo illuminates ever so clearly.\n\nAs I acquire doom weed I perform some minor alchemical alterations and replant them on that farmstead to cultivate my ultimate creation. I call it tomb weed, and it shall be the herald of my glorious destiny.\n\nDo keep an eye on the Scourge in the area while you're there. They seem... drawn... to the weed. Curious.",
+  "files": [
+   "quests/99142-accept"
+  ]
+ },
+ {
+  "id": "da6d58f67dfb",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Junior Apothecary Holland",
+  "quest": "Tomb Weed",
+  "en": "Most glorious indeed!\n\n<Junior Apothecary Holland inspects the weeds.>\n\nHmm, I had hoped they would have matured a bit more violently. Nevertheless, progress is progress!\n\nA great many will die as a result of your actions this day. You should be proud.",
+  "files": [
+   "quests/99142-complete"
+  ]
+ },
+ {
+  "id": "2f94c7865efa",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Master Apothecary Faranell",
+  "quest": "Unending Torment",
+  "en": "Oho! I believe I know this head. A cruel joke by our Dark Lady. A delicious one at that.\n\nI think I have a use for this.",
+  "files": [
+   "quests/97288-complete"
+  ]
+ },
+ {
+  "id": "d4f27aa033b1",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Master Apothecary Faranell",
+  "quest": "Unending Torment",
+  "en": "We craft abomination heads all the time, but this one is special. It belonged to a Grand Marshal of the alliance once. A particularly unpleasant one. Othmar, I believe its name was. The Dark Lady had the pleasure of dispatching of this one herself.\n\nOoh the secrets it could tell if it could talk. And it can! If we reattach it to an appropriate host.\n\nGo ahead and place it next to the available body in the next room. But don't attach it. Not yet.",
+  "files": [
+   "quests/97289-accept"
+  ]
+ },
+ {
+  "id": "ae2aafcfaa68",
+  "zone": "tirisfal",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Unfinished Abomination",
+  "quest": "Unending Torment",
+  "en": "<The body twitches to life, panicking as it relives its final moments.>\n\nYou...",
+  "files": [
+   "quests/97289-complete"
+  ]
+ },
+ {
+  "id": "8efd135d9333",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Master Apothecary Faranell",
+  "quest": "Unending Torment",
+  "en": "With the head reattached, all we need now is to bind it to the Dark Lady's will. This should not be a problem. The beast barely has brains left as it is after all the beatings it's taken.\n\nWe simply need to motivate it.\n\nFetch me a Toxic Skullcap from Miss Grisette in the Trade Quarter. Oh, and some Blisterweed from our local herbalist trainers, the Alliestars. Feel free to just take some, they owe me. And lastly a bit of Essence of Agony. Any old poison vendor should do.\n\nWe have a potion to make!",
+  "files": [
+   "quests/97291-accept"
+  ]
+ },
+ {
+  "id": "f4cbd02e7c1f",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Master Apothecary Faranell",
+  "quest": "Unending Torment",
+  "en": "These will do nicely. We will see how much bravado our honored guest retains after he is subjected to my masterpiece.",
+  "files": [
+   "quests/97291-complete"
+  ]
+ },
+ {
+  "id": "ea0e02c0714c",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Master Apothecary Faranell",
+  "quest": "Unending Torment",
+  "en": "I have concocted a lovely serum that our new guest is sure to find quite... stimulating.\n\nTake this. Feed it into the workings dripping from above him. Let's see if we can't show him why it's in his best interest to serve loyally.\n\nAnd try not to drop it. I can't afford a new assistant.",
+  "files": [
+   "quests/97292-accept"
+  ]
+ },
+ {
+  "id": "d749ebb134a1",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Master Apothecary Faranell",
+  "quest": "Unending Torment",
+  "en": "Excellent. We'll let his flesh simmer for awhile. Give him time to acclimate to his new home.\n\nI have no further use for the wretch for now, but we shall keep an eye on him. I have many plans for Othmar's future.",
+  "files": [
+   "quests/97292-complete"
+  ]
+ },
+ {
+  "id": "76da672b7872",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Arren",
+  "quest": "Vital Intelligence",
+  "en": "These will need to be taken to my superior, Executor Zygand, in Brill. With this information, we'll be able to deal a decisive blow to the Scarlet Crusade. Your services have been useful here in Deathknell, but I need someone to deliver this to Zygand, and I believe he'll be able to find you more appropriate work.\n\nTake the road north out of Deathknell. Soon after entering Tirisfal proper, you'll hit a crossroads. Take the eastern fork, and keep going east. You'll pass Cold Hearth Manor along the way.",
+  "files": [
+   "quests/383-accept"
+  ]
+ },
+ {
+  "id": "a32a7179ea0f",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Zygand",
+  "quest": "Vital Intelligence",
+  "en": "Yes, this is very good. You've done well in obtaining this information, adventurer. Hmm... names of the officers in the Tirisfal Glades...\n\nImagine the blow we could deal to the morale of those bloody zealots if we were to kill their leaders in one swift strike.",
+  "files": [
+   "quests/383-complete"
+  ]
+ },
+ {
+  "id": "4370c8824a05",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Vorrel Sengutz",
+  "quest": "Vorrel's Revenge",
+  "en": "Even though my will is free, I can serve the Dark Lady no more. I feel my time on Azeroth has come to an end. My life force is shattered.\n\nInterrogator Vishas did this to me! Tortured me for weeks! Took my wedding ring and gave it to his wife. The bastard!\n\nRevenge... I want revenge!\n\nThe pompous fool bragged about his precious wife, Nancy, who lived along Lake Lordamere. Track the wench down, slay her and return my wedding ring to my wife, Monika in Tarren Mill.\n\nHeed my last wishes....",
+  "files": [
+   "quests/1051-accept"
+  ]
+ },
+ {
+  "id": "9d9e1704e4ae",
+  "zone": "tirisfal",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Monika Sengutz",
+  "quest": "Vorrel's Revenge",
+  "en": "Vorrel led such a troubled existence. And what a good mate he was...\n\nDamn those filthy humans!\n\nVorrel is gone, never to enjoy undeath again. At least I can take solace in the revenge you took in his name. For that I thank you.\n\nNow let me be to mourn....",
+  "files": [
+   "quests/1051-complete"
+  ]
+ },
+ {
+  "id": "353ea70e7ec2",
+  "zone": "tirisfal",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wanted!",
+  "quest": "Wanted: Maggot Eye",
+  "en": "Wanted: Maggot Eye!\n\nA foul beast, even by Gnoll standards, Maggot Eye has been sentenced to death for his crimes against The Forsaken. This despicable villain has been stealing corpses for use by the Lich King's army. Maggot Eye was last seen pillaging the lands near Garren's Haunt to the north of Brill.\n\nThe town of Brill hereby offers a reward to the capable soul who can carry out the execution. Show Executor Zygand the villain's paw once the deed is done.\n\nMercy is for the weak.",
+  "files": [
+   "quests/398-accept"
+  ]
+ },
+ {
+  "id": "0975e84cdf0a",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Zygand",
+  "quest": "Wanted: Maggot Eye",
+  "en": "Maggot Eye's dastardly acts have finally been avenged. Maybe your acts of valor will send a clear message to those who wish to bring harm to our people. On behalf of the town of Brill I thank you, Adventurer.",
+  "files": [
+   "quests/398-complete"
+  ]
+ },
+ {
+  "id": "dee764759e04",
+  "zone": "tirisfal",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Father Lankester",
+  "quest": "Whispering Horror Residue",
+  "en": "What an interesting specimen. From underneath the Whispering Forest, you say? It's no secret that foul place is touched by the void.\n\nI welcome the opportunity to explore the mysteries of shadow, adventurer. Allow me to offer you payment for what you've found.",
+  "files": [
+   "quests/95328-complete"
+  ]
+ }
+]

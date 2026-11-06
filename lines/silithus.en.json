@@ -1,0 +1,2941 @@
+[
+ {
+  "id": "6af315cb18e7",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aurel Goldleaf",
+  "quest": "A Humble Offering",
+  "en": "Ishnu-alah, traveler. Show me proof of the demise of a Lord of the Abyssal Council and I shall reward you with an item that should aid you in your battles against the Qiraji.",
+  "files": [
+   "quests/9248-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "9d8874527869",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aurel Goldleaf",
+  "quest": "A Humble Offering",
+  "en": "Ande'thoras-ethil. It means; 'May your troubles be diminished,' in my native tongue.\n\nWear the band proudly and in good health, Adventurer.",
+  "files": [
+   "quests/9248-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "de8fedf2a960",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Crystalline Tear",
+  "quest": "A Pawn on the Eternal Board",
+  "en": "As you regain your composure and focus your gaze, you notice that something stirs within the crystal. Upon closer inspection, you realize that you are looking into the past... a memory... long forgotten.",
+  "files": [
+   "quests/8519-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "4a16a1c165c3",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Commander Mar'alith",
+  "quest": "A Terrible Purpose",
+  "en": "This is very interesting information indeed, Adventurer. This sheds some light on the presence of the Twilight's Hammer in Silithus and will undoubtedly help us in our struggle against them. Your efforts will be handsomely rewarded, adventurer.",
+  "files": [
+   "quests/8287-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "6080909cca72",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Hermit Ortell",
+  "quest": "A Terrible Purpose",
+  "en": "Ok, here we are... a pretty valuable chunk of information, I must say! I've seen the Cenarion Circle forces arrive at Silithus. They plan to drive the Twilight's Hammer out, don't they? This will help. \n\nTake this parchment to their leader, Commander Mar'alith. Soon the Twilight's Hammer will be vanquished and I will be outside their grasp for good!",
+  "files": [
+   "quests/8287-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "a753d4316225",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bor Wildmane",
+  "quest": "Abyssal Contacts",
+  "en": "We've seen the Twilight's Hammer cultists performing rituals to summon powerful elemental nobles. We don't know if these are the beings the cultists worship or if they act as intermediaries to even more powerful forces. One thing is for sure: they are receiving orders from these elementals.\n\nI want you to find a way to contact an Abyssal Templar and give it a proper beating! Nothing throws the troops in disarray like taking out the chain of command. Bring back proof while you're at it.",
+  "files": [
+   "quests/8361-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "ec5d7a320db1",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bor Wildmane",
+  "quest": "Abyssal Contacts",
+  "en": "Hah! You did it, Adventurer! The Twilight's Hammer will soon be crushed!",
+  "files": [
+   "quests/8361-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "b997b574d358",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bor Wildmane",
+  "quest": "Abyssal Crests",
+  "en": "You've done well! That's less Templars for me to worry about.\n\nHere you go, Adventurer. Hope there's something useful in there for you.",
+  "files": [
+   "quests/8362-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "2b1cfbf041ba",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bor Wildmane",
+  "quest": "Abyssal Scepters",
+  "en": "I knew you'd come through, Adventurer! Here's your reward.",
+  "files": [
+   "quests/8364-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "2a32a0db418b",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bor Wildmane",
+  "quest": "Abyssal Signets",
+  "en": "Excellent, Adventurer! Defeating those Dukes will leave the Twilight's Hammer reeling for a while. As promised, here's your reward. It's some of the better stuff Huum and I have found.",
+  "files": [
+   "quests/8363-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "cfbe59aa686b",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Windcaller Kaldon",
+  "quest": "Allegiance to Cenarion Circle",
+  "en": "You honor us, Adventurer. With your continued efforts we will overcome all obstacles.",
+  "files": [
+   "quests/9338-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "cc7089fe9c99",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Baristolth of the Shifting Sands",
+  "quest": "Anachronos",
+  "en": "It is time, Adventurer.\n\nI must apologize for keeping so much in secret. Enemies abound, even under our very noses. Please, read from this tome and learn. Take the knowledge I give to you and seek out our master.",
+  "files": [
+   "quests/8303-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "d9dc06a20b7d",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Geologist Larksbane",
+  "quest": "Armaments of War",
+  "en": "War comes, Adventurer, and with it comes untold horrors. You have done all that could be asked of you and for that you should be rewarded.\n\nShould this... this prophecy ever come to pass...\n\n\nThe future of us all could be at an end.\n\nThese armaments will prove invaluable to your campaign in this desert.",
+  "files": [
+   "quests/8316-complete",
+   "quests/8376-complete",
+   "quests/8377-complete",
+   "quests/8378-complete",
+   "quests/8379-complete",
+   "quests/8380-complete",
+   "quests/8381-complete",
+   "quests/8382-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "99032ee68151",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Logistics Task Briefing VII",
+  "quest": "Armor Kits for the Field",
+  "en": "The Ironforge Brigade's supply of armor kits in the battlefield is running dangerously low. Obtain a batch and deliver them to Janela Stouthammer at the Ironforge Brigade's outpost outside Hive'Zora.",
+  "files": [
+   "quests/8780-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "56272e85f78f",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Logistics Task Briefing VII",
+  "quest": "Armor Kits for the Field",
+  "en": "The brave volunteers of the Orgrimmar Legion have arrived to Silithus to aid us in our cause. Their supplies of armor kits were somehow lost in the trip. Obtain a batch of armor kits and deliver them to Merok Longstride at the location of the Orgrimmar Legion camp.",
+  "files": [
+   "quests/8787-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "e9d4b3823276",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Merok Longstride",
+  "quest": "Armor Kits for the Field",
+  "en": "Ah, yes... I will distribute these to the troops, Adventurer. The Orgrimmar Legion thanks you!",
+  "files": [
+   "quests/8787-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "b01d3a66f10d",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Janela Stouthammer",
+  "quest": "Arms for the Field",
+  "en": "Oh, excellent! I won't have to hear complaints about dull blades anymore. Thank you, Adventurer.",
+  "files": [
+   "quests/8781-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "27318e6d1f68",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Logistics Task Briefing VI",
+  "quest": "Arms for the Field",
+  "en": "The Ironforge Brigade has been a worthy ally in our fight in Silithus. Unfortunately, many of their supplies were lost on their way here. Procure a batch of weapons and deliver them to Janela Stouthammer near Hive'Zora.",
+  "files": [
+   "quests/8781-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "1a677f948db6",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Logistics Task Briefing VI",
+  "quest": "Arms for the Field",
+  "en": "The Orgrimmar Legion has put in a request for additional weapons that we haven't been able to provide at the moment. Obtain the weapons they've requested and bring them to Merok Longstride outside of Hive'Regal.",
+  "files": [
+   "quests/8786-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "5a28480e76b5",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Merok Longstride",
+  "quest": "Arms for the Field",
+  "en": "Excellent work. We were in short supply of these, Adventurer.",
+  "files": [
+   "quests/8786-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "213ef0445b88",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aurel Goldleaf",
+  "quest": "Aurel Goldleaf",
+  "en": "Adventurer, good day. I was told you will pit yourself against the Abyssal Council? If that is so, then listen closely to my next words...",
+  "files": [
+   "quests/8331-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "94b985d51dad",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Huum Wildmane",
+  "quest": "Aurel Goldleaf",
+  "en": "Adventurer, although we had hoped the Twilight's Hammer's operations in Silithus were slowing... we were, regrettably, mistaken. Through continued forays against the cult, we have learned that an even darker power, the Abyssal Council, controls the Hammer through the arcane wind stones dotted amongst the cult's camps. Your next action, Adventurer, will be against the Abyssal Council.\n\nSpeak with the craftsman Aurel Goldleaf, in the eastern section of Cenarion Hold. Her skill will be needed for this next gambit.",
+  "files": [
+   "quests/8331-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "80ccdd25089b",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Tactical Task Briefing I",
+  "quest": "Azure Templar",
+  "en": "The Twilight's Hammer and the elemental nobles they worship present a formidable threat to our operations in Silithus. With the new enemies we're facing inside Ahn'Qiraj, we cannot afford to lower our guard to our enemies outside.\n\nFind a way to summon and destroy an Azure Templar and report to Bor Wildmane.",
+  "files": [
+   "quests/8737-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "8121fe4684bf",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Windcaller Yessendra",
+  "quest": "Band of Unending Life",
+  "en": "I will swap the gems on the ring for you. You'll find the finished piece is much more... agreeable.",
+  "files": [
+   "quests/8700-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "7e873fe9e6ab",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Windcaller Yessendra",
+  "quest": "Band of Unending Life",
+  "en": "The rings worn by the Qiraji lieutenants are rumored to grant them formidable abilities. The corrupted gems that adorn them could, in theory, be swapped out with more pure materials to create uncorrupted versions of the rings.\n\nThe gems that adorn Qiraji idols would work quite well, as their quality is superior.\n\nBring me the ring and idols and I'll create a powerful ring for you, fellow druid.",
+  "files": [
+   "quests/m-8700-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "68574a1b288c",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Logistics Task Briefing X",
+  "quest": "Bandages for the Field",
+  "en": "Our supply of bandages in the battlefield is running dangerously low after the recent casualties we have incurred. Obtain a batch of first-aid supplies and deliver them to Windcaller Proudhorn in Cenarion Hold.",
+  "files": [
+   "quests/8496-accept",
+   "quests/8810-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "3cee97ab6705",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "The Scarab Gong",
+  "quest": "Bang a Gong!",
+  "en": "From the ground near the gong springs a special crystal. Perhaps favor from the Brood.",
+  "files": [
+   "quests/8743-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "5367de68a76d",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Logistics Task Briefing II",
+  "quest": "Boots for the Guard",
+  "en": "The mounted division of the Cenarion Hold guard is in short supply of ornate mithril boots. Procure a batch and deliver them immediately to Captain Vish Kozus in Cenarion Hold.",
+  "files": [
+   "quests/8540-accept",
+   "quests/8805-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "16cb60443a63",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aurel Goldleaf",
+  "quest": "Bor Wildmane",
+  "en": "Now that you have a medallion and can summon an Abyssal Duke, speak with Bor Wildmane. He will set you on a task against the Abyssal Council.\n\nGood luck, Adventurer. And if you ever need more medallions, return to me.",
+  "files": [
+   "quests/8349-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "64debd2b591c",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bor Wildmane",
+  "quest": "Bor Wildmane",
+  "en": "Good to see you again, Adventurer! So you had a medallion made? Good -- you'll need that for your next quest...",
+  "files": [
+   "quests/8349-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "9c97ed1802f1",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aurel Goldleaf",
+  "quest": "Bor Wishes to Speak",
+  "en": "Now that you can disguise yourself as a ruling member of the Twilight Council, I am certain Bor Wildmane will want to speak with you. Go see him, and prepare yourself for a very difficult mission...",
+  "files": [
+   "quests/8351-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "555b6f8c633b",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bor Wildmane",
+  "quest": "Bor Wishes to Speak",
+  "en": "Yes, that's right, Adventurer. I have a very tough task ahead...",
+  "files": [
+   "quests/8351-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "daf01a5eada6",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Brann Bronzebeard's Lost Letter",
+  "quest": "Brann Bronzebeard's Lost Letter",
+  "en": "To Whom It May Concern:\n\nIf you're reading this, I'm either dead or soon to be dead. It's hard to say. Most of the crew is dead anyhow.\n\nFound information about a Titan. Great battle between him and an Old God. Yes, a bona fide Old God. Found ancient tunnel leading to Ahn'Qiraj. Taking it.\n\nTake this letter to my old camp. Make sure my monkey is getting adequate food, water, and hugs.\n\n-Brann Bronzebeard, Explorer Extreme\n\nP.S. Watch out for crazy Old God worshipping night elf.",
+  "files": [
+   "quests/8308-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "ed6ef1874c41",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rutgar Glyphshaper",
+  "quest": "Brann Bronzebeard's Lost Letter",
+  "en": "Well this explains a lot. If you ever find a way into Ahn'Qiraj, keep an eye out for ol' Brann. I'm afraid that he'll be powerless without his monkey.",
+  "files": [
+   "quests/8308-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "5d548a46ae37",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Frankal Stonebridge",
+  "quest": "Breaking the Code",
+  "en": "I think I can formulate an elixir that will allow us to more readily decipher the glyphs and language of the silithid and Qiraji! What do I need? Glad you asked! I need brains! More specifically, a brain from each silithid type that inhabit the hives. Bring me brains and Rutgar's work might not be for naught.",
+  "files": [
+   "quests/8310-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "80041d32ce46",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Frankal Stonebridge",
+  "quest": "Breaking the Code",
+  "en": "Outstanding! Don't wander off too far, kid. We might need you to take on another task or two.",
+  "files": [
+   "quests/8310-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "4452b68539f3",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Caelestrasz",
+  "quest": "C'Thun's Legacy",
+  "en": "We will leave this place on our own, Lord Adventurer - once we are certain that the evil within has been wholly destroyed. Your journey of legend is almost at an end.",
+  "files": [
+   "quests/m-8801-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "aa6b461dea0e",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Eye of C'Thun",
+  "quest": "C'Thun's Legacy",
+  "en": "The walls of Ahn'Qiraj tremble. A force of evil, older than the world itself, has been destroyed.\n\nAs you look at the remnants of the colossal abomination your heart nearly freezes. Even in death you can feel the legacy of C'Thun's evil around you.\n\nYou have done what was thought to be impossible.\n\nYou grab at an eye stalk of the fiend, stowing it safely in your pack.\n\nTake the Eye of C'Thun to the dragons in the next chamber.",
+  "files": [
+   "quests/8801-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "b1c60b0a61f9",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Vargus",
+  "quest": "Cenarion Battlegear",
+  "en": "Kaldon sent you? Very well, let's see what we can do for you.",
+  "files": [
+   "quests/8800-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "29ba2e621161",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Windcaller Kaldon",
+  "quest": "Cenarion Battlegear",
+  "en": "As you complete the tasks you're assigned in the war you'll want to talk to Vargus, the blacksmith. Show him any badges you've earned along the way. He'll provide you with gear to match your level of commitment to our cause.",
+  "files": [
+   "quests/8800-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "caea38c995a8",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Vethsera",
+  "quest": "Conqueror's Breastplate",
+  "en": "The unmentionable Old God slowly awakens from his slumber beneath Ahn'Qiraj. The terrible fate that awaits Azeroth could come in days or years; time has no meaning for beings of his power.\n\nWhen the stars are favorable, he will lash out against all living beings with terrible wrath. You must find him before then and find a way to bring his existence to an end.\n\nDo this and bring me a piece of his husk. I shall grant you armor no mortal has ever worn... armor fit for one who has slain a god!",
+  "files": [
+   "quests/8562-accept",
+   "quests/8603-accept",
+   "quests/8622-accept",
+   "quests/8627-accept",
+   "quests/8633-accept",
+   "quests/8638-accept",
+   "quests/8656-accept",
+   "quests/8661-accept",
+   "quests/8666-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "28e0b0970b33",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Vethsera",
+  "quest": "Conqueror's Breastplate",
+  "en": "I did not expect you to return from your attempt, Adventurer.\n\nYou've fulfilled a destiny greater than that of most immortal beings.\n\nBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.\n\nAccept this breastplate as a symbol of the glory and burden that will come as a consequence of your actions.\n\nMay its power aid you in the challenges that await you, god-slayer!",
+  "files": [
+   "quests/8562-complete",
+   "quests/8627-complete",
+   "quests/8638-complete",
+   "quests/8656-complete",
+   "quests/8666-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "7f7a3950cfd6",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Andorgos",
+  "quest": "Conqueror's Crown",
+  "en": "The Twin Emperors... their incessant whispers are slowly taking a toll on my sanity. They mock me, knowing I cannot step further into their domain to save my brother Arygos.\n\nIn my visions I see their monstrous faces adorned by powerful crowns. But I will have my revenge... I will transmute these symbols of Qiraji power to ones better suited to our needs.\n\nBring me the components I require, Adventurer. I will give you a headpiece of unmatched power.",
+  "files": [
+   "quests/8561-accept",
+   "quests/8592-accept",
+   "quests/8623-accept",
+   "quests/8628-accept",
+   "quests/8632-accept",
+   "quests/8639-accept",
+   "quests/8662-accept",
+   "quests/8667-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "eafe397a5fa7",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Andorgos",
+  "quest": "Conqueror's Crown",
+  "en": "You've succeeded! The whispers from the Twin Emperors have ceased.\n\nTake this as a reward. The mere sight of it will strike fear in the hearts of the Qiraji... it shall remind them of their fallen leaders and of the mortal that slew them.",
+  "files": [
+   "quests/8561-complete",
+   "quests/8592-complete",
+   "quests/8623-complete",
+   "quests/8632-complete",
+   "quests/8639-complete",
+   "quests/8657-complete",
+   "quests/8662-complete",
+   "quests/8667-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "5fa6be31ce81",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kandrostrasz",
+  "quest": "Conqueror's Greaves",
+  "en": "Qiraji magic is strong and ancient. The most powerful qiraji wield items of such might, they'd give pause even to a dragon.\n\nBring me the qiraji bindings of command and other minor components by and I'll create a set of powerful boots for you.\n\nYou will find them useful in the fight against the enemy.",
+  "files": [
+   "quests/8559-accept",
+   "quests/8596-accept",
+   "quests/8626-accept",
+   "quests/8637-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "860dddabf007",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kandrostrasz",
+  "quest": "Conqueror's Greaves",
+  "en": "You've done well, Adventurer. You've proven you're no ordinary mortal.\n\nI give you these with the confidence they'll aid you in crushing the vile qiraji.",
+  "files": [
+   "quests/8559-complete",
+   "quests/8596-complete",
+   "quests/8626-complete",
+   "quests/8634-complete",
+   "quests/8637-complete",
+   "quests/8655-complete",
+   "quests/8660-complete",
+   "quests/8665-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "6c5d8c261b42",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kandrostrasz",
+  "quest": "Conqueror's Legguards",
+  "en": "You seek to prove your worth to my kind, mortal? Very well, perhaps we can be of mutual assistance.\n\nThe ancient sandworm, Ouro, is a being of legendary power. He is rumored to have been created by the Old God himself as a mockery of life.\n\nHis skin is unnatural... thick, nearly impregnable, yet it's flexible and allows him to move with the speed and grace of a much smaller creature.\n\nBring me a sample of his skin along with other minor components and I shall craft you leggings of great power.",
+  "files": [
+   "quests/8560-accept",
+   "quests/8593-accept",
+   "quests/8624-accept",
+   "quests/8629-accept",
+   "quests/8631-accept",
+   "quests/8640-accept",
+   "quests/8658-accept",
+   "quests/8663-accept",
+   "quests/8668-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "4cd35848a61d",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kandrostrasz",
+  "quest": "Conqueror's Legguards",
+  "en": "Yes... the worm's hide will make for an excellent protective layer. Combined with the strongest parts from the Qiraji we've destroyed on our way here, this should make for a formidable piece of armor. May it aid you in facing the unspeakable horrors that await inside!",
+  "files": [
+   "quests/8560-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "9202c3f8fd76",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Andorgos",
+  "quest": "Conqueror's Spaulders",
+  "en": "It is said among us that the ornate shoulder armor worn by the mortal races started as an attempt to emulate the wings of a dragon.\n\nBring me the bindings worn by the highest Qiraji leaders and I shall shape them into a set of pauldrons more dreadful than even the wings of Nefarian himself!",
+  "files": [
+   "quests/8544-accept",
+   "quests/8594-accept",
+   "quests/8602-accept",
+   "quests/8625-accept",
+   "quests/8630-accept",
+   "quests/8641-accept",
+   "quests/8659-accept",
+   "quests/8664-accept",
+   "quests/8669-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "984303883652",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Andorgos",
+  "quest": "Conqueror's Spaulders",
+  "en": "From the materials you bring and from the scales of our fallen Qiraji foes I make you these pauldrons, mortal. May they grant you the protection you need and may the sight of them strike fear into our enemies.",
+  "files": [
+   "quests/8544-complete",
+   "quests/8594-complete",
+   "quests/8602-complete",
+   "quests/8625-complete",
+   "quests/8628-complete",
+   "quests/8630-complete",
+   "quests/8641-complete",
+   "quests/8659-complete",
+   "quests/8664-complete",
+   "quests/8669-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "2503cbbff16d",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Tactical Task Briefing II",
+  "quest": "Crimson Templar",
+  "en": "The Twilight's Hammer and the elemental nobles they worship present a formidable threat to our operations in Silithus. With the new enemies we're facing inside Ahn'Qiraj, we cannot afford to lower our guard to our enemies outside.\n\nFind a way to summon and destroy a Crimson Templar and report to Bor Wildmane.",
+  "files": [
+   "quests/8537-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "5a70a5807a68",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Beetix Ficklespragg",
+  "quest": "Deadly Desert Venom",
+  "en": "Beetix Ficklespragg at your service! My cousin Noggle makes a living gathering rare herbs for Cenarion Hold alchemists. Or used to, anyway. He came back from his last trip with a strong poison running though his veins.\n\nI've managed to slow down the venom, but to fully neutralize it I need poison samples from whatever stung him.\n\nNoggle arrived from the north, so I'd bet my shirt stonelash scorpids or sand skitterers did it. Bring me some stingers and fangs and I'll try to make an antidote for him.",
+  "files": [
+   "quests/8277-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "f481afcf2935",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Beetix Ficklespragg",
+  "quest": "Deadly Desert Venom",
+  "en": "Cross your fingers, friend! Here's to hoping we can save Noggle!",
+  "files": [
+   "quests/8277-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "42ce1579fe66",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Noggle Ficklespragg",
+  "quest": "Deadly Desert Venom",
+  "en": "Wha... where am I? So... weak..",
+  "files": [
+   "followup/10672-goblin-male-zany"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "7d8fa532e312",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Commander Mar'alith",
+  "quest": "Dearest Natalia",
+  "en": "My dear Natalia has gone missing.\n\nTruth be told, she had been acting strangely for weeks leading up to her disappearance. I had caught her talking to herself when no one was around on more than one occasion. She was adamant that everything was ok and that she must be allowed to continue her research.\n\nShe was last seen heading to Bronzebeard's camp to the south.\n\nMy soldiers are spread too thin, Adventurer. I need you to go to Bronzebeard's camp and question those dwarves.",
+  "files": [
+   "quests/8304-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "19f4c34bab57",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Commander Mar'alith",
+  "quest": "Dearest Natalia",
+  "en": "Whether she is alive or dead, I must do what is right. She must be found. Alas, I am bound by duty to this outpost. Will you help me once more, Adventurer?",
+  "files": [
+   "quests/8304-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "d64f9189b5cc",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Logistics Task Briefing I",
+  "quest": "Desert Survival Kits",
+  "en": "With the arrival of fresh recruits to Cenarion Hold comes the problem of keeping them alive in the desert. Dehydration as well as numerous poisonous creatures present a serious threat to inexperienced volunteers. Gather the supplies necessary for a desert survival kit and bring them to Calandrath in Cenarion Hold.",
+  "files": [
+   "quests/8497-accept",
+   "quests/8804-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "58504eb7ae99",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Vethsera",
+  "quest": "Doomcaller's Robes",
+  "en": "I did not expect you to return from your attempt, adventurer.\n\nYou've fulfilled a destiny greater than that of most immortal beings.\n\nBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.\n\nAccept these robes as a symbol of the glory and burden that will come as a consequence of your actions.\n\nMay their power aid you in the challenges that await you, god-slayer!",
+  "files": [
+   "quests/8661-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "03062ffa71dc",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Keyl Swiftclaw",
+  "quest": "Drape of Unyielding Strength",
+  "en": "I'm glad to hear you're aiding us in our attack on Ahn'Qiraj, Adventurer. I can make you a protective item that'll be of assistance in the fight against our enemy, adventurer.\n\nI shall need a Qiraji drape, which I'll resize for you of course. I'll also need idols and scarabs which I'll use to create a suitable clasp.\n\nI promise you won't be disappointed.",
+  "files": [
+   "quests/8557-accept",
+   "quests/8689-accept",
+   "quests/8690-accept",
+   "quests/8691-accept",
+   "quests/8692-accept",
+   "quests/8693-accept",
+   "quests/8694-accept",
+   "quests/8695-accept",
+   "quests/8696-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "d2eec45e3517",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Keyl Swiftclaw",
+  "quest": "Drape of Unyielding Strength",
+  "en": "Ah yes... this drape is immaculate.\n\nTake this cloak, Adventurer. May it protect you from the foul magic of the Qiraji.",
+  "files": [
+   "quests/8557-complete",
+   "quests/8689-complete",
+   "quests/8690-complete",
+   "quests/8691-complete",
+   "quests/8692-complete",
+   "quests/8693-complete",
+   "quests/8694-complete",
+   "quests/8695-complete",
+   "quests/8696-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "0c7a0c0232ba",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aurel Goldleaf",
+  "quest": "Dukes of the Council",
+  "en": "We think it is possible to use a wind stone to ambush a duke of the Abyssal Council. To do this, however, one must commune through the wind stone, and convince the council you are a middle ranked leader of the Twilight's Hammer. \n\nSuch a gambit requires a replica of the cult's medallion of station. I can create the medallion, but I will need a large brilliant shard, and crests worn by the Abyssal Templar.\n\nBring these to me and I will do the rest.",
+  "files": [
+   "quests/8332-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "43f6cf14e67c",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aurel Goldleaf",
+  "quest": "Dukes of the Council",
+  "en": "Ah, very good. I've been working on the medallion - now with these last ingredients, I'll be done in just a few moments...\n\nThere we are. Here is the medallion, Adventurer.\n\nYou'll need to wear this when you activate one of the Twilight's Hammer's wind stones. Put this on, along with the rest of the twilight trappings, and the Abyssal Council will see you as one of their cultist underlings.",
+  "files": [
+   "quests/8332-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "4469d155f336",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Tactical Task Briefing III",
+  "quest": "Earthen Templar",
+  "en": "The Twilight's Hammer and the elemental nobles they worship present a formidable threat to our operations in Silithus. With the new enemies we're facing inside Ahn'Qiraj, we cannot afford to lower our guard to our enemies outside.\n\nFind a way to summon and destroy an Earthen Templar and report to Bor Wildmane.",
+  "files": [
+   "quests/8536-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "80219631d35a",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bor Wildmane",
+  "quest": "Encrypted Twilight Texts",
+  "en": "Excellent work! I'll put a good word in for you.",
+  "files": [
+   "quests/8319-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "9944bebc1f4f",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kandrostrasz",
+  "quest": "Enigma Boots",
+  "en": "Qiraji magic is strong and ancient. The most powerful qiraji wield items of such might, they'd give pause even to a dragon.\n\nBring me the qiraji bindings of dominance and other minor components by and I'll create a set of powerful boots for you.\n\nYou will find them useful in the fight against the enemy.",
+  "files": [
+   "quests/8634-accept",
+   "quests/8660-accept",
+   "quests/8665-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "5b58777b362c",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Vethsera",
+  "quest": "Enigma Robes",
+  "en": "I did not expect you to return from your attempt, Adventurer.\n\nYou've fulfilled a destiny greater than that of most immortal beings.\n\nBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.\n\nAccept these robes as a symbol of the glory and burden that will come as a consequence of your actions.\n\nMay their power aid you in the challenges that await you, god-slayer!",
+  "files": [
+   "quests/8633-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "283c728e79f8",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Logistics Task Briefing IX",
+  "quest": "Extraordinary Materials",
+  "en": "Vargus, Cenarion Hold's blacksmith, has requested enchanted materials to be used in the crafting of powerful weapons for our forces. Obtain these and bring them directly to Vargus so that Cenarion Hold's troops may continue to be well equipped.",
+  "files": [
+   "quests/8783-accept",
+   "quests/8809-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "0833e5907eb1",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Windcaller Kaldon",
+  "quest": "Field Duty",
+  "en": "Greetings, Adventurer. Before I assign you to more involved tasks in the war, you'll need to do your share of field duty. \n\nYou will find Captain Blackanvil's Ironforge Brigade outside Hive'Zora.\n\nReport to him or his lieutenant, Janela Stouthammer and come back to me. I shall have a more advanced assignment for you ready.\n\nOh and please do us a favor and stay away from the Orgrimmar Legion. We've been forced to keep the two forces well apart from one another due to mutual animosity.",
+  "files": [
+   "quests/8507-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "041d4ce4ac30",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Windcaller Kaldon",
+  "quest": "Field Duty",
+  "en": "Very well, Adventurer I've prepared a set of tasks that should make optimal use of your skills.\n\nWith the continued efforts of you and people like you, our enemy will soon be vanquished once and for all!\n\nShould you require a new mission briefing, return to Captain Blackanvil.",
+  "files": [
+   "quests/8507-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "505f6be6584a",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Windcaller Kaldon",
+  "quest": "Field Duty",
+  "en": "Greetings, Adventurer. Before I assign you to more involved tasks in the war, you'll need to do your share of field duty. \n\nYou will find Captain Skullsplit's Orgrimmar Legion outside Hive'Regal.\n\nReport to him and come back to me with proof of your field service. I shall have a more advanced assignment ready for you.\n\nOh, please do your best to stay away from the Ironforge Brigade. Tensions are high among our Alliance and Horde volunteers.",
+  "files": [
+   "quests/8731-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "6a6b949144a8",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Windcaller Kaldon",
+  "quest": "Field Duty",
+  "en": "I can tell that Krug has little use for paperwork. He signed this in silithid blood!\n\nVery well, Adventurer. I've prepared a set of tasks that should make good use of your skills as a adventurer.\n\nWith the continued efforts of you and people like you, our enemy will soon be crushed!",
+  "files": [
+   "quests/8731-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "a6fcc05bd8de",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Captain Blackanvil",
+  "quest": "Field Duty Papers",
+  "en": "Aye, I suppose that little skirmish will pass as field duty nowadays. Take these back to Cenarion Hold, I'm sure they'll have a cushy job ready for you.\n\nOff you go!",
+  "files": [
+   "quests/8508-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "259efbce5d53",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Krug Skullsplit",
+  "quest": "Field Duty Papers",
+  "en": "Yes, I suppose that little skirmish will pass as field duty nowadays. Take these back to Cenarion Hold, I'm sure they'll have a cushy job ready for you.\n\nOff you go!",
+  "files": [
+   "quests/8732-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "f2009a1a0499",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rutgar Glyphshaper",
+  "quest": "Glyph Chasing",
+  "en": "After our initial foray into the hives and Mistress Mar'alith's subsequent madness the three hives have been spewing out bugs! The increased activity might be tied into the glyphs covering those strange crystals.\n\nWe must get a rubbing from crystals in all three hives. If we can get those rubbings, we might be able to make sense of this madness.\n\nTake this transcription set and some buddies and hit those hives, Adventurer. Don't come back until you've gotten copies from each hive.",
+  "files": [
+   "quests/8309-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "7f243347cb53",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rutgar Glyphshaper",
+  "quest": "Glyph Chasing",
+  "en": "I can't make heads or tails of these glyphs. I've never seen anything like it! I hope Frankal's research can shed some light on this mess.",
+  "files": [
+   "quests/8309-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "30f5449e3555",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aurel Goldleaf",
+  "quest": "Goldleaf's Discovery",
+  "en": "What Huum says is true. I believe I know how to summon a lord of the Abyssal Council! Listen on, and I will explain...",
+  "files": [
+   "quests/8343-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "4554ec29ef59",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Huum Wildmane",
+  "quest": "Goldleaf's Discovery",
+  "en": "Adventurer, Aurel Goldleaf thinks she's found a way to summon and defeat a ruling member of the Abyssal Council! Such a task will be dangerous, but you have earned great respect amongst the Cenarion Circle. We know that if anyone can do it, you can.\n\nMay fortune go with you, Adventurer. Speak with Aurel when you are ready.",
+  "files": [
+   "quests/8343-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "dccfb1781bf5",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Logistics Task Briefing III",
+  "quest": "Grinding Stones for the Guard",
+  "en": "The Cenarion Hold guard is in short supply of grinding stones. Procure a batch and deliver them immediately to Captain Vish Kozus in Cenarion Hold.",
+  "files": [
+   "quests/8541-accept",
+   "quests/8806-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "1416bdbcf5dd",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Layo Starstrike",
+  "quest": "Hive in the Tower",
+  "en": "The hive needs to be addressed in Southwind Village, and I think I know a way to get at them. It's been my experience that the silithid hives are very sensitive to their environment; this explains their attacks when hearing the death wails of the spirits.\n\nThe silithid are strongest in the tower - the one with the mass of wasps circling it. Scale the tower and jostle the hive into activity. Report back what you learn, but be careful! If you uncover anything that might help, bring it to me.",
+  "files": [
+   "quests/1126-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "e6034e54885f",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Layo Starstrike",
+  "quest": "Hive in the Tower",
+  "en": "What the... what is it?\n\nIt has the shape of a... box, maybe? It's encrusted over something fierce. Wait, there's a portion here that's exposed... is that a book underneath all this gunk?\n\nI think you've stumbled across quite the find here, Adventurer... well, at least I hope it is. Perhaps it is a journal or a log from ancient times, preserved in this shell.\n\nI think I know a way to find out what this is.",
+  "files": [
+   "quests/1126-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "437144f2fc58",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Tactical Task Briefing VIII",
+  "quest": "Hive'Ashi Scout Report",
+  "en": "We've sent our best scouts deep into the silithid hives to gather intelligence. Scout Jalia has been watching the silithid movements at Hive'Ashi for several days now. Find her and obtain a written report. We need to be able to act on that information as soon as possible, Adventurer.",
+  "files": [
+   "quests/8739-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "ea8618cbdf7a",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Tactical Task Briefing VII",
+  "quest": "Hive'Regal Scout Report",
+  "en": "We've sent our best scouts deep into the silithid hives to gather intelligence. Scout Landion has been watching the silithid movements at Hive'Regal for several days now. Find him and obtain a written report. We need to be able to act on that information as soon as possible, Adventurer.",
+  "files": [
+   "quests/8738-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "6dc1b2d8f538",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Tactical Task Briefing VI",
+  "quest": "Hive'Zora Scout Report",
+  "en": "We've sent our best scouts deep into the silithid hives to gather intelligence. Scout Azenel has been watching the silithid movements at Hive'Zora for several days now. Find her and obtain a written report. We need to be able to act on that information as soon as possible, Adventurer.",
+  "files": [
+   "quests/8534-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "4265d2e5ec13",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Windcaller Proudhorn",
+  "quest": "Hive'Zora Scout Report",
+  "en": "Your efforts are greatly appreciated, Adventurer. I'll read these scouting reports right away, feel free to go over your next assignment.",
+  "files": [
+   "quests/8534-complete",
+   "quests/8738-complete",
+   "quests/8739-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "24061df36d97",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bor Wildmane",
+  "quest": "Hoary Templar",
+  "en": "Good job, Adventurer. Here's your next assignment.",
+  "files": [
+   "quests/8535-complete",
+   "quests/8536-complete",
+   "quests/8537-complete",
+   "quests/8737-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "4e43351af072",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Tactical Task Briefing IV",
+  "quest": "Hoary Templar",
+  "en": "The Twilight's Hammer and the elemental nobles they worship present a formidable threat to our operations in Silithus. With the new enemies we're facing inside Ahn'Qiraj, we cannot afford to lower our guard to our enemies outside.\n\nFind a way to summon and destroy a Hoary Templar and report to Bor Wildmane.",
+  "files": [
+   "quests/8535-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "579f2e1ce06b",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Arygos",
+  "quest": "Imperial Qiraji Armaments",
+  "en": "We have not sat idly by for a millennium, Adventurer.\n\nWe have watched these beasts feast on their own when they have exhausted their utility. We have listened as they have plotted and schemed to destroy our world. And we have learned of their own internal treachery.\n\nWeaknesses exist and we know how to use those weaknesses to our advantage.\n\nFind and bring me their ceremonial armaments: Combined with the element created from the volatility of their own God, they will become a force of reckoning.",
+  "files": [
+   "quests/8789-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "41e841f54bed",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Arygos",
+  "quest": "Imperial Qiraji Armaments",
+  "en": "Infused with Elementium, these weapons will cut through the Qiraji and their God with incredible ease.",
+  "files": [
+   "quests/8789-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "e5a40eaa4ace",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Merithra of the Dream",
+  "quest": "Imperial Qiraji Regalia",
+  "en": "Arygos theorizes that the element which is born of conflicts between the Old Gods and their minions is also extremely deadly to them under the right conditions. I speak of Elementium, mortal.\n\nFind and bring me Imperial Qiraji Regalia and the toxic element and I shall infuse weapons of great power.",
+  "files": [
+   "quests/8790-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "8a3f5227d3f5",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Merithra of the Dream",
+  "quest": "Imperial Qiraji Regalia",
+  "en": "Use the item well, Adventurer. Let them feel the pain that they so dearly wish to inflict upon others.",
+  "files": [
+   "quests/8790-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "3846c685d968",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Commander Mar'alith",
+  "quest": "Into The Maw of Madness",
+  "en": "I need you to venture into Hive'Regal and find what became of my dearest Natalia, Adventurer. This will be no easy task for you to do alone. I recommend that you bring some friends along. Before you dive headlong into the maw of madness, make sure that you go back and speak with those dwarves. They might be able to give you some tips on dealing with the silithid that inhabit that hive.\n\nAnd Adventurer, if she truly is as mad as they say... do what you must.",
+  "files": [
+   "quests/8306-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "3c69ff50c428",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Commander Mar'alith",
+  "quest": "Into The Maw of Madness",
+  "en": "C'Thun? WHAT is the meaning of all this? What is C'Thun? How could this fiend have turned my sweet Natalia into the monster that you described?",
+  "files": [
+   "quests/8306-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "7e68310a8ac6",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Crystalline Tear",
+  "quest": "Long Forgotten Memories",
+  "en": "You can feel a great sorrow revolving around this crystal. The force is so powerful that you feel as if you might collapse and die of sadness.",
+  "files": [
+   "quests/8305-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "d817e12a8854",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aurel Goldleaf",
+  "quest": "Lords of the Council",
+  "en": "Lords of the Abyssal Council can only be summoned through the greater wind stones, and only the top ranking members of the Twilight's Council may speak to them. But... I have found a way to upgrade your disguise and fool the Abyssal Lords!\n\nThe disguise calls for a ring of lordship, worn only by the highest members of the cult. I will craft one for you if you can bring me large brilliant shards and abyssal signets.",
+  "files": [
+   "quests/8341-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "5d9f399a6243",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aurel Goldleaf",
+  "quest": "Lords of the Council",
+  "en": "Thanks. Just one moment and I'll have that ring ready for you...\n\nThere it is. Now you're ready.\n\nBe sure to wear this ring, along with a medallion of station and the rest of the twilight trappings, when you activate a greater wind stone. Do that, and the Abyssal Council will think you one of their servants. Then, perhaps you can lure one into an ambush!",
+  "files": [
+   "quests/8341-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "0e7921069853",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aurel Goldleaf",
+  "quest": "Medallion of Station",
+  "en": "Here you are, Adventurer. One more Twilight medallion of station. Use it well, and I wish you luck against the Abyssal Council!",
+  "files": [
+   "quests/8333-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "e6091f668bec",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kandrostrasz",
+  "quest": "Mortal Champions",
+  "en": "I see that you're no ordinary mortal, Adventurer. Your chances against the Old God, however infinitely small, are greater than ours at this point. After all, while he expects dragons at his doorstep, he is not prepared for someone like you.\n\nJust as Anachronos and Staghelm defeated the Qiraji a thousand years ago through the alliance of mortal and dragon races, we too shall form a pact. Gain the trust of the Bronze Dragonflight and you'll gain our trust. Only then we shall make a true champion out of you.",
+  "files": [
+   "quests/8579-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "8bfc68a99525",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kandrostrasz",
+  "quest": "Mortal Champions",
+  "en": "You continue to serve us well, Adventurer. Our pact remains in place.",
+  "files": [
+   "quests/8595-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "d2e6e75c143b",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Beetix Ficklespragg",
+  "quest": "Noggle's Last Hope",
+  "en": "Blasted! The antidote didn't work. Noggle must've been stung by one of the stronger creatures in the far south.\n\nI'm going to need you to go there and get me some more samples, Adventurer. The good news is that since their poison is stronger I won't require as many. The bad news is that there are more kinds of poisonous creatures crawling around the southern area so you'll have to draw from more sources.",
+  "files": [
+   "quests/8278-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "9261fe3089d4",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Beetix Ficklespragg",
+  "quest": "Noggle's Last Hope",
+  "en": "Yes! It seems to be working, Noggle is coming to. We owe ya big time!",
+  "files": [
+   "quests/8278-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "f8e58086b087",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Noggle Ficklespragg",
+  "quest": "Noggle's Last Hope",
+  "en": "Yes! I'm cured! I'm cure... whoa, got up too fast!",
+  "files": [
+   "followup/10675-goblin-male-zany"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "27f71d33db75",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Noggle Ficklespragg",
+  "quest": "Noggle's Lost Satchel",
+  "en": "Thanks for finding my reagents! *yawn* That poison's made me... a bit tired...",
+  "files": [
+   "followup/10676-goblin-male-zany"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "7da6d2e82ca0",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Noggle Ficklespragg",
+  "quest": "Noggle's Lost Satchel",
+  "en": "Where am I? Where's my bag? *gasp* I must've lost it while fleeing from Deathclasp, the giant scorpid. In my rush to escape I walked right into a nest of stonelash flayers.\n\nThe satchel I was carrying had all sorts of rare reagents in it. Without them, me and Beetix won't be able to make the potions that Cenarion Hold needs. I'm too weak to get up yet, but I can make it worth your while if you bring back my reagents.\n\nI ran into Deathclasp in the southern mountain range, behind Bronzebeard's camp.",
+  "files": [
+   "quests/8282-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "f878019c528c",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Noggle Ficklespragg",
+  "quest": "Noggle's Lost Satchel",
+  "en": "Yes! You brought my satchel back. And my rare reagents are all here! I'll be in your debt for a long time.",
+  "files": [
+   "quests/8282-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "b0b787532a8a",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "General Kirika",
+  "quest": "Report to General Kirika",
+  "en": "It's good that you're hear, but there's no time to waste making small talk. You need instructions, and then you need to get out there.\n\nListen up.",
+  "files": [
+   "quests/9416-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "8ffdf986eaa7",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Scout Bloodfist",
+  "quest": "Report to General Kirika",
+  "en": "You must be one of General Kirika's new recruits. It's about time you showed up. Bodies wear down quick in the desert.\n\nThe dwarves have been getting reinforcements daily, and we can't afford to lose ground in our struggle for resources in Silithus.\n\nGet your instructions from the General. It's not my job to train you, just find you.",
+  "files": [
+   "quests/9416-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "d9fc850fa805",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Marshal Bluewall",
+  "quest": "Report to Marshal Bluewall",
+  "en": "The Alliance needs every able body they can get. The Horde has been receiving a steady supply of reinforcements from the northern part of the continent, and it's been a struggle to keep up.\n\nLet me explain the situation to you.",
+  "files": [
+   "quests/9415-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "08c798cce4f6",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rifleman Torrig",
+  "quest": "Report to Marshal Bluewall",
+  "en": "Are you Marshal Bluewall's new recruits? Of course you are.\n\nWhat are you waiting for? Good soldiers are dying in the desert. Aren't you excited to join them?\n\nNow, get going and don't dry out on the way.",
+  "files": [
+   "quests/9415-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "6fc5e49d01fb",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bor Wildmane",
+  "quest": "Scepter of the Council",
+  "en": "Huum and I were just talking about you. He tells me you're just about ready to try your hand at fighting an Abyssal Lord!\n\nI must tell you this is a very dangerous endeavor. You'd better bring backup. And I don't mean one or two of your friends, I'm talking about a top-notch, battle-ready fighting force. If your friends are as good as you, you might even defeat it!\n\nIf you do - and I'll want evidence, as always - I'll give you a truly great reward.",
+  "files": [
+   "quests/8352-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "595637e2a5fb",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bor Wildmane",
+  "quest": "Scepter of the Council",
+  "en": "You... you did it! You did it, Adventurer! Here! Take this. It's the biggest chest we had lying around and I filled it with some of the best stuff we found.",
+  "files": [
+   "quests/8352-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "621e4459bce6",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "General Kirika",
+  "quest": "Scouring the Desert",
+  "en": "For some time now, we have been tapping the crystal resources of the Silithus desert. The only dangers we faced were from the creatures that made this place their home and the oppressive sand and dust and heat.\n\nBut now the Alliance seems to have caught on to what we have found here. It is now a race between us to capture the natural resources, and keep them from the other.\n\nI need every set of hands that is available. I hope I have yours.",
+  "files": [
+   "quests/9422-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "94848520ded7",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "General Kirika",
+  "quest": "Scouring the Desert",
+  "en": "You've done well, adventurer. These resources will be added to our stockpiles, and every bit is to our gain and our enemy's loss.",
+  "files": [
+   "quests/9422-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "6b1a9f7c1c1d",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Marshal Bluewall",
+  "quest": "Scouring the Desert",
+  "en": "We recently found out that the Horde has been scavenging the Silithus desert for resources, but paid them little mind. We thought it could not be worth it to station large numbers in this sweltering desert.\n\nHowever, it was discovered the importance of the resources, and now we are scrambling to catch up.\n\nIf I have your assistance, you must go into the desert and recover the silithyst and return it here.",
+  "files": [
+   "quests/9419-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "0d3a599b051f",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Marshal Bluewall",
+  "quest": "Scouring the Desert",
+  "en": "Thank the Light you were successful.\n\nNow if we could only have started this sooner, our need would not be so desperate. We must keep the bounty of the desert from falling into the hands of the Horde.",
+  "files": [
+   "quests/9419-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "9d2349f0a4e9",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Logistics Task Briefing V",
+  "quest": "Scrying Materials",
+  "en": "Geologist Larksbane's studies have proven to be of tremendous value to our operations in Silithus. She has recently requested scrying materials to be used in her research.\n\nPlease gather these materials and deliver them to her directly so that she may continue her research.",
+  "files": [
+   "quests/8779-accept",
+   "quests/8807-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "4ca7f6f3c436",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bor Wildmane",
+  "quest": "Secret Communication",
+  "en": "Some of the Twilight's Hammer cultists carry around little papers with gibberish written on them. I want you to bring me a stack of them, adventurer.\n\nI can't figure out what the gibberish means, but that's not the point! These papers are how their different groups communicate secretly. The more texts we take out of circulation, the less they can communicate!",
+  "files": [
+   "quests/8318-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "a36490c3afa5",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bor Wildmane",
+  "quest": "Secret Communication",
+  "en": "Excellent! I'll stash these away, maybe they'll be useful later.",
+  "files": [
+   "quests/8318-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "0f1777964266",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Colossus Researcher Nestor",
+  "quest": "Secrets of the Colossus - Ashi",
+  "en": "I'm looking for battle hardened adventurers willing and able to get a fresh husk sample from the fallen Colossus of Ashi to Oglethorpe in Booty Bay. No, no, I wouldn't want you to go anywhere near that thing's corpse. Just take one of my samples and make it snappy. These things are no good to him rotten!",
+  "files": [
+   "quests/8857-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "3ac6cf13a771",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Oglethorpe Obnoticus",
+  "quest": "Secrets of the Colossus - Ashi",
+  "en": "Oh the chickens I will craft from this wondrous husk! Well done, my boy!",
+  "files": [
+   "quests/m-8857-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "49ef58458a1a",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Colossus Researcher Eazel",
+  "quest": "Secrets of the Colossus - Regal",
+  "en": "There ain't nothin' I'd like more than to stuff this bug husk down Oilfist's fat face... Cept, I'm stuck here collectin' samples from that overgrown cockroach. I'll be here 'till the wee mornin' hours given the size o' that thing.\n\nTake this here sample to Oilfist fer me and do it fast, adventurer. He's payin' BIG!\n\nYar, Thorium Point - it be in the Searin' Gorge.",
+  "files": [
+   "quests/8858-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "eaf29e691ba5",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Overseer Oilfist",
+  "quest": "Secrets of the Colossus - Regal",
+  "en": "Excellent. We could surely devise some incredibly powerful armor from this chitin. Here's the riches you were promised.",
+  "files": [
+   "quests/8858-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "3cd6f1775372",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Colossus Researcher Sophia",
+  "quest": "Secrets of the Colossus - Zora",
+  "en": "My servants were nearly killed in their efforts to recover this sample. You absolutely must hurry! Lord Maxwell Tyrosus eagerly awaits a fresh husk sample. He believes that the secrets of this Colossus could help us in the war against the Scourge!\n\nWhy are you still here!? To Light's Hope! Yes, you will be rewarded handsomely for your efforts...",
+  "files": [
+   "quests/8859-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "fe1ca167ac3c",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lord Maxwell Tyrosus",
+  "quest": "Secrets of the Colossus - Zora",
+  "en": "Excellent and timely! Well done, lad.",
+  "files": [
+   "quests/m-8859-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "3ed772f25fba",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Ancient Qiraji Artifact",
+  "quest": "Secrets of the Qiraji",
+  "en": "You have discovered an ancient Qiraji artifact! Perhaps one of the dragons near the entrance of the temple would have a use for this relic.",
+  "files": [
+   "quests/8784-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "ac3a6a2fcac2",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Andorgos",
+  "quest": "Secrets of the Qiraji",
+  "en": "An exceptional find, Adventurer. Simply marvelous! This will definitely give us some insight into our enemy's twisted minds.",
+  "files": [
+   "quests/8784-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "8f110ec127d0",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Windcaller Proudhorn",
+  "quest": "Securing the Supply Lines",
+  "en": "Cenarion Hold is a location of utmost strategic importance. I'm convinced that while we hold it our victory over the silithid is guaranteed. Provided our influx supplies can be maintained, that is.\n\nDesert worms have proven to be more of a threat to our supply caravans than even the silithid themselves. Just this morning, a large shipment of morrowgrain was ravaged by a group of dredge strikers. I need you to thin their numbers to ensure our supplies aren't jeopardized.",
+  "files": [
+   "quests/8280-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "1ed87aaed4c4",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Windcaller Proudhorn",
+  "quest": "Securing the Supply Lines",
+  "en": "You have my sincere gratitude. Your efforts in helping Cenarion Hold have shown true courage.",
+  "files": [
+   "quests/8280-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "97978b8524ed",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Warden Haro",
+  "quest": "Sickle of Unyielding Strength",
+  "en": "The Qiraji and their servants wield items made with the rarest and finest materials: bones from gargantuan ancient creatures, gems from the depths of the earth, metals pure and strong.\n\nJust the sight of Qiraji artifacts fills me with an urge to practice my craft with their shattered and smelted pieces. Prove your allegiance to the Circle, Adventurer, and I will make you a powerful weapon from the finest Qiraji materials.",
+  "files": [
+   "quests/8558-accept",
+   "quests/8705-accept",
+   "quests/8706-accept",
+   "quests/8707-accept",
+   "quests/8708-accept",
+   "quests/8709-accept",
+   "quests/8710-accept",
+   "quests/8711-accept",
+   "quests/8712-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "c832485e569b",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Warden Haro",
+  "quest": "Sickle of Unyielding Strength",
+  "en": "You've done well, Adventurer. This is a masterwork hilt... the balance is perfect.\n\nTake your weapon, Adventurer. Wield it with great confidence and vanquish our enemies!",
+  "files": [
+   "quests/8558-complete",
+   "quests/8705-complete",
+   "quests/8706-complete",
+   "quests/8707-complete",
+   "quests/8708-complete",
+   "quests/8709-complete",
+   "quests/8710-complete",
+   "quests/8711-complete",
+   "quests/8712-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "b72405d6e554",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Windcaller Yessendra",
+  "quest": "Signet of Unyielding Strength",
+  "en": "The rings worn by the Qiraji lieutenants are rumored to grant them formidable abilities. The corrupted gems that adorn them could, in theory, be swapped out with more pure materials to create uncorrupted versions of the rings.\n\nThe gems that adorn Qiraji idols would work quite well, as their quality is superior.\n\nBring me the ring and idols and I'll create a powerful ring for you, adventurer.",
+  "files": [
+   "quests/8556-accept",
+   "quests/8697-accept",
+   "quests/8698-accept",
+   "quests/8699-accept",
+   "quests/8701-accept",
+   "quests/8702-accept",
+   "quests/8703-accept",
+   "quests/8704-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "10da1dad96c7",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Windcaller Yessendra",
+  "quest": "Signet of Unyielding Strength",
+  "en": "I will swap the gem on the ring for you. You'll find the effect is much more... agreeable.",
+  "files": [
+   "quests/8556-complete",
+   "quests/8697-complete",
+   "quests/8698-complete",
+   "quests/8699-complete",
+   "quests/8701-complete",
+   "quests/8702-complete",
+   "quests/8703-complete",
+   "quests/8704-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "57832f9bba52",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bor Wildmane",
+  "quest": "Signet of the Dukes",
+  "en": "Huum tells me you've figured out how to summon the Abyssal Dukes! That's quite an accomplishment.\n\nYou know what else would be quite the accomplishment? Smashing up one of those things really good. That'll cause an impression on their underlings, if you know what I mean. Bring back its signet as proof of the deed.",
+  "files": [
+   "quests/8348-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "02be37af589a",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bor Wildmane",
+  "quest": "Signet of the Dukes",
+  "en": "I knew you were a tough Adventurer the minute I saw you walk into Cenarion Hold. Keep it up!",
+  "files": [
+   "quests/8348-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "f9e51fef5d40",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Vargus",
+  "quest": "Stalwart's Battlegear",
+  "en": "The badges you collect from performing combat, logistics and tactical assignments for Windcaller Proudhorn are more than just for show, Adventurer.\n\nYou'd be wise to hold on to them. As you prove your loyalty to our organization I can offer you some of the gear we reserve for our closest allies in exchange for those badges.",
+  "files": [
+   "quests/8574-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "f81fa7134977",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Windcaller Proudhorn",
+  "quest": "Stepping Up Security",
+  "en": "Your performance has been truly exemplary so far, Adventurer. Our supply lines are not completely safe yet, however. In the absence of dredge strikers, their larger southern cousins will surely move in to take their place in the north.\n\nYou'll have to kill quite a few dredge crushers to keep them at bay, but we cannot leave the safety of our supply lines to chance.",
+  "files": [
+   "quests/8281-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "0b26e56f20ae",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Windcaller Proudhorn",
+  "quest": "Stepping Up Security",
+  "en": "Excellent! You've proven to be a valuable ally in preparing for the war against the silithid.",
+  "files": [
+   "quests/8281-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "ded17b85b3d2",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Hermit Ortell",
+  "quest": "Still Believing",
+  "en": "Excellent! I can't wait to read these. Please do keep bringing the encrypted texts here if you find them.",
+  "files": [
+   "quests/8324-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "ca515d83bc2c",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kandrostrasz",
+  "quest": "Stormcaller's Footguards",
+  "en": "Qiraji magic is strong and ancient. The most powerful qiraji wield items of such might, they'd give pause even to a dragon.\n\nBring me the qiraji bindings of dominance and other minor components and I'll create a set of powerful boots for you.\n\nYou will find them useful in the fight against the enemy.",
+  "files": [
+   "quests/8621-accept",
+   "quests/8655-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "81027b1f6125",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kandrostrasz",
+  "quest": "Stormcaller's Footguards",
+  "en": "You've done well, adventurer. You've proven you're no ordinary mortal.\n\nI give you these with the confidence they'll aid you in crushing the vile qiraji.",
+  "files": [
+   "quests/8621-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "08d5e09422f8",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Vethsera",
+  "quest": "Stormcaller's Hauberk",
+  "en": "I did not expect you to return from your attempt, adventurer.\n\nYou've fulfilled a destiny greater than that of most immortal beings.\n\nBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.\n\nAccept this breastplate as a symbol of the glory and burden that will come as a consequence of your actions.\n\nMay its power aid you in the challenges that await you, god-slayer!",
+  "files": [
+   "quests/8622-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "2d08ec8e4ba0",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Andorgos",
+  "quest": "Striker's Diadem",
+  "en": "The Twin Emperors... their incessant whispers are slowly taking a toll on my sanity. They mock me, knowing I cannot step further into their domain to save my brother Arygos.\n\nIn my visions I see their monstrous faces adorned by powerful crowns. But I will have my revenge... I will transmute these symbols of Qiraji power to ones better suited to our needs.\n\nBring me the components I require, Adventurer. I will make you a headpiece of unmatched power.",
+  "files": [
+   "quests/8657-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "704e417ac4e7",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Combat Task Briefing I",
+  "quest": "Target: Hive'Ashi Defenders",
+  "en": "As the war effort mounts, the silithid presence in the area presents an ever increasing threat to our operations. You've been selected to partake on an assault on Hive'Ashi where your primary target will consist of Hive'Ashi defenders.\n\nReport back to Commander Mar'alith after your task is completed.",
+  "files": [
+   "quests/8770-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "c6542f79aee8",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Commander Mar'alith",
+  "quest": "Target: Hive'Ashi Defenders",
+  "en": "Excellent work, Adventurer. Your diligence is as noteworthy as always.",
+  "files": [
+   "quests/8770-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "df8d3a5093b9",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Combat Task Briefing II",
+  "quest": "Target: Hive'Ashi Sandstalkers",
+  "en": "As the war effort mounts, the silithid presence in the area presents an ever increasing threat to our operations. You've been selected to partake on an assault on Hive'Ashi where your primary target will consist of Hive'Ashi sandstalkers.\n\nReport back to Commander Mar'alith after your task is completed.",
+  "files": [
+   "quests/8771-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "8a4913dc78bd",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Combat Task Briefing XII",
+  "quest": "Target: Hive'Ashi Stingers",
+  "en": "As the war effort mounts, the silithid presence in the area presents an ever increasing threat to our operations. You've been selected to partake on an assault on Hive'Ashi where your primary target will consist of the airborne Hive'Ashi stingers.\n\nReport back to Commander Mar'alith after your task is completed.",
+  "files": [
+   "quests/8501-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "5474a04947ff",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Commander Mar'alith",
+  "quest": "Target: Hive'Ashi Stingers",
+  "en": "Excellent work, Adventurer. Your part in the attack on Hive'Ashi has been noted.",
+  "files": [
+   "quests/8501-complete",
+   "quests/8771-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "727e6b85d541",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Combat Task Briefing III",
+  "quest": "Target: Hive'Ashi Workers",
+  "en": "As the war effort mounts, the silithid presence in the area presents an ever increasing threat to our operations. You've been selected to partake on an assault on Hive'Ashi where your primary target will consist of Hive'Ashi workers.\n\nReport back to Commander Mar'alith after your task is completed.",
+  "files": [
+   "quests/8502-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "2f4bfe053b37",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Commander Mar'alith",
+  "quest": "Target: Hive'Ashi Workers",
+  "en": "Excellent work, Adventurer. Without their workers, the silithid will have a hard time repairing any damage inflicted to their hive's structure.",
+  "files": [
+   "quests/8502-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "478e2c571710",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Combat Task Briefing VIII",
+  "quest": "Target: Hive'Regal Ambushers",
+  "en": "As the war effort mounts, the silithid presence in the area presents an ever increasing threat to our operations. You've been selected to partake on an assault on Hive'Regal where your primary target will consist of the Hive'Regal ambushers.\n\nReport back to Commander Mar'alith after your task is completed.",
+  "files": [
+   "quests/8774-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "f28ba3fd6d00",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Commander Mar'alith",
+  "quest": "Target: Hive'Regal Ambushers",
+  "en": "Excellent work, Adventurer. Your part in the attack on Hive'Regal has been noted.",
+  "files": [
+   "quests/8774-complete",
+   "quests/8775-complete",
+   "quests/8776-complete",
+   "quests/8777-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "4c72cc233744",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Combat Task Briefing XI",
+  "quest": "Target: Hive'Regal Burrowers",
+  "en": "As the war effort mounts, the silithid presence in the area presents an ever increasing threat to our operations. You've been selected to partake on an assault on Hive'Regal where your primary target will consist of Hive'Regal burrowers.\n\nReport back to Commander Mar'alith after your task is completed.",
+  "files": [
+   "quests/8777-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "1915dceda8c2",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Combat Task Briefing X",
+  "quest": "Target: Hive'Regal Slavemakers",
+  "en": "As the war effort mounts, the silithid presence in the area presents an ever increasing threat to our operations. You've been selected to partake on an assault on Hive'Regal where your primary target will consist of the Hive'Regal slavemakers.\n\nReport back to Commander Mar'alith after your task is completed.",
+  "files": [
+   "quests/8776-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "8ce2a3213ea0",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Combat Task Briefing IX",
+  "quest": "Target: Hive'Regal Spitfires",
+  "en": "As the war effort mounts, the silithid presence in the area presents an ever increasing threat to our operations. You've been selected to partake on an assault on Hive'Regal where your primary target will consist of the airborne Hive'Regal spitfires.\n\nReport back to Commander Mar'alith after your task is completed.",
+  "files": [
+   "quests/8775-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "2c2dcd13384f",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Combat Task Briefing V",
+  "quest": "Target: Hive'Zora Hive Sisters",
+  "en": "Reinforcements have been called on to join the assault on Hive'Zora. You have been selected to target Hive'Zora hive sisters. Report back to Commander Mar'alith after completing your task.",
+  "files": [
+   "quests/8539-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "b3c56b347e94",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Commander Mar'alith",
+  "quest": "Target: Hive'Zora Hive Sisters",
+  "en": "Excellent work, Adventurer. You're a worthy ally.",
+  "files": [
+   "quests/8539-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "a55c635539f6",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Combat Task Briefing IV",
+  "quest": "Target: Hive'Zora Reavers",
+  "en": "Reinforcements have been called on to join the assault on Hive'Zora. You have been selected to target Hive'Zora reavers. Report back to Commander Mar'alith after completing your task.",
+  "files": [
+   "quests/8773-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "7a0c507465c9",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Commander Mar'alith",
+  "quest": "Target: Hive'Zora Reavers",
+  "en": "I've heard good things about your part in the Hive'Zora attack. Keep up the good work and victory will soon be ours.",
+  "files": [
+   "quests/8773-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "820247e58472",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Combat Task Briefing VII",
+  "quest": "Target: Hive'Zora Tunnelers",
+  "en": "Reinforcements have been called on to join the assault on Hive'Zora. You have been selected to target Hive'Zora tunnelers. Report back to Commander Mar'alith after completing your task.",
+  "files": [
+   "quests/8687-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "99cdfb08bb0f",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Combat Task Briefing VI",
+  "quest": "Target: Hive'Zora Waywatchers",
+  "en": "Reinforcements have been called on to join the assault on Hive'Zora. You have been selected to target Hive'Zora waywatchers. Report back to Commander Mar'alith after completing your task.",
+  "files": [
+   "quests/8772-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "ea6243102ae2",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Commander Mar'alith",
+  "quest": "Target: Hive'Zora Waywatchers",
+  "en": "Excellent work, Adventurer. Your part in the attack on Hive'Zora has been noted.",
+  "files": [
+   "quests/8772-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "b7d1647f19b6",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Geologist Larksbane",
+  "quest": "The Calling",
+  "en": "The glyphs illustrate an emissary of the Qiraji meeting with three silithid at the bones of a large dragon. Above the glyphs is what I can only assume to be a code of some sort. This code might very well be the key to summoning the emissary.\n\nI will create a copy of the glyph code that you must use in the sand at the Bones of Grakkarond. If I am right, the Overlords will come thinking that new data is ready for transmission. Strike them down and confront the emissary. He holds the key to the crystals...",
+  "files": [
+   "quests/8315-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "aaae55dba7b1",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Geologist Larksbane",
+  "quest": "The Calling",
+  "en": "I hold 20,000 years of history in my hands, Adventurer!",
+  "files": [
+   "quests/8315-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "dc355641d8e9",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Geologist Larksbane",
+  "quest": "The Deserter",
+  "en": "There are rumors of a Twilight's Hammer member called Ortell having deserted his sect. Word has it he hid in the mountains south of Southwind Village, where he lives as a hermit. Perhaps you can enlist his help in deciphering the tablet.\n\nTake the restored tablet with you and seek out Ortell.",
+  "files": [
+   "quests/8285-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "8a15cfabe20a",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Hermit Ortell",
+  "quest": "The Deserter",
+  "en": "I see you're familiar with my old organization. You must be with Cenarion Hold. \n\nYou seek information to use against them? Come closer, perhaps we can be of mutual assistance.",
+  "files": [
+   "quests/8285-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "10323751c098",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Commander Mar'alith",
+  "quest": "The Fall of Ossirian",
+  "en": "Soldiers of Kalimdor! Heroes of Silithus! One among you has dealt a vicious blow to our mortal enemies! adventurer and his allies have relieved the Ruins of Ahn'Qiraj of its merciless leader! Ossirian the Unscarred, scourge of Silithus, has finally been destroyed and his armies wholly dismantled!",
+  "files": [
+   "followup/m-11355-nightelf-male-official"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "227b1d9bf1cd",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Commander Mar'alith",
+  "quest": "The Fall of Ossirian",
+  "en": "I offer you my highest commendation and your choice of an item of power, Adventurer. You have done the people of Kalimdor a great service.",
+  "files": [
+   "quests/8791-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "c697aea602e1",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Head of Ossirian the Unscarred",
+  "quest": "The Fall of Ossirian",
+  "en": "A terrible menace has been laid to rest. The cruel Ossirian has been vanquished.\n\nThe denizens of Kalimdor would be relieved to know of this victory. Take Ossirian's head and present it to Commander Mar'alith of Cenarion Hold.",
+  "files": [
+   "quests/8791-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "16e6404aedcf",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Commander Mar'alith",
+  "quest": "The Four Dukes",
+  "en": "You have achieved a great accomplishment for our cause today, Adventurer. You've vanquished some of our most powerful enemies. For that I greatly commend you.",
+  "files": [
+   "quests/8538-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "aa7c9dce421c",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Tactical Task Briefing V",
+  "quest": "The Four Dukes",
+  "en": "The links between the Twilight's Hammer and the Abyssal Council are proving to be more important than we had expected.\n\nWe believe the elemental nobles known as the Abyssal Dukes are one of the primary force organizing the Twilight's Hammer cultists. Find a way to lure the four Abyssal Dukes into our plane of existence and destroy them!\n\nYour dedication and prowess in past assignments have led us to choose you for this particular assignment. We are certain you will succeed in this endeavor.",
+  "files": [
+   "quests/8538-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "7bf36b4fc95a",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Baristolth of the Shifting Sands",
+  "quest": "The Hand of the Righteous",
+  "en": "Choose your deputies wisely, mortal. Each time you return with your task complete, a new deputy you will be allowed to choose.\n\nWith that said, I require more of the carapace fragments. Waste no time!",
+  "files": [
+   "quests/8302-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "0cb00f747271",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Baristolth of the Shifting Sands",
+  "quest": "The Hand of the Righteous",
+  "en": "Well done, hero. You will now be granted the ability to deputize another Agent of Nozdormu.",
+  "files": [
+   "quests/8302-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "2b4aada61405",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Arcanist Nozzlespring",
+  "quest": "The Ironforge Brigade Needs Explosives!",
+  "en": "Ah, yes! These will come in handy! Much obliged, Adventurer!",
+  "files": [
+   "quests/8778-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "167fe6cb55c4",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Logistics Task Briefing IV",
+  "quest": "The Ironforge Brigade Needs Explosives!",
+  "en": "The Ironforge Brigade has put in an unusual request for highly... volatile... components. Gather them and bring them to Mr. Nozzlespring from the Ironforge Brigade.",
+  "files": [
+   "quests/8778-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "7f115372fb56",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Logistics Task Briefing IV",
+  "quest": "The Orgrimmar Legion Needs Mojo!",
+  "en": "The Orgrimmar Legion has put in a request for several unusual ingredients. Given their current performance in Silithus, we'd like to comply with their request as soon as possible. Gather the materials and bring them to the troll called Shai.",
+  "files": [
+   "quests/8785-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "4a506719229f",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Shadow Priestess Shai",
+  "quest": "The Orgrimmar Legion Needs Mojo!",
+  "en": "Ah, yes. Just what I needed! I'll make a special concoction with this. The silithid won't like it one bit!",
+  "files": [
+   "quests/8785-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "eedaf7dcbb83",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Baristolth of the Shifting Sands",
+  "quest": "The Path of the Righteous",
+  "en": "The Brood of Nozdormu are naturally distrusting of the lesser races. While it is true that you have proven to me that you have the potential makings of a hero, the time has come to prove this to my master.\n\nHive'Ashi, Hive'Zora, Hive'Regal: All swarming with activity and all a threat to our existence. Slay silithid at these hives and take from them a fragment of their carapace. When you can carry no more, return to me and I shall strengthen your resolve.",
+  "files": [
+   "quests/8301-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "cccf0af2cb17",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Baristolth of the Shifting Sands",
+  "quest": "The Path of the Righteous",
+  "en": "You are not alone, hero. I will now grant you the ability to deputize others to help you in your quest. If you are to be the champion of your people, you will need assistance in your tasks and duties.",
+  "files": [
+   "quests/8301-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "5d6d06715985",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Dirk Thunderwood",
+  "quest": "The Perfect Poison",
+  "en": "My brother and I run the poison operations out of the manor Ravenholdt.\n\nLord Ravenholdt tasked me to track down a new and extremely effective poison compound that can be crafted from the venom sacs of the inhabitants of Zul'Gurub and the Ruins of Ahn'Qiraj.\n\nThere are two particularly venomous beasts residing in those blasted ruins that possess what it is that we might be looking for, adventurer. Bring me a venom sac from the beasts Kurinnaxx and Venoxis and we would be eternally grateful.",
+  "files": [
+   "quests/9023-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "a241c945fcdd",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Dirk Thunderwood",
+  "quest": "The Perfect Poison",
+  "en": "Ravenholdt thanks you, hero! Take your pick!",
+  "files": [
+   "quests/9023-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "5a0bcfca2ebb",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Caelestrasz",
+  "quest": "The Savior of Kalimdor",
+  "en": "To the Caverns of Time you go, Lord Adventurer. Anachronos awaits your return. Give him the eye of C'Thun as he will undoubtedly wish to place it in his master's collection.",
+  "files": [
+   "quests/m-8802-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "745e98d62dc2",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Layo Starstrike",
+  "quest": "The Spirits of Southwind",
+  "en": "To our southwest lies a tragic site - the ruins of Southwind Village. This is where our work should begin, Adventurer.\n\nFrom what we've learned, this village was once a night elf base of operations for Silithus. It's long since overrun by the silithid hives that infest the wastes. I can only imagine the horror of the village's initial sundering...\n\nThe tortured spirits of fallen druids and sentinels wander the ruins aimlessly. Explore this locale, freeing the souls of these wretched beings as needed.",
+  "files": [
+   "quests/1125-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "7fccfd2bf122",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Layo Starstrike",
+  "quest": "The Spirits of Southwind",
+  "en": "I had thought that maybe the huge swirling hive near the ruins of the village had played a part in its demise. It would seem that your work has proven this to be correct; the proximity of the hive poses a threat to any future work we may do here.\n\nI thank you for your benevolence in freeing the souls of the fallen; such work is never easy, I know. When you're ready, however, I'd like to ask for your assistance once more...",
+  "files": [
+   "quests/1125-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "f585ea05364f",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Hermit Ortell",
+  "quest": "The Twilight Lexicon",
+  "en": "The Twilight's Hammer are not kind to those that leave their ranks. They hunt me to this day like I'm some sort of beast! Needless to say, an enemy of theirs is a friend of mine!\n\nTo decipher this Tablet I'll need the book used by their scribes to encode secret messages: the Twilight Lexicon. It's such an important tool that they keep its three chapters in different locations! The officers entrusted with the Lexicon are known as Twilight Keepers, look for them at the Twilight's Hammer camps.",
+  "files": [
+   "quests/8279-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "5c161398777a",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Hermit Ortell",
+  "quest": "The Twilight Lexicon",
+  "en": "Yes! These are the parts to the book! Let's get started then, Adventurer.\n\nSwap every third word with words from the second chapter... then swap every other word with words from the first chapter... Wait, did I get that backwards?",
+  "files": [
+   "quests/8279-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "7ed0a97989f1",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Geologist Larksbane",
+  "quest": "The Twilight Mystery",
+  "en": "A camp of Twilight's Hammer cultists once thrived northwest of here. If you were to venture there now, you'd find the area swarming with elementals and nothing but scattered pieces of wood and canvas to mark the spot where the camp was.\n\nI've recovered a few fragments of a clay tablet from the site, but I have too few of them to piece together anything useful. See if you can find the remaining tablet fragments so we can shed some light into the Twilight's Hammer presence here in Silithus.",
+  "files": [
+   "quests/8284-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "cd4529a20090",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Geologist Larksbane",
+  "quest": "The Twilight Mystery",
+  "en": "Just as I suspected. I can decipher individual words in the tablets but they appear to be devoid of any logic or meaning. It's not unknown for Twilight's Hammer sects to use a code to hide the meaning of their texts; we'll have to go to someone who knows more about this sort of thing.",
+  "files": [
+   "quests/8284-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "2efee1eca7d4",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Logistics Task Briefing XI",
+  "quest": "The Ultimate Deception",
+  "en": "The Twilight's Hammer operates through innumerable layers of secrecy and deceit. While their actions are carried out in our world, they are planned in a place we have not yet been able to reach.\n\nWe've come to believe that the stones the Twilight's Hammer uses to summon their superiors allow for two-way transportation. To attempt to use them in this manner, we must replicate - to every last detail - a twilight emissary's robe.\n\nGather the necessary materials and bring them to Aurel Goldleaf, Adventurer.",
+  "files": [
+   "quests/8829-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "ca514e087299",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Jonathan the Revelator",
+  "quest": "Treasure of the Timeless One",
+  "en": "Greetings, champion. I am Jonathan, keeper of the sacred gong and eternal watcher of the Bronze Flight.\n\nI have been empowered by the Timeless One himself to grant you an item of your choosing from his timeless treasure trove. May it aid you in your battles against C'Thun.",
+  "files": [
+   "quests/8745-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "04231a3db1d2",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kandrostrasz",
+  "quest": "Trousers of the Oracle",
+  "en": "Yes... the worm's skin will make for an excellent protective layer. Combined with the strongest parts from the Qiraji we've destroyed on our way here, this should make for a formidable piece of armor. May it aid you in facing the unspeakable horrors that await inside!",
+  "files": [
+   "quests/8593-complete",
+   "quests/8624-complete",
+   "quests/8629-complete",
+   "quests/8631-complete",
+   "quests/8640-complete",
+   "quests/8658-complete",
+   "quests/8663-complete",
+   "quests/8668-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "b3ad1994117f",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Hermit Ortell",
+  "quest": "True Believers",
+  "en": "Now that I have the Twilight Lexicon in my possession, there is a small favor I'd like to ask of you.\n\nMy former organization has a secret encoded bulletin they circulate on a monthly basis.\n\nIf they make any progress searching for me or if they call off the search, word will be published on the True Believer.\n\nAlthough this information is obviously valuable to me, the publication contains other useful information that I can share. Bring me any encoded texts you find on Twilight's Hammer members.",
+  "files": [
+   "quests/8323-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "05157ceff35f",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Hermit Ortell",
+  "quest": "True Believers",
+  "en": "Excellent! I will get to decoding these as soon as possible. If I find anything of interest I'll find some way to get the information to you.",
+  "files": [
+   "quests/8323-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "6f0dcf68341b",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Commander Mar'alith",
+  "quest": "Twilight Battle Orders",
+  "en": "Excellent. It's important to stay ahead of the enemy's next move. This information will allow us to anticipate the Twilight's Hammer's attacks.",
+  "files": [
+   "quests/8498-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "341db61489eb",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Tactical Task Briefing X",
+  "quest": "Twilight Battle Orders",
+  "en": "Our scouts have reported new battle orders being issued by the Twilight's Hammer leaders. The orders are being distributed by Twilight Prophets under heavy escort. Intercept the orders and bring them to Commander Mar'alith.",
+  "files": [
+   "quests/8498-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "0a0dc8c2c9d7",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Huum Wildmane",
+  "quest": "Twilight Geolords",
+  "en": "The Twilight's Hammer, an insane cult bent on destruction, set up camps in Silithus and perform rituals day and night. We do not yet know their plans, but we do think they are somehow linked to the pulsing red crystals spread across the desert.\n\nAlthough their mystery may one day be solved, we must first deal with their immediate threat. Go to their camps to the west and seek out Twilight geolords. They are the heads of these serpents; that is where we must strike!",
+  "files": [
+   "quests/8320-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "59a0c9d3960b",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Huum Wildmane",
+  "quest": "Twilight Geolords",
+  "en": "That was a task well performed, Adventurer. Your slaying of the Twilight geolords must have dealt a grievous blow to the cult. Let us hope their plans are slowed...",
+  "files": [
+   "quests/8320-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "0fb0fff76975",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Tactical Task Briefing IX",
+  "quest": "Twilight Marauders",
+  "en": "Bands of mounted Twilight's Hammer cultists have been spotted riding outside the reach of our forces in Cenarion Hold, picking off our smaller patrols and caravans.\n\nFind and defeat the twilight marauders along with their leader, a terrible warrior by the name of Morna. Report to Windcaller Proudhorn after completing the task.",
+  "files": [
+   "quests/8740-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "b556be27b428",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Windcaller Proudhorn",
+  "quest": "Twilight Marauders",
+  "en": "Well done, Adventurer. The twilight marauders were inflicting an unacceptable number of casualties on our patrols. Here's your next assignment.",
+  "files": [
+   "quests/8740-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "e556a1f4465b",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aurel Goldleaf",
+  "quest": "Twilight Ring of Lordship",
+  "en": "Ah, I see your convictions are strong. Not many will face that council of fiends!\n\nHere's your ring, Adventurer. May your will, and your fortune, stand firm.",
+  "files": [
+   "quests/8342-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "39a08a968ac3",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Layo Starstrike",
+  "quest": "Umber, Archivist",
+  "en": "There's plenty to do here still, but I think taking this back to the Circle for analysis is key. Trust me - the work will still be here once this is all said and done. If it's a journal inside this sticky chitin, then the Circle would finally have a window into the past!\n\nTake this to the Circle's archivist in Nighthaven. His name is Umber, and the man's brilliant. Touched, sure, but brilliant nonetheless! Umber's salvaged tomes in far worse shape than this. If it can be saved, he can do it.",
+  "files": [
+   "quests/6844-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "2ceecabbea95",
+  "zone": "silithus",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Umber",
+  "quest": "Umber, Archivist",
+  "en": "Well great monkey toads! What have you got here? It's sort of book shaped, I guess... I'll try and crack this shell on it.\n\nLayo sent you to me from Silithus? I've only heard very hushed rumblings - which I guess aren't all that hushed when you think about it - about the horrors that are going on out there. Couple that with my lack of pleasure for anything bug-like, and you've got the recipe for me needing to stay here with the books!",
+  "files": [
+   "quests/6844-complete"
+  ],
+  "uiMap": 1451
+ }
+]

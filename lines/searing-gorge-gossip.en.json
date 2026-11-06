@@ -1,0 +1,842 @@
+[
+ {
+  "id": "527ec52e2908",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Altar of Suntara",
+  "quest": null,
+  "en": "The altar seems to beckon to you as if it were alive.",
+  "files": [
+   "gossip/547f7a85e9b61fb09fdce63531b6446c"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "e55632b3cb86",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": null,
+  "en": "adventurer! You've returned just to talk to me? That's very thoughtful of you, and you look pretty sweet in that outfit, too!\n\nYou don't know how good it makes me feel to see you. It can get pretty lonely up here, what with most of these yahoos not being able to see me, and all. It's a great thing that you did for all of us, and I'll never forget it!\n\nThanks for dropping in and saying hi, and don't be such a stranger.",
+  "files": [
+   "gossip/31cec36e221c24d2e395f87f8a13b7c7"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "fcafe288b5fb",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": null,
+  "en": "Sheesh, you don't have to beg! Anyways, I'm almost done with the story.\n\nSo, the whole company is in the middle of that massive chamber fighting over this amulet, and you know how it echoes in there! In the end it was broken into three pieces, and we rolled the dice, with it going to various people or groups.\n\nThe rest is a bit of a blur, though, because it was at about that time that old Valthalak's spirit decided to make an entrance and start summoning forth all of these spectral assassins.",
+  "files": [
+   "gossip/58af390eae1d4f73c7b54ed1448a76db"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "b9327c2759f8",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": null,
+  "en": "Cool your heels!\n\n\nAs I was saying, Lord Valthalak's spirit and spectral assassins, summoned forth through his necromantic dabbling, started to assail us. Let me tell you, at that point we weren't in any condition to fight back, so we ran. I can still remember Mor Grayhoof, one of our druids, slip and fall at one point into the lower reaches of the spire.\n\nThe rest as they say, is history.",
+  "files": [
+   "gossip/6952da64d9a42837f0f8a0e8e30b1e67"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "3e9916381632",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": null,
+  "en": "We broke up afterward, that's what happened. Too much bad blood, I guess...it had been building for a while. And the thing with the amulet was the straw that broke the kodo's back.\n\nEver since then Valthalak's servants have been picking us off one by one. Most of the amulet piece holders are dead, their souls corrupted by the portion of Valthalak's spirit contained within it.\n\nThat's why I'm glad that you're here, adventurer. With your help we'll be able to recombine the amulet and return it to Lord Valthalak!",
+  "files": [
+   "gossip/69ab7dc25b9198ce90439c7c1d193e0e"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "555e3593526e",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": null,
+  "en": "It's quite simple, really, adventurer. My old merc company, The Veiled Blade, took the wrong mission at the wrong time.\n\nWe were hired by a goblin smuggler out of Booty Bay, one Gremnik Rizzlesprang, who was covetous of Lord Valthalak's spellbook. Or, maybe there was some old rivalry there? I suppose we'll never know now, because Gremnik was killed not too long ago by a group of Valthalak's spectral assassins. They really can be very deadly when a large number of them gather.\n\nWhere was I?",
+  "files": [
+   "gossip/719549680790d3f20c149ecbf7c7c9a1"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "8913c8f65a7e",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": null,
+  "en": "Oh yes, that's right.\n\nSo, here we are invading deep into the upper reaches of Blackrock Spire, against their lord and leader; this was before Drakkisath. Not too smart if you ask me, but our leader, Anthion Harmon, you met him, was always one who loved a challenge.\n\nSurprisingly, everything went according to plan, right up to the point where we were prying Valthalak's spellbook out of his stiff fingers. That's when it all went south.\n\nShould I continue? You look like your eyes are glazing over.",
+  "files": [
+   "gossip/c5bc7008b7dc8feccc3dc8a43b1ab1a8"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "776e2b3c825a",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": null,
+  "en": "You can see me? Do you know how much I'm ignored up here just because no one can see me? How refreshing to finally have someone to talk to!\n\nSo, you must have been sent by some living member of my former mercenary company, am I right? Of course I am!\n\nBut enough idle chit-chat, there's a great deal of work for you and I if you're going to put things right and return Lord Valthalak's spirit to him!",
+  "files": [
+   "gossip/d8a5cf6d252aa70c9685e327fb97066f"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "a927a9187995",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": null,
+  "en": "There we are, spellbook in hand, and Kormok, our two-headed ogre necromancer, gets this strange look in all four of his eyes. It was really creepy, because that second set of eyes always kind of looked dead, like a cow's eyes, you know? So, all of a sudden he just reaches out and rips this amulet off that Valthalak was wearing.\n\nThe rest of the company went crazy; some of us telling them to leave it alone, and others who wanted it for themselves.",
+  "files": [
+   "gossip/e4059edbada4f015b06e754a44f9b6c5"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "3ae39d847bf1",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Dawnstrider",
+  "quest": null,
+  "en": "Elder Rumblerock passes the years in a cave atop Dreadmaul Rock in the Burning Steppes.",
+  "files": [
+   "gossip/e3e99297a651fb8e483c8166b857db8b"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "82cbed1f8ca2",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Ironband",
+  "quest": null,
+  "en": "Elder Stonefort has taken to the dungeons of Blackrock Spire.",
+  "files": [
+   "gossip/6e030526d3d841837de70ca5e6d270de"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "d4bb70c8d6a1",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Ironband",
+  "quest": null,
+  "en": "Elder Morndeep spends time at the Ring of Law in Blackrock Depths.",
+  "files": [
+   "gossip/73e0d38c4a36297f6ccb0462abfbf543"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "e3c7d9d2781b",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Evonice Sootsmoker",
+  "quest": null,
+  "en": "We chose to leave the protection and comfort of the Depths to exploit... er, I mean... hrm, yes that's right, EXPLORE the world.",
+  "files": [
+   "gossip/26996ccc4e6778d1800c2c92dd4dc550"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "d1526940cb1c",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Galamav the Marksman",
+  "quest": null,
+  "en": "I never miss...",
+  "files": [
+   "gossip/90c01ca5dc228e3e9b8982a1c64878d2"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "17cafaaffacb",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gorrik",
+  "quest": null,
+  "en": "Where would you like to fly to?",
+  "files": [
+   "gossip/f686b3319d4af5004c6ee3403aea3f5e"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "4689deb9f05e",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Grisha",
+  "quest": null,
+  "en": "As long as those dwarves stay over there we'll have no trouble. Where are you heading adventurer?",
+  "files": [
+   "gossip/e335b9f12333a886ef964fef76e376d8"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "274e7e741f2c",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hansel Heavyhands",
+  "quest": null,
+  "en": "When Lolo doesn't wanna spill any o' his precious ale or get his lil' dress dirty, I'm called in. Yep. Ol' Hansel is the dwarf they use to mete out a lil' bit o' justice an' a whole lotta pain.",
+  "files": [
+   "gossip/bd3faf4cde31a3db3276cfa61a84692d"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "a88357512431",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jarkal Mossmeld",
+  "quest": null,
+  "en": "Whatcha need, adventurer? I trust that you've come out to this wasteland for a reason other than idle chit chat.",
+  "files": [
+   "gossip/94572dd474bd447b83639680504a2a33"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "f387fdc7769a",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kalaran Windblade",
+  "quest": null,
+  "en": "Vengeance shall be mine.",
+  "files": [
+   "gossip/49fd111b49093990741931455047f8fb"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "aac29580d049",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kalaran Windblade",
+  "quest": null,
+  "en": "My father was slain by the filth that inhabits the cauldron. My pleas for assistance to the Stormwind magistrate fell on deaf ears. Nay, they want not to admit that this part of the world even exists, let alone send their precious military in to administer justice.\n\nI seek vengeance, traveler, plain and simple. Is there a more passionate cause in this world?",
+  "files": [
+   "gossip/8abf64ca79d3bfbfd5e67c8a51929983"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "91d3adaa90ff",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kalaran Windblade",
+  "quest": null,
+  "en": "As you can see, I am but one man with a lumbering oaf of a squire. The might of the Dark Iron dwarves and the beasts held in the grip of Ragnaros would surely overwhelm me alone, but I have the utmost confidence that such a brave and ambitious adventurer such as you would have no problem handling the denizens of the cauldron. Should you choose to assist me, I shall reward you with riches and wealth beyond your wildest dreams.",
+  "files": [
+   "gossip/ef7bb97afba3c7564c9dafde000ac6fb"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "66c109f687cf",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Kibler",
+  "quest": null,
+  "en": "Welcome to Kibler's Exotic Pets! How can you help me today??",
+  "files": [
+   "gossip/ae7aafaf86709eec447d985ffce2ddf6"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "1a4928811412",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Lanie Reed",
+  "quest": null,
+  "en": "Thorium Brotherhood or not, if one of them Dark Iron gets near to me they'll taste my mattock up the side of their head! Now, where can I send ya lad?",
+  "files": [
+   "gossip/m-f38b9f9eeca159b5ac1ef5dcae9ffdb8"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "884df319d290",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Lexlort",
+  "quest": null,
+  "en": "I have no time for interruptions.",
+  "files": [
+   "gossip/9da1b7ac9439c020560017306b57106d"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "34123f2a9001",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Lookout Captain Lolo Longstriker",
+  "quest": null,
+  "en": "Yesh, it'sh true, I'm blind as a bat! An' drunk as a ... err, drunk as shomething that getsh drunk.\n\nI'll tell you what, traveler. It'sh the drink that keeps me shenses sharp. It'sh common knowledge that when you lose a shense, yer other shenses become more alert. My drunk shense is incredible these days.",
+  "files": [
+   "gossip/7dbd9d808230424267a5e8139bdbae10"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "154726cc40f5",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Master Smith Burninate",
+  "quest": null,
+  "en": "You've done all that I've asked you to do, adventurer. There's really nothing more here for you. If you are interested in continuing your career as an agent of the Thorium Brotherhood, speak with Lokhtos Darkbargainer at the Grim Guzzler in Blackrock Depths.\n\nFarewell!",
+  "files": [
+   "gossip/bff732f0c9b0a483ea8280c43a9f40de"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "02a718522211",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Master Smith Burninate",
+  "quest": null,
+  "en": "Burninate's the name, smithin's my game... and, erm... I sell a little food and water on the side. Care for some meat?",
+  "files": [
+   "gossip/cf73090a6937f1713ac6d2eb671f2040"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "58146be295e0",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Maxwort Uberglint",
+  "quest": null,
+  "en": "The quest for wealth is the only goal for a respectable goblin.\n\nWell, maybe wealth... and a big, loud death!",
+  "files": [
+   "gossip/f9022855f0ff7093dac274647dee0f1c"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "fba2408481d2",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Neeka Bloodscar",
+  "quest": null,
+  "en": "Don't let the heat bother you. In the Badlands, heat is the least of your worries.",
+  "files": [
+   "gossip/f4802758781c9c15d0bc384465030442"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "354c653e218b",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ragged John",
+  "quest": null,
+  "en": "Finally! Put some fingers in your ears, your brain mighta just grown five sizes and I'm worried it might leak out.\n\nSo, the Dark Irons spared his life and took him prisoner. Their leader, some self-important, uppity fella named Thauris-something, took Ironfoe for himself. And that was the last I saw of ol' Windsor... *hic* 'scuse me.",
+  "files": [
+   "gossip/0118ec1267be1c85077cb16e372ddb82"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "12dd48efaffc",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ragged John",
+  "quest": null,
+  "en": "Windsor was particularly ornery that day - and believe me, for Windsor, that's a monumental accomplishment. He kept telling me that 'something feels off.' Well he wasn't kidding!\n\nWe were in the middle of Blackrock Mountain when the filthy animals attacked. I'm talking about the orcs, of course. Pay attention, will ya? All you could hear were grunts and the clanging of steel as they rushed us.",
+  "files": [
+   "gossip/024d63b41f43523cad602cd53f29373c"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "440d21df80a2",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ragged John",
+  "quest": null,
+  "en": "Me versus fifty orcs? I'm no fool, adventurer. My pappy always told me, 'Discreditin is the better part of a cracker,' or something, and I knew what that meant.",
+  "files": [
+   "gossip/1be7208d0ab559b4aa9516a496480d4f"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "20721d5dd84e",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ragged John",
+  "quest": null,
+  "en": "Alright, alright. Anyhow, so I sorta slipped into the shadows.\n\nThat didn't sit too well with Windsor, seeing as how he was already extra cranky. Well he started spinnin' old Ironfoe around and screaming like a mad man at the orcs.",
+  "files": [
+   "gossip/690c5b30094325d484e5543404f35a46"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "f06ac0b25c78",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ragged John",
+  "quest": null,
+  "en": "So where was I? Oh yea, so the orcs rushed Windsor and Windsor, well, he didn't move an inch. He stood tall as they charged him, ten at a time. All I could see was the glow from Ironfoe and a lot of blood. This went on for hours, maybe days. I don't remember. Anyhow, FINALLY, it stopped.",
+  "files": [
+   "gossip/7aa6ffbdd145e15c81d0c2d28f414376"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "679b49eaf462",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ragged John",
+  "quest": null,
+  "en": "With pleasure... just let me savor this moment for a minute longer.",
+  "files": [
+   "gossip/8354aacf86057a0a57136055524c8b80"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "88143bf8ed47",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ragged John",
+  "quest": null,
+  "en": "Yep. You never heard of Ironfoe? The legendary orc slaying hammer? Yep, yep, that was ol' Windsor's hammer. He told me that Franclorn Forgewright himself made that hammer for his great, great, grand pappy. THE Franclorn Forgewright: The Dark Iron responsible for stonewrought archimetenc... building stuff. He also said the hammer had a twin that Franclorn kept for himself. Think he called it Ironfel or something.",
+  "files": [
+   "gossip/962d026487cbf6125cf85c23c70b9258"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "da69e40eeb4c",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ragged John",
+  "quest": null,
+  "en": "Why do you keep saying he died? Who told you he died? I never said he died.\n\nHe went missing is all.\n\nYou see, apparently we had gotten into the middle of some big orc versus Dark Iron dwarf battle. The orcs, being the filthy, miserable curs that they are, were out early, setting up some traps and other diabolical things you probably wouldn't understand.",
+  "files": [
+   "gossip/c177645f150a04089a48ce3fee8d7d40"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "7bb6474a548a",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ragged John",
+  "quest": null,
+  "en": "What you be wanting? *hic*",
+  "files": [
+   "gossip/d504ffea27d7eb3e97b337b0d8f9216c"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "3478f5457fec",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ragged John",
+  "quest": null,
+  "en": "Slow down! I was getting to that!\n\nSo there he was, standing tall with all the blood and guts dripping off him when who shows up?\n\nThe Dark Irons! Didn't you hear a word I said??\n\nWell, the Dark Irons are a little craftier than those Blackrock orcs. They came prepared. By prepared I mean there were about 300 of em... *hic* 'scuse me.",
+  "files": [
+   "gossip/e6876b6097ccfbc4b0d22b4131e86a41"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "3d99f7cba835",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ragged John",
+  "quest": null,
+  "en": "Aright *hic*... Say, you look familiar *hic*. Have I ever told you about the time me and Windsor fought off thir, er... a thous... a million orcs?\n\nOh settle down friend, this is a good one!",
+  "files": [
+   "gossip/fa6b094aa05e38c070b4b21733b2104d"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "eceac67cb214",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ragged John",
+  "quest": null,
+  "en": "Died? Are you cracked, adventurer? Excuse me, Mister adventurer! Windsor wouldn't have died from no fifty orcs. As sure as Thelsamar blood sausage is the tastiest food the world may ever know, there he stood: He was covered in orc chunks from head to toe, drenched in about eighteen layers of their blood, but he was definitely alive... and really, really angry.",
+  "files": [
+   "gossip/m-6bfdc528f1baabb880a6dd91bc9d22f8"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "230bd2fdbe80",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ragged John",
+  "quest": null,
+  "en": "Dwarves don't get drunk, mister. I'm just a little sloppy.\n\nAnyhow, Windsor? I figure he's somewhere in Blackrock Depths. That's the Dark Iron city for you unedumecated peoples.",
+  "files": [
+   "gossip/m-cd9aecdc57c1469285fe9725899dd1cd"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "9007d39b9bb5",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ragged John",
+  "quest": null,
+  "en": "Mister, if I didn't know better, I'd think you were one of them 'special' peoples. We call em Troggs.\n\nWindsor didn't have no beef with the Dark Irons, after all, his great, great, grand pappy's best friend was a Dark Iron. Which is also probably why that army of Dark Irons didn't kill him on sight.",
+  "files": [
+   "gossip/m-f6bdcd30db90e55d9637e3c9987ea927"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "50a527dfd60b",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Sarah Tanner",
+  "quest": null,
+  "en": "Oh hi! My name's Sarah. What can I do for you?",
+  "files": [
+   "gossip/96e5d4c05909d0400168329dbcfac193"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "9961faaf9f82",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadowmage Vivian Lagrave",
+  "quest": null,
+  "en": "Dear boy, you have arrived just in time to assist the Kargath Expeditionary Force.",
+  "files": [
+   "gossip/m-9884d1c18e341e68c49482b991d85503"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "2c1a8289fd70",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Squire Maltrake",
+  "quest": null,
+  "en": "I live only to serve the master.",
+  "files": [
+   "gossip/a78bfb1ca9baf31083c2a2913d0f9ec6"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "22f9f8527747",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Taskmaster Scrange",
+  "quest": null,
+  "en": "As acting Taskmaster of this here compound, it is my duty to make sure that there is a certain level of tedium involved with all forms of business, work, rest, and relaxation that may take place here.\n\nIf you find anything that you are asked to do to be too easy and hassle free, report to me immediately.",
+  "files": [
+   "gossip/793ee16511d200a9b8cd0eb76fa5bc51"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "4f6d859c5f37",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Tinkee Steamboil",
+  "quest": null,
+  "en": "The Burning Steppes is a dangerous place, but scholars like me will do almost anything to advance our knowledge.",
+  "files": [
+   "gossip/0129a1932545fbd6f1207e37cb4938aa"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "9a81000af222",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Unstable Rift Crystal",
+  "quest": null,
+  "en": "You see large cavernous tunnels and corridors reflected inside the crystal. You recognize the area as the Molten Core.",
+  "files": [
+   "gossip/fa367d2c3c569877041b7b066d0093b9"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "97289be2c552",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warlord Goretooth",
+  "quest": null,
+  "en": "I did not doubt you for even one second, adventurer.\n\nHere are your orders, adventurer. I know that you will not let me down.",
+  "files": [
+   "gossip/66291fe6e28957f2782fd84cde920f65"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "d2a1ec3c61f4",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warlord Goretooth",
+  "quest": null,
+  "en": "I am a warrior of the Horde, adventurer. It fills me with rage to know that our enemies sit in a fortress, less than a day's ride from Kargath, plotting against us.\n\nHow I long to break free from the bonds of duty and destroy them all in the name of the Warchief.\n\nAlas, we all have roles we must fulfill.",
+  "files": [
+   "gossip/9932a76da45813ab365ef10fee5256c9"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "db46cc0bf0ec",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warlord Goretooth",
+  "quest": null,
+  "en": "And modest too... Perhaps it is your time, then, adventurer.\n\nAre you prepared to enter the fortress of the Blackrock orcs? To wreak havoc? To tear asunder the foundation of the mountain citadel?",
+  "files": [
+   "gossip/9b39a53a6dd75e2567cc0a1d62d913d7"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "05e8e7d56af0",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warlord Goretooth",
+  "quest": null,
+  "en": "Truly, I envy you: To battle in the name of the Horde, at the forefront of conflict. Mine is a job of command.\n\nCertainly, in my youth, I lived out the dreams that make my old age bearable. I now revel in the glory of victory, the bitter taste of defeat - all through the soldiers I command.",
+  "files": [
+   "gossip/bb2d2d3e107f276b6034eab77a1e8ed1"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "693611362c32",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warlord Goretooth",
+  "quest": null,
+  "en": "I dream, adventurer... oh yes, I dream. In my dreams I die a thousand times in a thousand different ways. Some would call dreams such as mine nightmares. NOT I! In dreams I die in the thick of battle. For each single death of my own, ten thousand enemies of the Horde fall before me. It is glorious!",
+  "files": [
+   "gossip/f2a689f6928cda5b485631c437fdedaa"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "bd4daf2b32ad",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wooden Outhouse",
+  "quest": null,
+  "en": "Yeah, no problem, adventurer! Sorry... thought you were done with it already.",
+  "files": [
+   "gossip/927e8ff519d8ba1f7268782502991891"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "6b922d4cb287",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wooden Outhouse",
+  "quest": null,
+  "en": "Hello?",
+  "files": [
+   "gossip/f1066af8c8e6467a6ae99ec3559a06c9"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "b21561f7bbd4",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Yuka Screwspigot",
+  "quest": null,
+  "en": "Need some supplies?",
+  "files": [
+   "gossip/f28b9e7e4d01f9e539abe90f4d336ee3"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "3931d42bba96",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Zamael Lunthistle",
+  "quest": null,
+  "en": "Etched into a tablet of pure gold was the embodiment of my remorse, shame, regret, and sorrow. Unfortunately, the Twilight's Hammer found the tablet and branded me a blasphemer. I was summarily executed, my prayer to Elune incomplete. I am now bound to this world as a spirit, unable to transcend to the Nether; held in this cage as a warning to all that would betray the faith of the Twilight's Hammer.",
+  "files": [
+   "gossip/19289f6d38df9ab14e68557b881b1054"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "008a18946936",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Zamael Lunthistle",
+  "quest": null,
+  "en": "As a young night elf in Darkshore, I crossed paths with a group of unsavory individuals known as the Twilight's Hammer. A group of them befriended me and shamefully, I ended up eschewing my faith in Elune and embracing the vitriol of the Twilight's Hammer.\n\nIt was not until a vision came to me from Elune, that I woke up from the malaise that I had fallen into as a follower of the old gods.\n\nIn repentance, I began work on my prayer to Elune.",
+  "files": [
+   "gossip/ee6ad66a7dc56723278340ce7fc9aaca"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "f13b6c6495fb",
+  "zone": "searing-gorge-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Zamael Lunthistle",
+  "quest": null,
+  "en": "Praise Elune! It has been many years since I have had visitors.",
+  "files": [
+   "gossip/f479d49557864313202d2081a17b0dc5"
+  ],
+  "uiMap": 1427
+ }
+]

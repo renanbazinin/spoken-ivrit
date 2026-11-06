@@ -1,0 +1,2057 @@
+[
+ {
+  "id": "4399d3d4ed63",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rejold Barleybrew",
+  "quest": "A Favor for Evershine",
+  "en": "I have a cask of Evershine handy, but...can you do me a favor? Brewnall village could use a hand against the wild animals that wander the nearby snows. Sometimes they wander close.\n\nWe're not afraid of these bears and cats and boars - no self respecting dwarf would be - but if you can take care of those animals for us, then we'd have more time for our crafting and brewing.",
+  "files": [
+   "quests/319-accept"
+  ]
+ },
+ {
+  "id": "19805fb36be5",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rejold Barleybrew",
+  "quest": "A Favor for Evershine",
+  "en": "Thank you, Adventurer. It'll be nice to work our crafts without hearing so many growls and snorts outside the village.",
+  "files": [
+   "quests/319-complete"
+  ]
+ },
+ {
+  "id": "9e9ea337e24c",
+  "zone": "dunmorogh",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Kernobee",
+  "quest": "A Fine Mess",
+  "en": "Wha.. What happened?\n\nThe last thing I remember is being captured by a group of dark iron dwarves, beaten to within an inch of my life and then thrown in here with these filthy troggs.\n\nGet me out of here, Adventurer!\n\nHere's the plan: Lead me to the exit; if we make it out alive, you go to Booty Bay and let Scooty know that I went to Ratchet to warn Tinkerwiz of the dark iron's involvement in the making of that super rig.\n\nLet's get going!",
+  "files": [
+   "quests/2904-accept"
+  ]
+ },
+ {
+  "id": "43e3b29079fe",
+  "zone": "dunmorogh",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Scooty",
+  "quest": "A Fine Mess",
+  "en": "I suppose you should be rewarded for bringing Kernobee back to us in one piece, Adventurer. If you go back to Gnomeregan, these might give you the edge you'll need in defeating that good-for-nothing backstabber, Mekgineer Thermaplugg.",
+  "files": [
+   "quests/2904-complete"
+  ]
+ },
+ {
+  "id": "6793291652c8",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Balir Frosthammer",
+  "quest": "A New Threat",
+  "en": "If the problems we've had here are indicative of what is happening elsewhere in our lands, by Magni's beard, we have some troubles ahead of us! I can only hope that the king and Senate are taking steps to deal with the threat the troggs pose.",
+  "files": [
+   "quests/170-complete"
+  ]
+ },
+ {
+  "id": "89887adaa291",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Balir Frosthammer",
+  "quest": "A New Threat",
+  "en": "I hope you're here to lend us a hand, adventurer. After the last trogg attack, we could use all the help we can get.\n\nI hear the buggers have been popping up all across the lands, and it seems Coldridge Valley is no exception. They've been spotted all over the hills to the southeast and near the frozen lake.\n\nAnd that's not all, just a few nights ago, they attacked and overran our camp to the west! \n\nWe're a bit shorthanded here, lass, and we need strong arms to help drive the troggs back.",
+  "files": [
+   "quests/f-170-accept"
+  ]
+ },
+ {
+  "id": "0658ac931d51",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Balir Frosthammer",
+  "quest": "A New Threat",
+  "en": "I hope you're here to lend us a hand, adventurer. After the last trogg attack, we could use all the help we can get.\n\nI hear the buggers have been popping up all across the lands, and it seems Coldridge Valley is no exception. They've been spotted all over the hills to the southeast and near the frozen lake.\n\nAnd that's not all, just a few nights ago, they attacked and overran our camp to the west! \n\nWe're a bit shorthanded here, lad, and we need strong arms to help drive the troggs back.",
+  "files": [
+   "quests/m-170-accept"
+  ]
+ },
+ {
+  "id": "ab3627043109",
+  "zone": "dunmorogh",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "A Dwarven Corpse",
+  "quest": "A Pilot's Revenge",
+  "en": "Hildelve wrote in his journal that he was attacked by Mangeclaw, a \"huge Ice Claw Bear.\" He drove off the beast, but not before it mauled him savagely.\n\nJudging from the state of Hildelve's body, Mangeclaw must have later returned and killed him.\n\nHowever, Hildelve wrote in his journal his one, final wish:\n\nRevenge against Mangeclaw.",
+  "files": [
+   "quests/417-accept"
+  ]
+ },
+ {
+  "id": "5ac0010f470e",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Pilot Hammerfoot",
+  "quest": "A Pilot's Revenge",
+  "en": "This is grim news, for Hildelve was a good friend. And I wish I could have been there with you when you found the beast, Mangeclaw!\n\nThank you, Adventurer. Your deed will be remembered by the pilots of the Ironforge Siege Brigade.",
+  "files": [
+   "quests/417-complete"
+  ]
+ },
+ {
+  "id": "d204a35036fe",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Felix Whindlebolt",
+  "quest": "A Refugee's Quandary",
+  "en": "We drove the troggs out of Gnomeregan, but then it all went so horribly wrong! Now our home is completely irradiated, and we gnomes have been scattered all over Dun Morogh.\n\nIn my haste to get away from the radiation, I lost all my personal belongings and tools. It was the trolls that got them. They stole my chest, my box, and my bucket of bolts! They took them back to their camps southwest of Anvilmar.\n\nI'm no adventurer - could you find my things and bring them here to me, please?",
+  "files": [
+   "quests/3361-accept"
+  ]
+ },
+ {
+  "id": "890a045231a8",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Felix Whindlebolt",
+  "quest": "A Refugee's Quandary",
+  "en": "Huzzah, you've found them! You're an absolute savior, my friend. Here, it's not much, but it's something for the trouble I've put you through! Thank you!",
+  "files": [
+   "quests/3361-complete"
+  ]
+ },
+ {
+  "id": "a98718daf744",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Beldin Steelgrill",
+  "quest": "A Visitor to Dun Morogh",
+  "en": "Last night one of our mountaineers spotted a campfire on a hillside to the east. It looks to be pretty high up, overlooking the Gol'Bolar Quarry.\n\nIt's probably nothing, but I'd like you to go check on that camp. If they are friendly, no harm done. If they aren't friendly... well, you know what to do.",
+  "files": [
+   "quests/96408-accept"
+  ]
+ },
+ {
+  "id": "e46bf3eeb87e",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Earthseer Farsen",
+  "quest": "A Visitor to Dun Morogh",
+  "en": "Greetings, friend. How are ya?",
+  "files": [
+   "quests/96408-complete"
+  ]
+ },
+ {
+  "id": "4d2685ec2414",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Loslor Rudge",
+  "quest": "Ammo for Rumbleshot",
+  "en": "Hegnar Rumbleshot sells guns off the road to Anvilmar. Riflemen and mortar teams spend a lot of time practicing out near his shop, and he's always needing fresh ammunition.\n\nBut... the last crate of ammo I sent him got lost along the way. My courier said he was camped near the Grizzled Den when wendigo chased him away... and the fool left Rumbleshot's ammo behind!\n\nAdventurer, can you get that ammo and take it to Rumbleshot? He's been waiting on it and I'm sure he's running low.",
+  "files": [
+   "quests/5541-accept"
+  ]
+ },
+ {
+  "id": "dc709e4d9227",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hegnar Rumbleshot",
+  "quest": "Ammo for Rumbleshot",
+  "en": "Great, more ammo! Old Loslor's shipment finally came through! The ammo might be late, but just like my grand daddy used to tell me: late's better than never!\n\nThank you much, Adventurer. I already have buyers eager for this stuff!",
+  "files": [
+   "quests/5541-complete"
+  ]
+ },
+ {
+  "id": "06268d42cdcc",
+  "zone": "dunmorogh",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Marleth Barleybrew",
+  "quest": "Bitter Rivals",
+  "en": "I have to admit, those Thunderbrews make some good drinks. But they need to learn that theirs isn't the only decent brew! Maybe you can help me teach them that lesson...\n\nHere, take this barrel of Barleybrew Scalder. Sneak into the basement of the Thunderbrew Distillery in Kharanos and switch it with one of their barrels of Thunder Ale. Then we'll see how their patrons like my brew over theirs!\n\nAnd if the barrels are guarded, then you might have to distract the guard ...",
+  "files": [
+   "quests/310-accept"
+  ]
+ },
+ {
+  "id": "b6117cb7f8c6",
+  "zone": "dunmorogh",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Unguarded Thunderbrew ale barrel",
+  "quest": "Bitter Rivals",
+  "en": "You quickly place Marleth's barrel of Barleybrew Scalder among the Thunderbrew barrels.",
+  "files": [
+   "quests/310-complete",
+   "quests/310-complete"
+  ]
+ },
+ {
+  "id": "884424106396",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Durnan Furcutter",
+  "quest": "Bring Back the Mug",
+  "en": "Now that hit the spot! Nothing like a piping hot - nay, SCALDING mornbrew on a cold winter's day to warm your cackles of yer soul.\n\nHere ya go Adventurer - be a pal and take this empty mug back to Nori for me, would ya now.",
+  "files": [
+   "quests/3365-accept"
+  ]
+ },
+ {
+  "id": "a17c47db9010",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Nori Pridedrift",
+  "quest": "Bring Back the Mug",
+  "en": "Excellent, Adventurer! You'd be surprised how many couriers I meet who forget to do something as simple as bring back the mug. Mugs don't grow on trees, or so they tell me!\n\nHere's a little something for the effort. Thanks again for your help.",
+  "files": [
+   "quests/3365-complete"
+  ]
+ },
+ {
+  "id": "eb3d50381b7b",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gaxim Rustfizzle",
+  "quest": "Castpipe's Task",
+  "en": "Master Mechanic Castpipe in Ironforge has need of adventurers! He's organizing bands to reenter Gnomeregan on a data retrieval mission of top security and importance.\n\nCastpipe might not be a member of the Enlightened Assembly of Arcanology, Alchemy and Engineering Sciences like I am, but he's still a smart gnome so if he thinks it's important, then by my calculations there's an eighty-four percent probability that it really is important!\n\nThose are good odds!",
+  "files": [
+   "quests/2931-accept"
+  ]
+ },
+ {
+  "id": "458b7f5d7e6f",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Master Mechanic Castpipe",
+  "quest": "Castpipe's Task",
+  "en": "I'm organizing data extraction missions into Gnomeregan. If you're here for that, then listen up!",
+  "files": [
+   "quests/2931-complete"
+  ]
+ },
+ {
+  "id": "4378cbad01ed",
+  "zone": "dunmorogh",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Sovik",
+  "quest": "Chief Engineer Scooty",
+  "en": "As soon as we got word from Kernobee about the new gnomish rig, Scooty and I began work on the Transpolyporter 6000: The fastest and most reliable way to Gnomeregan.\n\nIt's finally ready for passengers to board, Adventurer. If you want to give it a try, go to Booty Bay and talk with Scooty at the wind rider roost. To get to Booty Bay, take the boat from Ratchet.\n\nOf course, you could always try and make the run to Gnomeregan through the dwarf infested mountains of Dun Morogh!",
+  "files": [
+   "quests/2842-accept"
+  ]
+ },
+ {
+  "id": "9e7ec1f3fcd4",
+  "zone": "dunmorogh",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Scooty",
+  "quest": "Chief Engineer Scooty",
+  "en": "She's a beauty, isn't she? Pinnacle of goblin transport technology -- only exploded a dozen or so times.\n\nDon't worry, Adventurer, I've got her all fixed up. She won't blow up on you - and if she does, it'll be quick and painless.",
+  "files": [
+   "quests/2842-complete"
+  ]
+ },
+ {
+  "id": "6e543c00f22b",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Talin Keeneye",
+  "quest": "Coldridge Valley Mail Delivery",
+  "en": "Thank you, I've been waiting for these letters for quite some time...\n\nUnfortunately, these letters aren't all for me. This one is addressed to Grelin Whitebeard. He's not too far away if you'd like to deliver it to him.",
+  "files": [
+   "quests/233-complete"
+  ]
+ },
+ {
+  "id": "d713543d2632",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Talin Keeneye",
+  "quest": "Coldridge Valley Mail Delivery",
+  "en": "If I remember correctly, Grelin's camp is down the road to the southeast. No doubt he'll be eager to get his mail.",
+  "files": [
+   "quests/234-accept"
+  ]
+ },
+ {
+  "id": "86f616fcce11",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grelin Whitebeard",
+  "quest": "Coldridge Valley Mail Delivery",
+  "en": "Ahh, excellent. It's been a while since I received word from Ironforge.",
+  "files": [
+   "quests/234-complete"
+  ]
+ },
+ {
+  "id": "bb22d7602c50",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sten Stoutarm",
+  "quest": "Coldridge Valley Mail Delivery",
+  "en": "Hm, I don't suppose you'd be willing to do a favor for me, lass? A stack of letters came through the pass today, but I don't have the time to send them along.\n\nThey're all addressed to Talin Keeneye. You can find him to the west down the road. He's set up camp next to the frozen lake.\n\nWhat do you say?",
+  "files": [
+   "quests/f-233-accept"
+  ]
+ },
+ {
+  "id": "cdb46d82e6cc",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sten Stoutarm",
+  "quest": "Coldridge Valley Mail Delivery",
+  "en": "Hm, I don't suppose you'd be willing to do a favor for me, lad? A stack of letters came through the pass today, but I don't have the time to send them along.\n\nThey're all addressed to Talin Keeneye. You can find him to the west down the road. He's set up camp next to the frozen lake.\n\nWhat do you say?",
+  "files": [
+   "quests/m-233-accept"
+  ]
+ },
+ {
+  "id": "9c9a7750d384",
+  "zone": "dunmorogh",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Jemma Quikswitch",
+  "quest": "Data Hoarders",
+  "en": "Before we fled Gnomeregan, I made a hard copy of my family's archives. Arcanotechnical field equations, Second War submarine hull designs, Grandma Quikswitch's chili recipe... our greatest accomplishments are in those files.\n\nIt wasn't until we reached Ironforge that I found a hole in my pack! Several punch cards are gone, and without them the data's too scrambled to recover.\n\nThe cards must be buried in the snow, somewhere outside Gnomeregan. Could you find them? I know it's a long shot...",
+  "files": [
+   "quests/95041-accept"
+  ]
+ },
+ {
+  "id": "ba9c5fc6092a",
+  "zone": "dunmorogh",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Jemma Quikswitch",
+  "quest": "Data Hoarders",
+  "en": "These cards seem a bit damp... but I can work with this! Thank you, Archnatum!",
+  "files": [
+   "quests/95041-complete"
+  ]
+ },
+ {
+  "id": "a125eea87476",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Master Mechanic Castpipe",
+  "quest": "Data Rescue",
+  "en": "When we fled Gnomeregan, we left so much data behind! Vitally important data!\n\nI need the data on a prismatic punch card, from a Matrix Punchograph 3005-D high security terminal, deep in Gnomeregan. You must access the terminal, but to do that you first need clearance... and to get that you must access lower security terminals-- models -A, -B and -C. And to do THAT you need security punch cards, starting with white... and we left all the punch cards in the city.\n\nIt's a catastrophe! Can you help?",
+  "files": [
+   "quests/2930-accept"
+  ]
+ },
+ {
+  "id": "8700c81dcc95",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Master Mechanic Castpipe",
+  "quest": "Data Rescue",
+  "en": "You did it! You found the prismatic punch card and recovered the lost data! Vitally, critically, immeasurably important data that we could not live another moment without!\n\nYour service to the gnomes will be long remembered, Adventurer.",
+  "files": [
+   "quests/2930-complete"
+  ]
+ },
+ {
+  "id": "7ae894ffc7a1",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Maxan Anvol",
+  "quest": "Dawn in the Mountains",
+  "en": "There's a priest out in the mountains that belongs to an organization called the Argent Dawn. They're a holy group that is dedicated to finding and destroying the unholy and unnatural.\n\nFather Gavin though, he's mostly the type that seeks to help and heal everyone rather than grab a weapon. He's fixed up an old building to serve as a rest spot for travelers. I've got a shipment of holy candles that I need to get him. Could you bring them to him if your going that way?",
+  "files": [
+   "quests/99158-accept"
+  ]
+ },
+ {
+  "id": "98936e1c8d00",
+  "zone": "dunmorogh",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Father Gavin",
+  "quest": "Dawn in the Mountains",
+  "en": "Ah. Candles from Ironforge.\n\nWhile I am mostly able to live independently in my hermitage, there are a few key things that I appreciate from the city and the pious.",
+  "files": [
+   "quests/99158-complete"
+  ]
+ },
+ {
+  "id": "bfc8252caf43",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Jarven Thunderbrew",
+  "quest": "Distracting Jarven",
+  "en": "Hey there, Belm! Give me a mug of Thunder Ale, and one for my good friend adventurer.",
+  "files": [
+   "followup/125-dwarf-male-standard"
+  ]
+ },
+ {
+  "id": "23cb9b4e8106",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Jarven Thunderbrew",
+  "quest": "Distracting Jarven",
+  "en": "For me? You're a true hero, Adventurer!",
+  "files": [
+   "quests/308-complete"
+  ]
+ },
+ {
+  "id": "a210261b2ffc",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sten Stoutarm",
+  "quest": "Dwarven Outfitters",
+  "en": "What do we have here? You look as though you might need something to keep your hands warm, hm?\n\nI'll tell you what would help: a pair of nice, warm gloves. And, being the kind soul that I am, I'd be more than happy to provide you with a suitable pair. I've one condition, however.\n\nI need you to go get me some wolf meat. Nice arrangement, hm? You bring me some wolf meat, and I'll make sure you don't lose any digits to frostbite. Well, what do you say?",
+  "files": [
+   "quests/179-accept"
+  ]
+ },
+ {
+  "id": "083d329bb630",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sten Stoutarm",
+  "quest": "Dwarven Outfitters",
+  "en": "Ah! Wonderful. The wolf meat should do nicely. Oh, don't worry, adventurer, I wouldn't forget my part of the bargain. Here, one of these should fit you.",
+  "files": [
+   "quests/179-complete"
+  ]
+ },
+ {
+  "id": "dfa861c06272",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Klockmort Spannerspan",
+  "quest": "Essential Artificials",
+  "en": "A nigh-universal mechanical component--the essential artificial--was of great use to the tinkers and smiths of Gnomeregan. But during the frantic exodus from our city, no one remembered to take any of these devices with them! And I need a large supply of them for work I will soon undertake.\n\nPlease, go into Gnomeregan and get me some essential artificials. You'll find them in the deeper areas of our city, held in containers called artificial extrapolators.\n\nThank you, Adventurer, and please hurry!",
+  "files": [
+   "quests/2924-accept"
+  ]
+ },
+ {
+  "id": "2cf9c1ed8d96",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Klockmort Spannerspan",
+  "quest": "Essential Artificials",
+  "en": "You got them! Now I can begin my new experiments!\n\nI can't thank you enough, Adventurer! You're bravery has advanced gnomish research by a leap and a bound!",
+  "files": [
+   "quests/2924-complete"
+  ]
+ },
+ {
+  "id": "3528edf3c204",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Pilot Bellowfiz",
+  "quest": "Evershine",
+  "en": "Rejold Barleybrew experiments with his brews. Some of them taste good, some bad, and some...well, some will lay all but the stoutest dwarf flat.\n\nHe lives at Brewnall Village, west of Kharanos, and one of his drinks, Evershine, is what I want. It'll help keep me warm while I'm on the cold road.\n\nAnd...the blessed stuff burns so hot I can throw it in Jetsteam's furnace for a burst of power! That little tactic has gotten me out of more than one tight spot.",
+  "files": [
+   "quests/318-accept"
+  ]
+ },
+ {
+  "id": "d08a59351391",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rejold Barleybrew",
+  "quest": "Evershine",
+  "en": "Bellowfiz needs some of my Evershine? Hm...all right.",
+  "files": [
+   "quests/318-complete"
+  ]
+ },
+ {
+  "id": "a30683dd8e68",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Earthseer Farsen",
+  "quest": "Farsen's Watch",
+  "en": "Greetings to ye, friend. My name is Earthseer Farsen and I'm visiting Dun Morogh from Aerie Peak. As I was travelin', I couldn't help but notice that we have, well... a bit o' a Dark Iron Traveler problem.\n\nIf ye have a moment, I can show ye what I mean. I've got a bit o' magic that should do the trick.",
+  "files": [
+   "quests/96392-accept"
+  ]
+ },
+ {
+  "id": "80ab1efa4af0",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Earthseer Farsen",
+  "quest": "Farsen's Watch",
+  "en": "So ye see now, adventurer? Thick as cockroaches they are, and that's just the ones we can see from the sky.\n\nYe look like a sturdy enough sort. Hows about a bit o' violence?",
+  "files": [
+   "quests/96392-complete"
+  ]
+ },
+ {
+  "id": "1848389b48e1",
+  "zone": "dunmorogh",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Father Gavin",
+  "quest": "Finding Warmth",
+  "en": "My hearth is open to warm any soul, but I'd like to ask you to help me if you could.\n\nI simply need more firewood. It is something I would normally do myself, but I have been preoccupied by other tasks.",
+  "files": [
+   "quests/99159-accept"
+  ]
+ },
+ {
+  "id": "10e2b9c52ce1",
+  "zone": "dunmorogh",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Father Gavin",
+  "quest": "Finding Warmth",
+  "en": "Ah, perfect. These will do--any that are too wet to use right now I will leave to dry.\n\nNow, if you're willing, I have more tasks I could use help with.",
+  "files": [
+   "quests/99159-complete"
+  ]
+ },
+ {
+  "id": "55f049da2f1b",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Tognus Flintfire",
+  "quest": "Flintfire's Shipment",
+  "en": "Hoha! Good to see a traveler who's not afraid to get their hands dirty.\n\nIf yer lookin' fer work, I'm afraid I'm a little short on supplies at the moment. Our most reliable source of ore has been overrun by wendigo and now the cave has been abandoned. The miners had to drop everything when they fled!\n\nSay, why don't ye poke yer head around the Grizzled Den to the west and see if you can find some of our missing shipments. It would save us a great deal o' trouble.",
+  "files": [
+   "quests/98321-accept"
+  ]
+ },
+ {
+  "id": "8601401c2bb4",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Tognus Flintfire",
+  "quest": "Flintfire's Shipment",
+  "en": "Now that's more like it! With these shipments we'll get the forge back up and runnin' in no time!",
+  "files": [
+   "quests/98321-complete"
+  ]
+ },
+ {
+  "id": "1c03323604e1",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Veron Amberstill",
+  "quest": "Frost Ram Exchange",
+  "en": "Ye bring me yer old ram, I will trade it in for one from the new pack! The new ram will be just as fast as yer old one, but with a new look to him. You can look at the swift rams here to see what ye will have to choose from.",
+  "files": [
+   "quests/7673-complete",
+   "quests/7674-complete"
+  ]
+ },
+ {
+  "id": "f29f6decee3d",
+  "zone": "dunmorogh",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Gretta Ganter",
+  "quest": "Frosthowl",
+  "en": "Do ye know how hard it is to fish on a frozen lake? My poor husband, Paxton, has been out in the middle of it for days and we barely have a single sack to show fer it.\n\nWell, we DID have a sack to show fer it. Until the thrice-damned wendigo attacked me and made off with our haul. It'll take us weeks to fish all that back up! If that loudmouth Frosthowl didn't scare 'em all off, anyway.\n\nDo us a favor and get it back, aye? Drooling brute is hiding somewhere deep in the Grizzled Den to the southeast.",
+  "files": [
+   "quests/98326-accept"
+  ]
+ },
+ {
+  "id": "6375a7cddf0d",
+  "zone": "dunmorogh",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Gretta Ganter",
+  "quest": "Frosthowl",
+  "en": "Yer a real lifesaver, Leif!\n\nMy husband would just laugh it off, but I couldn't bare tellin' him he has to spend another night on the lake. Maybe now we can enjoy a real feast.",
+  "files": [
+   "quests/98326-complete"
+  ]
+ },
+ {
+  "id": "0a1b3da40f8e",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Senir Whitebeard",
+  "quest": "Frostmane Hold",
+  "en": "I'm behind on my report, and could use your help, adventurer. I just managed to find where the trolls are holed up, but I saw so many trolls, I was afraid to go in.\n\nHere's what I need... Go down to the cave, poke around inside, kill a few of the trolls, then come back here.\n\nTake the road north out of Kharanos, when you get to the bridge, follow the frozen river west until you reach Iceflow Lake. You'll find Brewnall Village on the west bank. The Hold is southwest of the village.",
+  "files": [
+   "quests/287-accept"
+  ]
+ },
+ {
+  "id": "f464501e0836",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Senir Whitebeard",
+  "quest": "Frostmane Hold",
+  "en": "Ah, adventurer! I didn't think you'd have much trouble finding the place, my directions are excellent, you know...\n\nLet me just finish up my report then.\n\n\nThere! Well, haha, now this certainly is funny... I don't suppose, adventurer, that you would mind doing one last favor for me?",
+  "files": [
+   "quests/287-complete"
+  ]
+ },
+ {
+  "id": "2005963cf7ad",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Ozzie Togglevolt",
+  "quest": "Gnogaine",
+  "en": "Since the accident, all Gnoarn thinks about or talks about is cleansing Gnomeregan of the trogg infestation and finding a cure for the sickness that plagues it, Adventurer.\n\nLuckily, Razzle and I are close to some kind of cure - either that or the recipe for a really powerful rum. We won't know until we test! Naturally, in order to test our theory, we're going to need a few things; namely, fallout from the irradiated troggs in Gnomeregan. Fill up this phial with the green glow and bring it back!",
+  "files": [
+   "quests/2926-accept"
+  ]
+ },
+ {
+  "id": "a6cfc489a26c",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Ozzie Togglevolt",
+  "quest": "Gnogaine",
+  "en": "Excellent work! The time has come to test the new formula. If this works, not only should that captured leper gnome be cured, but I should have a full head of hair! Stand back!",
+  "files": [
+   "quests/2926-complete"
+  ]
+ },
+ {
+  "id": "6a98b22e697d",
+  "zone": "dunmorogh",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Scooty",
+  "quest": "Gnomer-gooooone!",
+  "en": "Give me a moment while I calibrate the transponder to your height and weight specifications, adventurer.",
+  "files": [
+   "followup/3904-goblin-male-zany"
+  ]
+ },
+ {
+  "id": "8107f9e834fd",
+  "zone": "dunmorogh",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Scooty",
+  "quest": "Gnomer-gooooone!",
+  "en": "Alright, adventurer, your transponder is ready!",
+  "files": [
+   "followup/3905-goblin-male-zany"
+  ]
+ },
+ {
+  "id": "c5e3ac3f21a7",
+  "zone": "dunmorogh",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Scooty",
+  "quest": "Gnomer-gooooone!",
+  "en": "As long as you have the transponder in your possession, all you need to do is step on the pad and you'll be teleported to Gnomeregan.\n\nYou may experience some unusual side effects, but none of those should be permanent... anymore.\n\nI almost forgot the most important part - getting back. When you're ready to come back, just step on the transpolyporter pad in Gnomeregan!\n\nNow to calibrate the transponder to your size and weight.",
+  "files": [
+   "quests/2843-accept"
+  ]
+ },
+ {
+  "id": "e9b3e7c2e8a3",
+  "zone": "dunmorogh",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Scooty",
+  "quest": "Gnomer-gooooone!",
+  "en": "All done! When you're ready, just step on the pad.",
+  "files": [
+   "quests/2843-complete"
+  ]
+ },
+ {
+  "id": "401f3df1b7d1",
+  "zone": "dunmorogh",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Grime-Encrusted Ring",
+  "quest": "Grime-Encrusted Ring",
+  "en": "You have uncovered what appears to be a ring from the corpse of one of the Dark Iron dwarves. It is difficult to tell what kind of ring it is, however; dirt and hardened residue cake the item completely, making wearing it impossible. You think you can make out the slight luster of precious metal and maybe even the glint of a gem under the residue.\n\nIf you are going to make use of this ring, you are going to need to find something to get the hardened residue off of it.",
+  "files": [
+   "quests/2945-accept"
+  ]
+ },
+ {
+  "id": "ee4b348bffc6",
+  "zone": "dunmorogh",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "The Sparklematic 5200",
+  "quest": "Grime-Encrusted Ring",
+  "en": "You place the ring inside the Sparklematic 5200 and deposit a silver coin into the slot.\n\nPainful grinding noises emanate from the machine as it begins to jerk around violently. One can only guess what is happening with the ring inside the machine...\n\nThe machine suddenly stops, trumpeting its cessation with a simple \"Ding!\" The item receptacle opens up to reveal a small box that is neatly wrapped with a red bow. It would appear that the Sparklematic 5200 also gift wraps!",
+  "files": [
+   "quests/2945-complete"
+  ]
+ },
+ {
+  "id": "8aef2377423a",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grund Drokda",
+  "quest": "Grund and Gozwin",
+  "en": "Oi, had me back turned gettin' the boar roast ready when I heard me pal Gozwin screamin' fer his life!\n\nWicked fangs and a blur are all I saw when I turned. Such huge paws! A snow leopard was draggin' its gnomish catch away. I grabbed me shotgun and fired above the beast. It dropped him and sprinted off.\n\nLuckily, it hadn't done more than give ol' Goz some deep scratches.\n\nHead back to camp in the northwestern hills and retrieve Gozwin's Mechanic's Log. Kill that snow leopard too if you see it!",
+  "files": [
+   "quests/97277-accept"
+  ]
+ },
+ {
+  "id": "205999963657",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grund Drokda",
+  "quest": "Grund and Gozwin",
+  "en": "Aye, I'm not surprised to hear that snow leopard was makin' a meal of the boar we were fixin' fer roastin'!\n\nGoz will have one less thing to stress about now that you brought back his log book. Maybe now he can focus all his energy on gettin' back on his feet.\n\nThanks, Adventurer. Take a little something as a token of my appreciation, fer makin' the trek, and fer protectin' the hills.",
+  "files": [
+   "quests/97277-complete"
+  ]
+ },
+ {
+  "id": "1e51c06d1c7f",
+  "zone": "dunmorogh",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Guarded Thunderbrew ale barrel",
+  "quest": "Guarded Thunderbrew Barrel",
+  "en": "This barrel of ale is guarded by Jarven Thunderbrew. As long as he's in the basement, no barrels may be disturbed.",
+  "files": [
+   "quests/403-complete",
+   "quests/403-complete"
+  ]
+ },
+ {
+  "id": "e3802787fedd",
+  "zone": "dunmorogh",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Shoni the Shilent",
+  "quest": "Gyrodrillmatic Excavationators",
+  "en": "It's terrible, Adventurer. We are not going to have enough parts to get our fleet of gyrodrillmatic excavationators to Dun Morogh.\n\nWhat we need are spare parts, Adventurer. What better place to get the spare parts for our vehicles than Gnomeregan? I hear that bots and mechs roam around that place like cattle on an open range.\n\nWhat I need you to do is go to Gnomeregan and tear apart those robots. Bring me back their robot guts. Two dozen should be sufficient.",
+  "files": [
+   "quests/2928-accept"
+  ]
+ },
+ {
+  "id": "e54ed89af71e",
+  "zone": "dunmorogh",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Shoni the Shilent",
+  "quest": "Gyrodrillmatic Excavationators",
+  "en": "This will do nicely, Adventurer. One gyrodrillmatic excavationator fixed; 398 left to go.",
+  "files": [
+   "quests/2928-complete"
+  ]
+ },
+ {
+  "id": "63a243d35824",
+  "zone": "dunmorogh",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Milli Featherwhistle",
+  "quest": "Icy Blue Mechanostrider Replacement",
+  "en": "If you are still riding that old Icy Blue Mechanostrider Mod A, then you will surely want to turn it in for a newer model. Your new swift mechanostrider keeps all the same speed that the old one has with a brand new look. You can browse the swift mechanostriders here to see the great looks you will have to choose from.",
+  "files": [
+   "quests/7675-complete"
+  ]
+ },
+ {
+  "id": "8d8e0821ceb7",
+  "zone": "dunmorogh",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mathiel",
+  "quest": "Klockmort's Essentials",
+  "en": "A gnome friend, Klockmort Spannerspan, sent word to me from Ironforge. He tells me he needs help on a dangerous, but essential, mission into Gnomeregan, the once great gnome city now contaminated and filled with mad gnomes and their devices.\n\nI must stay here, but my heart aches to help my friend. If you can go in my stead, then I would be much indebted to you.\n\nYou may find Klockmort in Tinkertown, in Ironforge.",
+  "files": [
+   "quests/2925-accept"
+  ]
+ },
+ {
+  "id": "10f0f5f7bc78",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Klockmort Spannerspan",
+  "quest": "Klockmort's Essentials",
+  "en": "I do! I do need help with a mission into Gnomeregan. And you're just the adventurer to do it!",
+  "files": [
+   "quests/2925-complete"
+  ]
+ },
+ {
+  "id": "8ca1b855f771",
+  "zone": "dunmorogh",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "The Sparklematic 5200",
+  "quest": "More Sparklematic Action",
+  "en": "The Sparklematic 5200 comes to life, lurching to and fro. Inside, the helpless grime that has encrusted the object placed within it is being pulverized by the machine's gnomish cleaning agent.\n\nThe Sparklematic 5200 comes to a halt, heralded by a familiar \"ding!\" The item receptacle of the machine spirals open, revealing a neatly wrapped box.",
+  "files": [
+   "quests/2953-complete",
+   "quests/4603-complete",
+   "quests/4604-complete"
+  ]
+ },
+ {
+  "id": "04f1d3253069",
+  "zone": "dunmorogh",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Rudra Amberstill",
+  "quest": "Never Saddle on Quality",
+  "en": "We're getting ready to send a team of rams to reinforce the Alterac expedition, but we've run out of material to make their saddles.\n\nCollect pelts from the largest, fiercest leopards to the east and bring them to me. It's biting cold up there and our forces deserve nothing but the finest pelts to keep them warm!",
+  "files": [
+   "quests/95212-accept"
+  ]
+ },
+ {
+  "id": "601f66a284d9",
+  "zone": "dunmorogh",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Rudra Amberstill",
+  "quest": "Never Saddle on Quality",
+  "en": "These pelts will make excellent saddles. You've done the Alliance proud, adventurer!",
+  "files": [
+   "quests/95212-complete"
+  ]
+ },
+ {
+  "id": "edcd1c03c5af",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Earthseer Farsen",
+  "quest": "Nip 'Em in the Bud",
+  "en": "Dark Iron spies have infiltrated Dun Morogh. To what end I canna' not sure, but this is a problem we need to nip in the bud before it is allowed to grow.\n\nHead eastward to Ironband's Compound and kill the Dark Iron spies that you find there.",
+  "files": [
+   "quests/96390-accept"
+  ]
+ },
+ {
+  "id": "a8dc53953220",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Earthseer Farsen",
+  "quest": "Nip 'Em in the Bud",
+  "en": "These Dark Irons may be our cousins but they ain't family, that's for sure. I shed no tears for any misfortune that befalls them that stray too far from that accursed mountain o' theirs.\n\nHopefully this is enough to put 'em off of further incursions into these lands.",
+  "files": [
+   "quests/96390-complete"
+  ]
+ },
+ {
+  "id": "5d1706038a16",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Razzle Sprysprocket",
+  "quest": "Operation Recombobulation",
+  "en": "Let me install these Gyromechanic Gears and Restabilization Cogs and we'll fire up The Recombobulator.",
+  "files": [
+   "followup/1883-gnome-male-zany"
+  ]
+ },
+ {
+  "id": "e20cc41a10a8",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Razzle Sprysprocket",
+  "quest": "Operation Recombobulation",
+  "en": "Upon further analysis of the Gnomeregan situation, it would appear as though we not only failed to eradicate the troggs but we also happened to turn most of the gnomish race into horrific, mindless, evil-doing leper gnomes.\n\nOzzie and I plan to reverse the horrible leper effect with our latest invention: The Recombobulator. The machine is almost complete but we are in dire need of some Restabilization Cogs and Gyromechanic Gears. Retrieve some from the leper gnomes out front of Gnomeregan for us.",
+  "files": [
+   "quests/412-accept"
+  ]
+ },
+ {
+  "id": "0d9f724ff95e",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Razzle Sprysprocket",
+  "quest": "Operation Recombobulation",
+  "en": "These Gyromechanic Gears and Restabilization Cogs are in perfect accordance with Ozzie's schematics for the Recombobulation Device. Once I add some hydrolubricant to the inner combustion pistons, adjust the crank-o-ratchet and increase of the viscosity of the electrogum gel, the gnomish race will be as good as new.",
+  "files": [
+   "quests/412-complete"
+  ]
+ },
+ {
+  "id": "7646d52cb841",
+  "zone": "dunmorogh",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Rudra Amberstill",
+  "quest": "Protecting the Herd",
+  "en": "We heard the cries in the middle of the night. Then this morning, sure enough, the herd was missing two rams. That dastardly beast known as Vagash has been preying on our livelihood. With most of King Magni's army off in distant lands fighting with the Alliance, there is no one to keep Vagash at bay.\n\nPerhaps you are brave enough to seek out the beast and slay him. Bring me one of his fangs and I will reward you. Vagash lurks just above the ranch here, but be warned, he is deadly.",
+  "files": [
+   "quests/314-accept"
+  ]
+ },
+ {
+  "id": "4a67756c076f",
+  "zone": "dunmorogh",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Rudra Amberstill",
+  "quest": "Protecting the Herd",
+  "en": "Very well done! Veron will be so happy when he hears the good news. To kill Vagash is no easy task. I imagine one day you'll be fighting alongside King Magni's men on the Alliance Front.",
+  "files": [
+   "quests/314-complete"
+  ]
+ },
+ {
+  "id": "a5b5c7b4c2ee",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Pilot Bellowfiz",
+  "quest": "Rejold's New Brew",
+  "en": "Rejold Barleybrew at Brewnall Village has been asking for you.\n\nHe wants to talk to you about a new drink he's been brewing...said something about you helping him with it. You might want to head back to Brewnall Village and see what he has to say.\n\nThere could be some free booze in it for you...",
+  "files": [
+   "quests/415-accept",
+   "quests/415-accept"
+  ]
+ },
+ {
+  "id": "4d1c7e3672c0",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rejold Barleybrew",
+  "quest": "Rejold's New Brew",
+  "en": "Adventurer! You know that Shimmerweed you brought me? Well I used it in a few recipes I've been working on, and one of them turned out great!\n\nHere, try it out and tell me what you think...",
+  "files": [
+   "quests/415-complete"
+  ]
+ },
+ {
+  "id": "f3110bea466d",
+  "zone": "dunmorogh",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "The Sparklematic 5200",
+  "quest": "Return of the Ring",
+  "en": "Opening the box produced by the Sparklematic 5200 reveals what you had suspected - a shiny ring! Wearing the ring, you feel magic power surge through you body.\n\nInside the band is a small but nonetheless discernable imprint of the seal of Ironforge. Next to that, three small initials are engraved: \"TdK\". This may signify either the initials of the previous owner, or perhaps the initials of the ring's crafter. Keep the ring... or return it to this person. Decisions, decisions...",
+  "files": [
+   "quests/2947-accept"
+  ]
+ },
+ {
+  "id": "181044de7742",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Talvash del Kissel",
+  "quest": "Return of the Ring",
+  "en": "A ring, you say? Let's see... yep, I made that ring by golly.\n\nBefore Gnomeregan went up, I had a small shop there. Perhaps it's one I left behind when I ran for the hills; it's a simple design, and I made several like it. Maybe it's from someone who didn't make it out.\n\nDark Iron dwarves had this? Well, that puts a new layer of conspiracy on the nine different layers already floating about. Maybe the authorities would like to know; it's wasted on the likes of me.\n\nNow, back to the ring...",
+  "files": [
+   "quests/2947-complete"
+  ]
+ },
+ {
+  "id": "b531e31460bd",
+  "zone": "dunmorogh",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "The Sparklematic 5200",
+  "quest": "Return of the Ring",
+  "en": "Opening the box produced by the Sparklematic 5200 reveals a shiny ring! Donning the ring, you feel magic power surge through your body.\n\nInside the band is a small but nonetheless discernable imprint of the seal of Orgrimmar. Engraved letters are next to it, but only the first three stand out even after cleaning: \"NOG...\"\n\nThis may signify either the initials of the previous owner, or perhaps the initials of the ring's crafter. Keep the ring... or find \"NOG\" - decisions, decisions...",
+  "files": [
+   "quests/2949-accept"
+  ]
+ },
+ {
+  "id": "8e30ff4f4ee2",
+  "zone": "dunmorogh",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Nogg",
+  "quest": "Return of the Ring",
+  "en": "A ring from Gnomeregan? Let's see... not mine, but interesting.\n\nThe Gnomeregan thing - couldn't have happened to a nicer bunch of numbskulls. For years they're a joke, and now almost overnight they're making better rigs than us?\n\nDark Iron dwarves had the ring? That's even more interesting! You know, maybe the gnomes stole their crazy golem plans and modified them. Those Dark Irons, they'd definitely want some major payback. It's certainly worth investigating.\n\nYou know, about that ring...",
+  "files": [
+   "quests/2949-complete"
+  ]
+ },
+ {
+  "id": "db4546289b6d",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rejold Barleybrew",
+  "quest": "Return to Bellowfiz",
+  "en": "Here's your cask of Evershine, Adventurer. And again, thank you for the hunting earlier.",
+  "files": [
+   "quests/320-accept"
+  ]
+ },
+ {
+  "id": "df99fc4e4a4d",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Pilot Bellowfiz",
+  "quest": "Return to Bellowfiz",
+  "en": "Yes, this will do just fine. I think I'll open a bottle right now and have a taste...",
+  "files": [
+   "quests/320-complete"
+  ]
+ },
+ {
+  "id": "4421a113dc06",
+  "zone": "dunmorogh",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Unguarded Thunderbrew ale barrel",
+  "quest": "Return to Marleth",
+  "en": "Having inserted a barrel of Marleth's Scalder in the Kharanos Distillery's cellar, you grab a barrel of Thunder Ale as proof of the deed...",
+  "files": [
+   "quests/311-accept",
+   "quests/311-accept"
+  ]
+ },
+ {
+  "id": "927d9c9652a3",
+  "zone": "dunmorogh",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Marleth Barleybrew",
+  "quest": "Return to Marleth",
+  "en": "Not bad, Adventurer! Did you have a hard time getting past their guard?\n\nNo matter - many thanks, and if you're ever in need of stout with a kick, don't forget the Barleybrews!",
+  "files": [
+   "quests/311-complete"
+  ]
+ },
+ {
+  "id": "9586f649b32d",
+  "zone": "dunmorogh",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Sovik",
+  "quest": "Rig Wars",
+  "en": "Come and have a talk with me if you're going to go to Gnomeregan, adventurer!",
+  "files": [
+   "followup/3903-goblin-male-zany"
+  ]
+ },
+ {
+  "id": "8d9660b821f7",
+  "zone": "dunmorogh",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Nogg",
+  "quest": "Rig Wars",
+  "en": "Gnome technology - two years ago its most common use was as a punch line. Times certainly have changed. Now they've got a new rig built that's better than all our shredder models combined. I need the blueprints, Adventurer!\n\nUnfortunately, the plans are locked away in a safe near Mekgineer Thermaplugg. To make matters worse, the combination to the safe is only known by Mekgineer Thermaplugg.\n\nDo whatever you have to do to get that combination, Adventurer. Then crack open that safe and bring back those blueprints!",
+  "files": [
+   "quests/2841-accept"
+  ]
+ },
+ {
+  "id": "127aaf0bf879",
+  "zone": "dunmorogh",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Nogg",
+  "quest": "Rig Wars",
+  "en": "I knew you could do it, Adventurer! Sovik on the other hand, he had his doubts.\n\n\nNow that we have the blueprints in our possession, it is only a matter of time before we figure out all of the gnomish innovations that went into the creation of the rig and make them goblin innovations for our new shredder models.",
+  "files": [
+   "quests/2841-complete"
+  ]
+ },
+ {
+  "id": "a209fd1b9a1e",
+  "zone": "dunmorogh",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Father Gavin",
+  "quest": "Rime's Wrath",
+  "en": "You may have noticed the elementals nearby. A shelf of rock and ice fell from the mountain peaks a few days ago and riled them up.\n\nThese frozen mountains are already treacherous for the average dwarf or human without the elements taking form. I am not one for fighting anymore--so any of the spirits you can kill would help make the road safer.",
+  "files": [
+   "quests/99160-accept"
+  ]
+ },
+ {
+  "id": "2fd6f7a6560e",
+  "zone": "dunmorogh",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Father Gavin",
+  "quest": "Rime's Wrath",
+  "en": "I wish we could have simply placated them. Unfortunately it was beyond my knowledge and they were too dangerous to leave unchecked.",
+  "files": [
+   "quests/99160-complete"
+  ]
+ },
+ {
+  "id": "8568109abdb0",
+  "zone": "dunmorogh",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Father Gavin",
+  "quest": "Rime's Wrath",
+  "en": "I noticed that the first elemental that appeared after the rockslide was larger than its peers. And from what I can tell, it has been the source of occasionally weather changes and other minor slides.\n\nI've been calling it 'Avala', if you could kill it and retrieve the core as proof, I will reward you.",
+  "files": [
+   "quests/99161-accept"
+  ]
+ },
+ {
+  "id": "60965cceb0c0",
+  "zone": "dunmorogh",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Father Gavin",
+  "quest": "Rime's Wrath",
+  "en": "Light bless you, adventurer. Your efforts make this area much safer and hopefully will prevent unnecessary deaths.",
+  "files": [
+   "quests/99161-complete"
+  ]
+ },
+ {
+  "id": "4a2a6ad7793e",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Tinkmaster Overspark",
+  "quest": "Save Techbot's Brain!",
+  "en": "When our beloved city Gnomeregan fell, a rogue spark must have jolted my poor creation, Techbot. It once aided me and my associates with its countless gizmos and limitless store of information, but its positronic brain has polarized. Now it's negatronic... and Techbot's behaviors are reversed. It roams Gnomeregan in a frenzy!\n\nBut perhaps it can be salvaged. Perhaps, if you can retrieve Techbot's memory core and bring it to me, I can discover the cause of the polarization and fix my poor Techbot.",
+  "files": [
+   "quests/2922-accept"
+  ]
+ },
+ {
+  "id": "879b1aa972ac",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Tinkmaster Overspark",
+  "quest": "Save Techbot's Brain!",
+  "en": "Oh, this is wonderful! Thank you, Adventurer! I'll get to work immediately!!\n\nPoor, poor Techbot... Don't feel bad. We'll get you fixed.\n\nNow, where did I put that plug for my hydro-jack swivel spanner...",
+  "files": [
+   "quests/2922-complete"
+  ]
+ },
+ {
+  "id": "3fa3ccd6775b",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Durnan Furcutter",
+  "quest": "Scalding Mornbrew Delivery",
+  "en": "There's nothing like some scalding mornbrew on a chilly Dun Morogh day to get things started right!",
+  "files": [
+   "followup/4377-dwarf-male-standard"
+  ]
+ },
+ {
+  "id": "a0aaa3adeb90",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Durnan Furcutter",
+  "quest": "Scalding Mornbrew Delivery",
+  "en": "Oooooo hot hot hot! If that won't put spring in your step, I don't know what will!",
+  "files": [
+   "followup/4378-dwarf-male-standard"
+  ]
+ },
+ {
+  "id": "f0cd5fb7d0eb",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Nori Pridedrift",
+  "quest": "Scalding Mornbrew Delivery",
+  "en": "Gah! I was supposed to get this delicious scalding mornbrew to Durnan Furcutter inside Anvilmar a while ago now, but I had to deliver one to Grelin here first. I'll never make it to Anvilmar before the brew runs cold!\n\nYou look fast. Maybe you can make it. This cup will only stay hot for five more minutes, and Durnan didn't order \"chilly\" mornbrew, so get going. Anvilmar is to the northeast, a settlement dug into the mountain.\n\nThanks, Adventurer, and don't forget to bring me back my mug!",
+  "files": [
+   "quests/3364-accept"
+  ]
+ },
+ {
+  "id": "69945aa173b9",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Durnan Furcutter",
+  "quest": "Scalding Mornbrew Delivery",
+  "en": "Ah good, now this will hit the spot. Allow me to take a small break while I enjoy this scalding mornbrew!",
+  "files": [
+   "quests/3364-complete"
+  ]
+ },
+ {
+  "id": "11884c727897",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Pilot Stonegear",
+  "quest": "Search for Incendicite",
+  "en": "I heard that a rare ore, incendicite, was found in the Wetlands, in a cave northwest of Algaz Gate. Incendicite is volatile stuff and hard to use without blowing yourself up, but I'm sure if it's smelted the right way it could make cannon shells that pack a mighty punch!\n\nGet me incendicite ore and I'll find someone brave enough to experiment with it.\n\nOh, and to extract that ore from a vein you'll need skill in mining. If you don't have it, then ... bring a friend who does to that cave!",
+  "files": [
+   "quests/466-accept"
+  ]
+ },
+ {
+  "id": "28347c6bffb5",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Pilot Stonegear",
+  "quest": "Search for Incendicite",
+  "en": "You got the ore! Well done, Adventurer! I'll get someone to work with this right away. Let's hope he doesn't blow himself up!",
+  "files": [
+   "quests/466-complete"
+  ]
+ },
+ {
+  "id": "b5e70588d10d",
+  "zone": "dunmorogh",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Mountaineer Gretchen",
+  "quest": "Secure the Mountain",
+  "en": "It's bad enough havin' a troll problem, but the mountains are filled tae the brim with wendigos! They normally keep to their own caves, but they seem tae be spreadin' like bunnies. Now they've filled the Grizzled Den north of here.\n\nIf we want Whitebeard's report, we're gonna need to find my partner Cornelius. The blockhead got a little too excited and charged in head first. Brave, but stupid.\n\nHead into the cave and see where he is. And feel free to take out some the beasts while yer at it.",
+  "files": [
+   "quests/98319-accept"
+  ]
+ },
+ {
+  "id": "35f64b576edb",
+  "zone": "dunmorogh",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Mountaineer Gretchen",
+  "quest": "Secure the Mountain",
+  "en": "Ach, the fool...\n\nThank ye for the help, Adventurer. Guess we have our report.",
+  "files": [
+   "quests/98319-complete"
+  ]
+ },
+ {
+  "id": "fa0268b16e42",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Senir Whitebeard",
+  "quest": "Secure the Mountain",
+  "en": "Spelunking dark caves is adventurer business. My job's just to make reports and send them over to Ironforge.\n\nTrouble is, one of my reports hasn't... well, reported back. I asked a few mountaineers to learn more about the wendigo problem we have out here, but I haven't heard from them.\n\nIf you're already going to be out and about, what say you don't check in with Mountaineer Gretchen just west of town. I'm late enough as it is!",
+  "files": [
+   "quests/98322-accept"
+  ]
+ },
+ {
+  "id": "117dc068c82b",
+  "zone": "dunmorogh",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Mountaineer Gretchen",
+  "quest": "Secure the Mountain",
+  "en": "Ol' Whitebeard sent ya, aye?\n\nI got his report, alright. This whole situation's a mess!",
+  "files": [
+   "quests/98322-complete"
+  ]
+ },
+ {
+  "id": "5f0248e1dc6e",
+  "zone": "dunmorogh",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Mountaineer Gretchen",
+  "quest": "Secure the Mountain",
+  "en": "Hopefully ye put down a fair number of the mongrels while you were in there. Shame about Cornelius, though.\n\nFrom what you described, there's not much to report other than the cave is a lost cause. Whitebeard's not gonna like that answer, but I'm not darin' sendin' anybody else into that death trap.\n\nFeel free tae pass along the message, Adventurer. I'm not leavin' this spot till the mountain's secure.",
+  "files": [
+   "quests/98323-accept"
+  ]
+ },
+ {
+  "id": "4e28ae0f3366",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Senir Whitebeard",
+  "quest": "Secure the Mountain",
+  "en": "Completely overrun? Why am I not surprised.\n\nWell, that's going in the report too.\n\n<Senir folds Gretchen's letter into his pile of notes>",
+  "files": [
+   "quests/98323-complete"
+  ]
+ },
+ {
+  "id": "ed61390d9786",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grelin Whitebeard",
+  "quest": "Senir's Observations",
+  "en": "I was planning on sending my apprentice to my brother Senir with my report, but I would feel much better were it placed in more... reliable hands. That is, of course, if you wouldn't mind?\n\nHmm... you'll have to take the tunnel to get to Kharanos.\n\nSpeak with Mountaineer Thalos before going through the tunnel. It's completely infested with troggs now.\n\nFollow the road back to Anvilmar, then keep heading east to the tunnel, Thalos is stationed nearby.",
+  "files": [
+   "quests/282-accept"
+  ]
+ },
+ {
+  "id": "125c0e0b2483",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Thalos",
+  "quest": "Senir's Observations",
+  "en": "Hm, well, if Whitebeard is sending you to Dun Morogh on important business, I can't very well stop you, can I?\n\nAt least let me provide you with some advice and directions.",
+  "files": [
+   "quests/282-complete"
+  ]
+ },
+ {
+  "id": "f75983695e16",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Thalos",
+  "quest": "Senir's Observations",
+  "en": "The troggs in the tunnel are extremely hostile, and haven't shown any hesitation in attacking travelers through the tunnel. You seem tough enough, though, so you should probably be safe.\n\nDirections? If you're going to speak with Senir, you'll find him in Kharanos.\n\nMake your way through the tunnel, and after you come out on the other side, just keep following the road, it'll run right into Kharanos.",
+  "files": [
+   "quests/420-accept"
+  ]
+ },
+ {
+  "id": "7efa74002e8c",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Senir Whitebeard",
+  "quest": "Senir's Observations",
+  "en": "What's this? Ah, my brother's report. Hmm...\n\nI told him to be sparing with the use of the King's name, but he didn't listen. No harm, I suppose, though it's sure to ruffle some feathers in the Senate. Not that those weren't some feathers that needed ruffling! Hah!\n\nNonetheless, I guess that means that I should send my report on to Ironforge as well, but I must admit I'm a bit behind. Bloody cold.\n\nI should have some work for you later, if you're interested.",
+  "files": [
+   "quests/420-complete"
+  ]
+ },
+ {
+  "id": "b0c100ae415c",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rejold Barleybrew",
+  "quest": "Shimmer Stout",
+  "en": "I'd like my brother Wellart to try my new Shimmer Stout. He's a Mountaineer stationed in the southern guard tower, one of two towers on the border to Loch Modan.\n\nHe may not be a brewer like the rest of us Barleybrews, but he loves his drinks and I know he'll like this one.\n\nCan you bring him this Barrel of Shimmer Stout for me?",
+  "files": [
+   "quests/413-accept"
+  ]
+ },
+ {
+  "id": "9f086761ef44",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Barleybrew",
+  "quest": "Shimmer Stout",
+  "en": "Oh. Whoa! This stuff really puts a shine in your eyes. I feel like I can see in the dark!",
+  "files": [
+   "quests/413-complete"
+  ]
+ },
+ {
+  "id": "b73f0a8362d0",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Pilot Bellowfiz",
+  "quest": "Stocking Jetsteam",
+  "en": "I'm preparing to start a mission for the Siege Brigade. It's a long one, and I need to stock Jetsteam with a month's worth of supplies. So while Steelgrill is working on my tank, can you do some hunting for me?\n\nI'll need some fur for bedding, and boar meat for food. You can get meat from boars and fur from the bears... you can find them both in the snow fields south of the Grizzled Den.",
+  "files": [
+   "quests/317-accept"
+  ]
+ },
+ {
+  "id": "923bf693c866",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Pilot Bellowfiz",
+  "quest": "Stocking Jetsteam",
+  "en": "By Magni's beard, you sure did a lot of hunting!! Thank you, Adventurer.",
+  "files": [
+   "quests/317-complete"
+  ]
+ },
+ {
+  "id": "6b4c8f662369",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Quarrymaster Thesten",
+  "quest": "Stolen Blasting Powder",
+  "en": "<The traveler turns pale as he sees the empty keg.>\n\n...Where did you find this?",
+  "files": [
+   "quests/95213-complete"
+  ]
+ },
+ {
+  "id": "3680c68997bc",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Quarrymaster Thesten",
+  "quest": "Stolen Blasting Powder",
+  "en": "This keg held enough powder to turn King Magni's throne room into an open air courtyard. We've got to get it back from the troggs before they work out how to ignite it.",
+  "files": [
+   "quests/95214-accept"
+  ]
+ },
+ {
+  "id": "406b8d729bfd",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Quarrymaster Thesten",
+  "quest": "Stolen Blasting Powder",
+  "en": "That should be all the stolen powder. Thank you, adventurer.\n\nPlease accept this reward, and... I'd appreciate if you didn't mention this little incident to anyone.",
+  "files": [
+   "quests/95214-complete"
+  ]
+ },
+ {
+  "id": "3713fcea7270",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Kadrell",
+  "quest": "Stonegear's Search",
+  "en": "Pilot Stonegear loves his siege engine, as every pilot should! And he's always eager to find new ways to improve his tank's firepower!\n\nHe heard rumors of a rare ore and is looking for someone to hunt it down for him. If your boots are starting to itch, then find Stonegear at Steelgrill's Depot in Dun Morogh and see what he wants.",
+  "files": [
+   "quests/467-accept",
+   "quests/467-accept"
+  ]
+ },
+ {
+  "id": "14d2438ed7de",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Pilot Stonegear",
+  "quest": "Stonegear's Search",
+  "en": "Hello Adventurer. You're here about the task I have, eh? It's good to see a young traveler like yourself whose blood burns at the prospect of adventure!",
+  "files": [
+   "quests/467-complete"
+  ]
+ },
+ {
+  "id": "7dd006e9e380",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Barleybrew",
+  "quest": "Stout to Kadrell",
+  "en": "I've been drinking more of that Shimmer Stout my brother made - it's great stuff! I want a fellow Mountaineer to try it. His name's Kadrell, and he's usually patrolling the road through Thelsamar in Loch Modan.\n\nTo get to Thelsamar, go southeast through the tunnel, then turn northeast when the path forks into a road. Follow that road straight into Thelsamar.\n\nGive Mountaineer Kadrell this cask of Shimmer Stout and see what he thinks!",
+  "files": [
+   "quests/414-accept"
+  ]
+ },
+ {
+  "id": "f8362859b2f6",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Kadrell",
+  "quest": "Stout to Kadrell",
+  "en": "Now, let me have a taste...\n\nMagni's Beard! This stuff gets your head turning! And it lightens the limbs, too.\n\nI feel like I can fly!",
+  "files": [
+   "quests/414-complete"
+  ]
+ },
+ {
+  "id": "43051d766aff",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Hands Springsprocket",
+  "quest": "Supplies to Tannok",
+  "en": "Hey! You look like a hearty adventurer. If you're planning on braving the pass, do you suppose you could bring a package to the inn in Kharanos?\n\nYou were planning on stopping at the inn, right? If you make it through the pass, you'll definitely want to take a breather there.\n\nAnyways, bring this to Tannok Frosthammer, the innkeeper's assistant. I can't get through the pass myself, and it'll be days until a Mountaineer escort comes through!",
+  "files": [
+   "quests/2160-accept"
+  ]
+ },
+ {
+  "id": "2001a4b78c5b",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Tannok Frosthammer",
+  "quest": "Supplies to Tannok",
+  "en": "Ah, at last, the supplies from Hands! I was beginning to worry, we've had scarce word from Anvilmar ever since the troggs overran the pass.\n\nThanks for bringing this to me, adventurer. And please, make yourself comfortable. You must be tired after your journey.",
+  "files": [
+   "quests/2160-complete"
+  ]
+ },
+ {
+  "id": "a50eb32a25b0",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Talin Keeneye",
+  "quest": "The Boar Hunter",
+  "en": "Nothing like a day of boar hunting, eh?\n\nThough, here in Coldridge Valley, there are so many boars it almost takes the fun out of it. No need to get them charging. They're all angry and ready without any help. In fact, recently, there've been so many boars in the area, it's become dangerous for me to do my daily hunting.\n\nLong story short, if you could help me kill some of the boars, I would appreciate it.",
+  "files": [
+   "quests/183-accept"
+  ]
+ },
+ {
+  "id": "ee7239693eb8",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Talin Keeneye",
+  "quest": "The Boar Hunter",
+  "en": "Excellent! I can go back to my... leisurely... hunting now. Thank you, adventurer.",
+  "files": [
+   "quests/183-complete"
+  ]
+ },
+ {
+  "id": "ae31a2742fe4",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gnoarn",
+  "quest": "The Day After",
+  "en": "You don't think I was always bald, do you? No ma'am! It was the radiation leak in Gnomeregan that caused this tragic hair loss. Before that day, I had the only gnomefro in all of Azeroth.\n\n\nDamn those damned dirty troggs - damn them all!!\n\nPerhaps it's not too late, Adventurer. We may still be able to save it - the city I mean! Speak to Ozzie Togglevolt in Kharanos. He and his partner Razzle are working on a solution.",
+  "files": [
+   "quests/f-2927-accept"
+  ]
+ },
+ {
+  "id": "769dc54483f5",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gnoarn",
+  "quest": "The Day After",
+  "en": "You don't think I was always bald, do you? No sir! It was the radiation leak in Gnomeregan that caused this tragic hair loss. Before that day, I had the only gnomefro in all of Azeroth.\n\n\nDamn those damned dirty troggs - damn them all!!\n\nPerhaps it's not too late, Adventurer. We may still be able to save it - the city I mean! Speak to Ozzie Togglevolt in Kharanos. He and his partner Razzle are working on a solution.",
+  "files": [
+   "quests/m-2927-accept"
+  ]
+ },
+ {
+  "id": "f45cb80069c2",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "High Tinker Mekkatorque",
+  "quest": "The Grand Betrayal",
+  "en": "I trusted Thermaplugg, traveler. Never did I expect that he would betray me and the entire gnomish people. And for what? Power? Wealth? All things that he would have had in time. Now we have been displaced from our home and that madman is in charge. The king of nothing....\n\nWe will retake Gnomeregan, Adventurer. We will not stop until the city is back in our control. If you wish to join in our fight, a simple task I ask of you: Kill the betrayer. Destroy Mekgineer Thermaplugg.",
+  "files": [
+   "quests/2929-accept"
+  ]
+ },
+ {
+  "id": "78242a51e3e4",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "High Tinker Mekkatorque",
+  "quest": "The Grand Betrayal",
+  "en": "I like to think that the last thing that went through his head as he collapsed to the ground was your foot, traveler. With Thermaplugg dead, our plans to retake Gnomeregan are one step closer to becoming a reality.",
+  "files": [
+   "quests/2929-complete"
+  ]
+ },
+ {
+  "id": "07b339847d1e",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Pilot Stonegear",
+  "quest": "The Grizzled Den",
+  "en": "Driving a Siege Engine isn't for everyone. It takes an iron grip and nerves of steel...lucky I have both! How about you? How's your mettle? Want to prove it to me?\n\nWell...I'm looking to make my engine, Trollplow, a little more cozy. How about you get me a heap of Wendigo Manes from the Grizzled Den, west of Kharanos. Those manes would make a great rug for Trollplow's inside deck!",
+  "files": [
+   "quests/313-accept"
+  ]
+ },
+ {
+  "id": "a8b5e454bd98",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Pilot Stonegear",
+  "quest": "The Grizzled Den",
+  "en": "Ah yes, these manes will work great! You show a lot of grit, Adventurer - I wager we'll see great things from you.",
+  "files": [
+   "quests/313-complete"
+  ]
+ },
+ {
+  "id": "fdaa519020d8",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grif Wildheart",
+  "quest": "The Hunter's Path",
+  "en": "Hello, young hunter. You look to me like you are skilled enough to handle a beast and train it as your companion.\n\nYou must see Dazalar in Dolanaar. He can put you on the path to earning a pet of your own.",
+  "files": [
+   "quests/6722-accept",
+   "quests/6721-accept"
+  ]
+ },
+ {
+  "id": "eb08427e4f5f",
+  "zone": "dunmorogh",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dazalar",
+  "quest": "The Hunter's Path",
+  "en": "Yes, it is time to train you...",
+  "files": [
+   "quests/6722-complete"
+  ]
+ },
+ {
+  "id": "88ee468e4683",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Pilot Hammerfoot",
+  "quest": "The Lost Pilot",
+  "en": "My friend and fellow Siege Engine pilot, Mori Hildelve, is lost in the hills. We were looking for a rare ore that's needed for a high-grade blastpowder, and during our search he drove his engine up a steep hill and busted it!\n\nStill convinced that ore was in these mountains, Hildelve charged me to guard our engines while he continued on foot, searching.\n\nIt's been days, and I've heard some beastly growls in the hills at night. Mori's tough as nails, but I'm worried.\n\nPlease, Adventurer. Find him.",
+  "files": [
+   "quests/419-accept"
+  ]
+ },
+ {
+  "id": "1b9dfe8ae577",
+  "zone": "dunmorogh",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "A Dwarven Corpse",
+  "quest": "The Lost Pilot",
+  "en": "Here is the corpse of a dwarf -- mauled, frozen, and picked clean by mountain scavengers. Clutched in its hand is a book containing the roughly scribbled notes of Mori Hildelve. And around its frame, still in superior condition, is a Brigadier's Vest.\n\nThis grisly scene must have been where the Siege Engine pilot met his end.",
+  "files": [
+   "quests/419-complete"
+  ]
+ },
+ {
+  "id": "fe48fbfb5d42",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Ozzie Togglevolt",
+  "quest": "The Only Cure is More Green Glow",
+  "en": "Not only was your sample insufficient in quantity, it was also impure.\n\nWhat we require is more green glow. The troggs are obviously not irradiated sufficiently to fulfill our needs. You will have to go into Gnomeregan and bring back some radioactive fallout, straight from the tap. I am speaking of the irradiated slimes, lurkers and horrors. Be warned, the containment of this type of fallout is difficult. You may need to make several attempts with the phial until a suitable sampling is recovered.",
+  "files": [
+   "quests/2962-accept"
+  ]
+ },
+ {
+  "id": "33ee712792bb",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Ozzie Togglevolt",
+  "quest": "The Only Cure is More Green Glow",
+  "en": "Impressive, you still have all of your limbs. Now it's time to see what this stuff can do!",
+  "files": [
+   "quests/2962-complete"
+  ]
+ },
+ {
+  "id": "336dd02ca1ef",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rejold Barleybrew",
+  "quest": "The Perfect Stout",
+  "en": "I'm on a quest, a quest to make the perfect stout. I know I can do it -- brewing's in my blood. I just need to find the right recipe...\n\nThe Frostmane trolls grow a plant, shimmerweed, high up in the hills to the east. They use it in their strange, tribal rituals. We dwarves haven't found much use for it, but it has a unique taste...and I want to experiment with it in my brews!\n\nGet me some shimmerweed from Frostmane seers, or swipe it from the trolls' shimmerweed baskets.",
+  "files": [
+   "quests/315-accept"
+  ]
+ },
+ {
+  "id": "98b8f872ab91",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rejold Barleybrew",
+  "quest": "The Perfect Stout",
+  "en": "Great! I can't wait to use these in some of my recipes. There's one in particular I think it'll work great in...",
+  "files": [
+   "quests/315-complete"
+  ]
+ },
+ {
+  "id": "8f4101351d57",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Senator Mehr Stonehallow",
+  "quest": "The Public Servant",
+  "en": "As a member of the Senate and the Explorers' League, I've taken it upon myself to take care of this part of the trogg infestation that has gripped our lands.\n\nThey've certainly made a mess of Gol'Bolar quarry, and for no reason. As we dug deep into the earth, they poured out, destroying our equipment and driving the miners out. There's not much for us to do but to exterminate the lot of them, rebuild, then get back to work.\n\nIf you help me with the troggs, I'll gladly recompense you for your time.",
+  "files": [
+   "quests/433-accept"
+  ]
+ },
+ {
+  "id": "3c94b64a724d",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Senator Mehr Stonehallow",
+  "quest": "The Public Servant",
+  "en": "It is a start. Hopefully we can take advantage of it, and move some Mountaineers in to secure the area. Then we can begin to restore our infrastructure and get the miners back to work.\n\nThank you for your assistance, adventurer.",
+  "files": [
+   "quests/433-complete"
+  ]
+ },
+ {
+  "id": "03bfc9293e09",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Frast Dokner",
+  "quest": "The Quarry's Smith",
+  "en": "So you're looking to learn the blacksmith's trade? Maybe we can help each other.\n\nThe supply shipment's late, and I need materials for some repairs around the camp. If you get me what I need, I'll teach you some of my techniques. Sound fair?",
+  "files": [
+   "quests/95217-accept"
+  ]
+ },
+ {
+  "id": "29d647e0f9e9",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Frast Dokner",
+  "quest": "The Quarry's Smith",
+  "en": "You're a resourceful one, Gort.\n\nNow listen up - I'm not going to repeat myself!",
+  "files": [
+   "quests/95217-complete"
+  ]
+ },
+ {
+  "id": "413c6049df3f",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Senir Whitebeard",
+  "quest": "The Reports",
+  "en": "Excellent! Take my report to Senator Barin Redstone. He's a sour type, so don't let his less-than-sunny disposition get to you. He's in Ironforge, in the chamber where King Magni holds court.\n\nDon't know the way to Ironforge? Take the road out of Kharanos north, cross the bridge, then follow the road east--there are large banners flanking the road--up the mountainside.\n\nBy the way, if you might avoid mentioning how you assisted me? Can't let them think I'm not working hard out here, you know?",
+  "files": [
+   "quests/291-accept"
+  ]
+ },
+ {
+  "id": "37b9efe0939a",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Senator Barin Redstone",
+  "quest": "The Reports",
+  "en": "Authority of the KING!? Has Magni taken complete leave of his senses! And that damnable Whitebeard... Taken matters into his own hands, has he? The Senate will not be pleased to hear about this, not one bit.\n\nWhat, are you still here? Go, before I call the guards!",
+  "files": [
+   "quests/291-complete"
+  ]
+ },
+ {
+  "id": "2cc0684e1f00",
+  "zone": "dunmorogh",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "The Sparklematic 5200",
+  "quest": "The Sparklematic 5200!",
+  "en": "This contraption stands out amongst the gnomes holding out against the madness outside the room. A small plaque on the device reads \"The Sparklematic 5200\", followed by some text:\n\n\"Grime and residue ruining your sparklies? The Sparklematic 5200 puts the shine back in shine-tastic! Insert the item you wish to clean and deposit three silver coins in the coin slot. Give the Sparklematic 5200 a moment for operation, and voila! Your valuables will emerge clean and shiny!\"",
+  "files": [
+   "quests/2951-accept",
+   "quests/4601-accept",
+   "quests/4602-accept"
+  ]
+ },
+ {
+  "id": "d5ab2a15c4e4",
+  "zone": "dunmorogh",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "The Sparklematic 5200",
+  "quest": "The Sparklematic 5200!",
+  "en": "You insert the grime-encrusted item and three silver coins into the Sparklematic 5200. The machine surges to life in a frenzied attempt to purge the grime from the unknown item. Loud, violent churning sounds beat from the heart of the machine. The metal frame of the beast creaks and groans as it lurches from side to side...",
+  "files": [
+   "quests/2951-complete",
+   "quests/4601-complete",
+   "quests/4602-complete"
+  ]
+ },
+ {
+  "id": "b2c32d4461f3",
+  "zone": "dunmorogh",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "The Sparklematic 5200",
+  "quest": "The Sparklematic 5200!",
+  "en": "As quickly as it started, the Sparklematic 5200 comes to an abrupt halt. A simple \"ding\" is heard from the machine, and the mouth of the machine spirals upward. Inside the Sparklematic 5200 is a small box wrapped in a little bow. The machine would appear to wrap an object up after eliminating its grime-encrusted status. Even if the machine didn't work, at least the item is now wrapped in a pretty box.\n\nWell, there is one way to find out if it cleaned the item or not...",
+  "files": [
+   "quests/2952-complete",
+   "quests/4605-complete",
+   "quests/4606-complete"
+  ]
+ },
+ {
+  "id": "0abc570628c2",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grelin Whitebeard",
+  "quest": "The Stolen Journal",
+  "en": "My journal! They took it away to the cave. The one that had it... It was a big brute with some odd markings on his skin and face. I didn't get a much better look than that.\n\nYou've had some luck with the trolls, maybe you could go get it back for me?",
+  "files": [
+   "quests/218-accept"
+  ]
+ },
+ {
+  "id": "65cbd9ad4573",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grelin Whitebeard",
+  "quest": "The Stolen Journal",
+  "en": "Wonderful, adventurer! Many thanks for retrieving my notebook. Well, it would seem that the troll situation here in Coldridge Valley is under control and not much cause for worry.\n\nAfter I put the finishing touches on my report, I'll need someone to courier it to my brother Senir.",
+  "files": [
+   "quests/218-complete"
+  ]
+ },
+ {
+  "id": "7ea48be764e4",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "King Magni Bronzebeard",
+  "quest": "The Treaty of Understanding",
+  "en": "Ah yes, my ancestor Madoran was the first Bronzebeard king of Ironforge following the great civil war between the Wildhammer, Bronzebeard, and Dark Iron clans. This treaty was drafted to codify the cessation of hostilities and terms of peace after the Bronzebeards won the mountain.\n\nAs you can see, the Wildhammers and Bronzebeards signed it... and the Dark Irons did not.\n\nThank you for recovering this and bringing it to me, adventurer.",
+  "files": [
+   "quests/98423-complete"
+  ]
+ },
+ {
+  "id": "b345e63ab215",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grelin Whitebeard",
+  "quest": "The Troll Cave",
+  "en": "My brother Senir and I were sent to different parts of Dun Morogh to investigate the threat posed by the trolls. The Senate has its hands full with the troggs, so they've no need for further annoyances.\n\nFrom what I've seen, the trolls aren't well situated here in Coldridge Valley--mostly the southern cave. I'd say that the army will not be necessary. A few strong arms should be more than enough.\n\nPerhaps you'd like to assist in this endeavor? I have the authority to offer compensation for your help.",
+  "files": [
+   "quests/182-accept"
+  ]
+ },
+ {
+  "id": "82437cd265c1",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grelin Whitebeard",
+  "quest": "The Troll Cave",
+  "en": "Argh! Those Light-blasted trolls!\n\n\nA group of them came in the night and stole my journal! I knew better than to trust that good-for-nothing appr...",
+  "files": [
+   "quests/182-complete"
+  ]
+ },
+ {
+  "id": "a9ccb1c1e307",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Foreman Stonebrow",
+  "quest": "Those Blasted Troggs!",
+  "en": "Those Light-blasted troggs, turning my work site into a wreck! Look at that, there goes another barrel of powder!\n\nOhhh, I wish I could go down there and wring every one of their scrawny little necks! I want to kill them all!\n\nThis can't be good for my health, all this stress and anger... What have they left me with? Nothing!\n\nI'd kill them myself, but my aim's no good anymore! You go into the quarry and kill some of the filthy buggers! I'll pay you! Just hurt them, kill them!",
+  "files": [
+   "quests/432-accept"
+  ]
+ },
+ {
+  "id": "a7ae4da24954",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Foreman Stonebrow",
+  "quest": "Those Blasted Troggs!",
+  "en": "Well, that makes me feel a little better...\n\nBut I won't be happy until they're all dead! All of them!",
+  "files": [
+   "quests/432-complete"
+  ]
+ },
+ {
+  "id": "bc7d6931e86a",
+  "zone": "dunmorogh",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Brother Sarno",
+  "quest": "Tinkmaster Overspark",
+  "en": "Tinkmaster Overspark is very upset with the fate of his mechanical creation, Techbot. I remember Techbot as a kind and helpful tool for the gnomes, but Overspark tells me it's malfunctioned.\n\nVery sad. But with luck perhaps he can be fixed!\n\nSpeak with Tinkmaster Overspark, in Tinker Town in Ironforge. He would welcome your help.",
+  "files": [
+   "quests/2923-accept"
+  ]
+ },
+ {
+  "id": "f03bdf93c53a",
+  "zone": "dunmorogh",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Tinkmaster Overspark",
+  "quest": "Tinkmaster Overspark",
+  "en": "Yes it's true. Techbot has gone rogue! Please, can you help me?",
+  "files": [
+   "quests/2923-complete"
+  ]
+ },
+ {
+  "id": "ad5245e05824",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Tharek Blackstone",
+  "quest": "Tools for Steelgrill",
+  "en": "Beldin Steelgrill owns the local mechanic shop, and he's the best siege engine tech there is! But he's not forgiving to his tools. I swear he almost breaks more arclight spanners than we can supply him with!\n\nWe just filled his last order for tools. If you deliver it to him I'm sure he'll make it worth the effort.\n\nHis shop, Steelgrill's Depot, is just northeast of Kharanos. And it's a local haunt for veteran siege engine pilots, so keep your ears open for opportunities while you're there.",
+  "files": [
+   "quests/400-accept"
+  ]
+ },
+ {
+  "id": "b97382fd0eb8",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Beldin Steelgrill",
+  "quest": "Tools for Steelgrill",
+  "en": "You have my tools? Well done, lass, well done! I just broke my last fang-ratchet an hour ago and I need one of those to finish repairs on Pilot Stonegear's siege engine. You did a good thing by lugging those tools here, Adventurer.\n\nHere, take these coins for your help.",
+  "files": [
+   "quests/f-400-complete"
+  ]
+ },
+ {
+  "id": "4fe6586853a3",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Beldin Steelgrill",
+  "quest": "Tools for Steelgrill",
+  "en": "You have my tools? Well done, lad, well done! I just broke my last fang-ratchet an hour ago and I need one of those to finish repairs on Pilot Stonegear's siege engine. You did a good thing by lugging those tools here, Adventurer.\n\nHere, take these coins for your help.",
+  "files": [
+   "quests/m-400-complete"
+  ]
+ },
+ {
+  "id": "2aa278200cda",
+  "zone": "dunmorogh",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Father Gavin",
+  "quest": "Treacherous Cold",
+  "en": "Even mountaineers from Ironforge have to keep their wits about them when traversing through the peaks of Dun Morogh. Falling snow and ice often spells the end of some more novice members' lives.\n\nAfter a slide, I usually try to find any sign of survivors or victims--while praying to the Light that there's nothing to be found. But with the elements acting up, I've held off wandering too far. If you could look for some lost mountaineers and bring me their rifles, I will return them to Ironforge.",
+  "files": [
+   "quests/99162-accept"
+  ]
+ },
+ {
+  "id": "37fe591312cc",
+  "zone": "dunmorogh",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Father Gavin",
+  "quest": "Treacherous Cold",
+  "en": "The mountaineers engrave their names on the stock of their rifles. It helps identify them should something happen. I'll send these back to Ironforge--there someone will pass them on to any family.",
+  "files": [
+   "quests/99162-complete"
+  ]
+ },
+ {
+  "id": "ddf39f635065",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Tundra MacGrann",
+  "quest": "Tundra MacGrann's Stolen Stash",
+  "en": "I had a month's worth of dried meats salted and locked away for the cold season. Kept it locked so the bears wouldn't get it! But while I was off hunting deer, that beast, Old Icebeard, made off with the meat locker. He won't be able to smash through that Thorium though. But I'll starve if I can't get my meats back.\n\nYou seem a bit more stealthy than me. Perhaps you can retrieve my stash? I'll never make it in and out of that cave fast enough with this bum leg of mine.",
+  "files": [
+   "quests/312-accept"
+  ]
+ },
+ {
+  "id": "02275916de5c",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Tundra MacGrann",
+  "quest": "Tundra MacGrann's Stolen Stash",
+  "en": "What a kind soul you are, Adventurer! Thanks to your bravery I won't find myself starving when the cold season flurries blow in.",
+  "files": [
+   "quests/312-complete"
+  ]
+ },
+ {
+  "id": "fb26231041e0",
+  "zone": "dunmorogh",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Earthseer Farsen",
+  "quest": "Underground Map",
+  "en": "Judging by this map, it certainly looks like these Dark Irons are planning some sort of incursion into the vaults beneath Ironforge. The band ye busted up to the east must be a scouting force.\n\nThank ye for bringing me this. If we hurry, we might be able to beat them to whatever their goal is down there.",
+  "files": [
+   "quests/96391-complete"
+  ]
+ },
+ {
+  "id": "250967f79224",
+  "zone": "dunmorogh",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Milli Featherwhistle",
+  "quest": "White Mechanostrider Replacement",
+  "en": "If you are still riding that old White Mechanostrider Mod A, then you will surely want to turn it in for a newer model. Your new swift mechanostrider keeps all the same speed that the old one has with a brand new look. You can browse the swift mechanostriders here to see the great looks you will have to choose from.",
+  "files": [
+   "quests/7676-complete"
+  ]
+ }
+]

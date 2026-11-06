@@ -1,0 +1,2805 @@
+[
+ {
+  "id": "99fbfabd8e21",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Mallory",
+  "quest": null,
+  "en": "You've already learned everything I can teach you, adventurer. Talk to the night elf Lilyssia Nightbreeze in the Mage Quarter of Stormwind if you want to continue your studies. I hear she's a good teacher.",
+  "files": [
+   "gossip/00ac4b235ec0f2725dd99c50a0ed9648"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "0542d05549c2",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Mallory",
+  "quest": null,
+  "en": "You've made a good start, but you still have a great deal to learn, adventurer.",
+  "files": [
+   "gossip/8d1a9653ec0ac81cbb827f31a1138bda"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "e6c105d10bf2",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Mallory",
+  "quest": null,
+  "en": "Good day, sir. I'd shake your hand, but as you see, I'm in the middle of something. May I be of assistance?",
+  "files": [
+   "gossip/m-fc05789524675185326e36bb917847b7"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "8208a6b13b3e",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Aldwin Laughlin",
+  "quest": null,
+  "en": "Welcome to the Stormwind Guild Registry offices. What can I help you with today?",
+  "files": [
+   "gossip/fcf3b1fc15ddd12af2f77de7cacba3b3"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "5daa6d195ce7",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Alyssa Griffith",
+  "quest": null,
+  "en": "I sell only the best gear, tested and true. And the prices are set, so if you want to haggle then go find a Goblin.",
+  "files": [
+   "gossip/1d035ef80655c9d2cd4e435e275a7bba"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "1f201a3c1859",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Angus Stern",
+  "quest": null,
+  "en": "If you're here for the food, then welcome! You won't find finer dining in all of Stormwind...or Azeroth!\n\nIf you're here on other matters, then please be brief. I have a dozen dishes in preparation, and must care for each.",
+  "files": [
+   "gossip/1a2aa346a91caa0210698f8d84a7023f"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "bfadbc9e2acb",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Arnold Leland",
+  "quest": null,
+  "en": "Welcome to Stormwind. Took a long time to rebuild her but it was well worth it. So are you visiting, or are you here on business?",
+  "files": [
+   "gossip/e980a3fd7dce3ba0d906cea472aaa320"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "8c205f6ddd31",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Baros Alexston",
+  "quest": null,
+  "en": "Greetings, I am Baros Alexston, City Architect of Stormwind.",
+  "files": [
+   "gossip/eab6397f2b472c73c79f5e9efe846a88"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "48087dd31898",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Bernard Gump",
+  "quest": null,
+  "en": "We are the only supplier of healthy flowers in all of Stormwind. We provide beautiful blooms for any occasion.",
+  "files": [
+   "gossip/8235974cfa833adfdaf9b2864225d19f"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "39988d7b0ad7",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Betty Quin",
+  "quest": null,
+  "en": "I'm afraid I have nothing to teach to someone with your experience. But you haven't reached the end of the road yet. Speak to Lucan Cordell, behind the counter there. He'll guide you through the next phase of your journey.",
+  "files": [
+   "gossip/9bc79cc1d6dfa8f4429bb0862cd5cb14"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "64f731d16fcf",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Betty Quin",
+  "quest": null,
+  "en": "Hail, traveler! What brings you to my doorstep?",
+  "files": [
+   "gossip/a3b77b8ddab9ff1b046bb5107711d6a3"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "51aaa137e119",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Betty Quin",
+  "quest": null,
+  "en": "Hmm... well you seem capable enough. If you truly desire to learn, then nothing will stand in your way! I will guide you through your first steps on what I hope will be a long and fulfilling path.",
+  "files": [
+   "gossip/b2a1b013783e1c798aeab08ef2f0e133"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "b2b8b8ce2f38",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Billibub Cogspinner",
+  "quest": null,
+  "en": "If you insert tab A into slot B then of course it's going to go BOOM! Here, let me show you what I have and then you can ask Lilliam about how to put it together so it doesn't blow up.",
+  "files": [
+   "gossip/d1c3a174065be73fad87b0bff53c38b7"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "4928a101f524",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Borgus Steelhand",
+  "quest": null,
+  "en": "What are ye daft? That's not a weapon, that's a dinner knife. I don't train amateurs.",
+  "files": [
+   "gossip/ad3e0242a5d45f7ec83537662ced020e"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "289edb4b59a9",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Borgus Steelhand",
+  "quest": null,
+  "en": "Can't ye see I'm busy? This had better be good.",
+  "files": [
+   "gossip/e6c5b185db0ab91fad6f55b0165ec6de"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "a9ec582570d0",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Brother Benjamin",
+  "quest": null,
+  "en": "I trust the Light is with you, adventurer. Is there something that I can I help you with?",
+  "files": [
+   "gossip/3863e63bf9c76e213a6d311dd79c2142"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "fba37601ae9f",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Brother Benjamin",
+  "quest": null,
+  "en": "Do not turn your back on the Light, adventurer, it may be the one thing that saves you some day.",
+  "files": [
+   "gossip/9b63f2b89e31f2dc76f6a27011b22bc5"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "447efe77c1ff",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Brother Cassius",
+  "quest": null,
+  "en": "May the light guide your path and aid you in your journies. If you need any assistance browsing, I will be right over here.",
+  "files": [
+   "gossip/ce3a30336400d5979cf1804ab2617300"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "7ec0054433e9",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Bryan Cross",
+  "quest": null,
+  "en": "I sell only the best gear, tested and true. And the prices are set, so if you want to haggle then go find a Goblin.",
+  "files": [
+   "gossip/0644f6eb50bbf423901c39cf0e35e268"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "cafd1ee2b6a5",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Charys Yserian",
+  "quest": null,
+  "en": "I sell only the finest arcane gear, made by the crafters and mages here in the city of Stormwind.",
+  "files": [
+   "gossip/49e5864e02449db1b69ff60632939d53"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "ccb7345ae519",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Charys Yserian",
+  "quest": null,
+  "en": "Since the fall of Dalaran and the destruction of Quel'Thalas, wares of this sort have been hard to come by. But Lucan Cordell and some of our other Tradesman have been doing a fine job of filling our orders with quality merchandise.",
+  "files": [
+   "gossip/7b74123b73660b230105d037e31ae78f"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "a522f0a36645",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Clavicus Knavingham",
+  "quest": null,
+  "en": "Friend - Stormwind needs your assistance and your generosity!\n\nOur once large stockpile of textiles has run critically low. Stormwind is now engaged in a multi-pronged effort to rebuild those stocks for the manufacture of textiles and bandages! Your donation of cloth would help Stormwind immensely, as well as earn the respect of the citizenry!",
+  "files": [
+   "gossip/57a0cf3e383340429113af3746750413"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "50e392f8f800",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Collin Mauren",
+  "quest": null,
+  "en": "Hello, friend. What can I do for you?",
+  "files": [
+   "gossip/8eb7a2a575507aa4826667286116ab7e"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "b36623f496ac",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Count Remington Ridgewell",
+  "quest": null,
+  "en": "My family boasts the finest collection of jewelry and objects of fine art among all the nobles of Stormwind!\n\nAnd we are always wishing to increase the size our collection...",
+  "files": [
+   "gossip/7a5f08b079e721c4c2c8496c58b32af9"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "6e3dea6c9b4b",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Crier Goodman",
+  "quest": null,
+  "en": "Your legacy precedes you, adventurer. If you wish, I can allow you to rewrite that legacy into something new.",
+  "files": [
+   "gossip/11019e528e64ace93052e19fb616f7ca"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "6bd034b62723",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Crier Goodman",
+  "quest": null,
+  "en": "Greetings and salutations, hero! I have the latest news from both continents and points beyond for your consideration.",
+  "files": [
+   "gossip/b8290ddda0b05b868413d4053a016622"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "856cfd18d671",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Dane Lindgren",
+  "quest": null,
+  "en": "A far better blacksmith than I am, that's for sure. Though I'll deny it if you tell anyone I said that. You should go speak with Therum Deepforge. If anyone can teach you more, it's him.",
+  "files": [
+   "gossip/09a9c4ad934397dc02876bda84bad0ff"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "35c93423b74e",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Dane Lindgren",
+  "quest": null,
+  "en": "Do I look like I have the time to spend jawin?",
+  "files": [
+   "gossip/a14f5faf742204672310f8f5b8263cb5"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "2ad8b790efd4",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Dane Lindgren",
+  "quest": null,
+  "en": "You're not bad, but let me show you a few tricks you might find handy.",
+  "files": [
+   "gossip/bfdb790af74bc4bc8fd2975752784485"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "702d5ddfa8d3",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Darian Singh",
+  "quest": null,
+  "en": "I sell only the finest arcane gear, made by the crafters and mages here in the city of Stormwind.",
+  "files": [
+   "gossip/2e4eca05cb76135045a9a7c0e66e45af"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "5cc711a95645",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Darian Singh",
+  "quest": null,
+  "en": "Since the fall of Dalaran and the destruction of Quel'Thalas, wares of this sort have been hard to come by. But Lucan Cordell and some of our other Tradesman have been doing a fine job of filling our orders with quality merchandise.",
+  "files": [
+   "gossip/52ce57327118edf04bd3864c3342a693"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "562189230092",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Demisette Cloyce",
+  "quest": null,
+  "en": "The arcane only corrupts those who are weak. Keep up on your training, or you may find a similar fate.",
+  "files": [
+   "gossip/c381816693d5bcf8cf6644c3ad7a0dea"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "2a32f5c6f22e",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Doc Mixilpixil",
+  "quest": null,
+  "en": "Can I help you?",
+  "files": [
+   "gossip/c51c67b1156baa959f6271d3c07c8740"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "f200bd0b2cf7",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Donyal Tovald",
+  "quest": null,
+  "en": "Please clean yourself before handling our tomes.",
+  "files": [
+   "gossip/8419feeb220cb19c8e720920dfc1b05d"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "e92d981c6dd6",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Draconic for Dummies",
+  "quest": null,
+  "en": "Your quest to learn Draconic is futile, mortal. And why would you ever want to learn to speak in the ancient tongue? Baffling really...",
+  "files": [
+   "gossip/26d2095bf010d5921e9b8e83bc514a84"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "d15ace441824",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Dungar Longdrink",
+  "quest": null,
+  "en": "These great beasts know paths that ye can't find on foot, they'll get ye there fast and maybe show ye something new at the same time.",
+  "files": [
+   "gossip/483ae8ef81d9a1fa5470403f505b2d87"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "e33d4ef25446",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Dungar Longdrink",
+  "quest": null,
+  "en": "Where is it ye would like to go lad? For just a few coin my Gryphons can get ye there faster than even the swiftest horse.",
+  "files": [
+   "gossip/m-6b05ee484d45803ee175e05a07d644f4"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "169f70bab73f",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Duthorian Rall",
+  "quest": null,
+  "en": "You will be tested many times by the darkness that surrounds our lands, Adventurer. But to ensure you are always prepared, we will often ask tasks of you so you are at the height of your own power.\n\nGo with the Light, and remain virtuous.",
+  "files": [
+   "gossip/e4250e1c3c43688f9b3d2e1a364a3df8"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "2bfa0bef9569",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Einris Brightspear",
+  "quest": null,
+  "en": "Look at the wisdom and knowledge of the beast, and you will see yourself. Observe as the owl does, learn cleverness from the sabercat, embody the mighty spirit of the wolf.",
+  "files": [
+   "gossip/e819ff41951b65f23ee4325d791c4227"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "ddfd6b69e07b",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Elaine Trias",
+  "quest": null,
+  "en": "Best deals in all of Stormwind my friend, won't find any better. Now, what can I help you with?",
+  "files": [
+   "gossip/930e45368ed7dcac8e799df8fa5bc730"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "906cda6385b1",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Elaine Trias",
+  "quest": null,
+  "en": "Just browsing my wares or is there something specific I can help you find today?",
+  "files": [
+   "gossip/b27e9e38daaae8b0ac9e5d7775fe5a70"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "5fd38876bb33",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Hammershout",
+  "quest": null,
+  "en": "Elder Stormbrow is most likely at the village of Goldshire in Elwynn Forest.",
+  "files": [
+   "gossip/0ef3a4daeaac64acf2ca98fcf3350b69"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "79a4c71c16b9",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Eldraeith",
+  "quest": null,
+  "en": "Made by the finest craftsmen in all of Teldrassil, carried by hand from Kalimdor to Azeroth as a sign of the growing alliance between the people of the Great Tree and the humans of this land. If there is anything you require, you have but to ask.",
+  "files": [
+   "gossip/f819d1b4e7f5fee1a4f4efd60581493e"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "729fa5f76271",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elfarran",
+  "quest": null,
+  "en": "Hail to thee adventurer. Do you wish me to aid you in your journey to Warsong Gulch?",
+  "files": [
+   "gossip/7b7d94a359c45dac8bad00353884b2f8"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "bfe437ae0719",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Elfarran",
+  "quest": null,
+  "en": "I am sorry adventurer, but you are not seasoned enough yet to enter Warsong Gulch.",
+  "files": [
+   "gossip/c294a5b02c1f5243fbd10a47517dfdfb"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "16f46d0b8b74",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elsharin",
+  "quest": null,
+  "en": "Well met, adventurer. My advice to you is this: As you travel the world, be wary of magic for it will burn the untrained.",
+  "files": [
+   "gossip/4a0457a5a91ff673d65f9f260b812f6e"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "eae66af96384",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elsharin",
+  "quest": null,
+  "en": "Greetings mage. Shall I provide you with further insight into the world of magic?",
+  "files": [
+   "gossip/bd39d1eccce03226970eea3678df1f48"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "9bc5e941a665",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Felicia Gump",
+  "quest": null,
+  "en": "We are the only supplier of healthy flowers in all of Stormwind. We provide beautiful blooms for any occasion.",
+  "files": [
+   "gossip/529a618c35100390b17d2f2740d430aa"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "a992eac25461",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Field Marshal Afrasiabi",
+  "quest": null,
+  "en": "Move along, citizen. There is nothing to see here.",
+  "files": [
+   "gossip/44f7bf8eff87d3a469dce6889fc22ef9"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "7b44dc4d64b3",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Field Marshal Afrasiabi",
+  "quest": null,
+  "en": "The Lord of Blackrock hangs from the arches!",
+  "files": [
+   "gossip/aa0728703583d7c72b23dd2cc8c351cc"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "be2e4940a671",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gakin the Darkbinder",
+  "quest": null,
+  "en": "Yes, adventurer?",
+  "files": [
+   "gossip/81a3bc97669edf115176b3a8458cf81a"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "54b483d6bb3b",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gelman Stonehand",
+  "quest": null,
+  "en": "Yeah? Ye interrupted me, so ye better have a blasted good reason to do so.",
+  "files": [
+   "gossip/7baf64adcb2bac12353e20b721380581"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "89632a776caa",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gelman Stonehand",
+  "quest": null,
+  "en": "I came from Ironforge to help out with the rebuilding effort here. If I can teach enough of ye my skills then maybe I can leave it to ye and take myself back home.",
+  "files": [
+   "gossip/ecfb26a965f871793f254dd052d3a1af"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "e834fe8875c5",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Georgio Bolero",
+  "quest": null,
+  "en": "Yes, I've been running this shop for some time now. Business has been pretty good lately. A lot of new adventurers coming through...",
+  "files": [
+   "gossip/191c0730f0b850af3afce8e3beb43593"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "3d80fe5ace0a",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Georgio Bolero",
+  "quest": null,
+  "en": "There's only one person I know of who is more learned in the art of tailoring than myself. Last I heard he could be found in Theramore Isle. He is the person you should seek.",
+  "files": [
+   "gossip/9485e8cef81326a7a0116e50049a19ba"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "7f80e2a61655",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Georgio Bolero",
+  "quest": null,
+  "en": "You'll need more training before I can share my knowledge with you, I'm afraid.",
+  "files": [
+   "gossip/b35756d26207fcb3c0a6292cafad396c"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "1b861bda1e8f",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Georgio Bolero",
+  "quest": null,
+  "en": "Good! I can tell that my efforts will not be wasted!",
+  "files": [
+   "gossip/ddcbbdc4dca9d1bfc3f2a254cfd1dc1a"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "796d83334fd8",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gregory Ardus",
+  "quest": null,
+  "en": "May the light guide your path and aid you in your journeys. If you need any assistance browsing, I will be right over here.",
+  "files": [
+   "gossip/7de891da4a4a6e829ff423333d14b8c9"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "4940f3628b70",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grimand Elmore",
+  "quest": null,
+  "en": "If you've come looking for the finest craftsmanship on this or any other continent in the world, then you've come to the right place!\n\nGrimand Elmore, at your service!",
+  "files": [
+   "gossip/42e10d7c6d1c5dff59458f9ee1073107"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "45c88ce38643",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "High Sorcerer Andromath",
+  "quest": null,
+  "en": "The flow of magic is unpredictable and chaotic, of late. What, I wonder, could be the cause of this?",
+  "files": [
+   "gossip/4c13e8547dd9fc1fadddb1b676d2973d"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "a3b962033e30",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Bolvar Fordragon",
+  "quest": null,
+  "en": "I am Bolvar Fordragon, Highlord of Stormwind.",
+  "files": [
+   "gossip/293a4dc5dd754d267a537642f859d442"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "eae863712c7f",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Bolvar Fordragon",
+  "quest": null,
+  "en": "Welcome to Stomwind Keep, citizen.",
+  "files": [
+   "gossip/a70fe46a4f577c40b165475ebe449c92"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "0809e2b74cdd",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Bolvar, Magni, or Tyrande.",
+  "files": [
+   "gossip/0838f3fe0e3c17a16a7ff7d504eec929"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "157733b96ee3",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "This sun-blasted city is home to the Sandfury trolls, known for their particular ruthlessness and dark mysticism. Troll legends tell of a powerful sword called Sul'thraze the Lasher, a weapon capable of instilling fear and weakness in even the most formidable of foes. Long ago, the weapon was split in half. However, rumors have circulated that the two halves may be found somewhere within Zul'Farrak's walls.",
+  "files": [
+   "gossip/0f7f53045dc845e1ab759203cc598d30"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "27d7fe03ecf5",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "During the War of the Ancients, the demigod Agamaggan came forth to battle the Burning Legion. The colossal boar was defeated, and over time in the areas where his blood fell, massive thorn-ridden vines sprouted to life. The quilboar came to occupy these regions and hold them sacred. The heart of these massive thorn-colonies is the Razorfen. Razorfen Kraul was conquered by the crone, Charlga Razorflank, who some speculate has been negotiating with agents of the Scourge for some insidious purpose.",
+  "files": [
+   "gossip/13d77ffe00e095b4ad42eef5a8aaebfb"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "a0c870e4320b",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Shadowfang Keep is in southern Silverpine just north of Pyrewood Village.",
+  "files": [
+   "gossip/17d13be0366794572061fb3fbb409ee6"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "6c79d2cfd7b6",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Gnomeregan can be found in western Dun Morogh.",
+  "files": [
+   "gossip/1e16c8ae0545b101ebc5ad4d9c69c248"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "410a5b94f872",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Blackfathom Deeps can be found at the north end of Zoram Strand along the coast of Ashenvale.",
+  "files": [
+   "gossip/2d41c6e84da0f60aa520a4acc8919f87"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "123910d2afd4",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "The monastery was once a center for learning and enlightenment. With the rise of the undead Scourge during the Third War, the peaceful Monastery was converted into a stronghold of the fanatical Scarlet Crusade. The Crusaders are intolerant of all non-human races, regardless of alliance or affiliation. They believe that any and all outsiders are potential carriers of the undead plague - and must be destroyed.",
+  "files": [
+   "gossip/2da51ca0be53ce695776bbe3e3eea8c7"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "83508260d18c",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "The mighty fortress carved within the fiery bowels of Blackrock Mountain was held by the sinister Dark Iron dwarves for centuries until Nefarian - the cunning son of the dragon, Deathwing - took control of the upper Spire and made war on the dwarves' holdings in the mountain's volcanic depths. Realizing that the dwarves were led by the mighty fire elemental, Ragnaros - Nefarian vowed to crush his enemies and claim the whole of Blackrock mountain for himself.",
+  "files": [
+   "gossip/3644fa36f35ecdc5947046c71b54837a"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "e3b1536cb69d",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Uldaman can be found at the very northern end of the Badlands.",
+  "files": [
+   "gossip/4324821d63a3f73937dd5abffe6fdf7f"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "fd2d77ffaff6",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "The School for Necromancy known as Scholomance is on the ruined island of Caer Darrow in the Western Plaguelands.",
+  "files": [
+   "gossip/4414ebedf67147d4801e58071b11c237"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "ef547c1af510",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Maraudon is one of the most sacred sites within Desolace. The great temple/cavern is the burial place of Zaetar, one of two immortal sons born to the demigod, Cenarius. Legend holds that Zaetar and the earth elemental princess, Theradras, sired the misbegotten centaur race. It is said that upon their emergence, the barbaric centaur turned on their father and killed him. Some believe that Theradras, in her grief, trapped Zaetar's spirit within the winding cavern - used its energies for some malign purpose.",
+  "files": [
+   "gossip/44f65d16974643e3b29f727a67787ad0"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "2a9759c17d4a",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "The Scholomance is housed in crypts beneath the Caer Darrow keep. Once owned by the noble Barov family, the keep fell to ruin after the Second War. As the wizard Kel'Thuzad enlisted followers for his Cult of the Damned, he often promised immortality for those who served his Lich King. The Barovs fell to his influence and donated their keep, but the cultists killed the family and turned the crypts into a school of necromancy. Though Kel'Thuzad no longer resides there, cultists and instructors still remain.",
+  "files": [
+   "gossip/44fdd52098e4ecaeddc946e101d7c60f"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "bc2dcd2de99a",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Razorfen Kraul can be found on the very southern tip of the Barrens on the west side of the road.",
+  "files": [
+   "gossip/4855c8dab63ff7e92429d6df87b7b3cd"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "84ad26c68038",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Ragefire Chasm consists of a network of volcanic caverns below the orcs' new capital city of Orgrimmar. Recently, rumors have spread that a cult loyal to the demonic Shadow Council has taken up residence within the Chasm's fiery depths. This cult, known as the Burning Blade, threatens the very sovereignty of Durotar. Many believe that the orc Warchief Thrall is aware of the Blade's existence and has chosen not to destroy it in the hopes that its members might lead him straight to the Shadow Council.",
+  "files": [
+   "gossip/4a0636d96305a16097c01ed6971f7971"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "1e1659d5dbc5",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Once the jewel of northern Lordaeron, the city of Stratholme is where Prince Arthas turned against his mentor, Uther Lightbringer, and slaughtered hundreds of his own subjects who were believed to have contracted the plague of undeath. Arthas' surrender to the Lich King soon followed. The broken city is now inhabited by the undead Scourge - led by the powerful lich, Kel'Thuzad, and a contingent of Scarlet Crusaders, led by Grand Crusader Dathrohan. The two sides are locked in constant, violent combat.",
+  "files": [
+   "gossip/4bcf2a35fd98e48b3cd346ec97dccde8"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "5b75fb5f8ed2",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Recently, a night elf druid named Naralex discovered a network of underground caverns within the heart of the Barrens. Believing he could use the caverns' springs to restore lushness to the Barrens, the druid began siphoning the energies of the fabled Emerald Dream. His vision somehow became a nightmare, however, and soon the Wailing Caverns changed into a den of vicious, deadly predators. It is said that Naralex still resides somewhere inside the labyrinth, trapped beyond the edges of the Emerald Dream.",
+  "files": [
+   "gossip/4d1835c423b0ee4a6773a1481ea2d03e"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "093f39dfa7b6",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "No, I'm not, but lots of others are looking for love. You should buy my love tokens, put on some cologne or perfume, and then pass them around!",
+  "files": [
+   "gossip/54899ff43d9fa3680bd5231fd54eae44"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "bc013b2621b6",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "The ruins of Zul'Farrak are located in the northwestern corner of the Tanaris Desert.",
+  "files": [
+   "gossip/5521f2e5d2e37d7012ea87b75badcb01"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "753fac33bace",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "The Wailing Caverns has its entrance at the Lushwater Oasis southwest of Crossroads in the Barrens.",
+  "files": [
+   "gossip/58d9f5adb0c15d9e359abb8b40a54a91"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "e422e2e94bd4",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Situated along the Zoram Strand of Ashenvale, Blackfathom Deeps was once a glorious temple dedicated to the night elves' moon-goddess Elune. However, the great Sundering shattered the temple - sinking it beneath the waves of the Veiled Sea. There it remained untouched - until, drawn by its ancient power - the naga and satyr emerged to plumb its secrets. Legends hold that the ancient beast, Aku'mai, has taken up residence within the temple's ruins.",
+  "files": [
+   "gossip/639f5e4137099522e1302487ff27f679"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "d44001857787",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Located in Dun Morogh, Gnomeregan has been the gnomes' capital city for generations, though it was recently infested by mutant troggs. In a desperate attempt to retaliate, High Tinker Mekkatorque ordered the emergency venting of the city's radioactive waste tanks. Though the troggs became irradiated, their siege continued unabated and the gnomes were forced to seek refuge in the dwarven city of Ironforge, where the High Tinker now enlists brave souls to help his people reclaim their beloved city.",
+  "files": [
+   "gossip/6cc5772934f51d4bcf44e66f9cb19266"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "3d0a6ad6f637",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "The Sunken Temple can be found in the center of a great lake in eastern Swamp of Sorrows.",
+  "files": [
+   "gossip/75ed2903e0af8abe0c91025f4d1a631e"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "fe2905f6d967",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Blackrock Mountain lies between Searing Gorge in the north and Burning Steppes in the south.",
+  "files": [
+   "gossip/7beb3ee244d9c85c277537d4ba4a2fe1"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "b9925bf014a3",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Over a thousand years ago a group of troll priests known as the Atal'ai attempted to bring back an ancient blood god named Hakkar the Soulflayer. After the resulting civil war the priests were defeated and exiled to the Swamp of Sorrows. There they erected a temple to Hakkar to prepare for his arrival into the physical world. The dragon Aspect Ysera soon learned of the Atal'ai's plans and smashed the temple beneath the marshes. To this day, the temple's ruins are guarded by the mighty green dragons.",
+  "files": [
+   "gossip/7dc247370c0f46388922e4ad2824f973"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "d308750cf9ef",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "The ruins of Dire Maul stand in central Ferelas.",
+  "files": [
+   "gossip/863a0466292f35423e25fb6b1e18e872"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "342d5d32c9ef",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "The Stormwind Stockades are found near the mage quarter in Stormwind.",
+  "files": [
+   "gossip/8b063ee787233090be02c8d7fc8e58a7"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "04f1e76941db",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "If you put on cologne or perfume, then you'll see who is amorous. Those are the ones who accept love tokens... and offer a gift in return.\n\nBut remember: to give someone a love token, you have to smell just right! Men like the scent of perfume, while women prefer cologne.",
+  "files": [
+   "gossip/8e4dcb74091e2e615d506f3ec7d147ca"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "1f454af5cc39",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Are you interested in exploring one of these dungeons?",
+  "files": [
+   "gossip/9211a5a83384bc6bf667f9e87661f2b5"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "ae747105eea2",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Built twelve thousand years ago by a covert sect of night elf sorcerers, the ancient city of Eldre'Thalas was used to protect Queen Azshara's most prized arcane secrets. Though it was ravaged by the Great Sundering of the world, much of the wondrous city still stands as the imposing Dire Maul. The ruins' three distinct districts have been overrun by all manner of creatures - especially the spectral highborne, foul satyr and brutish ogres.",
+  "files": [
+   "gossip/97a393e1ef12dc1fe4a4b55e63c2c620"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "d14499d9838a",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Cairne, Sylvanas and Thrall.",
+  "files": [
+   "gossip/9f470e7a9c62fa04faeb58fd3b1d6de9"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "9d2fd6467489",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "The Stockades are a high-security prison complex, hidden beneath the canal district of Stormwind city. Presided over by Warden Thelwater, the Stockades are home to petty crooks, political insurgents, murderers and a score of the most dangerous criminals in the land. Recently, a prisoner-led revolt has resulted in a state of pandemonium within the Stockades - where the guards have been driven out and the convicts roam free.",
+  "files": [
+   "gossip/9f8d7c84b3cbfc322f53a0a242de804e"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "ca063a7a3b24",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Uldaman is an ancient Titan vault that has laid buried within the earth since the world's creation. Dwarven excavations of the city have recently released the Titans' first failed creations: the troggs. Legends say that when the Titans deemed the trogg experiment a failure they tried again, resulting in the creation of the dwarven race. These secrets are recorded on the fabled Discs of Norgannon - massive artifacts that lie at the bottom of the ancient city, protected by giant constructs of living stone.",
+  "files": [
+   "gossip/a25c5d7842af31618a063b3d3ce15fed"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "e3d5923560f9",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Razorfen Downs can be found on the very southern tip of the Barrens on the east side of the road.",
+  "files": [
+   "gossip/ae45cd449d9b601c1faa2ad7d470e04a"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "52f63f6f923e",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Crafted from the same vines as Razorfen Kraul, Razorfen Downs is the traditional capital city of the quilboar race. The sprawling, thorn-ridden labyrinth houses a veritable army of loyal quilboar as well as their high priests - the Death's Head tribe. Recently, however, a looming shadow has fallen over the crude den. Agents of the undead Scourge - led by the lich, Amnennar the Coldbringer - have taken control over the quilboar race and turned the maze of thorns into a bastion of undead might.",
+  "files": [
+   "gossip/ae6bac71d95fa9cc576583cb12b00b0a"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "1095b8fb86c8",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Maraudon is located in the middle of the western coast of Desolace, in the Valley of Spears.",
+  "files": [
+   "gossip/b32b2b77a0839ff8c1415be4d2623dd9"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "08a1c73a030b",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Frustrated by the Dalaran wizards' lack of progress against the undead during the Third War, the Archmage Arugal elected to summon the extra-dimensional worgen to bolster his side's diminishing ranks. The wolf-men slaughtered the Scourge, then quickly turned on the wizards themselves and laid siege to the keep of the noble, Baron Silverlaine. The fort quickly fell into shadow and ruin. Driven mad with guilt, Arugal adopted the worgen as his children and retreated to the newly dubbed 'Shadowfang Keep'.",
+  "files": [
+   "gossip/b69ededa6dbdfe26a15fda5121e90a20"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "9d11c63d28c8",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Ragefire Chasm can be found beneath the Shadow Cleft in the center of Orgrimmar.",
+  "files": [
+   "gossip/b960d46bc6e1afd8a8048e75631efeb5"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "b7c141906250",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "The Deadmines can be found beneath Moonbrook in the south of Westfall.",
+  "files": [
+   "gossip/cce75935af7718f82fcb4c3d13f23020"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "43f5e8bb07a3",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Love tokens are small messages of affection you can give to amorous town and city folk. Such people will reward you with a gift of adoration.\n\nOr, if you are already adored by another, then at the least they'll give you a gift of friendship.",
+  "files": [
+   "gossip/cd40129110d4c4917a537fef57180329"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "f792a8c6b634",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "The ruined city of Stratholme lies in the Eastern Plaguelands to the north of the Plaguewood.",
+  "files": [
+   "gossip/d9516bdeb534c80940a3be1f4600bf04"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "7e05771a7cb2",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Welcome to my Inn, weary traveler. What can I do for you?",
+  "files": [
+   "gossip/db570f1f51f6fd3b1a42e5953bafd049"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "56265dded566",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Once the greatest gold production center in the human lands, the Dead Mines are now inhabited by the Defias Brotherhood, who have turned the dark tunnels into their private sanctum. It is rumored that the thieves have conscripted the clever goblins to help them build something terrible at the bottom of the mines - but what that may be is still uncertain. Rumor has it that the way into the Deadmines lies through the quiet, unassuming village of Moonbrook.",
+  "files": [
+   "gossip/e118425d7cca455fae7064446900535b"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "961d8efc3238",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Once the capital city of the Dark Iron dwarves, this volcanic labyrinth now serves as the seat of power for Ragnaros the Firelord. Ragnaros has uncovered the secret to creating life from stone and plans to build an army of unstoppable golems to aid him in conquering the whole of Blackrock Mountain. Obsessed with defeating Nefarian and his draconic minions, Ragnaros will go to any extreme to achieve final victory.",
+  "files": [
+   "gossip/e4835262a6e71a36692d90aedbb66c42"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "492f4f1da0a5",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Janene",
+  "quest": null,
+  "en": "Scarlet Monastery lies in the hills northeast of Tirisfal Glades.",
+  "files": [
+   "gossip/fe604977d24d31743e5481d5dcda2e88"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "c13f196c5d73",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Jalane Ayrole",
+  "quest": null,
+  "en": "Between the light and the dark, there is shadow... and those shadows have powers you have yet to see.",
+  "files": [
+   "gossip/b004638e71ea2dd674f8a6129b70bb5d"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "1d54dfb343d4",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Jarel Moor",
+  "quest": null,
+  "en": "Take my advice, don't sit close to the shadows.",
+  "files": [
+   "gossip/f74e7d5a245870415207560edfabf06d"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "33632f5d8869",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Jasper Fel",
+  "quest": null,
+  "en": "Speak quietly and with great care, the wrong word in these parts could get your throat cut. Now, what is it you need from me?",
+  "files": [
+   "gossip/cd4f537e512124cae61798baa751f6f5"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "064b57ff02a3",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Jennea Cannon",
+  "quest": null,
+  "en": "Greetings mage. Shall I provide you with further insight into the world of magic?",
+  "files": [
+   "gossip/385f571d2bb437e712de5a8637774ac6"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "50e8e1a71787",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Jennea Cannon",
+  "quest": null,
+  "en": "Well met, adventurer. My advice to you is this: As you travel the world, be wary of magic for it will burn the untrained.",
+  "files": [
+   "gossip/99ae39f09db2040d0e2e3bcddb52b4b7"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "b1c0d5a3615c",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Joachim Brenlow",
+  "quest": null,
+  "en": "Welcome to the Blue Recluse, where the magically inclined gather to blow off steam. Though not literally of course. What can I get for you sir?",
+  "files": [
+   "gossip/m-386f37176e6f7b06d34487928a573d23"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "8db7d9fae086",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "John Burnside",
+  "quest": null,
+  "en": "No one's ever stolen anything out of here. Not in the whole history of... the whole history!",
+  "files": [
+   "gossip/dcd77e7267840142a221c406ad8d42b0"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "f53fa028425e",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "John Burnside",
+  "quest": null,
+  "en": "Welcome to the Bank of Stormwind. We offer financial accounts and safety deposit boxes for valuable items. Do you already have an account with us sir?",
+  "files": [
+   "gossip/m-884e826914eac49c2ac85af2e236b022"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "f62e8dcc2a3e",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Kaita Deepforge",
+  "quest": null,
+  "en": "Don't let the humans in the Bazaar fool ye lad, with the subway those gnomes built it's easier than ye might think to transport goods from Ironforge. If they try to tack on import fees just tell them yer gonna buy yer gear from me.",
+  "files": [
+   "gossip/m-8ee2a69ee63c41a11aeca4da11d55e13"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "e49209597db6",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Katherine the Pure",
+  "quest": null,
+  "en": "May the Light protect you this day.",
+  "files": [
+   "gossip/dc28bc0a4d37e6ffcda4039181cfd698"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "1fe4fff36879",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kathrum Axehand",
+  "quest": null,
+  "en": "Don't let the humans in the Bazaar fool ye lad, with the subway those gnomes built it's easier than ye might think to transport goods from Ironforge. If they try to tack on import fees just tell them yer gonna buy yer gear from me.",
+  "files": [
+   "gossip/m-5fa2b9d7e0e76cd011e8acc323829e46"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "bac619c7ce40",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Lady Hoteshem",
+  "quest": null,
+  "en": "I've been expecting you adventurer. Are you ready to assist us in Arathi Basin?",
+  "files": [
+   "gossip/b727ba44e324145d664261f3c8ce9cc0"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "96036cec2cdd",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Lady Hoteshem",
+  "quest": null,
+  "en": "I am sorry adventurer, but you need to be more powerful before I can allow you to enter Arathi Basin.",
+  "files": [
+   "gossip/c3b7867dcd5ddb0aafe672da55946ea2"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "f7dec2f90833",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Lady Katrana Prestor",
+  "quest": null,
+  "en": "You seek to lower our global defenses in order to appease a paranoid magistrate and an encampment of riff-raff that are most probably suffering from heat stroke.",
+  "files": [
+   "gossip/7280c9368c45e4d35c89e8e655616ae9"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "01126628ba40",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Lady Katrana Prestor",
+  "quest": null,
+  "en": "I was standing right next to you, imbecile. I know what you seek.",
+  "files": [
+   "gossip/a0f1f3ff9bb1cc58aeedfa5e124c36c4"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "bfdda3631cb2",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Lady Katrana Prestor",
+  "quest": null,
+  "en": "Of course not, dear boy. You 'adventurer' types are often victims of circumstance; subject to the political drama which tends to unfold between citizenry and royalty.\n\nMy advice to you, then, is to seek out something else, more specifically: A new career.\n\nThis world has enough heroes.",
+  "files": [
+   "gossip/m-9481c69660c1c7b56c5a87f0ba594b4b"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "45da6003d099",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Larimaine Purdue",
+  "quest": null,
+  "en": "I do not believe you possess the mental acuity to grasp the nature of portal magic.",
+  "files": [
+   "gossip/6169b63082c1481ee1b292a6bd277450"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "3f852b0498bd",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Larimaine Purdue",
+  "quest": null,
+  "en": "As a mage, you are one of a select group that can conjure a portal to transport you back to this very place. I can teach you if you are ready.",
+  "files": [
+   "gossip/c0b64230899c1f169032e2124bab7479"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "ea4f04494047",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lawrence Schneider",
+  "quest": null,
+  "en": "Hmm... the things you need to learn are a little above my head. Have a talk with Sellandus over at Larson's Clothiers just up the path to the right. He taught me everything I know!",
+  "files": [
+   "gossip/35b7486429188df700dbf11b3bbcbd82"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "79efc484c87a",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lawrence Schneider",
+  "quest": null,
+  "en": "Very well, let your journey of tailoring begin.",
+  "files": [
+   "gossip/c5f30755100cfd7f05cda25a366d0602"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "018564c0c525",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lawrence Schneider",
+  "quest": null,
+  "en": "Life is like a carefully woven tapestry.",
+  "files": [
+   "gossip/e70d13a96c407b1d174c59f1f077a835"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "9e4bbcc711ae",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lieutenant Orrin",
+  "quest": null,
+  "en": "Good day to you, citizen. Have you come to aid us against the Scourge?",
+  "files": [
+   "gossip/81d0d4c49d0553f7d1e9741559681179"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "beb261dfe16d",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lilliam Sparkspindle",
+  "quest": null,
+  "en": "You can learn from me in time... but not yet! Why don't you start out by talking to Sprite Jumpsprocket to my right here. You can check in with me after you've gotten your feet wet!",
+  "files": [
+   "gossip/5aab1597c28681a02a024175d48768ce"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "1aa13cd3c790",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lilliam Sparkspindle",
+  "quest": null,
+  "en": "You certainly did not disappoint! Now that we've gotten that out of the way, your instruction may begin!",
+  "files": [
+   "gossip/6a74e89996624c797ad847ab32ebf1f8"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "120dd4f895b4",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lilliam Sparkspindle",
+  "quest": null,
+  "en": "Well, you're just zooming right along! I can't teach you anything you don't already know, but Springspindle Fizzlegear sure can! You can find Springspindle in Ironforge. Good luck!",
+  "files": [
+   "gossip/6b140e4603fdd16e06d3034228aceaa4"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "1ef2de954a67",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lilliam Sparkspindle",
+  "quest": null,
+  "en": "Let's see... fourteen plus seven, carry the two... oh, yes?",
+  "files": [
+   "gossip/fd0b861b10455c71be1e923c485a65a9"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "bdcab301cb01",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lilyssia Nightbreeze",
+  "quest": null,
+  "en": "Listen carefully, adventurer, for I have much knowledge to impart.",
+  "files": [
+   "gossip/0ead8c4b512091b1c2251831fa68e99b"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "d1454f225589",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lilyssia Nightbreeze",
+  "quest": null,
+  "en": "My teachings would be too advanced for you at this stage. If you wish to learn more of potions, speak with Tel'Athir here instead.",
+  "files": [
+   "gossip/5267bc8c8e1e686d26269a5f3ff09120"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "417cf1f0ce48",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lilyssia Nightbreeze",
+  "quest": null,
+  "en": "You are beyond my limited abilities. Seek out the night elf Ainethil in the Craftsmen's Terrace of Darnassus. She can teach you more. I only wish that I could go with you.",
+  "files": [
+   "gossip/74a70a5ebb282b79045b51aecca1ec33"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "45306d3bac7f",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lilyssia Nightbreeze",
+  "quest": null,
+  "en": "Shut inside this little house, I dream of joining the battles that rage outside the city walls. Still, duty compels me to share my knowledge with others who fight in my stead... for now.",
+  "files": [
+   "gossip/ed08741e0fa329d057d7599e24228bde"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "215f1ba288a4",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lucan Cordell",
+  "quest": null,
+  "en": "A true professional know his limitations, and I'm not ashamed to admit that your skills exceed mine. I want you to pay a visit to Kitta Firewind at the Tower of Azora. She is well-renowned, and with good reason.",
+  "files": [
+   "gossip/26d3bfbb22d8a54e39ab79db7fab0284"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "e260356540d8",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lucan Cordell",
+  "quest": null,
+  "en": "If you have what it takes, I will be happy to show you the way.",
+  "files": [
+   "gossip/442191b2cfb08109059d8086031cf4ea"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "a9d5cb80d74f",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lucan Cordell",
+  "quest": null,
+  "en": "You are not ready. Speak to Betty Quinn, she's standing by the stairs over there. Return to me when you have achieved a higher enlightenment.",
+  "files": [
+   "gossip/a4f377c48a85cd98cb6b0a714f4f8dfb"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "5612bcd3e706",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lucan Cordell",
+  "quest": null,
+  "en": "Your confidence is well-founded, traveler. Now your true education may begin!",
+  "files": [
+   "gossip/c1383f7b48e9dcb2540129e0a8e3528b"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "2ae08b90c71f",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Major Mattingly",
+  "quest": null,
+  "en": "Perhaps one day, your contributions to the Alliance will be as great as the heroes you have seen this day. Honor them, adventurer.",
+  "files": [
+   "gossip/160d134552454e27460514c6f0827eab"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "52bc8915d10f",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Major Mattingly",
+  "quest": null,
+  "en": "I live only to serve our King.",
+  "files": [
+   "gossip/9256c8087a9343192abe0385ab00858c"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "d6b819815251",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Maris Granger",
+  "quest": null,
+  "en": "I don't get too many Skinners in here looking for training, but I guess I could teach you something if you're ready.",
+  "files": [
+   "gossip/8b3a33ab013eb9665ee196f01e14baf6"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "45560f48e649",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Master Mathias Shaw",
+  "quest": null,
+  "en": "Welcome to SI:7 headquarters, adventurer.",
+  "files": [
+   "gossip/f02518f56be86de855c4a5c585841f34"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "22120a265ea5",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Master Sergeant Maclure",
+  "quest": null,
+  "en": "Well met, adventurer. I hope you are here to inquire on the Ahn'Qiraj war effort. We are going to need a great deal of assistance.\n\nThe war effort is a united effort between the Alliance and Horde to prepare for the upcoming war against the Silithid and their masters in Ahn'Qiraj. In the Military Ward of Ironforge, we are collecting all manner of goods to create our war materiel from, and these gathering tasks are what we need your help with.\n\nCan I convince you to speak with our commander about pitching in?",
+  "files": [
+   "gossip/4fb82ee12ecb71a00d7b98981a5c1a1e"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "00ad931472e6",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Milton Sheaf",
+  "quest": null,
+  "en": "You'll not find a greater cache of knowledge than in the Royal Library of Stormwind!",
+  "files": [
+   "gossip/889afbce34504c86715687e458ed7807"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "108c3cb0ba86",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Officer Maloof",
+  "quest": null,
+  "en": "Greetings, adventurer - I'm a Commendation Officer acting on behalf of Stormwind. It is my duty to assist adventurers who have received Alliance Commendation Signets.\n\nI accept signets in different quantities, but the most beneficial exchange for you is to hand in a set of ten at once. I will enter your deeds into our records when you hand in your signets. As a result, you will earn recognition from Stormwind for your duty and service.",
+  "files": [
+   "gossip/a11a7d36f03be1a27def349ef4faa820"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "52eb798ac0d3",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Olivia Burnside",
+  "quest": null,
+  "en": "No one's ever stolen anything out of here. Not in the whole history of... the whole history!",
+  "files": [
+   "gossip/8aebd1628c8cd2becdb32845edc4fbe8"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "a7eb6cd3a36d",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Olivia Burnside",
+  "quest": null,
+  "en": "Welcome to the Bank of Stormwind. We offer financial accounts and safety deposit boxes for valuable items. Do you already have an account with us sir?",
+  "files": [
+   "gossip/m-1cf62073cd912caabcc1fd6d29dd3aa6"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "f3604e686d73",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Orphan Matron Nightingale",
+  "quest": null,
+  "en": "There are costs with war, adventurer... ones often overlooked. Those costs are the orphans - children who have lost their parents to the far-too-numerous conflicts that rage across Azeroth. Those children who have no one else to turn to often come here to live until they are old enough to fend for themselves.\n\nOne week out of the year during the Spring, the Alliance takes time to give something back to these innocents. This time is called Children's Week.",
+  "files": [
+   "gossip/9452bcf77b2d46636d57c6303688913f"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "eeb28496f8e7",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Osborne the Night Man",
+  "quest": null,
+  "en": "I got something for you, adventurer. Looks important.",
+  "files": [
+   "gossip/6306d9157dde71c4fa6c0cefe5c64195"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "ddbe02f05b20",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Randal Worth",
+  "quest": null,
+  "en": "I already know a lot about style. Now it's just a matter of mastering the techniques for working with leather. Good thing Simon's a real sport about helping me learn them.",
+  "files": [
+   "gossip/1308cc62e8033d85625722f0011e1e98"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "4b537ad5ad19",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Randal Worth",
+  "quest": null,
+  "en": "There's nothing I can teach you, other than maybe a better eye for color and detail. Talk to Simon Tanner over there; he knows a lot of advanced techniques for working with leather.",
+  "files": [
+   "gossip/44f2dd6bc6a05014e239cdf105eec1d8"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "66c5d9b6c818",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Randal Worth",
+  "quest": null,
+  "en": "This outfit really brings out the blue in my eyes, don't you think? It should be obvious I have plenty of skill to go around, so I can afford to share a few of my tricks of the trade. Listen up, okay?",
+  "files": [
+   "gossip/65cbb6b9c7b22c69fa4cf09268afee79"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "3d80a3e39d52",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Rebecca Laughlin",
+  "quest": null,
+  "en": "Welcome to the Stormwind Guild Registry offices. What can I help you with today?",
+  "files": [
+   "gossip/597ed139334da6a50351437c63a259fd"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "aef230b339e8",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Reese Langston",
+  "quest": null,
+  "en": "Welcome to the Pig and Whistle! Grab a drink my friend and pull up a seat, the more the merrier!",
+  "files": [
+   "gossip/42589616848b8292a7b00119aa63bd29"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "c6ff21f30a4a",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Renato Gallina",
+  "quest": null,
+  "en": "Hey, miss. You look like a Adventurer with discerning tastes in wine. I have a favor to ask, and I think I can make you an offer you can't refuse...forget about it!",
+  "files": [
+   "gossip/f-2849e3835de3a2c6a8aa1626f6cec474",
+   "gossip/50d6567ff57f0f4d0eb858c990fe931a"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "e351fc7da698",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Renato Gallina",
+  "quest": null,
+  "en": "Hey, mister. You look like a Adventurer with discerning tastes in wine. I have a favor to ask, and I think I can make you an offer you can't refuse...forget about it!",
+  "files": [
+   "gossip/m-2849e3835de3a2c6a8aa1626f6cec474"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "ff687195b96c",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Renzik \"The Shiv\"",
+  "quest": null,
+  "en": "Mathias found me left for dead by the Venture Co. in the Barrens. Had it not been for him, I'd have been prowler fodder.",
+  "files": [
+   "gossip/a6425498ba645fd614f504ecd7f12343"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "7ceedced3fa2",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Roberto Pupellyverbos",
+  "quest": null,
+  "en": "Best deals in all of Stormwind my friend, won't find any better. Now, what can I help you with?",
+  "files": [
+   "gossip/0a50227fd4a79a221c5e74147031f06e"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "85fe20ad3bd8",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Roberto Pupellyverbos",
+  "quest": null,
+  "en": "Just browsing my wares or is there something specific I can help you find today?",
+  "files": [
+   "gossip/a86de99ac7614f683ab7eab24b0a0b93"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "fcb42b2bb57d",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Royal Factor Bathrilor",
+  "quest": null,
+  "en": "Welcome to Stormwind! I am one of the city's officers, aiding the citizenry of the city through our census bureau. If you are in need of locating someone specific, then I might be able to assist you. Through arcane methods and sharpened mental discipline, I am able to access these records.\n\nIf you have business with me, then please proceed!",
+  "files": [
+   "gossip/8954229236666e51889cd5c64bc6eeb5"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "5f3c6853e237",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Sellandus",
+  "quest": null,
+  "en": "Good day to you.",
+  "files": [
+   "gossip/488edc59d5f675d7b021f97325a0d71b"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "8a3887599d36",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Shaina Fuller",
+  "quest": null,
+  "en": "Oh, a fellow Physician. I would be glad to teach you anything that would aid your journeys.",
+  "files": [
+   "gossip/5871df482a5322411e3250bb05234252"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "55772171dff1",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Shaina Fuller",
+  "quest": null,
+  "en": "Yes my son? What can I assist you with?",
+  "files": [
+   "gossip/m-a9c31ad2585736a1fb03d2ae8ab3eacd"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "798a104d36b6",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Shoni the Shilent",
+  "quest": null,
+  "en": "For Gnomeregan!",
+  "files": [
+   "gossip/2d90527c75b16a7ab42a3b4b1b6a4876"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "96846d22591d",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Shylamiir",
+  "quest": null,
+  "en": "I hope that your interruption is for a good cause, I was in the middle of some important work.",
+  "files": [
+   "gossip/1350458c0cd4617f19601567a9a4d9f2",
+   "gossip/f203e1b5ce93c4ff82e3d2176bc2b7df"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "c6494d4f3d94",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Shylamiir",
+  "quest": null,
+  "en": "Another Herbalist, hmm. I doubt your skill is as great as my own so perhaps I can train you in a few proper techniques.",
+  "files": [
+   "gossip/e5d7ea0ee1b3b55a8e19cbb4d7d4bf32",
+   "gossip/5e3106d656d1e19c87aab693c964dd04"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "81a74bcef151",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Silverwing Emissary",
+  "quest": null,
+  "en": "The seasons turn for all in due time, but you are still in the springtime of your life. Please return to us later, adventurer, when you have experienced more.",
+  "files": [
+   "gossip/142259b01ef398530e6a98ed1a7c183f"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "4d1734bf260a",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Silverwing Emissary",
+  "quest": null,
+  "en": "Adventurer, we are not ashamed to say that we are in need of all of the assistance that we can get in our fight at Warsong Gulch. But there is greater honor to be had now than at any time in the past if you so choose to lend us your skills. As well, the Silverwing Sentinels are sure to look more favorably upon your efforts on our behalf. Will you join the battle?",
+  "files": [
+   "gossip/8c59b436d4f8db5f6a0c712f93e98b11"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "2592f6b564d1",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Simon Tanner",
+  "quest": null,
+  "en": "Come back to me when you've had more training. Randal Worth over there can help you with that.",
+  "files": [
+   "gossip/0292cf669448ab9bbd0999947fd38746"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "ca4fd7bb7aae",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Simon Tanner",
+  "quest": null,
+  "en": "Randal's a bit of a dandy, but he's dependable, which is more than I can say for a lot of the students I take on. Still, I guess I can't blame them for wanting a bit of adventure.",
+  "files": [
+   "gossip/571fe1d462c23f1767d91712cbca99b5"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "20a89dea309c",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Simon Tanner",
+  "quest": null,
+  "en": "Sorry, but you've reached the limit of what I can teach. If you want to learn more, go see Telonis in the Craftsmen's Terrace of Darnassus. He's pretty talented, so I hear.",
+  "files": [
+   "gossip/7cdf7286e6f367866bc1a6f3988b6d24"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "59a838ac927c",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Simon Tanner",
+  "quest": null,
+  "en": "Hmm, I guess I can take on another student. Well, don't just stand there. Tell me what you're looking to learn.",
+  "files": [
+   "gossip/b7d5ec884a804403ab3448289d7db1ac"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "3d5a82e6f7f4",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Sloan McCoy",
+  "quest": null,
+  "en": "Speak quietly and with great care, the wrong word in these parts could get your throat cut. Now, what is it you need from me?",
+  "files": [
+   "gossip/abc687be48ac43361d84d47b6ea7f341"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "cd2d27460ca3",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Spackle Thornberry",
+  "quest": null,
+  "en": "You're no warlock and I've no time for you. Begone!",
+  "files": [
+   "gossip/a008b2d4b88f3786b6d85d414649daf0"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "8faf7c000ce8",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Spackle Thornberry",
+  "quest": null,
+  "en": "Want to make your demons more powerful? It'll cost you, but you've come to the right place.",
+  "files": [
+   "gossip/fd312c0a6c2a53fe94ce6efbfec8fdf0"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "a472cd30cdcf",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Sprite Jumpsprocket",
+  "quest": null,
+  "en": "Ah, what a beautiful day to blow something up!",
+  "files": [
+   "gossip/33cde2d2626cb83407a65d6383443dda"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "7c3ece03b04a",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Sprite Jumpsprocket",
+  "quest": null,
+  "en": "This kind of work isn't for the faint of heart. I have an uncle who lost a hand! Poor old Stumpy... anyway, if you're still interested I might be able to show you a few things.",
+  "files": [
+   "gossip/484e047646ecf6f5c9b180d85bf2aa4a"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "4e68dc2db87f",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Sprite Jumpsprocket",
+  "quest": null,
+  "en": "You need to start learning things that are beyond my expertise! Talk to Lilliam Sparkspindle in front of the tent there. He'll set you on the right course!",
+  "files": [
+   "gossip/d5f2814d5a55821ff686f1fc3f40349f"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "fe50f5761eda",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stephen Ryback",
+  "quest": null,
+  "en": "Do I look like I have the time or energy to coddle every tourist that wanders through my door? Tell me what you need, and make it quick.",
+  "files": [
+   "gossip/ba9110b33785b226537ef9b18e3923a1"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "e177ab391059",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind City Guard",
+  "quest": null,
+  "en": "You're into leather, eh? Sounds like you should talk to Simon Tanner over in Old Town. He runs a shop there called the Protective Hide.",
+  "files": [
+   "gossip/02b8fd48e20c73453938adc9f4995c2c"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "d12f1252597a",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind City Guard",
+  "quest": null,
+  "en": "Oh, looking for some arcane enlightenment are you? No place better then then Wizard's Sanctum in the Mage Quarter.",
+  "files": [
+   "gossip/0493aff58b480f500d524b265550d281"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "94bd5d643be2",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind City Guard",
+  "quest": null,
+  "en": "Stormwind's resident engineer trainer is an ingenious gnome by the name of Lilliam Sparkspindle. He can be found in the back of the Dwarven District.",
+  "files": [
+   "gossip/05e90b70ee82c6ab15e68fec597454c2"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "70497ef139f7",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind City Guard",
+  "quest": null,
+  "en": "What do you need directions to?",
+  "files": [
+   "gossip/2402ec9453525b4ec16e1180457c7cfb"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "2e5bdbc5beff",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind City Guard",
+  "quest": null,
+  "en": "That bum Leland... all he does is sit out on the dock outside the Trade District and fish all day. I sure hope he's good at it for all the time he spends fishing. If you want to learn, why don't you go talk to him?",
+  "files": [
+   "gossip/2472ef40c4054390e47d26a2790dcef8"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "00f729eceab4",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind City Guard",
+  "quest": null,
+  "en": "Gryphons, eh? Never really cared for the beasts but to each their own.\n\nYou can find Dungar Longdrink on the rampart in the Trade District.",
+  "files": [
+   "gossip/258744fe85450f544093d5fd17856341"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "a653a958ff6e",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind City Guard",
+  "quest": null,
+  "en": "Well, you can find Theridan or Maldryn by the moonwell in the Park. Just head to the western area of Stormwind, north of the Mage District, but west of the Cathedral Square.",
+  "files": [
+   "gossip/2c1e9110dff51f5d1d491b13523c5989"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "0cab0bc15d34",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind City Guard",
+  "quest": null,
+  "en": "If you are looking to become a mighty paladin, there is no better teacher then Lord Grayson Shadowbreaker. He can be found in the Cathedral of Light in Cathedral Square.",
+  "files": [
+   "gossip/2d22a7afddcc8d88b9c1353ae28daf09"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "f8c56f21bf30",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind City Guard",
+  "quest": null,
+  "en": "Woo Ping's stamina is simply astounding. Watching him practice his weapon techniques for hours on end, I felt sorry for the practice dummy afterward. I can't think of anyone better suited to train you in armed combat.",
+  "files": [
+   "gossip/312810e5deb14cd60aa19428f7f51227"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "9bbc3180dd63",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind City Guard",
+  "quest": null,
+  "en": "All of a sudden you're a 'Defender of the Alliance' are you?! Well, I suppose you'll be wanting to head to the Champions' Hall now. It's over in Old Town, but they won't let you in unless you're an officer, so you might just have to settle for talking to Officer Areyn outside. Move along now.",
+  "files": [
+   "gossip/33278f8101e800c93fc3d2385cfed699"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "9f7172b73189",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind City Guard",
+  "quest": null,
+  "en": "The magi congregate in the Wizard's Sanctum in the Mage Quarter. Quite a tower they have there. Makes our barracks look like peasant hovels.",
+  "files": [
+   "gossip/338c8fab07f57033e48217d5973c15df"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "c940953291c6",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind City Guard",
+  "quest": null,
+  "en": "You can find Tannysa standing outside Alchemy Needs in the Mage Quarter.",
+  "files": [
+   "gossip/356b1700581f2c27333ab266a26bb077"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "9a3bb77dc0a5",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind City Guard",
+  "quest": null,
+  "en": "Another entrepreneur, eh? Well, the Auction House can be found in the Trade District. Not far from the bank.",
+  "files": [
+   "gossip/3b18fc0710278c6aa12fb30a85999aaf"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "c4b8de1e38c1",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind City Guard",
+  "quest": null,
+  "en": "There's nothing quite like communing with nature... or at least that's what the night elves tell me. I'm not much for talking to flowers and trees, but I'm sure Tannysa could help you out. She's over in the Mage Quarter outside of Alchemy Needs.",
+  "files": [
+   "gossip/42747362bb8e6d2164d7e79747248058"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "c77eac0bd373",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind City Guard",
+  "quest": null,
+  "en": "There are many establishments where you can get a drink in Stormwind, but only one will let you spend the night. Head over to the Gilded Rose in the Trade District. I've heard the cost of a room is reasonable and the sheets are clean.",
+  "files": [
+   "gossip/44af32f368e03c09b89fe9f87be3875e"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "56ad7ad141f9",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind City Guard",
+  "quest": null,
+  "en": "Which battleground are you interested in?",
+  "files": [
+   "gossip/481f209702cc74fc87fe4569d25b276b"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "c7c0832864b8",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind City Guard",
+  "quest": null,
+  "en": "Laurena is the High Priestess of Stormwind. You can find her in the Catheral of Light in Cathedral Square.",
+  "files": [
+   "gossip/4a22a1b67aa8fe418d517ebb0e371796"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "27f4f9194d1a",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind City Guard",
+  "quest": null,
+  "en": "You want to talk to Osborne then. No finer teacher of the stealth arts than him in Stormwind. Look for him over in Old Town.",
+  "files": [
+   "gossip/5079ccedcf83df1e6554116dbaa337bd"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "e13f09918b07",
+  "zone": "stormwind-city-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind City Guard",
+  "quest": null,
+  "en": "Want to learn leatherworking, eh? Simon Tanner would be able to teach you. He can be found in Old Town at the Protective Hide.",
+  "files": [
+   "gossip/52ef93000b10574ffb40f6f451597e26"
+  ],
+  "uiMap": 1453
+ }
+]

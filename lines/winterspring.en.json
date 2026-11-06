@@ -1,0 +1,1408 @@
+[
+ {
+  "id": "d53130b89116",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Harlo Wigglesworth",
+  "quest": "A Little Luck",
+  "en": "We can always use a little luck, eh? A small advantage is all it takes to turn things in your favor...\n\nI happened to make the acquaintance of a rather eccentric witch doctor some time back. She made me a lucky charm... for a price. Believe me, though, it was well worth it!\n\nMaybe you'd be interested in one of your own? See Witch Doctor Mau'ari in Orgrimmar. I'm not giving mine up!",
+  "files": [
+   "quests/6606-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "b568098f85ac",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Harlo Wigglesworth",
+  "quest": "A Little Luck",
+  "en": "We can always use a little luck, eh? A small advantage is all it takes to turn things in your favor...\n\nI happened to make the acquaintance of a rather eccentric witch doctor some time back. She made me a lucky charm... for a price. Believe me, though, it was well worth it!\n\nMaybe you'd be interested in one of your own? Find Witch Doctor Mau'ari in Everlook. I'm not giving mine up!",
+  "files": [
+   "quests/6606-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "e74685e7af51",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Witch Doctor Mau'ari",
+  "quest": "A Little Luck",
+  "en": "Ah, so Harlo be sendin' you? Well, den, who might you be? I s'pose you be wantin' my help?",
+  "files": [
+   "quests/6606-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "b8004a2de9bb",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Harlo Wigglesworth",
+  "quest": "A Strange One",
+  "en": "I just got back from Felwood, Adventurer. On my way through, I stopped at Bloodvenom Post and I met a very odd character... She seemed intent on one thing, and I suppose I could tell you what that is, but I think she'd like to explain it to you herself.\n\nIf you're interested, head to Bloodvenom Post in western Felwood and look for Winna Hazzard.\n\nWho knows, she might need your help...",
+  "files": [
+   "quests/6605-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "e4f79c7aa8b6",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Winna Hazzard",
+  "quest": "A Strange One",
+  "en": "Ah, adventurer. I see that there is hope yet. Are you here to assist me?",
+  "files": [
+   "quests/6605-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "fbc12f014e77",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Umi Rumplesnicker",
+  "quest": "A Yeti of Your Own",
+  "en": "Say! You know what?! You're an engineer too! So, since you helped me teach my friends a lesson, I'm going to teach you how to make your very own mechanical yeti! Now the fun can go on forever and ever, and you can scare whoever you want! Provided that you can scare up the components to make it that is. \n\nWhat do you say, Adventurer? Do you want to learn the secret to making a mechanical yeti?",
+  "files": [
+   "quests/8798-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "ade970a85cf7",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Umi Rumplesnicker",
+  "quest": "Are We There, Yeti?",
+  "en": "My friends are always coming up with great ideas. I've never felt like I could match them... until today! I just drew up the plans for something great! If you promise not to tell, I'll let you in on the secret... \n\nI'm going to make a mechanical yeti! Not only are my friends sure to be freaked out when they see it, but when they get over that, I know they'll be impressed!\n\nI need thick yeti fur from the ice thistle yeti to start with. Will you help? You'll find them to the southeast.",
+  "files": [
+   "quests/3783-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "1cc85003c606",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Umi Rumplesnicker",
+  "quest": "Are We There, Yeti?",
+  "en": "These furs are perfect, Adventurer. We're off to a great start here!",
+  "files": [
+   "quests/3783-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "81eb4119bf3a",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Umi Rumplesnicker",
+  "quest": "Are We There, Yeti?",
+  "en": "It's all ready, Adventurer!\n\nNow, I sent some mail to my friends already, telling them that I have a surprise for them. This is where you come in!\n\nI'm going to give you my mechanical yeti, and you need to surprise them by paying each of my friends a visit, turning the yeti on and sending it towards them.\n\n Once you have shown Legacki in Everlook, Sprinkle in Gadgetzan, and Quixxil in Marshal's Refuge, come back and tell me what happened!\n\nPlease bring my yeti back to me then, too.",
+  "files": [
+   "quests/5163-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "40fb79723acd",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Umi Rumplesnicker",
+  "quest": "Are We There, Yeti?",
+  "en": "Hah! They'll think twice before making fun of my ideas again!\n\nThanks for your help, Adventurer. I couldn't have had so much fun without you!",
+  "files": [
+   "quests/5163-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "f33cb530059e",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Umi Rumplesnicker",
+  "quest": "Are We There, Yeti?",
+  "en": "Now that I have what I need to cover the mechanical moving parts, I only need one other thing. Well, actually two. Two horns!\n\nThe ice thistle patriarchs and matriarchs have the largest horns, so of course, those are the ones I want. That type of yeti inhabits a cave to the southeast. There are plenty of them there; you shouldn't have any problem finding them.\n\nRemember, I only want the best looking ones -- no beat up or broken horns, please!",
+  "files": [
+   "quests/977-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "2b8804ba65af",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Umi Rumplesnicker",
+  "quest": "Are We There, Yeti?",
+  "en": "I can't wait to show my friends! Now, just wait a moment while I attach these...\n\nPerfect!",
+  "files": [
+   "quests/977-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "830c82e73fff",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Malyfous Darkhammer",
+  "quest": "Breastplate of Bloodthirst",
+  "en": "I thought I would be dead and buried before I ever saw this day.\n\nAn accomplishment of this magnitude can only be overshadowed by the reward.",
+  "files": [
+   "quests/5068-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "2a911d2625c7",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Malyfous's Catalogue",
+  "quest": "Breastplate of Bloodthirst",
+  "en": "It is said that only one Breastplate of Bloodthirst has ever been created and that it was made for the legendary assassin, Garona. Whether this world will ever see another is doubtful.\n\nRegardless! Our master crafters can reproduce the item given the necessary components:\n\n*The pristine hide of the Beast.\n\n*Frayed abomination stitchings.\n\n*Arcanite bars.\n\n*The skin of shadow.\n\nBEHOLD!",
+  "files": [
+   "quests/5068-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "0eb29090d6e5",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Storm Shadowhoof",
+  "quest": "Brumeran of the Chillwind",
+  "en": "Swift, and clever, Brumeran glides silently across the snowy landscape of southern Winterspring. But do not let her graceful appearance convince you that she is harmless. All that cross her pay considerably, and often with their own lives.\n\nSeek out Brumeran of the chillwind among the chimera. Defeat her, then return again to me.",
+  "files": [
+   "quests/5055-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "91276f00cc2d",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Storm Shadowhoof",
+  "quest": "Brumeran of the Chillwind",
+  "en": "Yes. You have returned. I believe now that you are a true hunter by nature. You have faced the most ferocious of creatures and have returned, surpassing my expectations.\n\nYou are now ready for my final request.",
+  "files": [
+   "quests/5055-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "38a71f3baeb3",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Witch Doctor Mau'ari",
+  "quest": "Cache of Mau'ari",
+  "en": "Now, before I give ya dis charm, I better explain how ta use it.\n\nIf you carry da charm with ya, you'll find dat certain items will drop from creatures ya fight. If you don't have da charm with you, you won't find them. Understand?\n\nYou'll know these special items by the name -- they be called E'ko. If you find any of these items, just bring dem to ol' Mau'ari, and she help ya out.\n\nWait here while I fix your charm.",
+  "files": [
+   "quests/975-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "8c57885dc0e3",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Witch Doctor Mau'ari",
+  "quest": "Cache of Mau'ari",
+  "en": "Here it is, Adventurer. Remember, ya have ta carry it with you. Why don't ya head back to da wilds, an' see what ya be findin' there?",
+  "files": [
+   "quests/975-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "c947fae50472",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Malyfous Darkhammer",
+  "quest": "Cap of the Scarlet Savant",
+  "en": "Astounding! It must have taken weeks to gather those components... and how did you find a pristine hide?!?\n\nEnjoy the cap, adventurer!",
+  "files": [
+   "quests/5063-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "78dc4b4b87a8",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Malyfous's Catalogue",
+  "quest": "Cap of the Scarlet Savant",
+  "en": "A finer cap you may never see. From the pristine hide of the beast, our expert crafters will create the most phenomenal hat a prestidigitator could ever hope to don!\n\nFifty gold pieces along with the listed items and your head shall be graced with the Cap of the Scarlet Savant:\n\n*The pristine hide of the Beast.\n\n*Frayed abomination stitchings.\n\n*Arcane crystals.\n\n*Enchanted scarlet thread.\n\nBEHOLD!",
+  "files": [
+   "quests/5063-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "264cb5a077f6",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Felnok Steelspring",
+  "quest": "Chillwind Horns",
+  "en": "I have most of what Tinkee needs, but I'm missing one important component, and that's chillwind horns. The horns of the chillwind chimaera in Winterspring are a concentrated source of cold, but only pristine, uncracked horns will do! I'll need a supply of those to complete Tinkee's order.\n\nBring me the uncracked chillwind horns, and I'll prepare a package for Tinkee.",
+  "files": [
+   "quests/4809-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "eb4995b3c84e",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Felnok Steelspring",
+  "quest": "Chillwind Horns",
+  "en": "These are good specimens. They're packed with cold! Let me get some gloves on, then pack them along with the other things Tinkee needs...",
+  "files": [
+   "quests/4809-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "382863eff39f",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Duke Nicholas Zverenhoff",
+  "quest": "Duke Nicholas Zverenhoff",
+  "en": "This... this is a very special book you have brought me. I'd like to tell you that \"special\" in this case means \"unique and quite possibly illuminating\", but that remains to be seen.\n\n\"Ooooooo?\" Who in their right mind thinks this up?\n\nWell now, I've heard of this Umbranse that Gregor spoke of, so this isn't without merit. I'll do my best to decipher it. As for you... please, have this - courtesy of the Argent Dawn. While you are here, perhaps there are some other things you can aid us with.",
+  "files": [
+   "quests/6030-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "2b8bfd2a8b12",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gregor Greystone",
+  "quest": "Duke Nicholas Zverenhoff",
+  "en": "A recluse medium found in these parts by the name of Umbranse has provided the Argent Dawn with quite a literary masterpiece... one that amounts to quite possibly the largest collection of jibber-jabber I've ever seen written.\n\nOne of the Dawn's most respected leaders, Duke Nicholas Zverenhoff, is a brilliant linguist. Could you take this to him for me - for a reward, of course? Light's Hope Chapel - that's where he's currently at, far in the eastern part of the Eastern Plaguelands.",
+  "files": [
+   "quests/6030-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "6b7c53eeecfc",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Damaged Crate",
+  "quest": "Enraged Wildkin",
+  "en": "A severely damaged crate stands out among the rest of the destroyed belongings at the camp...",
+  "files": [
+   "quests/4861-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "86129569d936",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Damaged Crate",
+  "quest": "Enraged Wildkin",
+  "en": "Looking around, you don't see much that Jaron could want here. However, you do notice that the crate you found has been smashed open, almost as if this was what the wildkin were after...\n\nLooking to the east, you can barely make out an abandoned wagon. Perhaps you might find Jaron's things there. It's worth a look.",
+  "files": [
+   "quests/4863-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "99e0ae8e3ea4",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Harlo Wigglesworth",
+  "quest": "Enraged Wildkin",
+  "en": "Have you noticed the abandoned camp to the south of here? It looks like the wildkin went crazy and destroyed just about everything they could find!\n\nI heard a rumor that one of the survivors of the attack is resting at Starfall Village, west of here. I'm sure curious about what happened... aren't you?",
+  "files": [
+   "quests/6604-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "2a90ec53b523",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Jaron Stoneshaper",
+  "quest": "Enraged Wildkin",
+  "en": "Aye, what can I do for you?",
+  "files": [
+   "quests/6604-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "b52b30be0d80",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Jaron Stoneshaper",
+  "quest": "Enraged Wildkin",
+  "en": "Hey there, lad! I was chased from my camp in southern Winterspring by some bloodthirsty wildkin! Well, I suppose I got too close to something the wildkin were guarding.\n\nI barely managed to get away safely; I fear a buddy of mine wasn't as lucky. Would you mind braving the wildkin and heading to the camp? I really need my supplies, and I'd also like to get back the amulet I unearthed yesterday at the dig site.",
+  "files": [
+   "quests/m-4861-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "9a288af5d28e",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Jaron Stoneshaper",
+  "quest": "Enraged Wildkin",
+  "en": "Well, I expected to hear as much, lad. I figured that the crazed beasts destroyed all of my belongings...\n\nBut you did find my tools, and most importantly, the amulet! I wonder why the wildkin so fiercely defended this item... In any case, I'll think twice before heading their way again!",
+  "files": [
+   "quests/m-4864-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "e38cd8b090eb",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Jaron's Wagon",
+  "quest": "Enraged Wildkin",
+  "en": "Approaching the wagon, it doesn't appear that there is much more here for Jaron. But, looking on the ground, you notice some crates that look undamaged, despite being half-buried in the snow.",
+  "files": [
+   "quests/4863-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "af1281086c01",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Jaron's Wagon",
+  "quest": "Enraged Wildkin",
+  "en": "After inspecting the contents of the box, you decide that Jaron could make use of the tools and other items inside. However, there is no sign of the amulet.\n\nIt appears that the wildkin inhabit the lands to the north and east of here, so you decide that the next step is to face the creatures and reclaim the amulet from them.",
+  "files": [
+   "quests/4864-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "b8e70e0bfd73",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Deadwood Cauldron",
+  "quest": "Falling to Corruption",
+  "en": "Inside the cauldron bubbles a rotting, repulsive-smelling substance...",
+  "files": [
+   "quests/5084-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "aeceb176ad3c",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "Falling to Corruption",
+  "en": "This greenish liquid... it reminds me a bit of the sludge I saw when traveling through Felwood. And I have seen some Winterfall Runners passing into Timbermaw... Perhaps these things have something to do with the flask you found, Adventurer.\n\nThere is a large group of furbolg just past Timbermaw Hold, in Felwood. Called the Deadwood tribe, they have been corrupted and driven mad by the fel. Why don't you look around there and see if you can find any evidence of dealings between the Winterfall and the Deadwood?",
+  "files": [
+   "quests/5084-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "764c74125009",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Malyfous Darkhammer",
+  "quest": "Fiery Plate Gauntlets",
+  "en": "By Thaurissan's beard!\n\nWhere did you find them?\n\nMore importantly, are you willing to part with them? Naturally, I would pay you for such a noble gesture.\n\nI'll tell you what, Adventurer. If you give me those unfired gauntlets, I will teach you how to make a set all your own. All you need to do is collect the parts for me so that I may narrow down the exact recipe.\n\nDo we have a deal??\n\nHere's the list of what I need, I'll front the non-enchanted thorium myself since you're supplying the gauntlets.",
+  "files": [
+   "quests/5124-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "94d18ac97ed2",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Malyfous Darkhammer",
+  "quest": "Fiery Plate Gauntlets",
+  "en": "As promised, Adventurer, here's your recipe! I'm also going to throw in a little something extra for all of your hard work and dedication. What am I going to do with these anyway???",
+  "files": [
+   "quests/5124-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "ef3a9f716e48",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Witch Doctor Mau'ari",
+  "quest": "Frostsaber E'ko",
+  "en": "Mau'ari can derive da juju for Adventurer... Use da Cache of Mau'ari to cast dis upon yourself or your allies.",
+  "files": [
+   "quests/4801-complete",
+   "quests/4802-complete",
+   "quests/4803-complete",
+   "quests/4804-complete",
+   "quests/4805-complete",
+   "quests/4806-complete",
+   "quests/4807-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "7baa46f73543",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rivern Frostwind",
+  "quest": "Frostsaber Provisions",
+  "en": "If you wish to prove yourself, you may begin by doing a very simple, but very important task.\n\nGather meat from the chimaera and from the shardtooth bears in the area. Bring it to me so that I may use it to feed the frostsabers that are being trained.",
+  "files": [
+   "quests/4970-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "18656045c0c4",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rivern Frostwind",
+  "quest": "Frostsaber Provisions",
+  "en": "Thank you for assisting me, Adventurer. My opinion of you grows as time passes.",
+  "files": [
+   "quests/4970-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "a9ced291379f",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Erelas Ambersky",
+  "quest": "Guardians of the Altar",
+  "en": "Did you meet up with Ranshalla?",
+  "files": [
+   "quests/4901-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "955b02d48f21",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ranshalla",
+  "quest": "Guardians of the Altar",
+  "en": "Remember, I need your help to properly channel. I will ask you to aid me several times on our path, so please be ready.",
+  "files": [
+   "followup/7365-nightelf-female-standard"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "d3cea5a779b7",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ranshalla",
+  "quest": "Guardians of the Altar",
+  "en": "At the very top of the ridge lies what I believe to be an altar of the goddess Elune. From what I can tell, we need to light the five torches in each cave, and then we will be able to access the altar directly.\n\nI transcribed some incantations carved into the stone in the ancient ruins of Kel'Theril, which I believe are the secret to unlocking the altar. I'll need your help to light each torch, while I recite the spell.\n\nIf we are successful, you'll be able to report our findings to Erelas!",
+  "files": [
+   "quests/4901-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "14a3b4454dcb",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Blue-feathered Necklace",
+  "quest": "Guarding Secrets",
+  "en": "You are unsure of the significance of the necklace that fell from the neck of the recently-slain wildkin. It glows brightly, slowly fading in and out.\n\nTrull Failbane might be able to tell you more, since his knowledge of the wildkin seems extensive. Perhaps you should ask him about it.",
+  "files": [
+   "quests/4882-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "e784dfe220a0",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Nara Wildmane",
+  "quest": "Guarding Secrets",
+  "en": "The energy of this necklace, Adventurer. I believe that it has only one source.\n\n\nThe wildkin, now misguided and confused, were once not so. They once had a purpose, and were guided to serve. The night elf goddess Elune created these creatures to guard her most sacred areas.\n\nWhile this fact may seem like it holds little value; I urge you to look deeper.\n\nYou will learn, in time. Thank you for bringing this to me, Adventurer.",
+  "files": [
+   "quests/4883-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "8a4be02ba0f5",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Trull Failbane",
+  "quest": "Guarding Secrets",
+  "en": "An important discovery?",
+  "files": [
+   "quests/4882-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "06c4869c8fa6",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Trull Failbane",
+  "quest": "Guarding Secrets",
+  "en": "While I do possess much knowledge about the owlbeasts you defeated in Winterspring, I am not very learned on the subject of the magics they wield. But I do believe I know of one that would be able to examine the necklace and most likely tell you what it is.\n\nNara Wildmane in Thunder Bluff is an expert in this field; see her. Good luck, Adventurer.",
+  "files": [
+   "quests/4883-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "548d512e521d",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "High Chief Winterfall",
+  "en": "While we still know very little about why the furbolg have been ingesting this strange substance, I do think it's best that we put a stop to it before it gets out of hand.\n\nThe Winterfall furbolg are not a normally aggressive tribe, and this change in their behavior leads me to think that they must be under orders from their chief. We most likely can't undo the damage that has already been done, but I think that if their leader is slain, they will not get any worse.\n\nHead east to Winterfall Village.",
+  "files": [
+   "quests/5121-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "9304b83e0c0b",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "High Chief Winterfall",
+  "en": "Thank you so much, Adventurer. I hope to get back to my studies without worry that I will be ambushed. Please accept this as a reward.",
+  "files": [
+   "quests/5121-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "37faa04c2810",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Malyfous Darkhammer",
+  "quest": "Leggings of Arcana",
+  "en": "Few more improbable tasks I have seen completed by mortals. Bask in the glory of my handiwork! Reap its rewards!",
+  "files": [
+   "quests/5067-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "3f62ed87c4fd",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Malyfous's Catalogue",
+  "quest": "Leggings of Arcana",
+  "en": "While the crafting of such an item has never successfully been accomplished, it is thought to be possible - under the right circumstance.\n\nShould the seeker of arcanum desire to imbue leggings with immense power, the following they must find:\n\n* The pristine hide of the Beast.\n\n* Frayed abomination stitchings.\n\n*Arcanite Bars.\n\n*Frostwhisper's embalming fluid.\n\nBEHOLD!",
+  "files": [
+   "quests/5067-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "c72fcbc992da",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Witch Doctor Mau'ari",
+  "quest": "Luck Be With You",
+  "en": "Ah, I can tell just by lookin' at ya -- you be wantin' to make a lucky charm. Mau'ari always knows!\n\nYou'll need ta travel to a place called Winterspring ta the north, far from da heat of Durotar.\n\nIn Winterspring, to da south. you'll find a canyon, an' giants made a' solid ice. The giants sometimes be carryin' dem, but ya can always gather da shards yerself from da canyon. These shards have a powerful reflective quality.\n\nBring back 10 frostmaul shards, and my lucky charm will be yours.",
+  "files": [
+   "quests/969-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "4f03a711c9d2",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Witch Doctor Mau'ari",
+  "quest": "Luck Be With You",
+  "en": "Ah, I can tell just by lookin' at ya -- you be wantin' to make a lucky charm. Mau'ari always knows!\n\nTo da south. you'll find a canyon, an' giants made a' solid ice. The giants sometimes be carryin' dem, but ya can always gather da shards yerself from da canyon. These shards have a powerful reflective quality.\n\nBring back 10 frostmaul shards, and my lucky charm will be yours.",
+  "files": [
+   "quests/969-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "a3813cdcee7b",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Witch Doctor Mau'ari",
+  "quest": "Luck Be With You",
+  "en": "Ahh, yes... I will make da charm for ya now. Just you wait!",
+  "files": [
+   "quests/969-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "aac9f2be2a0c",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Deadwood Cauldron",
+  "quest": "Mystery Goo",
+  "en": "The greenish substance inside the cauldron appears to be similar to what you found in the flask. This strange gooey stuff could be as corrupted as the furbolg that created it...\n\nIf the Winterfall furbolg are using it, does this mean that they will soon be as corrupted as the Deadwood tribe?\n\nIt would be best to report back to Donova with your findings, along with a sample of the liquid in the cauldron.",
+  "files": [
+   "quests/5085-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "11bf6d23b612",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "Mystery Goo",
+  "en": "You are very resourceful, Adventurer. Do you think that the Winterfall furbolgs have been to the Deadwood camp?",
+  "files": [
+   "quests/5085-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "2f96eec25493",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Melor Stonehoof",
+  "quest": "Past Endeavors",
+  "en": "We learn from our life experiences, Adventurer. From what this marker says, I am sure that you have only become stronger and wiser as a result of yours. You have grown much since we last spoke.\n\nTake this in remembrance of the difficult tasks you have accomplished as a Traveler Adventurer, and know that you will always have my respect and admiration.",
+  "files": [
+   "quests/5057-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "d9db3b899aed",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Melor Stonehoof",
+  "quest": "Past Endeavors",
+  "en": "We learn from our life experiences, Adventurer. I am sure that you have only become stronger and wiser as a result of yours. You have grown much since we first spoke.\n\nTake this in remembrance of the difficult tasks you have accomplished as a traveler adventurer, and know that you will always have my respect and admiration.",
+  "files": [
+   "quests/5057-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "240af91fd611",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Storm Shadowhoof",
+  "quest": "Past Endeavors",
+  "en": "Before you spoke to me, Adventurer, I had heard of your endeavors... that you had an unyielding desire to prove yourself, that you had an exceptional ability as a adventurer, and I now know these things to be the truth.\n\nThose that excel as you do are worthy of recognition. Take this marker to a friend of mine in Thunder Bluff named Melor Stonehoof. I'm sure he will remember you, and what you accomplished so long ago. Speak to him of you recent victories, and do not ever forget what you have accomplished today.",
+  "files": [
+   "quests/5057-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "f09e3240266c",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rivern Frostwind",
+  "quest": "Rampaging Giants",
+  "en": "Around 4,000 years ago, Tyrande Whisperwind saved the life of the frostsaber queen, at the hands of rampaging giants. Since then, the frostsabers have been allies of the night elves.\n\nThese same giants that once were a danger to the frostsabers, still exist not too far from here. They are called the frostmaul, and they have taken over the large valley to the south.\n\nProve your loyalty to the frostsabers; kill these giants in the name of the frostsaber queen, Shy-Rotam!",
+  "files": [
+   "quests/5981-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "0c39018407dc",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rivern Frostwind",
+  "quest": "Rampaging Giants",
+  "en": "Excellent, Adventurer. Your determination has been duly noted.",
+  "files": [
+   "quests/5981-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "64376d11c23a",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Wynd Nightchaser",
+  "quest": "Remorseful Highborne",
+  "en": "Is that... what I think it is?",
+  "files": [
+   "quests/5252-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "cfd38325136a",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Felnok Steelspring",
+  "quest": "Return to Tinkee",
+  "en": "Ok, everything is prepared and packed and ready for transport! Good luck in your journey, and make sure you tell Tinkee that she owes me!",
+  "files": [
+   "quests/4810-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "df06359c2318",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Tinkee Steamboil",
+  "quest": "Return to Tinkee",
+  "en": "You brought them! Great! I'll get to work right away! Thanks a ton, Adventurer!\n\nYou've been so helpful to me, I might need you for even more important tasks later...",
+  "files": [
+   "quests/4810-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "1b2223208347",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Storm Shadowhoof",
+  "quest": "Shy-Rotam",
+  "en": "In northern Winterspring, great cats assemble around a large landmark called Frostsaber Rock. The leader of these cats is known by the name Shy-Rotam. Defeating the matriarch of the frostsabers would grant you much respect in the eyes of your fellow Traveler.\n\nGo again to Winterspring, and once there, gather sacred meat from the frostsabers. Find the stone of Shy-Rotam, and place it there. Placing the meat of her kin before her will summon Shy-Rotam, in anger.\n\nBe ready for her fury, and defeat her.",
+  "files": [
+   "quests/5056-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "a719367ac1ba",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Storm Shadowhoof",
+  "quest": "Shy-Rotam",
+  "en": "In northern Winterspring, great cats assemble around a large landmark called Frostsaber Rock. The leader of these cats is known by the name Shy-Rotam. Defeating the matriarch of the frostsabers would grant you much respect in the eyes of your fellow traveler.\n\nGo again to the harsh wilds, and once there, gather sacred meat from the frostsabers. Find the stone of Shy-Rotam, and place it there. Placing the meat of her kin before her will summon Shy-Rotam, in anger.\n\nBe ready for her fury, and defeat her.",
+  "files": [
+   "quests/5056-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "2a1a3e1b79ba",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Storm Shadowhoof",
+  "quest": "Shy-Rotam",
+  "en": "You have proven both your strength and your determination. Many more challenges await you, but I have already shown you as much as I am able.",
+  "files": [
+   "quests/5056-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "beeef01efb0d",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "Strange Sources",
+  "en": "To tell you the truth, although there are no volcanoes here in Winterspring, I believe that there are far more threatening reasons for these hot springs...\n\nWell, I think you'll want to see it for yourself. You'll need to travel the length of Winterspring, and head to the very south. When the air becomes thick and muggy, and the sky turns dark, you'll have found what I believe to be the source of the hot springs.\n\nHave a look. I'm sure you'll have many questions when you return.",
+  "files": [
+   "quests/4842-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "31b5b4dcd6c9",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "Strange Sources",
+  "en": "Yes, the demons there in Darkwhisper Gorge; I believe it is their presence that is affecting the land in this way. I am going to continue observing the hot springs here and see if I learn anything more.\n\nI'd wait until you are a bit stronger if you have plans of heading farther into Darkwhisper Gorge.",
+  "files": [
+   "quests/4842-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "f68bb2ee047c",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Fandral Staghelm",
+  "quest": "The Crystal of Zin-Malor",
+  "en": "I have heard of the Crystal of Zin-Malor; the user of the crystal becomes capable of incredible arcane power, but only if truly worthy. I am impressed that you not only recovered the crystal, but you also realize your own limits, and did not attempt to use the crystal yourself.\n\nThank you for bringing it to me, Adventurer. We will keep it safe, and may the cursed sprits that once guarded the shattered crystal finally be at peace.",
+  "files": [
+   "quests/5253-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "be11fb32ded8",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Wynd Nightchaser",
+  "quest": "The Crystal of Zin-Malor",
+  "en": "Quite impressive, Adventurer.\n\nThe crystal of Zin-Malor can never be returned to the temple which, as you know, lies in ruin. But I believe that your effort to undo the evil of the past should not go unrewarded.\n\nSeek out Arch Druid Fandral Staghelm in Darnassus, and bring the crystal to him, Adventurer. It should be in the hands of those that will not abuse its power. From the looks of it, only a handful of the strongest magic users would be able to control such a power.",
+  "files": [
+   "quests/5253-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "ace6454a5adb",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Argent Officer Garush",
+  "quest": "The Everlook Report",
+  "en": "Resourceful for a human, Gregor is. He's been dealing with the Steamwheedle Cartel for some time now, and has become an expert on the \"art\" of goblin negotiations. Though it's true that the goblins' primary loyalties lie with those who have the largest coin purses, they also know and respect the value of diplomacy. If anything, it provides them with repeat customers...\n\nAt any rate, the Argent Dawn acknowledges you for your effort. Please have this, with our thanks.",
+  "files": [
+   "quests/6029-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "a3a268573881",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Argent Officer Pureheart",
+  "quest": "The Everlook Report",
+  "en": "Very resourceful, Gregor is. He's been dealing with the Steamwheedle Cartel for some time now, and has become an expert on the \"art\" of goblin negotiations. Though it's true that the goblins' primary loyalties lie with those who have the largest coin purses, they also know and respect the value of diplomacy. If anything, it provides them with repeat customers...\n\nAt any rate, the Argent Dawn acknowledges you for your effort. Please have this, with our thanks.",
+  "files": [
+   "quests/6028-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "58066a70db3e",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gregor Greystone",
+  "quest": "The Everlook Report",
+  "en": "I am looking for a responsible individual to aid me in a small but nonetheless important matter. I'm here as a representative of the Argent Dawn's interests to the local governance of Everlook. I need to get a progress report to Argent Officer Pureheart at Chillwind Camp; it's a ways from here, located along the southern fringe of the Western Plaguelands.\n\nIf I may be so bold - this would be a perfect means to introduce yourself to my superior and perhaps earn some work from her!",
+  "files": [
+   "quests/6028-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "a499dccd2c77",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gregor Greystone",
+  "quest": "The Everlook Report",
+  "en": "I'm looking for a responsible individual to aid me in a small but nonetheless important matter. I'm here as a representative of the Argent Dawn's interests to the local governance of Everlook. I need to get a progress report to Argent Officer Garush at the Bulwark; it's a ways from here, located along the western fringe of the Western Plaguelands, east of Tirisfal Glades.\n\nIf I may be so bold - this would be a perfect means to introduce yourself to my superior and perhaps earn some work from him!",
+  "files": [
+   "quests/6029-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "e4a1289e4e8f",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Crudely-written Log",
+  "quest": "The Final Piece",
+  "en": "The log you found on the high chief looks extensive, but after looking through a couple of the pages, you find that you cannot read the text. The markings are so crude and poorly-formed that you are not sure if anyone would be able to read them.\n\nBut perhaps Donova will be able to tell you what it says...",
+  "files": [
+   "quests/5123-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "745e568d55e3",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "The Final Piece",
+  "en": "I wonder what all of this means... I can't make anything out...",
+  "files": [
+   "quests/5123-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "9bffaa23b680",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Jaron Stoneshaper",
+  "quest": "The Ruins of Kel'Theril",
+  "en": "Well, sure, I can tell you more about Kel'Theril. Mind you now, I'm no historian, but I can tell ya about what I saw there...",
+  "files": [
+   "quests/5244-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "e0ee9ec09edc",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Wynd Nightchaser",
+  "quest": "The Ruins of Kel'Theril",
+  "en": "The story behind Kel'Theril is one of a cursed race, bound to the place where they attempted an unfortunate ritual...\n\nThe highborne that you will find there once stole a sacred artifact, believing that they could siphon its power for themselves, becoming even more powerful. In their efforts, the relic shattered in a huge explosion, driving the pieces below the ice of the lake...\n\nSpeak with Jaron Stoneshaper if you'd like to learn more; he has recently visited the area and can tell you more.",
+  "files": [
+   "quests/5244-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "d82f5d1dcb8d",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "Threat of the Winterfall",
+  "en": "I came to Winterspring to investigate the Frostfire Hot Springs. I've noticed that the water seems to have ...strange qualities. I haven't yet been able to discover the source, and to tell you the truth, I've had some difficulty lately, due to the Winterfall furbolg.\n\nThey seem to be drawn to the springs, just as I am. They have become extremely protective of the water, and won't let me come near the two larger springs to the north of here.\n\nI'd like to continue my studies, so won't you help me?",
+  "files": [
+   "quests/5082-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "d5b28dc0ad47",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "Threat of the Winterfall",
+  "en": "Thanks so much, Adventurer! Now I can get back to work here.\n\nDid you find anything of interest at the Winterfall camp?",
+  "files": [
+   "quests/5082-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "b0ea302d8439",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "Toxic Horrors",
+  "en": "I've studied the sample you returned with, and while I can't say for sure, I believe it contains traces of toxic elements. However, the only way to know for sure is to gather some as a comparison.\n\nI believe that the Deadwood furbolg may be gathering these elements from other corrupted creatures in Felwood; in particular, the elementals living in the Irontree Woods, called toxic horrors.\n\nCollect a few samples for me to compare, but be careful -- it's very dangerous there!",
+  "files": [
+   "quests/5086-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "8873dcd43a19",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "Toxic Horrors",
+  "en": "I have to compare this to the substance you found in the cauldron, and then I'm sure we'll know more.",
+  "files": [
+   "quests/5086-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "dd2b87c18dbf",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "Trouble in Winterspring!",
+  "en": "Well, hi there! So Meggi told you of the trouble I have found here?",
+  "files": [
+   "quests/6603-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "f62b657d1c44",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Meggi Peppinrocker",
+  "quest": "Trouble in Winterspring!",
+  "en": "There's trouble in Winterspring!\n\nWhy, sure, I spend some time out in the wilds and know about these things... I'm always mighty proud to say it. I consider the hours I spend out there in the hills to be golden. Help you cultivate quick reflexes, a cool head and a keen eye...\n\nIt takes judgement, brains and maturity to appreciate the wilderness in the way that I do.\n\nNow, what was I talking about?\n\nAh yes, trouble. See Donova Snowden at the hot springs and she can tell you more.",
+  "files": [
+   "quests/6603-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "2f92807eb05c",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Jaron Stoneshaper",
+  "quest": "Troubled Spirits of Kel'Theril",
+  "en": "The highborne spirits are miserable creatures, that's for sure. They are still searching for pieces of the very thing that has cursed them to Kel'Theril forever -- the stolen relic.\n\nIf you are that interested, take my pick and go south to the lake, see if you can gather the pieces of it from within the ice.\n\nNow, I can't tell you a thing about what you find, but I do know of someone who might... Aurora Skycaller; she dwells near the Northpass Tower in the northern part of Eastern Plaguelands.",
+  "files": [
+   "quests/5245-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "6b3fde477ee0",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Storm Shadowhoof",
+  "quest": "Ursius of the Shardtooth",
+  "en": "In the snowy mountains of Winterspring, a skilled hunter stalks his prey... I speak of Ursius of the shardtooth bears, an agile and clever beast.\n\nI send you now against him. He roams the sloping hills to the west of Everlook. Find and hunt him, before he discovers your intent.\n\nAll that have gone up against Ursius have quickly found themselves to be the prey, and he, the hunter. Stay on your guard.",
+  "files": [
+   "quests/5054-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "c902e0f9631f",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Storm Shadowhoof",
+  "quest": "Ursius of the Shardtooth",
+  "en": "In the snowy mountains of Winterspring, to the northwest, a skilled hunter stalks his prey... I speak of Ursius of the shardtooth bears, an agile and clever beast.\n\nI send you now against him. He roams the sloping hills to the northwest of Everlook. Find and hunt him, before he discovers your intent.\n\nAll that have gone up against Ursius have quickly found themselves to be the prey, and he, the hunter. Stay on your guard.",
+  "files": [
+   "quests/5054-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "a06789d3d1a2",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Storm Shadowhoof",
+  "quest": "Ursius of the Shardtooth",
+  "en": "This was no easy task, yet you have excelled. But do not be too quick to think you have impressed me, Adventurer.",
+  "files": [
+   "quests/5054-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "b43bc1827bb2",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Fandral Staghelm",
+  "quest": "Wildkin of Elune",
+  "en": "Do not hesitate; tell me why you have come.\n\nOh, yes? Hmm. Well.\n\nThank you for bringing this straight to me; it is always best to go right to the top... But... Yes. The druids of the Cenarion Circle have known of the Wildkin for some time. That they are pets of Elune, and were chosen to guard the most sacred of places.\n\nSo while this isn't news, I definitely compliment you on your effort. Here, take this -- it is something that seems suitable for such a deed.",
+  "files": [
+   "quests/4902-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "64d97c755687",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Erelas Ambersky",
+  "quest": "Wildkin of Elune",
+  "en": "That's fascinating!\n\nI have always wondered about the truth... Well, you must share this knowledge, definitely! Go to Arch Druid Fandral Staghelm right away -- you'll find him in Darnassus, in the Cenarion Circle. Explain to him what happened, just the same as you told me. I'm sure he will be just as interested!\n\nThis is important information, Adventurer!",
+  "files": [
+   "quests/4902-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "82b43a71c4e5",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "Winterfall Firewater",
+  "en": "You got this from the Winterfall?",
+  "files": [
+   "quests/5083-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "b556b173ef47",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Empty Firewater Flask",
+  "quest": "Winterfall Firewater",
+  "en": "This vial that you picked up from the Winterfall furbolg is empty, but you can detect a few drops of a strange green liquid inside; it almost glows.\n\nIs it something important?\n\nDonova Snowden would probably be able to tell you more, since she has been camped by the hot springs in Winterspring for some time now.",
+  "files": [
+   "quests/5083-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "19cb2775230b",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rivern Frostwind",
+  "quest": "Winterfall Intrusion",
+  "en": "My presence goes unnoticed by most, Adventurer. However, there is an annoyance that seems firmly rooted here in Winterspring: the Winterfall furbolg.\n\nAlthough I have never directly attacked the furbolg, they seem crazed, fearful of anything in their path. I have watched them slay countless creatures that had the misfortune to simply be in the wrong place at the wrong time.\n\nI am weary of their meddling -- please, help me by fighting back. Slay the furbolg and keep them away from Frostsaber Rock.",
+  "files": [
+   "quests/5201-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "a7b258734442",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rivern Frostwind",
+  "quest": "Winterfall Intrusion",
+  "en": "I am relieved to hear that for a short moment, we will not have to worry about the Winterfall intrusion.\n\nYou are beginning to show your perseverance, Adventurer.",
+  "files": [
+   "quests/5201-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "3782709fa878",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Winterfall Ritual Totem",
+  "quest": "Winterfall Ritual Totem",
+  "en": "You have found one of the Winterfall furbolg's ritual totems. The totem itself is of non-descript construction, but it seems to emanate an almost tangible sense of dread and despair. If many of the Winterfall furbolgs do indeed carry these, it certainly would go a long way in explaining their current condition.\n\nOne of the furbolgs inside Timbermaw Hold may have a use for such an item... that is, if you've earned their trust enough for them to speak with you.",
+  "files": [
+   "quests/8471-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "d0d61d1dbfe5",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "Winterfall Runners",
+  "en": "Are you sure you weren't followed here? I have a very bad feeling all of a sudden...",
+  "files": [
+   "followup/6232-dwarf-female-maternal"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "1077e0952eec",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "Winterfall Runners",
+  "en": "Very interesting, Adventurer...\n\nWhen this toxic substance is mixed with the water from the hot springs, it loses its toxicity, only retaining the ability to temporarily affect those that ingest it. This must be why the Winterfall protect the hot springs so fervently -- they need them to purify their firewater.\n\nWe need to stop this -- cut off contact between the Winterfall and the Deadwood. A group of runners walks the distance between their village and Felwood. Find and defeat them, and steal their shipment.",
+  "files": [
+   "quests/5087-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "bc7f6a18039a",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "Winterfall Runners",
+  "en": "I wonder if consuming this substance makes the furbolg more aggressive. They do seem much larger...",
+  "files": [
+   "quests/5087-complete"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "f0349f4f7243",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "Words of the High Chief",
+  "en": "The Winterfall are no longer a threat to me, but if you still want to find out what was driving the furbolg to create and consume this strange firewater, I think you should seek out Kelek Skykeeper.\n\nHe is part of a group known as the Emerald Circle, druids that are committed to their work in Felwood, healing the land from the corruption.\n\nKelek has much experience with the furbolgs in Felwood, and may be able to tell you more about the log.\n\nThank you, again, Adventurer.",
+  "files": [
+   "quests/5128-accept"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "feb26f09dc03",
+  "zone": "winterspring",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Kelek Skykeeper",
+  "quest": "Words of the High Chief",
+  "en": "Yes, if you let me examine this for a while, I might be able to translate it for you.\n\n\nWhen I am able to look over this fully, I will send word to you.\n\nThank you for sharing this with me, Adventurer. Very little is known about the Winterfall furbolg.",
+  "files": [
+   "quests/5128-complete"
+  ],
+  "uiMap": 1452
+ }
+]

@@ -1,0 +1,520 @@
+[
+ {
+  "id": "d8a2af896ad1",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Vrang Wildgore",
+  "quest": null,
+  "en": "Those humans got what they deserved.\n\n<Vrang spits on the ground.>",
+  "files": [
+   "gossip/e546850a72e6b2f9ff97735514cc7ad4"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b12bd482fd24",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Walter Mason",
+  "quest": null,
+  "en": "How can I help you?",
+  "files": [
+   "gossip/a62dbbcac0879e2964c0e3e181dd44a1"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ce523c6eafb6",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Walton",
+  "quest": null,
+  "en": "What do you need, traveler?",
+  "files": [
+   "gossip/29ac8e14dec44a788cea18b2f0dc2ba6"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a30353c7bbbb",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wardrobe",
+  "quest": null,
+  "en": "<The two cultists nearby are talking. You might be able to learn something if you hide behind this wardrobe and eavesdrop.>",
+  "files": [
+   "gossip/4861f2bcaadd883678fb64efdf66c73d"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f7e50e2a3cf2",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wickerman Ember",
+  "quest": null,
+  "en": "The ashes from the burning wickerman radiate magical power.",
+  "files": [
+   "gossip/28dd5a31538999b63e73fb2d316c92e0"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d25ac119f10c",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wickerman Ember",
+  "quest": null,
+  "en": "The ashes from the burning wickerman radiate magical power. You have already applied the ashes to your face.",
+  "files": [
+   "gossip/9fde842505ae51e2e9603bb246e83c36"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "40c434f5e061",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "William Kielar",
+  "quest": null,
+  "en": "Don't be alarmed... while my gryphons may not be entirely whole, they will still carry you faithfully to your destination. Tell me... which tower do you seek?",
+  "files": [
+   "gossip/8c3e5d1b67a507ae3bf5d583b20cea89"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0aa30e7340b4",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "William Pickman",
+  "quest": null,
+  "en": "Cooking is a life long pursuit and I see we share the same passion!",
+  "files": [
+   "gossip/6f112dba70f131803f2dc5fb76026cdd"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a025b054720d",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "William Pickman",
+  "quest": null,
+  "en": "I can teach you how to cook!",
+  "files": [
+   "gossip/ad9a13f780148372887f7e98605d6f7b"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "91d3b9930763",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Windshaper Boro",
+  "quest": null,
+  "en": "The spirits of the wind may have left us, but the power of the elements is not entirely out of reach for those with the patience to seek them out.\n\nIf you are initiated in the ways of the shaman, I can help you grasp them.",
+  "files": [
+   "gossip/a8629a3a51401438c39d419bc9bdbb73"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "946b64f3978c",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Windshapers Dockmaster",
+  "quest": null,
+  "en": "This skycutter will take you right to the wondrous open plains of Mulgore.",
+  "files": [
+   "gossip/8eb708f02b24d23fbafae82fa8c67278"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "13a9c4d02c6e",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Windshapers Dockmaster",
+  "quest": null,
+  "en": "All travelers bound for Mulgore should depart here.",
+  "files": [
+   "gossip/c516533854af3c1be7936472b2d6e1e6"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c04437eaf703",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wushoolay, the Storm Witch",
+  "quest": null,
+  "en": "Wushoolay, the Storm Witch.\n\nHer power is the power of the sky, the rain, and the shattered earth. May she once again reign mother to the Gurubashi. \n\nWushoolay now dwells far from here. One day, she may return...",
+  "files": [
+   "gossip/0bea24698238b8561be4f42242f8c814"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "209cc4b317f7",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wushoolay, the Storm Witch",
+  "quest": null,
+  "en": "Wushoolay, the Storm Witch.\n\nHer power is the power of the sky, the rain, and the shattered earth. May she once again reign mother to the Gurubashi.\n\nWushoolay now rages near the edge of madness.",
+  "files": [
+   "gossip/e1e922023f045ea617c334f2fea747ba"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "702d9406e597",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Xy'aaria Correcorrientes",
+  "quest": null,
+  "en": "The skycutters and ferries haven't run in years at this point. For all we know, there are no other islands left for us to get imports from. Still though, I'm here... just in case.",
+  "files": [
+   "gossip/8ba831c32d2891c99edf38d524f0a5aa"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "91c483a41e99",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Xyton Silverwind",
+  "quest": null,
+  "en": "If you have the aptitude for the druidic arts, I can train you.",
+  "files": [
+   "gossip/1ea64f748398637656111a11ee37ed4c"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4606d7549015",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Yala Windwatcher",
+  "quest": null,
+  "en": "The Wind Spirits have left us.\n\nNow, only mindless echoes now remain. Be wary, however. These winds are neither kind, nor gentle.",
+  "files": [
+   "gossip/892e376a0d71a06c0e19f9754c8cbca7"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d5a53da06074",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Yorana Windyreed",
+  "quest": null,
+  "en": "Storms curse these Al'Aketh fanatics!",
+  "files": [
+   "gossip/e455b2b724321077b2e09289bdfe481a"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "15dde73fc070",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Ysida Harmon",
+  "quest": null,
+  "en": "I'll be fine for now, don't worry about me. I'll find a way out of here once I've performed some cleansing rituals in this room. Foul magic taints this place, adventurer.",
+  "files": [
+   "gossip/79424cf61ac27a09aeb2a6d5ab3cbd8e"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b1143621cbae",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zanza the Restless",
+  "quest": null,
+  "en": "Have you? Then you know how weak and pathetic the high elf version of troll magic was?\n\nThe high elves could not understand why a people with their magical affinity could not contend with the powers of troll voodoo. This was an inconceivable notion for the pale skins to understand. They were resigned to using the bastardized version of troll enchantments. I believe they called them 'Arcanum.'",
+  "files": [
+   "gossip/0f2be05ebc4b746b42891e97a2db2629"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "183979fe1249",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zanza the Restless",
+  "quest": null,
+  "en": "Zanza can create the ancient troll enchantments with the right components. This magic will help you in defeating Hakkar and his minions.\n\nI only ask that you bring me two items.",
+  "files": [
+   "gossip/422211fe9697e4c260bda5b4ed73aa57"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "dd49551a77ae",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zanza the Restless",
+  "quest": null,
+  "en": "The first is a primal token that must be taken from the most powerful of the Hakkari lieutenants: Jin'do and the Bloodlord.\n\nThe second is a punctured voodoo doll. These can be found in the piles of refuse that litter this foul place. Look inside the jinxed Hoodoo piles.\n\nBring me these things and I will create a powerful enchantment for you!",
+  "files": [
+   "gossip/5951443b219460226c4b5ed7e2d1b85d"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "bb25e2bc5b5d",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zanza the Restless",
+  "quest": null,
+  "en": "I am Zanza, a Loa of Zandalar. I have come in this ethereal form from Zandalar to help my people. Hakkar has no dominion over my soul.\n\nI help those that have helped the Zandalarian people.",
+  "files": [
+   "gossip/c8103fbcbe2d18f0cdfa4d909fa00e81"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0acd1edf827b",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Zephras Citizen",
+  "quest": null,
+  "en": "Have you heard of what's become of Ban'aethal? The peacekeepers are warning people to stay away from the ruins and the Shadowgale Forest entirely.\n\nI overheard someone at the inn talking about seeing malevolent wind spirits that seemed to be little more than a hazy outline, as if they were... hollowed out somehow.\n\nGives me the chills just thinking about such a thing.",
+  "files": [
+   "gossip/0e3fa2b97b7e428c451bb991a8539b65"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "85b7e26b6b3e",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Zephras Citizen",
+  "quest": null,
+  "en": "If the Al'Aketh cult isn't stopped soon, we'll all be press-ganged into joining those fanatics. I will NOT look good with a shaved head.",
+  "files": [
+   "gossip/19b97ab0f6cfedc90d4b7cfb464436c7"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4d48fd388c9b",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Zephras Citizen",
+  "quest": null,
+  "en": "The Windshapers and the High Order are up to something. There are rumors floating around that both groups plan to get the skycutters running again and use them to leave the Skywall. LEAVE SKYWALL? How ridiculous. Where would they even go?",
+  "files": [
+   "gossip/2ca840e8d169c16b90e27a9246e42485"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9aacff2de51c",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Zephras Citizen",
+  "quest": null,
+  "en": "Be wary of anyone you meet with grey robes and a shaved head. They call themselves the Al'Aketh, and they are a menace.\n\nI even heard that they've been doing things to the anchor pylons around the island.\n\nIf the Windshapers are to be believed, those pylons are the only thing keeping Zephras afloat here in the elemental plane. It would be madness to tamper with them!",
+  "files": [
+   "gossip/42655ee5336fd221bf884ee01510fd63"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2d8862088f46",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Zephras Citizen",
+  "quest": null,
+  "en": "I've seen the skycutters sailing through the sky more and more recently. It's good to know that they are running again. If only the elders would tell us what is going on. They only tell us that nothing has changed and we still have no contact with the other islands.\n\nI can't help but wonder what this means...",
+  "files": [
+   "gossip/9095a70ca2b4288ff73cca3fa79463b7"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b92fd89344db",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Zephras Citizen",
+  "quest": null,
+  "en": "Be wary of anyone you meet with grey robes and a shaved head. The Al'Aketh they call themselves, and they are a menace.\n\nI even heard that they've been doing things to the anchor pylons around the island.\n\nIf the Windshapers are to be believed, those pylons are the only thing keeping Zephras afloat here in the elemental plane. It would be madness to tamper with them!",
+  "files": [
+   "gossip/91b919357a6ee5424fdaa1422dde5223"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "92d97148ed0d",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Zephras Citizen",
+  "quest": null,
+  "en": "The Al'Aketh cult claims that Al'Akir the \"Windlord\" will save us from our current woes here on Zephras. If Al'Akir is real and really is the ruler of Skywall, why did the wind spirits refuse to speak of him for so long?\n\nEither he isn't real, or even worse, he's real and he's not as benevolent as the cult claims him to be. Either way, nothing about what the cult is doing is good for us normal folk.",
+  "files": [
+   "gossip/b228ef340887825030346d0f869c0c8e"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "735b970a50dd",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Zephras Citizen",
+  "quest": null,
+  "en": "The Al'Aketh cult is becoming a major problem and the peacekeepers seem powerless to stop them. We can only hope that the Windshapers and the High Order can put aside their bickering and work with the peacekeepers to protect us.\n\nI certainly don't want to join a cult!",
+  "files": [
+   "gossip/be402a4764cbd38f893fef4c3a89b6ff"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f407ef125f6f",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Zephras Citizen",
+  "quest": null,
+  "en": "Have you seen them? The skycutters are running again! I've heard that we still have no contact with the other shen'dorei islands, though.\n\nI hope we re-establish contact with Shen'dramar and Eldranaar soon... if they are even still out there.",
+  "files": [
+   "gossip/c97ac1621254ed985362b3d92cdc2488"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "64dc44e0c0d5",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Zerril Softbreeze",
+  "quest": null,
+  "en": "Ho there, traveler! New to town? Well, once you get settled in come see me if you'd like some work. I've been working overtime preparing for the Festival of Winds and I'll take all the help I can get keeping the larders full!",
+  "files": [
+   "gossip/193ca00f82d61224bada0219bffd681e"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "02afed3ae2b1",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Zerril Softbreeze",
+  "quest": null,
+  "en": "If you need training as a cook, I have a few tips and tricks I could pass on! Ho ho! Throw on an apron and let's get started!",
+  "files": [
+   "gossip/36b4143cf787c80e54c234543d6e82b8"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9f3acef697ac",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Жозефина Карсон",
+  "quest": null,
+  "en": "Greetings adventurer, I can teach you skills and techniques.",
+  "files": [
+   "gossip/c8a533bcf8d9c27512ccafc887ae7e5b"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9f6f578dddde",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Исаак Чан",
+  "quest": null,
+  "en": "You've come for training in order to pass it on to your pets?",
+  "files": [
+   "gossip/530f50b228568790a32debd04b5b6e3e"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e2a4303d5df8",
+  "zone": "other-gossip-4",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Сэм Сарсапарилла",
+  "quest": null,
+  "en": "Howdy there, traveler!",
+  "files": [
+   "gossip/597f9ed2c6f47f9b02ff1ba1dc939249"
+  ],
+  "uiMap": null
+ }
+]

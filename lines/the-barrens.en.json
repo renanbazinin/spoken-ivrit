@@ -1,0 +1,2804 @@
+[
+ {
+  "id": "17ea64d5af7f",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Burned-Out Remains",
+  "quest": "... and that note you found",
+  "en": "As you stumble upon the remnants of yet another charred corpse, your gaze falls upon a message secured to a wooden plank.",
+  "files": [
+   "quests/79007-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "fa829f4494a1",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Devrak",
+  "quest": "A Bundle of Hides",
+  "en": "If you must take these hides to Thunder Bluff, then you are speaking to the right orc!",
+  "files": [
+   "quests/6361-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "7e2792803e32",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jahan Hawkwing",
+  "quest": "A Bundle of Hides",
+  "en": "I have a bundle of hides from the animals of the Barrens, and must get them to Thunder Bluff. A colleague there, Ahanu, will use the hides to create leather goods.\n\nWill you take the hides to him for me?\n\nThe quickest way to Thunder Bluff is on the back of a wind rider. Bring the bundle of hides to Devrak, our wind rider master in the Crossroads, and speak to him about transport to Thunder Bluff.",
+  "files": [
+   "quests/6361-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "da39c10bda07",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Myriam Moonsinger",
+  "quest": "A Host of Evil",
+  "en": "The Forsaken do not pass on their... illness... from what I have seen. This diplomat seems to be granting undeath to would-be followers. I am beginning to think he is one of the Scourge.\n\nFor now, my concern is not with him though, it's with the growing ranks around him. They creep from the shadows daily, almost begging him for more power.\n\nI'm not powerful enough to fight them on my own, Adventurer. What do you say? Are you up for some hunting?",
+  "files": [
+   "quests/6626-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "016dfcf495ae",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Myriam Moonsinger",
+  "quest": "A Host of Evil",
+  "en": "Thank you, Adventurer! The work you've done will be a great help, I'm sure.\n\nI will continue my study of this diplomat and the rest of the quilboar here. If you seek greater adventure, I'd find a few friends and head into the cave that looks like a great boar maw just over there. I'm sure once you're inside you'll find greater challenges to face.",
+  "files": [
+   "quests/6626-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "a25be7a73fce",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Tatternack Steelforge",
+  "quest": "A New Ore Sample",
+  "en": "Adventurer, you have done well in helping me in the past. The warchief is pleased thus far with what I've accomplished, and asks me to continue with renewed determination. My honor dictates that I give you proper recognition to the warchief for all you have done, but first I would ask you for your help again.\n\nTravelers recently came from the south from a place called Thousand Needles. There they killed a kobold who had an unusual ore sample, but they would not sell it. I want a sample of that ore to examine.",
+  "files": [
+   "quests/1153-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "23a78fd3f397",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Tatternack Steelforge",
+  "quest": "A New Ore Sample",
+  "en": "A good sample, Adventurer. A good sample indeed.\n\nThose travelers can no longer lord over me the ore they found, now that you have been successful.\n\nI shall get to work on it immediately. If it proves strong enough, I will send a weapon crafted from the material back to the warchief to show him our success.\n\nI shall not forget your help, adventurer.",
+  "files": [
+   "quests/1153-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "0ce24ce1ab0e",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Marcy Baker",
+  "quest": "A Sealed Crate",
+  "en": "Thank you for your hard work, Adventurer. There has been an uprising in bandits and thieves intercepting trade routes as of late. If you find other crates laying around, please bring them here and we'll handle the rest.\n\nHere is your payment.",
+  "files": [
+   "quests/91899-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "cd331825d3bf",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Auld Stonespire",
+  "quest": "A Vengeful Fate",
+  "en": "Cairne is a noble leader for uniting our people here on Thunder Bluff.\n\nBut I cannot forgive those who drove us from our ancestral lands as easily as some. My people inhabited the southern Barrens for decades. The land was holy to us. But we were driven off by numerous foes.\n\nA vengeful fate awaits the crone, Charlga Razorflank, who musters a foul army from within Razorfen Kraul.\n\nBring me Razorflank's heart and I can die in peace, adventurer.",
+  "files": [
+   "quests/1102-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "2761ea30462e",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Auld Stonespire",
+  "quest": "A Vengeful Fate",
+  "en": "I see the nasty tribe of Razorfen Kraul now knows the pain of my people. Serves the foul beasts right.\n\nTo drive one from a holy land is a sin worthy of the most severe revenge.\n\nThank you, adventurer, for aiding me in my plight.",
+  "files": [
+   "quests/1102-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "320c906a802d",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tonga Runetotem",
+  "quest": "Altered Beings",
+  "en": "Hm...",
+  "files": [
+   "followup/1087-tauren-male-shaman"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "25f19eccd511",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tonga Runetotem",
+  "quest": "Altered Beings",
+  "en": "Strange. Very strange...",
+  "files": [
+   "followup/1088-tauren-male-shaman"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "4e7e0a5ee59d",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tonga Runetotem",
+  "quest": "Altered Beings",
+  "en": "Adventurer. These shells tell me much, but I fear many more questions are now raised...",
+  "files": [
+   "followup/1089-tauren-male-shaman"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "1ac323168d63",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tonga Runetotem",
+  "quest": "Altered Beings",
+  "en": "Your findings are incredible, Adventurer. These oases hold properties that must come from an outside source. Or perhaps an inside one.\n\nI want to know how these fissures are affecting the beasts who drink from the oases' water.\n\nHunt oasis snapjaws at the Lushwater and Stagnant Oases. Bring me their shells so I may examine them.",
+  "files": [
+   "quests/880-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "0d10929fa7b6",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tonga Runetotem",
+  "quest": "Altered Beings",
+  "en": "Thank you, Adventurer. Studying the beasts of an area can tell much about the area itself. We shall see what tale these shells tell.\n\nPlease accept my gratitude for your aid ... and perhaps you can use these coins. I find that I do not need them.",
+  "files": [
+   "quests/880-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "6c79d66cc21f",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Small Scroll",
+  "quest": "An Unholy Alliance",
+  "en": "My Lady,\n\nYou know very well what it is we are offering. The opportunity for you to take the Barrens and the lands beyond is a great one. We simply want your aid in return. By aid we mean nothing more than your giving us the freedom to take action in the area.\n\nPlease, allow us to discuss this further. We have great power and are willing to share with those wise enough to join us. I will remain outside Razorfen Downs for the time being.\n\nBest Regards,\nAmbassador Malcin",
+  "files": [
+   "quests/6522-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "dabbc4aaa2c6",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Varimathras",
+  "quest": "An Unholy Alliance",
+  "en": "Malcin claims he is outside Razorfen Downs. This ambassador must be slain--his mission a failure in the eyes of the Lich King.\n\nHis presence there does explain much of what we've discovered about the area--some of the quilboar have grown frightfully powerful while showing signs of the Plague in their own way. Truly that must be a sign of some sort of deal they've struck.\n\nFind Malcin and slay him, Adventurer. Return to me after the deed is done.",
+  "files": [
+   "quests/6521-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "25d077b5bcc9",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Varimathras",
+  "quest": "An Unholy Alliance",
+  "en": "Good. Well done, adventurer.\n\nNow that Malcin is dead, we can at least know that the Scourges advances will be halted. The Dark Lady thanks you for your efforts and wishes to reward you with a gift.\n\nAlthough we do not know the extent of the Scourges influence within the Downs, I am sure we will discover their plots soon enough.",
+  "files": [
+   "quests/6521-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "32224a5073aa",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Varimathras",
+  "quest": "An Unholy Alliance",
+  "en": "I recognize the insignia on this scroll, Adventurer. You found this on that crone who reigns over Razorfen Kraul? Interesting.\n\nThe Scourge aren't content with one continent it seems. This Ambassador Malcin--the one who wrote the note--is one of the Scourge's plagued servants, a human diplomat to the kingdom of Lordaeron before things... changed.\n\nIf the Scourge are trying to gain a foothold in Kalimdor, then it is up to us to act.",
+  "files": [
+   "quests/6522-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "f16e1707b461",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Helbrim",
+  "quest": "Apothecary Zamah",
+  "en": "I have rendered the spores you gave me into an emulsion. I must now send it to my associate, Apothecary Zamah. If you were to carry this to her, she can offer you something from our stores of alchemical goods.\n\nShe is in the Pools of Vision, a cave beneath the shamans of Thunder Bluff. The path to this cave is well hidden, but you may find it on the Spirit Rise bluff.\n\nDo hurry. This emulsion will maintain its potency for only a short time, and must be resealed and processed before then.",
+  "files": [
+   "quests/853-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "c13773628817",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Apothecary Zamah",
+  "quest": "Apothecary Zamah",
+  "en": "Ah, the spores from the Barrens that Helbrim was gathering. He garnered your aid in delivering them? Good.\n\nAnd the emulsion is still potent, so you must have wasted no time in the delivery. Well done, adventurer.",
+  "files": [
+   "quests/853-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "c332213a3237",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thork",
+  "quest": "Betrayal from Within",
+  "en": "You found the Razormane leader and killed him yourself, Adventurer? Amazing.\n\nI am without words, but that does not mean I am without thanks. The people of the Crossroads would do well to respect your strength.\n\nI must admit, I thought the leader of these raids on our supply lines was another quilboar. Thank you again, Adventurer.",
+  "files": [
+   "quests/906-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "e536941345ed",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mebok Mizzyrix",
+  "quest": "Blueleaf Tubers",
+  "en": "Hey adventurer! Don't forget to grab a crate, a manual and a command stick!",
+  "files": [
+   "followup/1788-goblin-male-zany"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "33e6797febba",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mebok Mizzyrix",
+  "quest": "Blueleaf Tubers",
+  "en": "Blueleaf tubers are a delicacy around the world! But they're rare, very rare. The only place to find them is here in the Barrens, deep in the earth, in Razorfen Kraul.\n\nAnd even then, they're impossible to find unless you know just where to look! That's why I've trained these snufflenose gophers to find them for me. They have great noses and can smell a tuber from fifty paces away.\n\nIt won't be easy, but if you get me some tubers I'll pay you handsomely.",
+  "files": [
+   "quests/1221-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "da19b3ae25a8",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mebok Mizzyrix",
+  "quest": "Blueleaf Tubers",
+  "en": "Great, you got them! I can sell these to my contacts for a bundle!\n\nThanks for the delivery, Adventurer! You are a great partner.",
+  "files": [
+   "quests/1221-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "7f42375215ed",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Andrew Brownell",
+  "quest": "Bring the End",
+  "en": "In the Barrens lies a horrid mess of tangled vines called Razorfen Downs. While our first observations of this place revealed little threat, our recent findings are much more serious...\n\nThe quilboar of Razorfen Downs have aligned themselves with the Scourge. A Lich named Amnennar the Coldbringer rules them now, using the power of his massive consciousness to control their every move.\n\nAmnennar has a direct telepathic link to Ner'zhul; we must sever this bond, Adventurer. An end must come to the Coldbringer.",
+  "files": [
+   "quests/3341-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "033349441e24",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Andrew Brownell",
+  "quest": "Bring the End",
+  "en": "The loyalty of a Lich is unswerving, Adventurer. Let them know that such loyalty will only bring them destruction.",
+  "files": [
+   "quests/3341-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "f66f567914d8",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Archbishop Benedictus",
+  "quest": "Bring the Light",
+  "en": "The Scourge is a persistent threat to the Alliance, a fact I am sure you know quite well. Recently, we have come across some very peculiar findings, Adventurer.\n\nIn the Barrens lies a horrid tangle of briars called Razorfen Downs. While once it was the home of simple quilboar, now it has become apparent that a pact was made with the Scourge, creating creatures far worse... They are now ruled by the lich, Amnennar the Coldbringer.\n\nAlign yourself with the Light, Adventurer; put an end to this evil union.",
+  "files": [
+   "quests/3636-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "7607426067dc",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Archbishop Benedictus",
+  "quest": "Bring the Light",
+  "en": "Thank you , Adventurer. The Scourge will now think twice before attempting to bolster its ranks again.\n\nMay you be blessed by the Light.",
+  "files": [
+   "quests/3636-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "b9a67afdd5e6",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Vrang Wildgore",
+  "quest": "Bruised Pride and Lion Hides",
+  "en": "I need someone with a strong sword arm and some extra time on their hands to help me gather some lion hides. It stings my pride to ask a stranger for this aid, but I took an injury to my leg recently. Until I heal, I'm in no shape to go hunting myself but I have obligations to keep.\n\nThe big ones in this area generally have the best hides, so start with those first.",
+  "files": [
+   "quests/95494-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "898d1b52abd4",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Vrang Wildgore",
+  "quest": "Bruised Pride and Lion Hides",
+  "en": "Yes, these look like they will do nicely. I have an arrangement with a local tanner to deliver these raw hides in exchange for various finished leather goods that I use as part of my trade.\n\nI've never come up short on my end of the arrangement, and even with my injury I do not intend to start now.",
+  "files": [
+   "quests/95494-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "c2f1f75bd401",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Regthar Deathgate",
+  "quest": "Centaur Bracers",
+  "en": "The Kolkar are a threat to the Horde's claims in the Barrens; we must reduce the numbers of their troops. And so, I have a bounty task for you.\n\nWhile in Kolkar territories, slay their warriors and collect centaur bracers. Return when you have a heap of bracers and the Horde will reward you well.",
+  "files": [
+   "quests/855-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "b7d7a2d9231c",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Regthar Deathgate",
+  "quest": "Centaur Bracers",
+  "en": "Nicely done. I'm sure you've struck fear into the surviving centaurs, Adventurer. If they have sense, they'll now calm themselves and stop their advances.\n\nBut I don't think they will, and that is unfortunate.\n\nUnfortunate...for them.",
+  "files": [
+   "quests/855-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "24d68a584be8",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Brewmaster Drohn",
+  "quest": "Chen's Empty Keg",
+  "en": "Well, I'll be...\n\nThis was one of Chen Stormstout's kegs. He traveled with Rexxar a long time ago. I haven't seen or heard about him in a kodo's age. I appreciate you bringing this to me, Adventurer.",
+  "files": [
+   "quests/819-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "2cd2710a8d72",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Brewmaster Drohn",
+  "quest": "Chen's Empty Keg",
+  "en": "Would you like a taste of Chen's namesake? Ahh, the stormstout is a mighty brew. Chen taught the recipe to my mentor, and my mentor passed it on to me. I'll need you to get me a few things, but I can tell you this: the kick is worth it.\n\nBring me 5 savannah lion tusks from any savannah lion, 5 plainstrider kidneys from any plainstrider, and 1 thunder lizard horn from any species of thunder lizard. That should do the trick nicely.\n\nYou can find these ingredients throughout the Barrens.",
+  "files": [
+   "quests/821-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "a9db017262c6",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Brewmaster Drohn",
+  "quest": "Chen's Empty Keg",
+  "en": "Haha... I never thought I'd make more of this stuff ever again.\n\nYou've stirred in me a great sense of nostalgia, Adventurer. Kind of reminds me of the last time I made a batch of trogg brew. Thank you. The memories warm my stomach.",
+  "files": [
+   "quests/821-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "0c2096ccdfd0",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Brewmaster Drohn",
+  "quest": "Chen's Empty Keg",
+  "en": "Good stuff, that stormstout, huh?\n\nI have another recipe that I learned from Chen. Would you be interested? It won't take long to make, and it might be useful if you plan on adventuring some more.\n\nBring me 5 lightning glands from any stormhide, 1 thunderhawk saliva gland from greater thunderhawks, and a kodo liver from any of the Barrens' kodos.\n\nLike I said, this stuff has kick; it's the trogg brew that I mentioned to you before.",
+  "files": [
+   "quests/822-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "e826c175c382",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Brewmaster Drohn",
+  "quest": "Chen's Empty Keg",
+  "en": "Haha! I knew you couldn't resist some of this brew. Come back again anytime you want some more, Adventurer. Just bring me more of the ingredients I had you collect.",
+  "files": [
+   "quests/822-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "630b52b37e1c",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Chen's Empty Keg",
+  "quest": "Chen's Empty Keg",
+  "en": "A small placard on one of the ends of the keg says,\n\n\"Chen Stormstout-\n\nMay your spirit be raised and always raise your spirits.\"",
+  "files": [
+   "quests/819-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "feb64a594161",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Bainham",
+  "quest": "Chol'aruk the Ravener",
+  "en": "There's rumors of a monstrous abomination that makes its lair at a cave to the northwest of here, on the plateau known as Thorn Hill. The Razormane call it Chol'aruk or \"The Ravener\" and those that have seen it say its so massive that it can swallow an orc whole.\n\nFew believe such tales, but I do... because I've fought one like it myself. On the honor of those I lost to these things, this beast must die.\n\nGather strong allies and find the lair of Chol'aruk. Kill the abomination and bring me it's head.",
+  "files": [
+   "quests/97005-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "a6cd39b84097",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Bainham",
+  "quest": "Chol'aruk the Ravener",
+  "en": "My dead men will rest easier knowing that there is one less of these monsters in the world. You've done well, and are a true and stalwart defender of the alliance. Thank you.\n\nGo with honor, Gryma.",
+  "files": [
+   "quests/97005-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "c9fce2cef11f",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gur'ak",
+  "quest": "Chol'aruk the Ravener",
+  "en": "You there, adventurer. I need your aid. There are rumors of a beast that makes its lair deep in a cave at Thorn Hill, northeast of here. The Razormane call it Chol'aruk or \"The Ravener\". It's supposedly five times the size of a normal quilboar with a thirst for blood that can never be sated.\n\nMost don't believe the tales. But I do--because I've fought its like before.\n\nSeek out its lair and slay Chol'aruk. Bring me its head. I warn you though--prepare well and do not go alone.\n\nBlood and thunder, adventurer.",
+  "files": [
+   "quests/97003-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "23dd0e753879",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gur'ak",
+  "quest": "Chol'aruk the Ravener",
+  "en": "Impressive, adventurer. None will doubt my tales when I return to Orgrimmar with this grim proof of the existence of these abominations. Rest assured this glory is yours however, and I will speak loudly of your deeds.\n\nLok-tar!",
+  "files": [
+   "quests/97003-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "55590c5ea437",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mankrik",
+  "quest": "Consumed by Hatred",
+  "en": "Perhaps you know the pain of uncertainty, perhaps not, adventurer. But know this: I stand here every day, from the sun's rising till its decline, scouring the horizon for more of those monsters. I've killed every pig man I've come across since, but my thirst for their blood is far from quenched. Perhaps instead of heading north to the Crossroads I should have headed to Taurajo.\n\nYou, adventurer--you could help me.\n\nKill them. Kill as many as you can. Bring me their tusks, and we will celebrate their deaths together.",
+  "files": [
+   "quests/899-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "b7006265f2ca",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mankrik",
+  "quest": "Consumed by Hatred",
+  "en": "Adventurer, you take my task seriously, and for that I thank you.\n\nAlthough my desire for revenge remains, I can at least smile seeing that the quilboars have felt pain themselves.",
+  "files": [
+   "quests/899-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "2601ddfa9fdd",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Regthar Deathgate",
+  "quest": "Counterattack!",
+  "en": "Beware, adventurer! Look to the west!",
+  "files": [
+   "followup/4926-orc-male-guard"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "f4c3369b5ca2",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Regthar Deathgate",
+  "quest": "Counterattack!",
+  "en": "The Horde commends your successes against the Kolkar, but the Kolkar themselves are maddened. I have reports that a contingent of Kolkar has traveled to the Barrens from their home in Desolace, to seek vengeance. My latest report was that, even now, they move against these bunkers, from the west!\n\nFace the Kolkar invaders, and end their threat in the Barrens. Kill them until their leader, Warlord Krom'zar, appears. Defeat him and bring me a piece of his banner as proof.\n\nWe're counting on you, Adventurer.",
+  "files": [
+   "quests/4021-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "1b5fff59da89",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Regthar Deathgate",
+  "quest": "Counterattack!",
+  "en": "You have done it! You have defeated the Kolkar!\n\nI will be sure Thrall receives word of your actions here, Adventurer.\n\nStand tall. You do yourself, and the Horde, proud.",
+  "files": [
+   "quests/4021-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "7600e8d00149",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kargal Battlescar",
+  "quest": "Crossroads Conscription",
+  "en": "Take this signed recruitment letter to the Crossroads.\n\nSergra Darkthorn, curse her hide, is in charge there. She's a nasty shaman who will talk your head in circles before she lets you do anything useful. Thrall is convinced she's something special, but I'm not so sure.\n\nYou'll just have to decide for yourself, pup...",
+  "files": [
+   "quests/842-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "74670c171c89",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Sergra Darkthorn",
+  "quest": "Crossroads Conscription",
+  "en": "Alright, Adventurer. You want to earn your keep with the Horde? Well there's plenty to do here, so listen close and do what you're told.\n\n I see that look in your eyes, do not think I will tolerate any insolence. Thrall himself has declared the Hordes females to be on equal footing with you men. Disrespect me in the slightest, and you will know true pain.",
+  "files": [
+   "quests/m-842-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "44c19e359a2d",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jorn Skyseer",
+  "quest": "Cry of the Thunderhawk",
+  "en": "The thunderhawk, Adventurer, is a fierce beast. It is time for you to face them. You must find where it roams, and bring me its wings as proof of your successful hunt.\n\nDo this, and your time with me will near its end.",
+  "files": [
+   "quests/913-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "030e94ce5523",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jorn Skyseer",
+  "quest": "Cry of the Thunderhawk",
+  "en": "You, like the thunderhawk, should be proud. You have bested every foe we set you before, and have done so with strength, courage and honor.\n\nBut your path, Adventurer, continues. In fact, you will find that true hunters forever strive, forever walk their path with the same pride you have shown me.\n\nNow, it is time to move on.",
+  "files": [
+   "quests/913-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "73c18a7cc635",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mebok Mizzyrix",
+  "quest": "Deepmoss Spider Eggs",
+  "en": "Spider egg omelettes are a new fad in Booty Bay! The problem is... Booty Bay's got no eggs.\n\nI smell an opportunity!\n\nIn Windshear Crag and Sishir Canyon, in the Stonetalon Mountains to the northwest, lives the deepmoss spider. Bring me its eggs and I'll pay a bundle!\n\nIn Windshear Crag, the eggs will be clustered under what trees remain.\n\nIn Sishir Canyon... well, if you have a weak stomach then maybe you should just collect the eggs at Windshear Crag...",
+  "files": [
+   "quests/1069-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "e9a2993eb53b",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mebok Mizzyrix",
+  "quest": "Deepmoss Spider Eggs",
+  "en": "You got them! Thank you!\n\nI'll have these sent to Dizzywig and get them shipped to Booty Bay. I can already taste the profits!\n\nHere is your cut, Adventurer. I couldn't have made this deal without you.",
+  "files": [
+   "quests/1069-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "6d34ff31f61d",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ebru",
+  "quest": "Deviate Eradication",
+  "en": "Naralex had a noble goal.\n\nOur great leader aspired to enter the Emerald Dream and help regrow these harsh lands back into the lush forest it once was. But something went terribly wrong.\n\nNaralex's dream turned into a nightmare and corrupt creatures began to inhabit the caverns.\n\nWhile some Disciples of Naralex seek to awake our master, my concern is with ridding these caves of the evil beasts.\n\nBrave the caverns, adventurer, and eradicate the deviate spawn.",
+  "files": [
+   "quests/1487-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "ddd8eb7879f4",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ebru",
+  "quest": "Deviate Eradication",
+  "en": "As a Disciple of Naralex, I commend your bravery, adventurer.\n\nYour aid in ridding the caverns is the first step in our long plight to see the Barrens restored.\n\nThank you and may you prosper.",
+  "files": [
+   "quests/1487-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "77268f65cbcd",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Nalpak",
+  "quest": "Deviate Hides",
+  "en": "As Naralex descended deeper into his nightmare, a strange breed of beasts arose from beneath the Barrens into the Wailing Caverns.\n\nThese deviate creatures have strange, otherworldly properties. While evil in nature, it is my opinion that some good can come from their existence here in Kalimdor. I believe their hides will be of particular use in the ways of leatherworking.\n\nIf you feel up to the task, venture into the caves below and retrieve some deviate hides.",
+  "files": [
+   "quests/1486-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "5fc90c1147a4",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Nalpak",
+  "quest": "Deviate Hides",
+  "en": "Your efforts shall not go unnoticed in gathering these hides, Adventurer.\n\nThank you for your dedication.",
+  "files": [
+   "quests/1486-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "02e30d20ef7a",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thork",
+  "quest": "Disrupt the Attacks",
+  "en": "All the quilboars are our enemies, Adventurer. Some just prove to be more of a nuisance than others.\n\nThe Razormane tribe has been attacking our supply lines from Durotar, causing us no end of annoyance. I have scouts seeking the leader of these raids, but until then, any losses you can inflict on the filthy pig men would aid us.\n\nStart in the northeast towards Durotar. You can always tell their dens from the huge thorny vines that come up from the earth. Seek them out, and slay them.",
+  "files": [
+   "quests/871-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "0342b8f1d2e7",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thork",
+  "quest": "Disrupt the Attacks",
+  "en": "You have done well, Adventurer. Those insolent quilboars will finally learn that the might of the Horde is not to be ignored.",
+  "files": [
+   "quests/871-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "32b2ecb69c25",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Doras",
+  "quest": "Doras the Wind Rider Master",
+  "en": "You have to get this to the Crossroads in the Barrens? Yes, I can get you there...",
+  "files": [
+   "quests/6385-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "f52fcece53e9",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": "Doras the Wind Rider Master",
+  "en": "I've written a letter of thanks to Zargh. Will you deliver it for me? If you've already been to the Crossroads and spoken with their wind rider master, then you can fly a wind rider back there.\n\nTake my letter to Doras, the wind rider master of Orgrimmar, and speak with him about transport to the Crossroads.",
+  "files": [
+   "quests/6385-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "c19a133fd191",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Sergra Darkthorn",
+  "quest": "Echeyakee",
+  "en": "The spirit of Echeyakee flows through you, adventurer.",
+  "files": [
+   "followup/1295-orc-female-shaman"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "15e5cd1a1f2f",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Sergra Darkthorn",
+  "quest": "Echeyakee",
+  "en": "Whitemist, Echeyakee in the Tauren tongue, is the king of the savannah cats. He hunts with such stealth, they say he's like a thin, white mist on the earth. And he kills so fast his prey have no time for fear, or pain.\n\nThe Tauren say he is both mercy and death.\n\nYou will learn if that's true, for I now set you on the path to hunt Echeyakee. His lair is northeast of the Crossroads, among the bones of giant Kodo\n\nGo. Blow this horn when you reach his lair. Blow the horn, and he will come.",
+  "files": [
+   "quests/881-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "9a536e77051c",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Sergra Darkthorn",
+  "quest": "Echeyakee",
+  "en": "You've beaten Echeyakee, and though his days of hunting are over... his spirit is with you. He will show you the strength found in subtlety, and the honor in mercy.\n\nYour path is still long, adventurer. Let's hope you stride it well.",
+  "files": [
+   "quests/881-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "30d250d35912",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Korran",
+  "quest": "Egg Hunt",
+  "en": "Hey, Adventurer. I been sent to the Crossroads to watch over the land and take note of its happenings for my masters in Orgrimmar.\n\nOne object of my studies are the insect-like creatures found to the south in the Field of Giants. We know little of the creatures, so I be makin' it a point to discover more. They seem to have intelligence to them, more so than any normal animal.\n\nTake this digging claw and collect some of the creatures' eggs from their mounds, but be careful: if alerted, they will attack you.",
+  "files": [
+   "quests/868-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "08490e09fc90",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Korran",
+  "quest": "Egg Hunt",
+  "en": "You please me, Adventurer. The eggs and the tool. Well done.\n\nAnd for your reward...",
+  "files": [
+   "quests/868-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "c0c2924eaaf1",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jorn Skyseer",
+  "quest": "Enraged Thunder Lizards",
+  "en": "Now, Adventurer, you must face the great thunder lizards. So large are the beasts, the ground rumbles as they stomp across the plains. Take care as you fight them, for one false step and you may find yourself beneath their feet.\n\nYou will find the thunder lizards in the southern Barrens. They are known as Stormsnouts, Stormhides and Thunderheads. Return to me after you have bested them.",
+  "files": [
+   "quests/907-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "e6476238e92d",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jorn Skyseer",
+  "quest": "Enraged Thunder Lizards",
+  "en": "It is good to see you return with proof of victory. And it is good to know you have done so with your bones unbroken.",
+  "files": [
+   "quests/907-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "92f4139a76aa",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Belnistrasz",
+  "quest": "Extinguishing the Idol",
+  "en": "Near the entrance is an idol that functions as a macabre oven for the Quilboar; the beasts... they literally consume their abductees from the Barrens. I can shut down the idol and bind them from using it again, but I need your aid in doing so. My plan: escort me to the idol. Once we arrive, I'll commence the ritual. I'll barely be able to communicate with you, let alone defend myself. Protect me while I shut down the idol. If they take me down, then it's all over for us.\n\nAre you with me?!",
+  "files": [
+   "quests/3525-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "cf94e219191d",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Belnistrasz",
+  "quest": "Extinguishing the Idol",
+  "en": "Belnistrasz's sudden departure has left behind a burning brazier. As you stare in to the flame, the image of a great-winged red dragon fills your mind. A more graveled version of Belnistrasz's voice speaks directly to you.\n\n\"Indeed mortals, you are the heroes I had hoped you would be. Thanks to you the butchery these beasts were perpetrating is a thing of the past. My faith in mortals such as yourself has been once more renewed. Take this as a reward befitting of a hero.\"",
+  "files": [
+   "quests/3525-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "9a05ab347e1e",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Belnistrasz's Brazier",
+  "quest": "Extinguishing the Idol",
+  "en": "Near the entrance is an idol that functions as a macabre oven for the Quilboar; the beasts... they literally consume their abductees from the Barrens. I can shut down the idol and bind them from using it again, but I need your aid in doing so. My plan: escort me to the idol. Once we arrive, I'll commence the ritual. I'll barely be able to communicate with you, let alone defend myself. Protect me while I shut down the idol. If they take me down, then it's all over for us.\n\nAre you with me?!",
+  "files": [
+   "quests/3525-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "b7a78fb651e5",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Belnistrasz's Brazier",
+  "quest": "Extinguishing the Idol",
+  "en": "Belnistrasz's sudden departure has left behind a burning brazier. As you stare in to the flame, the image of a great-winged red dragon fills your mind. A more graveled version of Belnistrasz's voice speaks directly to you.\n\n\"Indeed mortals, you are the heroes I had hoped you would be. Thanks to you the butchery these beasts were perpetrating is a thing of the past. My faith in mortals such as yourself has been once more renewed. Take this as a reward befitting of a hero.\"",
+  "files": [
+   "quests/3525-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "a2d876414cc5",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Sulhasa",
+  "quest": "Field to Clear",
+  "en": "I'm so glad you saw me!\n\nThe weather was lovely this morning, so I walked from Camp Taurajo down the golden road. When it came time to head back, I couldn't--a pack of hyenas started circling, and Stormhide lizards blocked my only escape.\n\nScrambling up this tree I went, and now there are too many foes about at this hour for me to make the run home through the fields.\n\nWould you mind clearing out these Stormhide and Hecklefang Stalkers for me?",
+  "files": [
+   "quests/98093-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "8fa0d1fac987",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Sulhasa",
+  "quest": "Field to Clear",
+  "en": "Thank you for helping me out, Illbean. I'll let Camp Taurajo know you were able to rescue me. I'm so lucky you helped, I could have been stuck there all day!\n\nThis is all I have to spare, but I hope it's useful to you.\n\nI'll be making my exit once I make the careful climb down.",
+  "files": [
+   "quests/98093-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "138607ba6ca0",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Captain Thalo'thas Brightsun",
+  "quest": "Free From the Hold",
+  "en": "And to think, we thought Firebough was long dead!\n\nYour heroics have earned you a place of honor with the Thalo'dan Privateers, Adventurer.",
+  "files": [
+   "quests/898-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "70feb2f4e6fc",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Gilthares Firebough",
+  "quest": "Free From the Hold",
+  "en": "Finally! Someone to rescue me!\n\nI can't believe you got past the guards. These zealots from Theramore are out of their minds. They sank our ship and imprisoned me, the only survivor. I was called an enemy and threat to the Alliance.\n\nMe! A threat to their great sham of an Alliance? I was a deckhand on a moonshine transport between Ratchet and Booty Bay.\n\nEnough talk. Help me get back to Ratchet will you? Let me know when you're ready and we'll make our break.",
+  "files": [
+   "quests/898-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "43b45ef6938b",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Helbrim",
+  "quest": "Fungal Spores",
+  "en": "Ah, good. These spores have rendered nicely. Thank you, adventurer.",
+  "files": [
+   "followup/1077-scourge-male-dark"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "541b4d9eb461",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Helbrim",
+  "quest": "Fungal Spores",
+  "en": "Thank you for the spores, adventurer. They are now prepared for transport.",
+  "files": [
+   "followup/1078-scourge-male-dark"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "346c52844402",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Helbrim",
+  "quest": "Fungal Spores",
+  "en": "The oases of the Barrens hide a mystery. Life energy flows from their waters, invigorating the plants and beasts that drink it.\n\nInvigorating, and altering.\n\nThere is a mushroom that grows near these oases. Its spores hold properties that we, the apothecaries of Lordaeron, find useful.\n\nBring me these spores and you will earn our gratitude.",
+  "files": [
+   "quests/848-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "ac0287407963",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Helbrim",
+  "quest": "Fungal Spores",
+  "en": "Ah, yes. These are good specimens. Potent.\n\nI am Forsaken, and we honor our contracts. Here is your reward, Adventurer.",
+  "files": [
+   "quests/848-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "ad8c5cae150d",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Gann Stonespire",
+  "quest": "Gann's Reclamation",
+  "en": "In solitude I wander these roads.\n\nThe dwarves of Bael Modan show no respect for my land. Horrendous blasts drive holes deep into the ground as noisy machines rip apart the hills. Lands which once served as home and provider to my tribe are now riddled with destructive dwarves.\n\nAttempts at reaching a diplomatic resolution have failed. Now is the time for decisive action.\n\nDrive the dwarves from the Bael Modan excavation by force and bring to me the journal of their leader, Prospector Khazgorm.",
+  "files": [
+   "quests/843-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "8a267e3a1ca2",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Gann Stonespire",
+  "quest": "Gann's Reclamation",
+  "en": "Khazgorm met the fate he earned. I feel no remorse for the fool. He was an infidel on these lands.\n\nMay his death serve as a warning to all those who threaten to disrupt our way of life.\n\nNow let me take a moment to study the dwarf's journal....",
+  "files": [
+   "quests/843-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "e820fae199de",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Master Apothecary Faranell",
+  "quest": "Going, Going, Guano!",
+  "en": "As you can see, adventurer, we're up to some very.... interesting experiments at the Royal Apothecary Society.\n\nAs the Master here, it is my job to oversee the most ambitious of our alchemical attempts. So much work and so little time!\n\nYou look well traveled for a adventurer. Perhaps you can aid me.\n\nI'm in need of a rare substance. It's foul material; it comes from a rare species of bats only found in the muck-hole known as Razorfen Kraul. Bring to me the guano from the Kraul Bats so we can begin our work...",
+  "files": [
+   "quests/1109-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "fa9939b51323",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Master Apothecary Faranell",
+  "quest": "Going, Going, Guano!",
+  "en": "Splendid! This is just the start we needed, adventurer.",
+  "files": [
+   "quests/1109-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "b0dcaeb3d22c",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Hamuul Runetotem",
+  "quest": "Hamuul Runetotem",
+  "en": "I bid you greetings, Adventurer. You are welcome here, and I suggest you gather all your strength. For the task we now set before you ... is a dire one.",
+  "files": [
+   "quests/1489-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "167890a18bee",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tonga Runetotem",
+  "quest": "Hamuul Runetotem",
+  "en": "The shells you brought me have a taint, one I have never before seen. I am certain the water of the Oases is the cause, and I can sense the confusion they cause this land. It is as if the land dreams and cannot awake.\n\nThe Wailing Caverns must be the source of the taint. But before you go there, speak with Hamuul Runetotem, the elder druid. I sent word to him of the happenings in the Barrens. He is wise, and can offer you counsel.\n\nYou will find him in Thunder Bluff, on the Elder Rise.",
+  "files": [
+   "quests/1489-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "abcab1041c4e",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Darsok Swiftdagger",
+  "quest": "Harpy Lieutenants",
+  "en": "Hahaha, adventurer. Back for more? Good, I like to hear that.\n\nThis time I want you to assassinate some of the harpy lieutenants in the Dry Hills. Only Witchwing Slayers can be lieutenants, and you can tell them apart by the rings they carry. They are a nasty bunch, but they lead some of the underlings in that area. Taking out 6 of them will be a decisive strike against their matriarchy.\n\nMake sure they die painfully, adventurer. We want those harpy wenches to know the idiocy of picking fights with the Horde.",
+  "files": [
+   "quests/875-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "277bef5b936a",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Darsok Swiftdagger",
+  "quest": "Harpy Lieutenants",
+  "en": "Excellent work my friend. I think you'll go far within the Horde.",
+  "files": [
+   "quests/875-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "0711f817b0d7",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Darsok Swiftdagger",
+  "quest": "Harpy Raiders",
+  "en": "The blasted harpies have been ravaging our caravan supplies for too long. It's time we slit a few of their throats and diminished their numbers.\n\nI've been snooping around their nests and figured out who leads who. The most devastating attack will destroy a good section of their lower chain of command and then we can work our way to the top.\n\nI'll start you off slow, take out Witchwing Harpies and Witchwing Roguefeathers in the Northwest and bring me 8 Witchwing talons. That should be a good start...",
+  "files": [
+   "quests/867-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "88adbef1e96c",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Darsok Swiftdagger",
+  "quest": "Harpy Raiders",
+  "en": "Oh, these are nice. Real nice... Good job, adventurer. I look forward to seeing more of your work in the future.",
+  "files": [
+   "quests/867-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "8b6de847d292",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mankrik",
+  "quest": "Her Name Is Olgra",
+  "en": "The healer who saved me could not save her, and she has died in battle. Her name is Olgra, and I will never forget her.\n\nYou did not find her adornments on her body? She wore many jewels of polished bone.\n\nSlay the Razormane Raiders near where she fell, and find her precious works of art!\n\nI will place them with the memorial that I build in her memory.",
+  "files": [
+   "quests/95774-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "f8daa5273da5",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mankrik",
+  "quest": "Her Name Is Olgra",
+  "en": "I will place these adornments with my wife's memorial, so that I never forget her. My blood will always run hot with revenge!\n\nYou have done me... done us... a great favor, Johnathon.",
+  "files": [
+   "quests/95774-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "c6631ac3aea5",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Regthar Deathgate",
+  "quest": "Hezrul Bloodmark",
+  "en": "Hezrul Bloodmark is the leader of the Kolkar centaurs in the Barrens. He is fierce, brutal and cunning. Defeating him would disrupt and fracture the Kolkars, greatly reducing their threat to us.\n\nSo kill him. As with Barak and Verog, bring me Hezrul's Head.\n\nHe leads his people from the Lushwater Oasis, to the south.",
+  "files": [
+   "quests/852-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "3f4cabd36d3f",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Regthar Deathgate",
+  "quest": "Hezrul Bloodmark",
+  "en": "I commend you, Adventurer. These centaur are undisciplined and cannot focus their rage as the orcs can, but they are fierce nonetheless. In defeating them, your valor is proven.",
+  "files": [
+   "quests/852-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "af1928794a9e",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kadrak",
+  "quest": "Horde Presence",
+  "en": "This scroll is from that scheming dryad Rynthariel, Keymaster of the Talon Den on Stonetalon Peak.\n\nShe'll not be making any more contact with the messenger you looted this from, heh, but we must stand our ground here. The Horde will not tolerate her outrunners here.\n\nAdventurer, travel to the Talon Den. Kill Rynthariel, and then put up a symbol for all to see. Take this Horde flag, Adventurer. Put it up in the Talon Den so that they will not be so rash as to send another messenger through our territory again.",
+  "files": [
+   "quests/3514-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "c2eeb39a305f",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kadrak",
+  "quest": "Horde Presence",
+  "en": "You're a tough one! Ridding the Den of Rynthariel is a major step, Adventurer. They will be slow to regroup, and so we can count on less Alliance runners in the Barrens. They will think again before sending another this way.\n\nThank you.",
+  "files": [
+   "quests/3514-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "a9d54e4554cb",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wizzlecrank's Shredder",
+  "quest": "Ignition",
+  "en": "I don't suppose Sputtervalve sent you? I'm in a bind here. I hopped in without realizing that I need a key to unlock the shredder's movement column. One of the other shredder operators asked me if everything was okay, and I panicked! Instead of telling him that I was missing my key, I told him there was some sort of mechanical problem.\n\nWe need to get out of here on the double! Go up to the control room at the top of the derrick, the supervisor should have a key for this shredder.\n\nHelp me out here!",
+  "files": [
+   "quests/858-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "e8910311bfb7",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wizzlecrank's Shredder",
+  "quest": "Ignition",
+  "en": "Yep, this looks like the right key. Let me just make sure I know how to work this thing...\n\nHmm... rotation control... This regulates speed and stability... fine arm movement control. Just look at this! I can't believe the Venture Company could design something this much better than ours. I've got to get this back to Ratchet!",
+  "files": [
+   "quests/858-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "1aa6cbf52b91",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Hamuul Runetotem",
+  "quest": "In Nightmares",
+  "en": "Falla sent you to me? Well now, let's see that shard that you say she was so hesitant to talk about...\n\n\nOh... I didn't... Well.\n\nAdventurer, thank you for delivering this to me. It isn't wise to speak of things such as this, though, I advise you. These are matters that you should not concern yourself with.\n\nLet's just say that things in the Emerald Dream are not as we thought...\n\nPerhaps in the future, our paths may cross again.",
+  "files": [
+   "quests/3369-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "a3c57f87f18d",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Falla Sagewind",
+  "quest": "In Nightmares",
+  "en": "This shard holds great secrets; it is the pure essence of the Emerald Dream. However, what I see in this shard is not a dream; one would call this sort of a vision a nightmare.\n\nI do not wish to alarm you, Adventurer, but I think it is best if you deliver this shard into the hands of a wise druid as soon as you can.\n\nHamuul Runetotem on Elder Rise is who you need to find. Head to Thunder Bluff. I cannot say more.",
+  "files": [
+   "quests/3369-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "8750cf76ed80",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Falla Sagewind",
+  "quest": "In Nightmares",
+  "en": "This shard holds great secrets; it is the pure essence of the Emerald Dream. However, what I see in this shard is not a dream; one would call this sort of a vision a nightmare.\n\nI do not wish to alarm you, Adventurer, but I think it is best if you deliver this shard into the hands of a wise druid as soon as you can... \n\nMathrengyl Bearwalker in the Cenarion Circle is who you need to find. Head to Darnassus. I cannot say more.",
+  "files": [
+   "quests/3370-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "6034d66ec367",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mathrengyl Bearwalker",
+  "quest": "In Nightmares",
+  "en": "Falla sent you to me? Well now, let's see that shard that you say she was so hesitant to talk about...\n\n\nOh... I didn't... Well.\n\nAdventurer, thank you for delivering this to me. It isn't wise to speak of things such as this, though, I advise you. These are matters that the Cenarion druids alone must attend to.\n\nLet's just say that things in the Emerald Dream are not as we thought...\n\nPerhaps in the future, our paths may cross again.",
+  "files": [
+   "quests/3370-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "5f5df79d0369",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Mahren Skyseer",
+  "quest": "Isha Awak",
+  "en": "May the spirit of Isha Awak give you strength, adventurer.",
+  "files": [
+   "followup/1301-tauren-female-official"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "086abcb3571a",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Mahren Skyseer",
+  "quest": "Isha Awak",
+  "en": "The grand Isha Awak is lord of these waters. Great is his strength, and solemn his pride. The humans on the coast fear him, for he has consumed many of their number.\n\nBut I do not fear him. I am grateful he is here. He is a worthy challenge, and honorable prey.\n\nIf you are ready, then swim out and search for Isha Awak, the Deep Doom.\n\nHis spirit dwells in his heart, and to hear its beat is to know your fate.",
+  "files": [
+   "quests/873-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "6e38cee37ddb",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Mahren Skyseer",
+  "quest": "Isha Awak",
+  "en": "You now are one with Isha Awak, Adventurer. His spirit is with you. He lurks in your eyes...\n\nEyes that, one day, will learn to see.",
+  "files": [
+   "quests/873-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "99b024989ae5",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jorn Skyseer",
+  "quest": "Ishamuhale",
+  "en": "Ishamuhale, Speartooth, is the fiercest sunscale raptor of the Barrens. He does not hunt for sport, nor for food. He hunts because hunting is his passion. He kills because it is his nature to kill.\n\nAnd you will learn of his nature, Adventurer, for your path now follows the taloned tracks of Ishamuhale.\n\nBegin the hunt. Slay his favorite prey, a zhevra, then bring its carcass to the dead tree northwest of Ratchet. Ishamuhale will smell the carcass and be drawn to it.\n\nBe ready when he comes.",
+  "files": [
+   "quests/882-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "310f00a630ff",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jorn Skyseer",
+  "quest": "Ishamuhale",
+  "en": "This fang is merely a token, but what it represents is profound.\n\nIshamuhale's strength is in you, Adventurer. May you use it with temperance. That is your burden.\n\nThat is your honor.",
+  "files": [
+   "quests/882-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "3d4d7045bd8c",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jorn Skyseer",
+  "quest": "Jorn Skyseer",
+  "en": "Greetings, young one. You are here to walk the hunter's path?\n\nVery good. Let us begin.",
+  "files": [
+   "quests/3261-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "1a38daf401d8",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Sergra Darkthorn",
+  "quest": "Jorn Skyseer",
+  "en": "Your time with me is over, Adventurer. To learn more, you must go to Camp Taurajo to the south and speak with Jorn Skyseer. He will continue your guidance.",
+  "files": [
+   "quests/3261-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "151e607bd7d8",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Kirge Sternhorn",
+  "quest": "Journey to the Crossroads",
+  "en": "To reach The Crossroads, adventurer, follow the road east then north.",
+  "files": [
+   "followup/1364-tauren-male-shaman"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "13df7e5cc347",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Kirge Sternhorn",
+  "quest": "Journey to the Crossroads",
+  "en": "I have foreseen your arrival, young adventurer. Though perhaps you are not so young anymore.\n\nI think that it is time for you to move deeper into this land. I can sense that you are destined for great things.\n\nIt is the Crossroads that you must seek out, for our lives with the orcs have become intertwined and they need assistance. Continue down this road towards the east and follow it north to the Crossroads. Find Thork within its walls, he has the Earthmother's blessing.",
+  "files": [
+   "quests/854-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "2f77521774a4",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thork",
+  "quest": "Journey to the Crossroads",
+  "en": "It is good to see that more of our traveler allies have come to assist us from as far away as Thunder Bluff. Again, I welcome you.",
+  "files": [
+   "quests/854-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "6b0f75a893aa",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thork",
+  "quest": "Journey to the Crossroads",
+  "en": "What's this? An elf? And you say the Warchief sent you?\n\n<Thork grunts sharply as he looks you up and down.>\n\nYou look a little skinny to me, but it matters not. Out here you'll either thrive and survive, or you'll die. That is the way of things in these lands.",
+  "files": [
+   "quests/98024-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "e9b4563846fa",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "Journey to the Crossroads",
+  "en": "After journeying here from the elemental plane, the problems our lands face may seem small. Rest assured, the dangers the horde faces are very real, and you will grow formidable should you survive your service.\n\nIf you'd like to get started doing some good in our world, travel southwest to the vast lands known as the Barrens. There is a settlement there known as the Crossroads. The proud citizens there are ever in need of aid.\n\nGo with honor, adventurer!",
+  "files": [
+   "quests/98024-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "84bf05085826",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Regthar Deathgate",
+  "quest": "Kolkar Leaders",
+  "en": "The centaurs have plagued the Tauren for years. And recently, the Kolkar centaurs of the Barrens have grown into a real threat. Normally they were disorganized in these lands, but new leaders have risen among them. Rallying them.\n\nTo preserve our holdings here, these centaur leaders must be destroyed.\n\nBring me the head of Barak Kodobane. He camps near the Forgotten Pools to the north.\n\nDefeat him, then return to me.",
+  "files": [
+   "quests/850-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "702672b8c698",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Regthar Deathgate",
+  "quest": "Kolkar Leaders",
+  "en": "Well done, Adventurer. The centaur are low, brutish creatures, but a few have the wit and vision to lead. And those are the most dangerous.\n\nBarak was such a centaur. It is good that he is dead.",
+  "files": [
+   "quests/850-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "c781497a8681",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Hoof of Lakota'mani",
+  "quest": "Lakota'mani",
+  "en": "The Hoof of Lakota'mani is a symbol of the strength of the great kodo.",
+  "files": [
+   "quests/883-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "abf46dfd7546",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jorn Skyseer",
+  "quest": "Lakota'mani",
+  "en": "Lakota'mani is called \"Earthshaker\" in our language, and his steps are like gathered thunder. He is with you now, and his courage mingles with yours. Together there is no conflict you cannot face.\n\nWalk tall, Adventurer. Walk tall, Earthshaker.",
+  "files": [
+   "quests/883-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "209945621891",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Nara Wildmane",
+  "quest": "Leaders of the Fang",
+  "en": "The druids in the Wailing Caverns, the Druids of the Fang, are an aberration. They were part of an order of noble druids whose plan was to heal the Barrens, but now seek to remake that land to match their own, twisted dreams.\n\nThe Druids of the Fang have four leaders, and each possesses a dream gem. Even now their faces haunt me! Defeat the leaders and bring me their gems, and the Barrens may again know peace.\n\nGo, Adventurer. You will find them lurking deep within the Wailing Caverns.",
+  "files": [
+   "quests/914-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "cb310aa0670b",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Nara Wildmane",
+  "quest": "Leaders of the Fang",
+  "en": "You have done it, Adventurer. You killed the leaders of the Druids of the Fang. My dreams are now free of their wicked faces, and you have helped save the Barrens from a cursed future.\n\nI thank you, Adventurer. I thank you for myself, for the druids of Thunder Bluff, and for the land.",
+  "files": [
+   "quests/914-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "97ba853a480f",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Darsok Swiftdagger",
+  "quest": "Letter to Jin'Zil",
+  "en": "You've done so well for me, adventurer. You're a regular lucky rabbit's foot and there's something I want you to see.\n\nThe harpies are not from around the Barrens. They come from a place called Stonetalon, far to the northwest of here. Though it is probably a dangerous place for you, I need this letter delivered to an old friend of mine who lives there, a witch doctor by the name of Jin'Zil.\n\nHe'll be happy to know that Serena Bloodfeather is dead, and I think you'll find Stonetalon an interesting place.",
+  "files": [
+   "quests/1060-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "3491f0d30a17",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Jin'Zil",
+  "quest": "Letter to Jin'Zil",
+  "en": "Ahh, a letter from Darsok. I have not heard from him in many years.\n\nSo the last of the Bloodfeathers are dead, eh? That is good news, I can remember when my friend Rokhan went with that crazy mok'nathal to kill her older sister. Ah, to be young again, like you.",
+  "files": [
+   "quests/1060-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "76022e1c4d05",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mankrik",
+  "quest": "Lost in Battle",
+  "en": "We battled in a small tauren camp when we were separated--she held three of the Bristlebacks off by herself. But the odds began to overwhelm us. I led some away only to see her overwhelmed by newcomers. In my rage, I turned to face my enemies, but they brought me down easily with their vast numbers.\n\nI awoke to a tauren druid tending my wounds--he had come across me on the Gold Road as I fell.\n\nPlease, adventurer, find some sign of my wife.",
+  "files": [
+   "quests/4921-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "8c2e25047bcd",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mankrik",
+  "quest": "Lost in Battle",
+  "en": "I understand. Thank you, adventurer.",
+  "files": [
+   "quests/4921-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "b0cc1fa83a1f",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jorn Skyseer",
+  "quest": "Mahren Skyseer",
+  "en": "You have hunted the beasts of the Barrens. Your spirit is strong. But a hunter must always be prepared. A true hunter can stalk prey down any path. Mountains and swamps will not sway him.\n\nNot even the sea.\n\nFind my sister, Mahren. She hunts the great water beasts along the coast. She will be your teacher in their ways.\n\nBut be wary in your search for her, for the Barrens' coast is held by humans.",
+  "files": [
+   "quests/m-874-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "c74c9de1e5c7",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Mahren Skyseer",
+  "quest": "Mahren Skyseer",
+  "en": "My brother sent you, did he? Then you must have proven yourself to him. If you have earned the respect of Jorn, then you have my respect as well.\n\nAre you ready to tread farther down the hunter's path?",
+  "files": [
+   "quests/874-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "64bdde2bd76b",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Devrak",
+  "quest": "Meats to Orgrimmar",
+  "en": "You have to get this meat to Orgrimmar? That is no problem. For a small fee, my wind rider can take you there.",
+  "files": [
+   "quests/6365-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "f2445a92cd41",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Zargh",
+  "quest": "Meats to Orgrimmar",
+  "en": "I have some choice cuts of meat that I want to send to a friend. Her name is Gryshka, the innkeeper in Orgrimmar. Will you deliver the meat for me?\n\nThe fastest way to Orgrimmar is on a wind rider. Take the meats to the Crossroads wind rider master, Devrak, and speak with him about transport to Orgrimmar.",
+  "files": [
+   "quests/6365-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "911e4eafdcdb",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Mupsi Shacklefridd",
+  "quest": "Mending Old Wounds",
+  "en": "I'm happy you're seeing the error of your ways, Adventurer. Keep the supplies coming; we're not going to forget about you so easily, mister!",
+  "files": [
+   "quests/m-9267-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "2aac9a92ad3f",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wharfmaster Dizzywig",
+  "quest": "Miner's Fortune",
+  "en": "Being Wharfmaster of a busy port like Ratchet, I keep my finger on the pulse of information. I know all about the exchange of goods and money between here and Booty Bay.\n\nThe latest bit of news I've heard is about the Venture Company's Boulder Lode mine northeast of the Sludge Fen. One of the miners discovered an emerald the size of your fist. I know a few buyers who'd be interested in getting their hands on something like that, and I'd be willing to go half and half on its sale.",
+  "files": [
+   "quests/896-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "397c2a97dd8b",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wharfmaster Dizzywig",
+  "quest": "Miner's Fortune",
+  "en": "Look at the size of that thing, adventurer! We're going to be rich! Let's see, according to the rates I've seen on gems going into Undermine, I should be able to figure out your cut--fifty percent, don't worry!\n\nNow let's see... I think this should do about right. Pleasure doing business with you, adventurer.",
+  "files": [
+   "quests/896-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "792f540e1e4d",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Heralath Fallowbrook",
+  "quest": "Mortality Wanes",
+  "en": "I have not long to live... so... so... weak.\n\n...the b-b-brave dwarf, Lonebrow, has been sent to w-w-warn Falfindel...\n\nBut before I... d-d-die...\n\n...my wife, Treshala... her pendant of bonding to me... stolen... by one of the f-f-foul aggressors...\n\nFind it p-p-please... and return it to Treshala in Darnassus...\n\n...along with w-w-word of my lonely... death.",
+  "files": [
+   "quests/1142-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "77579ba84941",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Treshala Fallowbrook",
+  "quest": "Mortality Wanes",
+  "en": "No!\n\n'Tis not fair. Oh, cruel and intolerable world!\n\nI must now carry this burden of grief and not let Heralath's work die with him.\n\nYou were brave to journey from such a dangerous place, Adventurer. But please leave me now.\n\nIn solitude I shall mourn.",
+  "files": [
+   "quests/1142-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "6cad57146b4f",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Mura Runetotem",
+  "quest": "Mura Runetotem",
+  "en": "Ah, what is this? This shell has an inner glow, as if it still pulses with life. Amazing! I must study it further.\n\nThank you, Adventurer. With luck, this shell will hold a secret I can use to aid the poor land of Silverpine.",
+  "files": [
+   "quests/3301-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "c01385efbed4",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tonga Runetotem",
+  "quest": "Mura Runetotem",
+  "en": "My clanmate, Mura Runetotem, traveled to Silverpine so that she might aid our undead allies. Silverpine is an ailing forest, a dying forest, and it was Mura's hope to bring it new life. Perhaps the strange life found here in the Barrens can help her work in Silverpine.\n\nTake a sample of the shells you gathered, and bring it to Mura in Silverpine. She is staying at the Sepulcher. With luck, studying the shell will give her the insight she needs to heal that dying place.",
+  "files": [
+   "quests/3301-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "1404fd5d84cb",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Hamuul Runetotem",
+  "quest": "Nara Wildmane",
+  "en": "I entered the land of dreams, and dreamed of a cult of druids who dwell in the Wailing Caverns. I saw that their goals were once noble, but they have lost their way. They are now servants of the taint seeping through the Barrens.\n\nI am old and my strength fails. I could not long dwell in that dreaming place and know little more of the tainted druids. But Nara is young and her spirit is fierce. She remained in the dreaming when I fled.\n\nSpeak with Nara. She is in the tent, over yonder.",
+  "files": [
+   "quests/1490-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "1bc034c77563",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Nara Wildmane",
+  "quest": "Nara Wildmane",
+  "en": "Yes, it is true. I know of the druids in the Wailing Caverns. I have seen their twisted, scaled faces. I know their crimes, and I know their plans.\n\nYou must stop them, Adventurer.",
+  "files": [
+   "quests/1490-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "d775606740a6",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Wenikee Boltbucket",
+  "quest": "Nugget Slugs",
+  "en": "Ok! Let's get started!",
+  "files": [
+   "followup/4729-goblin-female-zany"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "6b504bb0cd30",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Wenikee Boltbucket",
+  "quest": "Nugget Slugs",
+  "en": "... oops.",
+  "files": [
+   "followup/4730-goblin-female-zany"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "17f7129199ae",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Wenikee Boltbucket",
+  "quest": "Nugget Slugs",
+  "en": "I want to fix this samophlange, but to do that I'm going to need some supplies. I ran out of seventeen-point-five gauge nugget slugs and I'm going to need a bunch of those for the work ahead.\n\nThe closest place to get them is the Sludge Fen to the east. The Venture Company usually keeps them in their tool buckets. Go to the Sludge Fen and look in the tool buckets you find there, then return to me when you've gathered enough nugget slugs.",
+  "files": [
+   "quests/3922-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "d3d2dece74e3",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Wenikee Boltbucket",
+  "quest": "Nugget Slugs",
+  "en": "Great, you got them! Now I can get to work...",
+  "files": [
+   "quests/3922-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "9690bf38712f",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jorn Skyseer",
+  "quest": "Owatanka",
+  "en": "The thunder lizard Owatanka is called \"Bluebolt\" by the tauren, for within him resides a speed that belies his size. It is said that lightning struck Bluebolt long ago and, fed from the sky's rage, the great beast's energy is without limit.\n\nMay his energy flow through you, Adventurer. For you now keep pace with Owatanka.",
+  "files": [
+   "quests/884-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "eeccc4bdb814",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Owatanka's Tailspike",
+  "quest": "Owatanka",
+  "en": "When touched, sparks fly from the tailspike of Owatanka.",
+  "files": [
+   "quests/884-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "eecc1f8388fa",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wrenix the Wretched",
+  "quest": "Parts and Pieces",
+  "en": "Hey, got a sec?\n\nSo, apparently, nobody I've sent to deal with the recent pirate problem has come back alive. After five or six attempts I thought, \"what if I sent a machine instead?\" Turns out, scimitars double as screwdrivers in a pinch, and before I could redirect it home, it was already in pieces and scattered across their camp!\n\nI need those parts back, and since this is a quick little retrieval mission, I'd wager your odds for survival are MUCH higher than the others. Whaddya say?",
+  "files": [
+   "quests/97253-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "3557e1b5e10a",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wrenix the Wretched",
+  "quest": "Parts and Pieces",
+  "en": "Whooooa! Nice one, pal! You saved me from another one of Gagsprocket's unbearable lectures on the cost of metal. More importantly, I can jump right into building my next prototype.\n\nUhhh, I didn't have a reward planned... Do you like boxes?",
+  "files": [
+   "quests/97253-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "d0538fcd48d8",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Sergra Darkthorn",
+  "quest": "Plainstrider Menace",
+  "en": "Your first prey will be easy.\n\nThe plainstriders to the east have been harassing our food supplies and have become a nuisance.\n\nPut down the plainstriders and return to me with their beaks.",
+  "files": [
+   "quests/844-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "4fbb37360dfc",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Sergra Darkthorn",
+  "quest": "Plainstrider Menace",
+  "en": "Very good, Adventurer. With the plainstriders gone we'll have an easier time keeping our supply chains intact. And I hope you learned a few tricks out there in the Barrens, for your next prey has a little more fire in its blood than the plainstriders...",
+  "files": [
+   "quests/844-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "e414ff2c2931",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Sergra Darkthorn",
+  "quest": "Prowlers of the Barrens",
+  "en": "Now it's time to go after something that really bites. The prowlers of the Barrens are a tough breed. Tough, resourceful, sly... and deadly. You'll find them among the tall grasses. You'll find many to the southwest of the Crossroads.\n\nBe wary as you hunt them, adventurer, or you may find yourself no longer the predator, but instead the prey.",
+  "files": [
+   "quests/903-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "ceeff9acf98a",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Sergra Darkthorn",
+  "quest": "Prowlers of the Barrens",
+  "en": "Ah, I see you've been busy, lurking in the grasses and hunting prowlers. Do you think, then, it is time to face a champion among them?",
+  "files": [
+   "quests/903-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "8f713fa6af74",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mebok Mizzyrix",
+  "quest": "Raptor Horns",
+  "en": "Now let's try it...",
+  "files": [
+   "followup/2078-goblin-male-zany"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "dd1a877bd97f",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mebok Mizzyrix",
+  "quest": "Raptor Horns",
+  "en": "Ugh! That's terrible!",
+  "files": [
+   "followup/2079-goblin-male-zany"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "997c340cdbc2",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mebok Mizzyrix",
+  "quest": "Raptor Horns",
+  "en": "The raptors of the Barrens are smarter than raptors in other lands. And I think all that smarts is hiding in their horns! If so, then I could grind their horns into powder and use it to make \"smart drinks.\" I could sell them for a fortune!!!\n\nAnd you can help me. Find me intact raptor horns from sunscale scytheclaws. They roam in the southern Barrens, and in the northern Barrens near the border of Ashenvale Forest.",
+  "files": [
+   "quests/865-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "d810c2c5c30d",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mebok Mizzyrix",
+  "quest": "Raptor Horns",
+  "en": "Great, you got them! Now I just need to ground them down and mix them with some wine, and...",
+  "files": [
+   "quests/865-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "2bde168c5653",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gazrog",
+  "quest": "Raptor Thieves",
+  "en": "Not long ago, a shipment of silver was stolen from our guard tower. It was meant as payroll to the Crossroads' guards, and we want that silver back.\n\nThe strange thing is... we caught one of the thieves on the night of the theft. And... it was a raptor! Unbelievable!\n\nI don't know what raptors would want with silver. But I don't care -- I want the raptors dead so they won't steal from us again!\n\nHunt raptors in the Barrens. Collect for me their heads!",
+  "files": [
+   "quests/869-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "7e13f431dbc1",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gazrog",
+  "quest": "Raptor Thieves",
+  "en": "You got rid of the raptors!\n\nThank you, Adventurer. You are a adventurer of worth.",
+  "files": [
+   "quests/869-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "98b69ba76470",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kadrak",
+  "quest": "Report to Kadrak",
+  "en": "Ashenvale is a divided land, but our most recent efforts have been very successful. We not only have an outpost at the Zoram Strand, but another just north of here called Splintertree.",
+  "files": [
+   "quests/6541-complete",
+   "quests/6542-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "a0c2e5dbac6e",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thork",
+  "quest": "Report to Kadrak",
+  "en": "Have you ever been to Ashenvale, to the north? The horde has recently set up an outpost on the Zoram Strand there, and we can always use some new recruits to help defend our new fronts.\n\nIf you think you are up to it, see Kadrak in the northern Barrens, at the watch tower. He is heading up the Ashenvale campaign and can give you further orders.",
+  "files": [
+   "quests/6541-accept",
+   "quests/6542-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "38f466d276df",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jahan Hawkwing",
+  "quest": "Return to Jahan",
+  "en": "Ahanu sent me finished products? Very good. There are many hunters and adventurers in the Crossroads now and business is lively. I am sure I'll sell these goods very soon.\n\nThank you for all your efforts, Adventurer. I am in your debt.",
+  "files": [
+   "quests/6364-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "eca66214ef25",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tal",
+  "quest": "Return to Jahan",
+  "en": "In order to fly to a town, you must have already been there and spoken with the wind rider master of that town. You have been to the Crossroads and spoken to their wind rider master Devrak, so for a small fee you can take a wind rider to him from here.\n\nSpeak with me again when you are ready. Once at the Crossroads, you can then deliver the leather goods to Jahan Hawkwing.",
+  "files": [
+   "quests/6364-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "232e3c9f4036",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Doras",
+  "quest": "Return to the Crossroads.",
+  "en": "My wind riders are trained to fly to many different places, as long as you have already been to that place and spoken with the wind rider master there.\n\nYou have been to the Crossroads and spoken to their wind rider master Devrak, so now you can fly directly to him from here. Once you're at the Crossroads, you can deliver Gryshka's letter to Zargh.\n\nSpeak with me when you are ready to go.",
+  "files": [
+   "quests/6386-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "9b4a70c4c656",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Zargh",
+  "quest": "Return to the Crossroads.",
+  "en": "Hah! I guess she liked it! Nothing brings red to a lady's cheeks like a big, juicy steak!\n\nThank you, Adventurer. You've done me a great service. Here is some money for your trouble, and don't be surprised if I invite you to my wedding!",
+  "files": [
+   "quests/6386-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "6e2a0afe737f",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Gann Stonespire",
+  "quest": "Revenge of Gann",
+  "en": "It is clear the prospector depended on explosives and those noisy vehicles to rip the ground apart. We can expect a new foreman to take over soon.\n\nI want to give the dwarves a taste of their own medicine. According to these plans if we combine nitroglycerin with wood pulp and sodium nitrate we can create an explosive charge. The rifleman, soldiers and officers in the Keep are known to have the supplies.\n\nCollect these items and bring them to me. I will fashion a charge that the dwarves won't forget!",
+  "files": [
+   "quests/846-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "e11097dcb3ec",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Gann Stonespire",
+  "quest": "Revenge of Gann",
+  "en": "I see you are quite industrious, adventurer.\n\nNo doubt we shall soon have a fitting surprise for those dwarves.",
+  "files": [
+   "quests/846-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "045a4e9a41ab",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Gann Stonespire",
+  "quest": "Revenge of Gann",
+  "en": "Following Khazgorm's plans it should be no problem to fashion an explosive charge\n\nAh, there we go.\n\nNow, adventurer, I am going to entrust you with a special task. Take this explosive stick and use it to blow up the flying machine at Bael Modan.\n\nNot only is the flying machine a key part of the site's infrastructure it also serves as a weapon of war. More importantly it is an icon of power and an insult to the memory of my tribe.\n\nMake me proud by completing this heroic task and you shall be rewarded.",
+  "files": [
+   "quests/849-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "8694e2a60a7f",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Gann Stonespire",
+  "quest": "Revenge of Gann",
+  "en": "You have done well, adventurer! May you be revered in Thunder Bluff as a defender of sacred tauren lands and a champion of the lost tribe.",
+  "files": [
+   "quests/849-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "98cf3f553cf3",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Devrak",
+  "quest": "Ride to Orgrimmar",
+  "en": "For just a few coins I will have a wind rider bring you to Orgrimmar. When you get there, you can take Zargh's Meats to Gryshka. Her inn is in the Valley of Strength, not far from the Skytower, where my wind rider will drop you off.\n\nSpeak with me again when you are ready for the journey.",
+  "files": [
+   "quests/6384-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "f639831dce3c",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": "Ride to Orgrimmar",
+  "en": "Oh, wonderful! Those are fine cuts! These are from Zargh, are they? That orc sure knows his way into a lady's heart...\n\nOh, I can't wait to cook it. But not too much! Meat is best served rare, don't you think?",
+  "files": [
+   "quests/6384-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "78b6b5a2f861",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Ahanu",
+  "quest": "Ride to Thunder Bluff",
+  "en": "Ah, a new bundle of hides. I will get to work on these immediately!\n\nThank you, brother. You have done me a great service. Here are some coins to pay for your time and travel costs.",
+  "files": [
+   "quests/m-6362-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "c2f641385c3d",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Devrak",
+  "quest": "Ride to Thunder Bluff",
+  "en": "For a small fee, I will give you a wind rider to Thunder Bluff. There's no faster way to the city!\n\nIf that is acceptable, speak to me again when you are ready to go.\n\nIf you're taking those hides to Ahanu, then I think he's at Hewa's Armory, at the base of the wind rider tower in Thunder Bluff. And that's right where you'll land!",
+  "files": [
+   "quests/6362-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "3c8f756480e9",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Rilli Greasygob",
+  "quest": "Rilli Greasygob",
+  "en": "What's this? Why, it's a samophlange! Where did you get this thing? Have you been poking around the Venture Company holdings in the Barrens?\n\nYou must be very brave, or very stupid.",
+  "files": [
+   "quests/3923-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "1c2a884c2852",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Wenikee Boltbucket",
+  "quest": "Rilli Greasygob",
+  "en": "Well, that didn't work. I put some extra gauges on the samophlange to measure its structural integrity, and they read the integrity at an all-time low. I could add some more dials and maybe a lever or two to try and fix it, but... I think that might make things even worse.\n\nYou should take the samophlange to Rilli Greasygob. He used to work for the Venture Company -- if anyone knows how to fix it, it's Rilli.\n\nYou can find him at Nogg's Machine Shop in Orgrimmar, in the Valley of Honor.",
+  "files": [
+   "quests/3923-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "9271f195f2c8",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Control Console",
+  "quest": "Samophlange",
+  "en": "A variety of buttons, levers and blinking lights are somewhat erratically arrayed on the face of the control console. A small gauge indicates that the apparatus is currently operating within optimal levels, and indicates that control valves one through three are currently open. There is a small keyhole set into the lower right side of the control panel.",
+  "files": [
+   "quests/894-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "bc898b81d78a",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Control Console",
+  "quest": "Samophlange",
+  "en": "The three control valves are currently opened. The various readings on the control panel lead you to presume that they must be shut off before the apparatus can be shut off.",
+  "files": [
+   "quests/900-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "24364e912780",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Control Console",
+  "quest": "Samophlange",
+  "en": "The lights indicating the three control valves dim as they are shut off. Green lights slowly fade into yellow, and the switch controlling the apparatus is now moveable, with the valves closed, it can be turned off.",
+  "files": [
+   "quests/900-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "241cccebee6f",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Control Console",
+  "quest": "Samophlange",
+  "en": "With the apparatus deactivated, the control panel can be opened up and the samophlange removed from the console. With everything else in place, all that is left is to acquire the key to unlock the console.",
+  "files": [
+   "quests/901-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "20a844dc8473",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Control Console",
+  "quest": "Samophlange",
+  "en": "Turning the key in the lock, the control console unlocks. A red light at the top of the console turns off and all power drains from the terminal.",
+  "files": [
+   "quests/901-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "94f30d037c1a",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Control Console",
+  "quest": "Samophlange",
+  "en": "Pulling open the face of the control console reveals a dense jumble of wires, tubing and other strange mechanical objects--most of which seem to serve no practical purpose. Pushing them aside and digging deeper into the console, you find the samophlange. A tug removes it from its housing.",
+  "files": [
+   "quests/902-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "562f6db67504",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Sputtervalve",
+  "quest": "Samophlange",
+  "en": "Ok, let's take a look at this thing...",
+  "files": [
+   "followup/4727-goblin-male-gruff"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "b006111c7836",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Sputtervalve",
+  "quest": "Samophlange",
+  "en": "Oh, darn...",
+  "files": [
+   "followup/4728-goblin-male-gruff"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "806bd722321f",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Sputtervalve",
+  "quest": "Samophlange",
+  "en": "The Venture Company set up a small research facility far to the north of here, southwest of the Sludge Fen. I don't know very much about what they're doing, but did manage to discover that they're experimenting with something called a \"samophlange\".\n\nNow what the heck is a samophlange? Well, whatever it is, I want to examine it, so I need someone to go get it.\n\nI obtained a copy of their control system operating manual, you should be able to figure out how to disengage the samophlange from it.",
+  "files": [
+   "quests/894-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "00a1d27ba6b3",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Sputtervalve",
+  "quest": "Samophlange",
+  "en": "This is... er... interesting... yes. I'll have it sent along to the Tinkers' Union headquarters in Undermine. I'm sure after some careful dissection and research, they'll be able to make some sense of it.\n\nBut, perhaps I'll have a little look myself first...",
+  "files": [
+   "quests/902-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "174c28980c71",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Rilli Greasygob",
+  "quest": "Samophlange Manual",
+  "en": "I think I can fix the samophlange, but I'm going to need the user's manual first. When I was in the Venture Company I had a rival, Boss Copperplug, who hoarded the secrets of the samophlange, giving out small bits of knowledge on the device to those he trusted. I wasn't one of the trusted few...\n\nBoss Copperplug used to stay at the Boulder Lode Mine in northeastern Barrens. Get the manual from him, and if he's given pages from it to anyone, you'll have to collect them too.",
+  "files": [
+   "quests/3924-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "a74723be0ba9",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Rilli Greasygob",
+  "quest": "Samophlange Manual",
+  "en": "You got the manual! I can't wait to read it and find out how to fix the Samophlange! I spoke with Sputtervalve in Ratchet--he wanted to thank you for your help, and wanted to reward your efforts.\n\nI want to thank you too, and if I ever get this thing fixed I'll let you know...",
+  "files": [
+   "quests/3924-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "c8fe5b427f77",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Belnistrasz",
+  "quest": "Scourge of the Downs",
+  "en": "Outstanding! My name is Belnistrasz, and I thank you for rescuing me. I had given myself up for dead... or worse, as a meal for these Scourge-infested vermin. Yes - I said Scourge all right; they've brokered some sort of deal with the Quilboar here, and this nightmare is a result.\n\nListen... rather than just flee, I want to make a difference for all of our sakes. Would you be up to helping me out to that end? It's probably dangerous, but you seem to be the type not to worry about that too much.",
+  "files": [
+   "quests/3523-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "c4160fe70d66",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Belnistrasz",
+  "quest": "Scourge of the Downs",
+  "en": "Fantastic, I thought you looked to be the heroic type! We've got our work cut out for us Adventurer, I'm not going to lie to you. If we stay focused on the task at hand, we should be able to come out on top.\n\nNow, let me bring you up to speed on what's been going on...",
+  "files": [
+   "quests/3523-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "7bcceb6d3008",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathstalker Masoj",
+  "quest": "Scout Support",
+  "en": "Quaint. A fresh face for the field work.\n\nWell, let's see what you have then.",
+  "files": [
+   "quests/98094-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "cd549f7a8909",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "High Executor Darthalia",
+  "quest": "Scout Support",
+  "en": "Now that we can trust you to deliver critical information to our forward spies, there's an extra task for you.\n\nBring this to Deathstalker Masoj almost directly south of us. He'll have more for you to do once you get there and hand this to him. He is posted on elevated terrain north of the rotten vineyard they call Nethander Stead.\n\nOur plan to take control of these lands continues steadily.",
+  "files": [
+   "quests/98094-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "7178113f7b13",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Darsok Swiftdagger",
+  "quest": "Serena Bloodfeather",
+  "en": "You did so well with the lieutenants and underlings that I'd like you to do one last thing for me.\n\nSerena Bloodfeather is the sister of a harpy named Bloodfeather who was slain by Rexxar quite a while ago. Apparently, these attacks on the Horde caravans are revenge for her sister's death.\n\nI need you to slit her throat and bring me back her head. I want to place it on the next caravan we send out... Give those harpies something to think about.",
+  "files": [
+   "quests/876-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "7fb6312b5947",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Darsok Swiftdagger",
+  "quest": "Serena Bloodfeather",
+  "en": "HA! Well done, adventurer! Very well done... I wasn't sure you were up to the task, but you've proved yourself quite the cut-throat. Thank you again for helping us suppress the Harpy epidemic. Here is your reward, use it well.",
+  "files": [
+   "quests/876-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "d11795b90eb2",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Melor Stonehoof",
+  "quest": "Sergra Darkthorn",
+  "en": "If you wish to walk the hunter's path, then your journey leads to the Barrens. Its beasts are strong-willed and fierce. You will learn much by hunting there, and your spirit will grow.\n\nSpeak with Sergra Darkthorn. She will be your first guide in the Barrens.\n\nSergra is at the Crossroads. To reach her, travel east from Bloodhoof Village into the Barrens, then north as the road forks. And have care as you travel--the Barrens holds great danger for the unprepared and unwary.",
+  "files": [
+   "quests/860-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "03c5d2a0430d",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Sergra Darkthorn",
+  "quest": "Sergra Darkthorn",
+  "en": "You want to hunt in the Barrens?\n\nYour eyes are eager, and young. They're not yet squinted from tracking your prey across this land's dry plains.\n\nBut worry not. We'll toughen your body and your mind. And we'll teach you that there is more to hunting than finding and killing your quarry.\n\nPrepare yourself. Your journey begins. Now.",
+  "files": [
+   "quests/860-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "d17dd2e65965",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Apothecary Zamah",
+  "quest": "Serpentbloom",
+  "en": "The Royal Apothecary Society, based in the great Undercity of Lordaeron, has sent me here for a very specific service, adventurer. Perhaps you wish to aid me, and in turn The Dark Lady in our efforts to advance the Forsaken.\n\nRecently I studied a rare specimen of flora named Serpentbloom. I believe in greater quantities this herb has great potential.\n\nUnfortunately Serpentbloom can only be found in the darkest recesses of the Wailing Caverns, a dangerous cave system located in the Barrens.",
+  "files": [
+   "quests/962-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "3a9327ecdce9",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Apothecary Zamah",
+  "quest": "Serpentbloom",
+  "en": "Ah, splendid specimens. You have done well, Adventurer.",
+  "files": [
+   "quests/962-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "656bc75f0fb6",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Dokimi",
+  "quest": "Shipping Label",
+  "en": "You found the right place, and you're speaking with the right person! I can jot you down as one of our new associates. No paperwork necessary on your part, I can't be bothered with more of that.\n\nAll we ask of you is to assist in dealing with compromised deliveries you find out during your travels. Doing so will earn you Merchant's Favor, which you can use to purchase goods and services right here. Here's a bit to get you settled in!\n\nDo you happen to have the crate this label came with?",
+  "files": [
+   "quests/98248-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "630ff1f46532",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mebok Mizzyrix",
+  "quest": "Smart Drinks",
+  "en": "Ok, so the raptor horns didn't work so well. But that's all right -- no one got rich on their first try! And besides, I think I found something that'll work even better in my smart drinks!\n\nThere is a substance called Wailing Essence, and I think it is the cause of the strange plants and animals in the Barrens. Get me some and I'll try it in my drink!\n\nI heard the essence gathers in ectoplasmic creatures in the Wailing Caverns to the west. Hunt those creatures and gather the essence.",
+  "files": [
+   "quests/1491-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "d4e033a30f66",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mebok Mizzyrix",
+  "quest": "Smart Drinks",
+  "en": "Great, you got it! I can't wait to try it out. This is going to make me a fortune, I just know it!\n\nThank you, Adventurer. Take this, and after I'm rich I'll send you more, I promise!",
+  "files": [
+   "quests/1491-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "5a666ff69447",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Gazlowe",
+  "quest": "Southsea Freebooters",
+  "en": "I sure wish Vice Admiral Grezzlik did a better job of keeping the seas safe for our trading vessels. With all the gold the trade princes have poured into the Trade Fleets, it ticks me off to see so many pirates running willy-nilly, raiding my ships and stealing my goods!\n\nI heard that the Southsea Freebooters have set up a camp just south of here. They've been a real thorn in my side and if Grezzlik won't take care of them, well, maybe you can help me get rid of them.",
+  "files": [
+   "quests/887-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "4143c6e7a796",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Gazlowe",
+  "quest": "Southsea Freebooters",
+  "en": "You did good, kid. A little more work like that, and it'll be one less thing I'll have to worry about. Hopefully they'll be convinced that they should relocate their operation elsewhere.\n\nIn the meantime, there is the small matter of getting back the goods they stole from me!",
+  "files": [
+   "quests/887-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "ff1266bbd1ed",
+  "zone": "the-barrens",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Gazlowe",
+  "quest": "Stolen Booty",
+  "en": "While I'd like to recover all my goods, I'm sure that's not possible. Still, there's a few things that I absolutely must have!\n\nAs you see, my observatory is ready to go, but it needs the smaller of the two lenses. The first arrived by caravan from Durotar, but the second was bound by ship, and never arrived. Also, I never got my boot shipment from Drizzlik in Booty Bay!\n\nHead down to the pirate camp and see if you can find them.",
+  "files": [
+   "quests/888-accept"
+  ],
+  "uiMap": 1413
+ }
+]

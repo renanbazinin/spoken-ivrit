@@ -1,0 +1,189 @@
+[
+ {
+  "id": "ac3974725b80",
+  "zone": "silithus-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Logistics Task Briefing VIII",
+  "quest": "Uniform Supplies",
+  "en": "The latest influx of volunteers has caused a shortage of uniforms. Procure a batch of uniform materials and bring them to Windcaller Proudhorn.",
+  "files": [
+   "quests/8782-accept",
+   "quests/8808-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "1c420ef96d78",
+  "zone": "silithus-2",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Geologist Larksbane",
+  "quest": "Unraveling the Mystery",
+  "en": "The reason the dwarves could not decipher the glyphs is because there is nothing to decipher. The shifting outer layer of the prism must properly align with the inner crystal's markings in order for the message to be transmitted. Clever...\n\nWhile we should be able to translate this data, we must first unlock the code. There is only one clue on the surface of the prism - assuming the rubbings were transferred correctly - and it looks grim.",
+  "files": [
+   "quests/8314-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "8285d1c51812",
+  "zone": "silithus-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rutgar Glyphshaper",
+  "quest": "Unraveling the Mystery",
+  "en": "We're on the verge of a breakthrough, Adventurer! The rubbings you recovered have allowed us to recreate the glyphs on this crystalline prism. They are apparently a means for the Qiraji and other unknown entities to communicate various messages to the silithid.\n\nUnfortunately, that is all we could get out of the glyphs. We need to find a way to unlock the messages hidden within the crystals.\n\nTake the glyphed crystal prism to Geologist Larksbane at Cenarion Hold. She might be able to help.",
+  "files": [
+   "quests/8314-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "89a458962ce1",
+  "zone": "silithus-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Vethsera",
+  "quest": "Vestments of the Oracle",
+  "en": "I did not expect you to return from your attempt, Adventurer.\n\nYou've fulfilled a destiny greater than that of most immortal beings.\n\nBy slaying C'Thun you've not only saved all of Azeroth, you've also tipped the scales of cosmic events beyond your comprehension.\n\nAccept these vestments as a symbol of the glory and burden that will come as a consequence of your actions.\n\nMay their power aid you in the challenges that await you, god-slayer!",
+  "files": [
+   "quests/8603-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "be84c1e5a4eb",
+  "zone": "silithus-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Vargus",
+  "quest": "Veteran's Battlegear",
+  "en": "Great work, adventurer. Please accept this on behalf of the Cenarion Circle. You've certainly earned it, friend!",
+  "files": [
+   "quests/8572-complete",
+   "quests/8574-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "c0a69a05e265",
+  "zone": "silithus-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Vargus",
+  "quest": "Volunteer's Battlegear",
+  "en": "The badges you collect from performing combat, logistics and tactical assignments for Cenarion Hold are more than just for show, Adventurer.\n\nYou'd be wise to hold on to them. As you prove your loyalty to our organization I can offer you some of the gear we reserve for our closest allies in exchange for those badges.",
+  "files": [
+   "quests/8548-accept",
+   "quests/8572-accept",
+   "quests/8573-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "a136ccb874ff",
+  "zone": "silithus-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Vargus",
+  "quest": "Volunteer's Battlegear",
+  "en": "Great work, Adventurer. Please accept this on behalf of the Cenarion Circle. You've certainly earned it, friend!",
+  "files": [
+   "quests/8548-complete",
+   "quests/8573-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "bc268547edd0",
+  "zone": "silithus-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Huum Wildmane",
+  "quest": "Vyral the Vile",
+  "en": "We have discovered another base of operations for the Twilight's Hammer. It is called Twilight's Run; it is a cave tucked in the northeast corner of Silithus. The local leader of the cult, Vyral the Vile, haunts that cave - it is he who you must next defeat. When you have done this, bring me his signet ring.\n\nFortune to you, Adventurer. The horrors of Twilight's Run are formidable indeed.",
+  "files": [
+   "quests/8321-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "bfe5a67fe6d1",
+  "zone": "silithus-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Huum Wildmane",
+  "quest": "Vyral the Vile",
+  "en": "You've done it! Vyral is killed! This can only mean doom for the Twilight Hammer's operations in Silithus. There may be more of them scurrying about, but the blow you dealt to the cult today is one from which they will not easily recover.",
+  "files": [
+   "quests/8321-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "cd143e8b75d0",
+  "zone": "silithus-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Vish Kozus",
+  "quest": "Wanted - Deathclasp, Terror of the Sands",
+  "en": "Excellent! With Deathclasp gone we're free to use the southern mountain range as a strategic path to circumvent the silithid hives. Your work is greatly appreciated.",
+  "files": [
+   "quests/8283-complete"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "9d9850abcb82",
+  "zone": "silithus-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wanted Poster: Deathclasp",
+  "quest": "Wanted - Deathclasp, Terror of the Sands",
+  "en": "The terrible scorpid, Deathclasp, is believed to have retreated to the southern mountain range in the presence of increased silithid activity. She presents a great threat to patrols and expeditions in the southern regions. Individuals participating in her destruction will be remunerated handsomely. Inquire with Captain Vish Kozus, at the top of the Cenarion Hold Watchtower, regarding a reward.",
+  "files": [
+   "quests/8283-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "77741016d879",
+  "zone": "silithus-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Baristolth of the Shifting Sands",
+  "quest": "What Tomorrow Brings",
+  "en": "The embrace of death had all but overcome my being when he intervened. He breathed only once upon my maimed body and then waited patiently for the sands of time to cleanse my wounds.\n\n\"Forever you will remain if you must,\" he said, and with those words I was bound as a Watcher.\n\nLook now to the desert. The second war is upon us. You must seek out the resting place of the Bronze. Venture to the Caverns of Time and see if the master has returned. I must be sure before I am able to proceed.",
+  "files": [
+   "quests/8286-accept"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "2ce27a433b53",
+  "zone": "silithus-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Baristolth of the Shifting Sands",
+  "quest": "What Tomorrow Brings",
+  "en": "It is as it should be - the great one has risen. My watch comes to an end...",
+  "files": [
+   "quests/8286-complete"
+  ],
+  "uiMap": 1451
+ }
+]

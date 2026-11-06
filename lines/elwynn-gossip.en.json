@@ -1,0 +1,2032 @@
+[
+ {
+  "id": "c0f55b9585b4",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Adele Fielder",
+  "quest": null,
+  "en": "How's it going? I love the smell of leather; don't you?",
+  "files": [
+   "gossip/099dc5a84f1e29de6a36426dd647ee2b"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "4f6ae6ee6591",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Adele Fielder",
+  "quest": null,
+  "en": "Gosh, I'm sorry. I don't have anything new to teach you. How about you go talk to Simon Tanner in the Old Town section of Stormwind? He's a human with big muscles and dreamy red hair.",
+  "files": [
+   "gossip/3562140894e8c1f1b4cacb7b4c4bbceb"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "410548da31fa",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Adele Fielder",
+  "quest": null,
+  "en": "Since my husband left for the front, Helene here has been my strength. Her kind heart and sharp sword have helped me through a lot of tough times. I don't know what I would've done without her.",
+  "files": [
+   "gossip/bf01f102d5ed32f38e5e64a67baaa456"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "8f327f5e93f8",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Brother Sammuel",
+  "quest": null,
+  "en": "May the Light protect you this day.",
+  "files": [
+   "gossip/0635f703e43c62457aadee823a30493b"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "38f21b304adb",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Cylina Darkheart",
+  "quest": null,
+  "en": "You're no warlock and I've no time for you. Begone!",
+  "files": [
+   "gossip/01293169a620269666474cee8cc40c37"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "335de2dc7a4c",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Cylina Darkheart",
+  "quest": null,
+  "en": "Want to make your demons more powerful? It'll cost you, but you've come to the right place.",
+  "files": [
+   "gossip/68d0d326eb02e4bc407880e343512823"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "859cf0e45c14",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Dane Winslow",
+  "quest": null,
+  "en": "Want to make your demons more powerful? It'll cost you, but you've come to the right place.",
+  "files": [
+   "gossip/3b59c956dcfc2045fa9cad04b8290ca9"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "41722452b80a",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Dane Winslow",
+  "quest": null,
+  "en": "You're no warlock and I've no time for you. Begone!",
+  "files": [
+   "gossip/abe46b983f8b3369ae786ab9b4565c64"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "63e109d8ac54",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Darkmoon Faire Carnie",
+  "quest": null,
+  "en": "Can't you see I've got work to do here?",
+  "files": [
+   "gossip/28c0efd31165758238391b2842e87a69"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "22ec4337e7b8",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Darkmoon Faire Carnie",
+  "quest": null,
+  "en": "Don't forget to buy refreshments and souvenirs!",
+  "files": [
+   "gossip/2eb716d676d0b1b4ecaffc7b58ade0d6"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "3ded8d3323d6",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Darkmoon Faire Carnie",
+  "quest": null,
+  "en": "Faire's a coming!",
+  "files": [
+   "gossip/3609745a4c6616a705cba94a32482147"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "031df7784ba5",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Darkmoon Faire Carnie",
+  "quest": null,
+  "en": "Having a good time?",
+  "files": [
+   "gossip/597f943bfef4a0100928324418268a5a"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "98b76c4711ff",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Darkmoon Faire Carnie",
+  "quest": null,
+  "en": "Won't be long now until the Darkmoon Faire opens. Come back later and check to see if we're done.",
+  "files": [
+   "gossip/81072962754c21f425b3445d9fbaa303"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "7013fe6f1075",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Darkmoon Faire Carnie",
+  "quest": null,
+  "en": "That's right friend! The Darkmoon Faire is going to be right here. Just as soon as I unload those huge wagons, put up all the tents, erect the zoo and pour the drinks. Make sure you come back!",
+  "files": [
+   "gossip/a9e923e95ef8c0e440880eb043666f7e"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "3d0553af04c6",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Darkmoon Faire Carnie",
+  "quest": null,
+  "en": "The Darkmoon Faire is the greatest event on all of Azeroth!",
+  "files": [
+   "gossip/db5e85c0e8fc397c337679dce51d896c"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "2239d46d16e4",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Darkmoon Faire Carnie",
+  "quest": null,
+  "en": "Sure are a lot of litter bugs around here.",
+  "files": [
+   "gossip/fe440344a9bf50366eead025b3f88505"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "99e767cd5f70",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Deputy Rainer",
+  "quest": null,
+  "en": "I can't believe the officials in Stormwind, sending the bulk of our army abroad... when our home front is under so much pressure!\n\nWith thieves coming from Westfall and gnolls encroaching from from the east and west, it's a wonder Stormwind itself isn't besieged.",
+  "files": [
+   "gossip/e03d3aaa8df7e98fcb210403aad69ebd"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "b099e73e7664",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Deputy Willem",
+  "quest": null,
+  "en": "Hello there, adventurer. Normally I'd be out on the beat looking after the folk of Stormwind, but a lot of the Stormwind guards are fighting in other lands. So here I am, deputized and offering bounties when I'd rather be on patrol...",
+  "files": [
+   "gossip/129bddbdb1b8a7ac83bfcd6455dc23b0"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "711b28b73d60",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Drusilla La Salle",
+  "quest": null,
+  "en": "The darkness does not embrace you, adventurer. Cease your prattle and remove yourself from my sight! Be gone!",
+  "files": [
+   "gossip/2aabd37566ced1f9550e86910bb3baf8"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "6489e8b12b01",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Drusilla La Salle",
+  "quest": null,
+  "en": "The arcane only corrupts those who are weak. Even if you do not follow the path of the warlock, you would do well to remember that.",
+  "files": [
+   "gossip/bf6b174b1213cc9fc8478d3b5f2b4971"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "3115cbedbd7f",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Bronzebeard",
+  "quest": null,
+  "en": "Elder Hammershout can be found within the walls of Stormwind.",
+  "files": [
+   "gossip/24e765cdee4370c4b56804eb47e7701f"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "9de2d4b3f84e",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Stormbrow",
+  "quest": null,
+  "en": "Last I knew, Elder Starsong was in the Sunken Temple of the Swamp of Sorrows.",
+  "files": [
+   "gossip/4c3e419f5e2712f60d981727a7b7fb3d"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "da7462135920",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Stormbrow",
+  "quest": null,
+  "en": "Elder Rumblerock passes the years in a cave atop Dreadmaul Rock in the Burning Steppes.",
+  "files": [
+   "gossip/9f8adafc093f04bb044f1e110b7ea3ac"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "da966e77e6ff",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Stormbrow",
+  "quest": null,
+  "en": "Elder Skychaser looks out over Westfall from atop Sentinel Hill.",
+  "files": [
+   "gossip/e651b39f5ae6f7809f65b90f78c4d124"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "83696b233541",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Eldrin",
+  "quest": null,
+  "en": "I can tell that your wardrobe is in dire need of care.",
+  "files": [
+   "gossip/b34aad75e8e14753d5e47ece1a2eba61"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "bacba88789d7",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Eldrin",
+  "quest": null,
+  "en": "I'm a simple man who knows a few things about tailoring, but you need more assistance than I can provide. I have heard of a Night Elf who is quite an accomplished tailor. He resides in Stormwind, in the Magic District.",
+  "files": [
+   "gossip/c20cda58878fc7ac4e481f3bc65a3f73"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "b18b2173b475",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Eldrin",
+  "quest": null,
+  "en": "So you would like to learn a few things? I would be happy to get you started!",
+  "files": [
+   "gossip/c9603b8eec1e5738749f40b5e7e89a19"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "84be67a3c9e5",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Farmer Furlbrow",
+  "quest": null,
+  "en": "Nothing but trouble in these parts. I tried to tell that fool Saldean to get out while he still could be he won't hear of it. But I ain't no fool. Verna and I are gonna mosey on out as soon as we get this wagon fixed.",
+  "files": [
+   "gossip/3a1ef61e65fa4ac456d8266c27986f6b"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "541f4a2c07a3",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Farmer Saldean",
+  "quest": null,
+  "en": "Rough times, huh, Adventurer? No matter where you turn someone needs help, and my wife and I are no exception.",
+  "files": [
+   "gossip/9331c7d44a0e3e3352a08f93cde78162"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "1b03ae809786",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Farmer Saldean",
+  "quest": null,
+  "en": "Rough times, huh, adventurer? No matter where you turn someone needs help, and my wife and I are no exception.",
+  "files": [
+   "gossip/d9ee732b87b8a6f2898035304c1bf290"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "c3cead62085f",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Guard Thomas",
+  "quest": null,
+  "en": "Hello, citizen. You look like a man with a purpose - do you have business with the Stormwind Army?",
+  "files": [
+   "gossip/m-8258324df960cc7895aa7a47061066c2"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "40bcd45a56d6",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Farley",
+  "quest": null,
+  "en": "No, I'm not, but lots of others are looking for love. You should buy my love tokens, put on some cologne or perfume, and then pass them around!",
+  "files": [
+   "gossip/137f53b5268a04b1b5bdb21820557b14"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "920805904b6d",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Farley",
+  "quest": null,
+  "en": "If you put on cologne or perfume, then you'll see who is amorous. Those are the ones who accept love tokens... and offer a gift in return.\n\nBut remember: to give someone a love token, you have to smell just right! Men like the scent of perfume, while women prefer cologne.",
+  "files": [
+   "gossip/206f059d0c629c5d37a5efc62769a4a3"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "3fe2e19f4301",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Farley",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Cairne, Sylvanas and Thrall.",
+  "files": [
+   "gossip/616aaf989a9683312fafbb75a48fe26b"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "586e3e01c1d6",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Farley",
+  "quest": null,
+  "en": "What can you do at an inn?\n\nWell when you stay at an inn, you rest very comfortably. Because of this, you will become \"well rested\" much more quickly than you would in the wilderness. When you are well rested, you learn more from experience.\n\nYou may also speak with any innkeeper to get a hearthstone, and can later use the hearthstone in order to quickly return to that inn.",
+  "files": [
+   "gossip/8fc274a3d994a2459bdce3fd3dc98705"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "20803778ec66",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Farley",
+  "quest": null,
+  "en": "Love tokens are small messages of affection you can give to amorous town and city folk. Such people will reward you with a gift of adoration.\n\nOr, if you are already adored by another, then at the least they'll give you a gift of friendship.",
+  "files": [
+   "gossip/d268a407b36e89a7c70ab981fb46abd7"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "e403d8c240f6",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Farley",
+  "quest": null,
+  "en": "Welcome to my Inn, weary traveler. What can I do for you?",
+  "files": [
+   "gossip/e3e01e02de026cbe5e2560a468bbdebb"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "b8de13b2705a",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Farley",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Bolvar, Magni, or Tyrande.",
+  "files": [
+   "gossip/fa856e726cbf60331453148913410f70"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "9286807e7f50",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "James' Journal",
+  "quest": null,
+  "en": "The pages of the journal seem to be filled with information about trades, buyers and other miscellaneous business related events.",
+  "files": [
+   "gossip/b452639355066c08bc2c04d51231d65d"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "d0f7693f7b90",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Jorik Kerridan",
+  "quest": null,
+  "en": "I don't think you want to learn anything I can teach. Might want to find a adventurer trainer to help you out.",
+  "files": [
+   "gossip/0fac9f50e1fb5c48f7301ce81e131b5f"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "ca83508caff8",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Jorik Kerridan",
+  "quest": null,
+  "en": "You look like the type I should watch my coin purse around. Something I can help you with?",
+  "files": [
+   "gossip/8ad40600a7b98e4dedc4ac4c244156c2"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "df4b69f3a4a5",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Katie Hunter",
+  "quest": null,
+  "en": "Years of quality breeding techniques and plenty of care allow me the privilege of showing you these horses! Please, take your time as you consider them for your mount. A horse is a companion for the ages, friend. Don't sell yourself short - get your steed here today!",
+  "files": [
+   "gossip/0016d0ff7c43ada7e4f367d5b24e9b81"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "b03d8e5ffdc8",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Katie Hunter",
+  "quest": null,
+  "en": "Sorry, but I am not disposed to sell horses to any individual who is not considered to be at least exalted to the Kingdom of Stormwind. These steeds are the finest you'll find anywhere, and we certainly wouldn't want them in the hands of our enemies.\n\nNot saying you're an enemy, of course... just earn the trust of Stormwind and then we can do business.",
+  "files": [
+   "gossip/33c0e9087e12555f8dc52cc2a68cccb1"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "f792fe65f75d",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Keryn Sylvius",
+  "quest": null,
+  "en": "Well, well... look what the cat brung in... and how can I help you, adventurer?",
+  "files": [
+   "gossip/a837986a7fc00b64608c3a2074986bbf"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "cb8bfa68ceba",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Keryn Sylvius",
+  "quest": null,
+  "en": "Sorry, but I only train rogues.",
+  "files": [
+   "gossip/f4e4bf672f4eaefc2912be4ff2222cd5"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "c0a8f3ef9512",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Khelden Bremen",
+  "quest": null,
+  "en": "Greetings mage. Shall I provide you with further insight into the world of magic?",
+  "files": [
+   "gossip/3ddc082eac22c52bb34743331a694904"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "900cfed28b21",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Khelden Bremen",
+  "quest": null,
+  "en": "Well met, adventurer. My advice to you is this: As you travel the world, be wary of magic for it will burn the untrained.",
+  "files": [
+   "gossip/54074b0b08d3a499512ae6fba95f3115"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "baf44abb8c9a",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Khelden Bremen",
+  "quest": null,
+  "en": "Through rigorous retraining I have had to break many students of all they had previously learned so that I might teach them anew. The service I offer becomes increasingly difficult to perform each time it is done. It is for that reason that it becomes increasingly expensive with each retraining. Do you desire that I break you of the talents you have learned?",
+  "files": [
+   "gossip/f6708bdc5d32f47f0eaf4fce7cf2764c"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "5d0904c42423",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Kitta Firewind",
+  "quest": null,
+  "en": "You have nearly reached the pinnacle of your training. To become the greatest enchanter you can possibly be, you have one more instructor to seek out. Her name is Annora, and you may find her in Uldaman.",
+  "files": [
+   "gossip/4e871ac5191a2e28d130bc6bb359535b"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "56c6a3be1a18",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Kitta Firewind",
+  "quest": null,
+  "en": "What brings you to the Tower?",
+  "files": [
+   "gossip/9783209f3bb38d5991e290c9a6e8377d"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "d2d4605c2879",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Kitta Firewind",
+  "quest": null,
+  "en": "You are eager, that is good. However, you are not yet ready to train with the likes of me.",
+  "files": [
+   "gossip/c254c720247272106277a7b95c241623"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "bdf29240fd0f",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Kitta Firewind",
+  "quest": null,
+  "en": "Your skills are truly becoming extraordinary. Now, let us continue your training...",
+  "files": [
+   "gossip/f721840f336ebbf959238b5f76ad37ab"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "2ca6424132d5",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lee Brown",
+  "quest": null,
+  "en": "Your skill exceeds mine, though I've heard that Old Man Heming in Booty Bay has copies of \"The Bass and You\". That is sure to help you increase your skill.",
+  "files": [
+   "gossip/13d2af5f294a07ae2cff1bf240fa32c1"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "9d5719ae34ab",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lee Brown",
+  "quest": null,
+  "en": "You will need to find Nat Pagle in Dustwallow Marsh to get any better than you are currently.",
+  "files": [
+   "gossip/43ebea4a5129c29af35af2064eb93951"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "e1fc17f0311d",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lee Brown",
+  "quest": null,
+  "en": "I can teach you fishing skills.",
+  "files": [
+   "gossip/b285645e1bdb1be37d7bfdc440534eec"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "d8e056f2d81f",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Llane Beshere",
+  "quest": null,
+  "en": "Stormwind is the pillar of the human race, maintained through strength of will and the edge of a sturdy blade.",
+  "files": [
+   "gossip/0a37426688f72de523d491b07d11f473"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "85ae0bd246a1",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Llane Beshere",
+  "quest": null,
+  "en": "I can tell just by the way you're standing that you're no warrior. \n\nWhy don't you go do something safe, like read a book.",
+  "files": [
+   "gossip/8493fe09c36205db0684a4321f2d5dcf"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "8453fa34d042",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Lyria Du Lac",
+  "quest": null,
+  "en": "I can tell just by the way you're standing that you're no warrior. \n\nWhy don't you go do something safe, like read a book.",
+  "files": [
+   "gossip/1d00acba5fef6b2efb8c4454e9935541"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "c9cf94cbe908",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Lyria Du Lac",
+  "quest": null,
+  "en": "Stormwind is the pillar of the human race, maintained through strength of will and the edge of a sturdy blade.",
+  "files": [
+   "gossip/92efeb5a1bded9ddac09c94a148f02c4"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "3747541a39fa",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Dughan",
+  "quest": null,
+  "en": "Ach, it's hard enough keeping order around here without all these new troubles popping up! I hope you have good news, adventurer...",
+  "files": [
+   "gossip/0e27e4d990918879c04d6c20fbce449c"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "bba12fc74057",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Haggard",
+  "quest": null,
+  "en": "Hail, traveler. My eyesight may be poor but I can sense the footsteps of a adventurer from a mile away. For years I defended Stormwind with pride but once my eyes failed me, I was forced to retire.",
+  "files": [
+   "gossip/f3ecdc31f36a23fd5f5e7b95c267cc89"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "a6fa77e36bf5",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal McBride",
+  "quest": null,
+  "en": "Hey, citizen! You look like a stout one. We guards are spread a little thin out here, and I could use your help...",
+  "files": [
+   "gossip/2343fa9b01b2ca00b5bc7a390ac07935"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "08160466f62a",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Maxima Blastenheimer",
+  "quest": null,
+  "en": "Welcome! Step right up, don't be shy. This here is my pride and joy... the Blastenheimer 5000 Ultra Cannon! Ain't she pretty? You look a little big around the mid section, but I think you'll fit. Flying is so much fun, want to learn how?",
+  "files": [
+   "gossip/938e293af4976c65a3bacb0ee9a2b2a3"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "74a77b14f2b2",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Maxima Blastenheimer",
+  "quest": null,
+  "en": "Oh that's simple! You use it like anything else you might activate. Don't worry, I'll take care of lighting the fuse. Once you're up in the air you'll notice that you'll seem to \"float,\" but that won't last forever. What you're aiming for is a target on the lake way over yonder. Make sure that you begin your descent by detaching your \"wings\" at the right time to land in the water, or, well, I don't sell life insurance.",
+  "files": [
+   "gossip/f2c53cf52adbcab179b2f133e834e2bd"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "a45d991d0614",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Maximillian Crowe",
+  "quest": null,
+  "en": "The arcane only corrupts those who are weak. Keep up on your training, or you may find a similar fate.",
+  "files": [
+   "gossip/7533bf57cdb44c24f4dde1a0d3b1909a"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "66be04c82b77",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Maximillian Crowe",
+  "quest": null,
+  "en": "The darkness does not embrace you, adventurer. Cease your prattle and remove yourself from my sight! Be gone!",
+  "files": [
+   "gossip/c4bef13520e7f7e2f4078fbe96c02345"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "22c4bb568447",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Michelle Belle",
+  "quest": null,
+  "en": "I can train you in First Aid techniques.",
+  "files": [
+   "gossip/6e0e069ae3df14ed20af0f9912ceff68"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "652c5fd86e71",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Priestess Anetta",
+  "quest": null,
+  "en": "Do not turn your back on the Light, adventurer, it may be the one thing that saves you some day.",
+  "files": [
+   "gossip/120875f188ac12780f811009b51a783b"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "756a788036f6",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Priestess Anetta",
+  "quest": null,
+  "en": "Through rigorous retraining I have had to break many students of all they had previously learned so that I might teach them anew. The service I offer becomes increasingly difficult to perform each time it is done. It is for that reason that it becomes increasingly expensive with each retraining. Do you desire that I break you of the talents you have learned?",
+  "files": [
+   "gossip/768f0928588ebe52253715a9f6b21ad7"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "43e0a63a7380",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Priestess Anetta",
+  "quest": null,
+  "en": "I trust the Light is with you, adventurer. Is there something that I can I help you with?",
+  "files": [
+   "gossip/aebf3948f2b6eeebadd9d114b8e08bba"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "f5c373178cbe",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Randal Hunter",
+  "quest": null,
+  "en": "I can teach you the finer points of Horse Riding, provided you have enough gold to cover the lesson!",
+  "files": [
+   "gossip/2b4a5b1134898503d988f837bd4622b7"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "fcf99e59d8cc",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Randal Hunter",
+  "quest": null,
+  "en": "You need to be exalted with the humans of Stormwind before I will teach you a riding skill, adventurer.",
+  "files": [
+   "gossip/9821f399d475cf61a0344386783f28f9"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "82f4b8e7c4aa",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Remy \"Two Times\"",
+  "quest": null,
+  "en": "Hey there, friend. My name's Remy. I'm from Redridge to the east, and came here looking for business, looking for business. You got any...got any??",
+  "files": [
+   "gossip/f8036e7c439c0eb3a26dfc62ac1aa55b"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "db541ed214ca",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Salma Saldean",
+  "quest": null,
+  "en": "Welcome to our humble abode! It's always nice to see a friendly face. And what strong arms you have. My husband and I are always looking for help around the farm. Now that most the good folk have left, it's hard to find an able body to help out.",
+  "files": [
+   "gossip/33f04ffc986b09b85415770b3eb442ec"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "b63d0deb04b6",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Sara Timberlain",
+  "quest": null,
+  "en": "Hello, good sir. Have a seat, and a meal if you're hungry. Don't fret if I look busy with my needlework - I'm listening to you...",
+  "files": [
+   "gossip/m-d5cd1c951f980789421f43fefe1f5cab"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "b4927dc64684",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Selina Dourman",
+  "quest": null,
+  "en": "Glad you asked. Darkmoon Faire Prize Tickets are our way of letting you help with the faire, and in return you can turn in your tickets for special prizes!\n\nTo get started you'll want to talk to Chronos, Kerri Hicks, Ringling and Yebb Nebblegear to see who you can best help. They always have something that needs doing to improve and expand our attractions.\n\nThen when you have enough tickets, speak with Gelvas Grimegate and he will give you a list of prizes to choose from.",
+  "files": [
+   "gossip/0e05415896b51970c2f2c4b32e27f456"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "4ebd2c9f1e36",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Selina Dourman",
+  "quest": null,
+  "en": "I highly recommend that you visit Sayge to get your fortune told. I know, I know... he's a gnoll. But he's a very special gnoll with the power to divine your future!\n\nAnd we are constantly expanding the faire with all manner of new attractions!",
+  "files": [
+   "gossip/0e3b200f99409d7e38d9ee962e90629f"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "89ef01e8af07",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Selina Dourman",
+  "quest": null,
+  "en": "Our newest attraction, and at no cost to you I might add, these miniature tanks, or Tonks as we've cleverly named them, can be controlled from any of the Tonk Control Consoles spread throughout the faire.\n\nAll that you have to do is activate an available control console. Each tonk will come equipped with a stock set of devices, and a random special power to unleash upon your enemy!\n\nHold epic battles with your friends, cruise around, or just cause wild mayhem... the choice is yours!",
+  "files": [
+   "gossip/28afbc56bae96b9816c3cd75972b3548"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "273eafeb24a0",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Selina Dourman",
+  "quest": null,
+  "en": "No one really knows who made the Darkmoon Cards or what their true purpose is, but I can tell you that they have been found all over Azeroth, usually in the hands of a villain attempting to unlock their mysteries.\n\nThere are four types of Darkmoon Cards; Beasts, Elementals, Portals and Warlords, with eight cards, Ace to Eight in each suit. If you collect all eight of one suit then you can turn them into a deck that you can give to our Professor Thaddeus Paleo in exchange for a powerful trinket.",
+  "files": [
+   "gossip/5ae37073953338396beb228494dde0c8"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "d77e5404c69f",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Selina Dourman",
+  "quest": null,
+  "en": "The Blastenheimer 5000 Ultra Cannon is a state-of-the-art single person projectile device. Delivering its payload at near the speed of a dragon, the cannon is the pride and joy of the Blastenheimer family, world renown for their aeronautical and combustible feats!\n\nIf you'd like to be launched through the skies to fly free as a bird, seek out Maxima Blastenheimer on the south edge of Thunder Bluff's Hunter Rise. She'll aim you at the target far to south on Stonebull Lake!",
+  "files": [
+   "gossip/87b09a922c391e38efa252e8ee6d8551"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "7604e5afb6d0",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Selina Dourman",
+  "quest": null,
+  "en": "Hello adventurer, and welcome to the Darkmoon Faire. There is so much to do here at the faire that it can be a little overwhelming for our first time visitors. That's why I'm here to help. Do you have any questions?",
+  "files": [
+   "gossip/c4a44b124e903ad1e0ee8d803578a09a"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "9c7c2fe88d77",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Selina Dourman",
+  "quest": null,
+  "en": "An excellent question! We have many things for sale here at the faire. If you are interested in food and drink, then head over to Stamp and Sylannia's booth. My favorite is the Darkmoon Special Reserve.\n\nIf you'd rather purchase something more exotic, then Lhara may have just the thing for you. She specializes in rarities from all over the world.\n\nAnd then there is Flik running around here somewhere. If you can grab him he sells balls for throwing and frogs to keep as pets.",
+  "files": [
+   "gossip/f65ade535c8771bc0c01fd7cb18abc05"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "56d082750b1f",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Shaina Fuller",
+  "quest": null,
+  "en": "The esteemed Doctor Gustaf VanHowzen can train you further. He can be found in Theramore treating the wounded at the barracks.",
+  "files": [
+   "gossip/1d81b661f251fb69f984eaa16be96159"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "12e07a81066a",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Shaina Fuller",
+  "quest": null,
+  "en": "I've heard it said that Deneb Walker, holed up in Stromgarde, has a book that is sure to help improve your First Aid techniques.",
+  "files": [
+   "gossip/6bb0666f31370413b0bedf9c9606f6aa"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "f206c6efdd33",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Smith Argus",
+  "quest": null,
+  "en": "If you'd like to learn how to blacksmith your own weapons and armor, I'd be happy to help.",
+  "files": [
+   "gossip/773e8b03b4c7ac255241329fd6ff90cc"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "42c364d2851e",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Smith Argus",
+  "quest": null,
+  "en": "I'm sorry, I'm a bit busy right now making horseshoes for Verner Osgood in Lakeshire.",
+  "files": [
+   "gossip/80c8a703f2783e988393cdc3f26954dd"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "2808a76e4ab3",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Stone of Remembrance",
+  "quest": null,
+  "en": "This monument is dedicated to all those who have fallen in the protection of Stormwind. Our people have weathered unbelievable hardships to retain their freedoms and to control their own destinies. It is here we remember every sacrifice our citizens have made during the first war that riddled our people.",
+  "files": [
+   "gossip/18d65bf52e8854e76efbc0c79572690b"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "7b64222469f0",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "That hermit Mallory is known to concoct some potions for the local townsfolk on occasion. He has a cottage in the hills between Stormwind and Northshire.",
+  "files": [
+   "gossip/002edc960865a12462d524da4a9ec5c2"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "34cebf23b43b",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "I bet Josetta would be more than happy to teach you some new spells. She is probably up in her room at the Lion's Pride Inn.",
+  "files": [
+   "gossip/0131cac34dfe2c78da45684a609b5c32"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "3ee761fc2936",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "I've heard that there's a dwarf in Stormwind who has achieved some fame for his hunting skill. Maybe you should go see if he could help you.",
+  "files": [
+   "gossip/0156f92878dd7185920a393b5853d47b"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "73294729adfd",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Good ol' Erma, she's been taking care of the local animals for years now. I'm sure she'd be happy to take care of any you'd like to put up. She can be found right outside of the Lion's Pride Inn.",
+  "files": [
+   "gossip/02898b1403315800a99b2c54921d2dda"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "37f46e4312b8",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Few around here are as skilled with a blade as Lyria Du Lac. Check for her out behind the smithy and see if she's in the mood to teach you something new.",
+  "files": [
+   "gossip/0331ca902e3146c78118e62c38363c41"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "9183188791b0",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Adele Fielder has made a name for herself as a leatherworker around Elwynn. You can find her working out of her home up by Crystal Lake.",
+  "files": [
+   "gossip/055387f3f8f3d85f77a3586504bdb666"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "f479bb461d65",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "The Lion's Pride Inn in Goldshire is as good as any inn you will find around these parts. Drop in and let Innkeeper Farley make you feel at home.",
+  "files": [
+   "gossip/0c144818f02d11af9021a5823b7427f0"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "a842395bbdd2",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Lee's caught some pretty odd things up at Crystal Lake. He told me a story about this weird mask he fished up some months ago. If you ask me, I think he just had one too many at the Lion's Pride that night.",
+  "files": [
+   "gossip/17360956a7039de22d26a002b7bfcd3e"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "189582b8ef61",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "I know of a few people around here that practice a profession or two. What profession do you have in mind?",
+  "files": [
+   "gossip/20386cfd269226043dcfdd5aa6c1fdc7"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "67a1fbc2fee4",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "There's an herbalist that lives in the hills east of Stormwind with our alchemist. Quite the handy pairing don't you think?",
+  "files": [
+   "gossip/228c73c43f5dce6e402e233719bc6c1f"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "e2e72fa4f87e",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "I don't know much about magic, but there's a mage named Zaldimar who is staying at the Lion's Pride Inn that could probably assist you.",
+  "files": [
+   "gossip/288705c766a2a8cdf112cab9b1339549"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "cd07a6f2519f",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Brother Wilhelm often trains with Lyria Du Lac out in back of the smithy in Goldshire. You could probably learn a thing or two about being a paladin from him.",
+  "files": [
+   "gossip/31da6527b1db663dc6f3342620895fe3"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "e99f26d10286",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "A warlock? Well, if I was a warlock, I would probably be in the darkest place around here... which would be the Lion's Pride Inn basement. That's where you should look first.",
+  "files": [
+   "gossip/325caa33bcef35efcdd544756cf14f0f"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "83943689c191",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "You must be looking for Smith Argus. He's usually overseeing the forge in Goldshire if you need some training.",
+  "files": [
+   "gossip/43662cd560b3472be8503d8f103e25ee"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "a0094a01d0cc",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Erma does all the caring for animals around here. She's right outside the Lion's Pride Inn if you need to speak with her.",
+  "files": [
+   "gossip/58e01c3573e8ec29c720f44c53d6fe5f"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "a32192e45d13",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "You best head up to Stormwind in the Dwarven District if you want to learn to mine. Surely one of the dwarves there can teach you the profession.",
+  "files": [
+   "gossip/5b3a63364d822c6bd2559d96ec4d9317"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "a9a569932ffb",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "I think you'll have better luck looking in Stormwind. Ask a guard up there and they'll point you in the right direction.",
+  "files": [
+   "gossip/60dc358a6e2438c3c568e59ad0bce002"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "0b8000807973",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Why don't you try looking in the Lion's Pride Inn? The cook there might be able to teach you a few good recipes.",
+  "files": [
+   "gossip/62fe1dee3e085669493ca628f7533517"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "c5e823780251",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "There is bound to be a gnome in Stormwind that can teach you the profession. I'm sure one of the Stormwind Guards could point you in the right direction.",
+  "files": [
+   "gossip/67d9b63fc15643383e2f46d266010802"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "af3cb8c192dd",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "All that official business is handled up in Stormwind these days. You could stop by the Stormwind Visitor's Center if you want to start a guild.",
+  "files": [
+   "gossip/74f90133248ed081dd63135606a46784"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "d26773473c29",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "There's an excellent skinner that lives up in the house by Crystal Lake. She's bound to be able to show you how to get started in the skinner's profession.",
+  "files": [
+   "gossip/7b8dd59196b08d9c2aaf28ce9395a4ab"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "47bde6c9cc2e",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Lyria's the one you should talk to if you need some training. She can usually be found out behind the smithy waiting for some armor or weapon to be finished.",
+  "files": [
+   "gossip/82b4071e4aa609b4e65e5f67ec183b71"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "91ec054860ed",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "You can usually find Brother Wilhelm in back of the smithy trading stories with Lyria. He's always up for teaching fellow paladins new skills.",
+  "files": [
+   "gossip/8c17773e87f0ed8951a19ec2b38a564c"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "1ea13a949e15",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Oh, you must mean the Stormwind Counting House. It's not far from the gates after you enter Stormwind.",
+  "files": [
+   "gossip/8d0487b1471f828e2ad08533960ce09c"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "b4d80e3fb364",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "A rogue? Hmmm... well, I've heard that Keryn Sylvius hangs around those shady types. You might want to talk to her and see what you can learn.",
+  "files": [
+   "gossip/8e11642ef78ecb20aeb15e5bd3d4ac1d"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "641341fa2d53",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Ms. Pomeroy gathers herbs for an Alchemist who lives up in the hills between Northshire and Stormwind. Check for her at his cottage and see if she'll show you the profession.",
+  "files": [
+   "gossip/91eec838271e2defd97f1ef17cd50484"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "be0348475945",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "I had a bad encounter with some of the Defias around here recently, but Michelle Belle fixed me up pretty well. Check with her in the Lion's Pride Inn and see if she'll teach you.",
+  "files": [
+   "gossip/96d48bb506899c3338f1cadfcbe2c66a"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "0d1e8646ae0a",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Eldrin is the only one in Elwynn Forest that I would call a tailor. You can find him at the Eastvale Lumber Camp if you're interested in learning the profession.",
+  "files": [
+   "gossip/99116cecd296f9c7b453b0cd466c1c0c"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "92ae963be8d8",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Tomas may not be the best cook around, but he has a few dishes that hit the spot. He's currently working in the Lion's Pride Inn if you'd like to learn the profession.",
+  "files": [
+   "gossip/99a5d490289d9bb0176d9a7556472b8e"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "4b7ee8106c72",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "You want to learn to be a tailor? Hmmm... I believe there's a tailor over in the Eastvale Logging Camp that may be able to get you started.",
+  "files": [
+   "gossip/9b934f8faed0473a27a58466b2ffe393"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "ef11395f5ad4",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Helene Peltskinner has had years of experience skinning animals for Adele Fielder to make leather items. You can find Helene in her house by Crystal Lake.",
+  "files": [
+   "gossip/a0fc4a75717f81994f43c0cc9dcc5a2a"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "2b0929e8f77b",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "There are quite a few trainers available in Elwynn. Which one are you looking for?",
+  "files": [
+   "gossip/a5a7622b8f8ebe5afb104225cc531868"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "e87750dd398e",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Zaldimar could probably teach you some new spells. He has recently taken a liking to staying at the Lion's Pride Inn, you might want to check one of the rooms and see if he's in.",
+  "files": [
+   "gossip/a8a07c07ddedc32bea4ab7fd7bf3f027"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "f91bfc6c164d",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Well there's a gryphon master up in Stormwind if you need to fly somewhere. You should be able to see the gryphons landing on your right as you walk through the Valley of Heroes.",
+  "files": [
+   "gossip/af3a7d00ee25555e5773f072ba9dd2b6"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "ed93f801b17c",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "I believe Aldwin Laughlin is still the resident Guild Master of Stormwind. Look for his residence on your left as you pass the inner gate of Stormwind.",
+  "files": [
+   "gossip/c01d6d61aad524ab4f569adfc154bdea"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "58f7087cb7ae",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Over by Crystal Lake there lives a lady named Adele Fielder. She makes patches for the local guards with the extra leather she gets from the local skinner, Helene. She would probably be the one to see if you're interested in learning the profession.",
+  "files": [
+   "gossip/c42cc1f489ae783fa9e802f59af6a32e"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "8128c880e42b",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "I'd wager Keryn Sylvius knows the type you're looking for. The company Keryn keeps is less than honorable. She usually hangs out in the Lion's Pride Inn.",
+  "files": [
+   "gossip/cec94b6df353509053c932b86d356143"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "1afcfb73e4d8",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Josetta has been a blessing to this town with her aid of the local guards. If you seek her for training in the ways of a priest, you can find her in the Lion's Pride Inn.",
+  "files": [
+   "gossip/d22f824b0a95fcf0e0fa1f9b6e66ee87"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "f025d528360a",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Oh... one of those types. Well, Maximillian is the only one around here that knows about the dark arts. You can probably find him in the dark of the Lion's Pride Inn basement.",
+  "files": [
+   "gossip/d4cde9dec6267a8111368f29e62b71aa"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "f30379c4f7c8",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Argus is the resident blacksmith of Goldshire. I'm sure he could teach you the Blacksmith's profession.",
+  "files": [
+   "gossip/da5177b45d44e25aa57706e08476b9f5"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "ef029e41e2c8",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Michelle Belle's bedside manner is remarkable! While she might not be able to teach you that, she surely could teach you some proper First Aid. She currently resides in the Lion's Pride Inn.",
+  "files": [
+   "gossip/e130db25d19c3095f05bb7862422afec"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "b894bd5ff489",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "There is an alchemist that lives up in the hills between Northshire and Stormwind that might be of some help. Why don't you go pay him a visit?",
+  "files": [
+   "gossip/e497836bddead8885e3007c40241502e"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "b4751a7fdbc9",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Lee Brown spends the whole day fishing up by Crystal Lake. He's probably got some stories to tell and some tips he could teach you.",
+  "files": [
+   "gossip/e5a3403d0988099931e0ac6f2f9d1c86"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "1933f014047c",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "The gryphon master oversees the gryphon flights from within Stormwind. If you're looking to take a ride, then that's where you should be headed.",
+  "files": [
+   "gossip/e7b869503b0c9fc3c78fef1e53facf50"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "33f532f926bf",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Nope, don't think there are any Enchanters here in Elwynn Forest. There's a guy named Lucan who runs a shop up in Stormwind though. You could check with him and see if he will train you.",
+  "files": [
+   "gossip/e821d7ca53f505264e3c4d486d01a7b4"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "7ccb411f2acc",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "What are you looking for?",
+  "files": [
+   "gossip/ed1b18176e479fb1e0c5d47c9f1dd25d"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "d26aebad26de",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Hmmm... only enchanters I know of around here work out of Stormwind. Why don't you ask one of the guards up in Stormwind?",
+  "files": [
+   "gossip/ee80e28a58b1049bafc0e9b980b7a239"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "797a417a7fdf",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "I usually leave that sort of thing to the gnomes. If you want to take up the profession, I'm sure you could find some gnomes hanging out in Stormwind that would train you.",
+  "files": [
+   "gossip/f0fa0f3fc757caa137f7f79f9bbf14be"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "28bd10a03b7c",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Look no further than the Lion's Pride Inn in Goldshire. With a wide selection of ales and soft down beds you, couldn't ask for a better place to rest.",
+  "files": [
+   "gossip/f25229f44474299d00b3ef221972ff2e"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "9847ab725368",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "A bank? Well, the closest bank around here is The Stormwind Counting House. It's just up the road in Stormwind not far from the gates.",
+  "files": [
+   "gossip/f92f96da1792dd89dc40428e6b0fa147"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "266756af3c44",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Guard",
+  "quest": null,
+  "en": "Druids? I haven't seen any druids around here. Although there is a district in Stormwind that the night elves have made their own.",
+  "files": [
+   "gossip/fb2147a6362627351b16b4e670503b33"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "eeb77eef6b5c",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Theocritus",
+  "quest": null,
+  "en": "Welcome to the Tower of Azora, young Adventurer. I am Theocritus.\n\nDo you have business with me? Or...do I have business with you, perhaps?",
+  "files": [
+   "gossip/6182da5b074eb25d24dd29a333868e22"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "903fed3e1d2c",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tomas",
+  "quest": null,
+  "en": "I can teach you how to cook!",
+  "files": [
+   "gossip/165cad0ff12e810f8dff25c54b2fd744"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "2a733b0c5e28",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tomas",
+  "quest": null,
+  "en": "Dirge Quikcleave of Gadgetzan is a master of the culinary arts. To better yourself you will need to seek him out.",
+  "files": [
+   "gossip/46bd22a73f998050e4834380890f65e5"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "652eef215853",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tomas",
+  "quest": null,
+  "en": "Cooking is a life long pursuit and I see we share the same passion!",
+  "files": [
+   "gossip/65b5db40b84f65e9d8f699beb4eaf4f7"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "efb8ffe742a7",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tomas",
+  "quest": null,
+  "en": "Seek out Shandrina in Silverwind Refuge. She can sell you the \"Expert Cookbook\".",
+  "files": [
+   "gossip/6adb3f498e428354df52f9e4254cab21"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "4be2fa60be59",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Verna Furlbrow",
+  "quest": null,
+  "en": "Sometimes I think there's a big gray cloud in the sky, just raining down bad luck upon us. First, we're driven off our land, and now we can't even get out of Westfall. Everything's a mess. Something needs to be done.",
+  "files": [
+   "gossip/3db41f8f035f725c55ecc861457ca5c4"
+  ],
+  "uiMap": 1429
+ },
+ {
+  "id": "777c157464a8",
+  "zone": "elwynn-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "William Pestle",
+  "quest": null,
+  "en": "Aha! Good day, good day, Master Adventurer! Come, sit down and have a drink. You have an enterprising look in your eye, and I think you'll find speaking to me worth your time...",
+  "files": [
+   "gossip/95569555dc7eef49b2017ae3cc8293bf"
+  ],
+  "uiMap": 1429
+ }
+]

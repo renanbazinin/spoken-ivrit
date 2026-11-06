@@ -1,0 +1,1206 @@
+[
+ {
+  "id": "4cbeb98c01bf",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": null,
+  "en": "There is not much more to tell. Dalaran was nearly wholly destroyed by Archimonde, the staff lost, presumably shattered by the barrier's fail-safe mechanisms.\n\nThere are those that believe the staff to be the cause of Archimonde's reprisal.",
+  "files": [
+   "gossip/24abd0790e880086be8e9845c402ee7c"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "2c2130435b22",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": null,
+  "en": "What followed were a series of tragic events, leading to the death of every Kirin Tor mage that came into contact with Atiesh.\n\nYou see, it was an artifact with sentience. A sentience granted to it by Sargeras...",
+  "files": [
+   "gossip/260835e952147cbb7a876af4c9aa6cac"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "65a88905ef43",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": null,
+  "en": "The corruption of a fallen titan. The corruption of the Destroyer. After all, the staff was forged from the seed of hate. That is, of course, what has brought me here...",
+  "files": [
+   "gossip/28cf85bb2ada6ed1f79286dd08cc5e99"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "0accb1b02eb3",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": null,
+  "en": "Ah, a good question.\n\nIf you prefer hunting in the great outdoors, there are elementals here in the Plaguelands, Azshara, Burning Steppes, Felwood, Silithus, Winterspring, and even Un'Goro Crater.\n\nIf you are the type that laughs in the face of danger, then perhaps you should visit Dire Maul. I have heard that a great many elemental abberations exist within its walls. You would also do well in seeking out the elementals employed by the Dark Iron dwarves of Blackrock Depths.",
+  "files": [
+   "gossip/2ab19e8f4975368b71069106f4f9e703"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "5a80e8ce5fea",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": null,
+  "en": "Like Kel'Thuzad, I too was once a mage of the Kirin Tor. And like Kel'Thuzad, I seek the legendary Atiesh, greatstaff of the Guardian. Our fates are intertwined as such, adventurer.",
+  "files": [
+   "gossip/2e1a14887634a9235eb8a2b52a40e043"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "210e23003b3c",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": null,
+  "en": "After the fall of Karazhan, the Kirin Tor dispatched an assembly of mages to search the tower and seize all items of import... for the purposes of \"research.\" It was then that the fabled staff was discovered and brought back to Dalaran.",
+  "files": [
+   "gossip/6122d26d8170dc3ccd4b9e61fb944a4a"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "375641b92469",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": null,
+  "en": "It is a story of legend and one that I do not have the time nor the inclination to retell. Just know that Medivh was the last of the Guardians. The greatstaff of Atiesh was a focal point of his power and a focal point of corruption.",
+  "files": [
+   "gossip/8a3e84c175ab25c48b49ca17b0135721"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "9580ebdb91d1",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": null,
+  "en": "Progeny of Aegwynn, he that would be the last Guardian of Tirisfal... Medivh.",
+  "files": [
+   "gossip/93c3d0734d2464cd5730f70b6d5bebdd"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "2562d969ef00",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": null,
+  "en": "It is said that Kel'Thuzad seeks the legendary Atiesh, greatstaff of the Guardian.\n\nYes, the very staff once held by Medivh.",
+  "files": [
+   "gossip/971c7add47ebb151a9436fa9054b5e73"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "e1749116f320",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": null,
+  "en": "After the deaths, the Six decided that the best course of action was to seal the staff behind impenetrable barriers of magic and appoint a watcher: A guardian of the staff... I would be that watcher.",
+  "files": [
+   "gossip/c713a20e41938c73763a6be364694b66"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "4ea37f197634",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": null,
+  "en": "I have tracked the various fragments of the staff across this world and in doing so, discovered Kel'Thuzad's plans to reform the staff. He has already collected several of the staff's fragments - which are being held by his most trusted lieutenants.\n\nI cannot emphasize enough the importance of keeping the greatstaff of the Guardian out of Kel'Thuzad's grasp. Frankly, I do not know what the result would be, other than a catastrophe of epic proportion.",
+  "files": [
+   "gossip/cbfe4959c0dccd84f4f0f7ec31d8ebe2"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "30586ec6900d",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": null,
+  "en": "After the fall of Dalaran, I took my leave from the Kirin Tor. I spent years watching over Atiesh, only to have my purpose amongst the Kirin Tor taken from me in one fell swoop. I would find the staff, though it might take a lifetime. That is how I came to join the Argent Dawn and why I am here now.",
+  "files": [
+   "gossip/e31f9aa725b12b20135051ca058312a9"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "33a709cbb7ca",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Argent Medic",
+  "quest": null,
+  "en": "I've got too much to do and not enough time to do it in, traveler! Please, get out of my way.\n\nIf you're infected with the maggot slime or ghoul rot, I might be able to help you.",
+  "files": [
+   "gossip/69087ca98832c4d531ebd24380d184e3"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "fb4394d68335",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Argent Medic",
+  "quest": null,
+  "en": "I've got too much to do and not enough time to do it in, traveler! Please, get out of my way.",
+  "files": [
+   "gossip/f21ac82310364bee548aaa65db9ae740"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "9606b4933868",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Augustus the Touched",
+  "quest": null,
+  "en": "Hi adventurer! Are you here to buy something? Or maybe sell something?\n\nYou won't find better prices anywhere, or my name isn't Augustus the Touched!",
+  "files": [
+   "gossip/337f7913cf78a0dd090124d95e4642d6"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "51830f15f07c",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Augustus the Touched",
+  "quest": null,
+  "en": "Before the Scourge came, I had a great business. I bought and sold everything. Everything!\n\nAnd my prices were INSANE!\n\nJust ask anyone. Anyone who's not dead.",
+  "files": [
+   "gossip/9735b7ad56c5248bbce82ee64ea4959d"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "a7ecf7d32d23",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Betina Bigglezink",
+  "quest": null,
+  "en": "The Plaguelands are an excellent place to strike against the Scourge!",
+  "files": [
+   "gossip/28182dcd5f66af0c7447e4efb15d0c5c"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "8d37a03ff110",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Caretaker Alen",
+  "quest": null,
+  "en": "They hand the corpses to me, I toss them in the pit.",
+  "files": [
+   "gossip/3afbafbdc7a6269b97c1bd93f678955c"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "6225fe0df5b9",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Carlin Redpath",
+  "quest": null,
+  "en": "We have all been witness to terrible tragedies, but we must not let them drag us to despair.\n\nInstead, hold those memories close so that one day, we might find a reckoning.",
+  "files": [
+   "gossip/c507517029d417a2e6d13173fcac6bfe"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "6dda1834c1d8",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Eligor Dawnbringer",
+  "quest": null,
+  "en": "The armor of Redemption was worn by our most pious knights - armor worthy of the Lightbringer himself!\n\nThousands fell in the last war; their vestments stripped from their corpses and taken to the dread citadel of Naxxramas.\n\nIt is said that the death knights of Naxxramas corrupt the Redemption plate mail for their own use.\n\nSuch tragedy...",
+  "files": [
+   "gossip/413977ef54e229a5943c4a37c970e4e7"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "a8f69de847c1",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Eligor Dawnbringer",
+  "quest": null,
+  "en": "Watch your step, traveler. We of the Brotherhood of the Light are not as lenient as our brethren when it comes to meting justice to those that would do this world wrong.\n\nWoe unto those that would anger Korfax.\n\nNow if you have no business with me or the other members of the Brotherhood, please leave so that we may continue our meeting.",
+  "files": [
+   "gossip/ab082a0dacce89f2423a85518fe46a16"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "828fbb7df55b",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Thomas Helleran",
+  "quest": null,
+  "en": "The Lich King has brought war against us from the frozen north, and only we of the Argent Dawn stand in his way.",
+  "files": [
+   "gossip/2f91d44f941779461a2e8810a70edbe9"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "037a16f68038",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Craftsman Wilhelm",
+  "quest": null,
+  "en": "Master craftsman Omarion just vanished one night. Like a toot in the wind... Poof! Gone! Bah, now I'm the only one left to craft the goods for the boys on the front lines.",
+  "files": [
+   "gossip/9cb182e6099250bd1e21445a5a8a786a"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "38ae72046f36",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Dispatch Commander Metz",
+  "quest": null,
+  "en": "I'm far too busy to be playing 'guess the smell' with you, traveler. State your business or get out of my sight!",
+  "files": [
+   "gossip/b5c51729cbfc4944277ef2a9a1158a7e"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "3336bc160004",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Duke Nicholas Zverenhoff",
+  "quest": null,
+  "en": "Greetings, Adventurer. I am Duke Nicholas Zverenhoff of the Argent Dawn.",
+  "files": [
+   "gossip/b6e123b31f1fadec7c5ef0eec7f3660f"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "72ea87133ec1",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Meadowrun",
+  "quest": null,
+  "en": "Elder Moonstrike can be found in the Scholomance in the Western Plaguelands.",
+  "files": [
+   "gossip/c6e9c3903930454803bc57856092d871"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f2eedbbd53f2",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Snowcrown",
+  "quest": null,
+  "en": "Elder Farwhisper can be found wandering the streets of Stratholme.",
+  "files": [
+   "gossip/0183522424d4cfa55625a193ad8eb384"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "aa1a3d056757",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Snowcrown",
+  "quest": null,
+  "en": "Elder Windrun resides in the Crown Guard Tower in the Eastern Plaguelands.",
+  "files": [
+   "gossip/1167586aae0013970f4f9115b9fbb868"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "14ee94a2ff4c",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elder Windrun",
+  "quest": null,
+  "en": "Elder Farwhisper can be found wandering the streets of Stratholme.",
+  "files": [
+   "gossip/37af76331a13dcd8b86d1747e8974bd9"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "3bd82a3379e6",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elder Windrun",
+  "quest": null,
+  "en": "Elder Moonstrike can be found in the Scholomance in the Western Plaguelands.",
+  "files": [
+   "gossip/b67f0d3f37389d015f61fe7e51edd40c"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "c72a18ce3c7e",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elder Windrun",
+  "quest": null,
+  "en": "Elder Snowcrown can be found in Light's Hope Chapel in the Eastern Plaguelands.",
+  "files": [
+   "gossip/bf30b1ae9b568286fa9b7e5277ba7d6e"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "c04f1e1ef334",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elder Windrun",
+  "quest": null,
+  "en": "I last saw Elder Meadowrun at the Weeping Cave in the Western Plaguelands.",
+  "files": [
+   "gossip/fe79134fbd310677816ca7592cf7431d"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "cdae5050a7b0",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Eris Havenfire",
+  "quest": null,
+  "en": "I know you will, adventurer.\n\nI myself am a priestess, though, unlike you I am long since gone from this world. My spirit, however, remains here, as do the spirits of the thousands who were brutally slain by the mad Prince, Arthas Menethil and his legion of undeath.",
+  "files": [
+   "gossip/25632e7eb38d445fde6b26396d16d87d"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "5930de72c80e",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Eris Havenfire",
+  "quest": null,
+  "en": "Praise the Light, one has finally answered the calling.",
+  "files": [
+   "gossip/39d90b0020ac23a8583fafa6411a8ed8"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "af42fe5305d8",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Eris Havenfire",
+  "quest": null,
+  "en": "You must do what I could not: Save the peasants that were cut down while fleeing from Stratholme.\n\nThey will walk towards the light, you must ensure their survival. Should too many fall, our cursed existence shall continue - you will have failed.\n\nEvery ability, prayer, and spell that you have learned will be tested. May the Light protect you, adventurer.",
+  "files": [
+   "gossip/6909641eaf442f591b64fd93dc501770"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "5550d4b71d81",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Eris Havenfire",
+  "quest": null,
+  "en": "The Eye has seen so many horrors and so many wonders.\n\nIt displays what it feels the one looking into it is most suited to see.",
+  "files": [
+   "gossip/ea4195ca47ef46305b7808f45ac77cdc"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "a884e1d3a579",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Eris Havenfire",
+  "quest": null,
+  "en": "You were. The Eye is never wrong.\n\nYou are a priest, after all. A powerful priest, if the Eye showed you this horrible memory.\n\nYou have come for redemption, yet you yourself do not even realize this... Do you?",
+  "files": [
+   "gossip/m-39cfa2183772f467fc19e87da36d78a9"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "72ba9d7f692e",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Eris Havenfire",
+  "quest": null,
+  "en": "I never stated that you were here to redeem yourself, priest. You are here to redeem me and the innocents murdered while trying to escape Stratholme.\n\nMy spirit and the spirit of those lost are bound here, cursed to endlessly relive our own tragic deaths.",
+  "files": [
+   "gossip/m-bb679b37c4c78f1616884c32f720a75d"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "595826d2699c",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Father Inigo Montoy",
+  "quest": null,
+  "en": "The Lich King is attempting to make his presence known in our world. This must not be allowed to occur.",
+  "files": [
+   "gossip/2546edb7adcfdf6f1c9a8e4e04303b07"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f8b0b7584795",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Father Inigo Montoy",
+  "quest": null,
+  "en": "Faith... Some have lost it, others have found it. It cannot be destroyed and it cannot be created.\n\nOr perhaps you speak of the vestments of Faith? Armor worn by our priests and most devout warriors into battle against the Scourge during the last war.\n\nAye, much of it is lost... Stolen by the fiends of Naxxramas.",
+  "files": [
+   "gossip/573851fae77cd06367281ad5d921bf9b"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "150ccef56a18",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Guard Didier",
+  "quest": null,
+  "en": "Don't be afraid of the sword, nubling. It's the mutton that gets ya!",
+  "files": [
+   "gossip/aa468b41ee1967bb79c4f9ff0c0d575f"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "3d071eb52909",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Leopold",
+  "quest": null,
+  "en": "The preternatural ability of the crypt fiend to hunt and kill its foe is one studied and vaunted by men in my profession. I, myself, have slain thousands of the beasts in my crusade to rid this world of Scourge.\n\nWhile I loathe the crypt fiend for its merciless nature, its abilities must be admired. It has a job and it does it - very well.",
+  "files": [
+   "gossip/1bb2d36c1471ccc6854f72988e3b2362"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "c30e32ab908b",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Leopold",
+  "quest": null,
+  "en": "They almost sent my brother, Loksey, to this gathering. He cannot even take care of his hounds, let alone represent the Scarlet Crusade in a competent manner.",
+  "files": [
+   "gossip/55bee4d94fe2ec071c1f49801c48e21a"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "88e7f12b5ae0",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Leopold",
+  "quest": null,
+  "en": "Those filthy beasts are all over the place.\n\nIf you prefer hunting outdoors, you'll find most of them around Plaguewood and Terrordale, with a good concentration of them in the Terrorweb tunnel. They are also likely to appear at almost any Scourge encampment in the Eastern Plaguelands.\n\nIf you're a hearty dungeon crawler, you'll find a good lot of them in Stratholme and a few of the necrofiend variety in Scholomance.",
+  "files": [
+   "gossip/86a91c29a823bc19ba74c174cebf69ae"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "854450b80d3e",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Leopold",
+  "quest": null,
+  "en": "I have discovered a use for the carapace of the crypt fiend and its various body parts. I am able to fashion an extremely light and very deadly set of armor by combining the fragments with some of the desecrated magical armors lost in Naxxramas.",
+  "files": [
+   "gossip/c3277c86a4fa82a1bddd12127f42cee9"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "b7cd7a3dde55",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Jessica Chambers",
+  "quest": null,
+  "en": "Welcome to Light's Hope Chapel, stranger.",
+  "files": [
+   "gossip/62d77d311ff95b739586b58c132d853b"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "45b41a10039f",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Keeper of the Rolls",
+  "quest": null,
+  "en": "The Argent Dawn will turn away none who are willing to sacrifice for our cause.",
+  "files": [
+   "gossip/2d797fe5a1485500fb40042caafdefe8"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "7c545fc7b0ec",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Korfax, Champion of the Light",
+  "quest": null,
+  "en": "What is the Brotherhood of the Light? Well... We are all members of the Argent Dawn at the core - members of the Argent Dawn that aren't held in check by morals, guilt and useless human emotion. Consider us Scarlet Crusade minus the stupidity, lack of leadership, and blind zealotry.\n\nDon't let the Scarlet Commander tell you otherwise.\n\nAnd don't let Tyrosus know I said that... It would be a terrible shame if I had to brutally maim him should a brawl break out.",
+  "files": [
+   "gossip/087fc685b3d3b988443256863a127d39"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "395cbcabe979",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Korfax, Champion of the Light",
+  "quest": null,
+  "en": "Is this a serious question? You really don't know?\n\nIf you are the cowardly sort, afraid to get their hands too dirty, you will find Dark Iron scraps on the creatures in the Burning Steppes and Searing Gorge.\n\nIf you're the bloodthirsty adventuring type, the dungeons of Blackrock Spire and Blackrock Depths hold quite a large supply of the scraps.",
+  "files": [
+   "gossip/0b31ddefd183ea40f98d3eae3fd516ca"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "872567279945",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Korfax, Champion of the Light",
+  "quest": null,
+  "en": "It was not until after his controversial death that the knights and warriors of Lordaeron would wear similarly fashioned suits in honor of their fallen hero. While the death of Mograine was a great victory for Kel'Thuzad, the resulting martyrdom would be felt until the end of the war.\n\nWhere one did fall, many would rise...",
+  "files": [
+   "gossip/338d2b414e7e0fbcec01d970b4aa4241"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "1722813d1f91",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Korfax, Champion of the Light",
+  "quest": null,
+  "en": "The first suit of Dreadnaught armor was made exclusively for the Scarlet Highlord Mograine. Whilst donning the full suit, the Highlord looked himself to be a demon from the depths of the Nether.\n\nAye, 'twas quite a sight to behold as Mograine would wade into a hundred Scourge, Ashbringer held high, and come out on the other side in a cloud of dust and flames - enemies left in ashes beneath his feet.",
+  "files": [
+   "gossip/d0454cc1a7f4f7f1c3d786915dd2f879"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "1b969b4eaf43",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Leonid Barthalomew the Revered",
+  "quest": null,
+  "en": "Through knowledge, may we find salvation.",
+  "files": [
+   "gossip/5ee70cf4037f565241a3a03d08cef9f6"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "8fd69bdfc1d2",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mataus the Wrathcaster",
+  "quest": null,
+  "en": "What is it that you want, lemming? Get out of my sight before you find out why I am known as the Wrathcaster.",
+  "files": [
+   "gossip/46c26045969305b4f1afa87dc761ac0c"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "88c1b5bf04df",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mataus the Wrathcaster",
+  "quest": null,
+  "en": "I make no pretenses, maggot. The darkness such items hold could very well destroy the both of us. That is why the price is so high. If I'm going to die, it's going to be as a rich man.\n\nAnd I don't give an ounce of gnoll spit how you die, only that you do as I ask. Bring me what I require and we will both benefit - or die, but I've already explained this...",
+  "files": [
+   "gossip/c3138924933336621f5295591b7152ae"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "ce20ec11ec50",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mataus the Wrathcaster",
+  "quest": null,
+  "en": "It is power, imbecile.\n\n\nThese fools send idiots like you into Naxxramas to retrieve desecrated armor so that they may purify it and restore the pieces to their former glory.\n\n\nJust the thought of such utter stupidity brings the bile up to my throat.\n\nI too seek that armor, but in its most foul and desecrated form.",
+  "files": [
+   "gossip/c943281a6d8472a873a6c97a00f1de85"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "e75905526722",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Nathanos Blightcaller",
+  "quest": null,
+  "en": "No doubt you are another inept simpleton sent from the Dark Lady to train under her champion.\n\n\nI've sent every one of you back to her in pieces, I don't see why it will be any different this time.\n\nMine, however, is not to question why, but instead to do as the Dark Lady bids.",
+  "files": [
+   "gossip/36ceb7cebed57b0d09e09d90cea831c6"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "df2841df942f",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Packmaster Stonebruiser",
+  "quest": null,
+  "en": "Our caravans go out 'bout twice a day, but I'll be damned if the Scourge haven't gone out of their way to stop Didier and his mules from getting shipments to the front lines. Craziest thing I've ever seen. If only we had the heroic adventurin' types to help protect the shipments...",
+  "files": [
+   "gossip/b4e6217834a34f95034b22e071d3a451"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "fbedf18d3239",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Quartermaster Miranda Breechlock",
+  "quest": null,
+  "en": "Greetings, adventurer. I am Miranda Breechlock - one of but a few authorized equipment and materiel quartermasters for the Dawn.\n\nAs you fight evil under our commission - all the while earning our respect and trust - you'll earn valor tokens from Duke Zverenhoff. Tokens serve two purposes: use them to gain increased standing within our ranks, or use them as tender in acquiring special items.\n\nAs you improve your standing with the Dawn, you'll discover that more items will be made available to you.",
+  "files": [
+   "gossip/76e62df07e05db88a7485a8b88c9987d"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f310d00efd26",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Quartermaster Miranda Breechlock",
+  "quest": null,
+  "en": "Certainly, adventurer.\n\nAdventurers that the Dawn views as exalted must submit a combined total of 12 insignias to access superior items. To access items of even greater power, they would be required to submit a total of 54 insignias.\n\nThose exalted in the eyes of the Dawn receive the greatest discounts.",
+  "files": [
+   "gossip/784b321e46fc302d5772086f42f3d4e4"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "9c3d63d74847",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Quartermaster Miranda Breechlock",
+  "quest": null,
+  "en": "Certainly, adventurer. You only need to tell me what reputation you would like to know about.",
+  "files": [
+   "gossip/95455c097e5501d0311f370c9de61cc0"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "34cb06483b08",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Quartermaster Miranda Breechlock",
+  "quest": null,
+  "en": "Certainly, adventurer.\n\nAdventurers that the Dawn views as friendly must submit a combined total of 60 insignias to access superior items. To access items of even greater power, they would be required to submit a total of 220 insignias.\n\nI must admit, the price is quite high for adventurers not favored by the Dawn.",
+  "files": [
+   "gossip/9656dc4e19c25b00c359bd5324e01c23"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "d8d81cf17a8d",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Quartermaster Miranda Breechlock",
+  "quest": null,
+  "en": "Certainly, adventurer.\n\nAdventurers that the Dawn views as honored must submit a combined total of 40 insignias to access superior items. To access items of even greater power, they would be required to submit a total of 150 insignias.\n\nI must admit, the price is high even for those honored amongst the Dawn.",
+  "files": [
+   "gossip/c5a566d78a559292a57e527462eed009"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "504391c141fa",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Quartermaster Miranda Breechlock",
+  "quest": null,
+  "en": "Certainly, adventurer.\n\nAdventurers that the Dawn views as revered must submit a combined total of 14 insignias to access superior items. To access items of even greater power, they would be required to submit a total of 90 insignias.\n\nThose that are revered by the Dawn will find the cost of superior items quite reasonable! The cost for the more powerful items is still high.",
+  "files": [
+   "gossip/dcf21ea6bba24a55d9157c1f031d42ef"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "4f017656d911",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Rayne",
+  "quest": null,
+  "en": "I am a crafter of some renown, adventurer. With the proper materials, I am able to craft an armor known as Dreamwalker. Druids - and even some shaman - are drawn to this armor due to its magical properties. Are you interested?",
+  "files": [
+   "gossip/182a2f807168b02644f4daff8caa6b4b"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "8fb1128630d6",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Rayne",
+  "quest": null,
+  "en": "I think not. Rimblat has already proven that new life can grow from the sundered earth. Now we must find a way to reproduce and, more importantly, sustain the growth.\n\nWhile I am here, I am also offering my services to adventurers entering Naxxramas.",
+  "files": [
+   "gossip/2c8bea531a145f78fd5e857b6b8fabd4"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "bbda72551d00",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Rayne",
+  "quest": null,
+  "en": "We are all drawn here for different reasons, adventurer.\n\n\nI am here to meet with Rimblat of the Earthen Ring. He has some interesting theories on cleansing these lands.",
+  "files": [
+   "gossip/32fb9a5f34cae334b11ddc1ef3aaafda"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f0a4574367dc",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Rayne",
+  "quest": null,
+  "en": "If you are one that prefers to hunt in the outdoor world, both Felwood's treants and Un'Goro's lashers are an excellent source of fronds.\n\nIf you are more of a risk-taker, the eastern and western wings of Dire Maul will provide you with a nearly limitless supply of savage fronds.",
+  "files": [
+   "gossip/ca612f9695245d53b26272938714b047"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "a01654848694",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Rayne",
+  "quest": null,
+  "en": "Hello, adventurer. Please excuse me as I am having a conversation with Rimblat. He believes that even this land is not beyond saving.",
+  "files": [
+   "gossip/f7cb5d818b4259306750c7395a10a00f"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "09ab3ee88abf",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Rimblat Earthshatter",
+  "quest": null,
+  "en": "I was a young tauren, barely having reached adolescence at the time, but I knew that those that would brave the battles for our freedom were well protected in my namesake's vestments.",
+  "files": [
+   "gossip/102e0b4ad57167106f63887340efcdd5"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "05bd28fe9431",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Rimblat Earthshatter",
+  "quest": null,
+  "en": "The name of Earthshatter has been one held by my family for hundreds of years. And like my father and his father before him, I too have inherited the right to create the vestments of my namesake.",
+  "files": [
+   "gossip/261c833a674804c528c3991040fe6265"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "8f289c6aec87",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Rimblat Earthshatter",
+  "quest": null,
+  "en": "I've been expec...\n\n\nExcuse me, old habit. I am Rimblat of the Earthen Ring.",
+  "files": [
+   "gossip/2c121d996480b972ca128fe4dd17568b"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "1b9680ba2b4d",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Rimblat Earthshatter",
+  "quest": null,
+  "en": "In the last war, tauren fought. Shaman were sent in defense of this world against the Scourge invasion. Most lost their lives. Many were otherwise ripped asunder, their body parts used for foul experiments in that cursed citadel. I mourn their passing but my heart swells with pride at their courage.",
+  "files": [
+   "gossip/65e7b100fb21e8d6d72f6a72a8e28b8f"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "4aab57602d96",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Rohan the Assassin",
+  "quest": null,
+  "en": "Are you daft? Did you miss the BONY SKELETAL CREATURES littering the landscape on your way over here?\n\n\nIf you're the outdoor type, you'll find skeletal creatures all over both the Western and Eastern Plaguelands. Trust me, you can't miss 'em - they certainly won't miss you if they get the chance.\n\nIf you're a dungeon type, Stratholme and Scholomance are definitely the place to be for bone fragments.",
+  "files": [
+   "gossip/13a767725c325fa51d467e80639b5c7b"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "c05e1b50bbeb",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Rohan the Assassin",
+  "quest": null,
+  "en": "Ah, as the title states I am an assassin for the Scarlet Crusade. I spend my days exterminating high priority targets and nights at the Gadgetzan discotheque. Dancing is my true calling. Assassination just pays the bills.",
+  "files": [
+   "gossip/512f340d076023b4c9448a6a0aa5f962"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "3d3daae1640e",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Rohan the Assassin",
+  "quest": null,
+  "en": "The title is misleading. I'm really a very nice person once you get to know me.",
+  "files": [
+   "gossip/7d3224526057b707f3979b7b1671e479"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "9643e99c08dc",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Rohan the Assassin",
+  "quest": null,
+  "en": "Good question, traveler. In my younger days I was footloose and fancy free without a care in the world. In those days I would sing in a barber shop quartet out of Stormwind known as the Four Dons. That's where I learned how to craft the Bonescythe digs.",
+  "files": [
+   "gossip/c5eeeaf1edcbad1bef6a552484b6b991"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "68da92489a3a",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Rohan the Assassin",
+  "quest": null,
+  "en": "Yes, Bonescythe. You see, it was our tenor, an ornery fellow known as Don Julio, who got me started on the whole thing. In his travels throughout Lordaeron, Don Julio picked up many interesting skills, one of them being the ability to take the bones of fallen Scourge and fashion them into a lethal set of leather armor - perfectly suited for an assassin.",
+  "files": [
+   "gossip/d6ee820d31d12325db3bb0117d5ad5ed"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "1bab834e9862",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Rohan the Assassin",
+  "quest": null,
+  "en": "Members only, scrub!",
+  "files": [
+   "gossip/e9681ae779f33089e0a1a4491af83568"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "3c70a5214c2a",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Rohan the Assassin",
+  "quest": null,
+  "en": "I'm as sane as the next guy, fella. Believe what you will, but I AM capable of fashioning this armor. If you're interested, maybe we can make a deal. The sooner I can get out of the assassination business, the better.",
+  "files": [
+   "gossip/m-f58bd8742f434e11faf30ac0397cb63c"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "7ad4b4794371",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Scarlet Commander Marjhan",
+  "quest": null,
+  "en": "The Argent Dawn might be impotent idealists but their delusional leader knows that they are outmatched. I have been sent here as an emissary of the Scarlet Crusade. An ambassador, if you will... It is doubtful that we could even dent the armies of Kel'Thuzad - united or not - but we might be able to contain them long enough for some sort of miracle to happen.\n\nAs for me? I'll die in battle...",
+  "files": [
+   "gossip/7dde9ae82fc3dac0e978a835607357c8"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "b51b45126ddc",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Smokey LaRue",
+  "quest": null,
+  "en": "I'm what you call a capitalist, traveler.",
+  "files": [
+   "gossip/4249b5e676f6809f52f9c6f458cc5ae7"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "5c74a788d226",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tirion Fordring",
+  "quest": null,
+  "en": "Indeed. The Scarlet Crusade are an aberration of the Order of the Silver Hand.\n\nYou must believe me, traveler; Taelan is a good man. He needs guidance. He needs to remember... remember what it is to be noble and honorable. I know that in his heart, he knows what he does is wrong. Will you help him? Will you help him remember?",
+  "files": [
+   "gossip/01d7a5fdbf10f6ad784bf833b5258593"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "e85458042923",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tirion Fordring",
+  "quest": null,
+  "en": "Sit and listen to my story, traveler.",
+  "files": [
+   "gossip/9bbd45c8ec045ee83374773f963ec27c"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "51fb724abfbc",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tirion Fordring",
+  "quest": null,
+  "en": "My son, Taelan, was only a child when I was found guilty of treason and banished from the Alliance to live a life in exile. I chose to remain here so that I could watch over him; to somehow insure that he would grow up an honorable man.\n\nAs I had hoped, he took my place as lord of Mardenholde; but in a cruel twist of fate, joined the ranks of the Scarlet Crusade. He is now their Highlord, traveler.",
+  "files": [
+   "gossip/9f1b29d378ef6d96e7efc0f960de367e"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "10d8da77f9e4",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tirion Fordring",
+  "quest": null,
+  "en": "I must apologize for not being entirely truthful with you in regards to my identity. I had to be certain that you could be trusted - few people would have selflessly lent assistance to an old and forgotten hermit.\n\nYou have proven yourself as one of those people: A person of integrity and honor.",
+  "files": [
+   "gossip/c140d7f6c311b75cf50828eb829cf9fd"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "7b1376a67a78",
+  "zone": "eastern-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tirion Fordring",
+  "quest": null,
+  "en": "Race does not dictate honor, traveler. While you remain on my farmstead, I ask that you remember and respect this credo.\n\nI have known orcs who have been as honorable as the most noble of knights and humans who have been as vile as the most ruthless of Scourge.\n\nBut I shall not bore you with tales of my youth! There is much work to be done - if that is what you desire.",
+  "files": [
+   "gossip/da8d51ad6b190d0e4ebeee411858fb14"
+  ],
+  "uiMap": 1423
+ }
+]

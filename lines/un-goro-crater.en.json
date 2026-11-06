@@ -1,0 +1,1435 @@
+[
+ {
+  "id": "cbd4ff245757",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "A Gnome's Assistance",
+  "en": "I know it'll work this time...",
+  "files": [
+   "followup/4839-gnome-female-nerdy"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "4e9912c5ec7f",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "A Gnome's Assistance",
+  "en": "This will be my best experiment yet!",
+  "files": [
+   "followup/4840-gnome-female-nerdy"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "27898e6a25e3",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "A Gnome's Assistance",
+  "en": "Now, if I add the yellow ones...",
+  "files": [
+   "followup/4841-gnome-female-nerdy"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "aa77ee665ce0",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "A Gnome's Assistance",
+  "en": "I know it'll work this time... My last 13 tries were just practice!",
+  "files": [
+   "followup/4842-gnome-female-nerdy"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "869334750641",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "A Gnome's Assistance",
+  "en": "I think... I think it's working!",
+  "files": [
+   "followup/4847-gnome-female-nerdy"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "24fdff33c127",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "A Gnome's Assistance",
+  "en": "OW! That's not right!",
+  "files": [
+   "followup/4852-gnome-female-nerdy"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "1656c4e03acb",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "A Gnome's Assistance",
+  "en": "Oh well... Maybe next time.",
+  "files": [
+   "followup/4853-gnome-female-nerdy"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "3e9c1fef353c",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "A Gnome's Assistance",
+  "en": "Stay where you are for just a moment... I am testing out a new combination of crystals...",
+  "files": [
+   "quests/3941-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "5c8e9f447fb6",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Linken",
+  "quest": "A Gnome's Assistance",
+  "en": "Thinking... Thinking... I know I came here for something important...\n\nI have an idea, Adventurer. In the cave over there is a gnome named J.D. that was very kind to me when I first arrived here. Perhaps in my disoriented state, I might have mentioned something to her.\n\nWhy don't you go ask her if she knows anything? Oh, but be careful -- she's always messing with those crazy glowing crystals I've seen in the crater. I'm not quite sure what she's up to in there!",
+  "files": [
+   "quests/3941-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "a4c2274005f2",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "A Conspicuous Gravestone",
+  "quest": "A Grave Situation",
+  "en": "You push on the stone firmly, and it slides away, revealing a small depression underneath it.\n\nPlacing Linken's Sword into the depression, you realize that it fits perfectly...",
+  "files": [
+   "quests/3913-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "7d1e89cd29e0",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gaeriyan",
+  "quest": "A Grave Situation",
+  "en": "If you return to the graveyard, Adventurer, you will find a gravestone there... Not just any gravestone; this one will stand out from the others. Secrets lie within it.\n\nPush on the stone, and you will learn of these secrets...",
+  "files": [
+   "quests/3913-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "874c18017a22",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Ringo",
+  "quest": "A Little Help From My Friends",
+  "en": "Ugh... It's so hot...\n\nI was exploring this area, when all of a sudden, the heat just became unbearable. I must be suffering from heat exhaustion.\n\nPlease, help me get back to my friend Spraggle at Marshal's Refuge. I think I'm well enough to follow you there.\n\nI am feeling a little out of it, so if I do happen to faint again, just splash some water on me from Spraggle's canteen. That should work, I hope...",
+  "files": [
+   "quests/4491-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "4f827bd08c1c",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Spraggle Frock",
+  "quest": "A Little Help From My Friends",
+  "en": "Ringo's not in the best shape, Adventurer, but I am glad to have him back in one piece!\n\nThank you for finding him.",
+  "files": [
+   "quests/4491-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "bf0f0cb9be3e",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gregan Brewspewer",
+  "quest": "A Visit to Gregan",
+  "en": "Bloodpetal, eh? Hmmm... Well, you better explain the plan, and then I'll tell you whether or not I can help you.",
+  "files": [
+   "quests/4142-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "e4c50956ffd6",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Muigin",
+  "quest": "A Visit to Gregan",
+  "en": "I'm not quite sure what to make of this, Adventurer. The plants... they seem to have some minimal intelligence.\n\nI'm no expert, though. But, I do know someone that is!\n\nHead to northern Feralas, and look for a buddy of mine named Gregan Brewspewer. He's an expert on this sort of thing.\n\nI'm sure Gregan can help us out here. You'll find him out in the wilderness; he's not the type to live in a big city.",
+  "files": [
+   "quests/4142-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "ab0a3c799408",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Hol'anyee Marshal",
+  "quest": "Alien Ecology",
+  "en": "Just because we've suffered a setback doesn't mean that research must stop! We were investigating the Gorishi insects in the southern part of the crater before winding up here. Their presence is alien to the ecology of Un'Goro, and we want to find out why.\n\nIn their hive network must be larval hatcheries. You can identify these places by their hanging larval spawns. Use this vial to take a sample of the hive wall near any of the hatcheries. Bring it back to me for study, but be careful!",
+  "files": [
+   "quests/3883-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "90bb859b80fa",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Hol'anyee Marshal",
+  "quest": "Alien Ecology",
+  "en": "Yes, this will do nicely. You've been a great help... I wish I could give you more than this, but being virtually stranded in the middle of a savage land does limit what I can and cannot give. Rest assured though - the research done here would not have been possible without your assistance!",
+  "files": [
+   "quests/3883-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "3d4849b1b29d",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Eridan Bluewind",
+  "quest": "Aquementas",
+  "en": "Take this bag of supplies with you to Tanaris. Travel to Lost Rigger Cove, and look for a circle of stones.\n\nThe eastmost peninsula is the secret...\n\nFrom this circle only, read from the book of Aquor; summon the only creature that can transform the items you collected into a totem to fight Blazerunner.\n\nAquementas will not be pleased to be awakened, but remember, you must remain in the circle for him to transform the items.",
+  "files": [
+   "quests/4005-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "23306217cc0b",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "Aquementas",
+  "en": "Blazerunner, you say...\n\nYes, I am aware that a strong elemental resides in the charred center of the crater. We all just keep our distance; none have been able to penetrate the powerful aura that surrounds him. Many have been pushed from the rocky paths onto the ground below when trying to face him.",
+  "files": [
+   "quests/4005-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "99a253a887b5",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Beware of Pterrordax",
+  "quest": "Beware of Pterrordax",
+  "en": "Wanted: A skilled fighter to deal with the threat of the Pterrordax that inhabit the Un'Goro Crater. Their numbers are growing, and they are becoming a menace to travelers in the area.\n\nDecrease the population by slaying 10 pterrordax and 15 frenzied pterrordax.\n\nSpeak with Spraggle Frock after completing the task for a reward.",
+  "files": [
+   "quests/4501-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "05203c055472",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Spraggle Frock",
+  "quest": "Beware of Pterrordax",
+  "en": "I am absolutely terrified of the pterrordax here! Thank you for decreasing their numbers, Adventurer. Now I might feel safe enough to venture out of Marshal's Refuge.",
+  "files": [
+   "quests/4501-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "a8a053f301c4",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Muigin",
+  "quest": "Bloodpetal Sprouts",
+  "en": "I hope this works!",
+  "files": [
+   "followup/4966-human-male-standard"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "e0d7b8e05df9",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Muigin",
+  "quest": "Bloodpetal Sprouts",
+  "en": "Look at them go!",
+  "files": [
+   "followup/4968-human-male-standard"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "64ab37e564a1",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Muigin",
+  "quest": "Bloodpetal Sprouts",
+  "en": "Here goes nothing, Adventurer! This will get Larion's attention!",
+  "files": [
+   "quests/4144-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "03f969491fff",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Larion",
+  "quest": "Bloodpetal Zapper",
+  "en": "Looks like this is going to work perfectly, Adventurer. Now remember, if you see any of those pests around, don't hesitate to use that zapper!",
+  "files": [
+   "quests/4148-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "c9d43c6e8dcc",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Karna Remtravel",
+  "quest": "Chasing A-Me 01",
+  "en": "Unfortunately, something's happened to one of my greatest inventions. You've seen mechanical squirrels, yes? Well, to get closer to the apes of Un'Goro Crater, I created a mechanical ape to blend in with their kind--I call her A-Me 01.\n\nShe has scrying gems for eyes so I could see everything she saw. She made it to Fungal Rock--the apes' lair--just east of here, and that's when I lost contact. The last thing I saw was one of their alpha males rushing up to say hello to her!\n\nCan you help me find her?",
+  "files": [
+   "quests/4243-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "89b6922d4ca5",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Karna Remtravel",
+  "quest": "Chasing A-Me 01",
+  "en": "Oh, you've done it! Wonderful! Thank you, Adventurer.\n\nOh, my poor, A-Me. Look at all those dents. We'll get her up and running perfectly with just a little work.\n\nThank you again, Adventurer. I really appreciate it.",
+  "files": [
+   "quests/4245-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "750db190803f",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Eastern Crystal Pylon",
+  "quest": "Crystal Spire",
+  "en": "Arranging the crystals on the table, you carefully align the colors. As you push the last one into place, a burst of light fuses the crystals together.\n\nThe resulting combination is now yours.",
+  "files": [
+   "quests/4386-complete",
+   "quests/4385-complete",
+   "quests/4384-complete",
+   "quests/4382-complete",
+   "quests/4383-complete",
+   "quests/4381-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "9f8c96bcccf4",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "Crystals of Power",
+  "en": "I'm sure you've noticed 'em, Adventurer. They're everywhere!\n\nWhat am I talking about? Why, the crystals, of course!\n\nThe crystals... They're all over the crater. Most people ignore them, but I have a strange feeling that they hold power within them. I've been doing experiments here with them for a while, but I can't seem to find anything. Well, I haven't yet, anyway.\n\nSay, I'm running a little low on the crystals I have here -- think you might be able to collect some more for me?",
+  "files": [
+   "quests/4284-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "e4e34e47bb88",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "Crystals of Power",
+  "en": "Now I will continue my experiments! Thank you, Adventurer.",
+  "files": [
+   "quests/4284-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "40a5265536a1",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Williden Marshal",
+  "quest": "Expedition Salvation",
+  "en": "I don't know how you made it here, but you're a sight for sore eyes! I'm Williden Marshal, and I lead a non-aligned expedition troupe. Our latest and greatest endeavor has met with what seems like countless disasters, the most serious of which being that we underestimated the savagery of Un'Goro Crater!\n\nAs we fled our base camps in the southwestern and northeastern parts of the crater, we left behind vital supplies. You look like you're capable enough - can you help us by getting them back?",
+  "files": [
+   "quests/3881-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "bdef25afc357",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Williden Marshal",
+  "quest": "Expedition Salvation",
+  "en": "You got both our foodstuff AND our research equipment back! You've not only saved the expedition, you've also saved our lives. I and the rest of my team can't thank you enough; we just might make it here for a while now thanks to you.\n\nWhile we don't have much, I'm certainly not going to leave you high and dry for the invaluable help you've given us. Thank you, Adventurer - you've got a friend in Marshal Expeditions!",
+  "files": [
+   "quests/3881-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "7456ac91ed88",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Krakle",
+  "quest": "Finding the Source",
+  "en": "The hot springs here are a source of mystery to me. Where does the heat come from?\n\nLooking at how close the pools are to Fire Plume Ridge, I really wonder if the volcano might have something to do with it. I created a thermometer to take readings of the temperatures at the volcano, and I'd like to find the hottest part. It gives the measurements in degrees Kraklenheit!\n\nHere, take it, and take readings of the temperatures at the ridge whenever you see a hot spot!",
+  "files": [
+   "quests/974-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "9f67dd33e2dc",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Krakle",
+  "quest": "Finding the Source",
+  "en": "Yes, I definitely see the correlation here between the temperature of the volcano and the hot springs. I'll have to double-check my equations for accuracy, but it seems like the distance and the rate that the heat is transferred... Hmm...",
+  "files": [
+   "quests/974-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "bf6a3c85cc6b",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gregan Brewspewer",
+  "quest": "Haze of Evil",
+  "en": "To tell you the truth, Adventurer, I've never seen any plants like this in my travels. Perhaps I should take a trip to this crater...\n\nAt any rate, I think I know just the thing Muigin's looking for -- Atal'ai haze. It's horrid stuff, hard to collect, but it's just what he needs to control the little monsters.\n\nYou'll need to visit the temple of Atal'Hakkar in the Swamp of Sorrows. The Atal'ai Haze can be collected from the deep lurkers, murk worms, or oozes found there. Good luck, Adventurer!",
+  "files": [
+   "quests/4143-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "e49528f505f0",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Muigin",
+  "quest": "Haze of Evil",
+  "en": "I admit, I'm a bit hesitant to touch that stuff, Adventurer! But if Gregan says it'll work, then I'm willing to give it a try!",
+  "files": [
+   "quests/4143-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "95655cc61a2e",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Linken",
+  "quest": "It's Dangerous to Go Alone",
+  "en": "Adventurer, I finally remember now... I did come here to fight Blazerunner. I was on a journey, and this was to be the last step.\n\nBut I am no longer the hero... You are. All that you have done -- you must finish this now, not me.\n\nBlazerunner guards an artifact called the Golden Flame. It provides power more vast than anything else I have ever known, and it is dangerous in the hands of one with an evil heart.\n\nYou will want to bring others with you -- it's dangerous to go alone. Take this as my advice.",
+  "files": [
+   "quests/3962-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "f1bba2b9ec43",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Linken",
+  "quest": "It's Dangerous to Go Alone",
+  "en": "Thank you, Adventurer.\n\nThe Golden Flame will now be returned back to my homeland, where it may be protected, never again to be used for evil.\n\nWithout you, I'd still have no idea who I am! Since you did so much for me, I'd like you to have something special...\n\nTake any one you want!",
+  "files": [
+   "quests/3962-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "09e844c43ef5",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "A Small Pack",
+  "quest": "It's a Secret to Everybody",
+  "en": "A water-logged pack rests at the bottom of the pond.",
+  "files": [
+   "quests/3844-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "0781b274e93f",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "A Small Pack",
+  "quest": "It's a Secret to Everybody",
+  "en": "Grabbing onto it, you pull the pack back to the shore. Perhaps if you examine the items inside the pack, you might find out more about who it belongs to.\n\nThere are a few stray travelers at Marshal's Refuge. Perhaps you might find out more there.",
+  "files": [
+   "quests/3845-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "4491ded91f8e",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "A Wrecked Raft",
+  "quest": "It's a Secret to Everybody",
+  "en": "A destroyed raft rests along the shoreline. Considering this is only a small pond, it is not clear as to how it ended up here, although looking at the trees tells you that the water level may not be constant.\n\nPerhaps a little exploration in the area might uncover more clues...",
+  "files": [
+   "quests/3844-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "8e2828daf032",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "It's a Secret to Everybody",
+  "en": "Please, follow me.",
+  "files": [
+   "followup/6153-dwarf-female-maternal"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "c23150bdb322",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "It's a Secret to Everybody",
+  "en": "I haven't really figured out what it is, but there's something strange about the hot springs...",
+  "files": [
+   "followup/6154-dwarf-female-maternal"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "fa207c944481",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "It's a Secret to Everybody",
+  "en": "I've found that when I throw something into this water, it has improved incredibly when I retrieve it.",
+  "files": [
+   "followup/6156-dwarf-female-maternal"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "abb2f0083972",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "It's a Secret to Everybody",
+  "en": "Well, whatever it is, it works quite well!",
+  "files": [
+   "followup/6157-dwarf-female-maternal"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "ea0b68eb117a",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "It's a Secret to Everybody",
+  "en": "And I am determined to find out more... So if you need my help again, you know where I'll be.",
+  "files": [
+   "followup/6158-dwarf-female-maternal"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "fc518b9263c2",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "It's a Secret to Everybody",
+  "en": "Well, of course I can temper this sword. While I'm working, you can explain what took Linken so long to get this to me. He's not usually one to forget things...",
+  "files": [
+   "quests/3908-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "76b18119f848",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Linken",
+  "quest": "It's a Secret to Everybody",
+  "en": "Oh... Yes, these things do look familiar... well, kind of...",
+  "files": [
+   "quests/3845-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "f18bf1352b3c",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Linken",
+  "quest": "It's a Secret to Everybody",
+  "en": "You see, I have no idea how I ended up here. No one really knows -- it's a secret to everybody! I just can't seem to remember anything...\n\nThese items you brought to me, though... I am remembering something.\n\nMy sword. I am supposed to strengthen it somehow, but I'm really not sure why. Sorry I can't tell you more, but I just don't remember!\n\nAnyhoo, I do know where you can take it -- Donova Snowden in Winterspring. You'll find her by the hot springs. She can temper the sword by the pools there.",
+  "files": [
+   "quests/3908-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "ea06b21aa98e",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Larion",
+  "quest": "Larion and Muigin",
+  "en": "See Muigin over there? It's HIS fault we're lost!\n\nI'm the one that knew the way, but he insisted he knew a shortcut, and we ended up here!\n\nTo make matters worse, now he keeps sending his crazy plant pests to annoy me. I'm so angry that I'm not planning on talking to him any time soon, but these pests are too much to handle.\n\nWhy don't we try to limit his supply, first thing. Go out and hunt some Bloodpetals, then return to me.",
+  "files": [
+   "quests/4145-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "ef6f93a8fea1",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Larion",
+  "quest": "Larion and Muigin",
+  "en": "Thanks for your help, Adventurer, but I'm afraid I have some bad news...",
+  "files": [
+   "quests/4145-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "612b4354fb45",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "Linken's Adventure",
+  "en": "To think all this time that the reason Linken came here was to rid us of Blazerunner... He seems like such an ordinary guy, but I did notice that he's not at all interested in any of my experiments or gadgets like most gnomes would be. He must be a true warrior at heart.\n\nBring the totem to him. See if that helps him remember why he came here.",
+  "files": [
+   "quests/3961-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "465ea76e23de",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Linken",
+  "quest": "Linken's Adventure",
+  "en": "Did J.D. help you at all?",
+  "files": [
+   "quests/3961-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "54eda2fec48e",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Eridan Bluewind",
+  "quest": "Linken's Memory",
+  "en": "Hello, adventurer. Is there something I can help you with?",
+  "files": [
+   "quests/3942-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "8ff54b86ccef",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "Linken's Memory",
+  "en": "Oh... Linken? Yeah, he's a funny one. When he first got here, he was mumbling about all kinds of strange things. Probably got bumped on the head pretty hard, I imagine.\n\nSomething he said kinda stuck with me though -- that he was making some sort of totem; said he had to talk to someone named Eridan Bluewind... in a place called Felwood, I think?\n\nI doubt he could tell you much now, though. If you want to know more, maybe you should look for Eridan yourself?",
+  "files": [
+   "quests/3942-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "3abf2d13df8d",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "A Conspicuous Gravestone",
+  "quest": "Linken's Sword",
+  "en": "After a strong flash of light, you are able to pick up the sword again. It has been transformed!",
+  "files": [
+   "quests/3914-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "609014426960",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Linken",
+  "quest": "Linken's Sword",
+  "en": "My sword... It's finished!\n\nNow, if only I could remember why I needed this...\n\nHere, let me at least pay you for your work.",
+  "files": [
+   "quests/3914-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "babacc30cdd1",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Ringo",
+  "quest": "Lost!",
+  "en": "Oh... I'm so glad someone found me...",
+  "files": [
+   "quests/4492-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "2c8b11b787ca",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Spraggle Frock",
+  "quest": "Lost!",
+  "en": "You've got to help me, Adventurer! My friend, Ringo left earlier to explore the volcano to the south of here, and he has been gone way too long. I am really worried about him.\n\nDo you think you could find him? Why don't you take my canteen with you -- if you do find Ringo, I'm sure he'll need it!",
+  "files": [
+   "quests/4492-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "366ebc9df19f",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "Making Sense of It",
+  "en": "Now, let's see... If I am correct, then... Hmmm...",
+  "files": [
+   "followup/5287-gnome-female-nerdy"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "f06259cbf6be",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "Making Sense of It",
+  "en": "Blue plus red... I predict...",
+  "files": [
+   "followup/5288-gnome-female-nerdy"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "3c8907fb2568",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "Making Sense of It",
+  "en": "adventurer, that's it! I have finally figured it out!",
+  "files": [
+   "followup/5289-gnome-female-nerdy"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "aab0f10ebd2b",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "Making Sense of It",
+  "en": "The information you have given me about the pylons is very interesting...\n\nGive me a moment to do some calculations, Adventurer. Speak to me again in a moment and I should be able to give you the answer we have been looking for.",
+  "files": [
+   "quests/4321-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "62b447c5b216",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "Making Sense of It",
+  "en": "Alright, Adventurer. This is fascinating... I can only hope that my diagrams are correct! I compiled everything into this manual, which you can have.\n\nI believe I can answer any questions you have about the crystals now, Adventurer.",
+  "files": [
+   "quests/4321-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "6de34377e64c",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Larion",
+  "quest": "Marvon's Workshop",
+  "en": "I managed to spy on what Muigin was doing, and he's actually growing the darn things over there!\n\nI think the only solution here is to... no, not go talk to him... What are you thinking? The solution is to fight back!\n\nWe'll need the help of my friend, Marvon, who has a workshop in Ratchet. I'm sure he'll be able to create some sort of gadget that will help us.",
+  "files": [
+   "quests/4147-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "788ad49a6f7c",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Liv Rizzlefix",
+  "quest": "Marvon's Workshop",
+  "en": "Marvon's been gone quite a long time now, Adventurer. He went off to Tanaris to study some of the ancient troll ruins.\n\nNow, what was it that you said you needed?",
+  "files": [
+   "quests/4147-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "03193b1f1de2",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "Meet at the Grave",
+  "en": "This elixir will allow you to speak with one that you would not normally even see...\n\nTake the Videre elixir, along with Linken's sword, to the graveyard just outside Gadgetzan in Tanaris. Once there, drink the potion. You may be quite surprised at the results, but do not be alarmed.\n\nIn your \"other\" form, head due north until you reach the mountains. You'll find the one you need to speak with in one of the rocky crevices. His name is Gaeriyan.\n\nRemember, he will only speak to you in that form...",
+  "files": [
+   "quests/3912-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "f808116bef2a",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gaeriyan",
+  "quest": "Meet at the Grave",
+  "en": "It has been long since any have come to talk with me...",
+  "files": [
+   "quests/3912-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "848210cfe955",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Muigin",
+  "quest": "Muigin and Larion",
+  "en": "See Larion over there? It's HIS fault we're here!\n\nI told him we were going the wrong way, but would he listen? And would you believe that he's the one that won't speak to me? Well, until he changes his mind, let's have a bit of fun with him.\n\nHave you noticed the strange plant-like creatures around here? They're nothing but trouble, really, but I think if trained properly, I could get them to obey commands.\n\nFirst thing though, I'll need some samples to study. Do you think you could collect some?",
+  "files": [
+   "quests/4141-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "2f7c816d9114",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Muigin",
+  "quest": "Muigin and Larion",
+  "en": "I hope they didn't give you too much trouble, Adventurer. I try to steer clear of them -- they're wild!\n\nI tried jumping over one... I was attacked! Plants just shouldn't be acting that way!",
+  "files": [
+   "quests/4141-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "f3ef140446d2",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Spark Nilminer",
+  "quest": "Roll the Bones",
+  "en": "You'd think that being chief digger for Marshal Expeditions means I like digging. There might be worse things to do in this world... but none really leap to mind.\n\nWe were supposed to be digging in Terror Run - FANTASTIC name by the way - for dead stegodons and diemetradons. Well, there are plenty of live ones there too! Wil and Hol are still all about studying this death trap, so we need those dinosaur bones. Between you and me though, bringing some from live ones will work out just as well.",
+  "files": [
+   "quests/3882-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "4cb5bf231001",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Spark Nilminer",
+  "quest": "Roll the Bones",
+  "en": "Excellent, these should do the trick. And now, if you'll permit me...\n\nTHANKS FOR DIGGING ALL OF THESE BONES OUT OF THE GROUND FOR US AND NOT HURTING THE NATIVE BEASTS IN ANY WAY.\n\nWhether you really did or didn't, I don't want to know. Let's keep it that way, shall we? Here - maybe this will keep your lips shut on the whole thing. Anything to get out of here alive, I say!",
+  "files": [
+   "quests/3882-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "731bf3f0f366",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Shizzle",
+  "quest": "Shizzle's Flyer",
+  "en": "I'm making a flying machine!\n\nI got stranded here, and I'm absolutely horrible at finding my way around. I'd take a gryphon or wind rider back to Gadgetzan, but those beasts just scare me to death.\n\nSo, will you help me? All I have left to build is the wings, and I was thinking that the webby scales from the pterrordax and diemetradon would be perfect. There's no way I'm going to go up against one of those, but you look pretty tough. Why don't you give it a try?",
+  "files": [
+   "quests/4503-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "11a496577255",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Shizzle",
+  "quest": "Shizzle's Flyer",
+  "en": "Yes, these scales are perfect. I should be able to get this flyer off the ground with these scales for sure!\n\nThanks!",
+  "files": [
+   "quests/4503-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "73b19bc365f0",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Eridan Bluewind",
+  "quest": "Silver Heart",
+  "en": "I do not know the one you speak of, Adventurer.\n\nBut worry not; if your friend was on a journey to find me, I do know what it was he desired.\n\nIn the heart of Un'Goro Crater dwells evil of the purest form. This evil takes the shape of an elemental called Blazerunner... protected by an aura that none can dispel...\n\nNone... except those with enough power to do so. I can teach you of this power, Adventurer.\n\nFirst, do as I ask. Collect 11 Silvery Claws and 1 Irontree Heart from the creatures in Felwood, then return.",
+  "files": [
+   "quests/4084-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "057916c3ba6e",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Eridan Bluewind",
+  "quest": "Silver Heart",
+  "en": "Very well, Adventurer. I can see you are serious about helping your friend.",
+  "files": [
+   "quests/4084-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "6f3ba216ddb0",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Torwa Pathfinder",
+  "quest": "The Apes of Un'Goro",
+  "en": "This crater has many strange creatures--they seem to be nobler versions of the creatures found throughout my homeland and beyond. I cannot explain it, but this place cries of the Earth Mother. I pay homage to her every time I track one of her beautiful creatures across its basin.\n\nIf you too wish to feel the enlightenment that accompanies such a great feat, then head to the north. There you'll find great apes who are a test for any mortal's strength. Bring me their pelts... prove your strength.",
+  "files": [
+   "quests/4289-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "685a33026119",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Torwa Pathfinder",
+  "quest": "The Apes of Un'Goro",
+  "en": "So, you have proven strong, strong enough to best the great apes of Un'Goro--that is good. The challenge was small compared to Lar'korwi, but I will not take such a great victory away from you.\n\nThese pelts will make wonderful clothing for my tribe. You have helped me and proven worthy.\n\nBefore you set off on another task, let us give praise to the Earth Mother and thank the spirits of those apes you killed--they must know their deaths will not be wasted.",
+  "files": [
+   "quests/4289-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "9ba90361053f",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Torwa Pathfinder",
+  "quest": "The Bait for Lar'korwi",
+  "en": "This will be the most difficult part because there is some complexity to the plan. To the north of here, you will find a small trail into the mountains. It was here I saw Lar'korwi last. You will know you are in the right area because of all the bones from massive creatures that once wandered nearby. Take the meat you recovered and place it there. Then, rub this mixture I created on the meat. If both lures mingled together do not bring Lar'korwi to you, then I know nothing else that will.",
+  "files": [
+   "quests/4292-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "aebd0b6f5189",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Torwa Pathfinder",
+  "quest": "The Bait for Lar'korwi",
+  "en": "The Earth Mother be praised! You've done it! Fair play to you, Adventurer. You have proven to be a great hunter in your own right. Your spirit is strong. Your bravery unmatched. And your strength has been fortified. I bow down to your skills.\n\nOnly the greatest of my ancestors could have accomplished something so incredible. Congratulations.",
+  "files": [
+   "quests/4292-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "2ba41992acec",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "The Eastern Pylon",
+  "en": "During my stay here, I have heard strange rumors about mysterious pylons existing out in the wilderness of the crater, Adventurer. I guess that they are quite large, with crystals lining their interiors.\n\nAlthough I've never seen one, I can't help but think that the rumors are true -- and that the pylons have something to do with all the crystals we found\n\nSo why don't you help me put my curiosity to rest? Supposedly, there is one in the eastern area of the crater. Do you think you can find it?",
+  "files": [
+   "quests/4287-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "570edd53222f",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "The Eastern Pylon",
+  "en": "Un'Goro is such a strange place, Adventurer. When you enter the crater, it's as if you are in a completely different world...",
+  "files": [
+   "quests/4287-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "79a83d18a1ef",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Torwa Pathfinder",
+  "quest": "The Fare of Lar'korwi",
+  "en": "Once, a long time ago, a brother of mine took some meat from one of Lar'korwi's kills. He didn't know it at the time, but Lar'korwi saw him from the forest. Lar'korwi followed my brother for days, destroying everything he touched. My brother, scared, finally decided to run from the Crater and leave Lar'korwi behind.\n\nLar'korwi killed him not far from this spot.\n\nIf you want to provoke Lar'korwi, find a fresh kill of his and take some of the meat from it.\n\nReturn to me afterwards.",
+  "files": [
+   "quests/4290-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "7086d7cc00ef",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Torwa Pathfinder",
+  "quest": "The Fare of Lar'korwi",
+  "en": "This will do nicely, Adventurer. It seems Lar'korwi eats well these days. Although, I wonder where he found a threshadon in this area. Odd.\n\nRegardless, I will hold onto this until you are ready for your confrontation with the beast. Do not worry for my safety--I am sure you've angered Lar'korwi enough that he will not kill me until after he's tasted your flesh.",
+  "files": [
+   "quests/4290-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "46b663c1517b",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Torwa Pathfinder",
+  "quest": "The Mighty U'cha",
+  "en": "While you have been exploring Un'Goro, I have seen other things that a mighty hunter such as yourself would relish in. One such sight was a huge ape among the other gorillas to the north. You have been to that cave before, but this time, I wonder if you'll survive the encounter if you accept my task.\n\nI call him U'cha, and he is one of the Earth Mother's greatest sons, of that you can be sure. Defeat U'cha and bring me his pelt. Do this, and I will defend your right to call yourself a great hunter.",
+  "files": [
+   "quests/4301-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "999072a3c842",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Torwa Pathfinder",
+  "quest": "The Mighty U'cha",
+  "en": "Well done, Adventurer. I am pleased. You have done a great thing here today.\n\nU'cha was one of the greatest apes I had ever seen. The fact that you have bested his strength speaks well of your own strength... and courage.\n\nIt is only fitting that I give you this as a sign of respect. You have earned it.",
+  "files": [
+   "quests/4301-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "3ee6b3a652c0",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "The New Springs",
+  "en": "Hi there, Adventurer. Yes, what Krakle told you is true...",
+  "files": [
+   "quests/980-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "0282751a00fd",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Krakle",
+  "quest": "The New Springs",
+  "en": "Now, I've heard about other hot springs in a place called Winterspring, far to the north of here. The strange thing is, there are no volcanoes anywhere near them. Interesting, I know.\n\nWell, if you want to find out more, you should head to Winterspring and speak to a friend of mine. Her name is Donova Snowden, and she is currently staying by the hot springs there.\n\nThanks again for helping me with my thermometer! See you later!",
+  "files": [
+   "quests/980-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "c1a27d605354",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "The Northern Pylon",
+  "en": "What could they be for? I can't get the thought out of my head!\n\nIt's driving me crazy -- that the rumors I have heard about the crystal pylons are all true. Call me gullible, but I'll usually believe anything people tell me.\n\nAnyway, I have heard that there is one of the crystal pylons fairly close. Somewhere in the north... Please locate it, Adventurer. I just know they exist.",
+  "files": [
+   "quests/4285-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "84265e7c153d",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "The Northern Pylon",
+  "en": "I know the stories are true, Adventurer.",
+  "files": [
+   "quests/4285-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "19f2de22a7fa",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Torwa Pathfinder",
+  "quest": "The Scent of Lar'korwi",
+  "en": "I'm actually surprised he has not come for you yet, Adventurer. But all is well, for I have a final plan that will bring the monster to us.\n\nBeing the dominant male gives Lar'korwi rights to breed with any female he chooses--and he chooses many of them. You'll find many ravasaur eggs to the west of here. Get close to them and you should provoke an attack by his mates. The females produce an awful smell from a gland in their heads that allow males to know they are ready to breed. Bring me two of those glands.",
+  "files": [
+   "quests/4291-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "838a483f1def",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Torwa Pathfinder",
+  "quest": "The Scent of Lar'korwi",
+  "en": "Ah, fine specimens, Adventurer. The two pieces you've found should be perfect for baiting Lar'korwi into the open. I cannot wait to see the outcome of your fight with the monster. He is a massive thing with claws as sharp as the finest blades. You will look into his eyes and you will know death.",
+  "files": [
+   "quests/4291-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "c05873db0444",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "The Videre Elixir",
+  "en": "Now, what's this? Linken... FORGOT?\n\nOh, I see... Lost his memory...\n\nWell, here is his sword. It's not complete, though. I know of the one that can finish it, but... speaking with him may prove difficult.\n\nListen, I know of someone that will be able to help you. It's too much to explain right now, but you must somehow acquire a Videre Elixir. The only one I know that can help you with that is Gregan Brewspewer. He's hard to track down, but last I knew he was camping in the wilds of Feralas.",
+  "files": [
+   "quests/3909-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "be05415cfe7e",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": "The Videre Elixir",
+  "en": "I'll need one vial to make sure that this is truly the elixir... Yes... This is the stuff.",
+  "files": [
+   "quests/3909-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "a0fd5252b6e4",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "The Western Pylon",
+  "en": "My experiments so far have not yielded any positive results, Adventurer. I can't help but hope that you can find a solution by searching for one of the pylons that I have heard exist.\n\nPerhaps if we combine certain colors at them... but I get ahead of myself. Let's find them first!\n\nAdventurer, search the western area of the crater; a pylon is said to be somewhere in that area.",
+  "files": [
+   "quests/4288-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "4f7fa298604e",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": "The Western Pylon",
+  "en": "There are many hidden areas of the crater along the sides. Try exploring the winding paths if you can't think of anywhere else to look, Adventurer.",
+  "files": [
+   "quests/4288-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "5289895f063d",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Liv Rizzlefix",
+  "quest": "Volcanic Activity",
+  "en": "Being an apprentice to Marvon Rivetseeker, I've learned so much. But he's been gone for such a long time now, so I think I'm going to work on some experiments of my own.\n\nI've been reading about Un'Goro Crater most recently, and about the strange volcanic activity going on in the middle of the crater. I think a lot could be learned if I could just get some of the ash from the elementals there.\n\nDo you think you'd mind collecting some for me, if you are going that way?",
+  "files": [
+   "quests/4502-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "d237d0d2bbdf",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Liv Rizzlefix",
+  "quest": "Volcanic Activity",
+  "en": "These samples will be perfect for my studies! Thank you, Adventurer! I promise, you'll be the first one I will tell about my findings.",
+  "files": [
+   "quests/4502-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "dafc8b00596b",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "A Mangled Journal",
+  "quest": "Williden's Journal",
+  "en": "You have uncovered a mangled journal. Parts of it remain legible, with a Williden Marshal claiming ownership over the contents therein. If the journal is accurate, then Williden may be found somewhere in the northern part of the Crater; according to the journal, he and his companions sought higher ground from the savage beasts of the Crater once their base camps were overrun.",
+  "files": [
+   "quests/3884-accept"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "5bf1d3f8d012",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Williden Marshal",
+  "quest": "Williden's Journal",
+  "en": "Well look at this - my journal! I thought it was lost, much like almost everything else we brought into Un'Goro. I thank you kindly for returning this to me!",
+  "files": [
+   "quests/3884-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "917a5b569410",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Larion",
+  "quest": "Zapper Fuel",
+  "en": "So, Marvon wasn't around? Well, show me what you got, anyway.",
+  "files": [
+   "quests/4146-complete"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "e093ecd3e97e",
+  "zone": "un-goro-crater",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Liv Rizzlefix",
+  "quest": "Zapper Fuel",
+  "en": "You're in luck, adventurer! I've been working on some of my own experiments while Marvon's been gone, and one of them is a short range bug zapper. With just a few adjustments, it should be great for ridding yourself of those Bloodpetal pests.\n\nI can let you have one of my zapper prototypes, but you'll still need to collect the fuel. You can get the necessary Atal'ai haze that the zapper needs in the temple of Atal'Hakkar. The deep lurkers, murk worms, or oozes are the ones you'll need to get it from.",
+  "files": [
+   "quests/4146-accept"
+  ],
+  "uiMap": 1449
+ }
+]

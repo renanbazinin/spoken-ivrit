@@ -1,0 +1,72 @@
+[
+ {
+  "id": "387dd977edd2",
+  "zone": "duskwood-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Abercrombie",
+  "quest": null,
+  "en": "Eh? Greetings, young Adventurer. You're a brave one to find your way here with all those wandering creatures about!\n\nWell now that you are here, maybe you can help an old hermit...",
+  "files": [
+   "gossip/1c989cbbea7043dfca09623b015dedf0"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "629c4480ceab",
+  "zone": "duskwood-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Jitters",
+  "quest": null,
+  "en": "Huh?!? Oh. You don't look like a Defias thief...or a member of the Night Watch. Take pity on a poor soul, will ya?",
+  "files": [
+   "gossip/7321affec8a5c22b6e0c288786215509"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "f17edddbb355",
+  "zone": "duskwood-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lieutenant Doren",
+  "quest": null,
+  "en": "Greetings, adventurer. If you're a friend of Colonel Kurzen then I'll have you cut down where you stand! but if you've come to aid us, then lend an ear...",
+  "files": [
+   "gossip/8cd6e7deb04827e4aff4f203914eeace"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "faceafded7da",
+  "zone": "duskwood-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Private Thorsen",
+  "quest": null,
+  "en": "This is a dangerous place, adventurer. Be careful around here.",
+  "files": [
+   "gossip/a765bd81d4444d7fa3d03cdef9f00bd6"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "e3c193f4623f",
+  "zone": "duskwood-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Sergeant Yohwa",
+  "quest": null,
+  "en": "You watch where you step around here, son. You might not be a part of our outfit, but that doesn't mean I won't take a cane to you if you fall out of line!",
+  "files": [
+   "gossip/m-cf242c1f5d7697c74496f6a96f4c60c9"
+  ],
+  "uiMap": 1431
+ }
+]

@@ -1,0 +1,422 @@
+[
+ {
+  "id": "8a68bab8d615",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aayndia Floralwind",
+  "quest": null,
+  "en": "Elune has granted the night elves many gifts. In return, it is our responsibility to safeguard these forests from the demonic taint that the Horde always brings with it.",
+  "files": [
+   "gossip/080af9fe36eaeab047ad2292aa06a703"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "5944470abc47",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aayndia Floralwind",
+  "quest": null,
+  "en": "Always double-check your measurements before you begin to cut the leather. We cannot afford to waste materials.",
+  "files": [
+   "gossip/49448f3f4a1c1a9215e803c7a9c4c70e"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "a4f5ed816886",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aayndia Floralwind",
+  "quest": null,
+  "en": "Training you further is beyond my abilities. Speak to Telonis in the Craftsmen's Terrace of Darnassus. He is always glad to help talented students.",
+  "files": [
+   "gossip/5532319375f3bd5717bff7a213bcd295"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "25aa26bb8a1f",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aayndia Floralwind",
+  "quest": null,
+  "en": "I only teach students who have already mastered the basics. You must seek out the night elf Darianna in the Craftsmen's Terrace of Darnassus. Her skills will be a perfect complement to yours.",
+  "files": [
+   "gossip/cc167e3fb84b9a39ae42b69bde413f14"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "ed09865a794a",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Braug Dimspirit",
+  "quest": null,
+  "en": "Greetings, adventurer. Is there something I can help you with?",
+  "files": [
+   "gossip/06ed16ee9dc4b0c6ba6d2eea8e2d58cc"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "e17690d25ef7",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Braug Dimspirit",
+  "quest": null,
+  "en": "My question to you is this, adventurer:\nWhich of the Aspects created by the titans became the nefarious creature known as Deathwing?",
+  "files": [
+   "gossip/8a2e3ce00848461a788a1c12e87e9577"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "b5017ea10926",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Daelyshia",
+  "quest": null,
+  "en": "Where would you like to fly to?",
+  "files": [
+   "gossip/e9f2c6ae11c08606a3e902729508a45b"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "7b9852099174",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Riversong",
+  "quest": null,
+  "en": "Elder Starweave can be found at the coastal village of Auberdine in Darkshore.",
+  "files": [
+   "gossip/78774ce5ceab30b0cee587a392772de5"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "6a50f4607d24",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Riversong",
+  "quest": null,
+  "en": "Last I knew, Elder Stonespire was at Everlook in Winterspring.",
+  "files": [
+   "gossip/809bf150c964f796e383a7e867072aea"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "2d8fa05c53c2",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Riversong",
+  "quest": null,
+  "en": "Elder Skygleam can be found near the Ravencrest Monument in Azshara.",
+  "files": [
+   "gossip/a9659b966f03ee6b9387115e1f771e9a"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "66b116d196cb",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gaxim Rustfizzle",
+  "quest": null,
+  "en": "If I can get the proper ingredients, we can create some explosives that will not only allow me to damage the Venture's Co.'s operations, but also cause a distraction.\n\nI know you're impressed, but it gets better... I'll tell you more soon enough.",
+  "files": [
+   "gossip/f48a8968831abb88b9bd8025776fcf51"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "a7a28b554b11",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Hgarth",
+  "quest": null,
+  "en": "Have you come to seek the knowledge of Hgarth?",
+  "files": [
+   "gossip/6f9b492efa4ba7e9bee73d386e576b92"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "40e2e69fbb5d",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Hgarth",
+  "quest": null,
+  "en": "Train hard, train every day. And when you have perfected your skills, return to me.",
+  "files": [
+   "gossip/dfb21e7f73c6748b529e34123ab87cb8"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "87a61afae84d",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Hgarth",
+  "quest": null,
+  "en": "There is only one whose skills exceed my own. You are ready to receive her knowledge. She is Annora, and you may find her... in Uldaman.",
+  "files": [
+   "gossip/e7e497823ef13d404b637cf7a64a6385"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "66aa0b0939c5",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Hgarth",
+  "quest": null,
+  "en": "You have reached new heights in your path to mastery. Let us see if we can take you even further...",
+  "files": [
+   "gossip/ff0f85bd4afcbb0d62acee55989f25cf"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "c0949231d188",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Kylanna",
+  "quest": null,
+  "en": "Although I am flattered by your confidence in my abilities, teaching you is beyond my skill. You must go to the Craftsmen's Terrace in Darnassus, and speak with the night elf Ainethil. She can help you.",
+  "files": [
+   "gossip/43727e4d616d6d0cb29a4d7c76050109"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "ca33c506aa49",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Kylanna",
+  "quest": null,
+  "en": "My apologies, adventurer, but I do not offer instruction to novices. Instead, talk to Milla Fairancora in the Craftsmen's Terrace of Darnassus. She can help you make up for lost time.",
+  "files": [
+   "gossip/6152d6aaa2d84e1b2164ecdbc6e71cd2"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "8f9ce6c56dae",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Kylanna",
+  "quest": null,
+  "en": "Ishnu-dal-dieb, adventurer. Have you come here in search of knowledge?",
+  "files": [
+   "gossip/83a91cf0d58373e65c67f82991dfd389"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "96076e84e9e6",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Kylanna",
+  "quest": null,
+  "en": "Teaching is not a one-sided trade, adventurer. As I teach you, I learn more myself, and my understanding grows.",
+  "files": [
+   "gossip/9e270910610d3b493429a0576184333a"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "b9a7b3a40b42",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Maggran Earthbinder",
+  "quest": null,
+  "en": "I am afraid that I am no longer gentle or humble. Age and countless battles have hardened my skin and soul. Perhaps that is why Cairne assigned me to Sun Rock Retreat... the gentle winds and warm sun does ease the pain.",
+  "files": [
+   "gossip/e07000c6839ce000b1b16c6b15d0533f"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "79dd8e241746",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mor'rogal",
+  "quest": null,
+  "en": "Stonetalon Mountain has many perilous caves through out this region. Exploring these caves can hold many adventures for those willing to risk life for glory.\n\nAdventurer, perhaps you seek riches that only following your heart and soul can garnish.",
+  "files": [
+   "gossip/09ad1d72371134696f00bc0ad18afa09"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "1ea57aa0c45a",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Raene Wolfrunner",
+  "quest": null,
+  "en": "Yes, I expected that you would be back. I sent Korra out earlier and she came across Dartol's Rod, abandoned in the forest.\n\nWe worked so hard to recover it, adventurer. Please take care to see that you do not handle it so carelessly in the future.",
+  "files": [
+   "gossip/4c780779a9219d6856f096aa4ab20763"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "1421fc87fadc",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Raene Wolfrunner",
+  "quest": null,
+  "en": "You have completed Teronis' mission, and I appreciate all you have done, adventurer.",
+  "files": [
+   "gossip/6448874e16619c294da2f6ccad27a74a"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "66973069ae84",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Raene Wolfrunner",
+  "quest": null,
+  "en": "I know these forests as if they were a part of me... but know that there is still much to be learned from them, and much danger still hidden.",
+  "files": [
+   "gossip/dc97650c107452324b1118efdb9b5410"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "544779cbd408",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Seereth Stonebreak",
+  "quest": null,
+  "en": "The spirit of Stonetalon weeps. It weeps from its mountain peaks, to its rivers, to its severed, dying trees.",
+  "files": [
+   "gossip/98eb37c032b4d3c0e96de361121a960f"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "0b8f548be6ce",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Velene Starstrike",
+  "quest": null,
+  "en": "Have you seen the befouled water elementals in our lake, adventurer? It is a sorry sight, but I do not know where they are coming from.\n\nYour name has been mentioned in conversations past, perhaps you could help me with this problem.\n\nThe first thing we must learn is who is in control of these elementals.",
+  "files": [
+   "gossip/37c7c668e25d53fc8dabc5de0e82d854"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "021b381712c1",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Shindrell Swiftfire",
+  "quest": null,
+  "en": "We elves have a long history. Let us hope this history does not return to haunt us.",
+  "files": [
+   "gossip/2de824a33de19b9ba4a65214d39b6102"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "9a8c49510d51",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Teloren",
+  "quest": null,
+  "en": "Where would you like to fly to?",
+  "files": [
+   "gossip/8ee9e2b8b1fbeba82851331d36cb251c"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "8d94f95b745d",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tharm",
+  "quest": null,
+  "en": "Where would you like to fly to?",
+  "files": [
+   "gossip/008491a7c8f31e3556f00e8c3fdc3190"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "9a3d7a986375",
+  "zone": "stonetalon-mountains-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Jin'Zil",
+  "quest": null,
+  "en": "The spirits are restless!",
+  "files": [
+   "gossip/a2380d4bc1c690524a4e17f50282ac0d"
+  ],
+  "uiMap": 1442
+ }
+]

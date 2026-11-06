@@ -1,0 +1,2819 @@
+[
+ {
+  "id": "f3f373aaadc6",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Anastasia Hartwell",
+  "quest": "Speak with Anastasia",
+  "en": "Greetings, Adventurer. You were wise to answer my call, and wiser still if you heed what I next say...",
+  "files": [
+   "quests/1881-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5938fbf400c3",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Cain Firesong",
+  "quest": "Speak with Anastasia",
+  "en": "Adventurer, Anastasia Hartwell has a task for someone of your talents. Speak with her in the Magic Quarter of the Undercity, and prepare yourself for your first task for the mages of the Forsaken.",
+  "files": [
+   "quests/1881-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ac9f956bee69",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Belann Windwood",
+  "quest": "Speak with Belann",
+  "en": "Adventurer, it is clear your skill with magic is growing and I believe it is time for you to partake in one of the High Order's oldest traditions for young and aspiring mages. It is time for you to craft a spell focus of your own.\n\nSeek out Belann Windwood in Valanaar. He has been crafting staves and wands for the High Order for over a century, so you will be in good hands.",
+  "files": [
+   "quests/93791-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d37415a190ed",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Belann Windwood",
+  "quest": "Speak with Belann",
+  "en": "Ah, you must be Adventurer? It is heartening to see young mages eager to learn our ways and history. Come, I will explain the next steps to crafting your spell focus.",
+  "files": [
+   "quests/93791-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5b3445fccd02",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Bink",
+  "quest": "Speak with Bink",
+  "en": "Oh, I can see you have promise, yes you do! But it takes more than promise to be a good mage. And if you're not a good mage, then you're a bad mage. And bad mages are part of the problem, yes they are!\n\nOops, I'm getting ahead of things. Let's begin at the start!",
+  "files": [
+   "quests/1879-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5ba4e9a2fc8f",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Magis Sparkmantle",
+  "quest": "Speak with Bink",
+  "en": "Adventurer! Bink, my gnome colleague in Ironforge, sends word. She has a task that needs doing and won't rely on anyone but a mage to do it! Are you that mage, Adventurer?\n\nIf so, then speak with Bink. She spends her time in the Hall of Mysteries in the Mystic Ward of Ironforge.",
+  "files": [
+   "quests/1879-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "cd30f93eae9f",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Coleman Farthing",
+  "quest": "Speak with Coleman",
+  "en": "Yes, it is true. I have need for your skills in combat. My means are small, but my task aids both me and the Forsaken's cause. Do it, and your reward will be twofold.",
+  "files": [
+   "quests/1820-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a550821ab01f",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": "Speak with Coleman",
+  "en": "You have proven your value to the Dark Lady, now perhaps you can prove yourself to one of her subjects.\n\nColeman Farthing awaits a warrior who is willing to be his instrument of revenge against the Forsaken's enemies.\n\nYou will find him in the Gallow's End Tavern in eastern Brill.",
+  "files": [
+   "quests/1820-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d6d79af3843b",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Anastasia Hartwell",
+  "quest": "Speak with Deino",
+  "en": "The troll mage Deino has need of your assistance, Adventurer. She resides in Orgrimmar, in the Darkbriar Lodge.",
+  "files": [
+   "quests/1943-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6d7b38f835a5",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Deino",
+  "quest": "Speak with Deino",
+  "en": "Good, you have come. My task is not an easy one, but vital to the society of mages. If you aid me, I am sure you will find it worthwhile.",
+  "files": [
+   "quests/1943-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a43d16eb61a4",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Austil de Mon",
+  "quest": "Speak with Dillinger",
+  "en": "I was told Deathguard Dillinger has a job for someone like you. If you're willing to show your value to the Dark Lady's forces, then report to Dillinger immediately.\n\nDeathguard Dillinger's post is on the west end of Brill, near the graveyard.",
+  "files": [
+   "quests/1818-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "fee2e481c77a",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": "Speak with Dillinger",
+  "en": "You're here for a mission? Good. I have an important one, and one that will test your skill in combat... and your resolve in the defense of the Forsaken.",
+  "files": [
+   "quests/1818-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7f120182dace",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Jennea Cannon",
+  "quest": "Speak with Jennea",
+  "en": "You have been sent to aid me in my task, adventurer? Good. It is heartening to see young mages eager to help in our cause...\n\nWhat cause, you ask? In time, young one. You shall know... in time.",
+  "files": [
+   "quests/1860-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "10389606d4b1",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Zaldimar Wefhellt",
+  "quest": "Speak with Jennea",
+  "en": "We mages have a task that needs doing. One that is vital to the safety of Stormwind and Elwynn forest.\n\nJennea Cannon has the details. She studies in the wizard's sanctum, in the mage district of Stormwind. You should make your way to her with haste.",
+  "files": [
+   "quests/1860-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "93b9ed86fa78",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Baltus Fowler",
+  "quest": "Speak with Ruga",
+  "en": "You are a warrior of skill and growing renown. Perhaps you are ready for Ruga Ragetotem's trial? If so, then find Ruga in Camp Taurajo in the Barrens.\n\nHe awaits those warriors who answer his call.",
+  "files": [
+   "quests/1823-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "824cbffa0fbd",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Ruga Ragetotem",
+  "quest": "Speak with Ruga",
+  "en": "You are here for my trial, Adventurer?",
+  "files": [
+   "quests/1823-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1e70dde5e1b8",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Sorek",
+  "quest": "Speak with Ruga",
+  "en": "You are a warrior of skill and growing renown. Perhaps you are ready for Ruga Ragetotem's trial? If so, then find Ruga in Camp Taurajo in the Barrens.\n\nHe awaits those warriors who answer his call.",
+  "files": [
+   "quests/1823-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3d821c1a70e6",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Torm Ragetotem",
+  "quest": "Speak with Ruga",
+  "en": "You are a warrior of skill and growing renown. Perhaps you are ready for Ruga Ragetotem's trial? If so, then find Ruga in Camp Taurajo in the Barrens.\n\nHe awaits those warriors who answer his call.",
+  "files": [
+   "quests/1823-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "cfa125d8a4fb",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Ruga Ragetotem",
+  "quest": "Speak with Thun'grim",
+  "en": "Thun'grim Firegaze, an orc blacksmith of renown, has heard of your continued deeds of valor in service of the Horde. He would like to fashion for you a suit of armor, and bids you speak with him immediately.\n\nThun'grim is camped east of the Crossroads in the Barrens.",
+  "files": [
+   "quests/1825-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "27b24930b60f",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thun'grim Firegaze",
+  "quest": "Speak with Thun'grim",
+  "en": "Yes, you have come. This is good, for we have much to discuss, you and I.",
+  "files": [
+   "quests/1825-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8799c3707a22",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Thurston Xane",
+  "quest": "Speak with Un'thuwa",
+  "en": "Un'thuwa, tribal mage of Sen'jin Village, detects a disturbance in the magic currents of Durotar and asks for aid. Speak with Un'thuwa and do what you can to help him.\n\nDo this, and in time further secrets will be revealed to you.",
+  "files": [
+   "quests/1883-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f1803ff62964",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Un'Thuwa",
+  "quest": "Speak with Un'thuwa",
+  "en": "Hail, adventurer. Praise to you, for my call for aid is now answered. Let us hope you are up to the task...",
+  "files": [
+   "quests/1883-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c625fc23cd1f",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Uthel'nay",
+  "quest": "Speak with Un'thuwa",
+  "en": "Un'thuwa, tribal mage of Sen'jin Village, detects a disturbance in the magic currents of Durotar and asks for aid. Speak with Un'thuwa and do what you can to help him.\n\nDo this, and in time further secrets will be revealed to you.",
+  "files": [
+   "quests/1883-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d1a9d16e749d",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Josef Gregorian",
+  "quest": "Spellfire Robes",
+  "en": "Here are your robes, Adventurer. Wear them well.",
+  "files": [
+   "quests/1962-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4201075a2188",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Bath'rah the Windwatcher",
+  "quest": "Spirit Totem",
+  "en": "I don't think it's strong enough.",
+  "files": [
+   "followup/10865-troll-male-shaman"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ac4258492f03",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Bath'rah the Windwatcher",
+  "quest": "Spirit Totem",
+  "en": "The elemental spirits of this place don't be likin' me any more.\n\nYou know about the totems more than any, and I be needin' a spirit totem to protect me. We already got the elements, now we need somethin' more with more nature. More primal.\n\nIn the Western Plaguelands you can kill bears for claws and spiders for their eyes. The carrion birds eat everything, so they might have either one.",
+  "files": [
+   "quests/8412-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9df01f2a849c",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Bath'rah the Windwatcher",
+  "quest": "Spirit Totem",
+  "en": "Great, mon! Let's try it out....",
+  "files": [
+   "quests/8412-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "898a6b078877",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Splitrock",
+  "quest": "Splitrock the Elder",
+  "en": "The battles of ages past are seeds from which legends grow. Yours is a time of heroes, young one. May your legend take root, thrive.\n\nI bid you well, Adventurer, and offer you this token...",
+  "files": [
+   "quests/8635-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1932f7cd3dd8",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Priestess Alathea",
+  "quest": "Stars of Elune",
+  "en": "You've proven yourself worthy of Elune's attention, Adventurer. If you feel you're ready, I would very much like to teach you one of her spells unique to our people.",
+  "files": [
+   "quests/5627-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1b2a16f83ea4",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Starsong",
+  "quest": "Starsong the Elder",
+  "en": "The heavens, in their countless stars, hold answers to earthly mysteries, Adventurer. Might, then, the wise, and the lucky, gaze up and find truth?",
+  "files": [
+   "quests/8713-complete",
+   "quests/8714-complete",
+   "quests/8719-complete",
+   "quests/8721-complete",
+   "quests/8722-complete",
+   "quests/8724-complete",
+   "quests/8725-complete",
+   "quests/8726-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8695f1e9d1c5",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Festival Talespinner",
+  "quest": "Stealing Darnassus's Flame",
+  "en": "This fire aches of ancient sorrow, Adventurer. You pulled this from the roots of Teldrassil, you say? Fascinating! Here is a reward for your skill. Return to me should you find anything else like this; I may have a use for it.",
+  "files": [
+   "quests/9332-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b4faf592a157",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Flame of Darnassus",
+  "quest": "Stealing Darnassus's Flame",
+  "en": "This flame, stolen from the shores of Teldrassil, floods you with warmth. This raw power is foreign to you, but the Talespinner might know more...",
+  "files": [
+   "quests/9332-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ba4116ee6699",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Festival Talespinner",
+  "quest": "Stealing Ironforge's Flame",
+  "en": "This hearty flame must be from the halls of Ironforge; it's as stalwart as the dwarves themselves. A fine catch, Adventurer. If I had the fires of the other cities... ah, but never mind. Here is your payment.",
+  "files": [
+   "quests/9331-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8774e9d4a058",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Flame of Ironforge",
+  "quest": "Stealing Ironforge's Flame",
+  "en": "This flame, stolen from the heart of Ironforge itself, floods you with warmth. This raw power is foreign to you, but the Talespinner might know more...",
+  "files": [
+   "quests/9331-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a1e754f0367e",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Festival Loremaster",
+  "quest": "Stealing Orgrimmar's Flame",
+  "en": "What's this? Unless I'm mistaken, this flame has been taken from the heart of Orgrimmar itself! The fierce hearts of the orcs and trolls are reflected in its searing heat. What a fine addition to our collection--how brave you are, stealing into the enemy's lair to retrieve the sacred flame!",
+  "files": [
+   "quests/9324-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8189a510c6b2",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Flame of Orgrimmar",
+  "quest": "Stealing Orgrimmar's Flame",
+  "en": "This flame, stolen from the heart of Orgrimmar itself, floods you with warmth. This raw power is foreign to you, but the Loremaster might know more...",
+  "files": [
+   "quests/9324-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "34ef45e65087",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Festival Talespinner",
+  "quest": "Stealing Stormwind's Flame",
+  "en": "And this brightly-burning fire... you say it came from Stormwind? Remarkable! That must have been quite an adventure! I'll pay you for this, of course. If you find anything else like this, be sure to speak with me again.",
+  "files": [
+   "quests/9330-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "53240d859722",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Flame of Stormwind",
+  "quest": "Stealing Stormwind's Flame",
+  "en": "This flame, stolen from the heart of Stormwind itself, floods you with warmth. This raw power is foreign to you, but the Talespinner might know more...",
+  "files": [
+   "quests/9330-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ce619596723c",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Festival Loremaster",
+  "quest": "Stealing Thunder Bluff's Flame",
+  "en": "Unless I miss my guess, this fire has been taken from the cliffs of Thunder Bluff! How it sings with the power of the spirits! You are quite the thief, Adventurer. Take this as just payment for your skill. Now, if only we had the flames of all three cities...",
+  "files": [
+   "quests/9325-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0b9be6a67404",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Flame of Thunder Bluff",
+  "quest": "Stealing Thunder Bluff's Flame",
+  "en": "This flame, stolen from the shaman of Thunder Bluff, floods you with warmth. This raw power is foreign to you, but the Loremaster might know more...",
+  "files": [
+   "quests/9325-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "792e935722f0",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Festival Loremaster",
+  "quest": "Stealing the Undercity's Flame",
+  "en": "Hm... what a strange fire! It is subdued, nearly smoldering, but the heat is intense. And you received this from the Undercity, you say? Fascinating. With the flames of all three cities, who knows what we could accomplish?",
+  "files": [
+   "quests/9326-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d71576ead461",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Flame of the Undercity",
+  "quest": "Stealing the Undercity's Flame",
+  "en": "This flame, stolen from the ruins above the Undercity, floods you with warmth. This raw power is foreign to you, but the Loremaster might know more...",
+  "files": [
+   "quests/9326-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f68c52698628",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Darkcaller Yanka",
+  "quest": "Stinking Up Southshore",
+  "en": "Celebrate Hallow's End in style... by bringing grief to our enemies in Southshore!\n\nTake one of these specially crafted stink bombs. It is filled with an odiferous funk that no human - or any weak-willed beast for that matter - can stand to smell. You'll need to throw it right in the heart of Southshore for it to do its job, so be prepared for a fight against the Alliance!\n\nWhen you've completed this task... this tribute to our liberation, return to me!",
+  "files": [
+   "quests/1657-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "16f103cf0d1e",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Darkcaller Yanka",
+  "quest": "Stinking Up Southshore",
+  "en": "Ah, well done! I hope the Alliance chokes on the foul gift we've given them, much like we were forced to choke on the yoke of enslavement to the Scourge!\n\nYou've kept the ideas of Hallow's End true, Adventurer, and for that I salute you. As an extra bonus, let me share some of these Hallow's End treats I have with you. I think you might find them to be quite the enjoyable diversion!",
+  "files": [
+   "quests/1657-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c314f54281c6",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Kaymard Copperpinch",
+  "quest": "Stolen Winter Veil Treats",
+  "en": "Listen... not to shatter the magic of the season here, but Smokywood Pastures could use some assistance - the kind you adventuring types are known to give.\n\nWe're missing an important shipment of treats that was restocking us for the season, and now we're missing the agent of Smokywood Pastures that we sent out to the field to find it! Please - the shipment was last reported in the Alterac Mountains, and that's where our man went to look for it.\n\nSee if both are out there, safe and sound!",
+  "files": [
+   "quests/6963-accept",
+   "quests/7042-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c219e8b44e93",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Briarthorn",
+  "quest": "Summon Felsteed",
+  "en": "Ah, good, you're here. I sent a succubus after you to get your attention, but it seems you were able to get here before it found you. No matter.\n\nThere has been some talk lately of your growing power--that is good for you, possibly bad for others. But those are irrelevant points. The point is, I feel you've proven yourself and therefore are deserving of... hehe... a blessing of sorts.\n\nAbove Ratchet in the Barrens you'll find a man named Strahad. I believe you've crossed paths before.",
+  "files": [
+   "quests/m-4487-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a95740d2274c",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Demisette Cloyce",
+  "quest": "Summon Felsteed",
+  "en": "Ah, Adventurer, you've seen fit to grace us with your presence. How wonderful!\n\nI hope you do not expect us to wait on you hand and foot also. You may be growing quickly in power, but you still are a pup when it comes to true knowledge and understanding. If you're not careful, corruption will overwhelm you and your weak will.\n\nBut I should get to the point: Strahad wishes to speak to you. He is still residing in his tower overlooking Ratchet in the Barrens. I suggest not taking too long.",
+  "files": [
+   "quests/4488-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "cd4eef6b666d",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kaal Soulreaper",
+  "quest": "Summon Felsteed",
+  "en": "You, traveler! Come here!\n\nYou're the one they call Adventurer, yes?\n\nI thought as much. I will keep this short: you're growing in power, and it has been acknowledged. And now, the time has come that you are rewarded for your efforts.\n\nGo to the Barrens. There, above Ratchet, you'll find Strahad Farsan--perhaps you remember him? He would have words with you. I wouldn't take long.",
+  "files": [
+   "quests/4489-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0014f93ec5e1",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Strahad Farsan",
+  "quest": "Summon Felsteed",
+  "en": "So, you've decided to grace my presence again. How kind of you.\n\nMy acolytes wondered if you'd ever show up. I told them there was no doubt. When power is concerned, you are drawn in like a moth to the flame.",
+  "files": [
+   "quests/3631-complete",
+   "quests/4487-complete",
+   "quests/4488-complete",
+   "quests/4489-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "415673ccc314",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Strahad Farsan",
+  "quest": "Summon Felsteed",
+  "en": "I would give you a reward for your patience and hard work. But know this, the ability to summon a Felsteed will be much more difficult in the future. You will have to earn it... and it will not be easy.\n\nFor now, go with the power to summon such a creature and use it as you see fit.",
+  "files": [
+   "quests/4490-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8078b4793cfd",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Strahad Farsan",
+  "quest": "Summon Felsteed",
+  "en": "Good luck, Adventurer. I look forward to seeing you in the future.",
+  "files": [
+   "quests/4490-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "795e415bc8a3",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Zevrost",
+  "quest": "Summon Felsteed",
+  "en": "Hmph. I say you're not prepared, but that is not my decision. Strahad feels otherwise, and it is his decision to make... this time.\n\nHe wishes to speak to you, and quickly. You'll find him still above Ratchet in the Barrens, at his little tower there with his acolytes.\n\nDo not dawdle long.",
+  "files": [
+   "quests/3631-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3834d0e77ee4",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mathiel",
+  "quest": "Sunscorched Shells",
+  "en": "It is done. adventurer, your armor is ready.",
+  "files": [
+   "followup/2349-nightelf-male-standard"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f538227340f3",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mathiel",
+  "quest": "Sunscorched Shells",
+  "en": "My colleague, Furen Longbeard, made a discovery which I am eager to test. I wish to try it on a new armor that I am researching, for I believe Furen's techniques will produce superior results.\n\nWill you help me? If you gather what I need to make the armor, then I will make an extra piece for you.\n\nI need the sunscorched egg shells of the Highperch Wyverns who dwell at Highperch, in Thousand Needles. Search for the shells below their nests, and return to me when you have a sufficient amount.",
+  "files": [
+   "quests/1710-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "199b5202a688",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mathiel",
+  "quest": "Sunscorched Shells",
+  "en": "Ah, thank you. These will work splendidly!\n\nI will begin fashioning the armor immediately...",
+  "files": [
+   "quests/1710-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a4feddf28e6e",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thorvald Deepforge",
+  "quest": "Supplying the Front",
+  "en": "Ah, apologies! I didn't realize you were here to help resupply our troops. The stuff you made will be a big help!\n\nHere are plans for some armor. I hope you find them useful.",
+  "files": [
+   "quests/1578-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "571b662e3231",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Tormus Deepforge",
+  "quest": "Supplying the Front",
+  "en": "The mountaineers of Loch Modan are fighting troggs, and having a busy time of it! They need constant supplies of new armor and weapons if we're ever to get a handle on those troggs.\n\nThat's why my colleague Thorvald is there, trying to keep the mountaineers in good gear. So if you were to make some copper axes and copper chain belts and bring them to Thorvald, he would be obliged. He might even share his knowledge with you.\n\nThorvald is in Loch Modan's southern guard tower.",
+  "files": [
+   "quests/1578-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5502ac8651b2",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Daio the Decrepit",
+  "quest": "Suppression",
+  "en": "The prison is ready. Now for the most difficult portion of this task.\n\nYou must find and capture a Doomguard Commander within the Tainted Scar using this crystal prison.\n\nBe warned! A Doomguard is a cunning and lethal adversary and will seek to destroy you as you begin the ritual of imprisonment. It will flail wildly in its attempts to escape imprisonment.\n\nIt will focus on nothing but you, Adventurer. Because of this, I must recommend that you take companions capable of keeping you alive!",
+  "files": [
+   "quests/7583-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3fee033bda3a",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Daio the Decrepit",
+  "quest": "Suppression",
+  "en": "You have done as I have asked. You are ready to be given the knowledge to conjure and control the beast.",
+  "files": [
+   "quests/7583-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f3ba8c7289a4",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gakin the Darkbinder",
+  "quest": "Surena Caledon",
+  "en": "I had a student named Surena Caledon. She stood where you stand now, eager to learn of warlock magic, and possessing no small bit of talent. More than that she was young and pleasing to the eye. Had I seen it then, the traitorous trollop!\n\nThe thieving wench ran off with one of the Defias, Erlan Drudgemoor. While her loss is of little importance, I gifted her a bloodstone choker that I must have.\n\nHer life means nothing to me now. You will find her at the Brackwell Pumpkin Patch. Retrieve what is mine.",
+  "files": [
+   "quests/1688-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c759397f433c",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gakin the Darkbinder",
+  "quest": "Surena Caledon",
+  "en": "Surena was talented, but not enough so to gain mastery of warlock magic on her own. It's a shame to see talent wasted, but sometimes it is necessary.\n\nI hope my investment in you will bear different results.",
+  "files": [
+   "quests/1688-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "56470417ffeb",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Lilith the Lithe",
+  "quest": "Sweet Serenity",
+  "en": "Within the confines of the Scarlet Bastion lies sweet Serenity. The Crimson Hammersmith guards the recipe with his life. Defeat him and bring me his apron. For that, I shall train you to become a hammersmith.\n\nUnderstand this: Once you have chosen the path of the hammersmith, the paths of the swordsmith and axesmith will no longer be available.",
+  "files": [
+   "quests/5305-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "67df9ff66d3c",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Lilith the Lithe",
+  "quest": "Sweet Serenity",
+  "en": "May you bash in many a brain, Adventurer!",
+  "files": [
+   "quests/5305-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "709711d35c4d",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Ravenholdt Guard",
+  "quest": "Syndicate Emblems",
+  "en": "Hey, nice work! Keep this up and the other rogues might stop spitting on you.",
+  "files": [
+   "quests/6701-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5e3d6eaa8076",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Argent Outfitter",
+  "quest": "Tabard of the Argent Dawn",
+  "en": "Take this tabard and wear it proudly. Perhaps your deeds might inspire others to take up arms in support of our fight against the Scourge.",
+  "files": [
+   "quests/9343-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d9a96c79f39e",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Argent Quartermaster",
+  "quest": "Tabard of the Argent Dawn",
+  "en": "Take this tabard and wear it proudly. Perhaps your deeds might inspire others to take up arms in support of our fight against the Scourge.",
+  "files": [
+   "quests/9341-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "725d0bf89dfb",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Drusilla La Salle",
+  "quest": "Tainted Letter",
+  "en": "As you grow in power, you will be tempted--you must always remember to control yourself. I will not lie--corruption can come to any practitioner of the arcane; especially one who deals with creatures from the Twisting Nether. Be patient, and be prudent... but do not let that repress your ambition.\n\nAs you grow more powerful, return to me and I will teach you more about our ways.",
+  "files": [
+   "quests/3105-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9dec6c4d0cb7",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal McBride",
+  "quest": "Tainted Letter",
+  "en": "I was asked to bring this to your attention as soon as you returned from the kobold camps, Adventurer. It appears to be a letter sealed with the insignia of Drusilla, one of our local trainers. I wouldn't hesitate to read it before you go about any other business here in the Abbey.",
+  "files": [
+   "quests/3105-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "905df00b8b54",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Alamar Grimm",
+  "quest": "Tainted Memorandum",
+  "en": "But none of that matters. What matters is that you've seen your own Holy Light! You know where power truly comes from. You realize that having our own allies is much more... prudent. Special allies. Allies that, no matter the task, will obey till their last breath.\n\nAnd that's where I come in, Adventurer. I can train you in the beginnings of those special powers. Seek me out often and I will do what I can to teach you more spells.",
+  "files": [
+   "quests/3115-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d7781151c8b2",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sten Stoutarm",
+  "quest": "Tainted Memorandum",
+  "en": "While you were helping me out, this memorandum was given to me to pass on to you. Take some time to read it when you have a chance. I'm thinkin' it came from the warlock trainer Alamar. Take a gander at it and go find him inside Anvilmar when you've a chance.\n\nAnd watch yerself, Adventurer, your kind ain't too trusted 'round these parts.",
+  "files": [
+   "quests/3115-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "028d9cd700d2",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gornek",
+  "quest": "Tainted Parchment",
+  "en": "Ah, while you were gone a parchment came for you, Adventurer.\n\nI usually avoid dealing with warlocks if I can help it, but I think you should read it when you have time. If I'm not mistaken, it came from your newly-appointed trainer Nartok. He would have words with you when you're ready.",
+  "files": [
+   "quests/3090-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "badb290ef6e0",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Nartok",
+  "quest": "Tainted Parchment",
+  "en": "And now you've joined our ranks also. Don't misunderstand, Adventurer. Just because you have access to power that many will be jealous of, it does not mean you will be accepted easily. Thrall allows our kind into Orgrimmar because we are still his fellow kin--he cannot turn his back on us, or we would become as pathetic as the humans who enslaved him. My point is: be careful. You can be powerful, but if you are foolish, then you are as good dead.\n\nIf you need training in spells then return to me.",
+  "files": [
+   "quests/3090-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5438ad9f6dd0",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Maximillion",
+  "quest": "Tainted Scroll",
+  "en": "I mentioned a slave still being a slave, no matter the master. Do you remember? We both know that it is that type of control--that type of power--that now drives us. We seek to have creatures serve us. We know we are more powerful and deserve more respect than others give us ... and so now we look to take it.\n\nI will be your ally in this struggle--the struggle for our own freedom. Freedom to seek our own allegiances. When you feel ready, return to me and I will teach you all I know.",
+  "files": [
+   "quests/3099-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a343e06e6c7e",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Shadow Priest Sarvis",
+  "quest": "Tainted Scroll",
+  "en": "Ah, while you were off dealing with the mindless Scourge, this scroll arrived for you. I would think it's some matter of importance as it seems it bears the seal of the warlock trainer Maximillion. I would take some time to read it before heading out again.",
+  "files": [
+   "quests/3099-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8183ff78c2c0",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gornek",
+  "quest": "Tainted Tablet",
+  "en": "Ah, while you were gone a tablet came for you, Adventurer.\n\nI usually avoid dealing with warlocks if I can help it, but I think you should read it when you have time. If I'm not mistaken, it came from your newly-appointed trainer, Nartok. He would have words with you when you're ready.",
+  "files": [
+   "quests/98575-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "97e16f8a81b0",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Nartok",
+  "quest": "Tainted Tablet",
+  "en": "You have just glimpsed the power that can be yours. The feeble and foolish among us are afraid of the path that we tread, but with boldness and cunning we can decide our own fates.\n\nGuard your powers closely. The fearful lash out against that which they do not understand.\n\nNow you are one of us. If you need training in spells then return to me.",
+  "files": [
+   "quests/98575-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f6275c39d379",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dazalar",
+  "quest": "Taming the Beast",
+  "en": "As a hunter, it is important to remember the responsibility you hold in your hands. Nature is not a power that can be bent to obey our desires; it is one that is to be respected and acknowledged as something stronger than your very existence.\n\nAdventurer, you must prove your understanding of this before you will gain the ability to tame an animal to be your companion.\n\nYour first task is to take this taming rod. With it, you will be able to tame a webwood lurker. Tame it, and practice your skills as a hunter.",
+  "files": [
+   "quests/6063-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "66ad14aa48d3",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dazalar",
+  "quest": "Taming the Beast",
+  "en": "Excellent, Adventurer! You are quite a fast learner.",
+  "files": [
+   "quests/6063-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2cddf9b96a20",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dazalar",
+  "quest": "Taming the Beast",
+  "en": "The variance of nature is something that can be relied upon, Adventurer. It is predictable in the way that it never remains the same; it is always changing.\n\nThe tasks I give to you will help you to see and appreciate the vast differences of the creatures you may choose as your companion.\n\nTake this taming rod and use it to tame a nightsaber stalker, found to the south. Practice your skills as a hunter. Then you will begin to understand the similarities and differences of nature.",
+  "files": [
+   "quests/6101-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a14ace025b01",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dazalar",
+  "quest": "Taming the Beast",
+  "en": "I see your commitment and that you have understood what I have taught you, Adventurer.",
+  "files": [
+   "quests/6101-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "bc6f23f6471b",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dazalar",
+  "quest": "Taming the Beast",
+  "en": "You have tamed two creatures that inhabit the land, now you must tame one that soars the skies. Use the taming rod to tame a strigid screecher, found west of here. Practice your skills with this mighty owl at your side.\n\nWhen you return, I will bestow you with the skills you will need to tame an animal of your choosing to be your companion; this creature will face the challenges you face, and gain experience alongside you. I will also show you how to call it and dismiss it as you wish.",
+  "files": [
+   "quests/6102-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "56b6f85c307d",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dazalar",
+  "quest": "Taming the Beast",
+  "en": "You have learned all I can teach you, Adventurer. May I offer you one more piece of advice: use discretion when choosing your first pet. Will you choose a creature of the land, of the water, or of the sky? Whatever it may be, without doubt, your pet will be with you for quite some time.\n\nHere you are, Adventurer. I will now give you the power to tame a beast, as well as call it and dismiss it as you see fit. Use your new skills with pride; you have earned them.",
+  "files": [
+   "quests/6102-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7a967c7a06cd",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elayaa Easewind",
+  "quest": "Taming the Beast",
+  "en": "Now that you've gained a level of comfort in the wilds of the highlands, I believe it is time for you to seek your very own animal companion.\n\nGo to the port of Valanaar to the southeast, and speak with Quel'ana Quickgale there. He will instruct you in the art of beast taming.",
+  "files": [
+   "quests/94007-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d59faf6cb482",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grif Wildheart",
+  "quest": "Taming the Beast",
+  "en": "I know, I know; you're wondering what's next, aren't ya?!",
+  "files": [
+   "quests/6064-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d741cebcc2c7",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grif Wildheart",
+  "quest": "Taming the Beast",
+  "en": "Those crag boars are quite burly; maybe you'd like something with a little more finesse? Alright then, I've got jus' the thing. South and east of here, you'll find large white cats called snow leopards. Just like an elegantly-carved rifle, behind their beautiful exterior lies a powerful fighter, capable of doing extreme damage. You'll find them to be much more agile an' swift than the boar you tamed.\n\nTake this taming rod and see how you like the snow leopard.",
+  "files": [
+   "quests/6084-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a6ba5c86ca2e",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grif Wildheart",
+  "quest": "Taming the Beast",
+  "en": "When I feel you've learned enough, I will grant you the ability to choose any pet of your liking.",
+  "files": [
+   "quests/6084-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ae73a9a327a0",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grif Wildheart",
+  "quest": "Taming the Beast",
+  "en": "Perhaps you'd like a creature that possesses little more than brute strength. The ice claw bear is an excellent companion for a fledgling hunter like yourself, and can be found east of Kharanos. Here is the taming rod; try this animal as a pet and see if ya like it!\n\nWhen you return, I'll give ya the skills you will need to tame an animal of your choosing; this creature will face the challenges you face, and gain experience alongside you. I will also show you how to call it and dismiss it as ya like.",
+  "files": [
+   "quests/6085-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "20e6abe6e7c4",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grif Wildheart",
+  "quest": "Taming the Beast",
+  "en": "Here you are, Adventurer. I will now give ya the power to tame a beast, as well as call it and dismiss it as you please.\n\nFind yerself a good, loyal pet, and enjoy the hunt!",
+  "files": [
+   "quests/6085-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "235f6a0572d2",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grif Wildheart",
+  "quest": "Taming the Beast",
+  "en": "Hi there, lad! So, you'd be wanting to know how you can gain a pet of your own?\n\nWell, let's get started. There's nothing more important than yer equipment when it comes to hunting, but we can chat about my new Shrapnel Blaster some other time. Fer now, let's focus on something I'm sure you're quite interested in: a pet!\n\nThe best way to learn is for you to try out several creatures as companions and see what ya like. So, find a large crag boar, then use the taming rod to tame it.",
+  "files": [
+   "quests/m-6064-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "060ed8925d7d",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Quel'ana Quickgale",
+  "quest": "Taming the Beast",
+  "en": "I am most glad that you came. Come, let us begin.",
+  "files": [
+   "quests/94007-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "716e3f313884",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Quel'ana Quickgale",
+  "quest": "Taming the Beast",
+  "en": "You've returned triumphant from taming two beasts, it's time now for your last trial. The winds of Zephras whisper of greater challenges ahead.\n\nTake this Taming Rod and journey to the Gustberry Lowlands. There, tame a Vuldren Alpha and prove your mastery.\n\nComplete this lesson and you'll be ready to learn the deeper ways of the hunter.",
+  "files": [
+   "quests/94013-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3334541aff41",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Quel'ana Quickgale",
+  "quest": "Taming the Beast",
+  "en": "Excellent, Naanariel! You are quite a fast learner. Now that you know the basics, I can teach you how to forge a lasting bond with an animal companion.\n\nGo with this knowledge and thrive. Be the adventurer that Zephras Isle needs you to be.",
+  "files": [
+   "quests/94013-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "af208508c44f",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Quel'ana Quickgale",
+  "quest": "Taming the Beast",
+  "en": "Every hunter begins by learning the bond between beast and master. This is your first challenge. In time, you'll tame creatures from every corner of the world, but for now, start with our rivers and lakes on Zephras.\n\nTake this Taming Rod and seek out a Windsong Crawler.\n\nShow that you can earn its trust, and begin your path toward true mastery.",
+  "files": [
+   "quests/94978-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5ffc0dc27999",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Quel'ana Quickgale",
+  "quest": "Taming the Beast",
+  "en": "Well tamed, Venator! You are becoming adept already.",
+  "files": [
+   "quests/94978-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "49a3b4f9d2ff",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Quel'ana Quickgale",
+  "quest": "Taming the Beast",
+  "en": "You've proven you can tame the river's crawler, now it's time to test your skill on open ground. The plains of Zephras echo with the cries of the Galestrider, a proud, winged hunter that runs like the wind.\n\nTake this Taming Rod and seek one out. Travel to the lowlands and earn its trust.\n\nShow you're ready for the trials yet to come.",
+  "files": [
+   "quests/94979-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e493cb2b5a19",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Quel'ana Quickgale",
+  "quest": "Taming the Beast",
+  "en": "You're back already! Impressive speed, Naanariel!",
+  "files": [
+   "quests/94979-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3a128e4623d6",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thotar",
+  "quest": "Taming the Beast",
+  "en": "It is an admirable skill to command one's authority over nature. As a hunter, you must strive to learn to use the force and power inherent to any creature of your choosing.\n\nGaining control of an animal is not an easy feat; it is a task that you must undertake with much determination.\n\nFor your first assignment, take this taming rod and use it to tame a dire mottled boar. You can find them quite close to Razor Hill. Practice your skills in battle with the boar at your side, then return to me.",
+  "files": [
+   "quests/6062-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "76a91e3f3922",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thotar",
+  "quest": "Taming the Beast",
+  "en": "You have done well, Adventurer. I believe you are ready for your next task.",
+  "files": [
+   "quests/6062-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "eb14b6999fef",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thotar",
+  "quest": "Taming the Beast",
+  "en": "The final creature you need to tame is one you should strive to emulate; the armored scorpid. It strikes quickly and confidently; to control a force such as this is your fate as a hunter.\n\nWhen you return, I will bestow you with the skills you will need to tame an animal of your choosing; this creature will be yours to command. Under your control, your pet will gain experience alongside you. I will also show you how to call it and dismiss it as you wish.",
+  "files": [
+   "quests/6082-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "09ecf3339440",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thotar",
+  "quest": "Taming the Beast",
+  "en": "You have learned all I can teach you, Adventurer. It is time for you to take what you have learned here and choose a pet of your own.\n\nHere you are, Adventurer. I will now give you the power to tame a beast, as well as call it and dismiss it as you see fit. Use your new skills with pride; you have earned them.",
+  "files": [
+   "quests/6082-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2ca449cf04f8",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thotar",
+  "quest": "Taming the Beast",
+  "en": "The advantage a pet affords you against your rivals is duly noted, Adventurer. When you gain control over another creature, you are adding to your own strength. Your pet must become an extension of yourself.\n\nThe next task requires you to turn from the land; you will find the next creature in the waters off the coast. Across from Sen'jin Village, near the Echo Isles. look for a spirited crab called the surf crawler. Use the taming rod to tame it, then practice your skills.",
+  "files": [
+   "quests/6083-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "006dcedcc2e2",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thotar",
+  "quest": "Taming the Beast",
+  "en": "You are a swift learner, Adventurer. You have done well.",
+  "files": [
+   "quests/6083-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "04605c69b1eb",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Yaw Sharpmane",
+  "quest": "Taming the Beast",
+  "en": "As a tauren, it is important to follow the traditions of our ancestors by fighting mighty creatures. By besting these creatures, we are able to intake their spirits, allowing us to become closer to the Earthmother.\n\nIn the same way, taming a beast to fight alongside us helps us become one with nature around us. Eventually, you will learn to tame a beast of your choosing. But all things take practice, and you have much to learn. Begin by taking this taming rod; you must tame an adult plainstrider.",
+  "files": [
+   "quests/6061-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c522e61ff2a6",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Yaw Sharpmane",
+  "quest": "Taming the Beast",
+  "en": "Signs have appeared to me from the Earthmother; you have done well.",
+  "files": [
+   "quests/6061-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "749e516a6636",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Yaw Sharpmane",
+  "quest": "Taming the Beast",
+  "en": "You have a fiery spirit, hunter, readily awaiting your next challenge.\n\nYour next task is to gain the companionship of a wolf known as the prairie stalker. This creature is swift and fearless; in taking this beast as your pet, you must also take on these qualities.\n\nDuring a battle, you will learn how you and your pet will become a team. In the end you must work as one, muscle to muscle.\n\nHere is the taming rod, Adventurer. Tame a prairie stalker and practice your skills.",
+  "files": [
+   "quests/6087-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "145a61aaeba2",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Yaw Sharpmane",
+  "quest": "Taming the Beast",
+  "en": "Yes... The Earthmother believes that you are ready for the next lesson.",
+  "files": [
+   "quests/6087-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b55d5e5b6389",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Yaw Sharpmane",
+  "quest": "Taming the Beast",
+  "en": "The final task that I have for you requires that you tame a creature that inhabits the sky. The swoop is a difficult opponent, but as your ally, you will acquire its sharp attacks and threatening presence.\n\nBy the will of the Earthmother, when you return I will bestow you with the skills you will need to tame an animal of your choosing to be your companion; this creature will face the challenges you face, and gain experience alongside you. I will also show you how to call it and dismiss it as you wish.",
+  "files": [
+   "quests/6088-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1511d33d6def",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Yaw Sharpmane",
+  "quest": "Taming the Beast",
+  "en": "You have learned all I can teach you, Adventurer. May the blessings of the Earthmother guide you in choosing a pet.\n\nHere you are, Adventurer. I will now give you the power to tame a beast, as well as call it and dismiss it as you see fit. Use your new skills with pride and honor the Earthmother.",
+  "files": [
+   "quests/6088-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "cb1877db673d",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Жозефина Карсон",
+  "quest": "Taming the Beast",
+  "en": "Many hunters prefer to travel with animal companions. With a beast at your side, you will find that you can survive even the most dangerous of circumstances. As they say, everything is easier with a friend. However, obtaining an animal companion is something that must be done with care. The balance of nature is delicate, and must always be respected.\n\nTake this Taming Rod with you to the forest. With it, you will be able to tame a Rockhide Boar and practice your skills as a hunter.",
+  "files": [
+   "quests/94792-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d272a2cd60bc",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Жозефина Карсон",
+  "quest": "Taming the Beast",
+  "en": "Excellent, Darlin! You are quite a fast learner.",
+  "files": [
+   "quests/94792-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6b28f7749ddf",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Жозефина Карсон",
+  "quest": "Taming the Beast",
+  "en": "You've alraedy mastered taming a boar, now it's time for the next lesson. The forest holds fiercer companions, and with care, you can earn their trust.\n\nTake this Taming Rod and seek out a Gray Forest Wolf. Remember, nature's balance must be respected. Prove your skill as a hunter once more.",
+  "files": [
+   "quests/94863-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d1382df0c88d",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Жозефина Карсон",
+  "quest": "Taming the Beast",
+  "en": "Well done, Darlin! You're quite in tune with the beast.",
+  "files": [
+   "quests/94863-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "29bf9701a0c4",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Жозефина Карсон",
+  "quest": "Taming the Beast",
+  "en": "You've proven yourself by taming a boar and a wolf, now it's time for your final challenge. Elwynn's balance depends on respect and skill. Take this Taming Rod and seek out a Young Forest Bear. Show that you can earn the trust of even the mightiest companion.\n\nCompleting this lesson will deepen your attunement to beasts.",
+  "files": [
+   "quests/94864-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c357daedfb5c",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Жозефина Карсон",
+  "quest": "Taming the Beast",
+  "en": "The brawn of the forest. Brave work, Darlin!",
+  "files": [
+   "quests/94864-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "26e50f9a5556",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Darnassus Commendation Officer",
+  "quest": "Ten Commendation Signets",
+  "en": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, Adventurer, that truly make a difference.\n\nLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged.",
+  "files": [
+   "quests/8831-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6808b1b114c9",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Officer Gothena",
+  "quest": "Ten Commendation Signets",
+  "en": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, Adventurer, that truly make a difference.\n\nLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged.",
+  "files": [
+   "quests/8826-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4a4cf0dbac44",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Officer Ironbeard",
+  "quest": "Ten Commendation Signets",
+  "en": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, Adventurer, that truly make a difference.\n\nLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged.",
+  "files": [
+   "quests/8821-complete",
+   "quests/8835-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b16cc9043a64",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Officer Lunalight",
+  "quest": "Ten Commendation Signets",
+  "en": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, Adventurer, that truly make a difference.\n\nLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged.",
+  "files": [
+   "quests/8819-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1427c5baca41",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Officer Maloof",
+  "quest": "Ten Commendation Signets",
+  "en": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, Adventurer, that truly make a difference.\n\nLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged.",
+  "files": [
+   "quests/8822-complete",
+   "quests/8837-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1208afe71618",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Officer Porterhouse",
+  "quest": "Ten Commendation Signets",
+  "en": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, Adventurer, that truly make a difference.\n\nLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged.",
+  "files": [
+   "quests/8820-complete",
+   "quests/8839-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "399975aea94e",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Officer Redblade",
+  "quest": "Ten Commendation Signets",
+  "en": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, Adventurer, that truly make a difference.\n\nLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged.",
+  "files": [
+   "quests/8823-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "28052e03f091",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Officer Thunderstrider",
+  "quest": "Ten Commendation Signets",
+  "en": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, Adventurer, that truly make a difference.\n\nLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged.",
+  "files": [
+   "quests/8825-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1324ede5b1af",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Officer Vu'Shalay",
+  "quest": "Ten Commendation Signets",
+  "en": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, Adventurer, that truly make a difference.\n\nLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged.",
+  "files": [
+   "quests/8824-complete",
+   "quests/8845-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "519f378119f6",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Commendation Officer",
+  "quest": "Ten Commendation Signets",
+  "en": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, Adventurer, that truly make a difference.\n\nLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged.",
+  "files": [
+   "quests/8841-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1e7a2ed9390a",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Thunder Bluff Commendation Officer",
+  "quest": "Ten Commendation Signets",
+  "en": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, Adventurer, that truly make a difference.\n\nLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged.",
+  "files": [
+   "quests/8843-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0fc4c7db41fb",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Undercity Commendation Officer",
+  "quest": "Ten Commendation Signets",
+  "en": "Excellent! It is no small sacrifice that you've made to earn these signets, and you will be acknowledged for your service appropriately. It's adventurers like you, Adventurer, that truly make a difference.\n\nLet me know if you have additional signets to hand in; I'll gladly help you out with whatever ones you need exchanged.",
+  "files": [
+   "quests/8833-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1d4d51a35ad2",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aetheen of the Gales",
+  "quest": "The Adventurer",
+  "en": "More and more adventurers like yourself have been seeking glory and fortune outside of the safety of Thendal Grove. There's one such adventurer who has made a camp outside of Shen'dar Village, along the road leading southwest out of Thendal Grove.\n\nSeek him out and see what you can learn from him that may help you in your own travels.",
+  "files": [
+   "quests/96638-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a82d0a7516c9",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Brakk",
+  "quest": "The Adventurer",
+  "en": "Is that my journal? I've been missing this for a while. Thank you, adventurer.\n\nHey, you've got the look of an adventurer yourself. How would you like to learn about camping?",
+  "files": [
+   "quests/96652-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "77c5fff2adc4",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Chief Hawkwind",
+  "quest": "The Adventurer",
+  "en": "Wait, Adventurer. I have another ask of you, before you leave us.\n\nThere is an adventurer by the name of Kaga Wildhoof who has made camp just outside of Bloodhoof Village. She has greatly helped me in the past, and now I see my chance to repay her. Could you deliver these supplies to her?",
+  "files": [
+   "quests/96659-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ce55235f2a44",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Eleanor Shackleton",
+  "quest": "The Adventurer",
+  "en": "I'm not affiliated with the Scarlet Crusade, if you couldn't tell. I'm just an adventurer stopping by before my next venture into the wilderness.\n\nHey, you've got the look of an adventurer yourself. How would you like to learn about camping?",
+  "files": [
+   "quests/96656-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "92a2d194cae6",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Eric Brighthammer",
+  "quest": "The Adventurer",
+  "en": "You say these are from the mountaineers? Aye, I could use them. Thank you, adventurer.\n\nHey, you've got the look of an adventurer yourself. How would you like to learn about camping?",
+  "files": [
+   "quests/96628-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b44f05037ee8",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Arren",
+  "quest": "The Adventurer",
+  "en": "Adventurer, you have proven yourself trustworthy in your endeavors against the Scarlet Crusade so far. That is why I am now entrusting you with an unusual task.\n\nI've heard of a new adventurer down the road by Brill. Go and see what she's doing.",
+  "files": [
+   "quests/96656-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5a8cd138c4c5",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Kaga Wildhoof",
+  "quest": "The Adventurer",
+  "en": "Chief Hawkwind sent you? I told him back then I needed no compensation, but it seems he hasn't listened. Thank you, adventurer.\n\nHey, you've got the look of an adventurer yourself. How would you like to learn about camping?",
+  "files": [
+   "quests/96659-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "bc691a5f596c",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lyreena Duskblade",
+  "quest": "The Adventurer",
+  "en": "Is that my journal? I've been missing this for a while. Thank you, adventurer.\n\nHey, you've got the look of an adventurer yourself. How would you like to learn about camping?",
+  "files": [
+   "quests/96630-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d43d45395df4",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal McBride",
+  "quest": "The Adventurer",
+  "en": "Adventurer, you have proven your competence as a protector thus far. That is why I am now entrusting you with an unusual task.\n\nI've heard of a new adventurer down the road by Goldshire. Go and see what he's doing.",
+  "files": [
+   "quests/96627-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0775cde9f5aa",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Thalos",
+  "quest": "The Adventurer",
+  "en": "Wait, Adventurer. I have another ask of you, before you brave that tunnel.\n\nMy mountaineers have reported an adventurer that's shown up just outside of Kharanos. Could you deliver these supplies to him?",
+  "files": [
+   "quests/96628-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ceca87a857a9",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Raan Wildwind",
+  "quest": "The Adventurer",
+  "en": "Well met!",
+  "files": [
+   "quests/96638-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "31a0a33513c5",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Сэм Сарсапарилла",
+  "quest": "The Adventurer",
+  "en": "I appreciate the lookin' out, adventurer. That marshal's just a worrywart.\n\nHey, you've got the look of an adventurer yourself. How would you like to learn about camping?",
+  "files": [
+   "quests/96627-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f6df086df8bf",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Klannoc Macleod",
+  "quest": "The Affray",
+  "en": "Hail adventurer! New Champion of The Affray!",
+  "files": [
+   "followup/2354-human-male-warrior"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c670271c8932",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Klannoc Macleod",
+  "quest": "The Affray",
+  "en": "If you want to learn from me, then you must first pass The Affray. It is a challenge we on Fray Island like to offer rising warriors who think they're tough, and if you can pass this test then I'll know you are.\n\nTo begin, walk into the middle of that crowd yonder and step on the grate. That'll tell Twiggy Flathead you're ready, and he'll send challengers against you.\n\nBeat all the challengers and he'll call out Big Will. Kill Big Will, and return to me in the time we allow.",
+  "files": [
+   "quests/1719-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f4e8fde7abe2",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Klannoc Macleod",
+  "quest": "The Affray",
+  "en": "Well done, Adventurer. You have passed The Affray!\n\nYou are a worthy warrior, and I am honored to teach you...",
+  "files": [
+   "quests/1719-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f4434c4b9734",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Sergeant Major Germaine",
+  "quest": "The Alliance Needs Arthas' Tears!",
+  "en": "I'll keep it simple and to the point, adventurer. The Alliance needs to collect a large quantity of Arthas' Tears for the Ahn'Qiraj war effort. Don't ask me what for; I'm just following orders. But I'd like you to gather up as many of the herbs as you can and bring them back to me here. Are you willing to do that?",
+  "files": [
+   "quests/8509-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "eaf581c5502d",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Sergeant Major Germaine",
+  "quest": "The Alliance Needs Arthas' Tears!",
+  "en": "Good work, adventurer. I must say that I'm pleasantly surprised. You would not believe the number of people that have come by, offering to help, but never returning. Let me just get those into a crate and tallied with your name on it, and then we can talk again about whether I need anymore of those plants.",
+  "files": [
+   "quests/8509-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1a538eca38b4",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sergeant Stonebrow",
+  "quest": "The Alliance Needs Copper Bars!",
+  "en": "Hey there, adventurer, you look fit enough to contribute to the war effort! We need all of the help that we can get here to put together the materiel needed for the Ahn'Qiraj War and it's your lucky day.\n\nI'm collecting copper bars in stacks of twenty. It's for a worthy cause, what do you say? Do you think you could help out the Alliance?",
+  "files": [
+   "quests/8492-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b0bc1823e280",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sergeant Stonebrow",
+  "quest": "The Alliance Needs Copper Bars!",
+  "en": "You did it, lad! We'll get those copper bars onto the pile and put them to good use making the war materiel right away. It's the efforts of people like you that make me proud to serve the Alliance. Good work, soldier!\n\nAnd if you should happen to come across more copper bars, make sure that they find their way to me.",
+  "files": [
+   "quests/m-8492-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6e8d13436c23",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Corporal Carnes",
+  "quest": "The Alliance Needs Iron Bars!",
+  "en": "Well, well, if it isn't Adventurer. And you pulled through. I guess now I'll have to keep my eye on you. It hurts me to say this, but thanks for your efforts. The Alliance won't forget, and neither will I. Now get out there and bust your hump on whatever else needs collecting.",
+  "files": [
+   "quests/8494-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e6157bdef39f",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Corporal Carnes",
+  "quest": "The Alliance Needs Iron Bars!",
+  "en": "Well hello there, Mr. Fancypants, aren't you a sight for sore eyes. In case you hadn't heard while you were out there \"adventuring\", the Alliance has been gearing up for a war in Ahn'Qiraj and is in need of iron bars... a whole mess of 'em. Bring them to me in stacks of twenty. We can count on you, right, adventurer?",
+  "files": [
+   "quests/m-8494-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "40c03ca7cce1",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Bonnie Stoneflayer",
+  "quest": "The Alliance Needs Light Leather!",
+  "en": "I dare say the Alliance is going to be very happy with your skins here, adventurer. I'll make sure that not a one goes to waste. Thank you, and make sure that you check back in with me once I've counted them up to see if we need more.",
+  "files": [
+   "quests/8511-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9426641e5c3a",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Bonnie Stoneflayer",
+  "quest": "The Alliance Needs Light Leather!",
+  "en": "We Stoneflayers have a long history of being skinners, adventurer. That's why the Alliance has asked my family to help out with the collection of light leather for the Ahn'Qiraj war effort. I'm here to see to it that the leather is tanned correctly for whatever they want to put it to use for. But we need your help.\n\nSince I have to be here doing that, I need you to go out and collect the skins, returning them to me here. What do you say, lad, will you give it a go?",
+  "files": [
+   "quests/m-8511-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "19cdb11ccaec",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Silversky",
+  "quest": "The Alliance Needs Linen Bandages!",
+  "en": "The war at Ahn'Qiraj is going to be long and bloody. It is a very wise thing that the Alliance is doing by enlisting the aid of you, and those like you, to build up the materiel necessary before plunging headlong into conflict.\n\nI have been asked to head up the collection of linen bandages for the war, and I am hoping that you are going to assist me in amassing as many as we need. It is no light matter, but at least the linen bandages are the least difficult to create. Are you with us, adventurer?",
+  "files": [
+   "quests/8517-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "943c4bc8a88f",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Silversky",
+  "quest": "The Alliance Needs Linen Bandages!",
+  "en": "Many are the soldiers that will benefit from your contribution here today, adventurer. I shall see to it personally that the Alliance is made aware of your efforts. Allow me a moment to store these bandages properly and update my count, and then you should check back with me to see if I am in need of more.\n\nMay the Light of Elune shine upon you, traveler!",
+  "files": [
+   "quests/8517-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4dfc669a26c9",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Private Porter",
+  "quest": "The Alliance Needs Medium Leather!",
+  "en": "Wow! Seems like you were just here volunteering to help. Thank you very much for the donation. I'll just get those all packed up and counted. You sure do know how to brighten a fella's day.",
+  "files": [
+   "quests/8513-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c88aeaf707dc",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Private Porter",
+  "quest": "The Alliance Needs Medium Leather!",
+  "en": "Yes sir, I have been charged with collecting and tracking all of the medium leather gathered for the war effort. If you have the wherewithal to gather medium leather, from whatever source, then please bring them to me here. I sure would appreciate a hand with this if you can spare the time.",
+  "files": [
+   "quests/m-8513-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0f6ebbff452c",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Sergeant Major Germaine",
+  "quest": "The Alliance Needs More Arthas' Tears!",
+  "en": "Ok, so it looks like I still need more Arthas' Tears. I would imagine that you will be able to find them in the general location that you gathered them up for me last time. The quicker we get these, the faster we can start up the offensive against the forces at Ahn'Qiraj.\n\nYou gonna help us out again adventurer?",
+  "files": [
+   "quests/8510-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "737684cd560a",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Sergeant Major Germaine",
+  "quest": "The Alliance Needs More Arthas' Tears!",
+  "en": "Simply outstanding, Adventurer! You're a real credit to the Alliance. I'll make sure to get these herbs packed away until someone comes to make them into something useful for the war. Feel free to come back around anytime, especially if you have more Arthas' Tears for me.",
+  "files": [
+   "quests/8510-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "21a6afc2f020",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sergeant Stonebrow",
+  "quest": "The Alliance Needs More Copper Bars!",
+  "en": "Back again adventurer? Outstanding! We still need more stacks of copper bars if you can procure them for the Ahn'Qiraj war effort. Will you help us out?",
+  "files": [
+   "quests/8493-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e02853257ddd",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sergeant Stonebrow",
+  "quest": "The Alliance Needs More Copper Bars!",
+  "en": "Excellent work! Digging around for that copper and smelting it must have been quite an adventure. Unless you bought them at the auction house. Either way, it works for me. You are to be commended for your contribution to the war effort, adventurer. And please don't hesitate to bring me more copper bars if you have them.",
+  "files": [
+   "quests/8493-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ece9786650ad",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Corporal Carnes",
+  "quest": "The Alliance Needs More Iron Bars!",
+  "en": "Back so soon? Stop making me re-evaluate my low opinion of you adventurer, you're making me feel all gooey inside. So, as you can tell we still don't have enough iron bars for all of the weapons, armor, steam tanks and whatnot that need building for the bug hunt. Think you have it in you to bring back another stack of twenty iron bars in between all of those trips to Zul'Gurub, or wherever it is that you kids hang out these days?",
+  "files": [
+   "quests/8495-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9f7719a26bf6",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Corporal Carnes",
+  "quest": "The Alliance Needs More Iron Bars!",
+  "en": "Must be a cold day in the Burning Steppes. Look here, it's Adventurer, and he's brought me a gift. Twenty iron bars! Just what I always wanted.\n\nIn all seriousness though, thank you, Adventurer. You're a credit to yourself and the Alliance. Now get back out there and bring in more stuff for the war effort!",
+  "files": [
+   "quests/m-8495-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7d10730167c5",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Bonnie Stoneflayer",
+  "quest": "The Alliance Needs More Light Leather!",
+  "en": "Good to see you again Adventurer. It does appear that we need more light leather for the creation of the various war materiel. If you could bring me a stack of ten that would be just perfect.",
+  "files": [
+   "quests/8512-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5197ed2a1139",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Bonnie Stoneflayer",
+  "quest": "The Alliance Needs More Light Leather!",
+  "en": "Thank you for your generous donation, Adventurer. I'm going to get those onto the pile right now, and in no time I'm sure that they'll get changed into a nice set of armor, some leather patches, or used for something else in our preparations. Seems like we're always in need of more light leather. Come back and visit me soon.",
+  "files": [
+   "quests/8512-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ce8f15601b6a",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Silversky",
+  "quest": "The Alliance Needs More Linen Bandages!",
+  "en": "Ever am I amazed by the selflessness exhibited when so many would instead turn to selfishness instead. Adventurer, I am still in need of a number of linen bandages before my assignment here is fulfilled. Will you aid me once more in the collection of those bandages?",
+  "files": [
+   "quests/8518-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7bff8856ad56",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Silversky",
+  "quest": "The Alliance Needs More Linen Bandages!",
+  "en": "You are to be commended, Adventurer. While there are those that would take advantage of the economics of our war footing to line their pockets in a fervor of greed, you have proven time and again that your devotion to the Alliance, and indeed to all of Azeroth, comes first.\n\nBlessings of Elune be with you always!",
+  "files": [
+   "quests/8518-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a26af3b34504",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Private Porter",
+  "quest": "The Alliance Needs More Medium Leather!",
+  "en": "Golly, that sure is a lot of medium leather that you've brought round, sir! I'm gonna make sure that all of that gets put to proper use, yes indeed. With your help we'll have filled our estimation for medium leather in no time!\n\nThanks, Adventurer!",
+  "files": [
+   "quests/m-8514-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2b9172a9dd2c",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Master Nightsong",
+  "quest": "The Alliance Needs More Purple Lotus!",
+  "en": "Welcome back adventurer. Our collection grows, but even now we have a need for additional purple lotus. If it is still within your power to gather more of the herb, I entreat you to do so and return them to me here.",
+  "files": [
+   "quests/8506-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "16337e7538c4",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Master Nightsong",
+  "quest": "The Alliance Needs More Purple Lotus!",
+  "en": "I gladly accept your contribution on behalf of the Alliance, Adventurer. Your efforts will directly lead to the creation of several potions and oils in support of our men and women in the field. Thank you, and should come across more, please consider returning to me.",
+  "files": [
+   "quests/8506-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2d1f9719f6b5",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Slicky Gastronome",
+  "quest": "The Alliance Needs More Rainbow Fin Albacore!",
+  "en": "What! You again? Well I'll be a monkey's uncle... except that I'm a gnome. Slicky Gastronome to be precise! So you're back to help out again eh? Well, I can't say as I blame you. Don't you just love the smell of all of that food? \nEnough loitering! Get out there and bring me back more rainbow fin albacore!",
+  "files": [
+   "quests/8525-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "48e86fc71476",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Slicky Gastronome",
+  "quest": "The Alliance Needs More Rainbow Fin Albacore!",
+  "en": "I knew that you had it in you, kid. You've got the look of someone who knows what he likes. Specifically that you like pleasing me and the powers that be. And that you have, I guarantee.\n\nHaha, ok, I'll just get these fish properly stashed away, and then you and I can have a little talk concerning you collecting another twenty albacore.",
+  "files": [
+   "quests/m-8525-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "adcaca9c4afc",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Sarah Sadwhistle",
+  "quest": "The Alliance Needs More Roast Raptor!",
+  "en": "Hi again adventurer. I can tell you're very excited about all of this. So I suppose you want to bring me another twenty roast raptor. Great. Well you do that. I guess I'll see you when you get back.",
+  "files": [
+   "quests/8527-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e47976e218b3",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Sarah Sadwhistle",
+  "quest": "The Alliance Needs More Roast Raptor!",
+  "en": "Wow, you're a real go-getter. You make me tired just looking at you. Anyway, thanks from the Alliance and all that. I'll make sure that all of that dead meat gets packed away. I guess you could check back with me later to see if we still need more of it, though it's starting to stink up the place if you ask me.",
+  "files": [
+   "quests/8527-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c358731ae125",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Keeper Moonshade",
+  "quest": "The Alliance Needs More Runecloth Bandages!",
+  "en": "So it is that we come to discuss pressing matters yet again adventurer. Once more I thank you for your previous efforts; it is not everyone who would give so selflessly. But there is still more work to do.\n\nAdventurer, will you once more collect runecloth bandages and return them to me here?",
+  "files": [
+   "quests/8523-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f612f78d4cb1",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Keeper Moonshade",
+  "quest": "The Alliance Needs More Runecloth Bandages!",
+  "en": "This is a fine road we are traveling together, Adventurer. You make an excellent working companion. Once more do I give thanks to you for your efforts on behalf of the entire Alliance. Come and talk again with me soon.",
+  "files": [
+   "quests/8523-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "24e55419ecb1",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Nurse Stonefield",
+  "quest": "The Alliance Needs More Silk Bandages!",
+  "en": "You are such a selfless person. Thank you very much for your contribution to the war effort. It's people like you that are going to make the difference between success and failure at Ahn'Qiraj. I just hope that all of this will be enough.\n\nThanks again, Adventurer.",
+  "files": [
+   "quests/8521-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ac51860dce03",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Huntress Swiftriver",
+  "quest": "The Alliance Needs More Spotted Yellowtail!",
+  "en": "If you're still willing I'd like to send you back out to bring in another haul of spotted yellowtail, Adventurer. I'd imagine with the expertise you gained the first time out that this catch should be much faster and easier. Are you game?",
+  "files": [
+   "quests/8529-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7d06f231416d",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Huntress Swiftriver",
+  "quest": "The Alliance Needs More Spotted Yellowtail!",
+  "en": "You are a true member of the Alliance, Adventurer. Your efforts shall not go unnoticed, or unappreciated. And thank you for cooking up the fish as well. I will see to it that they are stored away properly, and then I'll need to update my count. Every one brings us that much closer to catching our goal.",
+  "files": [
+   "quests/8529-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1580ae10d911",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Private Draxlegauge",
+  "quest": "The Alliance Needs More Stranglekelp!",
+  "en": "Well hello again there... what was it? Ah yes, Adventurer! Come to see if I still need more stranglekelp have you? Well, it's your lucky day, because the answer to that very important question is a very affirmative YES! Think you could gather up twenty more?",
+  "files": [
+   "quests/8504-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b6aea37b6035",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Private Draxlegauge",
+  "quest": "The Alliance Needs More Stranglekelp!",
+  "en": "Oh goodness that's a quite a load of stranglekelp you have there. Quick, let's get that into a box to keep it fresh. You've done me... us, the Alliance a great favor by bringing that batch in. I'll make sure that everyone knows that it was you, the great Adventurer, that helped to tip the scales in the Ahn'Qiraj war effort with your contribution of stranglekelp!",
+  "files": [
+   "quests/8504-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ff34e54e0ab9",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Marta Finespindle",
+  "quest": "The Alliance Needs More Thick Leather!",
+  "en": "You did it again! That is simply amazing how you go out there, collect all of this stuff, and then bring it back here and hand it over. I tell ya, when they find out how much you've been helping out around here you're not going to be able to walk down the street without people asking you for your autograph!\n\nThanks again for your very generous donation of thick leather, Adventurer.",
+  "files": [
+   "quests/8516-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ed80cd5b3cc3",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Dame Twinbraid",
+  "quest": "The Alliance Needs More Thorium Bars!",
+  "en": "It is so good to see you again Adventurer. I hope that you've been doing well. It's true that we are still in need of thorium bars. If you have them to spare I am collecting them for the Ahn'Qiraj war effort.",
+  "files": [
+   "quests/8500-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4e9067e72613",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Dame Twinbraid",
+  "quest": "The Alliance Needs More Thorium Bars!",
+  "en": "Excellent, Adventurer! A job well done. I'll see to it that those bars get onto the pallet and into the hands of the blacksmiths and engineers that are hard at work building up the supplies for our army. Thank you again, and if you come across more thorium bars be sure to drop by.",
+  "files": [
+   "quests/8500-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9dd7bc82e53d",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Master Nightsong",
+  "quest": "The Alliance Needs Purple Lotus!",
+  "en": "Adventurer, the purple lotus is a flower with a plentitude of uses. I am here at the request of the Alliance as an authority on those applications, to preserve the herbs collected and to ensure that their war effort acquires enough purple lotus to sustain whatever function they plan for it.\n\nI would like for you to travel out into the world and return to me with some of these flowers. Is that something that you can do?",
+  "files": [
+   "quests/8505-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "018f9f160c5b",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Master Nightsong",
+  "quest": "The Alliance Needs Purple Lotus!",
+  "en": "Your contribution is greatly appreciated, adventurer. It is only through the combined efforts of all that we shall be able to repel the ruthless advance of the silithid and whatever force is driving them forth. Even the Horde is amassing their own collection of purple lotus. Should you come across more, please return to me here.",
+  "files": [
+   "quests/8505-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "41d5cc14a75b",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Slicky Gastronome",
+  "quest": "The Alliance Needs Rainbow Fin Albacore!",
+  "en": "Hey there, friend! If I were to say to you, 'Don't you think that soldiers should have food to eat like anyone else?', you would of course reply, 'yes'. I agree with you 110%! I'm glad we're in accord. All I need for you to do is to head out there, fish up a whole bunch of raw rainbow fin albacore, and then cook it all up and bring it back to me right here. Mmm, mmm, I can taste it already.",
+  "files": [
+   "quests/8524-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2f8dda00f0af",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Slicky Gastronome",
+  "quest": "The Alliance Needs Rainbow Fin Albacore!",
+  "en": "Two for the Alliance, one for me, two for the Alliance, one for me. Hey there, fishmonger, excellent work. I can see that you're going to be a real credit to the club. Looks to me like we probably need more of that albacore though. Why don't you head on out and rustle up a mite more. I can hear my stomach rumbling already.",
+  "files": [
+   "quests/8524-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7e88e04386a8",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Sarah Sadwhistle",
+  "quest": "The Alliance Needs Roast Raptor!",
+  "en": "Oh, how's it going, adventurer? I see that you're interested in maybe gathering up food for the coming war at Ahn'Qiraj? Somehow my dad thought that it would be a good learning experience for me if I were to volunteer to help out here. Big mistake. I don't even like to eat meat.\n\nAnyway, if you feel like it, you could bring me back a lot of roast raptor. Apparently that's what all of the soldiers are going to want.",
+  "files": [
+   "quests/8526-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5bb44f3e2072",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Sarah Sadwhistle",
+  "quest": "The Alliance Needs Roast Raptor!",
+  "en": "Gee, that's swell. Thanks for bringing me all of this burnt animal flesh, adventurer. I'll just put it onto the pile over there. I'm sure that someone will take care of it. I suppose if you have some time on your hands that you might want to bring me more?",
+  "files": [
+   "quests/8526-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2a1168a7c2d7",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Keeper Moonshade",
+  "quest": "The Alliance Needs Runecloth Bandages!",
+  "en": "Argue the merits of the war if you will, adventurer, but it has already been set in motion. Look around you at your family and friends, and then ask yourself what it is that you can do to see to it that if they are involved, they will have every advantage to survive the conflagration.\n\nTo that end, I am collecting runecloth bandages here from whatever source. Would you like to make a donation?",
+  "files": [
+   "quests/8522-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a33ef3cdc7c4",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Keeper Moonshade",
+  "quest": "The Alliance Needs Runecloth Bandages!",
+  "en": "You are to be commended, adventurer, for your perseverance in this task. I shall put these bandages away, and then I should like to talk to you again about the possibility of your collecting even more runecloth bandages.",
+  "files": [
+   "quests/8522-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ff965d3971ff",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Nurse Stonefield",
+  "quest": "The Alliance Needs Silk Bandages!",
+  "en": "With the Ahn'Qiraj War looming we need to do everything that we can to see to it that our soldiers have everything that they need. We're doing just that right here. For my part I've been placed in charge of seeing to it that we collect enough silk bandages.\n\nDo you think you can help me out, adventurer?",
+  "files": [
+   "quests/8520-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d5e8f16cd2b7",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Nurse Stonefield",
+  "quest": "The Alliance Needs Silk Bandages!",
+  "en": "Adventurer, you did it! Thanks to you we are another step closer to achieving our goal with silk bandages. I'll get them stored away, and then we can talk more if you like.",
+  "files": [
+   "quests/8520-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "fa293c16515d",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Huntress Swiftriver",
+  "quest": "The Alliance Needs Spotted Yellowtail!",
+  "en": "It may not seem heroic to gather up cooked fish, but do not underestimate the value of preparation, young adventurer. Soldiers need to eat like anyone else, and we're here to do our part to make sure they have what they need once the war in Ahn'Qiraj commences.\n\nAccordingly, I am stockpiling spotted yellowtail, a versatile source of sustenance that stores well and can be used in many different dishes. It also doesn't have the odor of some other saltwater fish. Are you willing to aid me in this endeavor?",
+  "files": [
+   "quests/8528-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "28d5ce7316d4",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Huntress Swiftriver",
+  "quest": "The Alliance Needs Spotted Yellowtail!",
+  "en": "Thank you for this gift, Adventurer, and in such a timely manner as well. Our soldiers will surely not lack for something to eat. Just let me get these fish stored away properly and then you and I can discuss a second haul if you're willing.",
+  "files": [
+   "quests/8528-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e5472b7f09c0",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Private Draxlegauge",
+  "quest": "The Alliance Needs Stranglekelp!",
+  "en": "So, adventurer, did I already tell you about all of the fabulous uses stranglekelp has? I did? Oh well... in any case we need a lot of it, and when I say a lot, I mean A LOT! Do you think that you could help us out? I know that it means going without all of those wonderful things that you can make with it, but it's for a good cause!",
+  "files": [
+   "quests/8503-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "51533b94408c",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Private Draxlegauge",
+  "quest": "The Alliance Needs Stranglekelp!",
+  "en": "Hooray! That's another twenty down. You're the best. I suppose that I should get these all packed away before they wither. So much stranglekelp, so little time!\n\nThanks again, adventurer!",
+  "files": [
+   "quests/8503-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ca25a45b7962",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Marta Finespindle",
+  "quest": "The Alliance Needs Thick Leather!",
+  "en": "Oh boy, this is going to be great! Adventurer, the Ahn'Qiraj war effort is in full swing, and I've been put in charge of keeping track of all of the thick leather that comes in. We'll make tons of things with it, but first we need to get a ton of it. And I mean that literally! That's where you come in.\n\nSo, do you think you can go out there and bring me back a nice, fat stack of thick leather? Do yah, do yah?!",
+  "files": [
+   "quests/8515-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2c763ad26d1f",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Marta Finespindle",
+  "quest": "The Alliance Needs Thick Leather!",
+  "en": "Oh, I knew you could do it, adventurer, I just knew it! I'll get these into the right hands as soon as I can. Now, let's see here. Hmm, looks like our tally is coming along rather nicely. You should check back with me in just a moment once I'm done counting to see if we need more. Cuz if we do, you're the one I want out there gathering it up for me!",
+  "files": [
+   "quests/8515-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ba195252667d",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Dame Twinbraid",
+  "quest": "The Alliance Needs Thorium Bars!",
+  "en": "It is very kind of you to inquire about the needs that the Alliance has. In addition to all of the other collection efforts underway, we are in need of a great quantity of thorium bars, which is the task that I am in charge of. The thorium will be used in the creation of many different things for the war, foremost of which is the construction of a battalion of steam tanks to be airlifted into Silithus as soon as they are completed. Can you aid us in this endeavor, adventurer?",
+  "files": [
+   "quests/8499-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5281683da1b6",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Dame Twinbraid",
+  "quest": "The Alliance Needs Thorium Bars!",
+  "en": "So Gnoarn doesn't trust my reconnaissance abilities? I wonder why...",
+  "files": [
+   "quests/8499-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "68074a8493aa",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Field Marshal Snowfall",
+  "quest": "The Alliance Needs Your Help!",
+  "en": "Hail and well met lad! Good to see so many of the Alliance, such as yourself, Adventurer, coming out to lend your support in laying the groundwork for the upcoming Ahn'Qiraj War. The effort here will ensure that we are victorious against the Silithid and their evil masters hidden away inside Ahn'Qiraj.\n\nSo now that you are here, be sure to speak with the various collectors and offer your assistance in gathering those materials that you are suited to.",
+  "files": [
+   "quests/m-8795-complete",
+   "quests/m-8796-complete",
+   "quests/m-8797-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "60c6c4d4ff11",
+  "zone": "other-quests-7",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Master Sergeant Fizzlebolt",
+  "quest": "The Alliance Needs Your Help!",
+  "en": "Hello, I'm glad that you've decided to hear me out. The Alliance needs all of the help that it can get to prepare for the Ahn'Qiraj War, and that means that we need you! Even now as we speak, official collectors are gathering the necessary material needed for the upcoming war, but we won't be able to meet our goals without your assistance, Adventurer!\n\nYou should go speak with the guy in charge, Field Marshal Snowfall. What do you say, adventurer? Will you help out with the vital preparations?",
+  "files": [
+   "quests/8795-accept"
+  ],
+  "uiMap": null
+ }
+]

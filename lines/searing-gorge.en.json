@@ -1,0 +1,2809 @@
+[
+ {
+  "id": "630df36e35e4",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Lokhtos Darkbargainer",
+  "quest": "A Binding Contract",
+  "en": "It has been a pleasure doing business with you, Adventurer!\n\nOn behalf of TB Ltd., I wish you luck in your search for Sulfuras!",
+  "files": [
+   "quests/7604-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "09f75cdd1d25",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Thorium Brotherhood Contract",
+  "quest": "A Binding Contract",
+  "en": "The undersigned hereby declares that the Sulfuron ingot they are delivering to the Thorium Brotherhood (TB Ltd.) is genuine and not a facsimile thereof. The undersigned also acknowledges that any harm that should come to him as a result of attempting to build, forge, find, create, sell, or eat Sulfuras, is not the responsibility or fault of TB Ltd.\n\nBy signing this contract, you are agreeing to all terms listed herein.\n\n_________________\n\nSignature",
+  "files": [
+   "quests/m-7604-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "b74baa43e649",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "A Crumpled Up Note",
+  "quest": "A Crumpled Up Note",
+  "en": "The note has stains covering its surface. The text is barely legible, but you make out the following:\n\n...sweet irony...\n\n...the fall of the broken Alliance...\n\n...if it were not for General Angerforge's diligence, we may have never discovered the pattern to the encryption...\n\n...Argelmach is almost done with the decryption of Windsor's notes.\n\nOur lord will rise from the depths and crush any that remain...\n\n-Emperor Dagran Thaurissan.",
+  "files": [
+   "quests/4264-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "b9f3a39770a9",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Windsor",
+  "quest": "A Shred of Hope",
+  "en": "Do you realize what this means, Adventurer?\n\nPerhaps all is not lost! From what I can ascertain, the information is being held by two Dark Iron dwarves: General Angerforge and the golem lord, Argelmach. I have a feeling that they won't just hand over the information if we ask nicely.\n\nI hope you are ready to battle.\n\nVenture forth and find these two villains! Destroy them and return my lost information.",
+  "files": [
+   "quests/4282-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "d4dafe1fb3b1",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Windsor",
+  "quest": "A Shred of Hope",
+  "en": "We need to get out of here!",
+  "files": [
+   "quests/4282-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "0d49ca881c29",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Maxwell",
+  "quest": "Abandoned Hope",
+  "en": "He's gone mad, apparently.\n\n\nIt is unfortunate that a once proud and noble warrior would be turned into a blithering head case. I GUESS we've reached a dead end...\n\nI must reward you for your efforts thus far, Adventurer.",
+  "files": [
+   "quests/4242-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "d8d1a183c19f",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Windsor",
+  "quest": "Abandoned Hope",
+  "en": "Bolvar is a fool. I was gathering his precious 'proof' so that I could shove it down his throat.\n\nHe is a blind buffoon. Proof stands two feet away from him and he does not see.\n\nAs for my data, it's lost. Gone. Unrecoverable.\n\nShould I ever find Ironfoe and make it out of this labyrinth, my first stop will be Stormwind, to place my hammer in between that reptile's eyes.\n\nLeave me, Adventurer.",
+  "files": [
+   "quests/4242-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "9ae918b81749",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Bijou",
+  "quest": "Bijou's Belongings",
+  "en": "At night when this place is lightly guarded, I sneak around the city, taking notes and writing down anything I see that could be of some strategic value to the K.E.F.\n\nLast night, however, things went dreadfully wrong. I stumbled across a tripwire and set off an alarm. I stashed my recon gear and ran for cover! Unfortunately, I can't get back to that gear. They've doubled and tripled up the patrols! All that information is lost.\n\nGet my belongings back and I'll return to the K.E.F. peacefully.",
+  "files": [
+   "quests/4982-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "67d4bacc0ef5",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Bijou",
+  "quest": "Bijou's Belongings",
+  "en": "You've done it! Once Lexlort has these plans, he'll forget all about the nasty things he wanted to do to me.\n\nAdventurer, you're my hero!",
+  "files": [
+   "quests/4982-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "c232e94e1428",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Bijou",
+  "quest": "Bijou's Belongings",
+  "en": "Ordinarily I don't deal with travelers but it seems that I'm stuck between a troll and a hard place. You see, my mission here is one of utmost importance to the Horde. The information I've discovered, however, applies to the well being of the Alliance as well. Now believe me, I'm no Alliance sympathizer, but the Blackrock threat is bigger than just a bunch of orcs.\n\nYou help me out by finding my belongings and I'll help you out with some information that could prove useful to your kind.\n\nDeal?",
+  "files": [
+   "quests/5001-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "06cb55dd5381",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Bijou",
+  "quest": "Bijou's Belongings",
+  "en": "Well I'll be! Where were they??",
+  "files": [
+   "quests/5001-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "6f006e55cef7",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Bijou",
+  "quest": "Bijou's Reconnaissance Report",
+  "en": "Take this report back to Lexlort. It will redeem my good name and will surely give the K.E.F. a strategic advantage in dealing with these orcs.\n\nCome with you? I've got way too much work to do. Get going, they need these reports as soon as possible!",
+  "files": [
+   "quests/4983-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "2aff42397608",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Lexlort",
+  "quest": "Bijou's Reconnaissance Report",
+  "en": "I've got to hand it to her; she's managed to weasel her way out of another sticky situation! These reports will prove to be invaluable in our dealings with the Blackrock orcs.\n\nOf course, you will be rewarded for your hard work.",
+  "files": [
+   "quests/4983-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "99eae863478c",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Blackhand's Command",
+  "quest": "Blackhand's Command",
+  "en": "Imbecile,\n\nI hold very little faith in your ability to prevent outsiders from accessing the master's lair. In the very likely event of your death, this orb has its own failsafe built in to prevent outsiders from teleporting directly into Blackwing.\n\nOnly those with the Mark of Drakkisath branded upon their hand may make use of this orb. Thankfully, Drakkisath is not nearly as incompetent as you, Quartermaster. He guards the brand himself!\n\n-Warchief Rend Blackhand\n\nP.S. Destroy this letter, idiot.",
+  "files": [
+   "quests/7761-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "710e105c06e7",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Drakkisath's Brand",
+  "quest": "Blackhand's Command",
+  "en": "You don't even flinch as the smoldering brand is pressed into your flesh. You are so tough!\n\nYou now hold the Mark of Drakkisath. Have fun storming the castle.",
+  "files": [
+   "quests/7761-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "f6a10db318e0",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Rexxar",
+  "quest": "Blood of the Black Dragon Champion",
+  "en": "You will pay the General a visit, yes, but not as one of the Black Dragonflight.\n\nYou see, a ceremony is merely another term for blood letting to the Black Flight.\n\nThe latent amulet merely needs the blood of the General in order to become active. One of their crude failsafe mechanisms.\n\nReturn to Blackrock Spire and destroy Drakkisath. Bring his blood back here and I shall activate the key to Onyxia's lair.",
+  "files": [
+   "quests/6602-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "20efbf18d205",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Rexxar",
+  "quest": "Blood of the Black Dragon Champion",
+  "en": "A victory that will be remembered for many years, Adventurer. The Drakefire Amulet will open Onyxia's lair. Gather your allies and bring victory to the Horde.",
+  "files": [
+   "quests/6602-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "35734fcd2809",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wooden Outhouse",
+  "quest": "Caught!",
+  "en": "Hey! Hey, you! Get over here!\n\nYa gotta help me out. I was runnin' from them Dark Iron dwarves, and I hid in here to get out of sight. Damn bastard geologists and their magic ways! They musta seen me hide, cause next thing I knew, they locked the door and stuck me in here.\n\nTeach them geologists a lesson! Oh... an' can ya get me some pieces of silk cloth for... for... nothin'.",
+  "files": [
+   "quests/4449-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "b77f3a2e16cd",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wooden Outhouse",
+  "quest": "Caught!",
+  "en": "Oh, this is great! Nice feel to it too!\n\nWhat? Oh, yeah... geologists. Got 'em good, did ya? I can't thank ya enough, Adventurer. That'll give me some time to finish up in here... Thanks again, Adventurer.",
+  "files": [
+   "quests/4449-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "dd926064010e",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Commander Gor'shak",
+  "quest": "Commander Gor'shak",
+  "en": "We haven't got much time. Listen carefully, Traveler. What I have to tell you is classified and for your ears only.",
+  "files": [
+   "quests/3981-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "8fc38d1d6ed9",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Galamav the Marksman",
+  "quest": "Commander Gor'shak",
+  "en": "Poor Gargal... didn't even see it coming. WHAM! The arrow landed dead center on the top of his head. He was no genius before but now...\n\n\nWhen we dislodged the arrow, we noticed a rolled up note attached to the shaft. On the note was a crudely drawn picture of an orc behind bars with the signature of Commander Gor'shak attached.\n\nIf he's still alive in the Depths, you'll have to find him.\n\nA trap you say? Well no kidding, numb hooves! That's why you're going!",
+  "files": [
+   "quests/3981-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "9d50fb1bac41",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "Components of Importance",
+  "en": "Adventurer, listen closely. Now that we have the brazier, and the means to light it, we still need another component to suffuse it with; something that will provide a focus strong enough to entice the spirit of my deceased, former comrade.\n\nMor Grayhoof, our most prominent druid, had many close friends amongst the Cenarion Circle, some of which have fallen to the silithid. I need you to retrieve some Druidical Remains from the silithid that inhabit the environs of Hive'Regal in southeastern Silithus.",
+  "files": [
+   "quests/8962-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "94f15d9b9870",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "Components of Importance",
+  "en": "A job well done, Adventurer. I will imbue the essence of the remains into the brazier.\n\nNow all that is left is to go to the lower portion of Blackrock Spire, to the chamber where War Master Voone resides in Tazz'Alaor, and use the brazier to summon forth the corrupted spirit of my former cohort, Mor Grayhoof. He cannot rest until the amulet piece is taken from him.",
+  "files": [
+   "quests/8962-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "981b3e19c8c9",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "Components of Importance",
+  "en": "Adventurer, listen closely. Now that we have the brazier, and the means to light it, we still need another component to suffuse it with; something that will provide a focus strong enough to entice the spirit of my deceased, former comrade.\n\nIsalien, our priestess, grew up in Winterspring at Starbreeze Village. I need you to gather a Starbreeze Village Relic from the Frostmaul giants of Frostwhisper Gorge in southern Winterspring, who are known for raiding to the north from time to time.",
+  "files": [
+   "quests/8963-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "bdab10092efd",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "Components of Importance",
+  "en": "A job well done, Adventurer. I will imbue the essence of the relic into the brazier.\n\nNow all that is left is to go to the Shrine of Eldretharr in the east wing of Dire Maul, and use the brazier to summon forth the spirit of my former cohort, Isalien. Her spirit has been corrupted by her possession of the piece of Valthalak's amulet, and the portion of his soul within it.",
+  "files": [
+   "quests/8963-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "545f88b0c6c6",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "Components of Importance",
+  "en": "Adventurer, listen closely. Now that we have the brazier, and the means to light it, we still need another component to suffuse it with; something that will provide a focus strong enough to summon the remains of my deceased, former comrades.\n\nThe siblings, Jarien and Sothos, were believers in the way of the Scarlet Crusade. They aspired to knighthood within that vile organization. Go to Tyr's Hand in Eastern Plaguelands and retrieve a Brilliant Sword of Zealotry from the praetorians there.",
+  "files": [
+   "quests/8964-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "815cf1a1be8f",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "Components of Importance",
+  "en": "A job well done, Adventurer. I will imbue the essence of the sword into the brazier.\n\nNow all that is left is to get into The Crimson Throne inside The Scarlet Bastion at Stratholme, and use the brazier to summon forth the remains of my former cohorts, Jarien and Sothos. Their souls have been twisted further by their possession of Valthalak's amulet piece and his spirit within.",
+  "files": [
+   "quests/8964-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "10d20029a4bf",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "Components of Importance",
+  "en": "Adventurer, listen closely. Now that we have the brazier, and the means to light it, we still need another component to suffuse it with; something that will provide a focus strong enough to entice the spirit of my deceased, former comrade.\n\nAn ogre necromancer that traveled with us, Kormok, delighted in summoning forth the souls of the banished dead of Purgation Isle, off the south coast of the Hillsbrad Foothills. Go there and retrieve some Soul Ashes of the Banished from their remains.",
+  "files": [
+   "quests/8965-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "a4e27ab0173f",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "Components of Importance",
+  "en": "A job well done, Adventurer. I will imbue the essence of the ashes into the brazier.\n\nNow all that is left is to get into Scholomance, to Ras Frostwhisper's chamber, and use the brazier to summon forth the spirit of my former cohort, Kormok. The amulet piece, and Valthalak's spirit within, has corrupted him even further, and he will not rest until you forcibly take it from him.",
+  "files": [
+   "quests/8965-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "58ffbdcacb5f",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hansel Heavyhands",
+  "quest": "Curse These Fat Fingers",
+  "en": "Unfortunately, I can't dish out the beats like I used to, due to this here fat finger problem. Ye see, the climate out here combined with the lack o' air pressure makes me fingers expand. They're like gigantic Thelsamar Blood Sausages, they are...\n\nYe're gonna have to carry out me orders of business and what have ye.\n\nFirst on me agenda: Poundin' the livin' daylights out o' the heavy war golems o' the Gorge. Get crackin'.",
+  "files": [
+   "quests/7723-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "35e0c4da4821",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hansel Heavyhands",
+  "quest": "Curse These Fat Fingers",
+  "en": "Ye're a good lad, ye are. I got ye a lil' present fer yer troubles.",
+  "files": [
+   "quests/m-7723-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "956335f0cc46",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Franclorn Forgewright",
+  "quest": "Dark Iron Legacy",
+  "en": "Greetings, Adventurer. I am Franclorn Forgewright. Yes, the Franclorn Forgewright responsible for the stonewrought method of architecture. You have undoubtedly passed through or stood upon one of my creations in your adventures across our war torn world.\n\nYou are probably wondering why I am here and what it is that I want from you - both valid questions.\n\nI need your assistance, of course. In exchange for your assistance, I shall grant you the key to the depths of my accursed city.",
+  "files": [
+   "quests/3801-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "e8d826029043",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Franclorn Forgewright",
+  "quest": "Dark Iron Legacy",
+  "en": "Whether it is greed which brought you here or an act of selfless devotion, what you are about to undertake is for the good of us all.",
+  "files": [
+   "quests/3801-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "bf39b312118a",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Franclorn Forgewright",
+  "quest": "Dark Iron Legacy",
+  "en": "You will find Fineous Darkvire beyond the Ring of Law, in the Hall of Crafting. Kill the miserable cur and recover Ironfel.\n\nTake Ironfel to the Shrine of Thaurissan and place the hammer in its rightful place: In the hands of the statue erected in my honor.\n\nWhen this is done, the compartment in which I stored the master key will open. More importantly, Ironfel will remain forever in my grasp. Should they make an attempt to remove the hammer; both the statue and hammer will shatter, lost forever.",
+  "files": [
+   "quests/3802-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "29292d65eb8c",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Monument of Franclorn Forgewright",
+  "quest": "Dark Iron Legacy",
+  "en": "The hammer slides firmly into place, within the grasp of the massive Dark Iron monument. A tiny compartment opens at the base of the statue. Inside you find...",
+  "files": [
+   "quests/3802-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "73d660e9acaf",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Count Remington Ridgewell",
+  "quest": "Delivery to Ridgewell",
+  "en": "Ah, so you are he! You have my thanks, Adventurer. And... if you didn't already know... the gratitude of a noble in the house of Ridgewell is nigh worth a king's ransom.",
+  "files": [
+   "quests/m-4765-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "2d422e6331ee",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Mayara Brightwing",
+  "quest": "Delivery to Ridgewell",
+  "en": "I have packaged Doomriggers Clasp into a crate, suitable for shipment to Stormwind. Adventurer, you have been extremely helpful -- can I ask you for one last favor?\n\nDeliver the crate to Count Remington Ridgewell. You will find him in the Keep of Stormwind. I am sure he'll be very pleased to see what you have for him.",
+  "files": [
+   "quests/4765-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "d3726ef2a64a",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Thunderheart",
+  "quest": "Disharmony of Fire",
+  "en": "I can taste the foulness in the air that surrounds you, Adventurer. There is another, hidden in the depths of Blackrock, who does control this foulness.\n\nThe wind and earth cry his name: Lord Incendius... but someone... something... commands this being. He is merely an emissary.\n\nFind him and discover where his master hides. Return to me when you have collected this information.",
+  "files": [
+   "quests/3907-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "fc27acddf813",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Thunderheart",
+  "quest": "Disharmony of Fire",
+  "en": "Ragnaros... here...\n\nThe elders were right to fear the corruption emanating from Blackrock Mountain. A general of the Old Gods! IN OUR WORLD! We must reassess our position here in Kargath. We must decide on whether we stay and fight or run for fear of a new sundering.\n\nBe weary of any further exploration in Blackrock Mountain, Adventurer. A far greater evil than anything that exists in this world resides in those fiery depths.",
+  "files": [
+   "quests/3907-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "0b75020f7e79",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Galamav the Marksman",
+  "quest": "Disharmony of Flame",
+  "en": "My eyes never deceive me, traveler. I see great power in you - enough power, perhaps, to further our cause. Find me at the top of the tower.",
+  "files": [
+   "followup/4718-tauren-male-shaman"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "2fb9d270802a",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadowmage Vivian Lagrave",
+  "quest": "Disharmony of Flame",
+  "en": "You are indeed powerful, adventurer. Come to me if it is more work that you seek.",
+  "files": [
+   "followup/4717-scourge-female-standard"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "12b5de9ef087",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Thunderheart",
+  "quest": "Disharmony of Flame",
+  "en": "The elders have felt a disturbance amongst the elements. The Dark Iron dwarves have summoned a foul spirit into our world that threatens to plague our lands with an eternal draught. This disharmony of flame must be investigated.\n\nTravel to Blackrock Mountain, through the Chasm of Flame, into the quarry. It is there that you shall find this lord of fire: Overmaster Pyron.\n\nEnd the disruption and return to me.",
+  "files": [
+   "quests/3906-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "0ac1c081c72f",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Thunderheart",
+  "quest": "Disharmony of Flame",
+  "en": "This cannot be... it must not be. The destruction of Pyron has merely lifted a veil. Within the depths of Blackrock is a much more insidious source of corruption.",
+  "files": [
+   "quests/3906-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "3d65484b966f",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kalaran Windblade",
+  "quest": "Divine Retribution",
+  "en": "Hear my tale, adventurer.",
+  "files": [
+   "quests/3441-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "26c9c32fe605",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kalaran Windblade",
+  "quest": "Divine Retribution",
+  "en": "Have you heard enough? Are you prepared to act?",
+  "files": [
+   "quests/3441-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "80a1659f56f9",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Mayara Brightwing",
+  "quest": "Doomrigger's Clasp",
+  "en": "There is a chamber, high in Blackrock Spire, that was once called the Hall of Fortune. It was where the Dark Iron dwarves kept their relics, trophies and objects of art.\n\nThat was long ago. It is said the hall has collapsed and is now used for... less savory tasks. But I believe some old dwarven relics may still be found there.\n\nOne such relic is Doomrigger's clasp, with a surface so encrusted with rare gems that it was said to make weep any dwarf who gazes upon it.\n\nThat clasp, Adventurer, is your goal.",
+  "files": [
+   "quests/4764-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "20418e16d39e",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Mayara Brightwing",
+  "quest": "Doomrigger's Clasp",
+  "en": "You found it! So the rumors were true!\n\nThank you, Adventurer. My patron, Count Remington Ridgewell, will be quite pleased to see this addition to this collection.",
+  "files": [
+   "quests/4764-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "5e6a8afbe219",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Tinkee Steamboil",
+  "quest": "Egg Collection",
+  "en": "Adventurer, I'm finally ready for real samples of dragon eggs! Here, take this collectronic module. It's designed to extract a dragon egg and prepare it for transport. Go back to the Rookery and use the module to collect eggs.\n\nAnd don't forget to freeze them first, or they might hatch before you can collect them!\n\nWhen you have enough eggs, bring them to me!",
+  "files": [
+   "quests/4735-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "8c83aadd5b43",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Tinkee Steamboil",
+  "quest": "Egg Collection",
+  "en": "Wow, you got them! The collectronic module worked! I'm a genius!\n\nThank you, Adventurer. My patron will be very pleased to get these eggs...",
+  "files": [
+   "quests/4735-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "a9074e3459aa",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Tinkee Steamboil",
+  "quest": "Egg Freezing",
+  "en": "Adventurer, I've been working hard on a new device, the eggscilloscope! It's designed to project a burst of cold energy at the egg of a black dragon... and freeze it solid! Can you test it for me?\n\nI heard that high up in Blackrock Spire, the dragons have a rookery where they hatch their eggs. That's where you'll have to go to test the eggscilloscope, and then let me know how it worked!\n\nAnd don't worry. Frozen dragon eggs should be harmless. It's the unfrozen ones you have to worry about!",
+  "files": [
+   "quests/4734-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "e564f296f71e",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Tinkee Steamboil",
+  "quest": "Egg Freezing",
+  "en": "It worked? Splendid! I knew it would!\n\nWhile you were gone I was working on a new version of the eggscilloscope. This one has a much longer range.\n\nHere, you can have one in case you go back to Blackrock Spire.",
+  "files": [
+   "quests/4734-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "5c6e0b732325",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Kibler",
+  "quest": "En-Ay-Es-Tee-Why",
+  "en": "Believe it or not, there are people out there willing to pay for the most vile of domesticated beast!\n\nI'd sent Bijou into the Spire to try and collect some of those spire spider eggs but I haven't heard from her in weeks. Maybe you can help me out?\n\nI'll tell you what, Adventurer. Go to Blackrock Spire and collect some spire spider eggs for me. Bring them back here and not only will I give you a little cash, but I'll even domesticate one for you!",
+  "files": [
+   "quests/4862-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "9eb61a8799cd",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Kibler",
+  "quest": "En-Ay-Es-Tee-Why",
+  "en": "What a load! I mean, look at all those eggs! These should bring in a right few gold.\n\nAs promised, here's your own little critter. Don't get bitten!",
+  "files": [
+   "quests/4862-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "56641ccff5f2",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Lokhtos Darkbargainer",
+  "quest": "Favor Amongst the Brotherhood, Dark Iron Ore",
+  "en": "Your offering has been accepted. Favor you have gained. Continue and you shall be allowed access to the ancient trades.",
+  "files": [
+   "quests/6642-complete",
+   "quests/6643-complete",
+   "quests/6644-complete",
+   "quests/6645-complete",
+   "quests/6646-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "f012e8b95820",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hansel Heavyhands",
+  "quest": "Fiery Menace!",
+  "en": "Wouldn't ye know it, every time ol' Hansel wants to take a moment to relax and reflect upon his life, the powers that be give him another job.\n\nMe gots to think, come on! Ye know what I be saying? Come. On.\n\nSo, these here greater lava spiders are causin' a ruckus o' some sort. Oilfist says they shoot fire out their... erm, yea well, anyway, such things upset the children.\n\nI guess we gots to kill 'em. Rather, ye gots to kill 'em.",
+  "files": [
+   "quests/7724-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "cd28464bd6a4",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hansel Heavyhands",
+  "quest": "Fiery Menace!",
+  "en": "I think I'm gettin' a cold. Damn this frigid climate!",
+  "files": [
+   "quests/7724-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "8a1ba42bc30f",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "Final Preparations",
+  "en": "We're nearly there, adventurer. All that is left is to retrieve a few more components so that I can attune the brazier and enable it to beckon forth Lord Valthalak.\n\nTo begin I must ask you to journey forth into Blackrock Spire and slay the orcs therein. They wear bracers that contain trace metals that I will need, so I'll need more than a few to extract the right amount out of them. Then, to complete the imbuing process, you'll need to bring me a Flask of Supreme Power.\n\nGood luck, Adventurer!",
+  "files": [
+   "quests/8994-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "7eeaf0fac3db",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "Final Preparations",
+  "en": "That's it then. I'll extract the metal from the bracers and imbue the brazier with these final components. Then it will be ready for you to summon Lord Valthalak, and finally return his spirit amulet to him.\n\nYou've come quite a distance, Adventurer, don't falter now that the end is in sight!",
+  "files": [
+   "quests/8994-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "089eb7936e5b",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Finkle Einhorn",
+  "quest": "Finkle Einhorn, At Your Service!",
+  "en": "You'll find Malyfous Darkhammer in Everlook, adventurer. Tell him that 'Finkle is A-OK' and that the suit works perfectly.\n\nThen hand him this:\n\n\nI snatched it from the beast's innards during my 'vacation.'\n\nI bet Malyfous could give you a fairly accurate assessment of what he can do with parts from a monster like this!\n\nOh, I suppose you don't know where Everlook is, do you? To Winterspring, fella!",
+  "files": [
+   "quests/m-5047-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "7f571e6b1b64",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Malyfous Darkhammer",
+  "quest": "Finkle Einhorn, At Your Service!",
+  "en": "Alive? Suit worked? And what do we have here?",
+  "files": [
+   "quests/5047-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "e62cc64251ee",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "For The Horde!",
+  "en": "Honor your heroes! On this day, they have dealt a great blow against one of our most hated enemies! The false Warchief, Rend Blackhand, has fallen!",
+  "files": [
+   "followup/6013-orc-male-standard"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "7e8d9510c4f3",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "For The Horde!",
+  "en": "Be bathed in my power! Drink in my might! Battle for the glory of the Horde!",
+  "files": [
+   "followup/6014-orc-male-standard"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "e05eb4d2cffc",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "For The Horde!",
+  "en": "Rend dares make such grand claims because of the protection he is afforded by the black flight.\n\nYou, Adventurer, will find a way to pass through the Halls of Ascension. You will then find 'Warchief' Rend Blackhand and you will destroy him - FOR THE HORDE!\n\n\nThe next time you return to my chambers, you will hold his head high in triumph and then you shall present it to your Warchief. Do this and be honored as a hero of the Horde.",
+  "files": [
+   "quests/4974-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "6c70ecbdbab8",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "For The Horde!",
+  "en": "You have dealt a crippling blow to the forces of Blackrock, Adventurer. With their Warchief slain, the Blackrock legion is once again thrown into the maw of chaos.\n\nIn honor of your heroics, the people of Kalimdor shall be rewarded!",
+  "files": [
+   "quests/4974-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "39b31ee9c77e",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kalaran Windblade",
+  "quest": "Forging the Shaft",
+  "en": "To hold the flawless flame, we will need a shaft and a casing. You must first find a suitable shaft.\n\nThe Dark Iron taskmasters and slavers of the cauldron use weapons of enchanted thorium, an extremely sturdy alloy. If you bring me eight thorium plated daggers, I can break the alloy down and reforge a shaft.",
+  "files": [
+   "quests/3443-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "62b3e36e7e07",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kalaran Windblade",
+  "quest": "Forging the Shaft",
+  "en": "You're an exceptional laborer, Adventurer. Have you ever considered a change of vocation? Perhaps a detective? Junk collector? Oh, I know, one of those silly gnomes that crawl across the beaches of Azeroth with their metal detecting contraptions, looking for lost treasure. Yes, that would be an ideal position for you.",
+  "files": [
+   "quests/3443-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "d5417fcd2563",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Master Smith Burninate",
+  "quest": "Gaining Acceptance",
+  "en": "Keep the residue pouring in!",
+  "files": [
+   "quests/7737-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "8a3317097dc4",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "General Drakkisath's Command",
+  "quest": "General Drakkisath's Command",
+  "en": "From the corpse of the defeated serpent you uncover what appears to be a note of some importance: A letter from his superior, General Drakkisath, concerning protocol.\n\nYour instinct tells you that you should take it to Marshal Maxwell.",
+  "files": [
+   "quests/5089-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "9bf882607c70",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Maxwell",
+  "quest": "General Drakkisath's Command",
+  "en": "The plot thickens...",
+  "files": [
+   "quests/5089-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "facda0bcbf3c",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Maxwell",
+  "quest": "General Drakkisath's Demise",
+  "en": "We battle against these beasts on two fronts: From our capital of Stormwind we fight them from the inside out and here, in the Burning Steppes, we take the battle to their doorstep. We must be vigilant, Adventurer. None should be spared our wrath as none of our own were spared when they struck at our homes and families.\n\nFind this General Drakkisath and destroy him!\n\nThe task certainly will not be a simple one, but the rewards shall be extravagant.",
+  "files": [
+   "quests/5102-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "d335661438f8",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Maxwell",
+  "quest": "General Drakkisath's Demise",
+  "en": "Surely, we will strike against their dragon lords next. Well done, brave soldier of the Alliance! Well done, indeed.",
+  "files": [
+   "quests/5102-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "8a7413ac6b90",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Grark Lorkrub",
+  "quest": "Grark Lorkrub",
+  "en": "Can you not see the power we gain by joining the legion of Blackrock?",
+  "files": [
+   "quests/4122-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "4c14aaf10030",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Lexlort",
+  "quest": "Grark Lorkrub",
+  "en": "I tracked him across the Searing Gorge, through the mountain, and into the Burning Steppes. That traitor was caught red-handed giving the Blackrock orcs vital information about our day to day operations. I'm speaking of Grark Lorkrub.\n\nHe now sits in the Burning Steppes, safely under their protection - or so he thinks.\n\nTake these shackles, Adventurer. Find Grark, place the shackles on him and lead him through Blackrock Mountain. Do this and a tribute is yours.",
+  "files": [
+   "quests/4122-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "f8543b0b4e11",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ragnar Thunderbrew",
+  "quest": "Hurley Blackbreath",
+  "en": "The Dark Iron dwarves, led by the villain Hurley Blackbreath, stole one of the Thunderbrew's best recipes, Thunderbrew Lager. The villains! They don't deserve such a fine brew!\n\nAdventurer, I have a tough task for you. Go to the Blackrock Depths in the Burning Steppes, destroy any kegs of Thunderbrew Lager you find, and bring back our recipe for Thunderbrew Lager!\n\nPlease, get that recipe back, even if you have to turn Blackrock Depths upside down to do it!",
+  "files": [
+   "quests/4126-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "bc7cc0676e78",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ragnar Thunderbrew",
+  "quest": "Hurley Blackbreath",
+  "en": "You found it! Well done! And I hope you gave those Dark Irons, and Hurley Blackbreath, a good thumping!\n\nThe Thunderbrews are at your service, Adventurer. You are a hero of heroes!",
+  "files": [
+   "quests/4126-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "968637de99f9",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Jalinda Sprig",
+  "quest": "Incendius!",
+  "en": "Are you sure Pyron said 'Incendius' when he died?\n\n\nLord Incendius is purported to be a minion of Ragnaros! Oh dear, oh dear... whatever will we do?\n\nDo you think you can handle another mission? I don't have anybody else to send, Adventurer!\n\nWe will never get a team in if Incendius continues to raise Pyron from the ashes.\n\nYou'll have to find and destroy Lord Incendius!",
+  "files": [
+   "quests/4263-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "cc8808ac4da2",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hansel Heavyhands",
+  "quest": "Incendosaurs? Whateverosaur is More Like It",
+  "en": "Oh me achin' feets.\n\nI figured since ye didn't have a luffa...",
+  "files": [
+   "quests/7727-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "8e21969ddfb3",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hansel Heavyhands",
+  "quest": "Incendosaurs? Whateverosaur is More Like It",
+  "en": "Bunions, lad. Me bunions got bunions. How am I supposed to do any sort of killin' with me feet in such disarray? That's why ye're gonna help.\n\nScrange and Burninate tasked me to kill these things so they can send some expeditionary teams down into the Slag Pit lava pools to do some explorin'. Supposedly some incendosaurs or some such nonsense down there causin' all kinds o' problems. Now move along an' don't come back 'til the incendosaur population be extinct.",
+  "files": [
+   "quests/m-7727-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "eb236453bda2",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Taskmaster Scrange",
+  "quest": "JOB OPPORTUNITY: Culling the Competition",
+  "en": "15.9 pounds! That may be a new record for blood and gut weight on apparel! Congratulations, adventurer!",
+  "files": [
+   "quests/7729-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "653a5d0b84a6",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wanted/Missing/Lost & Found",
+  "quest": "JOB OPPORTUNITY: Culling the Competition",
+  "en": "Taskmaster Scrange is looking for a few good men and women to help 'cull the competition' in the Searing Gorge.\n\nIf you are interested in this position, venture out into the Searing Gorge and slaughter every Dark Iron Taskmaster and Dark Iron Slaver that you see.\n\nReturn to Taskmaster Scrange when your clothes are bloody enough.\n\nYou'll know when they're bloody enough so don't ask.",
+  "files": [
+   "quests/7729-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "28d7e4cf4298",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Maxwell",
+  "quest": "Jail Break!",
+  "en": "Amazing, Adventurer. Simply amazing. Windsor stormed through here not five minutes ago. He makes some grand claims but purports that they are supported by his evidence. He is on his way to Stormwind now to confront Bolvar and ... Lady Prestor.",
+  "files": [
+   "quests/4322-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "530910fb0d21",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Windsor",
+  "quest": "Jail Break!",
+  "en": "We need to get out of here, Adventurer. Help me get my gear back from the supply area and free my friends. If we make it out of here, you are to proceed to Morgan's Vigil and speak with Marshal Maxwell. He will give you further instruction.",
+  "files": [
+   "quests/4322-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "e421b3e8920c",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "WANTED",
+  "quest": "KILL ON SIGHT: Dark Iron Dwarves",
+  "en": "By order of Warlord Goretooth, commander of the Kargath Expeditionary Force:\n\nAny and all of General Angerforge's forces within Blackrock Depths must be annihilated.\n\nAngerforge's men are ruthless killers, responsible for the mass murder of the 109th division of the Kargath Expeditionary Force. Heroes are warned to exercise extreme caution when confronting these brutes.\n\nAny person who destroys the first line of General Angerforge's forces in Blackrock Depths shall receive a tribute.",
+  "files": [
+   "quests/4081-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "56dc3979aa87",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warlord Goretooth",
+  "quest": "KILL ON SIGHT: Dark Iron Dwarves",
+  "en": "This first strike should put a crease in Angerforge's pants. Now, move along soldier. I have work to complete, battles to plan, enemies to crush!\n\nCheck the wanted signs for more work.",
+  "files": [
+   "quests/4081-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "78e2b605ace7",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "KILL ON SIGHT",
+  "quest": "KILL ON SIGHT: High Ranking Dark Iron Officials",
+  "en": "By order of Warlord Goretooth, commander of the Kargath Expeditionary Force:\n\nHead of the K.E.F. reconnaissance division, Grandmaster Lexlort, has returned with news of the whereabouts of high ranking Dark Iron officials. Through locked gate, near the heart of the city, they train their forces to snuff out our men. Travel to Blackrock Depths and destroy them!\n\nCompletion of this mission will result in a tribute.",
+  "files": [
+   "quests/4082-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "47303e252283",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warlord Goretooth",
+  "quest": "KILL ON SIGHT: High Ranking Dark Iron Officials",
+  "en": "Angerforge is undoubtedly... angry. Return to me when you receive a third tribute and we shall proceed with Operation: Death to Angerforge. I cannot go into any detail of what this entails, but rest assured, it involves somebody dying.",
+  "files": [
+   "quests/4082-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "d43725bea3a5",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kharan Mighthammer",
+  "quest": "Kharan Mighthammer",
+  "en": "Please, let me explain.",
+  "files": [
+   "quests/4341-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "02f4c4790b0e",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "King Magni Bronzebeard",
+  "quest": "Kharan Mighthammer",
+  "en": "You have been to the smoldering ruins of Thaurissan? Did you happen to run into a pitiful lout named Kharan Mighthammer? The dwarf that was supposedly watching over my baby girl!\n\n\nAnd now she's gone, Adventurer!\n\nI have had my men turn the Steppes upside down. The only clue they have as to the whereabouts of my daughter is that she may be inside the Depths. For all I know, she could be dead!\n\nKharan is supposedly being held prisoner there... find him! I want answers!",
+  "files": [
+   "quests/4341-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "476d1bc2c9ae",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kharan Mighthammer",
+  "quest": "Kharan's Tale",
+  "en": "Please, hear me out before passing judgement!",
+  "files": [
+   "quests/4342-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "e4c4ef4e1bb1",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kharan Mighthammer",
+  "quest": "Kharan's Tale",
+  "en": "As you can see, there was nothing I could have done.",
+  "files": [
+   "quests/4342-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "0c4a19e036f5",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Kibler",
+  "quest": "Kibler's Exotic Pets",
+  "en": "You're probably wondering what I'm doing out here. Look at the cages! Ain't it obvious?\n\nI'm an animal lover, first and foremost, but a salesman by trade. I track down exotic animals for the rich and famous and domesticate the beasts so they behave as proper pets.\n\nNow you're probably wondering, \"What can I do for you, Kibler.\" The answer is simple: Take this here beast cage and find me some worg pups. For that, I'll domesticate a worg for you!",
+  "files": [
+   "quests/4729-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "aad8a613358a",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Kibler",
+  "quest": "Kibler's Exotic Pets",
+  "en": "You got 'em at the perfect time, Adventurer. Any later and they'd be untrainable! Gimmie a minute and I'll have the little fella ready for you to take home.",
+  "files": [
+   "quests/4729-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "8bdec15b168d",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Krinkle Goodsteel",
+  "quest": "Ledger from Tanaris",
+  "en": "Oh, you've seen fit to do some of the work I requested. Excellent. And here I thought you were going to ask me to craft you something.\n\nThese are all perfect... and everything's here. Thank you, adventurer.\n\nMaybe it wouldn't hurt to reward you some... hmm, what would you find useful.",
+  "files": [
+   "quests/4450-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "30d27ef3445d",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wooden Outhouse",
+  "quest": "Ledger from Tanaris",
+  "en": "Oh, you know what? That reminds me.\n\nYou wanna finish up a little job I took up while I was in Tanaris? It's easy...\n\nKrinkle Goodsteel in Gadgetzan was lookin' for some stuff found here in Searing Gorge and a few other places. Maybe you could take a look at the list and then bring it all to him?\n\nI'll just slide his ledger under the door if you're interested. Take that, and the stuff he wants back to him after ya collected it all.",
+  "files": [
+   "quests/4450-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "b9194ed85883",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Chambermaid Pillaclencher's Pillow",
+  "quest": "Look at the Size of It!",
+  "en": "Well, well, well... Isn't this a surprise. The Chambermaid had a gigantic ornate pillow and now it's yours. Evonice Sootsmoker will definitely want to get her grubby little hands all over this item. Take it to her and see if she'll offer you any goodies for your trouble.",
+  "files": [
+   "quests/7704-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "9b27172ea42d",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadowmage Vivian Lagrave",
+  "quest": "Lost Thunderbrew Recipe",
+  "en": "It is rumored that the Dark Iron Hurley Blackbreath has stolen a recipe for ale. This ale, Thunderbrew Lager, is said to infuse its imbiber with great strength and courage. We wish to study the drink. Perhaps, we will find other applications for its virtues... applications more in line with Forsaken objectives.\n\nDelve into Blackrock Depths, find Hurley, take from him the recipe for Thunderbrew lager and bring it to me.\n\nAnd to find him, you may have to entice him by threatening his precious ale.",
+  "files": [
+   "quests/4134-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "de83743747b9",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadowmage Vivian Lagrave",
+  "quest": "Lost Thunderbrew Recipe",
+  "en": "Very good. I will send this recipe to the Apothecarium to be studied, and in time we will unlock its secrets. One day, the dwarves of the Alliance may find the virtues of this drink used against them!\n\nI find that terribly amusing. Perhaps death has an affect on one's sense of humor... do you think?",
+  "files": [
+   "quests/4134-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "dbe71f507cae",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Maxwell",
+  "quest": "Marshal Windsor",
+  "en": "So that good for nothing coward says that Windsor is alive, eh?\n\nSuit up, deputy, you are going in to find him. If Windsor is alive, you are to bring him back. If he's dead, I want proof.\n\n\nI bet you are getting tired of hearing that, aren't you?",
+  "files": [
+   "quests/4241-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "e6f71a7d62cb",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Windsor",
+  "quest": "Marshal Windsor",
+  "en": "Where is he! I'll murder him!",
+  "files": [
+   "quests/4241-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "a60c7faae78a",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Maxwell",
+  "quest": "Maxwell's Mission",
+  "en": "This information fills in the gaps to our otherwise impeccable intelligence of Blackrock Spire.\n\nThe attack must be decisive, Adventurer.\n\nFirst their war master, the troll Voone, must be destroyed. Without his battle plans, the Blackrock orcs will be thrown into chaos.\n\nYou must then take out the ogre Highlord, Omokk. The cowardly ogres of Blackrock are powerless without his leadership.\n\nLastly, the overlord of the citadel: Wyrmthalak. With Wyrmthalak dead, their central command unit is without a conduit.",
+  "files": [
+   "quests/5081-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "874ff42f1e8a",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Maxwell",
+  "quest": "Maxwell's Mission",
+  "en": "Excellent work, Adventurer. At the very least, you have bought us more time - precious, precious time.",
+  "files": [
+   "quests/5081-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "f1a0c03a8128",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Count Remington Ridgewell",
+  "quest": "Mayara Brightwing",
+  "en": "An agent of mine, Mayara Brightwing, was sent to the Burning Steppes to scout the ruined city of Thaurissan. That destroyed city of the Dark Iron dwarves may hide objects of great value... objects that would fit nicely into our family museum.\n\nMayara says she found something and will need aid in retrieving it, but it is not in Thaurissan. Instead, a foray into Blackrock Spire will be required.\n\nI do not know the details, but if interested then speak with Mayara in the Burning Steppes.",
+  "files": [
+   "quests/4766-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "6dc945a7a1f3",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Mayara Brightwing",
+  "quest": "Mayara Brightwing",
+  "en": "You came from Stormwind? Wonderful -- I know of an object of art that Remington would kill to have in his museum, but extracting it won't be easy.\n\nThat's where you come in.",
+  "files": [
+   "quests/4766-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "7646df0d5c5c",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "Mea Culpa, Lord Valthalak",
+  "en": "All is now ready, Adventurer.\n\nWhen alive, Lord Valthalak used to inhabit what is now The Beast's chamber. Go there and use the Brazier of Beckoning to summon forth Lord Valthalak. It will reincorporate him, so he'll have to be killed again. I'd take care of The Beast first, and be sure take enough friends along to survive the upper portion of Blackrock Spire.\n\nOnce you've dispatched Valthalak, use the amulet on his corpse. With his spirit reunified, he'll likely want his amulet back, as well.\n\nGood luck!",
+  "files": [
+   "quests/8995-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "70877489cecf",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Bijou",
+  "quest": "Message to Maxwell",
+  "en": "I'm a goblin of my word, traveler. Now listen closely:\n\nThese orcs are used primarily as beasts of burden and cannon fodder for the black dragonflight!\n\nTheir true leader is none other than Nefarian, brood of Deathwing. I've also discovered the location of Nefarian's subordinates in this part of the citadel.\n\nTake this map to Marshal Maxwell in the Burning Steppes. It has the location of these fiends marked for easy identification.",
+  "files": [
+   "quests/5002-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "3814d005f3c9",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Maxwell",
+  "quest": "Message to Maxwell",
+  "en": "This coincides with much of what we already knew. Regardless, it is interesting and rather unfortunate information.\n\nThe markings on this map will prove valuable in thinning the Blackrock menace.",
+  "files": [
+   "quests/5002-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "3ab3d4207c90",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "More Components of Importance",
+  "en": "Adventurer, listen closely. Now that we have the location of the last amulet piece, we still need another component to suffuse the brazier with; something that will provide a focus strong enough to entice the spirit of my deceased, former comrade.\n\nIsalien, our priestess, grew up in Winterspring at Starbreeze Village. I need you to gather a Starbreeze Village Relic from the Frostmaul giants of Frostwhisper Gorge in southern Winterspring, who are known for raiding to the north from time to time.",
+  "files": [
+   "quests/8985-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "2f7ed7852f06",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "More Components of Importance",
+  "en": "A job well done, Adventurer. I will imbue the essence of the relic into the brazier.\n\nNow all that is left is to go to the Shrine of Eldretharr in the east wing of Dire Maul, and use the brazier to summon forth the spirit of my former cohort, Isalien. Her spirit has been corrupted by her possession of the piece of Valthalak's amulet, and the portion of his soul within it.\n\nOh, by the way, I had some leftover bloodkelp from your trip to Alcaz Isle, so I made it into some potions for you. Take your pick!",
+  "files": [
+   "quests/8985-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "7f55d37dcaeb",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "More Components of Importance",
+  "en": "Adventurer, listen closely. Now that we have the location of the last amulet piece, we still need another component to suffuse the brazier with; something that will provide a focus strong enough to entice the spirit of my deceased, former comrade.\n\nMor Grayhoof, our most prominent druid, had many close friends amongst the Cenarion Circle, some of which have fallen to the silithid. I need you to retrieve some Druidical Remains from the silithid that inhabit the environs of Hive'Regal in southeastern Silithus.",
+  "files": [
+   "quests/8986-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "9e2f9150465c",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "More Components of Importance",
+  "en": "A job well done, Adventurer. I will imbue the essence of the remains into the brazier.\n\nNow all that is left is to go to the lower portion of Blackrock Spire, to the chamber where War Master Voone resides in Tazz'Alaor, and use the brazier to summon forth the corrupted spirit of my former cohort, Mor Grayhoof. He cannot rest until the amulet piece is taken from him.\n\nOh, by the way, I had some leftover bloodkelp from your trip to Alcaz Isle, so I made it into some potions for you. Take your pick!",
+  "files": [
+   "quests/8986-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "10d608b63f1b",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "More Components of Importance",
+  "en": "Adventurer, listen closely. Now that we have the location of the last amulet piece, we still need another component to suffuse the brazier with; something that will provide a focus strong enough to summon the remains of my deceased, former comrades.\n\nThe siblings, Jarien and Sothos, were believers in the way of the Scarlet Crusade. They aspired to knighthood within that vile organization. Go to Tyr's Hand in Eastern Plaguelands and retrieve a Brilliant Sword of Zealotry from the praetorians there.",
+  "files": [
+   "quests/8987-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "9e66baf25e11",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "More Components of Importance",
+  "en": "A job well done, Adventurer. I will imbue the essence of the sword into the brazier.\n\nNow all that is left is to get into The Crimson Throne inside The Scarlet Bastion at Stratholme, and use the brazier to summon forth the remains of my former cohorts, Jarien and Sothos. Their souls have been twisted further by their possession of Valthalak's amulet piece and his spirit within.\n\nOh, by the way, I had some leftover bloodkelp from your trip to Alcaz Isle, so I made it into some potions for you. Take your pick!",
+  "files": [
+   "quests/8987-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "6aae6561dd15",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "More Components of Importance",
+  "en": "Adventurer, listen closely. Now that we have the location of the last amulet piece, we still need another component to suffuse the brazier with; something that will provide a focus strong enough to entice the spirit of my deceased, former comrade.\n\nAn ogre necromancer that traveled with us, Kormok, delighted in summoning forth the souls of the banished dead of Purgation Isle, off the south coast of the Hillsbrad Foothills. Go there and retrieve some Soul Ashes of the Banished from their remains.",
+  "files": [
+   "quests/8988-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "d8bf9f91558e",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "More Components of Importance",
+  "en": "A job well done, Adventurer. I will imbue the essence of the ashes into the brazier.\n\nNow all that is left is to get into Scholomance, to Ras Frostwhisper's chamber, and use the brazier to summon forth the spirit of my former cohort, Kormok. The amulet piece, and Valthalak's spirit within, has corrupted him even further, and he will not rest until you forcibly take it from him.\n\nOh, by the way, I had some leftover bloodkelp from your trip to Alcaz Isle, so I made it into some potions for you. Take your pick!",
+  "files": [
+   "quests/8988-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "a411adb85cc6",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ragged John",
+  "quest": "Mother's Milk",
+  "en": "This is gonna make the best ale yet!\n\nEh, what did you think I was gonna use this for? Poison or something??\n\nCrazy kids...",
+  "files": [
+   "quests/4866-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "e6465a3a1244",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Myranda the Hag",
+  "quest": "Oculus Illusions",
+  "en": "So the traveler wishes to become one of the Black Flight, eh?\n\nThe creation of the illusion you require is trivial, but the components required for the divination are quite difficult to obtain. Rexxar and the Warchief have entrusted you with this mission, so Myranda must assume you as capable.\n\nTravel to the upper citadel of Blackrock Spire and slay enough of the black dragonspawn to fill up one of your packs with their eyes.\n\nReturn to Myranda when you have gathered enough of the reagent.",
+  "files": [
+   "quests/6569-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "448652379f95",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Myranda the Hag",
+  "quest": "Oculus Illusions",
+  "en": "Let Myranda have a look, traveler.\n\nOh yes, these will do nicely.\n\nWith these reagents, Myranda will create for you a medallion that will grant an illusion capable of fooling the black dragonflight's gatekeeper.",
+  "files": [
+   "quests/6569-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "7c280ef291a3",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Baristolth of the Shifting Sands",
+  "quest": "Only One May Rise",
+  "en": "There is no time to waste! A hero must be found! The task I give will require an army to complete but only one may rise from the throng of would be champions to take on the burden and responsibility of an ally of the Brood.\n\nWithin the lair of the Lord of Blackrock is a most cruel beast. The Broodlord Lashlayer guards the Halls of Strife, blocking the way into Nefarian's inner sanctum. Slay the foul aberration and return his head to me. Do this and you may begin the next step of your journey.",
+  "files": [
+   "quests/8288-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "b4edd1b55261",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Baristolth of the Shifting Sands",
+  "quest": "Only One May Rise",
+  "en": "Could you be the first to earn favor among the Bronze Flight in a thousand years?",
+  "files": [
+   "quests/8288-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "b7563412c628",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warlord Goretooth",
+  "quest": "Operation: Death to Angerforge",
+  "en": "You have done an exemplary job, Adventurer. It is now time to send you on your last mission.\n\nGeneral Angerforge, the Dark Iron responsible for coordinating the attacks on the 109th division of the K.E.F. and the mass slaughter of our forces must be brought to justice.\n\nThis will undoubtedly be your most grueling mission, but should you succeed, you will be richly rewarded.",
+  "files": [
+   "quests/4132-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "b56d7d32bfa7",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warlord Goretooth",
+  "quest": "Operation: Death to Angerforge",
+  "en": "Finally! The villain been brought to justice! You are a remarkable individual, Adventurer. Wear this medallion as a symbol of your stalwart dedication to the Horde and the K.E.F.",
+  "files": [
+   "quests/4132-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "6fb17b8990e8",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Bijou",
+  "quest": "Operative Bijou",
+  "en": "I won't lie to you, traveler. I needed the money! Kibler pays very, very well - much better than the K.E.F. ever could.\n\nBut don't doubt my loyalties! Why do you think I'm down here? To get that crazy goblin some exotic animal eggs or something equally inane? No, only someone truly daft would come to Blackrock Spire to collect pets. Yep, I don't reckon too many people like that exist in this world.\n\n\nThe last thing we need are those kinds of people breeding.",
+  "files": [
+   "quests/4981-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "48d0a559a588",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Lexlort",
+  "quest": "Operative Bijou",
+  "en": "Never trust a goblin. That's what it comes down to, Adventurer.\n\nBijou is her name - one of our slipperiest operatives. I found out she was working for some shady exotic pet dealer out of the Burning Steppes named Kibler, in essence, two timing us. Worse yet, she was using Horde funds to finance her operations.\n\nI want her brought back here alive.\n\nShe was last seen entering Blackrock Spire. Find her and bring her back.\n\nAnd Adventurer, do not let her sweet talk you.",
+  "files": [
+   "quests/4981-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "7856a668fa3e",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Astarii Starseeker",
+  "quest": "Prayer to Elune",
+  "en": "Elune smiles upon you this eve, Adventurer. You have returned a lost soul to her. Please accept this as a token of our gratitude.",
+  "files": [
+   "quests/3378-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "f5c88fc3c03a",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Zamael Lunthistle",
+  "quest": "Prayer to Elune",
+  "en": "Will you assist me, mortal? Hear my tale.",
+  "files": [
+   "quests/3377-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "bb5bb34adb40",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Zamael Lunthistle",
+  "quest": "Prayer to Elune",
+  "en": "I have accepted my fate here in this cage, but the prayer must be found.",
+  "files": [
+   "quests/3377-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "c7207257feca",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Zamael Lunthistle",
+  "quest": "Prayer to Elune",
+  "en": "Will you assist me, mortal? Will you find the prayer to Elune?\n\nAs I stated, the prayer was etched onto a golden tablet. One of these idol worshipping scoundrels must have it on their person.\n\nIf you do recover my prayer, take it to Astarii Starseeker in Darnassus. It matters little that my faith has been rekindled after the countless malevolent actions that I have taken against this world and its inhabitants, but my prayer must be heard. Absolution is the last thing I expect.",
+  "files": [
+   "quests/3378-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "7261c3a20a1b",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Grark Lorkrub",
+  "quest": "Precarious Predicament",
+  "en": "Do you truly believe that you will make it to your rendezvous point with me in custody? You actually expected to break into a heavily fortified Blackrock fortress to capture a prized asset of theirs without alerting anyone or anything to your presence?\n\nYou will be destroyed!",
+  "files": [
+   "quests/4121-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "f129e9215f67",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Lexlort",
+  "quest": "Precarious Predicament",
+  "en": "Your heroics will not go unrecognized, Adventurer. You have earned this tribute. The Warlord will speak with you now in regards to the final mission.",
+  "files": [
+   "quests/4121-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "ecf8659c4796",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Helendis Riverhorn",
+  "quest": "Put Her Down",
+  "en": "You have no doubt seen the worgs which the Blackrock orcs command.\n\nIt is curious - no matter how many we destroy, their numbers never dwindle. My scouts have reported that the worgs are bred, trained, and ultimately exported from Blackrock Spire: capital city of the Blackrock orcs. You must travel to Blackrock Spire and discover the source of this menace. Discover... and destroy.\n\nGood luck, Adventurer. May Cenarius protect you...",
+  "files": [
+   "quests/4701-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "42ea06dba2fe",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Helendis Riverhorn",
+  "quest": "Put Her Down",
+  "en": "Do not dwell upon her suffering, Adventurer. The beast was corrupt - a product of dark magic. You have done the Alliance a great service and you shall be rewarded.",
+  "files": [
+   "quests/4701-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "fd0e25d3efa9",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Enohar Thunderbrew",
+  "quest": "Ragnar Thunderbrew",
+  "en": "Ho, adventurer. I heard that Ragnar Thunderbrew is steaming mad about someone stealing his ale. He's looking for stalwart adventurers, and willing to pay plenty.\n\nTalk to Ragnar if you're interested. He's at the Thunderbrew Distillery in Kharanos, in Dun Morogh.",
+  "files": [
+   "quests/4128-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "6e41333cbed7",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ragnar Thunderbrew",
+  "quest": "Ragnar Thunderbrew",
+  "en": "You're right I'm mad! I've been robbed! Robbed of one of our family recipes! How dare they! As if I didn't have enough cause to hate the Dark Iron dwarves! Now, oh... now they're in for it!",
+  "files": [
+   "quests/4128-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "c44f5587fa20",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Altar of Suntara",
+  "quest": "Release Them",
+  "en": "You place the mysterious artifact on the altar of Suntara.",
+  "files": [
+   "quests/3372-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "6b6922a5e667",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Master Smith Burninate",
+  "quest": "Restoring Fiery Flux Supplies via Kingsblood",
+  "en": "There's always room for more fiery flux, junior. Keep it comin'... unless I tell you to stop.",
+  "files": [
+   "quests/7736-complete",
+   "quests/8241-complete",
+   "quests/8242-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "0c0f5967150b",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "Return to Bodley",
+  "en": "He really said all of that? Wow, I can't believe he's going to call off the spectral assassins and stalkers, even if he did hint at causing my living companions further harm in the future.\n\nThis is a great day, Adventurer! You've accomplished what few ever could, and absolved us, at least in part, of some of our past sins.\n\nThank you! As a sign of appreciation, I'd like to give you this. You can use it to summon forth spirits at the same haunted locations that you already have, and a few others, too.",
+  "files": [
+   "quests/8996-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "3a5965d36ef3",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Yuka Screwspigot",
+  "quest": "Ribbly Screwspigot",
+  "en": "My brother Ribbly has always been a drain to his family, taking our money and wasting it on one scheme after another.\n\nWell, his last scheme must have been his worst, because Baron Revilgaz of Booty Bay just put a price on poor Ribbly's head. I can't tell you how happy this makes the Screwspigots! Our little Ribbly's finally worth something!\n\nBut now he's hiding out, deep in Blackrock Depths. Please, find him and bring him to me!\n\nOr, if he won't come, then that's ok... just bring me his head.",
+  "files": [
+   "quests/4136-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "ae7abdeb9ea0",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Yuka Screwspigot",
+  "quest": "Ribbly Screwspigot",
+  "en": "Aha! You found him! And... it appears that my little brother didn't want to come quietly. It's a pity. I would have liked to see the look on his face when I told him our plans to turn him in to Revilgaz.\n\nThank you, Adventurer. You've made my family very happy. And Ribbly's never looked as peaceful as he does now.",
+  "files": [
+   "quests/4136-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "bb0a5148b86a",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Curator Thorius",
+  "quest": "Rise, Obsidion!",
+  "en": "This... this cannot be. My own brother? He set this all up?\n\n\nHe betrayed me, he betrayed Ironforge! It seems as if the influence of the Old Gods is still strong in these lands. I fear that if my brother - a once noble and honorable man - was so easily turned to the will of Ragnaros, no one is safe.",
+  "files": [
+   "quests/3566-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "b944ac92a794",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Dying Archaeologist",
+  "quest": "Rise, Obsidion!",
+  "en": "It... It... It was all a trap.\n\nForgive... me.\n\nKill the bastard... Kill him for us... for Thorius.",
+  "files": [
+   "quests/3566-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "8f5b2732ee47",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Private Rocknot",
+  "quest": "Rocknot's Ale",
+  "en": "What's this? Ah! It smells like Dark Iron Ale! Drink has blurred my sight, but I can tell that you, sir, are a real friend!",
+  "files": [
+   "quests/m-4295-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "c4cc74205ef8",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Taskmaster Scrange",
+  "quest": "STOLEN: Smithing Tuyere and Lookout's Spyglass",
+  "en": "Fantastic work! Now for your reward.",
+  "files": [
+   "quests/7728-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "6785e64dfd58",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wanted/Missing/Lost & Found",
+  "quest": "STOLEN: Smithing Tuyere and Lookout's Spyglass",
+  "en": "The following items have been stolen:\n\n*One Dark Iron Tuyere.\n\n*One Lookout's Spyglass.\n\nA reward is being offered to individuals who find and return these pilfered items.\n\nThe Thorium Brotherhood is certain that these items were stolen by unscrupulous and jealous Dark Iron dwarves that inhabit the Searing Gorge.\n\nThe spyglass in question was an excellent tool for the lookouts and the tuyere was an irreplaceable smithing tool.\n\nShould you find the missing items, return them to Scrange.",
+  "files": [
+   "quests/7728-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "7c439cbc1715",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Inconspicuous Crate",
+  "quest": "Scrying Goggles? No Problem!",
+  "en": "You just want his scrying goggles? Great! That will be no problem... Just give me a minute to... Hey! Where the... Dagnabbit!\n\nWell, there's some bad news and some worse news. The bad news is that I lost the goggles. The worse news is that I lost them when I was nosing around in the Molten Core last month. Yep, the Molten Core... I guess that concludes our business! Bye!",
+  "files": [
+   "quests/8578-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "c0baae0b8b14",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Narain Soothfancy",
+  "quest": "Scrying Goggles? No Problem!",
+  "en": "Outstanding! Now where did I put that 500 pound chicken and Volume II of \"Draconic For Dummies???\" Oh, and here's a little something for all your hard work!",
+  "files": [
+   "quests/8578-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "7d504a62a7ed",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Vaelan",
+  "quest": "Seal of Ascension",
+  "en": "As you can see, the unadorned seal has three empty sockets. Each of those sockets must be filled with a gemstone representing the leadership's command. Finally, Overlord Wyrmthalak, master of the lower citadel, must forge the seal in the flames of the Black Dragonflight.\n\nUnderstand this, mortal: the chance that one of the three generals of the lower citadel would carry a gemstone at any given time is rare. You must be vigilant in your quest. Remain determined!",
+  "files": [
+   "quests/4742-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "1a4c30859ffe",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Vaelan",
+  "quest": "Seal of Ascension",
+  "en": "The Unforged Seal of Ascension is now ready. It is time for the final step.",
+  "files": [
+   "quests/4742-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "d628e5dd5c01",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Vaelan",
+  "quest": "Seal of Ascension",
+  "en": "Few of the black dragonkin, outside of those in the upper citadel, have the ability to forge the seal with their own flaming breath. Wyrmthalak is one such dragonkin, but his will is unbreakable.\n\nYou must travel to the Wyrmbog in Dustwallow Marsh. It is there that you will find an ancient drake known as Emberstrife. You must break his will, Adventurer. Break it and use this orb on his weakened form. You will have scant seconds to control his mind and fan the flames that will forge the seal.",
+  "files": [
+   "quests/4743-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "ed1cf1991e2f",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Vaelan",
+  "quest": "Seal of Ascension",
+  "en": "Stand steady while I cast the final invocation of protection.\n\n\nThe Seal of Ascension is complete...\n\nKnow this, I have imbued the artifact with some powerful protective wards. In your darkest hour, when all appears to be lost, the might of the red flight will be at your disposal.",
+  "files": [
+   "quests/4743-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "6db64e2bd2d0",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Squire Maltrake",
+  "quest": "Set Them Ablaze!",
+  "en": "What will we do with them, master? They are of no use to us anymore.",
+  "files": [
+   "followup/4459-human-male-warrior"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "3f18f3d017e0",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Squire Maltrake",
+  "quest": "Set Them Ablaze!",
+  "en": "Right away, master!",
+  "files": [
+   "followup/4468-human-male-warrior"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "4171ab0deb7e",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Squire Maltrake",
+  "quest": "Set Them Ablaze!",
+  "en": "Listen well, Adventurer. While the four towers can never be destroyed, you can use the torch of retribution to set them ablaze for a very long period of time: A fire that no element or force can subdue.\n\nWhile they are ablaze, no guard or sentry unit can inhabit the watch posts and thus, their first line of defense is nullified.\n\nYou must enter each tower and use the Torch of Retribution within their fortifications. Beware the elite sentry units of the Dark Irons, Adventurer.",
+  "files": [
+   "quests/3463-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "47334d781833",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Squire Maltrake",
+  "quest": "Set Them Ablaze!",
+  "en": "It is glorious! Is it not glorious master?",
+  "files": [
+   "quests/3463-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "42e27237efcc",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kalaran Windblade",
+  "quest": "Squire Maltrake",
+  "en": "Speak with my envoy, Squire Maltrake. He will further instruct you as to the use of the Torch of Retribution.",
+  "files": [
+   "quests/3462-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "f11917105f73",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Squire Maltrake",
+  "quest": "Squire Maltrake",
+  "en": "Are you prepared to make your strike?",
+  "files": [
+   "quests/3462-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "1b2551bccbc4",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Curator Thorius",
+  "quest": "Suntara Stones",
+  "en": "In the name of the Light, he will have his wish. This I vow.",
+  "files": [
+   "quests/3368-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "328f9240e9ce",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Dorius Stonetender",
+  "quest": "Suntara Stones",
+  "en": "I'm badly injured, traveler. Feel... light headed... World spinning... Bleeding... internally.\n\nI must get back to Ironforge. Help me, Adventurer.",
+  "files": [
+   "quests/3367-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "d8c50927ba31",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Singed Letter",
+  "quest": "Suntara Stones",
+  "en": "This letter was dropped by Dorius when he was shot.",
+  "files": [
+   "quests/3367-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "018c0e6f3ed9",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Singed Letter",
+  "quest": "Suntara Stones",
+  "en": "Brother,\n\nIf you are reading this letter, I am no more. How it got to you, I do not know, but thank and reward the ones responsible.\n\nAbout the stones: They exist and the Dark Irons have them in their possession. Their leader, Lathoric the Black, is using the power of the stones to enslave my excavation team. They were taken to the cauldron. Their minds are twisted, working night and day to complete something called Obsidion.\n\nHelp them, brother. It is the final wish of a dead man.\n\n-Dorius",
+  "files": [
+   "quests/3368-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "40782be2ac3e",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kharan Mighthammer",
+  "quest": "The Bearer of Bad News",
+  "en": "You must take this information back to King Magni, Adventurer. He will know what to do!",
+  "files": [
+   "quests/4361-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "b12586ee5906",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Anthion Harmon",
+  "quest": "The Challenge",
+  "en": "You've recovered part of the medallion, Adventurer?",
+  "files": [
+   "quests/9015-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "1002cad2d23c",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Falrin Treeshaper",
+  "quest": "The Challenge",
+  "en": "Heed me well, Adventurer. For the banner to work in the desired way, you will need to step into the Ring of the Law in Blackrock Depths. Allow yourself to be sentenced by High Justice Grimstone and place the banner firmly on the ground in a sign of defiance.\n\nYour victim will not be able to restrain himself and shall enter the fray filled with a desire to fight you. Once you obtain that which you seek, go back to Anthion.",
+  "files": [
+   "quests/9015-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "e16749e66f81",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadowmage Vivian Lagrave",
+  "quest": "The Darkstone Tablet",
+  "en": "The Darkstone Tablet holds the writings of the long-dead dwarf Urheld Darkstone. An alchemist of great skill, he was thought insane by his contemporaries and, hence, did not share his research.\n\nBut he did etch it onto tablets, and I believe one such tablet lies in Blackrock Spire, in a chamber once named the Hall of Fortune. I know not what it is now called, for few enter Blackrock and return.\n\nBut if you are willing to brave its dangers and return to me with the tablet, your reward will be great.",
+  "files": [
+   "quests/4768-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "d4b74ad68482",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadowmage Vivian Lagrave",
+  "quest": "The Darkstone Tablet",
+  "en": "Excellent. The formulae etched into this tablet will consume days of research, but I am confident such research will bear sweet fruit.\n\nThank you, Adventurer. You have been invaluable to us.",
+  "files": [
+   "quests/4768-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "5090f5ec96db",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "The Eastern Kingdoms",
+  "en": "You bring excellent information, Adventurer.\n\nAs Warchief, it is my duty to do what is best for the Horde. To ensure that the generations that come after us are not forced into a hopeless existence.\n\nThe opportunity to shape our future alliances has fallen into our collective laps. A move to help the dwarves could greatly strengthen our relationships in the Eastern Kingdoms. This, then, is why you must not fail!\n\nAre you prepared?",
+  "files": [
+   "quests/4002-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "51d4f7599059",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "The Eastern Kingdoms",
+  "en": "There is no going back beyond this point, Adventurer.",
+  "files": [
+   "quests/4002-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "61af01c1a517",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "King Magni Bronzebeard",
+  "quest": "The Fate of the Kingdom",
+  "en": "It would seem as if my old adversary, Dagran Thaurissan, has me and the kingdom of Ironforge at his mercy.\n\nYou may be my last hope, Adventurer. You must rescue my dear daughter, Moira!\n\nThere is only one way to make sure that the spell Thaurissan has cast on Moira is broken: Kill him.\n\nAnd Adventurer, do not harm her! Remember, she is being controlled by Thaurissan! The things she may do or say are a result of Thaurissan's evil spell!",
+  "files": [
+   "quests/4362-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "011cdf46aa21",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Princess Moira Bronzebeard",
+  "quest": "The Fate of the Kingdom",
+  "en": "Why???",
+  "files": [
+   "quests/4362-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "75223c104032",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Ironboot",
+  "quest": "The Final Tablets",
+  "en": "While I look over the third and fourth tablets of Mosh'aru, you must find the fifth and sixth! It will not be easy, for they are held by the Smolderthorn trolls within Blackrock Spire. The spire is a dark mountain of fire between the Burning Steppes and the Searing Gorge.\n\nGood luck, Adventurer. Blackrock Spire is no place for decent folk...",
+  "files": [
+   "quests/4788-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "5c5d5ed2f424",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Ironboot",
+  "quest": "The Final Tablets",
+  "en": "Unbelievable! You found them! You truly are a hero, Adventurer!\n\nThat's a good thing, because I've been reading the tablets you brought me before, and from what I gathered... we're going to need a hero to stop what's coming...",
+  "files": [
+   "quests/4788-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "3eeea0abc4f0",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kalaran Windblade",
+  "quest": "The Flame's Casing",
+  "en": "We need one final piece to form the torch.\n\nIn the mountains to the northwest you will find a large encampment of Twilight's Hammer. It is rumored that they carry symbols and idols that pay homage to their god. These symbols and idols could carry sufficient enchantment to form a magical casing. Bring me a single symbol of Ragnaros and I will try to extract the magic from the item to create the casing.",
+  "files": [
+   "quests/3452-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "9ce17db347ff",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kalaran Windblade",
+  "quest": "The Flame's Casing",
+  "en": "The symbol radiates foul magic; perfectly suited for our task.",
+  "files": [
+   "quests/3452-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "7b95115345d3",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kalaran Windblade",
+  "quest": "The Flawless Flame",
+  "en": "You have made the right decision, Adventurer.\n\nWe must strike where we will do the most damage: the four sentry towers.\n\nWith the four towers in flames, we can initiate an offensive before they have time to react.\n\nYou will need the proper tool to set the towers ablaze. To make the tool requires some materials.\n\nBring me four hearts of flame and four golem oil and I shall craft the torch of flawless flame.\n\nThe golems and elementals in these lands should be your first target.",
+  "files": [
+   "quests/3442-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "c4064104fd71",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kalaran Windblade",
+  "quest": "The Flawless Flame",
+  "en": "Well done, Adventurer. We are almost ready.",
+  "files": [
+   "quests/3442-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "5be8de7ddd8d",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Oralius",
+  "quest": "The Good Stuff",
+  "en": "Captain Winky tells me that the Dark Irons in the Depths got all the good stuff. Ain't that right, Winky?\n\n\nARRR MATEY! IT BE RIGHT!\n\nSee what I'm saying? You need to get in there and bring me back some samples of the good stuff.\n\nGet in there and shake your moneymaker!",
+  "files": [
+   "quests/4286-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "3159a3e3e77c",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Oralius",
+  "quest": "The Good Stuff",
+  "en": "OH WONDERFUL!\n\n\nDELICIOUS! Look at all these goodies!\n\nTake one for yourself, Adventurer. There's plenty to go around.",
+  "files": [
+   "quests/4286-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "d98e77a3d07b",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Maxwort Uberglint",
+  "quest": "The Heart of the Mountain",
+  "en": "For years I have sought a certain gem. It is called the Heart of the Mountain and it's the size of your fist! The Dark Iron dwarves have it locked in their vault and, try as I may, they won't let me purchase it.\n\nSo I must resort to force.\n\nFight your way to the Lower Vault of Blackrock Depths, breach its secret safe and gain the Heart. To do that, you must defeat Watchman Doomgrip, and he won't appear until you've opened every relic coffer in the vault!\n\nGood luck.",
+  "files": [
+   "quests/4123-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "149d99be2369",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Maxwort Uberglint",
+  "quest": "The Heart of the Mountain",
+  "en": "You have the heart! Amazing! It is even more beautiful than I imagined!\n\nPlease, Adventurer, take this as payment!",
+  "files": [
+   "quests/4123-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "8b09ad8d949c",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Margol's Horn",
+  "quest": "The Horn of the Beast",
+  "en": "The gigantic horn has numerous scratches and cracks. An unusual metal object is lodged into the rough surface.\n\nUpon further examination, you notice that the metal is actually a broken axe head. On the metal, the following words are etched:\n\nProperty of Mountaineer Pebblebitty.\n\nWhen you try and dislodge the broken axe head, it shatters into a million pieces.\n\nWoops!",
+  "files": [
+   "quests/3181-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "3b04a5a02408",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Mountaineer Pebblebitty",
+  "quest": "The Horn of the Beast",
+  "en": "What have you got there? A fake obviously!\n\nI've been face to face with Margol and I know for a fact that her horn is at least eight times larger than the one you've got in your hands, Adventurer. You probably got that off of a stormsnout in the Barrens. No sir, you can't fool Pebblebitty!",
+  "files": [
+   "quests/m-3181-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "5fbd77f64f79",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Grimesilt Outhouse Key",
+  "quest": "The Key to Freedom",
+  "en": "The small brass key looks simple enough.. The only thing that seems to make it stand out are some words scratched into the head of it:\n\n\"Dark Iron Outhouse - Do Not Duplicate.\"\n\nYou have no idea what it means or what it will lead to.",
+  "files": [
+   "quests/4451-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "eb96da185dd1",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Locheed",
+  "quest": "The Key to Freedom",
+  "en": "Ach! Thank you so much, adventurer! I'm free! Finally!",
+  "files": [
+   "followup/5407-dwarf-male-grim"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "279ddc5f00a9",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Locheed",
+  "quest": "The Key to Freedom",
+  "en": "You take care of yourself! I'm gettin' out o' here.",
+  "files": [
+   "followup/5408-dwarf-male-grim"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "cfc500bdf676",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wooden Outhouse",
+  "quest": "The Key to Freedom",
+  "en": "Well, I'll be! How in tarnation!? You found the key! I knew them blasted Dark Irons were hiding it after they locked me in here! Thank ya so much, Adventurer. You're the greatest! Now, just turn the key and let ol' Locheed outta here!",
+  "files": [
+   "quests/4451-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "ac09fbf3073b",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadowmage Vivian Lagrave",
+  "quest": "The Last Element",
+  "en": "There is work to be had for those venturing into the depths, Adventurer.\n\nThe Dark Irons have mastered creation of extremely powerful golems.\n\nInitial reports from our spies indicate that the dwarves use a unique power source to give their creations incomparable killing power.\n\nJust imagine what we could do with our abominations if we could get our hands on this essence of the elements! Turn that city upside down if you must, but do not return until you have found the essence! Payment will be worth the risk.",
+  "files": [
+   "quests/7201-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "8258a09aa187",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadowmage Vivian Lagrave",
+  "quest": "The Last Element",
+  "en": "Wonderful! I will have these sent by courier to the Undercity at once!\n\nAs for you - here is payment, as promised. Keep the change, you filthy beast!",
+  "files": [
+   "quests/7201-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "932486afb7ba",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "The Left Piece of Lord Valthalak's Amulet",
+  "en": "My friend, Mor Grayhoof, was the first to fall victim to possession of a piece of Lord Valthalak's amulet, and the corrupting spirit fragment that it contains. After stealing Valthalak's spellbook and amulet, we fled for our lives from the upper portion of Blackrock Spire. Along the way, Mor fell into the lower portion of the spire.\n\nLater, we discovered that he survived the fall, only to be captured and tortured by War Master Voone. A few spectral assassins snuck in and slew him right in front of Voone.",
+  "files": [
+   "quests/8966-accept",
+   "quests/8989-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "77c2fc79f924",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "The Left Piece of Lord Valthalak's Amulet",
+  "en": "You have done a great thing, Adventurer. One spirit rests in peace, but there is still much work to be done before we can put all of this behind us.\n\nUnfortunately, I do not know the location of the one who died with the right piece of the amulet in their possession. But do not fear; in life I was a dabbler in the art of divination, so I have another task for you, which is going to enable us to ferret out the final piece.",
+  "files": [
+   "quests/8966-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "3ec7c660743b",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Galamav the Marksman",
+  "quest": "The Pack Mistress",
+  "en": "Some say the worg controlled by the Blackrock orcs are the creation of a supernatural force. Others say they are not true worg but instead a breed of demon dog, granted to the orcs by a fallen pit lord.\n\nThe truth is far less contrived but every bit as frightening. The worg of Blackrock come from Halycon and her mate. Halycon is the gigantic den mother of the worg. Her mate? Nobody has ever lived to tell the tale of that one.\n\nStrike at the heart of the worg. Destroy Halycon... and Adventurer, watch your back.",
+  "files": [
+   "quests/4724-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "27f1f62168c4",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Galamav the Marksman",
+  "quest": "The Pack Mistress",
+  "en": "Rabid pups? Gizrul the Slavener? And you live to tell the tale?! Incredible! A tribute well earned!",
+  "files": [
+   "quests/4724-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "6f42ce1136b6",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Princess Moira Bronzebeard",
+  "quest": "The Princess Saved?",
+  "en": "You have slain my husband, traveler! My child will be born into this world without a father.\n\n\nI assure you, this child will be the next ruler of the kingdom of Ironforge. You and your kind shall be hunted down until the end of days for this wrongful act.\n\n\nLeave me be, traveler. I am certain your warchief will be eager to hear the results of his meddling.",
+  "files": [
+   "quests/4004-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "47620866937e",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "The Princess Saved?",
+  "en": "A new threat now looms on the horizon. As Magni's years dwindle down, the way shall be opened for this unborn Dark Iron to become ruler of Ironforge.\n\nYou have accomplished what I asked of you and for that, you shall be rewarded.\n\nNow leave me, Adventurer! I must confer with Sylvanas and Cairne.",
+  "files": [
+   "quests/4004-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "f31d41d1c02a",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Princess Moira Bronzebeard",
+  "quest": "The Princess's Surprise",
+  "en": "Thaurissan was a great and honorable dwarf. You ruined my life and the life of my unborn child!\n\n\nReturn to Ironforge and tell my father that the heir to the Kingdom of Ironforge will be a Dark Iron dwarf.\n\nWhether he approves or not, it shall be.",
+  "files": [
+   "quests/4363-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "9bde6ebafc7e",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "The Right Piece of Lord Valthalak's Amulet",
+  "en": "Thank you for helping Mor Grayhoof, Adventurer. Another spirit rests in peace, and we now have the reassembled amulet! But we still have the hardest test ahead of us.\n\nIn order for the brazier to be attuned to calling forth Lord Valthalak, there are a few more items that need to be gathered and brought back to me here.",
+  "files": [
+   "quests/8989-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "0384c20583e5",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lotwil Veriatus",
+  "quest": "The Rise of the Machines",
+  "en": "This can't be Argelmach! Argelmach was killed ten years ago. How can I be sure? I was the one who killed him.\n\nHe was a despicable dwarf, hell-bent on twisting my life's work to meet his diabolical needs. It seems that the wicked always find a way to escape justice.\n\nIf this is Argelmach's handiwork then he must be destroyed. I will need samplings of his latest creations. With the proper samples, I may be able to stop this uprising. The creations guard Argelmach in Blackrock Depths.",
+  "files": [
+   "quests/4063-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "37b20d8e3589",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lotwil Veriatus",
+  "quest": "The Rise of the Machines",
+  "en": "What is this?!? This head is not flesh. This is some sort of dark iron creation: A shadow of Argelmach - ANOTHER machine! I suspect that your destruction of Argelmach will be short lived as another shall rise to take 'its' place soon.",
+  "files": [
+   "quests/4063-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "75fdb1dd5260",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Princess Moira Bronzebeard",
+  "quest": "The Royal Rescue",
+  "en": "What have you done!",
+  "files": [
+   "quests/4003-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "04d9a6670c74",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "The Royal Rescue",
+  "en": "This strike against the Dark Iron dwarves, if successful, will send a shockwave throughout their entire kingdom.\n\nPrincess Bronzebeard is under the control of Emperor Thaurissan. To free her, you must kill the Emperor. Be warned, your task is doubly dangerous, as Bronzebeard will attack you without question while under the control of the Emperor.\n\nDO NOT HARM HER!",
+  "files": [
+   "quests/4003-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "a9b28a780103",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Spectral Chalice",
+  "quest": "The Spectral Chalice",
+  "en": "The gems make no sound as they fall into depths of the chalice...",
+  "files": [
+   "quests/4083-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "cce4fb7c0fd1",
+  "zone": "searing-gorge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kalaran Windblade",
+  "quest": "The Torch of Retribution",
+  "en": "Be patient, adventurer. The torch is almost complete.",
+  "files": [
+   "followup/4448-human-male-official"
+  ],
+  "uiMap": 1427
+ }
+]

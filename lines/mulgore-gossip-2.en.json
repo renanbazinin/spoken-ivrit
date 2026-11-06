@@ -1,0 +1,366 @@
+[
+ {
+  "id": "85d981e68e44",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Siln Skychaser",
+  "quest": null,
+  "en": "The spirits have guided you to me. How may I be of service?",
+  "files": [
+   "gossip/ecc979039b643fbe07eecf74dbf940d3"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "de24a58d0646",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Skorn Whitecloud",
+  "quest": null,
+  "en": "Come closer, young one. In my time I could hear the flutter of a prey's beating heart, but now you must speak up if you want your words heard.",
+  "files": [
+   "gossip/6ab9eb0622e9b06ba41a8dd0ee7e3b47"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "7fde3a903c38",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Skorn Whitecloud",
+  "quest": null,
+  "en": "You killed Ghost Howl. You're a stud!",
+  "files": [
+   "gossip/924b1b0c6fc974b7903fe962433db58f"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "c229a4df231a",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Skorn Whitecloud",
+  "quest": null,
+  "en": "I have run through these plains for many, many seasons. And I have hunted great beasts. And I had never been bested... until I faced Ghost Howl.\n\nLong ago, the massive wolf was an ally to the tauren and fought bravely against the Burning Legion. But he was wounded savagely by a demon, and the tear in his flesh never healed. Eventually... it drove Ghost Howl mad.\n\nNow he roams the plains in agony, seeking an end to his pain. To my shame, when we fought I lacked the strength to slay him...",
+  "files": [
+   "gossip/d9799a53b63bce336c76cf88c68e6cfc"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "04ff80aabe0a",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Tatternack Steelforge",
+  "quest": null,
+  "en": "The Warchief has instructed me to study all kinds of weapons and armor. He has sent me here to the hub of both the tauren and orc cultures in the Barrens to meet as many travelers as possible, and to learn about the cultures of the Barrens.\n\nHe feels there's something to be learned from even the most pathetic of cultures... like the quilboar or centaur.",
+  "files": [
+   "gossip/7d7cdc1000a3951e96ce7ea9aae1068e"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "6cb1d14153ff",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thork",
+  "quest": null,
+  "en": "Welcome to the Crossroads, adventurer. My name is Thork--I lead the defenses here in the name of the Warchief.\n\nPlease, feel free to make yourself at home. As long as you mind your business, no one should have any problem with you taking up some space.\n\nThere are many threats to our safety here. If you've already become familiar with the lay of the land, speak to the others here--perhaps they have tasks for you to do.",
+  "files": [
+   "gossip/bc68f87f28d14f99d8f8ff4c267ffea2"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "3366b62a2311",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Thysta",
+  "quest": null,
+  "en": "Where would you like to fly to?",
+  "files": [
+   "gossip/0edd3c73540d735f036ac6e027466523"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "fc2de9bae9c2",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tigor Skychaser",
+  "quest": null,
+  "en": "May the spirits be with you.",
+  "files": [
+   "gossip/1eec7529a102737979dbaf19908f6ac0"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "b4295f8e7931",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tigor Skychaser",
+  "quest": null,
+  "en": "Through rigorous retraining I have had to break many students of all they had previously learned so that I might teach them anew. The service I offer becomes increasingly difficult to perform each time it is done. It is for that reason that it becomes increasingly expensive with each retraining. Do you desire that I break you of the talents you have learned?",
+  "files": [
+   "gossip/9ccfbeb35c89e4770c3695a5c842eef7"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "a7c1ef464ecc",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tigor Skychaser",
+  "quest": null,
+  "en": "The spirits have guided you to me. How may I be of service?",
+  "files": [
+   "gossip/d96f407d05286ba207ff46bf75ef4510"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "0f7d8013eff9",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tonga Runetotem",
+  "quest": null,
+  "en": "The times we live in are as fickle as the shifting winds, adventurer. It is important to remember what is true and lasting in this world, and to preserve that. Everything else is a waste.",
+  "files": [
+   "gossip/3c1076a9c4093b75e0ba1a3c06c09528"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "1897b29a35ed",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Torm Ragetotem",
+  "quest": null,
+  "en": "No matter how much one learns, there is always more to know.",
+  "files": [
+   "gossip/1b0b0371bfb09e817b8c77bcf69ec99f"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "ca65300528e1",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Torm Ragetotem",
+  "quest": null,
+  "en": "I can not train you, adventurer.",
+  "files": [
+   "gossip/a304d424ab3fe62125a7e67546f1595a"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "1b07bb95b2ae",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Traugh",
+  "quest": null,
+  "en": "The spirits have brought you to me, and so I feel blessed by them.",
+  "files": [
+   "gossip/226e4c5248a59d219e14d288106c8613"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "94d95996b102",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Twizwick Sprocketgrind",
+  "quest": null,
+  "en": "(Sniff, sniff) You smell that? Don't you just LOVE the smell of grease?",
+  "files": [
+   "gossip/6b44a3e2d494f59d83f14e5c3fd90e85"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "82e9d801e958",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Urek Thunderhorn",
+  "quest": null,
+  "en": "I do not have the knowledge you seek.",
+  "files": [
+   "gossip/85e3aafdd07b5fa9e4eeb2daf1cd053a"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "a9b5f1b0213c",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Urek Thunderhorn",
+  "quest": null,
+  "en": "Do you prefer guns or bows?",
+  "files": [
+   "gossip/92447dfb6a16198c949c7f1b1177982f"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "56626e26b771",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Var'jun",
+  "quest": null,
+  "en": "I be seeking someone, adventurer. Please, leave me be... it is important I find them.",
+  "files": [
+   "gossip/139d2506ed562303b66f560b7502291c"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "bfdc15c7b766",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Vira Younghoof",
+  "quest": null,
+  "en": "I can train you in First Aid techniques.",
+  "files": [
+   "gossip/38e95494bef2a4dc003afca7cad45853"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "aa36cd354661",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Vira Younghoof",
+  "quest": null,
+  "en": "Balai Lok'Wein of Brackenwall Village in Dustwallow Marsh sells a manual that you will need to study in order to improve your skills!",
+  "files": [
+   "gossip/ae13783d5fa12defb8f6b3abb812bdf9"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "99be93174939",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Vira Younghoof",
+  "quest": null,
+  "en": "Only the renowned Doctor Gregory Victor can improve your skill now. He can be found in Arathi Highlands at Hammerfall.",
+  "files": [
+   "gossip/f8ec6bcdb5cf9af5f0aab1297a7dd947"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "ccccaa68d24f",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Waldor",
+  "quest": null,
+  "en": "The caverns below us are a source of strange and wondrous hides, but you must take care if you venture into their depths, Adventurer. Remember that your own skin is far more valuable.",
+  "files": [
+   "gossip/6ac10856479660152ac493ee64b58f4e"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "445f4e4ef483",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Waldor",
+  "quest": null,
+  "en": "The caverns below us are a source of strange and wondrous hides, but you must take care if you venture into their depths, adventurer. Remember that your own skin is far more valuable.",
+  "files": [
+   "gossip/d60817dbe236b7089fc232eee4ef8e4a"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "7e5803ff57e0",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Waldor",
+  "quest": null,
+  "en": "Your understanding of leather is deeper than my own. Perhaps you should visit the tauren Krulmoo Fullmoon in Camp Taurajo of the Barrens. He has much knowledge to offer a student of your talents.",
+  "files": [
+   "gossip/ebdbe70c30588d8e64ff468af9fbab81"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "7046baf00c2e",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Yaw Sharpmane",
+  "quest": null,
+  "en": "Tauren have a passion for hunting; it is something that runs deep with our kind.",
+  "files": [
+   "gossip/55a66d0b8af1c06325804f95e63b73a9"
+  ],
+  "uiMap": 1412
+ },
+ {
+  "id": "c57b6faf3c15",
+  "zone": "mulgore-gossip-2",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Zargh",
+  "quest": null,
+  "en": "Have a look at my meats, friend. You won't want to go out into the Barrens without a good stock of provisions.",
+  "files": [
+   "gossip/3cbc06359ec26be5a68c387070b4ffd6"
+  ],
+  "uiMap": 1412
+ }
+]

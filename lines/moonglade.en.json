@@ -1,0 +1,142 @@
+[
+ {
+  "id": "b5e88dfc44aa",
+  "zone": "moonglade",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rabine Saturna",
+  "quest": "A Reliquary of Purity",
+  "en": "The first step is to find a container capable of holding an extremely corruptible substance without the handler suffering ill effects. There is only one sort device I am aware of that could possibly contain something as vile as the Felvine: a Reliquary of Purity.\n\nDeep in the wasteland of Silithus is the remnants of the night elf village known as Southwind. I know one was there many, many years ago. If we are to succeed, I need you to scour those ruins in the hopes of reclaiming it.",
+  "files": [
+   "quests/5527-accept"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "f10a98a68acd",
+  "zone": "moonglade",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rabine Saturna",
+  "quest": "A Reliquary of Purity",
+  "en": "Indeed, you are as resourceful as many claim. The Cenarion Circle is blessed to have you working in our stead.\n\nWith the Reliquary once more in our hands, my mind is at ease. I feel more comfortable asking you to not only face down a malfeasant demon, but also to bring back a dangerous item in the process...",
+  "files": [
+   "quests/5527-complete"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "7916fb317bf4",
+  "zone": "moonglade",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rabine Saturna",
+  "quest": "Shards of the Felvine",
+  "en": "Your knowledge of Eldre'Thalas - Dire Maul - in Feralas will now come into play, Adventurer. In the eastern part of the ruined city is where Alzzin the Wildshaper has exerted his corrupt dominion. Go there with all due haste and brave whatever challenges await you.\n\nThe Fruit of Fertility, now corrupted as the Felvine, should be close to Alzzin. When he falls, capture whatever essence of the Felvine you can. Seal it in the Reliquary, and bring it to me.\n\nGood luck, and Cenarion's speed.",
+  "files": [
+   "quests/5526-accept"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "831d31e88a9f",
+  "zone": "moonglade",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rabine Saturna",
+  "quest": "Shards of the Felvine",
+  "en": "It is done, brave Adventurer, and with that the Cenarion Circle is in your debt. Though the war is far from over, a great battle has been won against those who would bring about our doom.\n\nPlease - accept this as a token of our enduring gratitude. Know that you are welcomed here as a hero of the Cenarion Circle for your great deed, Adventurer. Thank you.",
+  "files": [
+   "quests/5526-complete"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "1ffc86f42fa8",
+  "zone": "moonglade",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Nightmare Engulfed Object",
+  "quest": "Shrouded in Nightmare",
+  "en": "Corruption seeps from this object.\n\nThere may be a link between this object and the dragons coming forth from the Dream. You must find someone that can decipher the meaning of this item. Perhaps the druids of the Moonglade or Cenarion Hold could assist you further.",
+  "files": [
+   "quests/8446-accept"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "401f1f4b1882",
+  "zone": "moonglade",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rabine Saturna",
+  "quest": "Uncovering Past Secrets",
+  "en": "Ah, Adventurer - I had hoped you would stop by. I am glad to see you well.\n\nI received notice you would be coming in from the field, and I wanted to personally express the Cenarion Circle's gratitude for the assistance you've given us thus far. No doubt there are more secrets to uncover from Silithus; your delivery to Umber should prove most interesting once uncovered. Please, accept this as a token of our continued appreciation for your aid.\n\nThank you, generous adventurer.",
+  "files": [
+   "quests/6845-complete"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "8d4f1a178378",
+  "zone": "moonglade",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Umber",
+  "quest": "Uncovering Past Secrets",
+  "en": "Anyway, you should check back with me relatively soon... that is if you want to know what was in here. As soon as I find out what it is, and if it's indeed a book, I'd be happy to share that information with you.\n\nIn the meantime, I'd check in with the den mother of this little bear camp, Rabine. No doubt he'll want to know what crazy antics you've been up to. Never leave the den mother waiting, Adventurer... that is, unless you want to be doused in honey.\n\nIt's happened, trust me.",
+  "files": [
+   "quests/6845-accept"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "cd134a422285",
+  "zone": "moonglade",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Umber",
+  "quest": "Under the Chitin Was...",
+  "en": "Hey, it's you again! Well, I mean you - as in the you that is Adventurer! Yes - that you!\n\nHey, let me start over!\n\nThat object you found in Silithus - it was in fact a book. It was a journal written in a very ancient dialect of what we now call the Darnassian tongue. It'll take a while, but I'm going to go over it very thoroughly. I thought you should know that what you found was extremely valuable for the Circle.\n\nThe den mother's all excited and everything!",
+  "files": [
+   "quests/1185-complete"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "01e0ddf463a2",
+  "zone": "moonglade",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Layo Starstrike",
+  "quest": "Wasteland",
+  "en": "Rabine sent you, did he? Well, consider yourself welcomed here... as much as this desolate and forsaken land can welcome someone.\n\nI wasn't alive during the time of the great tribulations that took place here, but there are parts of this desert that might as well be eerie pictures of that forgotten past. With your help, the Cenarion Circle might be able to bring finality to a threat that was supposed to have died generations ago.",
+  "files": [
+   "quests/1124-complete"
+  ],
+  "uiMap": 1450
+ },
+ {
+  "id": "3c05caa870e0",
+  "zone": "moonglade",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rabine Saturna",
+  "quest": "Wasteland",
+  "en": "West of Un'Goro Crater, via the northwestern ridge, is a harsh wasteland - Silithus. Few know that an ancient war was waged there between the night elves and a malign, alien power. The evil was sealed, but now we suspect that forces work to stir this... unspeakable horror.\n\nSeek out Layo Starstrike, one of our agents in Silithus; look for him at Valor's Rest, the final resting spot for the fallen of the wastes. Give him this letter, and he will give you his trust accordingly.",
+  "files": [
+   "quests/1124-accept"
+  ],
+  "uiMap": 1450
+ }
+]

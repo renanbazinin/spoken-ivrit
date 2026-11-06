@@ -1,0 +1,2625 @@
+[
+ {
+  "id": "d3241a2de81e",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Ashlam Valorfist",
+  "quest": "A Call to Arms: The Plaguelands!",
+  "en": "Welcome to the Plaguelands, hero. This is one of most dangerous frontiers in Azeroth, especially with the looming threat of the Scourge to our north and northeast. I am glad to hear that the clarion call of duty and service to the greater good did not fall on deaf ears with you!\n\nIf you are ready to get your hands dirty, then there is plenty for willing and able heroes to do here on the edge of the Plaguelands.",
+  "files": [
+   "quests/5066-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "3f214e3a01c8",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Crier Goodman",
+  "quest": "A Call to Arms: The Plaguelands!",
+  "en": "Hear ye, hear ye! All heroes are called upon to heed these words!\n\nA call to arms has been issued by the Kingdom of Stormwind! All able bodied individuals are entreated to take up arms against the dark threat of the Scourge in the northern lands of the Eastern Kingdoms! Rumors fly of new threats rising from the ruins of the Plaguelands!\n\nHeroes of the realm - seek out Commander Ashlam Valorfist who has set up his base camp in Chillwind Camp, north of the Alterac Mountains!",
+  "files": [
+   "quests/5066-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "f50b4d58e32e",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Clavicus Knavingham",
+  "quest": "A Donation of Runecloth",
+  "en": "Adventurer, you've been a tremendous contributor to our cloth drive. As we work hard to replenish our reserves, I must impart news upon you the most severe of our deficiencies - runecloth. We are in absolutely dire need of runecloth, and we hope that you will be able to help us as you have in the past.\nIf you are willing, please bring me what runecloth you can spare. We'll initially accept a single donation of sixty, and then we'll go from there.",
+  "files": [
+   "quests/7795-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "118b948d1625",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Clavicus Knavingham",
+  "quest": "A Donation of Runecloth",
+  "en": "With all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future. Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!",
+  "files": [
+   "quests/7795-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "bcfbb26004ea",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Clavicus Knavingham",
+  "quest": "A Donation of Runecloth",
+  "en": "Fantastic - these will go right to use, I assure you. Thank you again for your assistance! We'd certainly be lost without you.\n\nWith all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future. Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!",
+  "files": [
+   "quests/7795-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "b17b40f70313",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Clavicus Knavingham",
+  "quest": "A Donation of Wool",
+  "en": "Wonderful! We thank you for your generous donation, Adventurer!",
+  "files": [
+   "quests/7791-complete",
+   "quests/7793-complete",
+   "quests/7794-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "57a95cf47792",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Captain Stoutfist",
+  "quest": "A Friend of the Family",
+  "en": "You'll want to take this to Stormwind right away. Proud as I am that this keep and harbor bears King Terenas Menethil II's name, we are a calm harbor in a very nasty storm of enemies. It's just not safe here.\n\nThe Dragonmaw in particular would sacrifice much to loot something like this... and I shudder to think of what they'd do with it.\n\nDon't bother going up the chain of command on this one, lass. Go straight to Highlord Fordragon with this. He'll know where it will be best kept.",
+  "files": [
+   "quests/98190-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "61e658b27f6d",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lord Grayson Shadowbreaker",
+  "quest": "A Friend of the Family",
+  "en": "By the Light... it looks just like his boy...\n\n<Lord Grayson Shadowbreaker pauses for a moment.>\n\nThis statuette has indeed been blessed. Its connection to Terenas, its survival of what that monster did to him... this carries great power for those who believe in its strength.\n\nIt is best kept here for now, under guard of the paladin order. We will meditate on it further to learn more of its gifts, and perhaps it may aid us in dark times ahead.\n\nThank you, adventurer. Light bless you.",
+  "files": [
+   "quests/98191-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "0e6d67a97412",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Angus Stern",
+  "quest": "A Meal Served Cold",
+  "en": "One of my most famous dishes is Chilled Basilisk in Lime Vinaigrette. But the problem is... the meat is impossible to keep fresh, and I must serve the dish tonight for a noble's birthday!\n\nSo if you can bring me a Chilled Basilisk Haunch from a freshly-killed Cold Eye Basilisk, quickly, then I will owe you a king's feast!\n\nCold Eye Basilisks are known to roam along the beach dunes of northwestern Stranglethorn, so you have much traveling to do. And be swift!",
+  "files": [
+   "quests/212-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "1e7c04e2b5a8",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Angus Stern",
+  "quest": "A Meal Served Cold",
+  "en": "Ah, this will do nicely! Many, many thanks!\n\nNow if you'll excuse me, I must get the haunch chopped, marinated and garnished for the banquet.",
+  "files": [
+   "quests/212-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "c26b9cf5c027",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lord Baurles K. Wishock",
+  "quest": "A Noble Brew",
+  "en": "My, that Black Claw stout packs quite a punch!",
+  "files": [
+   "followup/387-human-male-official"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "10ec9f8bd8fc",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lord Baurles K. Wishock",
+  "quest": "A Noble Brew",
+  "en": "I feel... dizzy. It's so hot... in... here...",
+  "files": [
+   "followup/388-human-male-official"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "0f929446731a",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lord Baurles K. Wishock",
+  "quest": "A Noble Brew",
+  "en": "Ah, thank you for bringing me this fine looking stout, servant. Here's a copper for you. Now, out of sight with you and let me enjoy my drink!",
+  "files": [
+   "quests/336-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "a121c37c78d4",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Zardeth of the Black Claw",
+  "quest": "A Noble Brew",
+  "en": "Lord Wishock is causing quite a stir amongst the House of Nobles. He was made aware of our little \"establishment\" down here and is lobbying for a full investigation. I have a plan to keep Wishock \"preoccupied,\" but I'll need your help. \n\nThere is a flower growing in the Garden of Stalvan on the outskirts of Darkshire. This small white flower is known as the Tear of Tilloa. I will also need a Musquash Root, found only at the very base of the falls far beneath the Stonewrought Dam in the Wetlands.",
+  "files": [
+   "quests/335-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "4e2c67c00d22",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Zardeth of the Black Claw",
+  "quest": "A Noble Brew",
+  "en": "Most excellent! These are fine samples indeed!",
+  "files": [
+   "quests/335-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "0613ba058a65",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Zardeth of the Black Claw",
+  "quest": "A Noble Brew",
+  "en": "Lord Wishock, like all men, has his weaknesses. His happens to be a fondness for liquor. The hypocrisy is astounding. The trite fool spends his days trying to shut down our little \"tavern\" while his nights are spent upstairs, running up a bill he never pays. Well, let's see how Wishock likes this special brew I have prepared for him: Black Claw stout. It's got quite a kick, adventurer.\n\nTake it to him and see how he likes it. Most likely the old fool is milling about the Hall of Petitioners.",
+  "files": [
+   "quests/336-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "36e2a11bd1cd",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Clavicus Knavingham",
+  "quest": "Additional Runecloth",
+  "en": "Adventurer - without heroes like you working on behalf of the tribe, we'd surely suffer. Thank you for your continued efforts!",
+  "files": [
+   "quests/7796-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "86a788464040",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Baros Alexston",
+  "quest": "An Audience with the King",
+  "en": "I have prepared a report for the King. I believe you should be the one to deliver it to him, along with an account of your findings. Do not worry, there is no doubt that he will commend you for doing your duty to the people of Stormwind.\n\nYour audience is scheduled soon, so you'd best hurry, it's a bit of a ways to Stormwind Keep.",
+  "files": [
+   "quests/396-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "ec1db5a61aa6",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Lady Katrana Prestor",
+  "quest": "An Audience with the King",
+  "en": "You are to be commended for the service you have done for Stormwind, Adventurer. If VanCleef had been successful in his machinations, he would no doubt have done considerable harm to the kingdom--something we must obviously avoid.\n\nTake this, adventurer, as a token of the King's appreciation. I am only sorry he cannot present it to you himself, but he is away on a diplomatic mission and shall not return for some time.",
+  "files": [
+   "quests/396-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "a8de09ab901d",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Fandral Staghelm",
+  "quest": "Assisting Arch Druid Staghelm",
+  "en": "Well now, Adventurer... since you were informed that I was leading this research myself, you obviously came as quickly as you could.\n\nNow that you are here, be sure to pay attention the first time I tell you the details; I have no desire to repeat myself.",
+  "files": [
+   "quests/3789-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "7c722d47f758",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Allison",
+  "quest": "Assisting Arch Druid Staghelm",
+  "en": "Excuse me adventurer, but I'd like just a moment of your time if possible.\n\nThe Cenarion Circle in Darnassus is looking for seasoned adventurers such as yourself to lend them aid in a vital research project. While I do not know the specifics, I can inform you that none other than Arch Druid Fandral Staghelm is spearheading this research.\n\nPlease - if you are interested, speak with him directly in the Cenarion Enclave within Darnassus proper.",
+  "files": [
+   "quests/3789-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "8527b06dcd1b",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Baros Alexston",
+  "quest": "Bazil Thredd",
+  "en": "VanCleef and I were members of the Stonemasons Guild. Our main project was to rebuild Stormwind after the War.\n\nWhen we had finished our duties, we were cheated. The nobles refused to pay us for our work. Some of the more senior of the Stonemasons were offered governmental jobs, but VanCleef refused it out of loyalty to all the Stonemasons. He led a riot and left the city, swearing revenge.\n\nHis lieutenant, Bazil Thredd, might know more about VanCleef's plans. He's being held prisoner in the Stockade.",
+  "files": [
+   "quests/389-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "83c76ff1bfa4",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Warden Thelwater",
+  "quest": "Bazil Thredd",
+  "en": "What in the Light do you want? Can't you see we have a crisis here?\n\nBazil Thredd?! Why would you want to speak with that bastard? How am I supposed to know you're not one of his cronies, come down to help with his bloody riot? If all the blasted cells weren't open, I might throw you in one for a while!",
+  "files": [
+   "quests/389-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "4cd07a928acc",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Brother Paxton",
+  "quest": "Brother Paxton",
+  "en": "Mr. Sheaf is wondering where his book is? Well this is a tad embarrassing. I have the book, but I'm still making my copy and I'm not quite ready to give the original up!",
+  "files": [
+   "quests/344-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "4a503212561a",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Milton Sheaf",
+  "quest": "Brother Paxton",
+  "en": "The Stresses of Iron? Yes, I know the book. Quite a good one, written by the Dwarven miner Margulf Blaggon a few decades ago. He spent most his time deep in the mountains of Khaz Modan, digging ore. Smart fellow!\n\nBut where was I? Oh yes, the Stresses of Iron! I'm afraid the book was moved to the Northshire Abbey. The caretaker of the Abbey's library, Brother Paxton, wanted to make a copy of the book for his own shelves.\n\nBut that was months ago. I wonder why it's taking him so long...",
+  "files": [
+   "quests/344-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "2f4936ae21a6",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Baros Alexston",
+  "quest": "Brotherhood's End",
+  "en": "It's good to see you, Adventurer. I have heard that Lord Gregor Lescovar was found dead not long ago.\n\nIt would seem that you were successful in your mission. You have my gratitude that you have saved me, and many others, from VanCleef's revenge.",
+  "files": [
+   "quests/395-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "d115ba64d144",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Master Mathias Shaw",
+  "quest": "Brotherhood's End",
+  "en": "Ah, I almost forgot. Alexston came while you were away, he wished to speak with you. No doubt he wishes to report the goings-on of the Defias Brotherhood to the nobles.\n\nA bit of advice, Adventurer: if anyone should ask, I would provide all details but that it was your hand that slew Lescovar. Trust me. I am... acquainted... with the ways of such things.\n\nAnd as far as Trias goes, well, speak to no one of him... ever... if you can help it.",
+  "files": [
+   "quests/395-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "329788b44deb",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Bolvar Fordragon",
+  "quest": "Celebrating Good Times",
+  "en": "Seek out Major Mattingly in the Valley of Heroes, Adventurer. He will be expecting you...",
+  "files": [
+   "quests/7496-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "0381f5fc580a",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Major Mattingly",
+  "quest": "Celebrating Good Times",
+  "en": "Citizens and allies of Stormwind, on this day, history has been made. adventurer has laid waste to that which had attempted to usurp the rule of the kingdom. Gather round and join me in honoring our heroes.",
+  "files": [
+   "followup/9495-human-male-official"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "efb028ed608a",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Major Mattingly",
+  "quest": "Celebrating Good Times",
+  "en": "Behold the might of the Alliance! The dread lady, Onyxia, hangs from the arches! Let the rallying cry of the dragon slayer lift your spirits!",
+  "files": [
+   "followup/9496-human-male-official"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "3ed65d2e273d",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Major Mattingly",
+  "quest": "Celebrating Good Times",
+  "en": "Few are graced with such ceremony, Adventurer. Please, choose your reward so that we may begin the celebration.",
+  "files": [
+   "quests/7496-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "4c3c1433cdcd",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Councilman Millstipe",
+  "quest": "Crime and Punishment",
+  "en": "As if the neglect for the residents of Duskwood was not bad enough, now the House of Nobles spits in the eye of the Darkshire Council with their decision to imprison Dextren Ward in Stormwind rather than behead the villain as per Lord Ebonlocke's sentence.\n\nWard was caught selling bodies from the cemetery to Morbent Fel, a crime punishable by death. Yet Stormwind claims Ward as their prisoner.\n\nAssassinate Ward in The Stormwind Stockade - bring me his hand - and I shall reward you.",
+  "files": [
+   "quests/377-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "5dec0aafdd92",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Councilman Millstipe",
+  "quest": "Crime and Punishment",
+  "en": "So Dextren Ward finally paid for his crimes against humanity? Good riddance to the scum I say. And cheers to you, my friend! Not only have you given the families of the dead the peace of mind they deserve, you sent a poignant message to those corrupt bureaucrats in the House of Nobles. Stormwind must rise to the needs of the people of Duskwood or we will break free from their tyranny.",
+  "files": [
+   "quests/377-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "acc0543b16c2",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grimand Elmore",
+  "quest": "Elmore's Task",
+  "en": "You're here to help with my delivery? Very good!",
+  "files": [
+   "quests/1097-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "01382b05e457",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Verner Osgood",
+  "quest": "Elmore's Task",
+  "en": "There's a dwarven weaponsmith in Stormwind, Grimand Elmore, who sent word that he needs help with a delivery. I believe he wants a package sent to his homeland in the north.\n\nYou have a sturdy pair on you! So if you're interested in some legwork then speak with Grimand. We could use you down here, but we must also keep our ties strong with the dwarves.\n\nYou can find Grimand Elmore at the weapon shop in the Dwarven District of Stormwind, in the northeast section of town.",
+  "files": [
+   "quests/1097-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "ef5770912ae7",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Baros Alexston",
+  "quest": "Expanding Horizons",
+  "en": "<Baros opens the letter and begins to read it, his smile fading.>",
+  "files": [
+   "quests/97914-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "ab21a0d2df8c",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Thundris Windweaver",
+  "quest": "Expanding Horizons",
+  "en": "Auberdine is a humble place, adventurer. You will not hear its name spoken in the boughs of Darnassus. Most reference only what the Sundering took from us--the thriving cities of Ameth'Aran, Bashal'Aran, and... Lathar'Lazal.\n\nYet Auberdine remains in their shadow.\n\nI would see our work here recognized. A new vessel connects us to the kingdom of Stormwind, bringing life and supplies to our shores. I beseech you join its next voyage, and bring this letter to a traveler called Baros Alexston.\n\nMake our home known.",
+  "files": [
+   "quests/97914-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "805591ac25a1",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Bolvar Fordragon",
+  "quest": "Exploring the Alliance",
+  "en": "Stormwind, Ironforge, and Darnassus all have unique peoples and cultures. As a guest of the Alliance here on Azeroth, you should take some time to visit each of our capital cities in turn.\n\nSpeak with Randal Emerson in the southern antechamber for directions to get you started.",
+  "files": [
+   "quests/93963-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "036e4c7f500a",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Bolvar Fordragon",
+  "quest": "Exploring the Alliance",
+  "en": "Ah, you are back.\n\nI hope your adventures have given you a sense of the scale and wonder of our world. I know it must seem overwhelming to you, but if you are to help your people, you must be prepared for whatever may come your way while you are on Azeroth.\n\nWhile you wait for your order to establish itself in Dalaran, I suggest you turn your attention to the lands around Stormwind. Westfall in particular can always use more strong adventurers to lend them aid, if you are willing.",
+  "files": [
+   "quests/93963-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "996c79ed3882",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gilbert Gray",
+  "quest": "Fishin' Time",
+  "en": "What a view... Best an old man can ask for.\n\nThe fish sure are bitin' now, though I'm down to my last bait. I don't suppose you have any spare fishing supplies on you? Of course not, forgive me. I get so excited at the thought of casting another line it didn't dawn on me I may be one of the few carrying supplies everywhere I go.\n\nWould you be able to help refresh my stock? Catherine Leland has an assortment of fishing goods just west of the Trade District along the canals. Tell her old Gray sent you.",
+  "files": [
+   "quests/95065-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "ee3deab24845",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gilbert Gray",
+  "quest": "Fishin' Time",
+  "en": "Great timing! Caught a big one with my last bait. Great day so far. They're really biting out here!\n\nTell you what, since you were kind enough to keep this old man in business how about a few fish for the road?",
+  "files": [
+   "quests/95065-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "d378e98faa66",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Furen Longbeard",
+  "quest": "Furen's Armor",
+  "en": "Here's your armor, Adventurer. This will stand up to the strongest assaults or my name isn't Furen Longbeard!\n\nAnd I have to thank you. I learned a lot while working with the materials\nyou brought me. I think I'll have another breakthrough one day!\n\nI'm going to send what I learned to other\nblacksmiths of the Alliance.\n\nI'll tell them you were a big help, and maybe they'll want to return the favor.",
+  "files": [
+   "quests/1782-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "2d54719a5a74",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Elaine Trias",
+  "quest": "Gatehouse Goods",
+  "en": "Yes, it's only a flight of stairs, but if it's such a small ask, it should be no problem for you to finish the delivery yourself!\n\nTrias' Cheese isn't part of the Gatehouse or their stocking inventory, but our buildings share a floor.\n\nPlace the crate outside their stockroom door--the guard will send someone for a regular pickup. They will see the package arrival and carry it inside as they return to post.",
+  "files": [
+   "quests/97222-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "ef540c06a505",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Elaine Trias",
+  "quest": "Gatehouse Goods",
+  "en": "Yep. There's a reason that hinge opens inwards towards them, so they don't get the door blocked by people leaving stuff anywhere they please.\n\nConsider us professionally acquainted, adventurer.\n\nWe respect your business, and expect you to respect ours.",
+  "files": [
+   "quests/97222-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "8beb5d12fe21",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Ol' Emma",
+  "quest": "Good Natured Emma",
+  "en": "My name is indeed Emma Felstone - you're the first person in years to call me that. Who... who are you?\n\nYou say you knew... my sister?! Is she still alive? Who am I kidding, of course she isn't. When the plague broke out in Lordaeron, I had come to expect the worst. So many of my family died... or worse. Here I am now, crazy Ol' Emma, all alone. What are you, a grave-robber or something? Looking for your next target?\n\nWhat... you have a package for me from my sister?",
+  "files": [
+   "quests/5048-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "185df9610958",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Royal Factor Bathrilor",
+  "quest": "Good Natured Emma",
+  "en": "She's a tad ornery, and quite possibly out of her gourd... but the records indicate that Ol' Emma does fit the framework of who Emma Felstone might be.\n\nPerhaps you've seen Ol' Emma wander the city - she talks to herself, most often in nonsensical jibber-jabber. Still, she doesn't hurt anything or anyone, so folks pretty much leave her be.\n\nAll things considered, I would say that Ol' Emma is in fact Emma Felstone. You might try asking if her last name is indeed Felstone.",
+  "files": [
+   "quests/5048-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "1d9863783b54",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Corbett Schneider",
+  "quest": "Harlan Needs a Resupply",
+  "en": "My pleasure, sugar drop. I'll be back soon...",
+  "files": [
+   "followup/255-human-male-official"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "3517a20df651",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Corbett Schneider",
+  "quest": "Harlan Needs a Resupply",
+  "en": "Business must be good down at the bazaar. I'll get him resupplied right away!",
+  "files": [
+   "followup/256-human-male-official"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "2838daf5c27c",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Harlan Bagley",
+  "quest": "Harlan Needs a Resupply",
+  "en": "We've been doing a lot of business lately. It seems like everyone is buying armor and sturdy clothes. Almost like they expect a cold, harsh season ahead...\n\nBut those are future worries. My worry today is that I'm running out of knitted clothing to sell. I need another load from our supplier.\n\nIf you can take this request to Rema Schneider at the Canal Tailor and Fit Shop, I'd be most grateful.",
+  "files": [
+   "quests/333-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "3ad607ac3a7a",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Rema Schneider",
+  "quest": "Harlan Needs a Resupply",
+  "en": "Corbett, dear. Harlan needs a load of knitted shirts and pants as soon as we can manage.",
+  "files": [
+   "followup/253-human-female-standard"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "eabac48c03df",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Rema Schneider",
+  "quest": "Harlan Needs a Resupply",
+  "en": "Corbett, you there? Harlan needs another load of knitted goods. Can you take it to him?",
+  "files": [
+   "followup/254-human-female-standard"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "7bc966d8d1ab",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Rema Schneider",
+  "quest": "Harlan Needs a Resupply",
+  "en": "It says here that Harlan's business is booming. That's good news, but I wonder why people have need of all that armor. I've heard nothing of open war...is there something the nobles aren't telling us?\n\nWell, thank you for bringing the request. Here's your payment, and I'll see to it that Harlan gets his supplies.",
+  "files": [
+   "quests/333-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "e2e46895a427",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Master Mathias Shaw",
+  "quest": "Honor the Dead",
+  "en": "Five of my best field agents were assigned the Marris case. One returned, only to end up dead in his sleep three days later.\n\nWhat little information we did manage to get out of him was incoherent gibberish. We made out two words: \"Nathanos,\" and \"Blightcaller.\"\n\nI do not have the available manpower to continue this investigation and Ravenholdt will not assist us. We must get to the bottom of this; if only to provide closure to the families of the deceased. Will you help?",
+  "files": [
+   "quests/6183-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "69b620217fd3",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Master Mathias Shaw",
+  "quest": "Honor the Dead",
+  "en": "I had faith that Bolvar would send me men and women of honor - the most dedicated soldiers of the Alliance.",
+  "files": [
+   "quests/6183-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "b916933c79af",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Baros Alexston",
+  "quest": "Humble Beginnings",
+  "en": "It seems an eternity since I was a boy working the farm in Westfall. They say you can never go back, and it's true. Doubly true in my case, my family's home has been burned down and taken over by thieves.\n\nI have spoken with my father about the fate of some of my possessions, including my first compass. He was unable to save them. However, he also says that they should be hidden away on the farm.\n\nYou'll find the Alexston Farmstead west of Sentinel Hill. Perhaps you could go and retrieve it for me?",
+  "files": [
+   "quests/399-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "74fc125c316a",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Baros Alexston",
+  "quest": "Humble Beginnings",
+  "en": "Oh, thank you, adventurer! It's of no practical use to me, but the sentimental value... Needless to say, thank you for bringing this to me... at some cost to your own well-being, not to mention the time it took to go all the way down to Westfall. You have my gratitude, and have this as a token of my thanks.",
+  "files": [
+   "quests/399-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "b50991946c10",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Brohann Caskbelly",
+  "quest": "In Search of The Temple",
+  "en": "There was a time when I was young and full of vigor like you, adventurer.\n\nBut now I'm old and unable to explore the world like I once did. Ah, the things I saw!\n\nBut there was one mystery that eluded me. For my final quest, the Explorers' League sent me in search of The Temple of Atal'Hakkar. It was rumored to be located in the Swamp of Sorrows.\n\nBecause of my frail state, I traveled the skies by gryphon in search of it but never found it.\n\nHelp an old dwarf out? Perhaps you will have better luck on foot.",
+  "files": [
+   "quests/1448-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "464d053e7e77",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Brohann Caskbelly",
+  "quest": "In Search of The Temple",
+  "en": "The Temple of Atal'Hakkar has been sunk beneath the Pool of Tears? And surrounded by the green dragonflight?\n\nAn amazing discovery, adventurer. But obviously something has gone terribly wrong.",
+  "files": [
+   "quests/1448-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "6c19cb7bd3a7",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Elling Trias",
+  "quest": "Infiltrating the Castle",
+  "en": "Hmm, an interesting tale, and not one to be taken lightly. Yeah, I can help you, but what you need to do is divvy out a form of justice that's not... legal, if you're to see this through to the end.\n\nLescovar and Marzon need to be dealt with, and swiftly. Do you think you're capable of such a thing?\n\nYou decide. If so, then make haste to the castle and find an old friend of mine, a gnome named Tyrion. He's been watching Lescovar now for a couple weeks. He should be able to help you end this.",
+  "files": [
+   "quests/2745-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "c050ace6569a",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Tyrion",
+  "quest": "Infiltrating the Castle",
+  "en": "What the...?! Don't sneak up on me like that! And keep your voice down! What in the name of the Shadow are you doing sneakin' up on me for? Can't you see I'm busy, you daft fool?\n\nWhat do you mean, what am I doing? I'm waiting for the next Dark Portal to open, what the heck do you think I'm doing? Speak your peace and be off with you... 'fore the guards notice the two of us hiding in the bushes together. I have a reputation to maintain.",
+  "files": [
+   "quests/2745-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "9fff8bced09e",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Brother Paxton",
+  "quest": "Ink Supplies",
+  "en": "I've been meaning to finish my copy of The Stresses of Iron, but...\n\nWell you see, I make my own ink for books I copy. It's my own recipe; it doesn't run or smear, and it dries very quickly Unfortunately, it dries too quickly! My last batch dried up before I could finish the copying job, and I haven't had the chance to make more ink!\n\nTo make more I need Rethban Iron Ore from the Redridge Mountains. Foreman Oslow in Lakeshire is my usual supplier.",
+  "files": [
+   "quests/345-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "e3adf9e83cb0",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Foreman Oslow",
+  "quest": "Ink Supplies",
+  "en": "You need what?? Maybe you haven't noticed, but we're busy fortifying Lakeshire's defenses and repairing damage from recent orc attacks. If you need Rethban Iron Ore, you'll have to get it yourself!",
+  "files": [
+   "quests/345-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "d0303f80561c",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Tyrion",
+  "quest": "Items of Some Consequence",
+  "en": "These will do nicely, Adventurer. Great job.\n\nI have the rest of the gear I'll need in my pack... thank the Light I just got a tailor friend of mine to make me a silk bag. I was running out of room carrying all my gear around.\n\nBefore Spybot heads in, let's get the details set so you know what you have to do.",
+  "files": [
+   "quests/2746-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "5b5f2593f3f8",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Tyrion",
+  "quest": "Items of Some Consequence",
+  "en": "Trias wants the timetable pushed up some, huh? Okay, we can do that, but I'm not ready. And know this, I'm doing the hard part, but you're the one that's going to get his hands dirty, understand? Good.\n\nOkay, I'll need you to get me a few things before I can put my plan into effect. I got the perfect disguise that'll get Spybot past those guards.\n\nBring me some silk and a couple apples. The silk's up to you, but Clara's little farm right outside the city has the perfect sized apples.",
+  "files": [
+   "quests/m-2746-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "39bec79f997b",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Connor Rivers",
+  "quest": "James Hyal",
+  "en": "Before working here at the Blue Recluse, I was trained by one of the best chefs and innkeepers I'd ever met. His name was James Hyal. Everything I have and everywhere I've gotten in life is thanks to him.\n\nI wonder how he's doing. His brother Vincent and he went to work in a tavern in Menethil Harbor, but I haven't heard from him recently.\n\nIf you ever happen to be headed in that direction, maybe you could say hello to him for me?",
+  "files": [
+   "quests/1301-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "59a8f5606b9c",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Vincent Hyal",
+  "quest": "James Hyal",
+  "en": "James? Oh, he left quite some time ago.\n\nFelt the second wind of patriotism, I suppose. Not hard to see why he would. With all the insanity in Lordaeron, many people joined up with Jaina Proudmoore when she went across the sea.",
+  "files": [
+   "quests/1301-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "19bd2a80fb5a",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Quintis Jonespyre",
+  "quest": "Jonespyre's Request",
+  "en": "I thank you for coming, weary traveler! Allow me to introduce myself - I am Quintis Jonespyre, druid and humble servant of Malfurion and the Cenarion Circle. My colleagues (General Shandris Feathermoon and the Protectorate - mayhap you've heard of us) and I wanted to talk with you about the work you are doing for Fandral Staghelm in Darnassus.\n\nBefore we get much further, I'd like to ask that our discussion stay between just us. If you have no problem with this, then we may proceed.",
+  "files": [
+   "quests/3787-complete",
+   "quests/3788-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "24df89c19237",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Tannysa",
+  "quest": "Jonespyre's Request",
+  "en": "Excuse me, friend...\n\nA colleague of mine would like to speak with you about the research you are doing in conjunction with the Cenarion Circle. He is a druid by the name of Quintis Jonespyre, and he resides in Feathermoon Stronghold, Feralas. He would like to confer with you about morrowgrain... and he very much would like for you to keep our discussion from the ears of the Arch Druid.\n\nIf you're interested, speak with him; no doubt, all will be revealed once you do.",
+  "files": [
+   "quests/3787-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "294176d06598",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Elling Trias",
+  "quest": "Look to an Old Friend",
+  "en": "You're kidding? Shaw wants my help again? Of all the nerve...\n\nThe Defias Brotherhood, you say? Well, you're certainly the bearer of wonderful news, aren't you? Next you're going to tell me that Deathwing is still alive and attacking the city.\n\nAll right, tell me everything from the beginning. And don't leave out something you think might not be important. I need to know it all.",
+  "files": [
+   "quests/350-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "43e363b1be08",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Master Mathias Shaw",
+  "quest": "Look to an Old Friend",
+  "en": "That Marzon would be contacting a member of the Defias and have ties to Lescovar...\n\nHaving killed VanCleef and Thredd, it would be hard to see Lescovar brought to proper justice, as your evidence is nothing without their testimonies. That is not even considering the fact that Lescovar is a noble and well connected. It effectively makes him above the law.\n\nYou'll need other help. I loathe to do so, but there is someone I know that will aid us. You'll find Trias in the Trade District of the city.",
+  "files": [
+   "quests/350-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "e6bf1a613e0e",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Archmage Malin",
+  "quest": "Malin's Request",
+  "en": "Greetings, Adventurer. You have the look of an adventurer about you, and I have a task that needs some tending to.\n\nArchmage Trelane, my original master, fled Stromgarde in the Arathi Highlands not too long ago, and he's asked me to help him in recovering some of the items he left behind.\n\nThe city fell under siege, and he attempted to defend the Tower of Arathor, but to no avail. I have agents in the Highlands already, but they've requested I send more aid. Are you interested?",
+  "files": [
+   "quests/690-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "5ef8cbc27310",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Skuerto",
+  "quest": "Malin's Request",
+  "en": "So, Malin sent ye? I don't care if Muradin rose up from the dead and whisked ye here on a dragon. I'm busy! Talk to Kryten if you need somethin'.",
+  "files": [
+   "quests/690-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "1fa566c5f27d",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Acolyte Dellis",
+  "quest": "Mazen's Behest",
+  "en": "It wasn't my fault, Master Mazen!",
+  "files": [
+   "followup/1828-human-male-standard"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "302a7b71cd75",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Acolyte Dellis",
+  "quest": "Mazen's Behest",
+  "en": "It was a simple mistake. A wrong turn I tell you!",
+  "files": [
+   "followup/1829-human-male-standard"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "71c1c83b51b2",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Acolyte Dellis",
+  "quest": "Mazen's Behest",
+  "en": "The swamp was horrible! I was so... so... scared!",
+  "files": [
+   "followup/1830-human-male-standard"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "7a9002c7e7d3",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Acolyte Dellis",
+  "quest": "Mazen's Behest",
+  "en": "I'm lucky to be alive!",
+  "files": [
+   "followup/1831-human-male-standard"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "c33c4f860770",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Acolyte Dellis",
+  "quest": "Mazen's Behest",
+  "en": "It wasn't my fault. Really it wasn't.",
+  "files": [
+   "quests/1363-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "725e672d7d66",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Acolyte Dellis",
+  "quest": "Mazen's Behest",
+  "en": "Master Mazen's directions were quite clear: Deliver a very important essay to Watcher Mahar Ba in Nethergarde Keep.\n\nBut I had never been to the Blasted Lands before! The journey was frightening!\n\nWhen I got to the Swamp of Sorrows, I made a wrong turn and ended up surrounded by horrible plant-like swamp creatures. They lurched as if to attack me so I ran. But in my haste I dropped the essay. One of the beasts took it I am sure.\n\nCould you please try to retrieve it and deliver it to Mahar Ba?",
+  "files": [
+   "quests/1364-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "fdb5c0bda6fd",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mazen Mac'Nadir",
+  "quest": "Mazen's Behest",
+  "en": "As caretaker of the works here in the library of the Academy of Arcane Arts and Sciences, it is my responsibility to ensure all the magical tomes and scrolls are accounted for at all times. Who knows what folly would unfold if some of these enchanted texts were to fall into the wrong hands?\n\nWhich reminds me... my assistant, Dellis, made a horrible mistake last week. He's quite able in the library but incompetent when he leaves the gates of Stormwind. Be a hero, and help old Dellis out, would you?",
+  "files": [
+   "quests/1363-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "90f76929e288",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Watcher Mahar Ba",
+  "quest": "Mazen's Behest",
+  "en": "Ah, most splendid!\n\nFor some time I had feared my request for Khadgar's Essays on Dimensional Convergence had been overlooked by Master Mazen of the Academy of Arcane Arts and Sciences.\n\nHe must be bogged down with requests considering the many strange happenings going on.\n\nNow, if you'll excuse me, I need to begin my research at once. To finally glimpse the insight of one as great as Khadgar excites me to no end.",
+  "files": [
+   "quests/1364-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "dfb0fadafc04",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Rema Schneider",
+  "quest": "Package for Thurman",
+  "en": "My son Thurman is an apprentice at the Larson Clothiers, in the Mage's Quarter. He was in a hurry today and forgot his shears and needles. I know a great Adventurer like you must have important tasks at hand, but without his tools Thurman can't do his apprentice work!\n\nPlease, Adventurer. Can you take my son's sewing kit to him? Larson Clothiers is one of two clothing shops in the Mage's Quarter - it's the one deeper in, near the Mage's Tower.",
+  "files": [
+   "quests/334-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "9e3ec755bfca",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Elaine Trias",
+  "quest": "Philmor's Favor",
+  "en": "Oh, dear. You think we want to carry that up the stairs ourselves? Keeping the valuables intact is your responsibility up until the point you drop it off.",
+  "files": [
+   "quests/97220-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "ede2a0a74ca0",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Manifest Clerk Philmor",
+  "quest": "Philmor's Favor",
+  "en": "Every day this week we've been short dockhands.\n\nCare to ease the stress on our cargo schedule?\n\nTake this package to the stockroom entrance of the Gatehouse. You'll find it inside Trias' Cheese shop on the second floor. The mistress, Elaine, will be quite familiar with the deliveries. The Gatehouse often has shipments arriving with more discretion to allow for ceremonial surprises on behalf of the guard's officers.",
+  "files": [
+   "quests/97220-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "b43051d73485",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Warden Thelwater",
+  "quest": "Quell The Uprising",
+  "en": "The uprising must be quelled! I need your assistance. If word gets out that the prison is overrun I will lose my job! This is a case of foul play if I've ever seen one. But what's important now is forcing these prisoners into submission for the safety of Stormwind.\n\nThe punishment for insurgency is death. Kill some of these deviants! That ought to get things under control.",
+  "files": [
+   "quests/387-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "1691507b7c68",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Warden Thelwater",
+  "quest": "Quell The Uprising",
+  "en": "Your efforts in The Stockade were valiant, Adventurer. It's obvious this problem is bigger than the both of us. But you have performed well and for that I am thankful.",
+  "files": [
+   "quests/387-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "cd70842e1b7e",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Donyal Tovald",
+  "quest": "Reading Room",
+  "en": "Let's see here. Roy's Book Club, isn't it? I recognize this wrap technique.\n\nWell, if he says this is what people want to talk about, it's all fine by me. The material we receive back is always in as good of quality as we loaned it, so we know they're treating it with respect regardless of how provoking the words may be.",
+  "files": [
+   "quests/97234-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "bc299f2da0e2",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Roy Lewells",
+  "quest": "Reading Room",
+  "en": "Are you here to discuss the deeper meanings of our storied legends? No?\n\nWell, after you're done looking around, can you carry this to the library for me? We're exchanging some of our less popular bodies of work for some more modern writing. I have a list of tomes I'm quite sure the librarian will be able to procure for us within our existing arrangement.\n\nComplimentary club refreshments on us, if you help us out.",
+  "files": [
+   "quests/97234-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "9593379bb037",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Brother Paxton",
+  "quest": "Rethban Ore",
+  "en": "Oh, splendid! I can use this ore to make my dye, and then can finish copying The Stresses of Iron.\n\nThank you, Adventurer!",
+  "files": [
+   "quests/347-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "88c96120f3bd",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Foreman Oslow",
+  "quest": "Rethban Ore",
+  "en": "Rethban Ore is named after the man who first found it, Bart Rethban. When smelted it's not as strong as iron, but its ore has a dark, flat color that some scribes use in their dyes. It can be found in the Rethban Caverns, north of here.\n\nWe usually have some in stock, but we're too busy preparing for Orc attacks to gather any. And besides...Redridge Gnolls are now living in the Rethban Caverns and their Drudgers are gathering the ore themselves.\n\nSo if you need some, you'll have to get it yourself.",
+  "files": [
+   "quests/347-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "9bfe06937e9c",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Brother Kristoff",
+  "quest": "Return to Kristoff",
+  "en": "Thank you, adventurer. May the Light bless you, brother, and guide your path.",
+  "files": [
+   "followup/m-282-human-male-official"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "5435eda1b75d",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Brother Kristoff",
+  "quest": "Return to Kristoff",
+  "en": "That's the one! Thank you, Adventurer. May the Light shine brightly upon both your body and spirit!",
+  "files": [
+   "quests/346-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "a1605eee2bd3",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Brother Paxton",
+  "quest": "Return to Kristoff",
+  "en": "Now that I've finished copying the book, here's the original Stresses of Iron. Thank you for your patience, and if you see Milton please tell him I'm sorry for the long delay.",
+  "files": [
+   "quests/346-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "6224ea2e8907",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Loremaster Dibbs",
+  "quest": "Return to Milton",
+  "en": "I need to spend some time studying the Arm of Gri'lek book you brought me, though I'm sure Milton is eager to get the other recovered books into Stormwind's collection.\n\nHere are the books you gathered from the Ruins of Alterac, packed and catalogued. Take them back to Milton Sheaf in Stormwind and I'm sure he'll be grateful.",
+  "files": [
+   "quests/542-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "245a530d2f72",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Milton Sheaf",
+  "quest": "Return to Milton",
+  "en": "My oh my! Look at these! I can't believe they survived the ruination of Alterac. And all those ogres too!\n\nThank you, Adventurer. Thank you so much! You have helped preserve human knowledge, and you add to the grandeur of the Royal Library of Stormwind.",
+  "files": [
+   "quests/542-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "246acec0858c",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Baros Alexston",
+  "quest": "Shadow of the Past",
+  "en": "I really haven't a clue, Adventurer. There is someone else who might be able to help you, and it so happens that he owes me a favor for--well, let's not get into that. Master Mathias Shaw of SI:7 can be found in the barracks in Old Town. Shaw has his thumb on most of the shady, or underhanded dealings of the city.\n\nIf anyone knows, it'd be him.",
+  "files": [
+   "quests/393-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "106f0bb10d69",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Master Mathias Shaw",
+  "quest": "Shadow of the Past",
+  "en": "What? What's this? Yes, I think I do know who this man is, but his name is not Maelik. Assassins wear many names and many masks, discarding them as they lose their usefulness. Another alias known to be used by this man is Marzon; though even that is surely not his true name.\n\nRegardless, he is an assassin and I know a good deal about him.\n\nMarzon is currently under the employ of Lord Gregor Lescovar, a lord of shady reputation, even given the corruption of the nobility of Stormwind.",
+  "files": [
+   "quests/393-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "935062e39855",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Donyal Tovald",
+  "quest": "Shelf Picked",
+  "en": "I've checked our inventory and all of the selections Mr. Lewells has listed are currently available.\n\nYou will, however, need to procure them off the shelves yourself. Part of our librarian duty is vigilance, and for that, I will resume supervisory bookkeeping.\n\nReturning with the material to Roy on his behalf will not mark yourself accountable for their return; as with his note you're serving as the book club's official courier. Their establishment shall carry that burden.\n\nGood day, Adventurer.",
+  "files": [
+   "quests/97237-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "09d5006d7cf3",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Roy Lewells",
+  "quest": "Shelf Picked",
+  "en": "These are them! Some of them even smell exotic! Fantastic, I can't wait for us to have lively conversations about these writings.\n\nCellar after hours, of course.\n\nThanks for the quick errand run, Gad. As promised, it's on the house. We keep our word here.",
+  "files": [
+   "quests/97237-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "7f3072585d07",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Loremaster Dibbs",
+  "quest": "Southshore",
+  "en": "Ah yes, I remember Milton. A bookworm, no doubt. Bless him.\n\nAnd he's right. The Ruins of Alterac still hold stores of knowledge in danger of being lost!\n\nOgres now dwell in Alterac, and they don't care much for higher learning.",
+  "files": [
+   "quests/538-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "d0fd3fc3f5a1",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Milton Sheaf",
+  "quest": "Southshore",
+  "en": "Adventurer. If you don't mind a long journey then I have a task for you, to again help Stormwind fill its library.\n\nThe old kingdom of Alterac fell after the great war, and it had a large collection of books. It's a tragedy that the city is ruined, but even more tragic is all of their knowledge lost! We must recover what we can.\n\nSouthshore is the closest town to the Ruins of Alterac. Go there and speak with Loremaster Dibbs. He can direct you to the ruins, and to what books may be found there.",
+  "files": [
+   "quests/538-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "838246024258",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Brother Kristoff",
+  "quest": "Speaking of Fortitude",
+  "en": "I'm giving a speech on the Fortitude of the Spirit, and I'd like to recite passages from a particular book on metallurgy - \"The Stresses of Iron.\" A copy of this book should be in the Royal Library, within Stormwind Keep. Can you retrieve it for me? If so, then may the blessings of the Light be with you!\n\nThe Royal Library is very large, but the head librarian, Milton Sheaf, knows each shelf like it was his own son. Speak to him, he'll retrieve the book for you.",
+  "files": [
+   "quests/343-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "d761bcae9c11",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Milton Sheaf",
+  "quest": "Speaking of Fortitude",
+  "en": "Metallurgy? Ah yes, we have many books on the subject, and are happy to aid Brother Kristoff with his speech! Now...which particular book was it the good brother needed?",
+  "files": [
+   "quests/343-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "8c5f13b512a6",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grimand Elmore",
+  "quest": "Stormpike's Delivery",
+  "en": "The Stormpikes are a respected dwarven clan, and are well known for their fine and discerning tastes. So it's no wonder that Gringer Stormpike, a Mountaineer of Ironforge, commissioned me to craft him a weapon.\n\nThe weapon is finished, but... Mountaineer Stormpike is far away, in distant Loch Modan. If you plan on traveling to the north, can you deliver this package to him?\n\nMy last message from Mountaineer Stormpike said he's stationed at the northern guard tower in Loch Modan.",
+  "files": [
+   "quests/353-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "65dc86b2a62a",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Stormpike",
+  "quest": "Stormpike's Delivery",
+  "en": "Aha! So Grimand finally finished my axe! I can't wait to try it against some troggs and kobolds!\n\nMany thanks, Adventurer. It was a long distance to travel for this delivery. Here are some coins for your efforts.",
+  "files": [
+   "quests/353-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "df900e7d0e98",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Donyal Tovald",
+  "quest": "Stormwind Library",
+  "en": "Do any of these titles interest you, Adventurer?",
+  "files": [
+   "quests/579-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "5ff4d252dbc8",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Maxwell",
+  "quest": "Stormwind Rendezvous",
+  "en": "You are to meet with Windsor at the gates of Stormwind.\n\nWhat Windsor is about to unveil will shake the very foundation of the kingdom!\n\nDo not attempt to venture there alone, Adventurer. You must amass an army! Gather your compatriots. To arms!",
+  "files": [
+   "quests/6402-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "5d31358b4764",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Reginald Windsor",
+  "quest": "Stormwind Rendezvous",
+  "en": "Before we begin, I ask that you first gather an army. We face a dragon, after all!",
+  "files": [
+   "quests/6402-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "39e1b83b3293",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Elling Trias",
+  "quest": "The Attack!",
+  "en": "So it is done? Good. Thank you greatly for your discretion, Adventurer. You've proven worthy on more than one count. I'll be sure to keep my eyes on you and your progress within the Alliance.\n\nBe sure to keep your nose clean.",
+  "files": [
+   "quests/434-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "44efbd01704b",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Tyrion",
+  "quest": "The Attack!",
+  "en": "Wait here, adventurer. Spybot will make Lescovar come out as soon as possible. Be ready! Attack only after you've overheard their conversation.",
+  "files": [
+   "followup/3761-gnome-male-standard"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "fa924b752fe5",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Tyrion",
+  "quest": "The Attack!",
+  "en": "After I put on Spybot's disguise, he'll head in to talk to Lescovar. The guards should let him pass no problem.\n\nWhile you were getting materials for me, I took care of informing Marzon that it was time for him and Lescovar to meet again. I even dropped some false information.\n\nLescovar will dismiss his guards and wait for Marzon out here in the garden. After you catch wind of talk about the Defias, make your move. You need to kill them both before the guards return! When you're done, speak to Trias.",
+  "files": [
+   "quests/434-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "58d4da014430",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Flint Shadowmore",
+  "quest": "The Blightcaller Cometh",
+  "en": "Na... Nathanos did this? Nathanos is the Blightcaller?\n\nWhy? He was... was so noble - a ranger lord respected by all. The only human ever allowed to train under the high elves. Now a ruthless agent of the Forsaken?\n\nI... I am sorry to ask this of you, Adventurer, but Highlord Fordragon must be informed of this turn of events at once. Please, return to Stormwind and deliver the news.",
+  "files": [
+   "quests/6186-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "05938d4728f7",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Nikova Raskol",
+  "quest": "The Color of Blood",
+  "en": "Bitterness flows through my veins like a cold river. My grandson, Mac, was such a good boy. A mere 14 years old. When the army was sent off to the front, Mac took up arms to defend the city. He was a guard in The Stockade, where the Defias gang is locked up. Mac reprimanded some of the prisoners for tearing their wool blankets to make scarves, a symbol of their gang. For that Mac was stabbed in the back.\n\nI want revenge. Bring me 10 of their precious Wool Bandanas. They are the color of blood.",
+  "files": [
+   "quests/388-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "f4e4844ad7c2",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Nikova Raskol",
+  "quest": "The Color of Blood",
+  "en": "So these bandanas -- filthy tokens of corruption -- are what my Mac had to die for? Such a waste. Such a tragic sacrifice. \n\nBut alas, I cannot return to the past. Just know, Adventurer, that you have brought my family justice through your deeds.",
+  "files": [
+   "quests/388-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "c8c970dbffaf",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Argos Nightwhisper",
+  "quest": "The Corruption Abroad",
+  "en": "Stormwind -- such a bustling hub of activity.\n\nI have traveled from afar to seek help. Often it is heard that brave adventurers roam these city streets.\n\nMy brother, Gershala, requires assistance in Darkshore. He resides in the seaside town of Auberdine.\n\nThe journey is a long and epic one. It is for this reason that I ask the help of a seasoned adventurer such as yourself.",
+  "files": [
+   "quests/3765-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "e764c171ef27",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Gershala Nightwhisper",
+  "quest": "The Corruption Abroad",
+  "en": "Ah, so my brother, Argos, sent you? I realize you must be weary from your travels. But we have much to talk about.",
+  "files": [
+   "quests/3765-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "4eb8215bbc16",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Baros Alexston",
+  "quest": "The Curious Visitor",
+  "en": "Hmm. Maelik? No, the name doesn't sound familiar and neither does this description. But it could be anybody! A former Stonemason, one of the Defias Brotherhood... Though if he is as well connected as Thelwater suggests, perhaps someone else might recognize him. Let me think.",
+  "files": [
+   "quests/392-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "bd508d34e543",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Warden Thelwater",
+  "quest": "The Curious Visitor",
+  "en": "During the first years of Thredd's imprisonment, he never had any visitors. I figured that he was no longer of use to the Brotherhood, so they abandoned him.\n\nAnyway, a few months ago, that all changed; he started to get regular visits... once, maybe twice a week. It was a strange man--the quiet type. I had my suspicions, but all his papers checked out.\n\nHis documents claimed his name was Maelik; here's his description. I don't think he'll be coming to visit Thredd anymore.",
+  "files": [
+   "quests/392-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "c9620c133adf",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Bolvar Fordragon",
+  "quest": "The Dragon's Eye",
+  "en": "A fragment of the shattered medallion is all that I can offer.\n\nYou must find another of dragon blood willing to assist you in forging a new key. Once you secure this key, you must travel to the Wyrmbog in Dustwallow Marsh. It is there that you will find her lair, Adventurer.\n\nWhere to find other flights willing to help? Sadly, I do not know... They are said to exist. Some may even work and live among us, disguised as one of the humanoid races. I wish you luck.",
+  "files": [
+   "quests/6501-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "7fdcfa3b7ea3",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Bolvar Fordragon",
+  "quest": "The First and the Last",
+  "en": "Nathanos Marris was the first and last of the human ranger lords. A disciple of Sylvanas Windrunner, now the Banshee Queen of the Forsaken.\n\nWe had thought that Nathanos had been killed in action in the defense of Lordaeron five years ago. Although his corpse was never recovered, it was assumed that he did not make it out of the Eastern Plaguelands.\n\nMathias Shaw has been investigating the disappearance and may have some new information. Report to him at once. He resides in Old Town, at the Barracks.",
+  "files": [
+   "quests/6182-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "130e5195dcc8",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Master Mathias Shaw",
+  "quest": "The First and the Last",
+  "en": "After some reports of unusual Forsaken activity in the Eastern Plaguelands, SI:7 agents were dispatched to investigate. The results of that investigation are unsettling.",
+  "files": [
+   "quests/6182-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "cccb55dd8e4c",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Motley Garmason",
+  "quest": "The Fury Runs Deep",
+  "en": "You have proven your loyalty to King Magni, adventurer. And your hatred for the Dark Iron scum is as great as my own.\n\nThere is a task I wish to complete myself but I am bound by honor to stay with Longbraid. But Roggo has gathered intelligence that proves Kam Deepfury was a conspirator in the attack on the Thandol Span. It was by Deepfury's planning that Longbraid lost his kin.\n\nDeepfury is being held for political reasons in the Stormwind Stockade. I want him dead, Adventurer. For Longbraid! Bring me his head!",
+  "files": [
+   "quests/378-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "d97e035d1891",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Motley Garmason",
+  "quest": "The Fury Runs Deep",
+  "en": "So Kam Deepfury finally got to feel what it is like to be on the receiving end of Death? Good. Serves the cowardly Dark Iron scum right. You have done well, adventurer. The victims of the Thandol Span attack were but mere victims in a world torn with war and unrest. Their families will have the peace of knowing Deepfury got the punishment he deserved. Longbraid's brother's death has been avenged.",
+  "files": [
+   "quests/378-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "e06650fbf613",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Bolvar Fordragon",
+  "quest": "The Great Masquerade",
+  "en": "The magic held within must be reignited. The dragon's eye must be attuned.\n\nWindsor's sacrifice has freed our Kingdom, but the threat of Onyxia and her kin is ever looming.\n\nThis medallion is what held my mind and body captive. It is also what gave me access to Onyxia's own mind - to her secrets. Albeit the visions are muddled now, some things I do remember.",
+  "files": [
+   "quests/6403-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "f6739f2c2303",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Reginald Windsor",
+  "quest": "The Great Masquerade",
+  "en": "It has been quite the adventure, friend. I owe you a great debt of gratitude. Perhaps, when all is said and done...\n\nAs you have no doubt ascertained by now, Lady Prestor is Onyxia: Brood of Deathwing, twin to the tyrant of the Spire, Nefarian.\n\nFor too long she has held our kingdom in her captivating gaze. Even the Highlord is controlled by her trickery - a puppet. It all ends today... The spell will be broken.\n\nWorry not, for together, we shall be victorious!\n\nAre you ready?",
+  "files": [
+   "quests/6403-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "fa447a204e4b",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Elling Trias",
+  "quest": "The Head of the Beast",
+  "en": "Find Shaw in Old Town. Let him know that the Lescovar threat has been dealt with and about your involvement in the Lord's plots against the city. I'm sure he'll be proud to have another hero among Stormwind's citizens.\n\nHe'll more than likely send you off to meet with the Prince or some other noble. Don't let it get to your head, Adventurer. The nobles can think they rule the city all they want, but some things remain out of their hands.",
+  "files": [
+   "quests/394-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "f279b2caf097",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Master Mathias Shaw",
+  "quest": "The Head of the Beast",
+  "en": "He is dead, then? Your justice was swift, Adventurer. I pray to the Light that I never become your quarry!\n\n\nI mean no criticism, Adventurer. How could I, being the master of all assassins? But in truth, you have done the people of Stormwind a great service, and for that, I thank you.",
+  "files": [
+   "quests/394-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "4ea178c0acf2",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Major Mattingly",
+  "quest": "The Journey Has Just Begun",
+  "en": "A dragon slayer and a seasoned leatherworker? You do not cease to astonish, hero. I am humbled.\n\nPlease accept what I am about to teach you. This knowledge will prove to be invaluable if you are to destroy what remains of the Black Dragonflight.\n\nCreate the cloak from the scales of the brood mother. It will protect you and your allies against the incendiary breath of the Lord of Blackrock... Nefarian.",
+  "files": [
+   "quests/7497-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "e6155fd34c4e",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Field Marshal Afrasiabi",
+  "quest": "The Lord of Blackrock",
+  "en": "Citizens of the Alliance, the Lord of Blackrock is slain! Nefarian has been subdued by the combined might of adventurer and his allies!",
+  "files": [
+   "followup/m-9870-human-male-official"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "6d5528cd5193",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Field Marshal Afrasiabi",
+  "quest": "The Lord of Blackrock",
+  "en": "Let your spirits rise! Rally around your champion, bask in his glory! Revel in the rallying cry of the dragon slayer!",
+  "files": [
+   "followup/m-9872-human-male-official"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "7cab8c78c77c",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Field Marshal Afrasiabi",
+  "quest": "The Lord of Blackrock",
+  "en": "Choose your reward, let the celebration begin!",
+  "files": [
+   "quests/7782-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "d52b3439b778",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Head of Nefarian",
+  "quest": "The Lord of Blackrock",
+  "en": "The old feeling returns. The welcome pangs of victory reverberate throughout your being. Before you lies the monolithic, battle scarred head of Nefarian. Return it to your Highlord, champion.",
+  "files": [
+   "quests/7781-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "0f54cbb1a0db",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Bolvar Fordragon",
+  "quest": "The Lord of Blackrock",
+  "en": "You need not be told the meaning of what you have done, Adventurer. This day will be recorded in the annals of history. A victory the likes of which has not been known to the Alliance for years - if ever!",
+  "files": [
+   "quests/7781-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "e1a640dc6a49",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Bolvar Fordragon",
+  "quest": "The Lord of Blackrock",
+  "en": "Go to the Valley of Heroes and speak with Field Marshal Afrasiabi.",
+  "files": [
+   "quests/7782-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "bade625e29df",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Archmage Tervosh",
+  "quest": "The Missing Diplomat",
+  "en": "The man you seek, the one known as Hendel, is not here. Other sources have brought to the Lady Proudmoore information I believe you already know. She has asked me to find you, and give you aid in your venture. If you would allow it, I will tell you where to find Private Hendel so we can bring him to justice.",
+  "files": [
+   "quests/1265-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "47e362a0dba7",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Archmage Tervosh",
+  "quest": "The Missing Diplomat",
+  "en": "Private Hendel is to the west of here. He's currently on guard duty protecting some of Theramore's infiltrators while they rest. They've been keeping tabs on the Horde base, Brackenwall, and looking for anything else that might threaten our borders.\n\nYou should have no problem finding him; just look for the tents along the road.\n\nI have another matter to attend to, but I shall catch up to you soon enough. You can always find me in the Lady Proudmoore's tower if you have any problems.",
+  "files": [
+   "quests/1266-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "fa42c25b55be",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Archmage Tervosh",
+  "quest": "The Missing Diplomat",
+  "en": "I assure you, we're all quite upset about current events, but allow us to take him back to Theramore for some questioning, and we'll see about finding the King.\n\nI'm sure my lady Proudmore would like to thank you for your help. Speak to her when you have a moment.",
+  "files": [
+   "quests/1324-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "edf29852fba3",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Bishop DeLavey",
+  "quest": "The Missing Diplomat",
+  "en": "Recently a diplomat was sent to Theramore to meet with Jaina Proudmoore. That diplomat never arrived.\n\nI believe the Defias are involved in this plot, but I'm not sure how. The diplomat's disappearance still eludes public attention, but it can't remain that way for long.\n\nAgents of the king are already scouring the city for clues, but I have my own contacts I would like involved.\n\nIn the Valley of Heroes is an old friend of mine named Jorgen. Find him, give him this note, and follow his instructions.",
+  "files": [
+   "quests/1241-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "669329130108",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Bishop DeLavey",
+  "quest": "The Missing Diplomat",
+  "en": "Hello, Adventurer. I am Bishop DeLavey.\n\nNo doubt if you're asking me about my business here in the keep then young Thomas has succeeded in requisitioning you to help our kingdom. He has always been adept at following my requests.\n\nI'm afraid I don't have time to elaborate much, so allow me to be blunt... and please, try to keep this from becoming common knowledge.",
+  "files": [
+   "quests/1274-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "44f8ff544eac",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Samaul",
+  "quest": "The Missing Diplomat",
+  "en": "A pleasure to meet you, Adventurer. I am Commander Samaul. I'm in charge of Miss Proudmoore's forces here in Theramore.\n\nAlthough I'm quite busy, if you have any questions, please feel free to speak up. I might have to keep it short, but there's no reason for me to be rude if you need my help.\n\nIf you plan on traveling out of the city, I'd suggest you be careful. Besides ogres, orcs and murlocs, the southern part of the swamp is filled with black dragons.",
+  "files": [
+   "quests/1264-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "5c7126803f2e",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Samaul",
+  "quest": "The Missing Diplomat",
+  "en": "Hendel? Yes, I know the man. But why would you need one of my soldiers?\n\nElling sent you to find him? Hmm, I don't like the sound of that. Elling wouldn't have you come to me first if your business wasn't troubling. I understand if you can't tell me what this is about, but know this: I have a duty to protect these lands. If you're going to cause a disturbance, then I suggest you inform me of whatever you can.\n\nI believe Hendel was stationed at the first tower outside of Theramore. Be cautious.",
+  "files": [
+   "quests/1265-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "5bb4be0e3c2e",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Dashel Stonefist",
+  "quest": "The Missing Diplomat",
+  "en": "What?!\n\nYou come into me alley and ask questions about me personal business? Business which you obviously have nothing to do with.",
+  "files": [
+   "quests/1246-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "5d0489fc9751",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Dashel Stonefist",
+  "quest": "The Missing Diplomat",
+  "en": "So yeah... um... I might know something 'bout that meeting at Addle's Stead. Happened a few weeks back I think. I really didn't have any part in it. Me part was done when plan A failed... damn adventurers.\n\nThe guy we got on the inside for plan B came out of Menethil; guy called Slim. That's all I know regarding their backup plan.",
+  "files": [
+   "quests/1247-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "a492c8218c94",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Dashel Stonefist",
+  "quest": "The Missing Diplomat",
+  "en": "Yeah, you're obviously not the smartest adventurer to come into Stormwind, but you're about to be one of the dumbest to never leave.\n\nHave you met me friends?",
+  "files": [
+   "quests/1447-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "cb2eed79073e",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Dashel Stonefist",
+  "quest": "The Missing Diplomat",
+  "en": "So, you came to me for a reason. What is it you need?",
+  "files": [
+   "quests/1447-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "b94f04727cda",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Elling Trias",
+  "quest": "The Missing Diplomat",
+  "en": "I'm sorry, a letter for me? Well, I'll be... not often you get a delivery that's not a crate or barrel when all you do is work. Let's see what this is about.\n\n\nYou look a little tense, you okay, Adventurer?",
+  "files": [
+   "quests/1242-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "fb77f284c17b",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Elling Trias",
+  "quest": "The Missing Diplomat",
+  "en": "Jorgen, you ol' sonuva.... So, that's how it's going to be, huh?\n\nAll right, I can deal with that. I hope he finds the Twisting Nether that much sooner!\n\nHere's what's gonna happen, Adventurer. I'll start using my contacts here, but you're doing most of the footwork so I save some coin.\n\nHead to Darkshire in Duskwood and find Watcher Backus--he usually patrols the north road right outside of town. Just tell him you're looking into any Defias activity for me and he'll help you out with any information he can.",
+  "files": [
+   "quests/1243-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "9a77ba2ba95c",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Elling Trias",
+  "quest": "The Missing Diplomat",
+  "en": "Yeah... this is an interesting read. Jorgen and DeLavey were smart to bring me in on this.\n\nSeems the Defias have been trying pretty hard to complete this plan of theirs. Hmm... what's this? \"Fist\"? That's a familiar name.",
+  "files": [
+   "quests/1245-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "199d738640d7",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Elling Trias",
+  "quest": "The Missing Diplomat",
+  "en": "Yeah, now that I think about it... Dashel... Dashel something... What was his name? FIST! Dashel Stonefist. They call him Fist in some circles--probably on account that he likes to get in brawls.\n\nYou can find him in Old Town usually--right smack dab in the center of it. Go talk to him. If you have to, use a sword or something heavy and blunt to persuade him to open up some. And don't hesitate. If he's in this as deep as these papers suggest, then he's not going to give you any information willingly.",
+  "files": [
+   "quests/1246-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "25392326f0fd",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Elling Trias",
+  "quest": "The Missing Diplomat",
+  "en": "Good to see you're still alive, Adventurer. So, it went well with Dashel then, huh?\n\nI've been reading up more on this plan of theirs, and although it doesn't state the name of the diplomat they were after, it does talk about this plan B they enacted after failing on their first attempt to capture him.\n\nThis Slim that Dashel mentioned doesn't have any other name written here, but if you say he's in Menethil, then that's a start.",
+  "files": [
+   "quests/1247-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "88de1beba955",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Elling Trias",
+  "quest": "The Missing Diplomat",
+  "en": "A contact of mine retired in the Wetlands at the harbor city of Menethil. He should be willing to help on your word alone if you tell him you're working for me. His name is Mikhail. He mentioned becoming a bartender before leaving Stormwind a few years ago.\n\nSpeak to him, find this Slim, and find out if there's anything else to know about this kidnapped diplomat. We need to find out where they've taken him, or at least who he is. The docket doesn't mention anything about their plans after he's captured.",
+  "files": [
+   "quests/1248-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "90cc3b927ff7",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Jorgen",
+  "quest": "The Missing Diplomat",
+  "en": "Hmm... \nAll right. I'll help ya, but not because I want to, but because I'm obligated.\n\nAnd let's get one thing straight: you're knowin' far more than you should to begin with. Let's keep this our little secret, and don't go blabbin' at any taverns about anything you find out. Understand?",
+  "files": [
+   "quests/1241-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "cb88b491d4fd",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Jorgen",
+  "quest": "The Missing Diplomat",
+  "en": "Take this here note to Elling Trias. Don't say nothin' else to him. Just be polite and wait for him to respond. And don't worry, he will.\n\nI'm gonna only impress this on ya once more, Adventurer: treat this matter seriously, and keep your yapper shut.\n\nYa can find Trias at his cheese shop, Trias' Cheese, in the Trade District. Good luck.",
+  "files": [
+   "quests/1242-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "3de2ac036b52",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Lady Jaina Proudmoore",
+  "quest": "The Missing Diplomat",
+  "en": "Let me be first to thank you for all you've done, Adventurer. You have been an incredible blessing to my people and the people of Stormwind. I am sorry I couldn't make your acquaintance under better circumstances.\n\nUnderstand also that I cannot overtly thank you for your efforts, but I assure you again, it is appreciated.\n\nWhen you visit Theramore in the future, seek me out and I shall try to keep you apprised of the situation.\n\nThank you again, Adventurer.",
+  "files": [
+   "quests/1267-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "1539c4880dac",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mikhail",
+  "quest": "The Missing Diplomat",
+  "en": "Welcome, welcome, welcome, Adventurer. Good of you to join us. Perhaps an ale today? Or some mutton?\n\nName your pleasure and I'll see to it that you're taken care of. My name is Mikhail, and I look forward to serving you.\n\nHmm? What's that? Trias? Keep your voice down, my friend. This isn't something for the whole tavern to hear about.",
+  "files": [
+   "quests/1248-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "b4e7a0032793",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mikhail",
+  "quest": "The Missing Diplomat",
+  "en": "You say Elling sent you here? Well then, the hospitality I expressed is now tenfold. Anything you need, just ask. I will do my best to aid you.\n\nHmm, Slim, you say? Not sure the name sounds familiar, but I'll keep my eyes out for him.\n\nDon't look now, Adventurer, but the gentleman over by the exit is looking over here. He's listening to our conversation a little too intently if you catch my meaning? If I were you, I'd do what you can to subdue him before he makes a break for the door.",
+  "files": [
+   "quests/1249-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "0003a8e669c0",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mikhail",
+  "quest": "The Missing Diplomat",
+  "en": "Caught him, huh? Good for you. I'm surprised that was Slim.\n\nI'll be honest, I never thought I'd miss the excitement of some of the more devious underground activities. I guess old habits die hard. Don't mention that to Elling--he'd probably try and get me to come back to Stormwind if he heard I missed the action.\n\nI'm glad I could at least be of a little service to you while you were in Menethil. If you need anything else, just ask.",
+  "files": [
+   "quests/1249-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "6c7073ccede7",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mikhail",
+  "quest": "The Missing Diplomat",
+  "en": "THE KING?! I mean... the king? The real king? Are you joking? You didn't mention you were looking for the king's kidnappers. I didn't even hear he was missing--that would explain his son being crowned some.\n\nI'll send word to Elling right away. He'll want to know you're on the trail.\n\nI would never have guessed Jahn would sell out Stormwind for some lousy coin. Even a rogue's got to have honor when it comes to some things.\n\nThe key now is to find this Hendel. And I think I can help with that.",
+  "files": [
+   "quests/1250-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "30ac86ebe02d",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mikhail",
+  "quest": "The Missing Diplomat",
+  "en": "The beginning of every month the Kul Tiras Marines all get paid and usually leave Theramore for somewhere else. A lot of them come here to womanize, carouse, and just have a good time. One of those groups I'd consider regulars here at the tavern, and I believe this Hendel is among them.\n\nCommander Samaul in Theramore would be able to help you find him if Hendel's still stationed there. He's completely loyal to Proudmoore, but if you drop Elling's name, he should help you out... discretely.",
+  "files": [
+   "quests/1264-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "9a73417ae3e0",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Private Hendel",
+  "quest": "The Missing Diplomat",
+  "en": "Hello, citizen. This is a dangerous place to be wandering about. I wouldn't hang around too long if you value your life.\n\nIf you keep your questions short, I'll see if I can help you. Just keep your eyes open for any of those filthy ogres. Rumor has it there's a Horde base somewhere in the swamps. The infiltrators are doing what they can to find it, but the process has been slow going and we've had little progress.",
+  "files": [
+   "quests/1266-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "6c3f286d28c1",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Private Hendel",
+  "quest": "The Missing Diplomat",
+  "en": "What?! You come here accusing me of allying with the Defias, and think I'll just stand here while you insult me?! Something tells me you've had this coming for a long time.",
+  "files": [
+   "quests/1324-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "531f647203ea",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tapoke \"Slim\" Jahn",
+  "quest": "The Missing Diplomat",
+  "en": "The Defias didn't pay me well enough to die for their cause. They took the king. Yeah, the king of Stormwind, not some lowly diplomat. He was on his way to Theramore to meet with Jaina Proudmore--it was a big deal apparently, and a big secret. But it's not just the Defias that are involved. They're working with someone. I think they knew this was bigger than them.\n\nMy part was just to get their man on board the king's ship while it was in the harbor. The guy's name was Hendel. That's all I know. I swear!",
+  "files": [
+   "quests/1250-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "e025d48ce7c0",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Watcher Backus",
+  "quest": "The Missing Diplomat",
+  "en": "Oh, Trias sent you, huh? That's a little different.\n\nFeel free to fight whatever monstrosities come at you from the darkness. I'm sure you'll be able to handle it pretty easily if you're the type to be hanging around with the likes of him.\n\nSo, what does my friend need of me on such a gloomy day as this?",
+  "files": [
+   "quests/1243-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "7031465bb4ee",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Watcher Backus",
+  "quest": "The Missing Diplomat",
+  "en": "Defias activity? Well, there's always some activity; even if they keep to themselves we consider them a threat.\n\nBut now that I think about it, there was a recent sighting that seemed odd. It must have been a couple weeks ago, but some of their agents had gathered around Addle's Stead. From the report, I'd guessed something big went down.\n\nWhy don't you check there first and bring me back anything you find?\n\nThe farmstead is south of the road from Westfall just as you enter Duskwood.",
+  "files": [
+   "quests/1244-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "dd20168b22be",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Watcher Backus",
+  "quest": "The Missing Diplomat",
+  "en": "You're back safe and sound. Couldn't ask for much more than that, could you?\n\nNow, let's see what we have here. This looks pretty official as far as any Defias documents I've seen. But it could be a dupe just to throw you off track of whatever it is you're looking for.",
+  "files": [
+   "quests/1244-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "acd404392ca0",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Watcher Backus",
+  "quest": "The Missing Diplomat",
+  "en": "Whoa, this looks way too complex to be something to just lead you astray. I shouldn't even be looking at this stuff. Take it to Trias--he'll be able to make sense of it. And DON'T let anyone get in your way. This is bigger than me. It might even be bigger than him, but we'll see.\n\nAnd do me a favor, Adventurer, don't tell anyone I helped you. If my superiors found out I knew about any of this and didn't share it with them they'd probably hang me.",
+  "files": [
+   "quests/1245-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "f95d68124eea",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Fandral Staghelm",
+  "quest": "The New Frontier",
+  "en": "What makes you think I wish to be pestered by the likes of you, adventurer? Wait - let me stop the important duties I attend to on a daily basis so I can help you locate a doodad somewhere. By all means, the welfare of Darnassus - nay, all of Teldrassil - should come second to the acquisition of a bauble for your collection.\n\nThe fools in Moonglade waste my time with their call for assistance, and now I must endure this?",
+  "files": [
+   "quests/1015-complete",
+   "quests/1019-complete",
+   "quests/1047-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "506cc889a579",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Crier Goodman",
+  "quest": "The New Frontier",
+  "en": "Attention, heroes!\n\nThe Cenarion Circle seeks able bodied individuals to assist them in exploring the vast new frontiers of Kalimdor! A forbidden wasteland of unimaginable dangers lies far to the west of Tanaris and Gadgetzan, and the Circle needs willing and honorable proxies to act in their stead.\n\nAll interested individuals should seek audience with the Cenarion Circle. Speak with the Arch Druid in Darnassus, Fandral Staghelm, for more information!",
+  "files": [
+   "quests/1015-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "c9ea89fe0182",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Count Remington Ridgewell",
+  "quest": "The Perenolde Tiara",
+  "en": "The Perenolde Tiara is an old heirloom of the Perenolde \"nobles\" - the ruling family of Alterac before that kingdom fell to ruin. It is said to have been crafted by master jewelers in Ironforge, and fitted with the finest of emeralds.\n\nWhen Alterac was destroyed the Tiara was lost, but there are rumors that an Ogre Mage, Grel'borg the Miser, found the tiara and now wanders the Ruins of Alterac searching for more treasures.\n\nWe would have you acquire the tiara for us.",
+  "files": [
+   "quests/543-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "af6eb60d7599",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Count Remington Ridgewell",
+  "quest": "The Perenolde Tiara",
+  "en": "Ah, this is splendid. This will have to be cleaned of course, but you really outdid yourself, Adventurer. I will have someone prepare the tiara and place it within our collection posthaste.\n\nAs I'm sure you will agree, our gratitude is as grand as our collection.",
+  "files": [
+   "quests/543-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "e73b851a103a",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lord Grayson Shadowbreaker",
+  "quest": "The Shamed Lieutenant",
+  "en": "Thank you again for delivering the statuette safely, Adventurer.\n\nI could use your help with something else. There's a member of the city guard who was reassigned to duty in Southshore out in the Hillsbrad Foothills.\n\nHis father was a friend of mine, and while I don't disagree that he could use the lesson... I'd still like to see him succeed. He would really benefit from someone like you helping him out.\n\nThere is a boat that can take you that way from Menethil Harbor, if you are passing back through.",
+  "files": [
+   "quests/98219-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "99ade1497602",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Warden Thelwater",
+  "quest": "The Stockade Riots",
+  "en": "Let's get one thing straight, Adventurer: I don't trust you. But, with the situation as it is, you probably won't make a difference.\n\nSo here's how it's going to be: go down there and have your talk with Thredd. If you're really on our side, then kill him and bring me his head when the job's done. And if it turns out you're on his side, and don't come out... when we find you, you'll die along with the rest of the maggots.",
+  "files": [
+   "quests/391-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "ab1934fc239b",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Warden Thelwater",
+  "quest": "The Stockade Riots",
+  "en": "Without Thredd to lead them, hopefully the riots will be more controllable. We shall see.\n\nI must say, after a half hour, I hardly expected you to come out, but it seems I misjudged you.\n\nI'd guess, then, that you didn't get much useful information out of him? But I know a thing or two that might be of interest to you about Thredd's activities.",
+  "files": [
+   "quests/391-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "406f209fe225",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "An Unsent Letter",
+  "quest": "The Unsent Letter",
+  "en": "Searching Edwin VanCleef's person, you discover, among other things, an unsent letter. It is addressed to Baros Alexston, the City Architect of Stormwind, City Hall, Cathedral Square.\n\nIt appears to be recently written and sealed.",
+  "files": [
+   "quests/373-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "db02852a2379",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Baros Alexston",
+  "quest": "The Unsent Letter",
+  "en": "Edwin VanCleef, you say? I would as much expect a letter from my dead grandmother... So you've killed him then? Pardon me in saying, but I'm somewhat surprised. He was a peerless fighter in his younger years. Let's see what he finds the need to write to me about after so many years.\n\n\nEdwin... I see the years haven't changed you a bit, an idealist as ever, and a romantic. He doesn't care who he hurts, Adventurer. Revenge has consumed him. But then, I'm not sure I can blame him.",
+  "files": [
+   "quests/373-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "0367a32138dd",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Brohann Caskbelly",
+  "quest": "To The Hinterlands",
+  "en": "As I mentioned earlier, I attempted to scout the temple on my own from the air. Well, I wasn't exactly alone.\n\nI traveled to the renowned gryphon aviary at Aerie Peak in The Hinterlands. There I enlisted the aid of one of their finest pilots. The pilot fell off his mount, down into the swamp...\n\nIn my old age the poor fellow's name eludes me. The master of the aviary would remember, no doubt.\n\nJourney there and seek out Falstad Wildhammer.\n\nWe need to find out what happened to that pilot.",
+  "files": [
+   "quests/1449-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "c3174b474ea3",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Falstad Wildhammer",
+  "quest": "To The Hinterlands",
+  "en": "What do you want, laddy? Can't you see I've got problems to take care of here? Who has time to stand around yapping with some traveler chatterbox?\n\nThere are trolls coming out of the woodwork! Make it snappy.",
+  "files": [
+   "quests/m-1449-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "4e8789e922a5",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Head of Onyxia",
+  "quest": "Victory for the Alliance",
+  "en": "You have accomplished the impossible. The brood mother of the Black Dragonflight lies dead at your feet. Take her head and present it to the Highlord.",
+  "files": [
+   "quests/7495-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "5f64eb3c5cbc",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Bolvar Fordragon",
+  "quest": "Victory for the Alliance",
+  "en": "For so many years I was held under her captivating gaze. Finally, to see justice meted and the honor of Stormwind restored! Today, we celebrate this glorious victory!",
+  "files": [
+   "quests/7495-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "fdf4f00ccb26",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "High Sorcerer Andromath",
+  "quest": "Vital Supplies",
+  "en": "Our mages are conducting research at Nethergarde Keep in the Blasted Lands, research vital to our understanding of the Dark Portals. They require nearly constant supplies, but our supply line to Nethergarde is tenuous.\n\nYou must help ensure the supplies make it to Nethergard. Report to Watchmaster Sorigal in Darkshire, and do as he asks. This task will take you into hostile lands, Adventurer. Prepare yourself.",
+  "files": [
+   "quests/1477-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "bf3f448089a7",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Watchmaster Sorigal",
+  "quest": "Vital Supplies",
+  "en": "Andromath sent you? Very good. I have an important task for you...",
+  "files": [
+   "quests/1477-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "eb88cfa23c8c",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denaaris Tempestrella",
+  "quest": "Welcome to Azeroth",
+  "en": "Its a big world down here, and we need our people to start branching out to explore it. That's where you come in.\n\nThe Kirin Tor is a member of an \"Alliance\" of like-minded nations. The de-facto heart of this alliance is the city of Stormwind to the south. Elaadrin has asked me to find someone to travel to Stormwind and meet with the regent lord there, a human named Bolvar Fordragon.\n\nWhen you are ready, the Kirin Tor mages have set up a special portal for the High Order to use to access Stormwind.",
+  "files": [
+   "quests/94947-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "1dd1b8ef8f1a",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Bolvar Fordragon",
+  "quest": "Welcome to Azeroth",
+  "en": "Well met, adventurer. I am Bolvar Fordragon, regent to the throne of Stormwind.\n\nA Kirin Tor messenger told me to expect to recieve members of the High Order, and here you stand. It's been some time since a high elf has stood in this throne room, but I am glad to accept you now as a guest.\n\nOn behalf of the King, I welcome you to Stormwind and give you leave to travel freely through alliance lands. Welcome to Azeroth, Skyborne.",
+  "files": [
+   "quests/94947-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "8ec669be4f80",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Guard Berton",
+  "quest": "What Comes Around...",
+  "en": "Targorr the Dread served under Gath'Ilzogg as supreme Executioner. His methods were ruthless, even by filthy orc standards. Men who fought bravely to defend the Kingdom were tortured on his whim. Now he is being held in the Stormwind Stockade, sentenced to die. Yet something is amiss. One of the bureaucratic nobles put a hold on his execution. I am sure foul play is in the works.\n\nPut an end to Targorr the Dread, Adventurer. Travel to The Stockade and behead him before trickery is upon us.",
+  "files": [
+   "quests/386-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "2e71b57314b9",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Guard Berton",
+  "quest": "What Comes Around...",
+  "en": "Targorr the Dread has finally met his fate. I for one am glad to hear the beast now knows what it is like to be on the receiving end of Death's ruthless grip. You have done well, Adventurer. Sometimes the truest justice can only be found outside the courtroom and beyond the clouded vision of politics.",
+  "files": [
+   "quests/386-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "6652b91875fc",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Renato Gallina",
+  "quest": "Wine Shop Advert",
+  "en": "If you talk to anyone about wine, then you know we Gallinas sell the best wine in Stormwind. And we're not far, still in the Trade District along the city's lovely canals.\n\nHere, take this pamphlet. Bring it to my sister Suzetta at our shop for a complimentary bottle of our famous pinot noir. You won't regret it!",
+  "files": [
+   "quests/332-accept"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "d2853495d7ae",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Suzetta Gallina",
+  "quest": "Wine Shop Advert",
+  "en": "Ah, so you've seen Renato? Well here you are, sir. A bottle of our special pinot noir. You'll not find its equal in all of Azeroth!",
+  "files": [
+   "quests/m-332-complete"
+  ],
+  "uiMap": 1453
+ },
+ {
+  "id": "5c2397c71ba1",
+  "zone": "stormwind-city",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Zardeth of the Black Claw",
+  "quest": "You Have Served Us Well",
+  "en": "I hear Lord Wishock enjoyed his beverage. \n\nYou have served us well, Adventurer. The Warlocks of Stormwind will be able to practice our ways without disturbance, thanks to you. For your efforts, I have prepared a special gift for you. Speak with my servant, Zggi, and claim your reward.",
+  "files": [
+   "quests/397-accept"
+  ],
+  "uiMap": 1453
+ }
+]

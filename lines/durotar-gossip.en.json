@@ -1,0 +1,2803 @@
+[
+ {
+  "id": "e192d9b7b9f3",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Acolyte Magaz",
+  "quest": null,
+  "en": "Listen to your elders, adventurer. If you are strong of will and dedicated, there is no power you cannot control.",
+  "files": [
+   "gossip/1765419d6b9c3acf6645811f022be3f9"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "2d60e1f54c9c",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Acolyte Magaz",
+  "quest": null,
+  "en": "The infernal is one of the most powerful demons a warlock could hope to have at his side in battle. The creature is stong, well-armored, and delivers devastating blows upon any foe. If you were to choose to put the spirit of an infernal into your weapon, you would gain some of those benefits--greater health and regeneration and the like.\n\nIf you wish to know more about felhounds, then you should speak to Wytula across from me.",
+  "files": [
+   "gossip/m-681f6cccd8057b61841523c8b34b27c6"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "a5a401e6fe3e",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Acolyte Wytula",
+  "quest": null,
+  "en": "Not all Forsaken are driven by Sylvanas' will, adventurer. Some of us are driven by true power--power we earn for ourselves.",
+  "files": [
+   "gossip/ab4fb84e95b89dcfe001b8f105e6210b"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "8d4e166bef3a",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Acolyte Wytula",
+  "quest": null,
+  "en": "The felhound... a vicious creature indeed. It is not as physically strong as an infernal, but a wise warlock knows that brute force is not always the answer--if it was, you would have chosen the path of a warrior instead, wouldn't you?\n\nThe felhound draws upon the mana of its foes, using that and its quickness to overcome enemies. Its strength comes from the arcane and using that arcane power for its own ends.\n\nIf you wish to know more about infernals, then you should speak to Magaz across from me.",
+  "files": [
+   "gossip/e6e07bb5b51d4f770a4eeeaabc9bb7de"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "ce07a482b848",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Bom'bay",
+  "quest": null,
+  "en": "Heya mon. Go talk to mah Master Gadrin right over there. Take care of that Zalazane crazy for him and I fix ya right up!",
+  "files": [
+   "gossip/5c340bf8d079d06c25dc98c4fde2c2c0"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "08e6e5f53ac3",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Bom'bay",
+  "quest": null,
+  "en": "Ya mon, I be Gadrin's assistant. Dis here volunteer work be my way of gettin through Witch Doctor School. Since you help him, I help ya for free. Whatcha need fixin?",
+  "files": [
+   "gossip/c47613e829659c77c1817810ed8fa886"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "af76a5b79e01",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Canaga Earthcaller",
+  "quest": null,
+  "en": "I welcome you back, adventurer.",
+  "files": [
+   "gossip/a5262ee327e3456eeb1ea714309bb837"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "e95ef920b25a",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Captain Shatterskull",
+  "quest": null,
+  "en": "It is no easy task to protect the Horde's lumber gathering efforts here in Ashenvale, but we have never shied from battle! The night elves and their allies will fall!",
+  "files": [
+   "gossip/79b85c8b9c23c4e542b6d52221827c9e"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "5bcdc9bbb43a",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Dwukk",
+  "quest": null,
+  "en": "I hear one comment about waterfowl, and you will be eating through a tube.",
+  "files": [
+   "gossip/dcf73814792bd6614277533502604599"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "848ace760695",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Darkhorn",
+  "quest": null,
+  "en": "Elder Windtotem is keeping company with the goblins of Ratchet on the coast of the Barrens.",
+  "files": [
+   "gossip/6451b3dcb8e1be5f4be294d810472248"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "80f41575ac34",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Mistwalker",
+  "quest": null,
+  "en": "Elder Morningdew has taken to watching the commotion at the Mirage Raceway in Thousand Needles.",
+  "files": [
+   "gossip/cbed88fd665e3db34e67aba09c1a27e0"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "e441ff390b67",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Mistwalker",
+  "quest": null,
+  "en": "In days long past, we lived for the hunt. We hunted for glory, for honor...\n\nIs it so different now?",
+  "files": [
+   "gossip/e3fa2e733b23c01f17cdc90a355c694e"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "5245655cbca8",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Windtotem",
+  "quest": null,
+  "en": "Last I heard, Elder Runetotem was traveling to Razor Hill in Durotar.",
+  "files": [
+   "gossip/0ed7a4c2061d7af792e27e4685131712"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "7982007aaff3",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Windtotem",
+  "quest": null,
+  "en": "Elder Bloodhoof can be found at Bloodhoof Village in Mulgore.",
+  "files": [
+   "gossip/58b8acfba7d9e39b20a4717a1649f0f1"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "e7e5ec6136dd",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Windtotem",
+  "quest": null,
+  "en": "Elder High Mountain is at Camp Taurajo in the Barrens.",
+  "files": [
+   "gossip/6b9cf895be2642db62e2ecfc29a0eaa0"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "7874db7209c0",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Windtotem",
+  "quest": null,
+  "en": "Elder Darkhorn can be found among the red rocks of Orgrimmar.",
+  "files": [
+   "gossip/9401b899e3165d4667d3c17e8fcc2675"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "9685ad3a86d0",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Windtotem",
+  "quest": null,
+  "en": "Elder Proudhorn is enjoying the vistas above Mulgore at Thunder Bluff.",
+  "files": [
+   "gossip/a5a66120fa071af7d1240c5aa8640449"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "8c658f735d84",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Windtotem",
+  "quest": null,
+  "en": "Elder Moonwarden is observing the Crossroads in the Barrens.",
+  "files": [
+   "gossip/e068ef87ac8b6ddeeeee5e62e5209646"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "e4c088eb00cd",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Frang",
+  "quest": null,
+  "en": "Are you here for training? Or are you just here to waste a adventurer's time.",
+  "files": [
+   "gossip/8399ef6050322e49ee9268421f826e4a"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "ac5b8863b67b",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Frezza",
+  "quest": null,
+  "en": "Of course there's no danger in everything catching flames and exploding like a huge helium bomb. This baby will get you to Undercity faster and safer than any boat, and the view is truly breathtaking. Speaking of breath, smoking is not allowed while on board the zeppelin, and fire spells are banned from being cast during the trip.",
+  "files": [
+   "gossip/e687cf35c3296cb3a216d85b708a86fb"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "8d17fadca48a",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gar'Thok",
+  "quest": null,
+  "en": "Throm'ka, adventurer. There is little time for talk and much work to be done.",
+  "files": [
+   "gossip/f6c9353ec3223137ed088d4d3e902d33"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "4d8779465e76",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Gazlowe",
+  "quest": null,
+  "en": "Thrall paid me and my boys well for helping out with the construction of Orgrimmar, so I decided to set up a port here. We do most of our business through Booty Bay and Baron Revilgaz.",
+  "files": [
+   "gossip/cd90dadf295bf2c8360e720280e43e0d"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "7d9c0da0f23e",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gornek",
+  "quest": null,
+  "en": "The Valley of Trials will temper even the weakest into a warrior worthy to join the Horde. Those who cannot rise to its tests will be left to bake in the scorching desert sun.",
+  "files": [
+   "gossip/bf70aae4154725dec8a65fa84ba0d954"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "3088110c44a3",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Grimble",
+  "quest": null,
+  "en": "You look like you might be needing passage across the Great Sea. Well you have come to the right place, this here is the berth of the Maiden's Fancy, finest passenger ship to travel these waters. When she arrives, just climb aboard and the next thing you know you will find yourself basking on the sandy beaches of Stranglethorn.",
+  "files": [
+   "gossip/7384674c38fa1ede1c57e9601476e82b"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "12e40d6ed3f3",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Grimble",
+  "quest": null,
+  "en": "You look like you might be needing passage across the Great Sea. Well you have come to the right place, this here is the berth of the Maiden's Fancy, finest passenger ship to travel these waters. When she arrives, just climb aboard and the next thing you know you will find yourself basking on the sandy beaches of Stranglethorn or throwing back a drink in Booty Bay.",
+  "files": [
+   "gossip/c6053c67f2e8d4868a8337f7315817d0"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "49d889745113",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Gryfe",
+  "quest": null,
+  "en": "Where would you like to fly to?",
+  "files": [
+   "gossip/3e057055259d660918d6daacb764fb05",
+   "gossip/8d5a94fecd48af8f93d9d75d365ea743"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "e69cfe5c9cfd",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Haromm",
+  "quest": null,
+  "en": "The spirits have guided you to me. How may I be of service?",
+  "files": [
+   "gossip/7857c55cf19a633dd72142ae5b1f6578"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "4bed3f80e263",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Haromm",
+  "quest": null,
+  "en": "May the spirits be with you.",
+  "files": [
+   "gossip/e7a2c0dc7f07afebb450c37adc691ede"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "4ec348768a16",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Harruk",
+  "quest": null,
+  "en": "You've come for training in order to pass it on to your pets?",
+  "files": [
+   "gossip/c0a7b5f6072ec3019bad21c645e1b66d"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "7ca113a10d3b",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Harruk",
+  "quest": null,
+  "en": "Ah friend, I only help hunters and their pets.",
+  "files": [
+   "gossip/e2581a659044cdbda9365b2fd7a22202"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "f3d0dddb8ad5",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Grosk",
+  "quest": null,
+  "en": "What can you do at an inn?\n\nWell when you stay at an inn, you rest very comfortably. Because of this, you will become \"well rested\" much more quickly than you would in the wilderness. When you are well rested, you learn more from experience.\n\nYou may also speak with any innkeeper to get a hearthstone, and can later use the hearthstone in order to quickly return to that inn.",
+  "files": [
+   "gossip/2c1d9480e123f8e1e386e141a695f2a7"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "310c40360d3c",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Cairne, Sylvanas and Thrall.",
+  "files": [
+   "gossip/14c79166424db4748000943061c77fa3"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "b8e6f661d476",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Love tokens are small messages of affection you can give to amorous town and city folk. Such people will reward you with a gift of adoration.\n\nOr, if you are already adored by another, then at the least they'll give you a gift of friendship.",
+  "files": [
+   "gossip/205467c00f8ce22c4506e988def469d8"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "de59c0d47ed5",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "If we are to make these new lands ours then we must have places to rest our battle weary bodies. Lay your axe by the fire and share the stories of your mighty battles.",
+  "files": [
+   "gossip/5a6da618c793e9258ef0c0f097380291"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "08e9c7bfb565",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "If you put on cologne or perfume, then you'll see who is amorous. Those are the ones who accept love tokens... and offer a gift in return.\n\nBut remember: to give someone a love token, you have to smell just right! Men like the scent of perfume, while women prefer cologne.",
+  "files": [
+   "gossip/7c8c35f7332064fb990b18d3a0864176"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "165bb042c661",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Bolvar, Magni, or Tyrande.",
+  "files": [
+   "gossip/ab1b05dce1379cc50a508ec75bc5fecf"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "795fd4c4ce9d",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "No, I'm not, but lots of others are looking for love. You should buy my love tokens, put on some cologne or perfume, and then pass them around!",
+  "files": [
+   "gossip/bf1f16f2143ef5e7d61ef40727a86228"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "89fca370218a",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Cairne, Sylvanas and Thrall.",
+  "files": [
+   "gossip/0bee11bcb44ddba0c9f3d82fe4a7f412"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "c8e53bb85a87",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Love tokens are small messages of affection you can give to amorous town and city folk. Such people will reward you with a gift of adoration.\n\nOr, if you are already adored by another, then at the least they'll give you a gift of friendship.",
+  "files": [
+   "gossip/10c9748e8a8c0c5f22f50c95108b8101"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "1b2d236a30c8",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "This sun-blasted city is home to the Sandfury trolls, known for their particular ruthlessness and dark mysticism. Troll legends tell of a powerful sword called Sul'thraze the Lasher, a weapon capable of instilling fear and weakness in even the most formidable of foes. Long ago, the weapon was split in half. However, rumors have circulated that the two halves may be found somewhere within Zul'Farrak's walls.",
+  "files": [
+   "gossip/13f411422b98e7aa9efa1bd8d0fe3cc0"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "8a50235a4f2e",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Frustrated by the Dalaran wizards' lack of progress against the undead during the Third War, the Archmage Arugal elected to summon the extra-dimensional worgen to bolster his side's diminishing ranks. The wolf-men slaughtered the Scourge, then quickly turned on the wizards themselves and laid siege to the keep of the noble, Baron Silverlaine. The fort quickly fell into shadow and ruin. Driven mad with guilt, Arugal adopted the worgen as his children and retreated to the newly dubbed 'Shadowfang Keep'.",
+  "files": [
+   "gossip/1a6bf101d9b37ef4919e0a556e52c071"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "1a5f6439834d",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Razorfen Kraul can be found on the very southern tip of the Barrens on the west side of the road.",
+  "files": [
+   "gossip/20a4628b9b8b27f0e7e3e970ab291b7e"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "db1ce2a97256",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Maraudon is located in the middle of the western coast of Desolace, in the Valley of Spears.",
+  "files": [
+   "gossip/2d0ff7282384f166fee8f5812a46b907"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "c4ff46e01905",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "The ruined city of Stratholme lies in the Eastern Plaguelands to the north of the Plaguewood.",
+  "files": [
+   "gossip/3fec7afe1fa52e91615f06103d743c2d"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "5ef51641666c",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Come in, come in. Just don't sit too close to the stove. It hasn't exploded yet today, but just to be safe I think you should sit elsewhere.",
+  "files": [
+   "gossip/4254fccc29e33d29bc22201a35c7d40d"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "1239975ba64f",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Once the greatest gold production center in the human lands, the Dead Mines are now inhabited by the Defias Brotherhood, who have turned the dark tunnels into their private sanctum. It is rumored that the thieves have conscripted the clever goblins to help them build something terrible at the bottom of the mines - but what that may be is still uncertain. Rumor has it that the way into the Deadmines lies through the quiet, unassuming village of Moonbrook.",
+  "files": [
+   "gossip/4686c688bccad5e4e3600624db8e96a6"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "7e331fae5754",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "The Stormwind Stockades are found near the mage quarter in Stormwind.",
+  "files": [
+   "gossip/48f006ccf62588c28676790cb39677d9"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "3f3982ef55cd",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "The Stockades are a high-security prison complex, hidden beneath the canal district of Stormwind city. Presided over by Warden Thelwater, the Stockades are home to petty crooks, political insurgents, murderers and a score of the most dangerous criminals in the land. Recently, a prisoner-led revolt has resulted in a state of pandemonium within the Stockades - where the guards have been driven out and the convicts roam free.",
+  "files": [
+   "gossip/53641f8a6d8703d5b32055eeae035202"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "ac082bc9921f",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Uldaman can be found at the very northern end of the Badlands.",
+  "files": [
+   "gossip/588ff0a57842e20c72269ee0501523fb"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "839563b86a6a",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "The mighty fortress carved within the fiery bowels of Blackrock Mountain was held by the sinister Dark Iron dwarves for centuries until Nefarian - the cunning son of the dragon, Deathwing - took control of the upper Spire and made war on the dwarves' holdings in the mountain's volcanic depths. Realizing that the dwarves were led by the mighty fire elemental, Ragnaros - Nefarian vowed to crush his enemies and claim the whole of Blackrock mountain for himself.",
+  "files": [
+   "gossip/5a436be58dba22f48b69234cde719196"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "984ae228ca95",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "If you put on cologne or perfume, then you'll see who is amorous. Those are the ones who accept love tokens... and offer a gift in return.\n\nBut remember: to give someone a love token, you have to smell just right! Men like the scent of perfume, while women prefer cologne.",
+  "files": [
+   "gossip/64465cd067c291e811a60e365d036a07"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "86d389e83851",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "The School for Necromancy known as Scholomance is on the ruined island of Caer Darrow in the Western Plaguelands.",
+  "files": [
+   "gossip/6abc40b0f13fa9364f217f02b8debe3c"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "51cf73e97f2e",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "No, I'm not, but lots of others are looking for love. You should buy my love tokens, put on some cologne or perfume, and then pass them around!",
+  "files": [
+   "gossip/75ea614fc57c253ef85a8ca820840f01"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "d4ced662e083",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Uldaman is an ancient Titan vault that has laid buried within the earth since the world's creation. Dwarven excavations of the city have recently released the Titans' first failed creations: the troggs. Legends say that when the Titans deemed the trogg experiment a failure they tried again, resulting in the creation of the dwarven race. These secrets are recorded on the fabled Discs of Norgannon - massive artifacts that lie at the bottom of the ancient city, protected by giant constructs of living stone.",
+  "files": [
+   "gossip/7a683a98c8dc49d9ba4f01f8fc2b2c11"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "d8fd02527f02",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Gnomeregan can be found in western Dun Morogh.",
+  "files": [
+   "gossip/7a98a6957f6b0f4f5b616f085bcbbc4f"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "5a8186a3d1e9",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Over a thousand years ago a group of troll priests known as the Atal'ai attempted to bring back an ancient blood god named Hakkar the Soulflayer. After the resulting civil war the priests were defeated and exiled to the Swamp of Sorrows. There they erected a temple to Hakkar to prepare for his arrival into the physical world. The dragon Aspect Ysera soon learned of the Atal'ai's plans and smashed the temple beneath the marshes. To this day, the temple's ruins are guarded by the mighty green dragons.",
+  "files": [
+   "gossip/7d5abd50243eecd2ff36633a9410b8ea"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "5308f0b752f3",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Maraudon is one of the most sacred sites within Desolace. The great temple/cavern is the burial place of Zaetar, one of two immortal sons born to the demigod, Cenarius. Legend holds that Zaetar and the earth elemental princess, Theradras, sired the misbegotten centaur race. It is said that upon their emergence, the barbaric centaur turned on their father and killed him. Some believe that Theradras, in her grief, trapped Zaetar's spirit within the winding cavern - used its energies for some malign purpose.",
+  "files": [
+   "gossip/87ceed08e7766069a0854b8bfeb59834"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "9e7efd676864",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Crafted from the same vines as Razorfen Kraul, Razorfen Downs is the traditional capital city of the quilboar race. The sprawling, thorn-ridden labyrinth houses a veritable army of loyal quilboar as well as their high priests - the Death's Head tribe. Recently, however, a looming shadow has fallen over the crude den. Agents of the undead Scourge - led by the lich, Amnennar the Coldbringer - have taken control over the quilboar race and turned the maze of thorns into a bastion of undead might.",
+  "files": [
+   "gossip/882eca086e7584677b84ddb2508635b3"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "897bc12a507c",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "The Deadmines can be found beneath Moonbrook in the south of Westfall.",
+  "files": [
+   "gossip/925eb79c2a5840bebb65045e96e8b3a9"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "f77f776304c9",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "During the War of the Ancients, the demigod Agamaggan came forth to battle the Burning Legion. The colossal boar was defeated, and over time in the areas where his blood fell, massive thorn-ridden vines sprouted to life. The quilboar came to occupy these regions and hold them sacred. The heart of these massive thorn-colonies is the Razorfen. Razorfen Kraul was conquered by the crone, Charlga Razorflank, who some speculate has been negotiating with agents of the Scourge for some insidious purpose.",
+  "files": [
+   "gossip/9bf1215eec4b2029ecbc5375d28c476f"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "ce518351b758",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "The ruins of Dire Maul stand in central Ferelas.",
+  "files": [
+   "gossip/a2a75e750e7c08308d8d391046fdb1f3"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "72adf9dadca3",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "The ruins of Zul'Farrak are located in the northwestern corner of the Tanaris Desert.",
+  "files": [
+   "gossip/a740ad34c3f45ba2e78f50e08ca1f1a2"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "db78afe3d9bd",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Blackfathom Deeps can be found at the north end of Zoram Strand along the coast of Ashenvale.",
+  "files": [
+   "gossip/a9c1b950e4ae1b02f42877ff18e4c1d9"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "6e6f1237188b",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "The monastery was once a center for learning and enlightenment. With the rise of the undead Scourge during the Third War, the peaceful Monastery was converted into a stronghold of the fanatical Scarlet Crusade. The Crusaders are intolerant of all non-human races, regardless of alliance or affiliation. They believe that any and all outsiders are potential carriers of the undead plague - and must be destroyed.",
+  "files": [
+   "gossip/aaac33ca3b463f55c01e35a907d1d27e"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "0d438a84ae2f",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Ragefire Chasm can be found beneath the Shadow Cleft in the center of Orgrimmar.",
+  "files": [
+   "gossip/b46ab47e855a9968ec405b35a8255b41"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "b4ade232327f",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Razorfen Downs can be found on the very southern tip of the Barrens on the east side of the road.",
+  "files": [
+   "gossip/bc464d5efb2c3497f6fed7199c1cfaab"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "b28c3c6c5129",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Once the capital city of the Dark Iron dwarves, this volcanic labyrinth now serves as the seat of power for Ragnaros the Firelord. Ragnaros has uncovered the secret to creating life from stone and plans to build an army of unstoppable golems to aid him in conquering the whole of Blackrock Mountain. Obsessed with defeating Nefarian and his draconic minions, Ragnaros will go to any extreme to achieve final victory.",
+  "files": [
+   "gossip/be2a049bfff27090d42fa86864cded42"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "f6d622cc4be8",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Blackrock Mountain lies between Searing Gorge in the north and Burning Steppes in the south.",
+  "files": [
+   "gossip/c137bec18fa851ba9519cbc0582526a8"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "6f54cd6c9189",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "The Wailing Caverns has its entrance at the Lushwater Oasis southwest of Crossroads in the Barrens.",
+  "files": [
+   "gossip/c19593e4ca62db318364bbe01231c7b4"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "af3799e8ab8a",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Located in Dun Morogh, Gnomeregan has been the gnomes' capital city for generations, though it was recently infested by mutant troggs. In a desperate attempt to retaliate, High Tinker Mekkatorque ordered the emergency venting of the city's radioactive waste tanks. Though the troggs became irradiated, their siege continued unabated and the gnomes were forced to seek refuge in the dwarven city of Ironforge, where the High Tinker now enlists brave souls to help his people reclaim their beloved city.",
+  "files": [
+   "gossip/c2f38f12a7e864fbd106f38b24ac9ae5"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "af90808232c5",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Bolvar, Magni, or Tyrande.",
+  "files": [
+   "gossip/cbf722b9bc6acfc449c54911b738ba7a"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "93393a47d895",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Ragefire Chasm consists of a network of volcanic caverns below the orcs' new capital city of Orgrimmar. Recently, rumors have spread that a cult loyal to the demonic Shadow Council has taken up residence within the Chasm's fiery depths. This cult, known as the Burning Blade, threatens the very sovereignty of Durotar. Many believe that the orc Warchief Thrall is aware of the Blade's existence and has chosen not to destroy it in the hopes that its members might lead him straight to the Shadow Council.",
+  "files": [
+   "gossip/ccdd31e5c57e00ec629ea21dfbac34e0"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "572c38cda045",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Shadowfang Keep is in southern Silverpine just north of Pyrewood Village.",
+  "files": [
+   "gossip/d37fad5160b1ce1e446d89683995346f"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "a38cf8ed5ff2",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Scarlet Monastery lies in the hills northeast of Tirisfal Glades.",
+  "files": [
+   "gossip/d474a00379211864f62928a7a5408575"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "514a6576a9ac",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Once the jewel of northern Lordaeron, the city of Stratholme is where Prince Arthas turned against his mentor, Uther Lightbringer, and slaughtered hundreds of his own subjects who were believed to have contracted the plague of undeath. Arthas' surrender to the Lich King soon followed. The broken city is now inhabited by the undead Scourge - led by the powerful lich, Kel'Thuzad, and a contingent of Scarlet Crusaders, led by Grand Crusader Dathrohan. The two sides are locked in constant, violent combat.",
+  "files": [
+   "gossip/de30340f0f1e3452d19e8b3db3520427"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "46cd1ca6014b",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Built twelve thousand years ago by a covert sect of night elf sorcerers, the ancient city of Eldre'Thalas was used to protect Queen Azshara's most prized arcane secrets. Though it was ravaged by the Great Sundering of the world, much of the wondrous city still stands as the imposing Dire Maul. The ruins' three distinct districts have been overrun by all manner of creatures - especially the spectral highborne, foul satyr and brutish ogres.",
+  "files": [
+   "gossip/e22278d3fcd3a8f181fc314a3cf6a9a5"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "85f6df426f2a",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "The Sunken Temple can be found in the center of a great lake in eastern Swamp of Sorrows.",
+  "files": [
+   "gossip/f3d998a9d0f165f6d8fa11bdb08d17f4"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "ab20d202af22",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Are you interested in exploring one of these dungeons?",
+  "files": [
+   "gossip/f4fe586e247e052e76cecae1d47adb94"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "8a2de68d56cb",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Situated along the Zoram Strand of Ashenvale, Blackfathom Deeps was once a glorious temple dedicated to the night elves' moon-goddess Elune. However, the great Sundering shattered the temple - sinking it beneath the waves of the Veiled Sea. There it remained untouched - until, drawn by its ancient power - the naga and satyr emerged to plumb its secrets. Legends hold that the ancient beast, Aku'mai, has taken up residence within the temple's ruins.",
+  "files": [
+   "gossip/f72872aa3c1f9640babf7c3e4bffc628"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "8e47a03024d5",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "Recently, a night elf druid named Naralex discovered a network of underground caverns within the heart of the Barrens. Believing he could use the caverns' springs to restore lushness to the Barrens, the druid began siphoning the energies of the fabled Emerald Dream. His vision somehow became a nightmare, however, and soon the Wailing Caverns changed into a den of vicious, deadly predators. It is said that Naralex still resides somewhere inside the labyrinth, trapped beyond the edges of the Emerald Dream.",
+  "files": [
+   "gossip/f82b5fb869ffa62d622507892591005c"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "17d7b9a36df8",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Wiley",
+  "quest": null,
+  "en": "The Scholomance is housed in crypts beneath the Caer Darrow keep. Once owned by the noble Barov family, the keep fell to ruin after the Second War. As the wizard Kel'Thuzad enlisted followers for his Cult of the Damned, he often promised immortality for those who served his Lich King. The Barovs fell to his influence and donated their keep, but the cultists killed the family and turned the crypts into a school of necromancy. Though Kel'Thuzad no longer resides there, cultists and instructors still remain.",
+  "files": [
+   "gossip/ff8b1db8360117b5bdb53aab8beec5c0"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "da6569e2300d",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Islen Waterseer",
+  "quest": null,
+  "en": "You've come further than many, adventurer. Respect the elements around you and you shall fare far greater than most.",
+  "files": [
+   "gossip/038ef46e445972ceb8f5be6c1129a703"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "0174b5ea6c2d",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Javnir Nashak",
+  "quest": null,
+  "en": "Greetings, adventurer. It is the time of the Harvest Festival - a time of great bounties and a time of remembrance. We partake of feasts to celebrate all we have to be thankful of, and we remember our ancestors and past heroes to give thanks to the legacy they gave us.\n\nPlease feel free to partake of the feast being offered here. Also, I am offering some fireworks to help celebrate this joyous time of year.",
+  "files": [
+   "gossip/07d82752c2b2a676dc03af347776f8b3"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "dbfe4e416397",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Jen'shan",
+  "quest": null,
+  "en": "Through rigorous retraining I have had to break many students of all they had previously learned so that I might teach them anew. The service I offer becomes increasingly difficult to perform each time it is done. It is for that reason that it becomes increasingly expensive with each retraining. Do you desire that I break you of the talents you have learned?",
+  "files": [
+   "gossip/857ea30c7f6e11d987a132b4e84da4dc"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "2bda24c67b6f",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Jen'shan",
+  "quest": null,
+  "en": "Hey mon, you be needin' to head on over to da adventurer trainer.",
+  "files": [
+   "gossip/990d212bc9e694de1969260a75b5fbb0"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "c88a32cfec45",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Jen'shan",
+  "quest": null,
+  "en": "What kin I do for ya, mon?",
+  "files": [
+   "gossip/9e572f75c6a0e8bd86745cd88bcd9126"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "f791367ddebc",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kargal Battlescar",
+  "quest": null,
+  "en": "The heft of an axe, the battlecry of your allies, the spray of blood in your face. These are the things a warrior craves, adventurer. I will carve out The Barrens with my sword in the name of the Horde.",
+  "files": [
+   "gossip/c10fbd3bfa1f464ebef604382d705944"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "ab3631cac3a9",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kartosh",
+  "quest": null,
+  "en": "Your will is not strong enough to manipulate the forces we control adventurer.",
+  "files": [
+   "gossip/5a92f47cf481eb3def2615b8693c94fc"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "807dd6b65ad4",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kartosh",
+  "quest": null,
+  "en": "You know enough to be dangerous, but you still look like you need training to me adventurer.",
+  "files": [
+   "gossip/f097ab331f582c2d79e805e164a7c169"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "a45a3f842bfa",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kelm Hargunth",
+  "quest": null,
+  "en": "Zug zug, my friend! I am Kelm Hargunth, the main supplier for the Warsong Outriders. As you improve your standing with the Outriders, I will make available to you a fine selection of goods that you can use inside Warsong Gulch. Should you find yourself in need of item repair, I also provide those services.",
+  "files": [
+   "gossip/f1ff3e9bb320c7a47da450367bb0e839"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "ee42f518a422",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Ken'jai",
+  "quest": null,
+  "en": "You be watchin' yerself, adventurer. Respect our ways, or a curse be on you and yours.",
+  "files": [
+   "gossip/155d8f030ac2a727274571a38fa68153"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "b127587a0019",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Ken'jai",
+  "quest": null,
+  "en": "I do what me can to train you in the priestly ways, if that what you be here for.",
+  "files": [
+   "gossip/a30ce7890edb2bb1c5cc75a4b04b8ba3"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "c3ed8b43a3d1",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Kitha",
+  "quest": null,
+  "en": "You're no warlock and I've no time for you. Begone!",
+  "files": [
+   "gossip/1cb32f6470dcf1a2f6a434cc66bea835"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "682eb972bc2f",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Kitha",
+  "quest": null,
+  "en": "Want to make your demons more powerful? It'll cost you, but you've come to the right place.",
+  "files": [
+   "gossip/7890c2b1ae34d8a5d70574f03c64ac95"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "f349b1a41ac4",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kurgul",
+  "quest": null,
+  "en": "You're no warlock and I've no time for you. Begone!",
+  "files": [
+   "gossip/200fc4a4b57ca0db7de99023c501ea23"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "27c03d5b08f9",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kurgul",
+  "quest": null,
+  "en": "Want to make your demons more powerful? It'll cost you, but you've come to the right place.",
+  "files": [
+   "gossip/4e1a9fddd86d3d21099d60aa02fea747"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "c56b1a329282",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Lau'Tiki",
+  "quest": null,
+  "en": "I can teach you fishing skills.",
+  "files": [
+   "gossip/3e45c9e175b521f290ec43f5df6d099e"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "998011c80d4d",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Lau'Tiki",
+  "quest": null,
+  "en": "Your skill exceeds mine, though I've heard that Old Man Heming in Booty Bay has copies of \"The Bass and You\". That is sure to help you increase your skill.",
+  "files": [
+   "gossip/52b3b18d2b8947ab081ad8d1df22d820"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "cae90c2ad0cb",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Lau'Tiki",
+  "quest": null,
+  "en": "You will need to find Nat Pagle in Dustwallow Marsh to get any better than you are currently.",
+  "files": [
+   "gossip/d84c6f0cdc86a0609eb3d742d5e17380"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "99289bfec9e8",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Liv Rizzlefix",
+  "quest": null,
+  "en": "Hi there. No, Marvon sure isn't here, and he won't be back for quite some time. Actually, I am getting a little worried about him...\n\nI hope he gets back soon. A large chest arrived for him and it's too heavy for me to lug it inside here! I had to leave it out by the door...",
+  "files": [
+   "gossip/1810af4305cc03fe960af01e95020439"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "75b2b6b086de",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Liv Rizzlefix",
+  "quest": null,
+  "en": "Hiya! This workshop isn't mine, no! But one day after I finish training I am going to be an inventor, just like my hero, Marvon Rivetseeker.\n\nYou've never heard of him? Well it just so happens that he left quite some time ago to study some ancient troll ruins he kept talking about. He left in a zeppelin... not quite sure about where exactly he went...\n\nTanarasin? Tenkeris? Taneranisany?\n\n\nNo, that's not it...",
+  "files": [
+   "gossip/2ef43f4e9d19efefdd1007bc696621b9"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "beca468bd168",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Malosh",
+  "quest": null,
+  "en": "Are you here for training? Or are you just here to waste a warrior's time.",
+  "files": [
+   "gossip/141f23d07f540e8c7b0ef9335bda601e"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "780509b3b98c",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Malosh",
+  "quest": null,
+  "en": "Through rigorous retraining I have had to break many students of all they had previously learned so that I might teach them anew. The service I offer becomes increasingly difficult to perform each time it is done. It is for that reason that it becomes increasingly expensive with each retraining. Do you desire that I break you of the talents you have learned?",
+  "files": [
+   "gossip/3a364a4573d4825a6795e3bb454069d4"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "efa224213eb9",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Malosh",
+  "quest": null,
+  "en": "I don't train your kind adventurer. Find your own trainer before you anger me.",
+  "files": [
+   "gossip/5c32ac92759b0e79eade7dc21f7e569f"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "f5d6c9cf29bd",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Master Gadrin",
+  "quest": null,
+  "en": "There is something you wish to discuss, adventurer... come, sit by me.",
+  "files": [
+   "gossip/8fab4b98eabf03f2b411cfb45b3056eb"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "16843c6816ad",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mebok Mizzyrix",
+  "quest": null,
+  "en": "Yes yes yes! You're just the traveler I'm looking for!\n\nSit! We have much to discuss!!",
+  "files": [
+   "gossip/a4e427713a2a4de09a6b712aa395e8de"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "b5fc6585ad0f",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Menara Voidrender",
+  "quest": null,
+  "en": "Kar Aman, adventurer. You look to be a strong adventurer--you would do well to mind yourself in this area. Touching things you know nothing about, or showing disrespect to your elders is just cause for punishment.\n\nYou may not respect me or my companions, but you will learn to respect our power if you prove foolish enough.\n\nNow, enough with the pleasantries, was there something I can do for you?",
+  "files": [
+   "gossip/449cc5ea8d119cbfc577afff5f666b6f"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "eae36b0d94df",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Menara Voidrender",
+  "quest": null,
+  "en": "Have you spoken to either of my acolytes inside the tower yet, adventurer? We cannot complete your orb until you've done one of their tasks. Speak to them now, if you're ready.",
+  "files": [
+   "gossip/50f36dcd4a09a1faf4becc16a0525cdf"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "5f4122307b51",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Menara Voidrender",
+  "quest": null,
+  "en": "Ah, a fellow warlock who has proven his worth to some degree.\n\nI am pleased to meet your acquaintance. My name is Menara Voidrender... and not without just cause.\n\nYou seem powerful and well-learned enough that other tools... more powerful tools... would be welcome and not foolishly imparted. If this is true, then speak to me further. If not, well then, you know your way back to the docks and off into the ocean.",
+  "files": [
+   "gossip/m-4b606854cf99d129051fcd9c29d2c9e2"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "782c9077b7c6",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Miao'zan",
+  "quest": null,
+  "en": "You got the look of someone wantin' adventure. Me, I had enough of that by the time we trolls came here. Now I take each day as it comes, an' I train other folks to handle adventures for me.",
+  "files": [
+   "gossip/2bddeb2204ae9a7ba01d834050d650f4"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "2d868afb6333",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Miao'zan",
+  "quest": null,
+  "en": "You got questions, but they be too big for me to answer, adventurer. You be needin' to have words with the orc Yelmak in the Drag of Orgrimmar. He'll help you out.",
+  "files": [
+   "gossip/3ccc9d3982a4f8dde9b5653bc0c2e796"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "a96428d44479",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Miao'zan",
+  "quest": null,
+  "en": "Ready for another lesson? All right, then. First, relax. You gotta stay loose to stir a potion just right.",
+  "files": [
+   "gossip/d7183ddb231e293b65e81976fe37b4d9"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "abf36f52fdfb",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mukdrak",
+  "quest": null,
+  "en": "I like to build stuff. Of course, I like to blow stuff up even more!",
+  "files": [
+   "gossip/0ff75e91e3efa274b411fe43479cec98"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "88f826d9d417",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Mupsi Shacklefridd",
+  "quest": null,
+  "en": "You'd better not be causing trouble, adventurer!",
+  "files": [
+   "gossip/5aefa54174f6577b8f87afc692df3764"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "00e20d7a6b47",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Nixx Sprocketspring",
+  "quest": null,
+  "en": "Greetings! If you are here to access goblin engineering schemata, please have your goblin engineer membership card ready for verification.",
+  "files": [
+   "gossip/e814cc2694856d5e9fb32efcf2ea7186"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "71eb1370e9e5",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "What are you looking for?",
+  "files": [
+   "gossip/11f7e88f267338a9a8803626e9eb30be"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "57ee53ef8412",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Which profession?",
+  "files": [
+   "gossip/539255a3b21365ed1ab0beecd22e319f"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "59a1c106cbee",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Which trainer do you seek?",
+  "files": [
+   "gossip/bb48a6496b0f939b97d651fb87555c27"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "1ecd2a5271ec",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Reveler",
+  "quest": null,
+  "en": "Starting at 6PM, they will show fireworks from the highest bluff!",
+  "files": [
+   "gossip/1732c988c271232a750d3e2e53c1d1d6"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "bf56d2c55d58",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Reveler",
+  "quest": null,
+  "en": "I sure could use a kiss about now. Know where I can find one?",
+  "files": [
+   "gossip/25be0d84e393ee3ed1191d398a602628"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "94321f46e539",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Reveler",
+  "quest": null,
+  "en": "Hail, adventurer! Welcome to the celebration!",
+  "files": [
+   "gossip/9031ad552c6f16d0a461e40e557acbd7"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "4956df05a07e",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Reveler",
+  "quest": null,
+  "en": "The kegs are filled with strong brew! Drink, friend, and celebrate!",
+  "files": [
+   "gossip/a1266790d643e961d1a1d9572db705d7"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "42dbe3d3be1c",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Reveler",
+  "quest": null,
+  "en": "I heard that, after the fireworks show, goblets will be brought to the tables. Fine toasts we shall raise!",
+  "files": [
+   "gossip/c6b790a30cea1e9602b2204c2fdef80a"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "64043270d65c",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Pephredo",
+  "quest": null,
+  "en": "Greetings, adventurer. I pity your kind, for the secrets of true magic are beyond you...",
+  "files": [
+   "gossip/b7091bbfed54b698c06cee9a75fe004b"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "ae773a6490e5",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Pephredo",
+  "quest": null,
+  "en": "Greetings, adventurer. Are you here to learn of the hidden arts?",
+  "files": [
+   "gossip/c8d841d3dd0d9f3195df9fb37ffd84b4"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "744b527209a2",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Rawrk",
+  "quest": null,
+  "en": "I can train you in First Aid techniques.",
+  "files": [
+   "gossip/4a83fcc5ecf8c7c6aa5f55518135444f"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "b4536e89d3d6",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Rawrk",
+  "quest": null,
+  "en": "Balai Lok'Wein of Brackenwall Village in Dustwallow Marsh sells a manual that you will need to study in order to improve your skills!",
+  "files": [
+   "gossip/535730e8ed12be3838f3f1ed216dba89"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "ca2a0b43bccf",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Rawrk",
+  "quest": null,
+  "en": "Only the renowned Doctor Gregory Victor can improve your skill now. He can be found in Arathi Highlands at Hammerfall.",
+  "files": [
+   "gossip/700b50a54630ac625819418a1b304af7"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "414f8be06af4",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "Speak with Un'Thuwa to the south in Sen'jin Village.",
+  "files": [
+   "gossip/0dcfd534ad129cf3f8457b6c1054259a"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "d87d8f1a5977",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "It's the big building in Razor Hill that's not the barracks. Just talk to Innkeeper Grosk inside. Got that?",
+  "files": [
+   "gossip/0e0f2725e989891e3b1b209b00b6c6ef"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "93ef6de33d71",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "There's one in Orgrimmar. A grunt up there will know what directions to give you. Just head north up the road here, you can't miss it.",
+  "files": [
+   "gossip/0e41adb6a7e141e297a7a7af38a7a151"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "3706c507a429",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "The Warchief brings change that will bring the Horde victory! Look for Swart inside the barracks on the east side of town.",
+  "files": [
+   "gossip/12e3380832481755103357bd8e4274e5"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "09964513bf38",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "You're a hunter? Well anyway, you'll find Thotar hiding from the sun inside the burrow at the southwest corner of town.",
+  "files": [
+   "gossip/1481902397825d866ef861434702b11b"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "36dec82ab6b8",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "Dhugru Gorelust is hiding behind the barracks on the east side of town. Don't let me find out that you're in league with the Burning Legion!",
+  "files": [
+   "gossip/14afad71e6f43ebd4897a73651c3acd5"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "44cdb758e8a1",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "Seek out Miao'zan in Sen'jin Village to the south.",
+  "files": [
+   "gossip/1531e56848a97f6caf0707bde10714be"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "6f68e1d923c9",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "You'll need to head to Orgrimmar for that. Just follow the road heading out of Razor Hill to the north through the canyon and you'll come to it. When you get there ask one of their grunts for further directions.",
+  "files": [
+   "gossip/1c20bee54f940a7ee25ae9b08ddc5bc7"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "ced4fe23e4e5",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "Can't you see I'm busy here? Go north up the road to Orgrimmar and ask one of the grunts there. You can't miss it.",
+  "files": [
+   "gossip/1c4d2642c8dbafb4181f864054a4636a"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "2548351c13db",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "You'll find the Wind Rider Master in Orgrimmar. Go north up the road to get there and ask an Orgrimmar Grunt for further directions.",
+  "files": [
+   "gossip/21b93df5517191e6ac378bd3f35e2e19"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "1e44995ae5b8",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "I hear that the trolls in Sen'jin Village have a potion maker named Miao'zan. Look there.",
+  "files": [
+   "gossip/252d6ae280f65f0827b5d62b61125ec5"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "30b3c2842d02",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "Plenty of good mining to be had in Durotar, or so I hear. So good in fact that we have a Mining Trainer right here in Razor Hill. You'll find Krunn next to the heated forge in the northwest corner of town.",
+  "files": [
+   "gossip/28da34a7dcc4893620bc3f9b17dbed6e"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "ff46688a96a4",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "Look for Tarshaw Jaggedscar in the barracks on the east side of town.",
+  "files": [
+   "gossip/352ae89eeeaac61dcc6845cd9f983cbd"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "8eff84af7aa5",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "Find Kaplak on top of the burrow in the southwest section of town.",
+  "files": [
+   "gossip/3f06598ffd8c9999b7f3e6b16011dfc5"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "aad6b3ed2ced",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "On the east side of Razor Hill, behind the barracks is where you will find Dhugru Gorelust.",
+  "files": [
+   "gossip/470b3f07f965638e1e086daec3b41a7d"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "d93883df3b66",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "To learn to cure leather and work with hides go to Orgrimmar to the north. One of the Orgrimmar Grunts will be able to tell you the way to the Leatherworking Trainer.",
+  "files": [
+   "gossip/480dcbe4bcc183db295991cfcf3e04ef"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "486a44ccea70",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "Pets to take care of? Just make sure you clean up after it! Look for Shoja'my in front of the inn.",
+  "files": [
+   "gossip/48c83d364a53dcd5c109f0279ac8ef23"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "e197da803975",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "I could use a drink and some rest myself. You'll find it right in the northwest corner of Razor Hill. Say hi to Innkeeper Grosk for me.",
+  "files": [
+   "gossip/5a86f360c8ddfe8d0e1d5b8e50ba194b"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "6cdbcb3306d3",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "Huh? You'll find the bank in Orgrimmar. Head north up the road to get there and then talk to one of their grunts.",
+  "files": [
+   "gossip/63df14ac6b0e503a51930d85a9b327bd"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "2425835523ec",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "That would be Dwukk. Find him next to the heated forge at the northwest corner of town.",
+  "files": [
+   "gossip/68932fb0ffa48a7c03ec6bce0aa873db"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "35c0299be454",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "You're looking for Mishiki. She has a hut to the south in Sen'jin Village.",
+  "files": [
+   "gossip/788e53903ca8bd09c088bd1d27efa397"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "663a27b5fdb7",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "With all of the fighting we do of course we have a First Aid Trainer in Razor Hill. Find Rawrk inside the barracks on the east side of town.",
+  "files": [
+   "gossip/7a5f9a5c9e1af6b938e8d6fdb50d0765"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "1cdbab2f6e89",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "You can learn to sew up in Orgrimmar. That's to the north. Maybe one of the Orgrimmar Grunts can help you.",
+  "files": [
+   "gossip/86bee557234aefc08dffcd603a3140f5"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "e6fcfc298bcd",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "There is an Engineering Trainer in Razor Hill. He is called Mukdrak and can usually be found standing over near the forge.",
+  "files": [
+   "gossip/88e7460445b466f2393737512b4cace7"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "16a90c5775b5",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "Shoja'my is over in front of the inn. Now move along, I'm busy.",
+  "files": [
+   "gossip/95ec5023f7dcbcb96b665624348b5662"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "23383e3f7536",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "Flowers? In this wasteland? If anyone can teach you how to find them it will be Mishiki down in Sen'jin Village to the south.",
+  "files": [
+   "gossip/96442a667845894083d0f2231cb79543"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "0a35eebfc612",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "You need to find Swart. Look for him inside the barracks on the east side of Razor Hill.",
+  "files": [
+   "gossip/96d985b616d9e1814e6fa750a01f0e85"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "8742f8e31fd3",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "Yeah, I need to drop off some things myself. Find it by heading north up the road to Orgrimmar and then ask one of the grunts there.",
+  "files": [
+   "gossip/97ef6bb6459a1144372decbaa9f48cf8"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "7f7919aa31e2",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "If you think you have the strength to pound good metal into weapons and armor for the Horde look for Dwukk next to the heated forge in the northwest corner of Razor Hill.",
+  "files": [
+   "gossip/a2a68134eb6ead66dec0ff1ea26a3473"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "f10a32fa29bd",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "Then Orgrimmar is where you need to go. The north road out of Razor Hill leads directly there. Just talk to one of the grunts there and they can give you further directions.",
+  "files": [
+   "gossip/a8f60edf1e35fe995876160fbe01d53e"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "54ed7dbf45fa",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "Find Tarshaw Jaggedscar inside the barracks on the east side of Razor Hill. Bring pride and honor to the Horde youngling!",
+  "files": [
+   "gossip/abc57ca8b9afe5891d11b478b0678324"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "3b7d1e5f5dd8",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "There's one of those inside the barracks on the east side of Razor Hill. Look for Rawrk.",
+  "files": [
+   "gossip/bab9ae7a3d5ab170b5e4373908683d46"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "95754019e238",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "I don't know of one of those around here. Your best bet is to go to Orgrimmar to the north and speak to one of their grunts.",
+  "files": [
+   "gossip/bad0c10059d93b0ba507c84cd442cad6"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "c4dcb63733c1",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "Head north up the road to Orgrimmar. You can ask one of the grunts there for directions to the Cooking Trainer.",
+  "files": [
+   "gossip/bb526804502f2666b56f5808503d68f7"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "38a56f79cd35",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "You're looking for Lau'Tiki. You'll find him on Darkspear Strand out beyond Sen'jin Village to the south.",
+  "files": [
+   "gossip/bf50f48d66f33ab47551f76d9412f407"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "9c5e471381b9",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "That's troll business. Look for Un'Thuwa in Sen'jin Village down south.",
+  "files": [
+   "gossip/c09f94f3738012af627ee0ca8e140589"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "5f94fea8770f",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "Tai'jin is her name and you'll find her inside the barracks on the east side of Razor Hill. She'll teach you to respect the gods. Make certain that you show her the proper respect in return!",
+  "files": [
+   "gossip/c1a5522c52594a0f7383273d3f3d052b"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "f13e533ab84c",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "Sure, sure. We have a Mining Trainer right here in town. Look for Krunn over in the northwest corner alongside the inn.",
+  "files": [
+   "gossip/c63f56c09345cbf81c450bfc0e570916"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "d53321a00491",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "The Hunter Trainer's name is Thotar. Seek him out inside the burrow on the southwest corner of Razor Hill.",
+  "files": [
+   "gossip/e71cc318705554503a1fc94f2fb2cf27"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "14eb6721f71f",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "You're looking for Tai'jin. Find her in the barracks on the east side of town.",
+  "files": [
+   "gossip/e72ab783318fd9303c927b656da1917d"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "5ba099ddef10",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "There's one in Orgrimmar. Go north and talk to one of their grunts.",
+  "files": [
+   "gossip/e9ff9ec36b22276710cd8fde9ba0ca1f"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "6674314f8ca1",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "Why would you want to talk to Kaplak? Nevermind. Look for him on top of the burrow in the southwest corner of Razor Hill. Just make sure that you keep your hands in your own pockets!",
+  "files": [
+   "gossip/ee3cff8c1213239b77f4d4ebd853af5b"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "ba5964921ed9",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "Mmmmm food. It's not too long of a run, but you need to head north to Orgrimmar and ask one of the grunts there.",
+  "files": [
+   "gossip/f3be329749bffcc3c219519d18dac377"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "1af9737c9dd8",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "I've seen a troll named Lau'Tiki fishing down south at the Darkspear Strand. That's just on the outskirts of Sen'jin Village.",
+  "files": [
+   "gossip/f531065fd60a051974df176bb74830f1"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "b26cbce04dcd",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "There's a Skinning Trainer in Orgrimmar. To get there head north up the road out of Razor Hill. Ask an Orgrimmar Grunt for directions when you arrive.",
+  "files": [
+   "gossip/fa4b7059d45bf0250381ea6aab634c1f"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "7397708c72ec",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Razor Hill Grunt",
+  "quest": null,
+  "en": "Bah, that's goblin work! Still, we have an orc here in Razor Hill that will teach you of such things. Look for Mukdrak over near the forge.",
+  "files": [
+   "gossip/fe9dd394ba942b3b46f201e888e073ce"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "1c2e2c34f9ec",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Rokar Bladeshadow",
+  "quest": null,
+  "en": "What's a young adventurer like you out visiting an old farmer like me?",
+  "files": [
+   "gossip/9bf55e6c6132c78f689d4a846edbc4fd"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "7c94b72544f0",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Rwag",
+  "quest": null,
+  "en": "The Shattered Hand will see the Horde to their former glory, unhindered by the timidness of the Warchief.",
+  "files": [
+   "gossip/5070548a9c45a19ece573bb4b49296f4"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "f9348bdcd5d2",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Rwag",
+  "quest": null,
+  "en": "I don't train your kind adventurer.",
+  "files": [
+   "gossip/60044d7f82718835ed805cb5fdc7067b"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "056bc105228e",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Shenthul",
+  "quest": null,
+  "en": "Through rigorous retraining I have had to break many students of all they had previously learned so that I might teach them anew. The service I offer becomes increasingly difficult to perform each time it is done. It is for that reason that it becomes increasingly expensive with each retraining. Do you desire that I break you of the talents you have learned?",
+  "files": [
+   "gossip/5016339405f25a1000a29e26a0caf19c"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "e48682227cfd",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Shikrik",
+  "quest": null,
+  "en": "Through rigorous retraining I have had to break many students of all they had previously learned so that I might teach them anew. The service I offer becomes increasingly difficult to perform each time it is done. It is for that reason that it becomes increasingly expensive with each retraining. Do you desire that I break you of the talents you have learned?",
+  "files": [
+   "gossip/28f6b8de934060edb89ab0339b080fcf"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "0878460e7b30",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Shikrik",
+  "quest": null,
+  "en": "May the spirits be with you.",
+  "files": [
+   "gossip/7be5b41b6547e9fda9b4b9cb85616226"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "7105733d0daa",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Shikrik",
+  "quest": null,
+  "en": "The spirits have guided you to me. How may I be of service?",
+  "files": [
+   "gossip/93ff0e2abb20dcd5c4b04b86b60d8ab3"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "b2907bd50049",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Sputtervalve",
+  "quest": null,
+  "en": "Director Riddlevox put me in charge of the Union's shredder development program. Few months on the job and I'm already in hot water! I could use your help, adventurer!",
+  "files": [
+   "gossip/0cc088f013cb6fc40acf3a7acfed831d"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "c87b371a83e2",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Sputtervalve",
+  "quest": null,
+  "en": "See, the Venture Company's new shredder is better than my latest, from the interchangeable hands to the control grips! My boss has given me a pretty strict deadline, but my boys and I couldn't come up with anything.\n\nNothing was working, so we decided to \"borrow\" one of their prototypes. I sent Wizzlecrank to the Sludge Fen to steal one, but he hasn't gotten back yet!",
+  "files": [
+   "gossip/3b982d83ca250aba2a857fe1a2388627"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "519e1c6d6bcc",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Sputtervalve",
+  "quest": null,
+  "en": "Interesting, interesting... I know of a druid that lives atop the hill above the Wailing Caverns, adventurer. She might be able to tell you more about this shard you have found.\n\nNow, I must get back to work!",
+  "files": [
+   "gossip/b553c80d00cdd9070918c489df5ae9bc"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "17c9653fd4db",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Sputtervalve",
+  "quest": null,
+  "en": "Director Riddlevox put me in charge of the Union's shredder development program. Few months on the job and I'm already in hot water! I could use your help, Adventurer!",
+  "files": [
+   "gossip/e841ba6ae28aa6b32a74b9d08e9fed88"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "4ada8f79a785",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Sputtervalve",
+  "quest": null,
+  "en": "Lots to do, lots to do! The Union's given us deadlines and they're not the sort you want to miss!",
+  "files": [
+   "gossip/f04e73ec5cd32473774944eedc48a86f"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "a6d52496e489",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Tai'jin",
+  "quest": null,
+  "en": "I do what me can to train you in the priestly ways, if that what you be here for.",
+  "files": [
+   "gossip/2fcbfc050579773187a9fe63ef286df3"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "64386ed1f89a",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Tai'jin",
+  "quest": null,
+  "en": "You be watchin' yerself, adventurer. Respect our ways, or a curse be on you and yours.",
+  "files": [
+   "gossip/46ed43b518344816eee66454f927e9bf"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "1fc0b2bb6c77",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Taskmaster Fizzule",
+  "quest": null,
+  "en": "Grand Foreman Puzik Gallywix finally intervened, taking the surplus of poisons to his tower, here at the Sludge Fen, in order to study and research the unstable nature of the toxins. A decision was finally reached to share the secret of the poison with the Defias Brotherhood in exchange for a very large supply of a stable, usable poison.\n\nKlaven Mortwake of the Defias Brotherhood was tasked with the job of altering the chemical properties of Zanzil's mixture.",
+  "files": [
+   "gossip/6d83979cdef42a9649eb7a7efe1c0cb1"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "d6604a805b0f",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Taskmaster Fizzule",
+  "quest": null,
+  "en": "Something plagues this tower. I've fallen ill and the other Venture Co. employees that work near or in the tower have also become sick.\n\nJust last week, two of our patrollers died, only to instantly come back to life as mindless drones!\n\nThe lifeforce is draining from my body. I can feel myself losing control. Urges taking over... Bad urges... *Fizzule slaps himself in the face* Not yet... Listen... Mine is a position of power. This position privies me to some sensitive information.",
+  "files": [
+   "gossip/70900566252ad58f6e1594ad4d2e3eb9"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "2ce55b0ed1fb",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Taskmaster Fizzule",
+  "quest": null,
+  "en": "About five months ago, the Venture Co.'s Stranglethorn division got their hands on a special poison from a shady merchant in Booty Bay named Crank Fizzlebub. Fizzlebub had apparently stolen the poison from Zanzil!\n\nYes, Zanzil the Outcast - the troll that was exiled from his own tribe due to the nature of his 'experiments' in necromancy.\n\nNaturally, once they had the poison, they proceeded to test it on each other. The results were disastrous.",
+  "files": [
+   "gossip/7ef827e5131b9d4b742026b4c626867f"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "80fa69da61d9",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thotar",
+  "quest": null,
+  "en": "I train and guide young hunters in the traditions passed down many generations.",
+  "files": [
+   "gossip/8a5b6aaedb16daf4e6daba6392ce1f16"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "bf0ac3c25d1a",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thun'grim Firegaze",
+  "quest": null,
+  "en": "My vision has darkened, but there are many kinds of sight...",
+  "files": [
+   "gossip/26ad9f650334cc4dc84f17537d853c17"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "852648fbcb22",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Tinkerwiz",
+  "quest": null,
+  "en": "I can't help ya'! You're ready to see someone who's been at it longer than I have! Let's see... you're an Alliance type, so you need to talk to Lilliam Sparkspindle in Stormwind.",
+  "files": [
+   "gossip/1389ded94ec799fa553e34c3557ac12c"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "982c7a177d62",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Tinkerwiz",
+  "quest": null,
+  "en": "Yeah, I'll show you a few things. We'll see how you do, maybe you'll surprise me!",
+  "files": [
+   "gossip/af9ccb95467b25c6dc0eaa8a4d0cf1cf"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "7d7dcb9f771a",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Tinkerwiz",
+  "quest": null,
+  "en": "What? You want something?",
+  "files": [
+   "gossip/b0fb181dddc32fa304d6805b255e6bde"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "1679626f9bc0",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Tinkerwiz",
+  "quest": null,
+  "en": "I'm afraid you're out of my league, friend! You should go see Nogg in Orgrimmar, he'll take you to the next level!",
+  "files": [
+   "gossip/f87c37944192073e24d10f1a070e94b4"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "d489a1ac17c8",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Un'Thuwa",
+  "quest": null,
+  "en": "Greetings, adventurer. Are you here to learn of the hidden arts?",
+  "files": [
+   "gossip/6b1a193f6fbb18a8cee6d3dd3a706b63"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "5a40ac02a6e5",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Un'Thuwa",
+  "quest": null,
+  "en": "Greetings, adventurer. I pity your kind, for the secrets of true magic are beyond you...",
+  "files": [
+   "gossip/a00980ecb8395b0505372dca056eaa2c"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "1a7d0545cfda",
+  "zone": "durotar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wharfmaster Dizzywig",
+  "quest": null,
+  "en": "Something I can help you with, adventurer? There's a shipment I've got to see to otherwise.",
+  "files": [
+   "gossip/c4ea1e1c0a82b96811ee85b1a815c3bb"
+  ],
+  "uiMap": 1411
+ }
+]

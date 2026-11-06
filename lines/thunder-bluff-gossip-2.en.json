@@ -1,0 +1,58 @@
+[
+ {
+  "id": "37bdd90b3582",
+  "zone": "thunder-bluff-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Veren Tallstrider",
+  "quest": null,
+  "en": "The tauren are sons and daughters of the Earthmother, and we show respect to all her children. Even the beasts we slay are cherished, as their bodies give nourishment and their skins provide warmth.",
+  "files": [
+   "gossip/fb688ab999fc1cdaee8f57f0b5e4fa64"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "ecad96aa383e",
+  "zone": "thunder-bluff-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Vhan",
+  "quest": null,
+  "en": "You seek a higher knowledge. Tepa is blessed with such knowledge. She should be standing somewhere nearby...",
+  "files": [
+   "gossip/8ad7eccb4b49cd7d5405cd10a2652680"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "d7749a1ff699",
+  "zone": "thunder-bluff-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Vhan",
+  "quest": null,
+  "en": "No part of the animals we hunt is wasted.",
+  "files": [
+   "gossip/9a3119143d987293762c854224943bc0"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "10a6a345f25b",
+  "zone": "thunder-bluff-gossip-2",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Vhan",
+  "quest": null,
+  "en": "With the Earth Mother's blessing, we shall begin.",
+  "files": [
+   "gossip/a25b3302ffe572a2b66ceb81dc6c8089"
+  ],
+  "uiMap": 1456
+ }
+]

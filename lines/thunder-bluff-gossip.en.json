@@ -1,0 +1,2803 @@
+[
+ {
+  "id": "1150a9c26b7b",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Ahanu",
+  "quest": null,
+  "en": "Greetings. If you are here for leather goods, then you will find my wares well crafted.",
+  "files": [
+   "gossip/03925a7b505107b23b456755061ec21a"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "00e17c99a47a",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Ansekhwa",
+  "quest": null,
+  "en": "Sayoc is the orc weapon master and is located in Orgrimmar's Valley of Honor. He instructs in the use of bows, daggers, fist weapons, one and two-handed axes and thrown weapons.\n\nHanashi, the troll weapon master in the Valley of Honor of Orgrimmar, can teach the use of bows, one and two-handed axes, staves and thrown weapons.\n\nArchibald, the undead weapon master in the War Quarter of the Undercity, can train the use of crossbows, daggers, one and two-handed swords and polearms.",
+  "files": [
+   "gossip/abac3599f5c7bf1790a96604da9b81dc"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "78ea92f9bba5",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Ansekhwa",
+  "quest": null,
+  "en": "I would be honored to train you in the use of the weapons that I have mastered should you have the ability to learn within you.",
+  "files": [
+   "gossip/c180df78a79d05ea8d63a60886eb2a84"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "6d3d97fc716c",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Apothecary Zamah",
+  "quest": null,
+  "en": "For our people to survive, we must study the ways of nature and learn its secrets.",
+  "files": [
+   "gossip/33f4d5d87fe3c95d1d2f7dd7d7ccef84"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "45940969a132",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Hamuul Runetotem",
+  "quest": null,
+  "en": "The earth keeps many secrets, adventurer; it is our duty to ensure that those that must remain a secret for the good of all stays as such.",
+  "files": [
+   "gossip/73e67356c136d17ab74d016286b17aa3"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "4276414ea856",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Hamuul Runetotem",
+  "quest": null,
+  "en": "Yes, but you'll find it more rewarding if you have skill in herbalism! You'll be nurturing and cultivating special seeds. While the Evergreen Pouch you'll receive allows even a novice to grow something, those who show some aptitude in herbalism will have more bountiful results.",
+  "files": [
+   "gossip/aae2fc74b9bc45ed8363aab158366369"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "b75d3492de01",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Argent Outfitter",
+  "quest": null,
+  "en": "Greetings, adventurer. If you bring me necrotic stones from the undead invaders, I can give you access to the stores of the Argent Dawn.",
+  "files": [
+   "gossip/d896648b2f835d5d5dc24b8cc4bccacf"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "ab4ff85621dd",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Aska Mistrunner",
+  "quest": null,
+  "en": "Dirge Quikcleave of Gadgetzan is a master of the culinary arts. To better yourself you will need to seek him out.",
+  "files": [
+   "gossip/0ed954dd02d4a7694fc374f6df8dc387"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "4f19f1c27282",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Aska Mistrunner",
+  "quest": null,
+  "en": "Wulan in Shadowprey Village can sell you the \"Expert Cookbook\". You will need that if you are to better yourself.",
+  "files": [
+   "gossip/781459db7da362b3fa5744abdcd013b1"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "dbe2548debda",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Aska Mistrunner",
+  "quest": null,
+  "en": "I can teach you how to cook!",
+  "files": [
+   "gossip/de1872cd5c5303ee685544d18a1c6b9d"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "96d2b885c291",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Aska Mistrunner",
+  "quest": null,
+  "en": "Cooking is a life long pursuit and I see we share the same passion!",
+  "files": [
+   "gossip/f4ecc692c98606d458fb7c830b10e27c"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "681e27b9bfe4",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Bashana Runetotem",
+  "quest": null,
+  "en": "Greetings, noble adventurer. This humble servant of the Cenarion Circle wishes blessings and bounties be given unto you and yours.",
+  "files": [
+   "gossip/09eb7b06ec44bcb0a43d2256da983d80"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "e39a4a502e59",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Bena Winterhoof",
+  "quest": null,
+  "en": "Can you not sense the anguish of the Earth Mother for her lost children, the undead? Speak quickly, Adventurer. Every second costs me dearly. We must help them find their way back to her!",
+  "files": [
+   "gossip/58a07ba5d668196689ecb253dea303f8"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "3ff6517de2b4",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Bena Winterhoof",
+  "quest": null,
+  "en": "When I first saw the undead, I wept, for I could not imagine their horror and loneliness. The Earth Mother spoke to me then; she sang in my blood. And she told me, \"Save them.\"",
+  "files": [
+   "gossip/7ce695ef7f2710c9d9137cd9cc2d2a20"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "2a86c727bc90",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Bena Winterhoof",
+  "quest": null,
+  "en": "I cannot in good conscience spend time training novices while our allies, the undead, are suffering so terribly. Please speak with Kray over there instead; he can help you for now.",
+  "files": [
+   "gossip/8499a42fa2ab8897c99ee43a121f6abc"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "26579bec1aaa",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Bena Winterhoof",
+  "quest": null,
+  "en": "Can you not sense the anguish of the Earth Mother for her lost children, the undead? Speak quickly, adventurer. Every second costs me dearly. We must help them find their way back to her!",
+  "files": [
+   "gossip/ddd4d55dd1de943c233b8a47f730d0f9"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "1130542e879b",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Bena Winterhoof",
+  "quest": null,
+  "en": "Your potion-making skills are beyond mine. Seek out the undead Doctor Herbert Halsey in the Apothecarium of the Undercity. He has the skill to train you further, and you can witness firsthand his people's plight.",
+  "files": [
+   "gossip/fceb9cd6f78850904dc17716526c631c"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "22fa29bf3418",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Birgitte Cranston",
+  "quest": null,
+  "en": "I do not believe you possess the mental acuity to grasp the nature of portal magic.",
+  "files": [
+   "gossip/3a497353f8cb102ec4debd8d8adc446a"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "4cf50a36198a",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Birgitte Cranston",
+  "quest": null,
+  "en": "As a mage, you are one of a select group that can conjure a portal to transport you back to this very place. I can teach you if you are ready.",
+  "files": [
+   "gossip/972de67fb04e5abac98c6158c6b5bcc6"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "6fdf3ea2e545",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluff Runner Windstrider",
+  "quest": null,
+  "en": "Greetings and salutations, hero! I have the latest news from both continents and points beyond for your consideration.",
+  "files": [
+   "gossip/ed86d1f63d2d45272ce63c2046fb4084"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "c9fbd82744cc",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "You can find a mailbox just outside the Thunder Bluff Bank on the lower rise.",
+  "files": [
+   "gossip/0be0166409128e852e0cf07097c3b1cc"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "6bf944ee2bb7",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Krumn is the bull you are looking for. He can be found on the lower rise at Thunder Bluff Civic Information.",
+  "files": [
+   "gossip/0c6cb2a334460da852eecdbb7a3eb5c1"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "dcc8642ae55e",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Nature provides all that we need. Speak to Komin Winterhoof at Holistic Herbalism on the middle rise.",
+  "files": [
+   "gossip/0e3a1c24f70f1c359a96057de011b71d"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "fd0845097a38",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Ah, you seek the wisdom of Ansekhwa. Look for him on the lower rise at Thunder Bluff Weapons.",
+  "files": [
+   "gossip/1289a558c033b0924050a149cd96fe87"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "739f1f1a2ef2",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Every scrap used makes us less wasteful and brings us closer to the Earth Mother. Mooranta can show you the way. Seek her just outside the Thunder Bluff Armorers on the middle rise.",
+  "files": [
+   "gossip/1697153761e0b67c57f1cdd4dc2f2c12"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "59ae32f2f76f",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "The Wind Rider Roost is atop the totem stairway in the center of town.",
+  "files": [
+   "gossip/16b85a7fda02544a6b24467f4130d30f"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "c65cd77300d8",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "And to which battleground do you wish to journey?",
+  "files": [
+   "gossip/1d738815ffbfa1178b5cebf27d5e3cf0"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "92a4b0e06dab",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "The Hall of Spirits is where our shamans call home. You can find it on the Spirit Rise. May your ancestors watch over you.",
+  "files": [
+   "gossip/26cdb9ef81f934c56123ecd5f8f82223"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "27e8b710a53c",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Tepa is renown for her clothwork. She can be found at Thunder Bluff Armorers on the middle rise.",
+  "files": [
+   "gossip/2a0854c8bb2974724fa986a879759c63"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "307390897501",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "There is one that I know of here in Thunder Bluff that can aid you in your journey to Alterac Valley. On the Hunter Rise look for Taim Ragetotem. May you find what you are looking for adventurer.",
+  "files": [
+   "gossip/32652d64d7ec3c956ec22966227d3aad"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "01a5088b723c",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "A follower of the arcane are you? Hmph! Very well then... you can find them around the Pools of Vision underneath the Spirit Rise.",
+  "files": [
+   "gossip/337db40ce448a7dc218d2910d441596a"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "011bf05ba6ac",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Go see Una at Thunder Bluff Armorers then. It can be found on the middle rise.",
+  "files": [
+   "gossip/3ae20e97dad81c4d151a6d8c0b8448c7"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "fb99236fa576",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "You may seek out Martin Lindsey inside the Pools of Vision, underneath the Spirit Rise. He will assist you on your way to Arathi Basin.",
+  "files": [
+   "gossip/3de798b62a6a7c9477fb4ead6227ff5c"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "923002cd1068",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "First Aid is always a nice skill to have. Many a time during battle has it saved my hide. Visit Spiritual Healing on the Spirit Rise. Pand Stonebinder can teach you all you need to know to save your hide as well.",
+  "files": [
+   "gossip/404195be7635731d800fe49c72496fde"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "7f342eb4c798",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "None are as skilled in the use of weapons as Ansekhwa. It is said that he is guided by the spirits of the finest warriors of our honored ancestors. Seek him out on the lower rise and he will teach you what you want to know.",
+  "files": [
+   "gossip/4113d427578d33dd0d7cc5960d9e551b"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "dd03edaa925b",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "I believe I noticed a new shipment of mail being delivered not too long ago. You'll find the mailbox just outside the Thunder Bluff Bank on the lower rise.",
+  "files": [
+   "gossip/4953668f5dcca129474b758d1d23b145"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "54d97f6d47ee",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Life is a struggle, and the saying that which does not kill you makes you stronger is not always true. Sometimes wounds act slowly, which is why we have bandages. Pand Stonebinder of the Spirit Rise can teach you the art of First Aid.",
+  "files": [
+   "gossip/4d9ce77b1fd1d043523dd81e104c633b"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "002900421600",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "It is the assistance of Bulrug that you need. You will find him outside on the lower rise standing between the inn and the Thunder Bluff Bank.",
+  "files": [
+   "gossip/5249bd4ce3fc5b36c84b65c6cdbaac96"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "62dbd8c951cc",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Greetings honored one. Turak Runetotem and the other druids have been expecting you at the Hall of Elders on Elder Rise.",
+  "files": [
+   "gossip/5756887f0cd1cbab07deea21bfd1aeb8"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "30b335813762",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "The herbs found in nature can be a powerful ally when combined with respect. You will want to seek out Bena at her alchemy shop on the middle rise to further your training.",
+  "files": [
+   "gossip/599c6d8be27d0c47d6ed586b58d5e540"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "b8c3e80a5bbd",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "The Thunder Bluff Bank can be found on the lower rise.",
+  "files": [
+   "gossip/625203147fa733c66de63ce3f3252013"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "b7854a7477b1",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Very sad to think what has befallen those poor undead souls. You can find Archmage Shymm reflecting near the Pools of Vision under the Spirit Rise.",
+  "files": [
+   "gossip/625f49a102fa08e5850ceb7e193dfaaf"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "062dd3a7a8aa",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Clothing the tribe is as important a job as any other. You should look for Tepa inside Thunder Bluff Armorers. She has a natural way with the needle.",
+  "files": [
+   "gossip/63954ad79a181f4bdebcb1e87ea78d14"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "b653f358f529",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "A fellowship of kindred spirits can be a powerful force. Krumn will help you to achieve this. You will find him at the Thunder Bluff Civic Information center on the lower rise next to the lifts.",
+  "files": [
+   "gossip/7428818296fb57ab2ba6a762f2e0d2d1"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "b1e907c095fe",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Father Cobb will be the one you want to talk to. He can be found under the Spirit Rise in the Pools of Vision cave.",
+  "files": [
+   "gossip/764977ab49461a0e2f73e5c89e64d7bb"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "34196a3da52e",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Such needless strife, but if the elves of Silverwing Hold will not speak to us in peace, then what alternative do they leave us? Seek out the aid of Kergul Bloodaxe on the Hunter Rise to get to Warsong Gulch.",
+  "files": [
+   "gossip/7b590df5fa47f42b00a668a61d2d41b9"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "458349d0b241",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Komin Winterhoof at Holistic Herbalism is the one you want to talk to then. He can be found on the middle rise.",
+  "files": [
+   "gossip/83473bcdaf1b33eec50ef89c07b8748c"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "b1316566a007",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Kergul Bloodaxe on the Hunter Rise stands ready to help you get to Warsong Gulch.",
+  "files": [
+   "gossip/8dd5ae8dd52efbfbadf578cc9ba63982"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "8730fd702536",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Look for Innkeeper Pala in the building just south of the Thunder Bluff Bank on the lower rise.",
+  "files": [
+   "gossip/8f087943366a3acf764b32af4c3ded23"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "dbba02881c32",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Despite their tragedy the Undead have come all this way to aid us. I only hope that we can be as helpful to them. Seek out Father Cobb near the Pools of Vision under the Spirit Rise.",
+  "files": [
+   "gossip/90d649ee3e1d08c27a8665c6bdeff359"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "eb5da0d5c9d5",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "It is found on the lowest section of Thunder Bluff. Search near the bank. It is not far from there.",
+  "files": [
+   "gossip/959837cc6b3520206fd7ffcd50a3fc7a"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "977af8eef458",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "The Earth Mother holds many secrets and Brek Stonehoof can help you to discover some of them. You will find him on the lower rise at Stonehoof Geology.",
+  "files": [
+   "gossip/9c03014605b27c25c059f0223bc21ad6"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "e355fe82616e",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Then head over to Bena's Alchemy on the middle rise and talk to Bena herself. She will be able to help you master the art of potion brewing.",
+  "files": [
+   "gossip/9c3a8733672857571a79608e45334e15"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "8cc06d033a13",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Check out Dawnstrider Enchanters on the middle rise then. Teg will be more than happy to help you in whatever way he can.",
+  "files": [
+   "gossip/9daecfcdaaa5812a8e8e882f46b515a2"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "cb70fab5441a",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "You honor the spirits of the animals you must slay by not letting them go to waste. Aska Mistrunner will show you how. She has a kitchen on the high rise.",
+  "files": [
+   "gossip/9e2f8a46117e84f56a1520a66a6bde35"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "eae26b844c1e",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Strong of body and spirit. There can be no stronger combination! Find your destiny with Sark Ragetotem in the Hunter's Hall.",
+  "files": [
+   "gossip/9f80018ebca95bca3d012c9885917333"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "4364fa4e1e91",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "There is a symmetry in the idea of the hide of your enemy providing you with protection. To further your leatherworking skills look for Una inside the Thunder Bluff Armorers on the middle rise.",
+  "files": [
+   "gossip/a1d048a682603a6da0676d45f85019cb"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "69d33d58dc07",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "The auction house can be found on the central spire of Thunder Bluff. Search near the bottom of the Windrider's Tower. May your ancestors watch over you.",
+  "files": [
+   "gossip/a4a9ad83a2b44afa7328bfec39dea3c7"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "f927c2565d97",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Ah, to soar with the great birds of the sky. Seek out Tal at the top of the Winder Rider Roost. He will steer you toward where you're going.",
+  "files": [
+   "gossip/a71221b80997e8993fe99d8f65940c87"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "abf36182fb71",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Innkeeper Pala will help you rest your body and spirit. You can find her in the building just south of the bank on the lower rise.",
+  "files": [
+   "gossip/a76e86e6fc61fee2e4a3508cf1d715f5"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "0644aa2eb3a1",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Brek Stonehoof can be found at Stonehoof Geology on the lower rise and can teach you the proper way to harvest precious ores and gems.",
+  "files": [
+   "gossip/ab35cc7d314a40c2e9345c2f6bd27c2f"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "6cf88866f2d8",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Then it is to Taim Ragetotem that you must speak. Seek him out on the Hunter Rise.",
+  "files": [
+   "gossip/b26bc8fc22a99ad20945a9589f5b955d"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "8389b1f99a88",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Looking to learn how to work an anvil and hammer, eh? Karn Stonehoof can teach you how. He has a smithy set up on the lower rise by the pond.",
+  "files": [
+   "gossip/b3ac26184e7b679b5f3a5fd050ceed51"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "41aa90a559a7",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "You may shed yourself of your worldly possessions at the Thunder Bluff Bank on the lower rise.",
+  "files": [
+   "gossip/bb2889c7bfa57a143417bd9b1f197fc1"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "b50fdfe83323",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Kah Mistrunner at Mountaintop Bait & Tackle on the high rise will show you the way to find inner peace and serenity while fishing for your next meal.",
+  "files": [
+   "gossip/c00a4b671e155d6fa7a2d4aa63e871fb"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "59bbf4208024",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "The profession of Enchanting displays the cycle of destruction and creation that is at the heart of nature. Teg at the Dawnstrider Enchanters on the middle rise will show you how.",
+  "files": [
+   "gossip/c88c9780cf6c0a23744737daab1c43fe"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "864ffccac637",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Any friend of the animals is a friend of mine. The Hunter's Hall is what you seek. It sits atop the Hunter Rise.",
+  "files": [
+   "gossip/cd34633c29559796c6ebc619f7cdc14a"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "df4552a85d65",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "The concern that you show for the welfare of your animal companions is commendable. Bulrug, on the lower rise, can help you with that. Seek him out between the bank and the inn.",
+  "files": [
+   "gossip/d7325e94b3d82c25fc436cfe7d51f3f0"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "6ce08859178d",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Aspiring to join our ranks one day? Sark Ragetotem can help you on your way. He's in the Hunter's Hall.",
+  "files": [
+   "gossip/da0f47520f4f0e59ff8825cae6d258b6"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "49d90ba1d29f",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "You wish to aid The Defilers in their fight against The League of Arathor in Arathi Basin? Very well, you should ask Martin Lindsey for his assistance then. Look for him in the Pools of Vision.",
+  "files": [
+   "gossip/da5ea3194230fd515aa40fc906d898ab"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "f2c42c291c62",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "The Earth Mother calls and you answer. You will find the Hall of Spirits on the Spirit Rise.",
+  "files": [
+   "gossip/dfd2bbc7b4882c8ae2435868f54dce8f"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "c70e5116ffa3",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Metal, as with all things, should be used in balance with nature. Karn Stonehoof has a smithy setup near the pond on the lower rise. Seek out his wisdom.",
+  "files": [
+   "gossip/e6ee92e9034e719f370e30f576c15eda"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "730dc9361c3e",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Mooranta can help you learn skinning. She can be found just outside the Thunder Bluff Armorers on the middle rise.",
+  "files": [
+   "gossip/e7af07864db4b2551b191f075ac7869a"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "61872ff18b72",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Ahh, you will need to make your way over to the Hunter's Hall then. Several great hunters like Holt Thunderhorn can be found there on the Hunter Rise.",
+  "files": [
+   "gossip/ec41eb4745bf50e326e8e13f25e45b8f"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "6ac7b6cc8bae",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Seek out Turak Runetotem in the Hall of Elders on the Elder Rise.",
+  "files": [
+   "gossip/f32f1f8317df644d79d3324fc75752ef"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "7a91864194b2",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "There is no finer cook in Thunder Bluff than Aska Mistrunner. Mmmmm, I can smell what she is cooking from here. Head over to her kitchen located on the high rise.\n\nDrat... now I am hungry.",
+  "files": [
+   "gossip/f62291a619a18dcacc69b5f64e8dc599"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "9762d33e84d2",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluffwatcher",
+  "quest": null,
+  "en": "Don't blame you for taking up fishing. Mulgore has some the best fishing spots in Southern Kalimdor and Mountaintop Bait & Tackle on the high rise has all of the gear you'll need to take advantage of it.\n\nTell Kah Mistrunner that I sent ya!",
+  "files": [
+   "gossip/fedcf5e7226755c1e4b423ea45d0b484"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "83e1b70b8341",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Cain Firesong",
+  "quest": null,
+  "en": "Well met, adventurer. My advice to you is this: As you travel the world, be wary of magic for it will burn the untrained.",
+  "files": [
+   "gossip/449fe8a183d9fbd6474051e5e1ba406e"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "70fdb46bcd94",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Cain Firesong",
+  "quest": null,
+  "en": "Greetings. I'm an undead mage trainer, and you're a mage.",
+  "files": [
+   "gossip/a6c8531f923dc7ee0e543e0e81ce1717"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "ab25f10c88b5",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Cairne Bloodhoof",
+  "quest": null,
+  "en": "Greetings young one, and welcome to Thunder Bluff. You'll find safe refuge from the burdens of the world here. All denizens of the Horde are welcome here.\n\nThe spirits of the present and past come alive here in this sacred place, my friend. Honor them, and in doing so honor yourself.",
+  "files": [
+   "gossip/6a6507689e26d6a64d8cd2d70050e9b6"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "a90e871b9952",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Cairne Bloodhoof",
+  "quest": null,
+  "en": "Ah, a young warrior to be no doubt! I take it you are participating in Children's Week, yes? It warms these weary bones to hear that you are setting the example by which others will be sure to follow.\n\nI'd be delighted to oblige you and the young lad. Hrmm... what advice should I give to him? Listen to the spirits, yes... maybe something about eating all of his vegetables too...",
+  "files": [
+   "gossip/b7a8229dca2676591932185ee439b12b"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "74a8bcf0cc72",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Chronos",
+  "quest": null,
+  "en": "Greetings. I am Chronos - He Who Never Forgets. My memory is without flaw, and exact to the most minor detail.\n\nTrust me.",
+  "files": [
+   "gossip/26f2988f1c71f43761398daa16273de5"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "061be146df32",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder Proudhorn",
+  "quest": null,
+  "en": "Elder Ironband lives in Blackchar Cave in Searing Gorge.",
+  "files": [
+   "gossip/26b1ea4b8c36bbbe627da6ced6c887d0"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "c78bb3ed087d",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder Proudhorn",
+  "quest": null,
+  "en": "Elder Darkhorn can be found among the red rocks of Orgrimmar.",
+  "files": [
+   "gossip/8dd5511620ccc2ed9dbeff8c6da48c61"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "6168d1bf0af2",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder Proudhorn",
+  "quest": null,
+  "en": "Elder Darkcore can be found in the Undercity.",
+  "files": [
+   "gossip/e2e65e24680eff10e7ccb61389c85a92"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "3e11c011d05b",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Ghede",
+  "quest": null,
+  "en": "Be advised, Jackson - I am in no mood for any comment that you think is cute or funny. I am here to make sure that the Arch Druid's research proceeds as planned, and my orders are to weed out all non-hackers who do not pack the gear to serve in my beloved Cenarion Circle.",
+  "files": [
+   "gossip/m-8e2b442664f11c1d603c1dbdef886718"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "6fa1d0180438",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Holt Thunderhorn",
+  "quest": null,
+  "en": "I can not train you, young one.",
+  "files": [
+   "gossip/339f020f3980f14597ba187876244c7e"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "8486e15a088a",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Holt Thunderhorn",
+  "quest": null,
+  "en": "Remember, all things are connected. If the beasts were gone from the land, our kind would die from a great loneliness of spirit, for whatever happens to the beasts also happens to the Tauren. Whatever befalls Azeroth befalls all those that inhabit it.",
+  "files": [
+   "gossip/9f7c9c74e4a293c201950a343d3e2e9e"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "3078bb59382d",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Horde Warbringer",
+  "quest": null,
+  "en": "War is upon us, adventurer. It's time for every member of the Horde to answer the call and join the fight against the cowardly Alliance.",
+  "files": [
+   "gossip/500674c7da105457382c51908165838f"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "b93ee51d0dcc",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Blackrock Mountain lies between Searing Gorge in the north and Burning Steppes in the south.",
+  "files": [
+   "gossip/06eb7bd37fd0c212607efd69ff668e03"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "77c7dac4ab30",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "The School for Necromancy known as Scholomance is on the ruined island of Caer Darrow in the Western Plaguelands.",
+  "files": [
+   "gossip/0b35ae40cc764b63340a0d3431fca136"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "2853a481a7b0",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Razorfen Downs can be found on the very southern tip of the Barrens on the east side of the road.",
+  "files": [
+   "gossip/12c27bc52b107697f8de364f8dae7e3c"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "6e6603eeafa7",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Crafted from the same vines as Razorfen Kraul, Razorfen Downs is the traditional capital city of the quilboar race. The sprawling, thorn-ridden labyrinth houses a veritable army of loyal quilboar as well as their high priests - the Death's Head tribe. Recently, however, a looming shadow has fallen over the crude den. Agents of the undead Scourge - led by the lich, Amnennar the Coldbringer - have taken control over the quilboar race and turned the maze of thorns into a bastion of undead might.",
+  "files": [
+   "gossip/18f70be5c25cb2ea163cd8d518bfdc66"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "21fc6ffc52b3",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Once the jewel of northern Lordaeron, the city of Stratholme is where Prince Arthas turned against his mentor, Uther Lightbringer, and slaughtered hundreds of his own subjects who were believed to have contracted the plague of undeath. Arthas' surrender to the Lich King soon followed. The broken city is now inhabited by the undead Scourge - led by the powerful lich, Kel'Thuzad, and a contingent of Scarlet Crusaders, led by Grand Crusader Dathrohan. The two sides are locked in constant, violent combat.",
+  "files": [
+   "gossip/1dafad1d0d57bc8653d5c2c7d35c4a07"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "4239a255a678",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "The Stormwind Stockades are found near the mage quarter in Stormwind.",
+  "files": [
+   "gossip/298b92e58115d14cb1cd1b4ff6278556"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "72af5daf085a",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "The ruined city of Stratholme lies in the Eastern Plaguelands to the north of the Plaguewood.",
+  "files": [
+   "gossip/3124bcbc877a9654486099bdcbfb0eef"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "5cacc0afd0a3",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Over a thousand years ago a group of troll priests known as the Atal'ai attempted to bring back an ancient blood god named Hakkar the Soulflayer. After the resulting civil war the priests were defeated and exiled to the Swamp of Sorrows. There they erected a temple to Hakkar to prepare for his arrival into the physical world. The dragon Aspect Ysera soon learned of the Atal'ai's plans and smashed the temple beneath the marshes. To this day, the temple's ruins are guarded by the mighty green dragons.",
+  "files": [
+   "gossip/331713e1070e9f4f3576819f670ae53d"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "868fb5ed5b3e",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Located in Dun Morogh, Gnomeregan has been the gnomes' capital city for generations, though it was recently infested by mutant troggs. In a desperate attempt to retaliate, High Tinker Mekkatorque ordered the emergency venting of the city's radioactive waste tanks. Though the troggs became irradiated, their siege continued unabated and the gnomes were forced to seek refuge in the dwarven city of Ironforge, where the High Tinker now enlists brave souls to help his people reclaim their beloved city.",
+  "files": [
+   "gossip/42f5d7a2dd2fde374bdefa0c10701256"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "8731ed1ee9be",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Once the capital city of the Dark Iron dwarves, this volcanic labyrinth now serves as the seat of power for Ragnaros the Firelord. Ragnaros has uncovered the secret to creating life from stone and plans to build an army of unstoppable golems to aid him in conquering the whole of Blackrock Mountain. Obsessed with defeating Nefarian and his draconic minions, Ragnaros will go to any extreme to achieve final victory.",
+  "files": [
+   "gossip/4b2a582cee1f20d593eae9a388287135"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "4f2f296b53b1",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Built twelve thousand years ago by a covert sect of night elf sorcerers, the ancient city of Eldre'Thalas was used to protect Queen Azshara's most prized arcane secrets. Though it was ravaged by the Great Sundering of the world, much of the wondrous city still stands as the imposing Dire Maul. The ruins' three distinct districts have been overrun by all manner of creatures - especially the spectral highborne, foul satyr and brutish ogres.",
+  "files": [
+   "gossip/4b98c70ede6bd8cb80bc9ebb78fd4f9a"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "31cf55f05dac",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Maraudon is one of the most sacred sites within Desolace. The great temple/cavern is the burial place of Zaetar, one of two immortal sons born to the demigod, Cenarius. Legend holds that Zaetar and the earth elemental princess, Theradras, sired the misbegotten centaur race. It is said that upon their emergence, the barbaric centaur turned on their father and killed him. Some believe that Theradras, in her grief, trapped Zaetar's spirit within the winding cavern - used its energies for some malign purpose.",
+  "files": [
+   "gossip/4c47373b8dd57eabb9791705a594084f"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "c9757c62ecec",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "The Deadmines can be found beneath Moonbrook in the south of Westfall.",
+  "files": [
+   "gossip/4c620133d97c2f350972b761b3dc491d"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "10a2a4ee3a63",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Uldaman can be found at the very northern end of the Badlands.",
+  "files": [
+   "gossip/556878b84c0292b45d666060cb90b770"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "71f8dcf27558",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Blackfathom Deeps can be found at the north end of Zoram Strand along the coast of Ashenvale.",
+  "files": [
+   "gossip/55c6bd57311ef599eca95a97025087e1"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "fb7c8e90a27d",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Razorfen Kraul can be found on the very southern tip of the Barrens on the west side of the road.",
+  "files": [
+   "gossip/5a6a13f324242e75a6382d99c516cc94"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "1d55542ea04d",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Scarlet Monastery lies in the hills northeast of Tirisfal Glades.",
+  "files": [
+   "gossip/6197d9bec6a3e8059bca553e1ceac8b1"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "47370967cf7c",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Bolvar, Magni, or Tyrande.",
+  "files": [
+   "gossip/63f35b75e396252f797a4186f1286bee"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "143ca6ec7a1a",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "No, I'm not, but lots of others are looking for love. You should buy my love tokens, put on some cologne or perfume, and then pass them around!",
+  "files": [
+   "gossip/67e679105237aa46ee7a3409ef1a68c5"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "4e0cfd158292",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "If you put on cologne or perfume, then you'll see who is amorous. Those are the ones who accept love tokens... and offer a gift in return.\n\nBut remember: to give someone a love token, you have to smell just right! Men like the scent of perfume, while women prefer cologne.",
+  "files": [
+   "gossip/7baa3037efa4e58f77af6f15cb527593"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "f0409985fe77",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "The ruins of Zul'Farrak are located in the northwestern corner of the Tanaris Desert.",
+  "files": [
+   "gossip/7bf5800aefb381b3ab9369dbae519ad1"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "13c7284d522b",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Maraudon is located in the middle of the western coast of Desolace, in the Valley of Spears.",
+  "files": [
+   "gossip/7f40e2c7a99505ba4995ee282dfc6836"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "d9f26ab8f927",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "The monastery was once a center for learning and enlightenment. With the rise of the undead Scourge during the Third War, the peaceful Monastery was converted into a stronghold of the fanatical Scarlet Crusade. The Crusaders are intolerant of all non-human races, regardless of alliance or affiliation. They believe that any and all outsiders are potential carriers of the undead plague - and must be destroyed.",
+  "files": [
+   "gossip/86adf50ebffcdaae0b2e044333b6e69a"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "6c26ce736a6d",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "During the War of the Ancients, the demigod Agamaggan came forth to battle the Burning Legion. The colossal boar was defeated, and over time in the areas where his blood fell, massive thorn-ridden vines sprouted to life. The quilboar came to occupy these regions and hold them sacred. The heart of these massive thorn-colonies is the Razorfen. Razorfen Kraul was conquered by the crone, Charlga Razorflank, who some speculate has been negotiating with agents of the Scourge for some insidious purpose.",
+  "files": [
+   "gossip/87b9ad9eca23dfe66c987d93b54bc51b"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "a79761b133d7",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Situated along the Zoram Strand of Ashenvale, Blackfathom Deeps was once a glorious temple dedicated to the night elves' moon-goddess Elune. However, the great Sundering shattered the temple - sinking it beneath the waves of the Veiled Sea. There it remained untouched - until, drawn by its ancient power - the naga and satyr emerged to plumb its secrets. Legends hold that the ancient beast, Aku'mai, has taken up residence within the temple's ruins.",
+  "files": [
+   "gossip/90068fa43ca357ef9462599be9d006a4"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "ea41b9eb3b23",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Cairne, Sylvanas and Thrall.",
+  "files": [
+   "gossip/9160ee289a277af5bf427091078afc51"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "af74baab811f",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "As the wind on the plains, you are always welcome here.",
+  "files": [
+   "gossip/980ce6cc828845cb13bcbd8cd0b6917e"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "b6ec791cae67",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Love tokens are small messages of affection you can give to amorous town and city folk. Such people will reward you with a gift of adoration.\n\nOr, if you are already adored by another, then at the least they'll give you a gift of friendship.",
+  "files": [
+   "gossip/9d86f89304affdeae5264f879da84304"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "36537688e644",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "The Stockades are a high-security prison complex, hidden beneath the canal district of Stormwind city. Presided over by Warden Thelwater, the Stockades are home to petty crooks, political insurgents, murderers and a score of the most dangerous criminals in the land. Recently, a prisoner-led revolt has resulted in a state of pandemonium within the Stockades - where the guards have been driven out and the convicts roam free.",
+  "files": [
+   "gossip/a704e4b5607d1ef64f5d23e8fd7983c1"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "5c4753350d28",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "The mighty fortress carved within the fiery bowels of Blackrock Mountain was held by the sinister Dark Iron dwarves for centuries until Nefarian - the cunning son of the dragon, Deathwing - took control of the upper Spire and made war on the dwarves' holdings in the mountain's volcanic depths. Realizing that the dwarves were led by the mighty fire elemental, Ragnaros - Nefarian vowed to crush his enemies and claim the whole of Blackrock mountain for himself.",
+  "files": [
+   "gossip/a8ecc7056b89cefc7b67cdb06c5db362"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "cebc94b0d299",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "The Wailing Caverns has its entrance at the Lushwater Oasis southwest of Crossroads in the Barrens.",
+  "files": [
+   "gossip/af31a346608dbddcecea7edc85e314ff"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "07fdce48c7a3",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Recently, a night elf druid named Naralex discovered a network of underground caverns within the heart of the Barrens. Believing he could use the caverns' springs to restore lushness to the Barrens, the druid began siphoning the energies of the fabled Emerald Dream. His vision somehow became a nightmare, however, and soon the Wailing Caverns changed into a den of vicious, deadly predators. It is said that Naralex still resides somewhere inside the labyrinth, trapped beyond the edges of the Emerald Dream.",
+  "files": [
+   "gossip/af82564cf7ae1fe402a33ef253cb74cc"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "1af12cee21c3",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Uldaman is an ancient Titan vault that has laid buried within the earth since the world's creation. Dwarven excavations of the city have recently released the Titans' first failed creations: the troggs. Legends say that when the Titans deemed the trogg experiment a failure they tried again, resulting in the creation of the dwarven race. These secrets are recorded on the fabled Discs of Norgannon - massive artifacts that lie at the bottom of the ancient city, protected by giant constructs of living stone.",
+  "files": [
+   "gossip/bc7a0c38334a3cb0cabf4faf3d793a87"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "b84ae96de52c",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Frustrated by the Dalaran wizards' lack of progress against the undead during the Third War, the Archmage Arugal elected to summon the extra-dimensional worgen to bolster his side's diminishing ranks. The wolf-men slaughtered the Scourge, then quickly turned on the wizards themselves and laid siege to the keep of the noble, Baron Silverlaine. The fort quickly fell into shadow and ruin. Driven mad with guilt, Arugal adopted the worgen as his children and retreated to the newly dubbed 'Shadowfang Keep'.",
+  "files": [
+   "gossip/c08a11a40b198a8cdf5e21127dad1408"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "a315538199b0",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Ragefire Chasm consists of a network of volcanic caverns below the orcs' new capital city of Orgrimmar. Recently, rumors have spread that a cult loyal to the demonic Shadow Council has taken up residence within the Chasm's fiery depths. This cult, known as the Burning Blade, threatens the very sovereignty of Durotar. Many believe that the orc Warchief Thrall is aware of the Blade's existence and has chosen not to destroy it in the hopes that its members might lead him straight to the Shadow Council.",
+  "files": [
+   "gossip/c2be634e5a50af657e4346af05a183dc"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "b2150d812d35",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Are you interested in exploring one of these dungeons?",
+  "files": [
+   "gossip/ccda04db92cbf011d170b7cae60f408c"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "b027df0750b2",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "The ruins of Dire Maul stand in central Ferelas.",
+  "files": [
+   "gossip/ce805aa1448186ce4794258c3cdc704e"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "0ad93f995292",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Ragefire Chasm can be found beneath the Shadow Cleft in the center of Orgrimmar.",
+  "files": [
+   "gossip/d332f132dad158e7271d0f14c19ec73d"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "89a7075621fb",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "The Sunken Temple can be found in the center of a great lake in eastern Swamp of Sorrows.",
+  "files": [
+   "gossip/d33cc3248fefbb1f1925c215048cf29b"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "20233caacd9a",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Gnomeregan can be found in western Dun Morogh.",
+  "files": [
+   "gossip/d44d297c2cca8733f4d13c8c8c1f28d5"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "b8276df09ee4",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "The Scholomance is housed in crypts beneath the Caer Darrow keep. Once owned by the noble Barov family, the keep fell to ruin after the Second War. As the wizard Kel'Thuzad enlisted followers for his Cult of the Damned, he often promised immortality for those who served his Lich King. The Barovs fell to his influence and donated their keep, but the cultists killed the family and turned the crypts into a school of necromancy. Though Kel'Thuzad no longer resides there, cultists and instructors still remain.",
+  "files": [
+   "gossip/d7a63e33070adb319c75b51cca5b23b6"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "0912fdccb2bc",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "This sun-blasted city is home to the Sandfury trolls, known for their particular ruthlessness and dark mysticism. Troll legends tell of a powerful sword called Sul'thraze the Lasher, a weapon capable of instilling fear and weakness in even the most formidable of foes. Long ago, the weapon was split in half. However, rumors have circulated that the two halves may be found somewhere within Zul'Farrak's walls.",
+  "files": [
+   "gossip/d9ac47630828a00f0b09464fc66c51ec"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "96fe4a9bc5f7",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Once the greatest gold production center in the human lands, the Dead Mines are now inhabited by the Defias Brotherhood, who have turned the dark tunnels into their private sanctum. It is rumored that the thieves have conscripted the clever goblins to help them build something terrible at the bottom of the mines - but what that may be is still uncertain. Rumor has it that the way into the Deadmines lies through the quiet, unassuming village of Moonbrook.",
+  "files": [
+   "gossip/dd975c8f89f30ab9b769be5964cf632f"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "4aaddfbe72a5",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": null,
+  "en": "Shadowfang Keep is in southern Silverpine just north of Pyrewood Village.",
+  "files": [
+   "gossip/fb940c5b0393c3fd43e9e2df8f5562a8"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "c182d08c5306",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Kah Mistrunner",
+  "quest": null,
+  "en": "Your skill exceeds mine, though I've heard that Old Man Heming in Booty Bay has copies of \"The Bass and You\". That is sure to help you increase your skill.",
+  "files": [
+   "gossip/3754efa5bf514e289af226829e49e360"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "43e60ddf5157",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Kah Mistrunner",
+  "quest": null,
+  "en": "I can teach you fishing skills.",
+  "files": [
+   "gossip/40d6df5ee6a68543af15fab16ad8ee8e"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "c44f8df9e42a",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Kah Mistrunner",
+  "quest": null,
+  "en": "You will need to find Nat Pagle in Dustwallow Marsh to get any better than you are currently.",
+  "files": [
+   "gossip/85322120ed7dcca1297d4aab61c178ea"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "4207328c49ff",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Karn Stonehoof",
+  "quest": null,
+  "en": "You have the look of a man who seeks knowledge. Perhaps you seek the teachings of the forge, and the hammer. Perhaps I can guide you down that path. But only once you have accepted the spirits, and listened to their calling.",
+  "files": [
+   "gossip/m-b0b47cf8dcffc971f677db7811e6e84d"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "8d316b75059c",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Kary Thunderhorn",
+  "quest": null,
+  "en": "I do not have the knowledge you seek.",
+  "files": [
+   "gossip/7aef7b10c6066a85b4dcb024a35dcf16"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "b273e302df2c",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Kary Thunderhorn",
+  "quest": null,
+  "en": "I train hunters in the ways and traditions of our ancestors.",
+  "files": [
+   "gossip/883dd1e4958a2516760a390cede31245"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "f3569a58dbc1",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Ker Ragetotem",
+  "quest": null,
+  "en": "No matter how much one learns, there is always more to know.",
+  "files": [
+   "gossip/4a6a6065163c56f554d467ae1dc50637"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "1ba3163bd905",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Ker Ragetotem",
+  "quest": null,
+  "en": "I can not train you, adventurer.",
+  "files": [
+   "gossip/9404079002e176274c2ff652c8208428"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "ec853d9baefa",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kergul Bloodaxe",
+  "quest": null,
+  "en": "adventurer, the Silverwing Sentinels must be crushed! Are you ready for Warsong Gulch?",
+  "files": [
+   "gossip/11e58e60ca0813ec5ce983fe8d5fbd5f"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "8b5cb21514d0",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Kray",
+  "quest": null,
+  "en": "Your capacity for learning has outstripped mine. You will need to talk to Bena Winterhoof over there for further instruction. Please don't take too much of her time, though. She needs her rest.",
+  "files": [
+   "gossip/16e14575c243b22108364e8f2d7ebf81"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "6325e3f27b52",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Kray",
+  "quest": null,
+  "en": "I must have broken hundreds of vials when I first began brewing potions. The glass was so fragile in my clumsy hands. I hope you are more cautious than I was.",
+  "files": [
+   "gossip/27bb4a92d481d7e2bb454ad5137ab13d"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "7ce60708db1c",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Kray",
+  "quest": null,
+  "en": "Bena works like one possessed. Day and night I have seen her bent over these potions, often going without sleep or food. I know our undead allies need help, but I begin to fear she will do herself an injury.",
+  "files": [
+   "gossip/98efca988aa70ef4d3d5510095903801"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "059e65d12946",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Krumn",
+  "quest": null,
+  "en": "Our ancestors teach us that while the individual must be strong, there is safety in numbers. Do you wish to defend the honor of Thunder Bluff by organizing a guild?",
+  "files": [
+   "gossip/3e32631ac3a950dee327a67b4a766065"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "34212990b485",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Magatha Grimtotem",
+  "quest": null,
+  "en": "You must listen, young adventurer. Listen to the whisperings in the darkness, for they offer guidance in these troubled times.",
+  "files": [
+   "gossip/e10a9d93f61681ba04ed6a169b28b92a"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "47b7396332a4",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mak",
+  "quest": null,
+  "en": "Cleanse your hands before you begin any project. Staining the leather with blood or dirt would take away from its natural beauty.",
+  "files": [
+   "gossip/9bcfa971f468ee6490afd446429c6d90"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "e229334b3bca",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mak",
+  "quest": null,
+  "en": "Cairne himself lives here, they say. Once I have finished crafting a fitting gift, I will seek him out. Perhaps he will have words of wisdom for me.",
+  "files": [
+   "gossip/a1adc9308232c8c0f4e71953e5b803bf"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "d0e890bad9ae",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mak",
+  "quest": null,
+  "en": "Your talent is beyond my own, friend. Speak with Tarn here; his knowledge of leather is much greater than mine. I'm sure he would welcome another student.",
+  "files": [
+   "gossip/edf5f8de4140afd1bce34fd502315c9b"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "644f08831f59",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Martin Lindsey",
+  "quest": null,
+  "en": "You think you have what it takes to destroy The League of Arathor, adventurer? I hope so. What is it that you want, or are you simply here to waste my time?",
+  "files": [
+   "gossip/59736d80c4279b69db8e94d24074d17a"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "6c1589d30961",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Martin Lindsey",
+  "quest": null,
+  "en": "I am sorry adventurer, but you need to be more powerful before I can allow you to enter Arathi Basin.",
+  "files": [
+   "gossip/5d7befc434c3b284ff699c9b717bf554"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "b7136c37f6ee",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Melor Stonehoof",
+  "quest": null,
+  "en": "To hunt a beast, one must know that beast. One must learn and respect its ways.\n\nTo do otherwise is not to hunt. To do otherwise is merely to kill.",
+  "files": [
+   "gossip/562a340a1d897b6369f7376117b902d2"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "7fd41c7548a6",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Miles Welsh",
+  "quest": null,
+  "en": "Ah, you're the one who found the letter. Thank you for the... news, I suppose, about my family. You're welcome to what food and drink I can offer.",
+  "files": [
+   "gossip/c5b7759f0cefd29b1a309325dd586e97"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "d5f6fdc7e611",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Morja",
+  "quest": null,
+  "en": "I can't find my pet frog, Jubjub. She loves Dark Iron Ale, it's all she ever drinks, but can be so hard to get! Now I'm out... and Jubjub must have run away to find more!\n\nI wish she would come back...",
+  "files": [
+   "gossip/973e2ce5b84bdcdcff9a070880e9f347"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "dd72924fe558",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Morja",
+  "quest": null,
+  "en": "I'm so happy that Jubjub returned! I only hope that I don't run out of Dark Iron ale soon, or I fear my pet frog might once again escape!",
+  "files": [
+   "gossip/e3a9bceac350c8d4521ba30052baa2de"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "afd98191c4bf",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mot Dawnstrider",
+  "quest": null,
+  "en": "There are many secrets that may be unlocked with patience and determination. Now, let us begin...",
+  "files": [
+   "gossip/070204bf722544f25415a86e05271b64"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "bd4826b13ca5",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mot Dawnstrider",
+  "quest": null,
+  "en": "What I wouldn't give to be out on the open plains on a day like this... but, my duty binds me.",
+  "files": [
+   "gossip/164d32099002118fe8d2117ec015ba57"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "db217b618c43",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mot Dawnstrider",
+  "quest": null,
+  "en": "I cannot teach you anything you don't already know. However, the knowledge of my father far surpasses my own. Go inside and speak to him. Good luck!",
+  "files": [
+   "gossip/893d18665c3f26a3bbd2c4c36ee7c554"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "6201977bcf74",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Nara Wildmane",
+  "quest": null,
+  "en": "If we are to protect nature, then we must embrace its strength. And we must show this strength to those who would harm the land.",
+  "files": [
+   "gossip/f4bd20666b9e2ebc5356eca479166b91"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "f68b2df16d91",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Officer Thunderstrider",
+  "quest": null,
+  "en": "Greetings, adventurer - I'm a Commendation Officer acting on behalf of Thunder Bluff. It is my duty to assist adventurers who have received Horde Commendation Signets.\n\nI accept signets in different quantities, but the most beneficial exchange for you is to hand in a set of ten at once. I will enter your deeds into our records when you hand in your signets. As a result, you will earn recognition from Thunder Bluff for your duty and service.",
+  "files": [
+   "gossip/65414b48556b1233b03316c19af1740a"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "d59d59d2144b",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Pand Stonebinder",
+  "quest": null,
+  "en": "I can train you in First Aid techniques.",
+  "files": [
+   "gossip/0a7cfd25fd53892de58e9eaf21bc1e16"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "c73a2ef532b6",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Pand Stonebinder",
+  "quest": null,
+  "en": "Only the renowned Doctor Gregory Victor can improve your skill now. He can be found in Arathi Highlands at Hammerfall.",
+  "files": [
+   "gossip/9cf8ec329c7dba4ed49715a51df03f95"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "cee1d1cc5ad2",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Pand Stonebinder",
+  "quest": null,
+  "en": "Balai Lok'Wein of Brackenwall Village in Dustwallow Marsh sells a manual that you will need to study in order to improve your skills!",
+  "files": [
+   "gossip/b1a4bc076a7a69d393730100ba28a6d7"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "643a03fdb056",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Rahauro",
+  "quest": null,
+  "en": "Well met, adventurer. You may speak to me unless you have direct business with my mistress Magatha.\n\nI deal with most of her tasks for her so she can concentrate on more important matters. Perhaps there are some things we could discuss before you seek audience with her?",
+  "files": [
+   "gossip/d3cf6d45a6ea3ef19313a80754b85210"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "d4cfa1845d28",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Rahauro",
+  "quest": null,
+  "en": "Please, feel free to speak to me anytime, Adventurer. You have served Magatha well. I am sure she will call upon you in the future.",
+  "files": [
+   "gossip/eeabcd657e17f9388ad202c9e2e118d7"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "ec848d8db061",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Rumstag Proudstrider",
+  "quest": null,
+  "en": "Hail brother... I'd like a moment of your time, if I may.\n\nWe tauren have endured much in our trials and tribulations in establishing our homeland. We now find ourselves in a dire shortage of cloth. If you have the materials to spare, I ask that you please donate them. You certainly would earn the gratitude of tauren everywhere in helping us out!",
+  "files": [
+   "gossip/m-804dac15ce73451780e4cf2e731b64fd"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "6da0c6d44bc8",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Senior Sergeant Taiga",
+  "quest": null,
+  "en": "Hail, adventurer. I trust you are here to inquire on the Ahn'Qiraj war effort. We are going to need a great deal of assistance.\n\nThe war effort is a united effort between the Horde and Alliance to prepare for the impending war against the Silithid and their masters in Ahn'Qiraj. In Orgrimmar's Valley of Spirits, we are collecting a vast number of goods to create war materiel, and these gathering tasks are what we need your help with.\n\nCan I convince you to speak with our commander about helping out?",
+  "files": [
+   "gossip/228c7995c13842a05cb0db6e14827e56"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "fc861627a133",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Sheal Runetotem",
+  "quest": null,
+  "en": "adventurer, how may I further your training in the eyes of the Earth Mother?",
+  "files": [
+   "gossip/0b1e4654cf5625d6348cc8e5879e4287"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "f911bcf88000",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Sheal Runetotem",
+  "quest": null,
+  "en": "Many are the paths of the Earth Mother. May your ancestors watch over you adventurer.",
+  "files": [
+   "gossip/908557c88c665ff5a3ab222467aa84c9"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "a2de93f9571d",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Taim Ragetotem",
+  "quest": null,
+  "en": "Our forces in Alterac Valley need wisdom to achieve victory adventurer. You look like the one to lead them.",
+  "files": [
+   "gossip/0a2b21f41e7f09ad9d22fa7dc12ffe45"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "200517266460",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Taim Ragetotem",
+  "quest": null,
+  "en": "I am sorry adventurer, but you need to be more experienced before you can survive in Alterac Valley.",
+  "files": [
+   "gossip/28e0c95afd7e31800b8af63190876fb8"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "dea99171b17b",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tal",
+  "quest": null,
+  "en": "When mounted on the back of a wind rider, one sees that its reputation for strength and speed is well earned.",
+  "files": [
+   "gossip/162e14a98f2a88c099856abef92342b8"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "1b0c6e472a67",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tarn",
+  "quest": null,
+  "en": "I am pleased with your progress so far. Surely the Earth Mother has inspired your hands.",
+  "files": [
+   "gossip/03f43797d0905acbb229b4ebc7eed8a9"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "eeeab6d49a4f",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tarn",
+  "quest": null,
+  "en": "I cannot help you with further training: your skill at working with leather rivals my own. You should speak with Una, over there. I will vouch for your skill if need be.",
+  "files": [
+   "gossip/5c5208df1740c7347ba2459a64901adc"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "e528ed5586b4",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tarn",
+  "quest": null,
+  "en": "Your skills are insufficient to learn what I teach. Try talking to Mak over there instead. He can help you out until you're ready for more advanced lessons.",
+  "files": [
+   "gossip/66dbd86739dd2ec82e0cfbfbffbc174b"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "37b9adc6cb90",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tarn",
+  "quest": null,
+  "en": "My axe has seen many battles, and I like to keep it handy. Enemy forces have fought their way into our capital several times now, but have no fear: we have always driven them back.",
+  "files": [
+   "gossip/90523fefc8ff6a90b77c9ac08d9b6530"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "2949aae7499f",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Teg Dawnstrider",
+  "quest": null,
+  "en": "Enchanting has run in our family for generations. I learned at an early age, just as my son is doing now.",
+  "files": [
+   "gossip/0c0d9f103197b5c72b584118ac04a7e9"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "000f9d11f009",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Teg Dawnstrider",
+  "quest": null,
+  "en": "There is one whose knowledge exceeds my own. You are ready to seek her out. Go to Sun Rock Retreat in Stonetalon Mountains. Find Hgarth, and continue your training.",
+  "files": [
+   "gossip/9d6c63af01c654fc15d4e6f51b04ef89"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "cc580cf3f8f7",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Teg Dawnstrider",
+  "quest": null,
+  "en": "Surely Mot didn't send you to me? He knows better. You are not yet capable of understanding what I would teach you. See my son Mot, just outside there, and finish training with him.",
+  "files": [
+   "gossip/b0597ee74d61de5231baccb71303394d"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "88e4b50de3d1",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Teg Dawnstrider",
+  "quest": null,
+  "en": "Ah, very good. I am satisfied that you are a worthy student. Now, your training with me may begin...",
+  "files": [
+   "gossip/e14bb275961fa9b3f9f8cc7b5eb43400"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "d24e7ada22fe",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Tepa",
+  "quest": null,
+  "en": "My knowledge is limited, though I am still learning. It is time for you to move on, traveler. Find Josef Gregorian in Undercity and tell him you are ready.",
+  "files": [
+   "gossip/3def2f3bfaf2254698c9601afcf6a534"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "907f17b3e88f",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Tepa",
+  "quest": null,
+  "en": "Aren't the patterns beautiful? Each one speaks with its own voice.",
+  "files": [
+   "gossip/885c5bf0a97c2817b7251f03b18168e6"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "21cc3a261294",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Tepa",
+  "quest": null,
+  "en": "There are fundamental things you must learn before I can aid you. Speak to my apprentice, Vhan. He is kind and patient and will teach you what you need to know.",
+  "files": [
+   "gossip/b3710bc3fd8b71a4f79dd71616deb9a4"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "1455aa21fadd",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Tepa",
+  "quest": null,
+  "en": "You are truly a determined student. I will be happy to provide you with instruction!",
+  "files": [
+   "gossip/c71201046e02402ce3ccad5ac9788d94"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "138a8835a2f0",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Thrag Stonehoof",
+  "quest": null,
+  "en": "Karn says we need to listen to the spirits of the forge and of the steel, that they will guide us. I hear nothing but a ringing in my ears. Here, take a hammer and let us try to hear the spirits together.",
+  "files": [
+   "gossip/d6fbe05e48c6cf06d03257121d657e86"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "2154108b6c31",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Thrag Stonehoof",
+  "quest": null,
+  "en": "I guess the spirits like you better than me, I still have not heard their call but you seem to have gathered their lessons well. Go speak to Karn, he will be excited to see one who hears them as he does.",
+  "files": [
+   "gossip/ddd1000f31cef4a50e6a1ff257a17c4e"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "20040c2bc98e",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Thrag Stonehoof",
+  "quest": null,
+  "en": "I listen and I listen but I don't hear these spirits that Karn speaks of.",
+  "files": [
+   "gossip/e471095c7b88ecc0041ea59e5ff3c266"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "a11f1ac1a6c2",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Thunder Bluff Reveler",
+  "quest": null,
+  "en": "I sure could use a kiss about now. Know where I can find one?",
+  "files": [
+   "gossip/2e84a1e945a7281e328a46149ab7b1d9"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "c10d057ff23b",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Thunder Bluff Reveler",
+  "quest": null,
+  "en": "I heard that, after the fireworks show, goblets will be brought to the tables. Fine toasts we shall raise!",
+  "files": [
+   "gossip/495765bee862bdf5ff2091aadc4b181c"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "ea3a70303e31",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Thunder Bluff Reveler",
+  "quest": null,
+  "en": "Starting at 6PM, they will show fireworks from the highest bluff!",
+  "files": [
+   "gossip/727857fad525bb43ce619bc3d7342926"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "2bdb556e6340",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Thunder Bluff Reveler",
+  "quest": null,
+  "en": "Hail, adventurer! Welcome to the celebration!",
+  "files": [
+   "gossip/a0f202a4ba690c9067f0b8e0a8016cce"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "131f6aab8968",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Thunder Bluff Reveler",
+  "quest": null,
+  "en": "The kegs are filled with strong brew! Drink, friend, and celebrate!",
+  "files": [
+   "gossip/bb49e5ebc095702e178198e907dda48f"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "95469b598ad1",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Turak Runetotem",
+  "quest": null,
+  "en": "If you desire, in addition to training, I have it within my power to erase the knowledge of your talents from your mind. Be warned that every time you undergo this procedure the more difficult it is to perform, and therefore the more expensive it becomes.",
+  "files": [
+   "gossip/3de027ff7992c41ba7726d1390af63f9"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "345adac15a91",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Turak Runetotem",
+  "quest": null,
+  "en": "Strive to keep the balance in all things, adventurer. This is where true harmony lies.",
+  "files": [
+   "gossip/d76b7f59d79be0f96c3058186e3fa80d"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "90f4f07e4ded",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Turak Runetotem",
+  "quest": null,
+  "en": "Welcome, my brother. If you are here to train, then I would be delighted to teach you.\n\nIt never hurts to reaffirm one's place within what I like to call the Great Balance. As preservers of this balance, we must strive to continually keep our minds clear and our hearts strong. Training helps us in this regard.",
+  "files": [
+   "gossip/m-88fd0d056d3f56e1a65d941872671f87",
+   "gossip/368720c602f129b62676fcebd9b31777"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "df3e6fab1acc",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Una",
+  "quest": null,
+  "en": "Even my talents have a limit, and you have reached it. Congratulations, adventurer. Your next stop should be Camp Mojache in Feralas. The tauren Hahrana Ironhide lives there; she is renowned for her skill.",
+  "files": [
+   "gossip/2cc85bf48153fefcf85050d745cf9fc8"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "02c367ca1f23",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Una",
+  "quest": null,
+  "en": "The needle is small, but the thread is strong, and the stitches are fine. Our pact with Thrall and the others will hold. The Horde will not be driven from these lands.",
+  "files": [
+   "gossip/bff6354587177ea12e5e19d6fb616689"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "8e7fc4724dea",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Una",
+  "quest": null,
+  "en": "Cairne has brought us to a land rich with possibilities for the future. We have been fortunate, and so in turn we pass on our good fortune to others. That is why I began teaching, adventurer.",
+  "files": [
+   "gossip/c15b86c60ca6a98e65a1d56247b8f0fb"
+  ],
+  "uiMap": 1456
+ },
+ {
+  "id": "6f29db7e6947",
+  "zone": "thunder-bluff-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Una",
+  "quest": null,
+  "en": "It's been so long since I was a novice myself that I don't think I'd be the best teacher for you. Try talking to Tarn or Mak, right over there. One of them should be able to answer your questions.",
+  "files": [
+   "gossip/e97320918e69f72e3bb5d9b77997f0f0"
+  ],
+  "uiMap": 1456
+ }
+]

@@ -1,0 +1,436 @@
+[
+ {
+  "id": "7234e7f38982",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Eastern Crystal Pylon",
+  "quest": null,
+  "en": "A closer inspection of the pylon leads you to find a small table containing blue, yellow, and green crystals arranged in what seems like a specific formation.\n\nA large blue circle of crystals is flanked on either side by a smaller circle of yellow crystals and another of green crystals.\n\nYou carefully take note of the colors of the crystals, knowing that J.D. would be very interested in hearing about what you have found.",
+  "files": [
+   "gossip/5c358003a14e69ee6ddd9c6f08651f68"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "bbb0b2f46338",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder Thunderhorn",
+  "quest": null,
+  "en": "If you travel to Cenarion Hold in Silithus, you will find Elder Bladesing.",
+  "files": [
+   "gossip/67434c404c46999e07a8517694ed4c9b"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "b56a919a9a28",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder Thunderhorn",
+  "quest": null,
+  "en": "Elder Primestone has spent many years in the Crystal Vale in Silithus.",
+  "files": [
+   "gossip/a696e190886b8a9e904e07a054f58236"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "765ff3de8304",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Hol'anyee Marshal",
+  "quest": null,
+  "en": "Oh, hello there! I'm Hol'anyee, the chief scientist and biologist of Marshal Expeditions. My brother and I, along with our companions, travel Azeroth exploring the wild and untamed majesty. It is exciting... but, um... I think we got ourselves into a little too much excitement this time!",
+  "files": [
+   "gossip/7b7f229cfbe32d4ee349cb68442a6c44"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "34d5c71284a0",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": null,
+  "en": "The Northern Pylon accepts yellow, red, and green crystals.\n\nThe focus is the energy that can be created using yellow crystals as the main source of power. There are two possible effects: one that will produce damage, and one that will negate damage. \n\nCrystal Charge requires red and yellow crystals. This will produce a large explosion, stunning your enemies.\n\nCrystal Restore requires yellow and green crystals. This will provide you with a healing aura.",
+  "files": [
+   "gossip/01bcaf00553bb38fb333b6db2f3cb425"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "4f9ad9e59efc",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": null,
+  "en": "Thanks to you, we can now unlock the secrets of the crystals and the mysterious pylons, adventurer. If you need more information at any time, please come back and visit me again!",
+  "files": [
+   "gossip/22f26805022d0719d3460bfcb51e02f6"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "fb5381256726",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": null,
+  "en": "You probably weren't expecting to find me in this cave, were you?\n\nMy name's J.D., and I really can't tell you much about how I got here, but what I can tell you is that this cave is my home now!\n\nI spend my time studying the strange crystals that can be found all over the crater.",
+  "files": [
+   "gossip/66c50614a3cd2fe2f25a9eca3db0579c"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "7e20f9db4c4c",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": null,
+  "en": "The Eastern Pylon accepts blue, yellow, and green crystals.\n\nIt focuses on the energy that can be created using blue crystals as the main source of power. There are two possible effects: one provides bonus to spirit, and one that creates a damaging shield.\n\nCrystal Force requires blue and green crystals. This will provide you with an increase in spirit.\n\nCrystal Spire requires blue and yellow crystals. This will create a shield that does damage to attackers.",
+  "files": [
+   "gossip/7aacb8eb88afd4147515454792ecbd73"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "9b0eba43f66d",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": null,
+  "en": "The Western Pylon accepts red, green, and blue crystals.\n\nThe Pylon focuses on the energy that can be created using red crystals as the main source of power. There are two possible effects: one that increases your protection from damage, and one that weakens an enemy's defenses.\n\nCrystal Ward requires red and green crystals. This will provide you with an increase to armor.\n\nCrystal Yield requires blue and red crystals. This can lower the armor of a specific target.",
+  "files": [
+   "gossip/7ea1ceb93d20d721898ef917ff378fda"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "249a2b6d2030",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "J.D. Collie",
+  "quest": null,
+  "en": "Sure thing, adventurer. Here's another for you.",
+  "files": [
+   "gossip/b7e24ad85062cc0dc304ed055246d2fe"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "daf04e9773ec",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Karna Remtravel",
+  "quest": null,
+  "en": "Have you seen all the wonderful things here in Ungoro Crater, adventurer? It's simply amazing. Not as amazing as some of the things I can make with my skill at engineering, but for it being all natural here... it's not too bad.\n\nMy uncle Remtravel loves old stuff like this place. I'm following in his footsteps kinda--I want to discover new things from lost cultures too!",
+  "files": [
+   "gossip/8b0d0bd7e2e4900b54439fe456de6f0c"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "925dc4679460",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Larion",
+  "quest": null,
+  "en": "Ugh... these pests keep me busy night and day! Haven't you seen them?\n\nI wish I could just jump down a pipe to get away from them...",
+  "files": [
+   "gossip/da1e790ce76a6ecf39767ddfb4578763"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "fc62e958c6f4",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Linken",
+  "quest": null,
+  "en": "A long time ago, during my travels, I met a man that told me, \"Master using it and you can have this.\"\n\nWhat do you suppose that means? I didn't know then, and I still don't now, really...",
+  "files": [
+   "gossip/4882d4a03c1208355c763c1a0bc07069"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "1bb990618ccb",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Linken",
+  "quest": null,
+  "en": "When I was wandering the crater after I crashed here, I remembered something that I once was told... \"Go up, up the mountain ahead,\" said the voice in my head.\n\nListening to it is how I ended up here, adventurer!",
+  "files": [
+   "gossip/6c0ca67e97b5ad3215ba128332af2f28"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "1d2000856add",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Linken",
+  "quest": null,
+  "en": "I... I'm not really sure how I got here...\n\nI seem to remember traveling... a raft...",
+  "files": [
+   "gossip/7604f31c3f3ca5119c647e30d4073393"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "8ab77b204bbd",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Linken",
+  "quest": null,
+  "en": "Hi there! I'm glad you came back, adventurer. Tell me, have you completed the first quest I gave you? If you have, I might have a second quest for you...",
+  "files": [
+   "gossip/a34ff43e735f0935b3153721bdb9bdf7"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "d2a9829e0829",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Linken",
+  "quest": null,
+  "en": "Pay me and I'll talk...\n\nOh hey, it's you, adventurer! Nevermind about that...",
+  "files": [
+   "gossip/b6b61d53c84c4166df1b5f956114aa9f"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "bc339e2d981f",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Linken",
+  "quest": null,
+  "en": "It's a secret to everybody... including me!\n\nI'm glad you found me -- it's a good thing I'm not hiding in a bush or underneath a rock, isn't it?",
+  "files": [
+   "gossip/c1f7d0e54a5d6f4ffd50c716ddb1a124"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "d0ebcc6f10d5",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Linken",
+  "quest": null,
+  "en": "Does my name sound familiar to you? Maybe we knew each other a long time ago...\n\nI think I'm named after someone important...",
+  "files": [
+   "gossip/de7708324e7d052ec52f6108981bb2a8"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "83f519fd3c7f",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Northern Crystal Pylon",
+  "quest": null,
+  "en": "The Crystal Pylons of Un'Goro are a mystery to all. To the few inhabitants here, they are a source of legend, with much speculation as to their purpose.",
+  "files": [
+   "gossip/9658dbe477ee985df565821f1fefa775"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "a52d33575afd",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Northern Crystal Pylon",
+  "quest": null,
+  "en": "A closer inspection of the pylon leads you to find a small table containing yellow, red, and green crystals arranged in what seems like a specific formation.\n\nA large yellow circle of crystals is flanked on either side by a smaller circle of red crystals and another of green crystals.\n\nYou carefully take note of the colors of the crystals, knowing that J.D. would be very interested in hearing about what you have found.",
+  "files": [
+   "gossip/a9edab8eb63991a1d8f002b277b1332a"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "22a2964b304f",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Northern Crystal Pylon",
+  "quest": null,
+  "en": "The secrets hidden within the Pylons of Un'Goro Crater are now yours. Visit the Pylons at any time to access their power and gain useful resources.",
+  "files": [
+   "gossip/d639df313298d68d7a237f950f24a630"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "1b4afd2c4c24",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Petra Grossen",
+  "quest": null,
+  "en": "Since we've begun our stay in the crater, Dadanga's taken a liking to the large bloodpetal sprouts that grow all over the place here.\n\nI'm sure she'd enjoy a snack, if you feel like bringing her some...",
+  "files": [
+   "gossip/3f5d4bc764114d94d0ff2b482cd2cd8d"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "11da87891458",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Petra Grossen",
+  "quest": null,
+  "en": "Hello there, my name is Petra. To my right is my kodo, Dadanga. We're with Marshal Expeditions - been so for a few years now, ever since Dadanga was a babe.\n\nIf you have any lit torches or any open sources of flame, I'd like to ask you to keep them stashed if you could. Dadanga dislikes smoke.",
+  "files": [
+   "gossip/867d631c8296e1e605606fc3dd0d84da"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "45f88004dd11",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Spark Nilminer",
+  "quest": null,
+  "en": "For the love of all that is holy and dear, please tell me that you've come to deliver us from this forsaken land. Though I'm with Marshal Expeditions, I would give you the gold teeth from my mouth to climb inside your backpack and leave this place.",
+  "files": [
+   "gossip/6af8b6ef78b561f72f6edeacc7a46816"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "00fc20e36b1f",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Spark Nilminer",
+  "quest": null,
+  "en": "Yeah yeah, I know Dadanga dislikes smoke. From the smell of it though, seems like Dadanga also dislikes bathing.",
+  "files": [
+   "gossip/8bd505152491e64f21b57ed618cde404"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "870fd3bd30fd",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Spraggle Frock",
+  "quest": null,
+  "en": "Welcome to the refuge, adventurer. Some come here with a purpose, others found their way here by accident... But everyone here seems to have a unique story to tell.",
+  "files": [
+   "gossip/291d560fcee6b61965630c94cc231833"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "167a3155f6fb",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Torwa Pathfinder",
+  "quest": null,
+  "en": "Greetings, adventurer. For some, the hunter is a way of life, a chosen profession. For others, it is something of a pastime, a badge of courage, or a rite of passage depending on your tribe.\n\nFor me, race and profession mean nothing--it is the testing of your spirit and mind that I respect. For one to stand against the forces of nature and test all of their skills is the true mark of honor.\n\nIf you wish to test yourself and earn my respect, then speak to me more.",
+  "files": [
+   "gossip/302082b5cf2a5247bbde060d031b8f3d"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "5c14f5d94a7f",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Torwa Pathfinder",
+  "quest": null,
+  "en": "You've started down an honorable path, adventurer. My ancestors respect your willingness, but you will not have my approval until you have followed through with my tasks.\n\nYou know what you must do if you wish to prove yourself a hunter in spirit.",
+  "files": [
+   "gossip/4684810582123d33350ebde21f845247"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "77acdc441d73",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Torwa Pathfinder",
+  "quest": null,
+  "en": "The ravasaur here in Un'Goro seem to be related to the raptors of the barrens--highly intelligent, volatile, and with a sense or code of conduct. The greatest of these that I have encountered is Lar'korwi. He is one of the most dangerous beasts I've ever seen. In taurahe, Lar'korwi means \"sharp claw,\" but that does not do him justice.\n\nDo not underestimate Lar'korwi if you ever plan on hunting him, but I will help you in any way I can if you do.",
+  "files": [
+   "gossip/9b861526235ee45fafee1db50791036f"
+  ],
+  "uiMap": 1449
+ },
+ {
+  "id": "3e8692ccf397",
+  "zone": "un-goro-crater-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Williden Marshal",
+  "quest": null,
+  "en": "Hello stranger, and welcome to the untamed majesty of Un'Goro Crater!\n\nMy name is Williden Marshal. My sister, our companions, and I make up Marshal Expeditions - scientists and explorers of Azeroth's wild and great unknown.\n\nWe've hit a bit of a rough patch here, and we're looking for some help if you have the time!",
+  "files": [
+   "gossip/e0280ea403de38a99d9f00704dc83cf8"
+  ],
+  "uiMap": 1449
+ }
+]

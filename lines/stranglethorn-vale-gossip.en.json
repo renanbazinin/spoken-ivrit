@@ -1,0 +1,1444 @@
+[
+ {
+  "id": "edf410ff8a28",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "\"Sea Wolf\" MacKinley",
+  "quest": null,
+  "en": "Oy! You here for a game of knuckles?",
+  "files": [
+   "gossip/6f428d572fdc8ce3f0c460252a038a6f"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "196196174d42",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Al'tabim the All-Seeing",
+  "quest": null,
+  "en": "I am Al'tabim the All-Seeing - an envoy of King Rastakhan.\n\nMy dealings are with priests, mages, and warlocks.",
+  "files": [
+   "gossip/c28cac378192770c4a9166d049115821"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "dc10a10626a6",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Baron Revilgaz",
+  "quest": null,
+  "en": "Welcome to Booty Bay, partner. I hope your stay in my town is enjoyable and uneventful - emphasis on the latter. We've got plenty of drink if you're thirsty, and plenty of bouncers if you're antsy.\n\nNow then... what can this humble servant of the Steamwheedle Cartel do for you? Better still - what can you do for me, eh?",
+  "files": [
+   "gossip/a122cd69a20b3e81ab38fa94be544fd8"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "76bc6de22290",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Bloodsail Traitor",
+  "quest": null,
+  "en": "Gangway, ye scurvy dog! Revilgaz has spared me from the gallows but my punishment might be nearly as bad.",
+  "files": [
+   "gossip/1fad4f6979d035d1a0174cea5dd2b07c"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "17ce891f9a21",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Booty Bay Reveler",
+  "quest": null,
+  "en": "All right! Party time!",
+  "files": [
+   "gossip/44787eb1940b1a80ea948150559d9522"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "fc0d14fd82ac",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Booty Bay Reveler",
+  "quest": null,
+  "en": "Stick around after the firework show is over. Find a goblet and raise it to toast your hardy friends!",
+  "files": [
+   "gossip/cd8d2f3f2d1e4fce86b7b1d0a1c196ce"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "dceef4a5db68",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Booty Bay Reveler",
+  "quest": null,
+  "en": "Wow! These kegs are filled with powerful stuff! They lift me right out of my boots!",
+  "files": [
+   "gossip/de8c431728ce950f950d89ba7cdef31d"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "2e04ce427e2e",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Booty Bay Reveler",
+  "quest": null,
+  "en": "They're going to show fireworks all night long. From 6PM until dawn, the sky will blaze over Booty Bay!",
+  "files": [
+   "gossip/fa57939560f4cbefcc06bc3981b280fc"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "a2f957b51bee",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Brawn",
+  "quest": null,
+  "en": "We have only a small foothold on this continent for now, but the humans can't fight us off forever. Then they'll pay for enslaving us. We'll cut their lying tongues out for their treachery.",
+  "files": [
+   "gossip/14c20e89440319b1fc7df3e53552a16d"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "39c8af7be29c",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Brawn",
+  "quest": null,
+  "en": "You've got more guts than brains, coming to me without the proper training. Go talk to somebody closer to your skill level, like the orc Kamari, who lives in the Drag of Orgrimmar.",
+  "files": [
+   "gossip/333ced88b7c1e9498193f4e7df73a47d"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "f6425c263868",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Brawn",
+  "quest": null,
+  "en": "I'd train you if I could, but you're too much for me. Tell you what: go talk to the tauren Una in the northwestern shops of Thunder Bluff's central plateau. She's got some real talent.",
+  "files": [
+   "gossip/f58bf6b4db68eb60245db834b0c12194"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "f5c1053fdc24",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Brikk Keencraft",
+  "quest": null,
+  "en": "You act like this is the best junk I've ever seen. Sure it's ok, but I see stuff this 'OK' every day. Tell you what, you find a way to wow me, and I'll teach you things that make dwarves smile in their sleep.",
+  "files": [
+   "gossip/0a4352094f4852338fc9624bcf71bd3f"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "fce3a81d8748",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Brikk Keencraft",
+  "quest": null,
+  "en": "Yeah? Of course I'm a smith. What, you think Dwarves are the only ones worth their weight in anvils? Fine, be that way. Go get a dwarf to help you!",
+  "files": [
+   "gossip/29b36a70548ade1ec5054bd5082e4b54"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "2150f7d0c948",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Brikk Keencraft",
+  "quest": null,
+  "en": "Are you kidding me? You must be kidding me! Either that or you think I'm a clown here to amuse you. Is that what you think? That I'm a clown? Huh, is it! You think I'm a clown don't you!",
+  "files": [
+   "gossip/939a1307b0cf9e41fb14a7b51a7e6adc"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "194d6e612774",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Bubbling Cauldron",
+  "quest": null,
+  "en": "This cauldron churns with thick, green bubbles. Skulls, bones and organs of unknown creatures swim within its viscous broth...\n\nAnd rising lazily to the surface are the skulls of two, once mighty trolls:\n\nGan'zulah and Nezzliok.",
+  "files": [
+   "gossip/e2a6c270301c181b6c1842c0f1642d01"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "6c8558dd7f50",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Crank Fizzlebub",
+  "quest": null,
+  "en": "What what?!? We all have profit to make... and we won't do it by standing idle.",
+  "files": [
+   "gossip/c06df2e153dd05601131a1f03f627e28"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "5f0e8a335495",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elder Starglade",
+  "quest": null,
+  "en": "Winterhoof? I hear he's living it up in Booty Bay.",
+  "files": [
+   "gossip/66e5830fe2a9b6ea2775224d63d0eb1b"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "9e2cb324859c",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elder Starglade",
+  "quest": null,
+  "en": "Last I knew, Elder Starsong was in the Sunken Temple of the Swamp of Sorrows.",
+  "files": [
+   "gossip/90bad8af427a48d9b2342f0869242c9a"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "8662f659a58a",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder Winterhoof",
+  "quest": null,
+  "en": "You'll find Elder Starglade outside the gates to Zul'Gurub in Stranglethorn Vale.",
+  "files": [
+   "gossip/2aec74242c0314d1268ab8051cfd49fc"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "e6b84d0ede1d",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder Winterhoof",
+  "quest": null,
+  "en": "Elder Skychaser looks out over Westfall from atop Sentinel Hill.",
+  "files": [
+   "gossip/565e6a177495db01dd95ca40d2cdce06"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "48d16a3e70e7",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder Winterhoof",
+  "quest": null,
+  "en": "Elder Rumblerock passes the years in a cave atop Dreadmaul Rock in the Burning Steppes.",
+  "files": [
+   "gossip/7f07f44330488e2a09049a889461b9a8"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "95f89b273bff",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder Winterhoof",
+  "quest": null,
+  "en": "Last I knew, Elder Starsong was in the Sunken Temple of the Swamp of Sorrows.",
+  "files": [
+   "gossip/e15c2eebb8695320714c8a8494495771"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "ba5ff7dee0cc",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Exzhal",
+  "quest": null,
+  "en": "Greetings, adventurer. I am Exzhal, Servitor of Rastakhan.",
+  "files": [
+   "gossip/e7cdb9be91ab5ee24261c54b7949c919"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "38fa97d2672b",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Falthir the Sightless",
+  "quest": null,
+  "en": "The Paragons of Power are remnants from the ancient Gurubashi Empire. We Zandalar seek them - not only are they of tremendous collectible value to us, but we believe that they also hold latent signatures of magic used by the old Empire.\n\nYou'll more than likely discover three kinds of Paragons in Zul'Gurub: coins, bijous, and primal items. Bring them to us in the quantities that we seek, and you'll be rewarded with some of the finest items we Zandalar have ever crafted.",
+  "files": [
+   "gossip/4104bf10ba38b4cb6f760f7203397a71"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "8c96926898a3",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Falthir the Sightless",
+  "quest": null,
+  "en": "Sightless I may be, but vision I have.\n\nMy primary dealings are with hunters and rogues, traveler.",
+  "files": [
+   "gossip/ec7eecf7af72db521e56383587d7714a"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "1c1f4c757de0",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Fleet Master Seahorn",
+  "quest": null,
+  "en": "Ah, smell the fine salt air! 'Tis always nice to return to our home port of Booty Bay.",
+  "files": [
+   "gossip/496a7021783fdc1cea8c98ac11f63e3c"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "27de927a9f40",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Galvan the Ancient",
+  "quest": null,
+  "en": "So few make it this far, even fewer make it past. Do not become a statistic, Adventurer.",
+  "files": [
+   "gossip/aad923d6def13bcf66188b2354250019"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "cdbcf465e9fe",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Grarnik Goodstitch",
+  "quest": null,
+  "en": "Not bad... for an amateur! Still, you know about as much as I do. If you wanna' learn more you're gonna' have to talk to Josef Gregorian in Undercity.",
+  "files": [
+   "gossip/379c74fd86ed0bbf02d5ee95a1c7479c"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "3ebec5c3fca2",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Grarnik Goodstitch",
+  "quest": null,
+  "en": "They say a stitch in time saves... what, eleven? Ah, I can't remember. Stupid saying anyway.",
+  "files": [
+   "gossip/4695d885c5423f51c542ad1df66c86b0"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "7e7a7ac675ad",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Grarnik Goodstitch",
+  "quest": null,
+  "en": "Well well, not too bad. Maybe I CAN show you a few things...",
+  "files": [
+   "gossip/86645eb4b7a73026276b0f113606af33"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "5e3df21ab2cb",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Grarnik Goodstitch",
+  "quest": null,
+  "en": "Yeah, you know a few things! If you wanna' learn more you're gonna' have to talk to Georgio Bolero in Stormwind.",
+  "files": [
+   "gossip/bcf239bdb85060a4bc12b087536a094e"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "9ebf34065d7d",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Gremnik Rizzlesprang",
+  "quest": null,
+  "en": "Talk about making the wrong investment!\n\nLord Valthalak's dark book of spells fetched a pretty penny in the black market. It's too bad he didn't take too kindly to getting his possessions stolen. That stinker got us even after he'd been dead for months!",
+  "files": [
+   "gossip/7851f71608300be24d2a60246c177a38"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "220fafd3198d",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gringer",
+  "quest": null,
+  "en": "How may I be of service?",
+  "files": [
+   "gossip/28118fefcc53acdaddf2117a97b1e13a"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "a4e9939b6991",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Grizzlowe",
+  "quest": null,
+  "en": "I must say, Booty Bay has the best Clam Chowder to be had anywhere in the South Seas. Oh, not interested in cuisine eh? Well then let me be the first to welcome you to the berth of the Maiden's Fancy, the finest passenger ship to travel between the Eastern Kingdoms and Kalimdor. She's due back for another trip to Ratchet soon, so make yourself comfortable till she arrives.",
+  "files": [
+   "gossip/892299cedeab9a28288583ccf9e05af2"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "43bb42ba51c3",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gyll",
+  "quest": null,
+  "en": "Fastest gryphons this side of Aerie Peak. Want to take a ride?",
+  "files": [
+   "gossip/9a496e2e710165d755663d0d9ae15ef8"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "ba458dbb930c",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "The Wailing Caverns has its entrance at the Lushwater Oasis southwest of Crossroads in the Barrens.",
+  "files": [
+   "gossip/05939f53ff53a01d686ad496340f942e"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "f2a9dc3100a3",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "The Deadmines can be found beneath Moonbrook in the south of Westfall.",
+  "files": [
+   "gossip/0bf530934f14695fb55ada3fb2991a79"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "f0e61d31412f",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Razorfen Downs can be found on the very southern tip of the Barrens on the east side of the road.",
+  "files": [
+   "gossip/1cdc3bb3780b30bc1ddb25b3e96eeb14"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "4486c83f0b08",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Uldaman can be found at the very northern end of the Badlands.",
+  "files": [
+   "gossip/1e99d4a52530cf7eb53974fecc40f331"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "57e15340d63d",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Scarlet Monastery lies in the hills northeast of Tirisfal Glades.",
+  "files": [
+   "gossip/1ea4f7d4103e7f106c8b166cdb5e3649"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "12b7044a8952",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Uldaman is an ancient Titan vault that has laid buried within the earth since the world's creation. Dwarven excavations of the city have recently released the Titans' first failed creations: the troggs. Legends say that when the Titans deemed the trogg experiment a failure they tried again, resulting in the creation of the dwarven race. These secrets are recorded on the fabled Discs of Norgannon - massive artifacts that lie at the bottom of the ancient city, protected by giant constructs of living stone.",
+  "files": [
+   "gossip/249672700d6d8eaf3dddfa4944dabb7e"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "395c874d6165",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Located in Dun Morogh, Gnomeregan has been the gnomes' capital city for generations, though it was recently infested by mutant troggs. In a desperate attempt to retaliate, High Tinker Mekkatorque ordered the emergency venting of the city's radioactive waste tanks. Though the troggs became irradiated, their siege continued unabated and the gnomes were forced to seek refuge in the dwarven city of Ironforge, where the High Tinker now enlists brave souls to help his people reclaim their beloved city.",
+  "files": [
+   "gossip/28b7a10d1e6ce776b39a99b0bc3c5729"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "c6fff8d0a9e2",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Ragefire Chasm can be found beneath the Shadow Cleft in the center of Orgrimmar.",
+  "files": [
+   "gossip/36de4eae7af9c2c85092cd5d9a784b46"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "36050edbd72e",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Blackrock Mountain lies between Searing Gorge in the north and Burning Steppes in the south.",
+  "files": [
+   "gossip/3b1d31e904b1fb9f4e2857c66fa8c682"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "53e5099415b0",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "The Stormwind Stockades are found near the mage quarter in Stormwind.",
+  "files": [
+   "gossip/468d4c8dd235c155a2382b74b82c2fa9"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "dee467b44b20",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Recently, a night elf druid named Naralex discovered a network of underground caverns within the heart of the Barrens. Believing he could use the caverns' springs to restore lushness to the Barrens, the druid began siphoning the energies of the fabled Emerald Dream. His vision somehow became a nightmare, however, and soon the Wailing Caverns changed into a den of vicious, deadly predators. It is said that Naralex still resides somewhere inside the labyrinth, trapped beyond the edges of the Emerald Dream.",
+  "files": [
+   "gossip/53cfb8044c1292d233012d45237f180d"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "89e4b3c2d210",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Are you interested in exploring one of these dungeons?",
+  "files": [
+   "gossip/5e09760e17cbc670577373cc3a58f914"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "1dcbcce6bf65",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "The Sunken Temple can be found in the center of a great lake in eastern Swamp of Sorrows.",
+  "files": [
+   "gossip/695bffa496e17bf3ace18949095a965e"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "4276a4036c5f",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Once the capital city of the Dark Iron dwarves, this volcanic labyrinth now serves as the seat of power for Ragnaros the Firelord. Ragnaros has uncovered the secret to creating life from stone and plans to build an army of unstoppable golems to aid him in conquering the whole of Blackrock Mountain. Obsessed with defeating Nefarian and his draconic minions, Ragnaros will go to any extreme to achieve final victory.",
+  "files": [
+   "gossip/727cf38438acf58ee35c39f6a28aa289"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "ab1d462f8a01",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "The Stockades are a high-security prison complex, hidden beneath the canal district of Stormwind city. Presided over by Warden Thelwater, the Stockades are home to petty crooks, political insurgents, murderers and a score of the most dangerous criminals in the land. Recently, a prisoner-led revolt has resulted in a state of pandemonium within the Stockades - where the guards have been driven out and the convicts roam free.",
+  "files": [
+   "gossip/8ac7e0587a2cc50e68b7e657694ea364"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "b48e79fce058",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "This sun-blasted city is home to the Sandfury trolls, known for their particular ruthlessness and dark mysticism. Troll legends tell of a powerful sword called Sul'thraze the Lasher, a weapon capable of instilling fear and weakness in even the most formidable of foes. Long ago, the weapon was split in half. However, rumors have circulated that the two halves may be found somewhere within Zul'Farrak's walls.",
+  "files": [
+   "gossip/8cdbbc96d739b730ea3dd0482497fe79"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "10a43a1a4fe1",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Gnomeregan can be found in western Dun Morogh.",
+  "files": [
+   "gossip/a28655b7a8d174f6fdec53c01d3eecef"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "07ef8a70b0cf",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Built twelve thousand years ago by a covert sect of night elf sorcerers, the ancient city of Eldre'Thalas was used to protect Queen Azshara's most prized arcane secrets. Though it was ravaged by the Great Sundering of the world, much of the wondrous city still stands as the imposing Dire Maul. The ruins' three distinct districts have been overrun by all manner of creatures - especially the spectral highborne, foul satyr and brutish ogres.",
+  "files": [
+   "gossip/a2cdf3bd1e979b72e72bfd012d8e4475"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "aa4a5be08a0c",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Once the greatest gold production center in the human lands, the Dead Mines are now inhabited by the Defias Brotherhood, who have turned the dark tunnels into their private sanctum. It is rumored that the thieves have conscripted the clever goblins to help them build something terrible at the bottom of the mines - but what that may be is still uncertain. Rumor has it that the way into the Deadmines lies through the quiet, unassuming village of Moonbrook.",
+  "files": [
+   "gossip/aabd6bce4c7708c67d5b606f86e7331d"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "ffc631416fba",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Once the jewel of northern Lordaeron, the city of Stratholme is where Prince Arthas turned against his mentor, Uther Lightbringer, and slaughtered hundreds of his own subjects who were believed to have contracted the plague of undeath. Arthas' surrender to the Lich King soon followed. The broken city is now inhabited by the undead Scourge - led by the powerful lich, Kel'Thuzad, and a contingent of Scarlet Crusaders, led by Grand Crusader Dathrohan. The two sides are locked in constant, violent combat.",
+  "files": [
+   "gossip/b338594106da41470eef31ea3c010d21"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "86f5058318ad",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Razorfen Kraul can be found on the very southern tip of the Barrens on the west side of the road.",
+  "files": [
+   "gossip/b70df0c6d8237e82e8eab2e2cee97a1c"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "4c8142fa6132",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Frustrated by the Dalaran wizards' lack of progress against the undead during the Third War, the Archmage Arugal elected to summon the extra-dimensional worgen to bolster his side's diminishing ranks. The wolf-men slaughtered the Scourge, then quickly turned on the wizards themselves and laid siege to the keep of the noble, Baron Silverlaine. The fort quickly fell into shadow and ruin. Driven mad with guilt, Arugal adopted the worgen as his children and retreated to the newly dubbed 'Shadowfang Keep'.",
+  "files": [
+   "gossip/b710141cbfed33e4215f9f02e57b1285"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "13c400e32a7d",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "The ruins of Zul'Farrak are located in the northwestern corner of the Tanaris Desert.",
+  "files": [
+   "gossip/bb800825ab4ca9a41793034fb343efdc"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "a62460de6036",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Crafted from the same vines as Razorfen Kraul, Razorfen Downs is the traditional capital city of the quilboar race. The sprawling, thorn-ridden labyrinth houses a veritable army of loyal quilboar as well as their high priests - the Death's Head tribe. Recently, however, a looming shadow has fallen over the crude den. Agents of the undead Scourge - led by the lich, Amnennar the Coldbringer - have taken control over the quilboar race and turned the maze of thorns into a bastion of undead might.",
+  "files": [
+   "gossip/bcc93e0f69a610e26e8a585d15e236ca"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "3d1f0799e324",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "The ruins of Dire Maul stand in central Ferelas.",
+  "files": [
+   "gossip/bdfe4126b453f140f54062473872a072"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "3ad7ab71d406",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "The ruined city of Stratholme lies in the Eastern Plaguelands to the north of the Plaguewood.",
+  "files": [
+   "gossip/c91ac29b4dfab5d21de4af780478b04c"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "2a52d32470b7",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Ragefire Chasm consists of a network of volcanic caverns below the orcs' new capital city of Orgrimmar. Recently, rumors have spread that a cult loyal to the demonic Shadow Council has taken up residence within the Chasm's fiery depths. This cult, known as the Burning Blade, threatens the very sovereignty of Durotar. Many believe that the orc Warchief Thrall is aware of the Blade's existence and has chosen not to destroy it in the hopes that its members might lead him straight to the Shadow Council.",
+  "files": [
+   "gossip/cc776f517441c1a0c836afb225bdd955"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "71b998aecdd9",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Situated along the Zoram Strand of Ashenvale, Blackfathom Deeps was once a glorious temple dedicated to the night elves' moon-goddess Elune. However, the great Sundering shattered the temple - sinking it beneath the waves of the Veiled Sea. There it remained untouched - until, drawn by its ancient power - the naga and satyr emerged to plumb its secrets. Legends hold that the ancient beast, Aku'mai, has taken up residence within the temple's ruins.",
+  "files": [
+   "gossip/ceb9382c049e7883f6c2dc8d6da3a10f"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "ae671b6f6569",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "During the War of the Ancients, the demigod Agamaggan came forth to battle the Burning Legion. The colossal boar was defeated, and over time in the areas where his blood fell, massive thorn-ridden vines sprouted to life. The quilboar came to occupy these regions and hold them sacred. The heart of these massive thorn-colonies is the Razorfen. Razorfen Kraul was conquered by the crone, Charlga Razorflank, who some speculate has been negotiating with agents of the Scourge for some insidious purpose.",
+  "files": [
+   "gossip/d564123ed4c19b647a19fe0e225ccf19"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "4a2383eee066",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Shadowfang Keep is in southern Silverpine just north of Pyrewood Village.",
+  "files": [
+   "gossip/d75d5996d34c833b6779a3d6dd1d88f9"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "e8892fa9a9c2",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Maraudon is one of the most sacred sites within Desolace. The great temple/cavern is the burial place of Zaetar, one of two immortal sons born to the demigod, Cenarius. Legend holds that Zaetar and the earth elemental princess, Theradras, sired the misbegotten centaur race. It is said that upon their emergence, the barbaric centaur turned on their father and killed him. Some believe that Theradras, in her grief, trapped Zaetar's spirit within the winding cavern - used its energies for some malign purpose.",
+  "files": [
+   "gossip/dd38277dbccc541afb09092db925b6ab"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "dcace46b6f8b",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "The monastery was once a center for learning and enlightenment. With the rise of the undead Scourge during the Third War, the peaceful Monastery was converted into a stronghold of the fanatical Scarlet Crusade. The Crusaders are intolerant of all non-human races, regardless of alliance or affiliation. They believe that any and all outsiders are potential carriers of the undead plague - and must be destroyed.",
+  "files": [
+   "gossip/de7e05a695ddb55f1f262b0dbebab57a"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "81442849c6a7",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "The Scholomance is housed in crypts beneath the Caer Darrow keep. Once owned by the noble Barov family, the keep fell to ruin after the Second War. As the wizard Kel'Thuzad enlisted followers for his Cult of the Damned, he often promised immortality for those who served his Lich King. The Barovs fell to his influence and donated their keep, but the cultists killed the family and turned the crypts into a school of necromancy. Though Kel'Thuzad no longer resides there, cultists and instructors still remain.",
+  "files": [
+   "gossip/ef2ed86b87eea6787b3f9ed237bc7e6d"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "95e25646116e",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Over a thousand years ago a group of troll priests known as the Atal'ai attempted to bring back an ancient blood god named Hakkar the Soulflayer. After the resulting civil war the priests were defeated and exiled to the Swamp of Sorrows. There they erected a temple to Hakkar to prepare for his arrival into the physical world. The dragon Aspect Ysera soon learned of the Atal'ai's plans and smashed the temple beneath the marshes. To this day, the temple's ruins are guarded by the mighty green dragons.",
+  "files": [
+   "gossip/f4ce8cc991dc9b8e53cbf5bafea7a20e"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "c0e44171b561",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "The School for Necromancy known as Scholomance is on the ruined island of Caer Darrow in the Western Plaguelands.",
+  "files": [
+   "gossip/f67a76e0fd2826ef6fe57add373eec1e"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "7a053832f32d",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "The mighty fortress carved within the fiery bowels of Blackrock Mountain was held by the sinister Dark Iron dwarves for centuries until Nefarian - the cunning son of the dragon, Deathwing - took control of the upper Spire and made war on the dwarves' holdings in the mountain's volcanic depths. Realizing that the dwarves were led by the mighty fire elemental, Ragnaros - Nefarian vowed to crush his enemies and claim the whole of Blackrock mountain for himself.",
+  "files": [
+   "gossip/fa04ae9ff435e1e999be4418d11dc7a4"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "9b164b30f93d",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Blackfathom Deeps can be found at the north end of Zoram Strand along the coast of Ashenvale.",
+  "files": [
+   "gossip/ff16bb066f168df220edae5bdae69e4f"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "26e106ca4b6f",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Thulbek",
+  "quest": null,
+  "en": "Maraudon is located in the middle of the western coast of Desolace, in the Valley of Spears.",
+  "files": [
+   "gossip/ffe6e6b7dd79a36fe035046b6c7524ad"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "c61453149875",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Jang",
+  "quest": null,
+  "en": "Fishmaster Bassbait has had the waters here seeded with high quality Tastyfish so he can have his tournament.\n\nOnce he gets his winner, I will give you silver for each five Tastyfish you bring me!",
+  "files": [
+   "gossip/ecb584ae4efebbbfe24eb728f55f4ace"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "ec2456d4bfb0",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Jaxin Chong",
+  "quest": null,
+  "en": "I've got plenty of great recipes for you to take a look at, and at discounted prices, too!",
+  "files": [
+   "gossip/0bd8140cb84691dca36c53f2d79843eb"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "b8cc30e80b0b",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Jaxin Chong",
+  "quest": null,
+  "en": "You're better at this gig than I am! You want someone with even more experience than I've got. That'd be Doctor Herbert Halsey, an undead who works in the Apothecarium of the Undercity.",
+  "files": [
+   "gossip/6ce7cfa7b11912553573a81e9e702be1"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "e83f480ddf88",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Jaxin Chong",
+  "quest": null,
+  "en": "Glyx and I have an understanding: he keeps me supplied, and I keep him rich. Seriously! What that pirate charges me for a measly pouch of crumpled kingsblood... it's enough to make a grown goblin cry.",
+  "files": [
+   "gossip/e56ab09499777010cc558c0dd0ece4c2"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "9b26b731a399",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Jaxin Chong",
+  "quest": null,
+  "en": "You're better at this gig than I am! You want someone with even more experience than I've got. That'd be Ainethil, a night elf lady who lives in the Craftsmen's Terrace of Darnassus.",
+  "files": [
+   "gossip/f84b4daad586c1635158e862119c4e33"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "7e650d89c44b",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Kebok",
+  "quest": null,
+  "en": "Well, hello there. You seem like you wouldn't be opposed to making some coin, hm? I can tell from the look in your eyes. I am Mogul Kebok, overseer of operations in Azeroth, and if it is riches you seek, perhaps I can make arrangements.",
+  "files": [
+   "gossip/bed5db7c19da9db7ec35938ca77ad72e"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "fdf8d7ad3614",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Kin'weelay",
+  "quest": null,
+  "en": "Hello! The spirits say you here to aid my chief. Say it loud, they do.",
+  "files": [
+   "gossip/6f5ff1f2ed3e78c31865768b038c8f38"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "4262580434d3",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Krazek",
+  "quest": null,
+  "en": "Adventurer, eh? I am Krazek, Baron Revilgaz's secretary. I know everything about the goings on in this jungle and beyond. Perhaps you'd be interested in knowing the going price on oil in Ratchet? No? Looking for work, maybe? I can help you there.",
+  "files": [
+   "gossip/c150ea005524d091535d34c6f2d129d2"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "be42fe824ffb",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Maywiki of Zuldazar",
+  "quest": null,
+  "en": "What you be expectin', mon?\n\nMaywiki only be dealin' with the druids and shaman.",
+  "files": [
+   "gossip/170ffaa87dbcca087ef37ce1bfd1b76c"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "906884f9f9ab",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Molthor",
+  "quest": null,
+  "en": "If you have come to save the world then you have come to the right place. The faceless one - the Blood God, Hakkar - has been brought back into our world!",
+  "files": [
+   "gossip/36ed78ad0299f724a3f13e2686290432"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "a0a84655feec",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Myizz Luckycatch",
+  "quest": null,
+  "en": "You will need to find Nat Pagle in Dustwallow Marsh to get any better than you are currently.",
+  "files": [
+   "gossip/0bf837bea513c0c82387777d0998bdfb"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "4c604599d036",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Myizz Luckycatch",
+  "quest": null,
+  "en": "I can teach you fishing skills.",
+  "files": [
+   "gossip/2d127f614bfaf60be0fcf5c914c9f116"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "a7a8bf66dbe0",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Myizz Luckycatch",
+  "quest": null,
+  "en": "Your skill exceeds mine, though I've heard that Old Man Heming in Booty Bay has copies of \"The Bass and You\". That is sure to help you increase your skill.",
+  "files": [
+   "gossip/3bcdd8ed1fc1986116ad0c43c7de1475"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "71e0f1bfa439",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Nez'raz",
+  "quest": null,
+  "en": "Why you would want to leave these sunny shores and crystal blue waters I have no idea. It's like paradise down here. But don't tell my brother Zapetta that, he's bitter enough already about getting stuck up there in Tirisfal all day long. This Zeppelin here drops off at Orgrimmar so you shouldn't have to worry about having to listen to him whine. But if you are in Tirisfal anytime soon, heed my warning and don't get him started.",
+  "files": [
+   "gossip/ea11609900c4cc9251d7ec133d6d262b"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "ecc092fb3fbf",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Nimboya",
+  "quest": null,
+  "en": "Eh? You have business with Nimboya?",
+  "files": [
+   "gossip/0a7eb8b87be96bb74cc6324eeed852d5"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "a9cd79c7c754",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Oglethorpe Obnoticus",
+  "quest": null,
+  "en": "Well, if it isn't adventurer! It's good to see you again; I cannot express my gratitude enough at the help that you've given me and my invention work to date.\n\nWhat can I do for you today?",
+  "files": [
+   "gossip/5943501ff09a6c083506a7484daf7d10"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "f58c6488533c",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Oglethorpe Obnoticus",
+  "quest": null,
+  "en": "Hello there lad... the name's Oglethorpe and I may be responsible for one of the amazing gnomish devices you might possess! If it blew up, then it wasn't me; if it made you rich though, we can discuss royalties!\n\nOh, and if you're from Gnomeregan, you can just take two ninety degree angles, smash them together, and start marching. I have nothing to say to you.",
+  "files": [
+   "gossip/m-47c3755d412dea585d1a4ce936b47720"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "ce9e285a5fa0",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Riggle Bassbait",
+  "quest": null,
+  "en": "Welcome to the Booty Bay fishing contest where each week we choose the finest fisherman to be the Master Angler!\n\nBetween 2pm and 4pm schools of tastyfish will appear up and down the coast of Stranglethorn. While fishing if your fishing bobber lands in a tastyfish school then you will catch something from the school rather than the normal stranglethorn fishing fare.",
+  "files": [
+   "gossip/5776ad2ab96a8574ffb8006cc2353824"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "3cd7c19de470",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Riggle Bassbait",
+  "quest": null,
+  "en": "We already have a winner for our contest, but Jang is willing to purchase any Tastyfish that you have fished up!\n\nThere is always next Sunday for you to show your Angling skill!",
+  "files": [
+   "gossip/e7cede3a6a5c6bfa97691dd12ed05122"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "7bc67c2548c3",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Rin'wosho the Trader",
+  "quest": null,
+  "en": "Hail, adventurer. I am Rin'wosho, trader of Zuldazar. I come from the South Seas and bring many exotic goods and items from my homeland.\n\nPerhaps if you prove your worth to my tribe, I shall barter. If you have any of my tribe's Honor Tokens, then perhaps we shall barter even more.",
+  "files": [
+   "gossip/aca6701e63f56de998a1cc492839d1c2"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "e0cb5554dddd",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Scooty",
+  "quest": null,
+  "en": "Hello, adventurer! I am master engineer, Scooty.",
+  "files": [
+   "gossip/22c7e447f05eaff769b8cae4f2f6e0c9"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "a0798c98b30f",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Se'Jib",
+  "quest": null,
+  "en": "How you doin' mon!",
+  "files": [
+   "gossip/6e6caea26767043589a962c9cf10b835"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "46e645fd09b3",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Servant of the Hand",
+  "quest": null,
+  "en": "The Zandalarian trolls have traveled far and suffered much to reach this place, but to do nothing... is to invite our doom...",
+  "files": [
+   "gossip/e0da321d08e8706f432c7322309f11f8"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "8c80d5fc1899",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Short John Mithril",
+  "quest": null,
+  "en": "Arr! There be nothin I like to see better than folks fightin to the death in the arena. If you be here at the right time maybe you can be one of them!",
+  "files": [
+   "gossip/25938481b6c048114f6758db91eca1de"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "dec55e4019ab",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Squibby Overspeck",
+  "quest": null,
+  "en": "Slip a little coin into the boss's hand and look what it gets ya. I love my job. Though, if I could find a way to get that little firecracker Snurk reassigned to this port....well, I can't imagine it any better. But I'm betting that you aren't here about my business practices. You're looking for the Zeppelin to Undercity, am I right? Well that's great, because it docks right here behind me. Oh and hey, if you see Snurk, put a good word in for me, would ya?",
+  "files": [
+   "gossip/c021420a6f84c190718c0e399aad7e67"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "8986c9e60c83",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Vinchaxa",
+  "quest": null,
+  "en": "Behind me is the Altar of Zanza, a sacred place for us Zandalar. We pray here to bolster our resolve in preparation for war against the Blood God, Hakkar.\n\nProve yourself to the tribe by using the altar to destroy any of the Hakkari Bijous you might find inside Zul'Gurub. Also, I will trade you Honor Tokens our tribe uses for sets of coins you may find in Zul'Gurub. Bring me the coins that I seek, and you will be rewarded!",
+  "files": [
+   "gossip/146cded4f6f6a9fde55acea952be56eb"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "df74051e423d",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wharfmaster Lozgil",
+  "quest": null,
+  "en": "I see some interesting characters come and go here at the port. Watch yourself, adventurer. It's never clear who to trust, what with all of the shady activity that goes on here...",
+  "files": [
+   "gossip/dcf0c1ee4db440b6fbbc86387f776c61"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "11d69a75b7cf",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Xizk Goodstitch",
+  "quest": null,
+  "en": "Welcome to my shop, adventurer. What is it the Goodstitch brothers can do for you?",
+  "files": [
+   "gossip/99c06dc6ce2b538a25922d66ed241e64"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "f2587565733e",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Xizk Goodstitch",
+  "quest": null,
+  "en": "Ah, one of my favorite customers. You look to be of a warlock of some power, adventurer. I am pleased to meet you. If there is anything I can do for you, please, just ask.\n\nMy brother and I feel that it will be your kind who lead us into the next great era. One with such power... such control... it's only a matter of time before the Legion itself bends to your will.\n\nI am but a little envious.",
+  "files": [
+   "gossip/dfd92d7ff973be700d5eaab3126b732b"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "bfb00de99904",
+  "zone": "stranglethorn-vale-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zandalarian Emissary",
+  "quest": null,
+  "en": "We, the Zandalarian trolls, traveled here from distant islands, for we cannot ignore the threat that now faces our world.\n\nThe leader of our expedition, Molthor, brought us to the Yojamba Isle, along the northern coasts of Stranglethorn, and even now recruits brave heroes to venture into the ancient troll city... Zul'Gurub.",
+  "files": [
+   "gossip/2b07aacfb7ec7aa8d2c6dc58fbefae37"
+  ],
+  "uiMap": 1434
+ }
+]

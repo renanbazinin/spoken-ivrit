@@ -1,0 +1,2229 @@
+[
+ {
+  "id": "5571360130a6",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "A Weathered Grave",
+  "quest": "A Daughter's Love",
+  "en": "This is...? Sarah? Could it be she's still alive? The weight is removed from my shoulders...\n\nadventurer. Take my sword, Archeus. As my soul is put to rest, I have no more need for it. It was forged to do good, and though I have proved myself unworthy to hold it, perhaps you will carry on the Light through it.\n\nLys, my love...",
+  "files": [
+   "quests/231-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "32efde877e2c",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Morgan Ladimore",
+  "quest": "A Daughter's Love",
+  "en": "My sword Archeus served me well in life, but as at last my spirit may pass from the unhappy existence, I need it no longer.",
+  "files": [
+   "followup/1014-human-male-standard"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "e140080f5ea5",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Morgan Ladimore",
+  "quest": "A Daughter's Love",
+  "en": "I shall cling to the love of my daughter and hope that I will find forgiveness under the Light for my sins.",
+  "files": [
+   "followup/1015-human-male-standard"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "e799f1e3e456",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Watcher Ladimore",
+  "quest": "A Daughter's Love",
+  "en": "Here, take this and lay it on his grave. Maybe... somehow, he'll know that I'm okay, and that none of us hold him responsible for what happened.\n\n\nAnd... thank you, adventurer.",
+  "files": [
+   "quests/231-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "00d41ccfb39c",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "An Old History Book",
+  "quest": "An Old History Book",
+  "en": "Although the cover of this book is marred by scratches and caked with mud, the words \"The History of Stormwind\" can still be read along its spine. Upon opening the book, the seal of the Stormwind Library is clearly stamped on the book's first page.\n\nIt looks like someone checked out this book, and never returned it...",
+  "files": [
+   "quests/337-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "8e935c43ce1b",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Milton Sheaf",
+  "quest": "An Old History Book",
+  "en": "Oh my! This book hasn't rested on these shelves since before the rebuilding of Stormwind, years ago. It will have to be restored of course, it's in bad shape, but I would be honored to place it within our rare books collection.\n\nThank you, sir. Please accept this as payment for returning the book!",
+  "files": [
+   "quests/m-337-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "726075b163ad",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Night Watch Guard",
+  "quest": "An Unfortunate End",
+  "en": "The deceased Night Watchman lying before you is covered in deep gashes and cuts. It's clear to see that he was mauled by some sort of large beast.\n\nYou notice that the corpse has an unlit torch in his hand. You reach down and pry it from his stiff fingers. This could be useful in your travels through Duskwood and beyond to reveal things hidden by darkness.",
+  "files": [
+   "quests/98372-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "384d203c9e63",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grimand Elmore",
+  "quest": "Armed and Ready",
+  "en": "Here is the weapon against the fiend of which you spoke. You're all ready, Adventurer. Best of luck to you, and I look forward to your tale of glory!",
+  "files": [
+   "quests/325-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "f49b46179e35",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Sven Yorgen",
+  "quest": "Armed and Ready",
+  "en": "Ah, this will be proof against the fiend Morbent Fel! Well done!\n\nYou are ready. Morbent Fel will fall.",
+  "files": [
+   "quests/325-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "427fe6fee9eb",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Glorin Steelbrow",
+  "quest": "Blessed Arm",
+  "en": "There is a dwarven weaponsmith in the Dwarven District of Stormwind who can craft with lightforge iron. His name is Grimand Elmore.\n\nI've packed the iron you found into a crate. Take it to Grimand and tell him your tale. I'm sure he'll oblige someone on a quest such as yours, and craft for you a weapon - a weapon to give even Morbent Fel worry!",
+  "files": [
+   "quests/322-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "695657da238d",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grimand Elmore",
+  "quest": "Blessed Arm",
+  "en": "That is quite a tale you have. And lightforge iron! Not for years have I worked with such a metal. It will be an honor to craft with it again. And you must return to me later with the story of your battle against the Necromancer.\n\nBut we get ahead of ourselves. First, your weapon against Morbent Fel...",
+  "files": [
+   "quests/322-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "c07f2eaf5157",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lord Ello Ebonlocke",
+  "quest": "Bride of the Embalmer",
+  "en": "The Embalmer is a name told in one of our children's stories. He was a kindly alchemist, driven mad by the death of his wife, Eliza. To restore her, he used dark magic to place his own heart within the bosom of his dead spouse.\n\nThis revived Eliza...but it cursed her with a hunger for human flesh, forcing the Embalmer to keep her buried.\n\nHis heart is his power. Find his wife's grave, retrieve his heart, and bring it to me while it still beats. Do this and his power will be broken.",
+  "files": [
+   "quests/253-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "66ec741c707a",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lord Ello Ebonlocke",
+  "quest": "Bride of the Embalmer",
+  "en": "You've done it! The magic within his heart will be proof against the Embalmer's evil, and a powerful aegis over the town of Darkshire.\n\nYou have done a great thing for our people, Adventurer. Your name will remain in our annals forever.",
+  "files": [
+   "quests/253-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "c56dcf08989f",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Abercrombie",
+  "quest": "Deliver the Thread",
+  "en": "Delightful! This will do splendidly...\n\nHere, good Adventurer, take this as payment for your honorable deed.",
+  "files": [
+   "quests/157-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "f1d4b1eadcef",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Madame Eva",
+  "quest": "Deliver the Thread",
+  "en": "Here is your thread, Adventurer. It has a thousand uses, from binding evil spirits to sewing life into inanimate objects.",
+  "files": [
+   "quests/157-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "019627291d90",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Elaine Carevin",
+  "quest": "Deliveries to Sven",
+  "en": "Do you know Sven? Now, there is a man who does the work of the Light! He and his followers keep a camp at the northwestern edge of Duskwood.\n\nUnfortunately, because they are so few, they cannot even spare a man to fetch supplies from town. Will you deliver these supplies to him?",
+  "files": [
+   "quests/164-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "6158e76d0f58",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Sven Yorgen",
+  "quest": "Deliveries to Sven",
+  "en": "These supplies will be most useful. The aid of the Carevin family is always appreciated. Here is a little something for your trouble.",
+  "files": [
+   "quests/164-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "138250aee9bc",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Eliza's Grave Dirt",
+  "quest": "Digging Through the Dirt",
+  "en": "You dig through the semi-loose dirt over the grave...and find the remains of a coffin.\n\nWithin the coffin you can feel the vibrating scrapes of clawed fingers and the gnashing of rotted teeth...\n\nWill you open the coffin and retrieve the Embalmer's heart?",
+  "files": [
+   "quests/254-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "ac62cbd9b017",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Chef Grual",
+  "quest": "Dusky Crab Cakes",
+  "en": "I'll let you in on a little secret - Dusky \"Crab\" Cakes are really made from spider legs! I know it's a bit disgusting, but the cakes have a nice, tangy flavor and make great snacks! Bring me Gooey Spider Legs and I'll whip you up a few of them.\n\nI hear Venom Web Spiders are a good source - they nest to the north, between the foothills and the river.",
+  "files": [
+   "quests/93-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "c8595644965e",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Chef Grual",
+  "quest": "Dusky Crab Cakes",
+  "en": "Ah yes, a nice clutch of legs you have there! Let me just get these seasoned with my secret spices (no looking!) and get them to skittering on a skillet for a while...\n\nAnd, although Dusky Crab Cakes are my specialty and I won't give out the recipe, here's the recipe for a dish that's almost as good.",
+  "files": [
+   "quests/93-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "7fe9c60e6652",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Watcher Dodds",
+  "quest": "Eight-Legged Menaces",
+  "en": "Hail, adventurer. Perhaps you've seen those spiders that have taken over the western border? The eight-legged menaces are too much for us to handle, and the Commander hasn't enough manpower to spare so far from Darkshire.\n\nI hate to ask this of you, but you seem like you might be able to handle them. I can't promise you anything of great value, but I can reward you if you can help root out the filthy bugs.\n\nOh, and a word of advice, you'll want to avoid their venom if you can.",
+  "files": [
+   "quests/245-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "8f2b474bacd9",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Watcher Dodds",
+  "quest": "Eight-Legged Menaces",
+  "en": "Ah! You're back. And not too much worse for wear, it'd seem. Of course, adventurer, the Night Watch is grateful for your work, and I did promise you a reward, so here.",
+  "files": [
+   "quests/245-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "2d48b45ced42",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Jitters",
+  "quest": "Finding the Shadowy Figure",
+  "en": "Yes, I'm the author of that book. You finally found me, eh?\n\nWell if you read that journal...then you only know the half of it!",
+  "files": [
+   "quests/453-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "f2a6f3c71cb1",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tavernkeep Smitts",
+  "quest": "Finding the Shadowy Figure",
+  "en": "Good luck, Adventurer. I hope you find the chap, and I hope you find him alive.\n\nIf he's left the safety of Darkshire then he could be prey to the beasts of the wilds.",
+  "files": [
+   "quests/453-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "da9963c8acc5",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tavernkeep Smitts",
+  "quest": "Gather Rot Blossoms",
+  "en": "If you bring me some rot blossoms then I can brew you up a batch of zombie juice.\n\nRot blossoms grow in strange places. In particular, I hear you can find them inside the skulls of Skeletal Horrors and Skeletal Fiends... not that I've gotten close enough to look!\n\nThe Raven Hill Cemetery and the Tranquil Gardens are both lousy with those skeletons. You may as well get rid of them while you're looking for rot blossoms. The town of Darkshire would be grateful.",
+  "files": [
+   "quests/156-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "2b40f05eea35",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tavernkeep Smitts",
+  "quest": "Gather Rot Blossoms",
+  "en": "Good, you got the rot blossoms. And I'll tell Althea Ebonlocke of the Night Watch that you were killing skeletons.\n\nKeeping the people of Darkshire safe is a grim burden for the Night Watch, and news that others are helping stem the tide of fiends in Duskwood is welcome news indeed.",
+  "files": [
+   "quests/156-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "98e1c764eb40",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Blind Mary",
+  "quest": "Ghost Hair Thread",
+  "en": "What is this? A comb? It's lovely! And it glides through my hair as if it weren't the stiff, stringy horror that it is.\n\nOh, if only I had a mirror...",
+  "files": [
+   "quests/149-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "cba9260b3d55",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Madame Eva",
+  "quest": "Ghost Hair Thread",
+  "en": "There is a poor, sad spirit, Blind Mary, who haunts an old farm house in the hills south of Darkshire.\n\nHere, take this Spectral Comb and ask Blind Mary to comb her hair. Then bring back the comb and I will glean from it the Ghost Hair I'll need for the thread.\n\nAnd take care, for dark things now lurk near that house...",
+  "files": [
+   "quests/149-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "37eec0560f59",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Abercrombie",
+  "quest": "Ghoulish Effigy",
+  "en": "I live so far from the protection of town, it's a wonder the ghouls and the walking dead haven't eaten me! In fact, just yesterday a pack of Bone Chewers was pounding on the walls of my house!\n\nI want to make an effigy - a kind of \"scarecrow\" for Ghouls. To do that I need some Ghoul Ribs. You can get them from Flesh Eaters, Bone Chewers, Brain Eaters, Rotted Ones and Plague Spreaders.\n\nGet the ribs for me, and I will repay you with some coin.",
+  "files": [
+   "quests/133-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "bfe893aefe3f",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Abercrombie",
+  "quest": "Ghoulish Effigy",
+  "en": "Ah, thanks. These will do just the trick!",
+  "files": [
+   "quests/133-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "9409a352d8f3",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Sirra Von'Indi",
+  "quest": "Grant's Shield",
+  "en": "For a man as proud as Grant Valor to be brought low by such a simple creature says less about him and more about the horrors of battle. It only takes one slip to be crippled for life.\n\nThese weapons tell a great deal about their owner. Let me take some time to study them.",
+  "files": [
+   "quests/79362-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "58359334882a",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Clerk Daltry",
+  "quest": "Inquire at the Inn",
+  "en": "Here is your book, and good luck with your inquiries.\n\nYou might want to expand your search to the inn. If the person whom you seek spent time in town, then chances are someone saw him there.",
+  "files": [
+   "quests/266-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "b3aadbc55ee8",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tavernkeep Smitts",
+  "quest": "Inquire at the Inn",
+  "en": "Oh yeah, I remember this book. Its owner rented a room for a few days, and spent his nights at the bar, writing.\n\nHe left town in a hurry, muttering about being hunted by...something. Last I saw him he was heading west out of town, looking for a new spot to hide.\n\nThe first place he'd find to the west is Raven Hill...",
+  "files": [
+   "quests/266-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "6c50252f53f4",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Chef Grual",
+  "quest": "Jitters' Growling Gut",
+  "en": "You need some Crab Cakes, do you? Well I might be able to cook some up for you...",
+  "files": [
+   "quests/5-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "4e55a51e9ff7",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Jitters",
+  "quest": "Jitters' Growling Gut",
+  "en": "I've been stuck hiding in this ghost town for weeks, and I haven't eaten anything but grubs and weeds! I need some decent food, and I'm willing to trade well for it.\n\nBring me a feast and I'll pay you handsomely.\n\nI heard Chef Grual at the Scarlet Raven Tavern in Darkshire makes very good Dusky Crab Cakes...",
+  "files": [
+   "quests/5-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "3bc3fc834dc5",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Abercrombie",
+  "quest": "Juice Delivery",
+  "en": "A thousand thanks, Adventurer. You warm an old man's heart with your foolish-...I mean...with your kindness!\n\nHere you are, friend. Take this as a token of my gratitude.",
+  "files": [
+   "quests/159-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "54ab1382db17",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tavernkeep Smitts",
+  "quest": "Juice Delivery",
+  "en": "Here's your Zombie Juice...\n\n...and be careful with this stuff. It's strong enough to raise the dead!",
+  "files": [
+   "quests/159-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "f7c44554e9f0",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Glorin Steelbrow",
+  "quest": "Lightforge Ingots",
+  "en": "You might have found one lightforge ingot in that chest, but that's not enough to craft anything decent!\n\nYou should go back there and look for more. Maybe the murlocs around that wrecked ship have lightforge ingots on them.",
+  "files": [
+   "quests/526-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "697714e71efa",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Glorin Steelbrow",
+  "quest": "Lightforge Iron",
+  "en": "The shipwrecks off the shore here are the doomed Third Fleet of Kul'Tiras, burned and sunk by Red Dragons during the last Great War.\n\nThe Fleet hailed from Lordaeron, but one ship, an Elvish Destroyer: Flying Osprey, was with it. It was shipping a load of Lightforge Iron and joined the Third Fleet for protection. Ironic that it sunk to the same dragons...\n\nEnough history. The Flying Osprey is wrecked to the south of Menethil Harbor. If you find the Lightforge Iron there, bring it to me.",
+  "files": [
+   "quests/321-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "41de7ae88c4c",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Waterlogged Chest",
+  "quest": "Lightforge Iron",
+  "en": "This chest is waterlogged, and its siding broken. Many claw marks mar both the inside and outside of the chest...as if Murlocs have searched through it and stolen its treasure.\n\nBut tucked deep within the chest is a single Lightforge Ingot. Unfortunately, many more will be needed if enough metal to fashion a weapon is to be gained.",
+  "files": [
+   "quests/321-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "321511e36725",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Blind Mary",
+  "quest": "Look To The Stars",
+  "en": "Why yes, I used to own a looking glass.",
+  "files": [
+   "quests/175-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "8c8ece0387bd",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Blind Mary",
+  "quest": "Look To The Stars",
+  "en": "The looking glass was one of my finest treasures until. . .the incident. After that happened, I discarded it behind the barn. There was an Insane Ghoul who used to roam back there. Perhaps he picked it up. Rumor has it the devilish beast resides in the Tranquil Gardens Cemetery.",
+  "files": [
+   "quests/177-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "c650c93ee98e",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Viktori Prism'Antras",
+  "quest": "Look To The Stars",
+  "en": "My Gnomish friend, Cog, has promised to help me build a device which will let me peer towards the stars. A truth exists, beyond magic, that can explain the strange transformation in the forest.\n\nBring to me a bronze tube made by a skilled engineer. That is the first step, according to Cog's blueprint.",
+  "files": [
+   "quests/174-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "7c976ffab880",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Viktori Prism'Antras",
+  "quest": "Look To The Stars",
+  "en": "This is perfect, Adventurer. The first step is complete!",
+  "files": [
+   "quests/174-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "b284746afc8e",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Viktori Prism'Antras",
+  "quest": "Look To The Stars",
+  "en": "According to Cog's blueprint, what I need now is a way to reflect light. I remember a woman by the name of Mary who became well known around these parts for always carrying a looking glass. Perhaps you can track Mary down and see if she might lend us a reflective surface for this project? I believe she once resided in southern Duskwood. . .",
+  "files": [
+   "quests/175-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "30f9d4047419",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Viktori Prism'Antras",
+  "quest": "Look To The Stars",
+  "en": "Most superb! This will work perfectly. Many thanks!",
+  "files": [
+   "quests/177-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "0e5143f3b957",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Viktori Prism'Antras",
+  "quest": "Look To The Stars",
+  "en": "Now there is just one more item needed to complete this device. Cog's blueprint calls for a lens of some sort. The only lens I know of that would be large enough will be very difficult to acquire.\n\nThere is an ogre by the name of Zzarc'Vul who resides in the mound in southern Duskwood. If you can, bring to me his monocle and I will use that as our lens!",
+  "files": [
+   "quests/181-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "be25e1dbcec3",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Viktori Prism'Antras",
+  "quest": "Look To The Stars",
+  "en": "At last! The stargazing device is complete! Thank you, Adventurer. Now I can continue my research. . .",
+  "files": [
+   "quests/181-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "01f5e4075849",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Commander Althea Ebonlocke",
+  "quest": "Mor'Ladim",
+  "en": "From what my scouts tell me, Mor'Ladim wanders throughout Duskwood, following a strange and meandering path through the cemetery. We buried him out past the house on the hill, you know where that is?\n\nThere isn't anything I can do to help you, but I wish you good luck.",
+  "files": [
+   "quests/228-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "0302c118f1a4",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Commander Althea Ebonlocke",
+  "quest": "Mor'Ladim",
+  "en": "You killed him? That's no small accomplishment, adventurer! On behalf of the people of Darkshire and the Night Watch, I thank you.\n\nAh... there is one small matter, however...",
+  "files": [
+   "quests/228-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "1293ec867fd7",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Sven Yorgen",
+  "quest": "Morbent Fel",
+  "en": "Morbent Fel hides in his lair, the house perched atop the hill to the east overlooking the Raven Hill cemetery. His time in this land is drawing to an end...\n\nUse Morbent's Bane against him. It will render his protective magics powerless.\n\nSlay him. Slay him, and save us from his wickedness. Be the instrument of my revenge, and a hero of Duskwood!",
+  "files": [
+   "quests/55-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "cc73bd6360db",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Sven Yorgen",
+  "quest": "Morbent Fel",
+  "en": "Morbent Fel has been defeated. The dark riders are still at large, but a small piece of that which I had hoped beyond hope has come to pass.\n\nYou have done the impossible, and your deeds will forever live in the legends of Duskwood.\n\nGo, Adventurer. And perhaps, one day, fate may bring you back to me...",
+  "files": [
+   "quests/55-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "8ad2974f2e4c",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Commander Althea Ebonlocke",
+  "quest": "Morgan Ladimore",
+  "en": "Morgan Ladimore? Never heard of...\n\nOh, you mean Mor'Ladim! I guess you haven't heard the story?\n\nWell, I'll give you the short version. A wandering undead calling itself Mor'Ladim has been wandering Duskwood. From what we've gathered, it appears to be the undead body of Morgan Ladimore, of whom you apparently know. He's been causing us all sorts of problems, attacking Watchmen on patrol and killing people.\n\n\nYou seem to be capable enough, maybe you could lay him to rest.",
+  "files": [
+   "quests/227-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "97cfbe9901b3",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Sirra Von'Indi",
+  "quest": "Morgan Ladimore",
+  "en": "If you would like to know more, you might ask Althea, she's been the one to handle the... trouble... with him of late.",
+  "files": [
+   "quests/227-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "1bd84893a429",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Abercrombie",
+  "quest": "Note to the Mayor",
+  "en": "Take this note to Ello Ebonlocke, the Mayor of Darkshire.\n\nHe and I are old friends...and when he reads it and discovers what you did for me...I'm sure he'll be just as happy as I am! Hahahaha!",
+  "files": [
+   "quests/160-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "ea6e5ed87147",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lord Ello Ebonlocke",
+  "quest": "Note to the Mayor",
+  "en": "What language is this? It looks ancient...I can't read it.",
+  "files": [
+   "quests/160-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "eebaf3d042b5",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Faustin",
+  "quest": "Nothing But The Truth",
+  "en": "The serum will only take a few minutes to prepare, adventurer.",
+  "files": [
+   "followup/1848-scourge-male-dark"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "db4a28601627",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Faustin",
+  "quest": "Nothing But The Truth",
+  "en": "Almost done...",
+  "files": [
+   "followup/1849-scourge-male-dark"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "b77fa2dbab96",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Faustin",
+  "quest": "Nothing But The Truth",
+  "en": "At last, the serum is complete, adventurer. Now, come closer. We must talk.",
+  "files": [
+   "followup/1850-scourge-male-dark"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "ce7191a974b0",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Faustin",
+  "quest": "Nothing But The Truth",
+  "en": "Zraedus was just telling me about the nosey little Infiltrator before you arrived.\n\nQuite a problem, indeed. The last thing we need is a busybody sniffing around Beggar's Haunt.\n\nI am sure the orcs of Stonard would be quite anxious to hear what our friend has to say. Seeing that they are our allies, ahem, we must help them to get any information they can from the human.\n\nWork with me, adventurer, and we will deliver a truth serum to Stonard.\n\nFor the Horde!\n\n...did I get that right?",
+  "files": [
+   "quests/1372-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "8209d1251a75",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Faustin",
+  "quest": "Nothing But The Truth",
+  "en": "I have just the right serum in mind. It will deal with the truth in precisely the way the truth should be dealt with.\n\nFor this concoction I will need several Shadow Panther hearts from the Swamp. I also require the enchanted fungus off of the Mire Lord who resides there. I am sure one as able as you, adventurer, can persuade him to part with some.\n\nNow the hard part will be locating a Deepstrider tumor from far-off Desolace. Very rarely the giants there become ill and a tumor forms.\n\nNow, off you go!",
+  "files": [
+   "quests/1383-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "f4a6e12a5aae",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Faustin",
+  "quest": "Nothing But The Truth",
+  "en": "Splendid, adventurer! And just in time too. From what Zraedus tells me, the Infiltrator has recovered from his wounds and is ready to be questioned by the orcs.\n\nGive me but a moment to prepare the pois-- I mean prepare the truth serum.",
+  "files": [
+   "quests/1383-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "a1d327384c03",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Faustin",
+  "quest": "Nothing But The Truth",
+  "en": "Everything is proceeding according to plan, adventurer. I want you to give this truth serum to Deathstalker Zraedus and he'll show you how to administer it.... properly.\n\nHaha!",
+  "files": [
+   "quests/1388-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "6401524fb4a6",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathstalker Zraedus",
+  "quest": "Nothing But The Truth",
+  "en": "Our expeditionary force was sent at Varimathras's behest to survey lower Azeroth.\n\nWhile out scouting I noticed a human Infiltrator spying on Beggar's Haunt. Before I could apprehend him, some of our orcish... brethren... captured him and took him to Stonard, their stronghold in Swamp of Sorrows.\n\nI want to... help... our orcish allies. They did not see our camp here but nonetheless I want to lend a hand.\n\nWork with Faustin here to develop a... truth serum for our friend in Stonard.",
+  "files": [
+   "quests/1372-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "c03d091b4ced",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathstalker Zraedus",
+  "quest": "Nothing But The Truth",
+  "en": "I knew old Faustin would come up with something good! You were a tremendous help, no doubt.\n\nNow let's get down to business, shall we?",
+  "files": [
+   "quests/1388-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "5774cd3a3593",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathstalker Zraedus",
+  "quest": "Nothing But The Truth",
+  "en": "We need to operate with a certain amount of discretion. After all, it's not like you're going to waltz in there and convince the fool to drink Faustin's concoction here, right?\n\nBut if there's one thing those humans cannot deny it's the booze. I'll take Faustin's serum and mix it into this ale. I guarantee the poor sap will show no reluctance when it comes to chug-a-lugging a brew.\n\nMake haste to Stonard in the Swamp of Sorrows, adventurer. And keep our little mission nice and quiet...",
+  "files": [
+   "quests/1391-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "05b784037001",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Infiltrator Marksen",
+  "quest": "Nothing But The Truth",
+  "en": "That was refreshing. Now there's information that needs to be told...",
+  "files": [
+   "followup/1858-human-male-warrior"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "babeaff000b2",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Infiltrator Marksen",
+  "quest": "Nothing But The Truth",
+  "en": "I believe the Forsaken are misleading the allies of the Horde.... wait... I feel so... dizzy...",
+  "files": [
+   "followup/1859-human-male-warrior"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "bf7b675015cc",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Infiltrator Marksen",
+  "quest": "Nothing But The Truth",
+  "en": "AAAAAAAAAAAAAAAARGH!",
+  "files": [
+   "followup/1861-human-male-warrior"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "04dd8bda13dd",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Infiltrator Marksen",
+  "quest": "Nothing But The Truth",
+  "en": "A drink for me? How kind. It's been days since they've allowed me to drink. Let me drink this down and then I'll tell you what I've learned....",
+  "files": [
+   "quests/1391-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "259edab03d80",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Abercrombie",
+  "quest": "Ogre Thieves",
+  "en": "A few weeks ago I was picking herbs far from my house, and a band of ogres attacked me! I ran, and I was forced to leave behind a crate of precious tools and herbs.\n\nAfter they chased me off, the ogres swaggered back to the ogre mound in southern Duskwood. I'm sure my crate is somewhere near the mound.\n\nPlease, Adventurer, retrieve this crate for me for I miss it sorely.",
+  "files": [
+   "quests/134-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "4bed33a87157",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Abercrombie",
+  "quest": "Ogre Thieves",
+  "en": "Thank the Nec-...well, thank YOU, Adventurer! You have more than earned your reward.\n\nAha! Happy! Happy nights ahead!!",
+  "files": [
+   "quests/134-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "83a2c7eadc59",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Sven Yorgen",
+  "quest": "Proving Your Worth",
+  "en": "Morbent Fel is a necromancer, and an ally to the dark riders. I would pit you against the power of Morbent Fel, but I will not send you against that vile fiend without first knowing your strength.\n\nYou have already proven your bravery to me, but if you truly wish to face the necromancer, then you must now prove your skill against his minions.",
+  "files": [
+   "quests/323-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "3d7d6aeb1cfb",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Sven Yorgen",
+  "quest": "Proving Your Worth",
+  "en": "Your skill in combat, Adventurer, can not be doubted. Your resolve may yet see us through to the end of Morbent Fel!",
+  "files": [
+   "quests/323-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "6c227b60fd77",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Elaine Carevin",
+  "quest": "Raven Hill",
+  "en": "Something's amiss at Raven Hill, adventurer. Calor swears that someone--or something--is haunting the buildings there. Two nights running he's noticed the shadows moving, and the third before that he says he saw light in one of the windows.\n\nIf, as you say, you care about the safety of Duskwood, find out what monster haunts in Raven Hill.",
+  "files": [
+   "quests/163-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "68e8b8bc3c6a",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Jitters",
+  "quest": "Raven Hill",
+  "en": "No! Please don't kill me! It's just me... Jitters!! They're everywhere... I can't escape them! Monsters in Raven Hill? N-n-n-o... couldn't be. Only harmless Jitters.",
+  "files": [
+   "quests/163-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "c7be8f9f7d53",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Blind Mary",
+  "quest": "Return the Comb",
+  "en": "NO!!!!!\n\nTake it, take this comb away from me!\n\nI'm a monster, and no one will ever think me lovely again!",
+  "files": [
+   "quests/154-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "e855f9044ae6",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Madame Eva",
+  "quest": "Return the Comb",
+  "en": "I can make a spool of Ghost Hair Thread with this, and have a few strands to spare. Here are some coins for those extra strands.",
+  "files": [
+   "quests/154-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "6b13067d2609",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Chef Grual",
+  "quest": "Return to Jitters",
+  "en": "And here we are - \"Crab\" Cakes ala Grual!",
+  "files": [
+   "quests/240-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "a9520f738b69",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Jitters",
+  "quest": "Return to Jitters",
+  "en": "Aha! Thank you, Adventurer. Those really hit the spot!\n\nAnd here, please let me pay you for these!",
+  "files": [
+   "quests/240-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "835b4e1f2c43",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Jitters",
+  "quest": "Return to Sven",
+  "en": "The book you found was only half finished. I had to leave it at Sven's farm when I fled there...\n\nHere. Take my completed journal to Sven. It describes more fully what happened at his farm.\n\nAlthough this journal has been my only company these past weeks, if giving it up keeps me from having to face Sven and his wrath, then I do it willingly!",
+  "files": [
+   "quests/268-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "db6fee877a39",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Sven Yorgen",
+  "quest": "Return to Sven",
+  "en": "This journal explains much to me, and sets me on the path against the dark riders! I have seen these riders in Duskwood, and have seen them speak with the wizard Morbent Fel, at the Forlorn Rowe.",
+  "files": [
+   "quests/268-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "83f79632365a",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Chef Grual",
+  "quest": "Seasoned Wolf Kabobs",
+  "en": "Seasoned Wolf Kabobs are a house favorite! Sure, I can make you some. But first I'll need the supplies. Bring me 10 Lean Wolf Flanks as well as some Stormwind Seasoning Herbs. There are so many wolves here in the forest, I am sure finding the Flanks will be no problem. For the herbs, seek out Felicia Gump in her canal district flower shop in Stormwind.",
+  "files": [
+   "quests/90-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "3da7d5733565",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Chef Grual",
+  "quest": "Seasoned Wolf Kabobs",
+  "en": "Very nice work, Adventurer! Enjoy the delicacy known as Seasoned Wolf Kabob!",
+  "files": [
+   "quests/90-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "9c17cef5702b",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Bishop Farthing",
+  "quest": "Seeking Wisdom",
+  "en": "An evil taint has gained a foothold within the already beleaguered Duskwood. I thank the Light we have a hero such as you to face it.\n\nBut you must first prepare yourself for the coming trial...for the Necromancer Morbent Fel is immensely powerful, and has cast dark enchantments about himself to protect him from physical assaults. If you are to defeat him, you will need a weapon that is proof against these protections.",
+  "files": [
+   "quests/269-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "288870a5327b",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Sven Yorgen",
+  "quest": "Seeking Wisdom",
+  "en": "Go to the city of Stormwind and speak with Bishop Farthing in the Cathedral of Light. Give him Jitters' journal and tell him you mean to face Morbent Fel.\n\nAlthough Stormwind has forsaken Darkshire, Farthing is a kind soul and very wise. He may help you on your quest to save us.\n\nYour mission is perilous, but hurry, Adventurer. With each passing hour, the shadows of Duskwood grow ever darker.",
+  "files": [
+   "quests/269-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "df95ff2a61d3",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Quartermaster Lungertz",
+  "quest": "Supplies for Nethergarde",
+  "en": "Ah, the powerstones! The mages will be happy to see these!\n\nMany thanks, Adventurer. I know your trip from Darkshire was not an easy one.",
+  "files": [
+   "quests/1395-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "632f7cef3a4b",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Watchmaster Sorigal",
+  "quest": "Supplies for Nethergarde",
+  "en": "This crate of powerstones needs to go to Nethergarde Keep, in the Blasted Lands. They won't hold their power for long, so we can't ship them with the next caravan.\n\nYou must take them, and you must take them quickly.\n\nBring them to Quartermaster Lungertz in Nethergarde Keep. To reach the keep, you must travel east through Deadwind Pass, then east through the Swamp of Sorrows, then south through the Blasted Lands.\n\nUse caution, Adventurer. You will travel through dangerous lands, yet you must not fail.",
+  "files": [
+   "quests/1395-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "382c87fe550d",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Abercrombie",
+  "quest": "Supplies from Darkshire",
+  "en": "Oh, what is a poor old man to do? I need some supplies from Darkshire, but the village is so far away and I am so old and feeble...I would never make the trip.\n\nCan you go to Darkshire and bring me back some Ghost Hair Thread? You can get it from Madame Eva at her home on the Darkshire square.",
+  "files": [
+   "quests/148-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "52c57bd7b5cb",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Madame Eva",
+  "quest": "Supplies from Darkshire",
+  "en": "Ah, Ghost Hair Thread is what you need, is it? I'm afraid I have none in stock, but I can make some for you...if you can supply the ghost hair.",
+  "files": [
+   "quests/148-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "bc4a37c71454",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Mound of loose dirt",
+  "quest": "Sven's Camp",
+  "en": "Digging through the mound, you find a small, dirt-stained book.\n\nThe book has no title, but...it has information Sven would like to know.",
+  "files": [
+   "quests/230-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "38bc7ac304e1",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Sven Yorgen",
+  "quest": "Sven's Camp",
+  "en": "That shadowy figure I saw was a witness to my family's death! There are questions I'd like to ask that man...if only I knew who he was!",
+  "files": [
+   "quests/230-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "d1f06835046b",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Mound of loose dirt",
+  "quest": "Sven's Revenge",
+  "en": "A mound of dirt is here, hastily piled up as if someone had need of hiding something...without much time to do it.",
+  "files": [
+   "quests/95-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "ca2795f8f89f",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Sven Yorgen",
+  "quest": "Sven's Revenge",
+  "en": "I used to work one of the farms to the southeast...until Dark Riders from Deadwind Pass descended upon my farm and slaughtered my family when I was away!\n\nWhen I returned I saw a shadowy figure skulking near my barn, burying something. He fled before I could catch him, and I couldn't linger for I was hot on the heels of the Dark Riders. So I never discovered what was hidden.\n\nIf you can find what that shadowy figure buried, I would be grateful. The hiding spot is behind the old stump near my barn.",
+  "files": [
+   "quests/95-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "005c1cba9090",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Commander Althea Ebonlocke",
+  "quest": "The Daughter Who Lived",
+  "en": "I should have told you this earlier...\n\nHow do I put this...\n\nMorgan may have believed that his family was all dead, but, in fact, his daughter Sarah Ladimore is now a Watcher. She's always been troubled by the... circumstances... surrounding her father's death. Perhaps you could go to bring the news to her.",
+  "files": [
+   "quests/229-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "be8a36e25a56",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Watcher Ladimore",
+  "quest": "The Daughter Who Lived",
+  "en": "Yes? My father...\n\n\nI wish... there was something I could have done for him... If only I had talked to him before he...",
+  "files": [
+   "quests/229-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "1471967ae435",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Bishop Farthing",
+  "quest": "The Doomed Fleet",
+  "en": "Years ago, the Third Fleet of Kul'Tiras sunk along the coasts of The Wetlands, an expanse of marsh north of the Dwarven kingdom of Ironforge. Aboard one ship was a load of Lightforge Iron.\n\nThis metal is precious to us, for items crafted from it strike with holy truth. If you are to face Morbent Fel, then you will need such a weapon.\n\nGo to Menethil Harbor and speak with my dwarven colleague Glorin Steelbrow. If that lost metal can be found, he'll know where to look.",
+  "files": [
+   "quests/270-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "49869633bfe0",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Glorin Steelbrow",
+  "quest": "The Doomed Fleet",
+  "en": "Lightforge Iron is a precious metal, but it sounds like your quest is a dire one. You've come a long way, Brother. With luck, you might just find what you seek!\n\nAnd if you do get the iron, I know who can fashion it into a weapon against this Necromancer you speak of in Duskwood.",
+  "files": [
+   "quests/m-270-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "9083d72a382e",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Abercrombie",
+  "quest": "The Hermit",
+  "en": "Elaine Carevin? Hehe, oh yes... of course, the Carevins.\n\nNo, nothing's wrong but it is hard for me to go into town now. The roads are dangerous and I'm not getting any younger. Maybe you can do an old man some favors?",
+  "files": [
+   "quests/165-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "ed9bc1682ded",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Elaine Carevin",
+  "quest": "The Hermit",
+  "en": "There was an old man who used to come into town to buy supplies rather frequently, but I haven't seen him for quite some time now. He lives out in a shack overlooking Raven Hill cemetery, if I remember correctly. Perhaps you should go see if something is amiss.",
+  "files": [
+   "quests/165-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "ab3ec9b1b35a",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Caretaker Folsom",
+  "quest": "The Legend of Stalvan",
+  "en": "You've got some nerve bringing this here.",
+  "files": [
+   "quests/70-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "220332fbffde",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Caretaker Folsom",
+  "quest": "The Legend of Stalvan",
+  "en": "My father was the caretaker of the estate long before I was. He had to mop the blood up after the massacre. But that's neither here nor there.\n\nThe last funds of the Flintridge trust have dried up. Now the last of the family possessions are headed for auction. Blame the tax vultures. I guess if you're really itching to learn more you're free to look through this junk. Who knows what you might find.",
+  "files": [
+   "quests/72-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "d5c345b051fb",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Clerk Daltry",
+  "quest": "The Legend of Stalvan",
+  "en": "Ah so Madame Eva sent you. . . .",
+  "files": [
+   "quests/66-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "ac72035131fa",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Clerk Daltry",
+  "quest": "The Legend of Stalvan",
+  "en": "Stalvan, eh? Let me check the town registry.\n\nStalvan. . .Stalvan. . .let's see. Ah, here we go! I have a record of a Mr. Stalvan Mistmantle. The last recorded address is the Moonbrook Schoolhouse. My, talk about outdated!\n\nDo me a favor will you, friend? If you happen to go out to Moonbrook, let me know if you get any update on this fellow. I like to keep the records clean.",
+  "files": [
+   "quests/67-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "6cd26fe10c31",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Clerk Daltry",
+  "quest": "The Legend of Stalvan",
+  "en": "Interesting. So the chap did spend some time in Moonbrook after all. It is rather odd the letter never got delivered. Nonetheless, I shall update the registry.",
+  "files": [
+   "quests/68-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "f837266405a4",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Clerk Daltry",
+  "quest": "The Legend of Stalvan",
+  "en": "Oh my! Must have missed this the first time. In the registry, right beneath the first address for Stalvan there's another one listed, only partially scratched out. Looks like he was headed to The Lion's Pride Inn over in Goldshire. Might want to check there, Adventurer.",
+  "files": [
+   "quests/69-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "ebc0c5511c65",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Clerk Daltry",
+  "quest": "The Legend of Stalvan",
+  "en": "Why yes! The writing on this page does in fact match that of the registry signatures.",
+  "files": [
+   "quests/80-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "6de5091cf088",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Clerk Daltry",
+  "quest": "The Legend of Stalvan",
+  "en": "Let Commander Ebonlocke know immediately that the handwriting matched, Adventurer! Her suspicions were correct!",
+  "files": [
+   "quests/97-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "62a538c7f032",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Commander Althea Ebonlocke",
+  "quest": "The Legend of Stalvan",
+  "en": "My, you have proved yourself to be quite a detective, adventurer.",
+  "files": [
+   "quests/79-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "eba487beb6b8",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Commander Althea Ebonlocke",
+  "quest": "The Legend of Stalvan",
+  "en": "I have had my eye on that creep, Stalvan, for quite sometime. But if this page was written by the same hand it proves his guilt beyond a shadow of a doubt.\n\nIn all his days keeping the Town Registry, Clerk Daltry has become an expert at identifying handwriting. Show him this page and see if the writing matches that of the registry signature.",
+  "files": [
+   "quests/80-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "812dbc0bd015",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Commander Althea Ebonlocke",
+  "quest": "The Legend of Stalvan",
+  "en": "I knew it! Fine work, Adventurer.",
+  "files": [
+   "quests/97-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "99b188037f3d",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Commander Althea Ebonlocke",
+  "quest": "The Legend of Stalvan",
+  "en": "Stalvan Mistmantle led a life of depravity. Innocent victims died by his hand. Undoubtedly he is guilty of countless crimes. Now the lunatic threatens Darkshire. The Light only knows what sordid acts he is plotting. Travel to his cottage just north of town, Adventurer, and execute Stalvan, once and for all.\n\nWhen the deed is done, travel to Madame Eva's and show her his family ring. After all, it was her premonition that led to this gruesome discovery. But Darkshire is safer because of her.",
+  "files": [
+   "quests/98-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "fb46e210d696",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Farley",
+  "quest": "The Legend of Stalvan",
+  "en": "Stalvan? Sure sounds familiar.",
+  "files": [
+   "quests/69-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "17df120e7fad",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Farley",
+  "quest": "The Legend of Stalvan",
+  "en": "The name Stalvan rings a bell. I remember now.\n\nMany years back, on a stormy night, a messenger came in, seeking refuge for the night. Near the stroke of midnight, the man ran down the stairs screaming, his face pale with fear. Still wearing his bedclothes, he disappeared into the downpour.\n\nIn his haste he forgot his letters in the chest upstairs. He never returned for them. One remains from that Stalvan fellow, intended for the Canal District in Stormwind. Help yourself to it.",
+  "files": [
+   "quests/70-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "24d12641670a",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Madame Eva",
+  "quest": "The Legend of Stalvan",
+  "en": "Last night a horrible disturbance rippled through my veins. I sensed that my granddaughter, Alyssa, was in great danger. I consulted the cards and Death stared up at me from the table.\n\nAfter taking a long journey through a dark trance I was able to uncover a clue to this terrifying mystery. A name came to me, the name of Stalvan.\n\nSeek out the Clerk in the Town Hall and see if you can find out more about this character. I fear for us all.",
+  "files": [
+   "quests/66-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "026fd0b25b0d",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Madame Eva",
+  "quest": "The Legend of Stalvan",
+  "en": "I know, Adventurer: Stalvan is dead. I sensed a wave of hope ripple through the tainted forest. Once and for all, Duskwood is free from his blood thirst. My joy is hampered by thoughts of those who fell prey to the horrible beast. Nonetheless, you are a brave and cunning adventurer.",
+  "files": [
+   "quests/98-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "921707a20910",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Haggard",
+  "quest": "The Legend of Stalvan",
+  "en": "I can barely make out those letters. But that writing style reminds me of something I once saw before my vision became so poor.",
+  "files": [
+   "quests/74-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "81fd88dcfb07",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Haggard",
+  "quest": "The Legend of Stalvan",
+  "en": "There was a bundle of parchments in the chest upstairs when I moved into this place. I looked at them once when I first arrived but I gave up once the fog hazed over my peepers. \n\nDo an old, nearly-blind man a favor and check the chest upstairs for anything that might help you in your quest to discover more about this Stalvan character. I'm pretty sure there's a faded journal page that might be of interest to you. Bring it to me and I'll help in anyway I can.",
+  "files": [
+   "quests/75-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "16b7143b63d4",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Haggard",
+  "quest": "The Legend of Stalvan",
+  "en": "You found it!",
+  "files": [
+   "quests/75-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "4a8fd468af21",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Haggard",
+  "quest": "The Legend of Stalvan",
+  "en": "I know of someone who might be able to assist you. Back when I was leading the Stormwind Guard, we used to get drinks at the Scarlet Raven Tavern in Darkshire. The Innkeeper there, Smitts, was quite an expert on the local lore. Show him this page and see what he has to say about it.",
+  "files": [
+   "quests/78-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "ac95ca698e86",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Old Footlocker",
+  "quest": "The Legend of Stalvan",
+  "en": "The old footlocker creaks open. . . .",
+  "files": [
+   "quests/67-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "452a1e889a3a",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Old Footlocker",
+  "quest": "The Legend of Stalvan",
+  "en": "You find a Dusty Unsent Letter in the old footlocker.",
+  "files": [
+   "quests/68-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "9e648407b1bb",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Sealed Crate",
+  "quest": "The Legend of Stalvan",
+  "en": "You slowly slide the lid of the crate off. . . .",
+  "files": [
+   "quests/72-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "81b743f0b095",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Sealed Crate",
+  "quest": "The Legend of Stalvan",
+  "en": "Inside the crate you find various objects: musty heirlooms, a family portrait, a few hunting trophies and some old books. Near the bottom, underneath a ceramic vase, you uncover A Torn Journal Page.",
+  "files": [
+   "quests/74-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "fe362c3e96e1",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tavernkeep Smitts",
+  "quest": "The Legend of Stalvan",
+  "en": "By the Light! You bet I recognize that handwriting.",
+  "files": [
+   "quests/78-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "d436105ac30e",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tavernkeep Smitts",
+  "quest": "The Legend of Stalvan",
+  "en": "I followed the legend of that Stalvan character for years. When those visiting nobles were slaughtered a few years back I went with Haggard to investigate. I found these muddy pages but we were never able to link the handwriting to that crazy man in the woods. Your trail of evidence proves his guilt. Take this to Commander Ebonlocke immediately and fill her in on what you've discovered!",
+  "files": [
+   "quests/79-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "869f85e56057",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Glorin Steelbrow",
+  "quest": "The Lost Ingots",
+  "en": "Ah, you found them! Now let's get this lightforge iron hammered into something useful, eh?",
+  "files": [
+   "quests/324-complete",
+   "quests/526-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "1178058b474a",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Waterlogged Chest",
+  "quest": "The Lost Ingots",
+  "en": "Having grabbed the single lightforge ingot from the waterlogged chest, it is clear that murlocs have stolen the rest. Hunt the murloc raiders near the Flying Osprey wreckage for the lost lightforge iron.",
+  "files": [
+   "quests/324-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "0466078c9ecc",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Commander Althea Ebonlocke",
+  "quest": "The Night Watch",
+  "en": "As Commander of The Night Watch it is my sworn duty to protect the citizens of Darkshire. Stormwind has retracted their commissioned guards from their posts here, leaving us to our own devices.\n\nIf you feel worthy of the task, we need your help! Assist The Night Watch by venturing forth into Tranquil Gardens, just south of Darkshire, and slaying 8 Skeletal Warriors and 6 Skeletal Mages. The undead threat must be thwarted!",
+  "files": [
+   "quests/56-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "092b6fdff740",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Commander Althea Ebonlocke",
+  "quest": "The Night Watch",
+  "en": "Splendid, adventurer. For your service to the people of Darkshire you shall be rewarded.",
+  "files": [
+   "quests/56-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "937d5a95a9bc",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Commander Althea Ebonlocke",
+  "quest": "The Night Watch",
+  "en": "Adventurer, I'm getting reports of an undead infestation in the forest! If you're up to the job, journey to the Raven Hill graveyard and slay 15 of those vile Skeletal Fiends and 15 Skeletal Horrors. There are also reports of skeletons just south of Darkshire, in and around Tranquil Gardens Cemetery. The undead must be driven from Duskwood!",
+  "files": [
+   "quests/57-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "826a2c3c1f89",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Commander Althea Ebonlocke",
+  "quest": "The Night Watch",
+  "en": "The people of Darkshire thank you, adventurer. You have proven yourself to be a great ally of The Night Watch.",
+  "files": [
+   "quests/57-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "e35eb1746689",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Commander Althea Ebonlocke",
+  "quest": "The Night Watch",
+  "en": "The situation in Raven Hill is still grim. The safety of Darkshire is in your hands, Adventurer. I don't have enough Watchers to keep the town safe. We need you to dispatch for Raven Hill yet again and rid the eastern mausoleum of 20 Plague Spreaders!",
+  "files": [
+   "quests/58-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "7ce671c29f05",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Commander Althea Ebonlocke",
+  "quest": "The Night Watch",
+  "en": "On behalf of the people of Darkshire and as the Leader of the Night Watch, I thank you, Adventurer, for your bravery and dedication. May the Light shine upon your ways.",
+  "files": [
+   "quests/58-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "282417a0326a",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Madame Eva",
+  "quest": "The Shadowy Figure",
+  "en": "Hmm... Someone handled this book recently, someone who is driven by revenge. But the impressions left on it, at least the impressions from the original owner, are faint.\n\nI can tell, however, that the original owner of this book is not a native of Darkshire.",
+  "files": [
+   "quests/262-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "2343c25a41cb",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Sven Yorgen",
+  "quest": "The Shadowy Figure",
+  "en": "I must know who was that skulker in the shadows I saw the night my family was killed!\n\nPlease, Adventurer, you have shown your resourcefulness. Please find that shadowy figure. I must learn what secrets he holds!\n\nI do not have clues that you do not already know, but here - take the book you found at my farm. Perhaps some of the townsfolk can link this book with its owner.",
+  "files": [
+   "quests/262-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "64ca1b303dc1",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Clerk Daltry",
+  "quest": "The Shadowy Search Continues",
+  "en": "Ah, yes. I sold this book a month ago to a shady person. He didn't tell me his name, but he was a nervous, jittery chap, always looking over his shoulder.\n\nI hope that helps you...",
+  "files": [
+   "quests/265-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "9da2159e17d2",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Madame Eva",
+  "quest": "The Shadowy Search Continues",
+  "en": "Here is your book back, Adventurer, and I bid you fortune with your search. If you ask others in town, perhaps they can offer you more clues.\n\nAnd here is one more for you - although the author of this book is a stranger to Darkshire, the book itself was purchased here.",
+  "files": [
+   "quests/265-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "e11259eb0322",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Madame Eva",
+  "quest": "The Totem of Infliction",
+  "en": "As the mystical taint creeps through the forest, the need for self-protection is undeniable, Adventurer. The winds whisper to me and they speak of a great danger which waits patiently for you in the near future.\n\nIf you wish to protect yourself, noble adventurer, bring to me 10 ghoul fangs, 10 skeleton fingers and 5 vials of spider venom. For you I shall enchant a Totem of Infliction which will harm those who attempt violent acts against you.",
+  "files": [
+   "quests/101-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "b7f79c1d80a3",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Madame Eva",
+  "quest": "The Totem of Infliction",
+  "en": "Very wise of you, Adventurer. This Totem of Infliction will help to protect you against the evil which lurks throughout Azeroth and beyond. When you feel threatened, hold this totem and take comfort in its magical aura. Be brave, fair adventurer. You will need all the courage you can muster for I see much bloodshed in your future.",
+  "files": [
+   "quests/101-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "5d7c0961168d",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Sirra Von'Indi",
+  "quest": "The Valor Family",
+  "en": "In dark times like these, it's important we remember our heroes as much as our foes. Darkshire would not still be standing if it weren't for the bravery of folk like the good Lady Althea or those who lost their lives at Raven Hill.\n\nHave you read much on Raven Hill? No, of course not. Its history was wiped out along with its people. My library, impressive as it is, has little on the subject.\n\nIf you happen to find anything, I would appreciate bringing it here. Those folk deserve to be remembered.",
+  "files": [
+   "quests/96139-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "0edf07e8d2e2",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Sirra Von'Indi",
+  "quest": "The Valor Family",
+  "en": "This tome appears to be about the Valor family. I believe I've heard of a few of them. Good folk. Not sure they merit an entire book about them.\n\nI'll make you a copy of the tome. If you see anything else related to them on your travels, I'll be happy to take it off your hands.",
+  "files": [
+   "quests/96139-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "3a7cb5fec4c8",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Sirra Von'Indi",
+  "quest": "The Weathered Grave",
+  "en": "Morgan Ladimore?\n\nAhh, yes, of course. His was a long and sorrowful tale. I knew him, well, before he left for the war, but that was the last time I saw him. A noble and good man, he was, but he suffered a bad end.\n\nHere, I should have something here that can tell the tale better than my own recollections...",
+  "files": [
+   "quests/225-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "90c0e3ef7bcb",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lord Ello Ebonlocke",
+  "quest": "Translate Abercrombie's Note",
+  "en": "Take the note you gave me to Sirra Von'Indi. He's very learned in languages and ancient arts - if anyone here can translate this message, it's he.",
+  "files": [
+   "quests/251-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "8c52d47eab0b",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Sirra Von'Indi",
+  "quest": "Translation to Ello",
+  "en": "Oh my! If what is written on this note is true, then Abercrombie's done something...unspeakable.\n\nYou better bring the translated note back to Ello.\n\nAnd do so quickly, for I fear a doom already lumbers toward our town...",
+  "files": [
+   "quests/252-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "9e4d1754fa77",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Sirra Von'Indi",
+  "quest": "Wait for Sirra to Finish",
+  "en": "adventurer, the translation is finished!",
+  "files": [
+   "followup/564-human-male-official"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "047b3c927af4",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Sirra Von'Indi",
+  "quest": "Wait for Sirra to Finish",
+  "en": "I'm almost finished translating that note. If you come back in a few moments I should be done.",
+  "files": [
+   "quests/401-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "1df2c48c74a9",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lars",
+  "quest": "Wolves at Our Heels",
+  "en": "Sven and I have dangerous days ahead of us, what with the Necromancer to the east and all. And out here alone as we are, we have to hunt for our own food. It seems every time I'm heading back to camp with some meat on me, starving or rabid dire wolves come out of the forest wanting a bite. It goes without saying, living out here is dangerous work!\n\nBut if you can rid us of some of those wolves, we'd have an easier time of it. They mostly prowl north and east of here, near the river.",
+  "files": [
+   "quests/226-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "9e76bbc08292",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lars",
+  "quest": "Wolves at Our Heels",
+  "en": "Oh good. You thinned out that pack quite a bit, and without those wolves nipping out our heels, we can bind our minds to dealing with Morbent Fel.\n\nHere, take some of these Flash Bundles. They make them in town, and a lot have been donated to Sven to help with his cause.",
+  "files": [
+   "quests/226-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "bcd0a246c0f0",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Calor",
+  "quest": "Worgen in the Woods",
+  "en": "Darkness seems drawn inexorably to Duskwood. Master Carevin's quest is the expulsion of evil and heresy. Through our efforts are the people of Darkshire kept safe.\n\nYou believe yourself worthy to join us?\n\nI once thought as you. Disillusioned by the complacency of the Watch, I joined Master Carevin. If you wish to prove yourself, it will not be through words.\n\nTest your skills against the Nightbane Shadow Weaver worgen in Brightwood Grove--bright, hah!--and the Rotting Orchard.",
+  "files": [
+   "quests/173-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "dc72c44fb497",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Calor",
+  "quest": "Worgen in the Woods",
+  "en": "Impressive, adventurer. It would seem that you are capable enough to handle yourself. Perhaps a more suitable challenge could be found for one of your abilities.\n\nIt is curious though... The worgen seemed to just appear out of thin air. But then, with all the other strange creatures that have moved across our borders, I suppose it's only one of many concerns.",
+  "files": [
+   "quests/173-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "132b825b87d5",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Calor",
+  "quest": "Worgen in the Woods",
+  "en": "You might have noticed some larger worgen wandering around with the Shadow Weavers in the woods? From what we can tell, these Dark Runners make up the bulk of the worgen numbers.\n\nOn my rangings, I've also noticed that they have overrun the Rotting Orchard southwest of town. These worgen are a bit tougher than the last you faced.\n\nBe on your guard.",
+  "files": [
+   "quests/221-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "c82cbb4b116e",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Calor",
+  "quest": "Worgen in the Woods",
+  "en": "You performed well against the Dark Runners, adventurer. But it seems as though their numbers are inexhaustible. Every time we make progress, more spring up to refill their ranks.\n\nWhat is the evil power that draws them here? Why have they come to disturb our unhappy realm...\n\nI will put my faith in Master Carevin. No doubt he will get to the bottom of the problem.",
+  "files": [
+   "quests/221-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "ecdec7320d78",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Calor",
+  "quest": "Worgen in the Woods",
+  "en": "Your previous accomplishments have convinced me that you are ready to take on the toughest worgen infesting the woods.\n\nOf the worgen that have made their new home here, the Vile Fangs and the Tainted Ones have proven the most dangerous. They've settled down near some of the caves and in the mine to the south.\n\nFrom far away you can even see the light from their bonfires...",
+  "files": [
+   "quests/222-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "ff2b4a6f7833",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Calor",
+  "quest": "Worgen in the Woods",
+  "en": "adventurer, to be honest with you, I did not believe that you would get this far, but you are clearly a adventurer to be reckoned with. In fact, if you wish to formally join Master Carevin's struggle, I will gladly write for you a letter of recommendation.",
+  "files": [
+   "quests/222-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "5b38291acd6b",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Calor",
+  "quest": "Worgen in the Woods",
+  "en": "Here you go, adventurer. Bring this message to Master Carevin.\n\n\nA few more like you, and we will outnumber the Night Watch! Perhaps then we could complete the work that we few carry on today.",
+  "files": [
+   "quests/223-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "104cbbeb20e9",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Jonathan Carevin",
+  "quest": "Worgen in the Woods",
+  "en": "Excuse me for my cold reception, adventurer, but as I'm sure you can tell, I am an extremely busy man. I see that you have impressed Calor--and I assure you, that is no small feat--and that he has given his recommendation.\n\nThere are unsavory types afoot, adventurer, and we can use the help of all who have proven themselves. We battle against demons, the undead, and those who would provide them aid. Be vigilant, be wary, and trust none who would not give aid to our cause.\n\nGlory under the Light.",
+  "files": [
+   "quests/223-complete"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "a6002d28cd9a",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Abercrombie",
+  "quest": "Zombie Juice",
+  "en": "I need a bottle of a certain liquor - Zombie Juice. Tavernkeep Smitts at the Scarlet Raven Tavern in Darkshire should have some.\n\nAnd please hurry, Adventurer. These nights get cold, and I need that drink to put fire in my veins again!",
+  "files": [
+   "quests/158-accept"
+  ],
+  "uiMap": 1431
+ },
+ {
+  "id": "153212e33d47",
+  "zone": "duskwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tavernkeep Smitts",
+  "quest": "Zombie Juice",
+  "en": "You need some Zombie Juice, do you? Hmm...that's some strong stuff - I don't usually get requests for it.",
+  "files": [
+   "quests/158-complete"
+  ],
+  "uiMap": 1431
+ }
+]

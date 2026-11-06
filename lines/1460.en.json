@@ -1,0 +1,447 @@
+[
+ {
+  "id": "5cf412c09b08",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Horde Warbringer",
+  "quest": "Battle of Warsong Gulch",
+  "en": "The battle in Warsong Gulch against the Silverwing Sentinels is of great importance. Under the guise of protecting a forest that doesn't belong to them, the Alliance seeks to deny the Horde one of our largest sources for lumber.\n\nDo not let this happen, Adventurer! Come back to me with proof of serving the Horde in a worthy manner!",
+  "files": [
+   "quests/8368-accept",
+   "quests/8426-accept",
+   "quests/8427-accept",
+   "quests/8428-accept",
+   "quests/8429-accept",
+   "quests/8430-accept"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "25e671ef6745",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Horde Warbringer",
+  "quest": "Battle of Warsong Gulch",
+  "en": "Excellent! You've shown your worth by defending our operations in Warsong Gulch! May word of your honor spread far and wide across our lands.",
+  "files": [
+   "quests/8368-complete",
+   "quests/8389-complete",
+   "quests/8426-complete",
+   "quests/8427-complete",
+   "quests/8428-complete",
+   "quests/8429-complete",
+   "quests/8430-complete",
+   "quests/8431-complete"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "ea436cbefc19",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Horde Warbringer",
+  "quest": "Battle of Warsong Gulch",
+  "en": "Well done, adventurer! You've helped ensure the Horde's ownership over Warsong Gulch!",
+  "files": [
+   "quests/8432-complete",
+   "quests/8433-complete",
+   "quests/8434-complete",
+   "quests/8435-complete"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "d322d4c94efb",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alliance Brigadier General",
+  "quest": "Fight for Warsong Gulch",
+  "en": "The Silverwing Sentinels are at war with the Warsong Outriders due to the destruction the Orcs are causing to the forest. There are, however, more reasons to defend this particular forest than plain love for nature.\n\nThe forest forms a strategic barrier that makes Ashenvale defendable against a large-scale attack. Without it, Astranaar would last a day or two before being annexed to the Barrens.\n\nDo your part in fighting the Warsong Outriders, Adventurer! For the Alliance!",
+  "files": [
+   "quests/8372-accept",
+   "quests/8399-accept",
+   "quests/8400-accept",
+   "quests/8402-accept",
+   "quests/8403-accept"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "e88fa109be03",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alliance Brigadier General",
+  "quest": "Fight for Warsong Gulch",
+  "en": "Well done, Adventurer! You've served the Alliance well.",
+  "files": [
+   "quests/8372-complete",
+   "quests/8386-complete",
+   "quests/8400-complete",
+   "quests/8402-complete",
+   "quests/8403-complete"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "785e6943daaf",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alliance Brigadier General",
+  "quest": "Fight for Warsong Gulch",
+  "en": "Good work, Adventurer. Thanks to you, our natural defenses in Ashenvale will remain intact for another day.",
+  "files": [
+   "quests/8399-complete",
+   "quests/8401-complete",
+   "quests/8404-complete",
+   "quests/8405-complete",
+   "quests/8406-complete",
+   "quests/8407-complete",
+   "quests/8408-complete"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "605ae6da838f",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alliance Brigadier General",
+  "quest": "Fight for Warsong Gulch",
+  "en": "The Silverwing Sentinels are at war with the Warsong Outriders due to the destruction the Orcs are causing to the forest. There are, however, more reasons to defend this particular forest than the preservationist philosophy the Silverwings espouse.\n\nThe forest forms a strategic barrier that makes Ashenvale defendable against a large-scale attack. Without it, Astranaar would last a day or two before being annexed to the Barrens. Do your part in fighting the Warsong Outriders! For the Alliance!",
+  "files": [
+   "quests/8401-accept"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "c40a40a3e4ac",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Captain Shatterskull",
+  "quest": "Mark of Honor",
+  "en": "You have proven your value to our efforts in Warsong Gulch. Continue to rage against the Silverwing Sentinels! Bring me more marks of honor!",
+  "files": [
+   "quests/7922-accept",
+   "quests/7923-accept",
+   "quests/7924-accept",
+   "quests/7925-accept"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "9f595d1e0507",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Captain Shatterskull",
+  "quest": "Mark of Honor",
+  "en": "The Night Elves and their allies must tremble at even the whisper of your name! For the Horde!\n\nYou have proven your value to our efforts in Warsong Gulch. Continue to rage against the Silverwing Sentinels! Bring me more Marks of Honor!",
+  "files": [
+   "quests/7922-complete",
+   "quests/7923-complete",
+   "quests/7924-complete",
+   "quests/7925-complete",
+   "quests/8293-complete"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "5f955ba3e83d",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Captain Shatterskull",
+  "quest": "Mark of Honor",
+  "en": "The night elves and their allies must tremble at even the whisper of your name! For the Horde!",
+  "files": [
+   "quests/7922-complete",
+   "quests/7923-complete",
+   "quests/7924-complete",
+   "quests/7925-complete"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "72b601d5ad9f",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alliance Brigadier General",
+  "quest": "Past Victories in Warsong Gulch",
+  "en": "Ah, yes! Of course we wouldn't forget about your past accomplishments in Warsong Gulch.",
+  "files": [
+   "quests/8567-complete",
+   "quests/8569-complete"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "4415dc1e5e31",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Horde Warbringer",
+  "quest": "Past Victories in Warsong Gulch",
+  "en": "Ah, yes! Of course we wouldn't forget about your past accomplishments in Warsong Gulch.",
+  "files": [
+   "quests/8568-complete",
+   "quests/8570-complete"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "ea036afca740",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Captain Shatterskull",
+  "quest": "Quell the Silverwing Usurpers",
+  "en": "The wilds of the Ashenvale forest will succumb to the might of the Horde, traveler. Nothing the Silverwing say or do can stop our sovereign imperative. Kalimdor belongs to the Horde. How dare they attempt to prevent us from harvesting what is rightfully ours!\n\nLet the pride swell in your chest as you cut down their weak attempts at slowing our progress. Destroy the Silverwing Sentinels, and earn a Warsong mark of honor. Return to me with such a mark, Adventurer, and you will be rewarded.",
+  "files": [
+   "quests/7789-accept",
+   "quests/7874-accept",
+   "quests/7875-accept",
+   "quests/7876-accept",
+   "quests/8294-accept"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "9b1798399610",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Captain Shatterskull",
+  "quest": "Quell the Silverwing Usurpers",
+  "en": "The wilds of the Ashenvale forest will succumb to the might of the Horde, traveler. Nothing the Silverwing say or do can stop our sovereign imperative. Kalimdor belongs to the Horde. How dare they attempt to prevent us from harvesting what is rightfully ours!\n\nLet the pride swell in your chest as you cut down their weak attempts at slowing our progress. Destroy the Silverwing Sentinels, and earn a Mark of Honor. Return to me with such a Mark, Adventurer, and you will be rewarded.",
+  "files": [
+   "quests/7789-accept",
+   "quests/7874-accept",
+   "quests/7875-accept",
+   "quests/7876-accept",
+   "quests/8294-accept"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "259e4647ca43",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Captain Shatterskull",
+  "quest": "Quell the Silverwing Usurpers",
+  "en": "How much more can they withstand? How many more Alliance filth must perish at the hands of the Horde for them to retreat? Only time will tell, Traveler...",
+  "files": [
+   "quests/7789-complete",
+   "quests/7874-complete",
+   "quests/7875-complete",
+   "quests/7876-complete",
+   "quests/8294-complete"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "64e6bd48a406",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Captain Shatterskull",
+  "quest": "Quell the Silverwing Usurpers",
+  "en": "How much more can they withstand? How many more Alliance filth must perish at the hands of the Horde for them to retreat? Only time will tell, Traveler.",
+  "files": [
+   "quests/7874-complete",
+   "quests/7875-complete",
+   "quests/7876-complete",
+   "quests/8294-complete"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "3c5d9c0401a2",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Captain Shatterskull",
+  "quest": "Ribbons of Sacrifice",
+  "en": "I understand that it can be difficult at times to come out on top in Warsong Gulch. Still, your effort on our behalf - even when victory is not achieved - is important.\n\nShould you complete one of the trials inside Warsong Gulch and not achieve victory, you will still receive a Ribbons of Sacrifice. Bring it to me so that the Outriders may reward you for acting on our behalf... even if you weren't able to win this time.",
+  "files": [
+   "quests/8267-accept"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "44b98307736c",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Captain Shatterskull",
+  "quest": "Ribbons of Sacrifice",
+  "en": "Well, you did not flee in the face of defeat. You stood your ground, Adventurer, and when it comes right down to it, that is what makes for a true hero. No doubt you will win next time... but nonetheless we thank you for your effort.",
+  "files": [
+   "quests/8267-complete",
+   "quests/8268-complete"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "046c86271bde",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Farsong",
+  "quest": "Ribbons of Sacrifice",
+  "en": "Well, you did not flee in the face of defeat. You stood your ground, Adventurer, and when it comes right down to it, that is what makes for a true hero. No doubt you will win next time... but nonetheless we thank you for your effort.",
+  "files": [
+   "quests/8266-complete",
+   "quests/8269-complete"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "6422620c44ce",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Farsong",
+  "quest": "Ribbons of Sacrifice",
+  "en": "I understand that it can be difficult at times to come out on top in Warsong Gulch. Still, your effort on our behalf - even when victory is not achieved - is important.\n\nShould you complete one of the trials inside Warsong Gulch and not achieve victory, you will still receive a Ribbons of Sacrifice. Bring it to me so that the Sentinels may reward you for acting on our behalf... even if you weren't able to win this time.",
+  "files": [
+   "quests/8269-accept"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "96e34e28f896",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Farsong",
+  "quest": "Talismans of Merit",
+  "en": "You have proven your value to our efforts in Warsong Gulch. Continue to aid the cause and bring me more talismans of merit. Do this, and you will earn even more of our trust.",
+  "files": [
+   "quests/7886-accept",
+   "quests/7887-accept",
+   "quests/7888-accept",
+   "quests/7921-accept"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "40ac92b181fd",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Farsong",
+  "quest": "Talismans of Merit",
+  "en": "Thank you, Adventurer. Your exploits in Warsong Gulch ring throughout Ashenvale Forest.",
+  "files": [
+   "quests/7886-complete",
+   "quests/7887-complete",
+   "quests/7888-complete",
+   "quests/7921-complete",
+   "quests/8292-complete"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "26e5d88bc96c",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Farsong",
+  "quest": "Vanquish the Invaders!",
+  "en": "Beyond this tunnel you will find a field of strife and turmoil, young adventurer. The Horde continue to decimate our sacred forest, cutting down the evergreen foliage to power their machines of war.\n\nEnter Warsong Gulch and defend Silverwing Hold. Push back the invading Horde forces!\n\nDo this, and earn a talisman of merit. Bring me such a talisman, Adventurer, and I shall reward you.",
+  "files": [
+   "quests/7788-accept",
+   "quests/7871-accept",
+   "quests/7872-accept",
+   "quests/7873-accept",
+   "quests/8291-accept"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "b027103ae560",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Farsong",
+  "quest": "Vanquish the Invaders!",
+  "en": "Beyond this tunnel you will find a field of strife and turmoil, young adventurer. The Horde continue to decimate our sacred forest, cutting down the evergreen foliage to power their machines of war.\n\nEnter Warsong Gulch and defend Silverwing Hold. Push back the invading Horde forces!\n\nDo this, and earn a Mark of Honor. Bring it to me, Adventurer, and I shall reward you.",
+  "files": [
+   "quests/7788-accept",
+   "quests/7871-accept",
+   "quests/7872-accept",
+   "quests/7873-accept",
+   "quests/8291-accept"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "496216a0fa62",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Farsong",
+  "quest": "Vanquish the Invaders!",
+  "en": "You have proven your value to our efforts in Warsong Gulch. Continue to aid the cause and bring me more Talismans of Merit. Do this, and you will earn even more of our trust.",
+  "files": [
+   "quests/7788-complete",
+   "quests/7871-complete",
+   "quests/7872-complete",
+   "quests/7873-complete",
+   "quests/8291-complete"
+  ],
+  "uiMap": 1460
+ },
+ {
+  "id": "426b12d1995f",
+  "zone": "1460",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Farsong",
+  "quest": "Vanquish the Invaders!",
+  "en": "You have proven your value to our efforts in Warsong Gulch. Continue to aid the cause and bring me more Marks of Honor. Do this, and you will earn even more of our trust.",
+  "files": [
+   "quests/7788-complete",
+   "quests/7871-complete",
+   "quests/7872-complete",
+   "quests/7873-complete",
+   "quests/8291-complete"
+  ],
+  "uiMap": 1460
+ }
+]

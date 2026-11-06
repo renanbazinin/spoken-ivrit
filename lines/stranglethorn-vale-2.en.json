@@ -1,0 +1,1468 @@
+[
+ {
+  "id": "2ae8e7983815",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Fin Fizracket",
+  "quest": "Stranglethorn Fever",
+  "en": "Sick...so...very s-s-sick....\n\n...have contracted Stranglethorn Fever...deadly v-v-virus...\n\n...only cure...is...is...to eat the heart of M-m-m-m-mokk the Savage...elusive white beast...\n\n...Witch doctor Unbagwa...only one who can s-s-summon....\n\n...seek Unbagwa in hidden cave on southern cape...\n\n...hurry...dying...dying....",
+  "files": [
+   "quests/348-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "77ce0f6381ee",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Fin Fizracket",
+  "quest": "Stranglethorn Fever",
+  "en": "...feel strength returning....\n\nWhere might be? Booty Bay? Oh my! I had the strangest dream...\n\n...the weakness has not completely left me....",
+  "files": [
+   "quests/348-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "315718288c19",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Unbagwa",
+  "quest": "Stranglethorn Fever",
+  "en": "temp text 02 - description",
+  "files": [
+   "quests/349-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "1cf58ac3c2b8",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Unbagwa",
+  "quest": "Stranglethorn Fever",
+  "en": "Witch Doctor Unbagwa like Gorilla Fangs! For you I talk to spirits. Make Mokk the Savage come.\n\nYou protect Witch Doctor Unbagwa from other Gorilla-beast though or no Mokk for you!",
+  "files": [
+   "quests/349-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "1797c236c43b",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Krazek",
+  "quest": "Supplies to Private Thorsen",
+  "en": "Hmm. Yes, I do have something you could do, actually. Lieutenant Doren and his followers up in the north need their regular supplies from us.\n\nThey haven't been delivered, and with the trolls attacking, I'll need someone to do it. Doren's camp lies northwest of the road at the entrance to Stranglethorn from Duskwood. Give the supplies to Private Thorsen, if he's not in the camp, then he'll be patrolling south of it. He'll take care of them.\n\nMind you, if you fail, you'll owe me restitution.",
+  "files": [
+   "quests/198-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "2d4c2b97eaf8",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Private Thorsen",
+  "quest": "Supplies to Private Thorsen",
+  "en": "These land mines will help us defend ourselves from that animal Kurzen and his men. Thank you for bringing them. If you need further work, I can probably find something for you to do. And you won't have to deal with those goblins, hm?",
+  "files": [
+   "quests/198-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "96aec32b16f7",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Drizzlik",
+  "quest": "Supply and Demand",
+  "en": "\"The finest leathercrafter of the South Seas and the worlds old and new.\" That's what they call me. Me! Drizzlik! The finest lea... Ahem. Well.\n\nMy leather goods are known far and wide as the most exquisite, a connoisseur's choice!\n\nI've just received an order from Director Riddlevox of the Tinkers' Union for a dozen of his favorite Excelsior-line boots. Our best sellers, actually.\n\nTo start on the basic shape, I'll need crocolisk skins from the crocs along the river in northern Stranglethorn.",
+  "files": [
+   "quests/575-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "a6b6fa905662",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Drizzlik",
+  "quest": "Supply and Demand",
+  "en": "These skins should do. Their quality isn't too important, given that they'll make up the inside layer of the boots, but it's still important that they're comfortable.\n\nIf they're a bit too rigid, I'll use some tiger blood to soften it up. Tricks o' the trade, you know?",
+  "files": [
+   "quests/575-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "15c19952d509",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Al'tabim the All-Seeing",
+  "quest": "The All-Seeing Eye of Zuldazar",
+  "en": "Smite them all and let Hakkar sort them out...",
+  "files": [
+   "quests/8052-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "173da6fd6a60",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Bloodsail Correspondence",
+  "quest": "The Bloodsail Buccaneers",
+  "en": "On top of the barrel, you discover a map with some hastily written text on it along with some coins.",
+  "files": [
+   "quests/595-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "a07a34431e53",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Bloodsail Correspondence",
+  "quest": "The Bloodsail Buccaneers",
+  "en": "The map shows Booty Bay with a red \"X\" drawn precisely at the spot at which you are standing.\n\nThe scribbled text reads:\n\n\"You men are to secure a camp at this location and keep quiet. Wait for the signal from the southern command post before attacking. If anyone approaches you, kill them.\"",
+  "files": [
+   "quests/597-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "84af0b59427a",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "First Mate Crazz",
+  "quest": "The Bloodsail Buccaneers",
+  "en": "You sure seem eager to work, matey. Not sure why some land-loving traveler adventurer is offering help to the Blackwater Raiders, but I'm not going to turn you away.\n\nOur ship just docked here in Booty Bay and word has it that our rivals--those damned, dirty Bloodsail Buccaneers--have been spotted all over southern Stranglethorn.\n\nAll the boys are too busy hitting the grog and looking for ladies! What I need is a scout.\n\nCheck the cove just north of Booty Bay along the Savage Coast and see what you find.",
+  "files": [
+   "quests/595-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "c221f60d0614",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "First Mate Crazz",
+  "quest": "The Bloodsail Buccaneers",
+  "en": "Sure, I remember you, adventurer. Back from scouting I see....",
+  "files": [
+   "quests/597-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "9a7d9ab60578",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "First Mate Crazz",
+  "quest": "The Bloodsail Buccaneers",
+  "en": "Shiver me timbers! So the Bloodsail Buccaneers are planning some sort of attack on Booty Bay? Why, the nerve of those scoundrels. Booty Bay will always be run by the Blackwater Raiders!\n\nThis is bigger than I thought. Report what you have learned to Fleet Master Seahorn at once! The ol' sea dog is around town somewhere....",
+  "files": [
+   "quests/599-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "aa9589091b5f",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Fleet Master Seahorn",
+  "quest": "The Bloodsail Buccaneers",
+  "en": "Bloodsail Buccaneers attacking Booty Bay? They might as well throw themselves off the Overlook Cliffs. Nonetheless, by bringing me this information you have done my fleet of swashbucklers a great service. The Blackwater Raiders thank you.",
+  "files": [
+   "quests/599-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "b94efdd8cd6d",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Fleet Master Seahorn",
+  "quest": "The Bloodsail Buccaneers",
+  "en": "Crazz speaks highly of your dedication to the Blackwater Raiders. I am going to trust you with a mission of extreme importance to the fleet.\n\nInfiltrate the so-called southern command post the Bloodsail Buccaneers have established on the Wild Shore. Raid the encampment. Bring me their charts along with their written orders. We shall see exactly what those scum are up to.",
+  "files": [
+   "quests/604-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "b980f372ca63",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Fleet Master Seahorn",
+  "quest": "The Bloodsail Buccaneers",
+  "en": "Perfect, adventurer. Now that we know their plan, it's just a matter of time.\n\nAnd to think the fools have dropped anchor just off the cape....",
+  "files": [
+   "quests/604-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "10aa0450be84",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Fleet Master Seahorn",
+  "quest": "The Bloodsail Buccaneers",
+  "en": "Blast the nerve of Firallon! He couldn't sail a skiff through Crystal Lake let alone lead an entire fleet against us.\n\nThe Bloodsail Buccaneers will pay for their carelessness. Now that we know their plan of attack, we can counter before they know what hit them.\n\nBut why send the entire fleet to do the work of one brave adventuring party? adventurer, take some of your most skilled comrades out to Firallon's landing spot and assassinate the Bloodsail leadership. Their fleet will sink soon after....",
+  "files": [
+   "quests/608-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "7573d80aeb1c",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Fleet Master Seahorn",
+  "quest": "The Bloodsail Buccaneers",
+  "en": "Ah, what a great day for the Blackwater Raiders! Three cheers to you, adventurer!",
+  "files": [
+   "quests/608-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "b7df1a94efa3",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Sprogger",
+  "quest": "The Captain's Cutlass",
+  "en": "Hello hello, Adventurer. Captain told me you're going after Negolash, eh?",
+  "files": [
+   "quests/615-complete",
+   "quests/8553-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "ca2a3809b5d5",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Baron Revilgaz",
+  "quest": "The Curse of the Tides",
+  "en": "Amazing! The Stone of Tides! It shall have a place of prominence in my collection of ancient troll artifacts. Did you see how it almost seems as though a tide is trapped within its surface? Magnificent!",
+  "files": [
+   "quests/611-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "2771e1353104",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Catelyn the Blade",
+  "quest": "The Curse of the Tides",
+  "en": "So you're looking for an altar of some sort? Well, I'm no expert on troll ruins like my father, but I have heard about a sunken troll city out near that island you're looking for. Maybe you should try there.\n\nYou got my knife back for me, so I guess you can borrow it... but I want it back when you're done!",
+  "files": [
+   "quests/611-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "7461fc83873c",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Commander Aggro'gosh",
+  "quest": "The Defense of Grom'gol",
+  "en": "Throm'ka, adventurer!\n\nYour arrival at Grom'gol is timely, indeed. As commander of the Warchief's base camp here in the jungle I am bound by honor to ensure the safety of all members of the Horde. Our mission to provide a safe chain of supply to Stonard is being hampered by some of the local inhabitants.\n\nI am putting you in charge of thinning out the raptor population outside of Grom'gol. Once you have made significant progress, report back to me for reassignment.",
+  "files": [
+   "quests/568-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "3207de4b06e2",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Commander Aggro'gosh",
+  "quest": "The Defense of Grom'gol",
+  "en": "Your duty was performed with honor, adventurer.",
+  "files": [
+   "quests/568-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "6993161b1fc6",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Commander Aggro'gosh",
+  "quest": "The Defense of Grom'gol",
+  "en": "When we first arrived in this jungle we did not intend to wage war on the local tribes. Our mission to supply Stonard is of the highest priority. But complications have arisen. A local band of ogres has occupied the Mizjah Ruins to the southeast of Grom'gol. Despite warnings, they continue to ambush our supply caravans.\n\nI am putting you in charge of dealing with these uncooperative ogres.\n\nTravel to the ruins and attempt to drive them from the area. At the very least it will send a firm message.",
+  "files": [
+   "quests/569-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "6756bfea3503",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Commander Aggro'gosh",
+  "quest": "The Defense of Grom'gol",
+  "en": "Well done. You have served the Warchief with honor.",
+  "files": [
+   "quests/569-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "11e9cfa9aa2e",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Al'tabim the All-Seeing",
+  "quest": "The Eye of Zuldazar",
+  "en": "Continue in your battle against the Soulflayer and his minions, Adventurer. He must never be permitted to leave the confines of Zul'Gurub.",
+  "files": [
+   "quests/8050-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "7f30354bac30",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Al'tabim the All-Seeing",
+  "quest": "The Eye of Zuldazar",
+  "en": "Be resolute in your endeavors, Adventurer. The Soulflayer will attempt to siphon your will to live.",
+  "files": [
+   "quests/8051-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "fa035286a933",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Al'tabim the All-Seeing",
+  "quest": "The Eye of Zuldazar",
+  "en": "Accept this talisman as a token of our appreciation, priest.\n\nThe Eye of Zuldazar will grow in power as your bond with the trolls of Zandalar strengthens. Return to me periodically and I shall imbue the jewel.",
+  "files": [
+   "quests/m-8049-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "b47f0dfee28d",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Bubbling Cauldron",
+  "quest": "The Fate of Yenniku",
+  "en": "You have appeased myself and my chief, so I will tell you that which you seek to discover...\n\nYoung Yenniku is lost to his clan.\n\nHe was taken by the witchdoctor Zanzil the Outcast. Now Zanzil controls him, body and soul, and only the most potent magic could set him free.\n\nA magic that you do not have, adventurer.\n\nPerhaps your Darkspear allies can offer a hope of Yenniku's salvation. But that, I doubt.",
+  "files": [
+   "quests/588-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "dd7fd0c8ebb4",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Kin'weelay",
+  "quest": "The Fate of Yenniku",
+  "en": "Zanzil the Outcast??\n\nIf Yenniku is held by that troll, a vile and powerful witchdoctor, then I fear that only a faint hope remains. Faint. And tiny as the smallest insect.\n\nBut still, it is hope.",
+  "files": [
+   "quests/588-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "285bcf311387",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Barnil Stonepot",
+  "quest": "The Green Hills of Stranglethorn",
+  "en": "Master Nesingwary will be so upset if he finds out!\n\nHe trusted me to proofread the manuscript of his novel, The Green Hills of Stranglethorn. Everything was going well, but a large gust of wind blew through the camp and scattered the pages everywhere!\n\nI was able to gather most of the pages but many are still strewn about the jungle. Collect the pages to complete each of the four chapters.\n\nI will help you organize them. Return the chapters to me once you have all four.",
+  "files": [
+   "quests/338-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "c5660394ed5e",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Barnil Stonepot",
+  "quest": "The Green Hills of Stranglethorn",
+  "en": "You've certainly saved me a heap of trouble, adventurer! I can't thank you enough. It shouldn't be long now until we see Master Nesingwary's book in libraries throughout the world!",
+  "files": [
+   "quests/338-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "3b13537a8eb8",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Baron Revilgaz",
+  "quest": "The Haunted Isle",
+  "en": "Interesting. Some time ago, I seem to remember reading a book once that suggested...\n\nAh, of course, a troll legend it was. If what Krazek reports is true, perhaps I will soon be able to add the Stone of the Tides to my collection of ancient artifacts and relics.",
+  "files": [
+   "quests/616-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "180385e4834b",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Krazek",
+  "quest": "The Haunted Isle",
+  "en": "Baron Revilgaz has had me keep an ear out for rumors of the strange and out-of-place in Booty Bay and Stranglethorn. I don't usually put much stock in ghost stories, but I heard some sailors in the tavern talking about a haunted island off the coast. Water elementals and a raving goblin ghost, they say.\n\nIf you're going to go talk to Revilgaz, could you relay that story to him?",
+  "files": [
+   "quests/616-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "75f558bdea64",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Heart of Hakkar",
+  "quest": "The Heart of Hakkar",
+  "en": "The Heart of Hakkar burns from within. Although the Soulflayer is defeated, the kernel of his power yet remains in this cursed organ.",
+  "files": [
+   "quests/8183-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "f10c97bb76f9",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Molthor",
+  "quest": "The Heart of Hakkar",
+  "en": "Now, only one step remains to rid us of the Soulflayer's threat...",
+  "files": [
+   "followup/10473-troll-male-shaman"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "f6cf68ec5b91",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Molthor",
+  "quest": "The Heart of Hakkar",
+  "en": "Begin the ritual, my servants. We must banish the heart of Hakkar back into the void!",
+  "files": [
+   "followup/10474-troll-male-shaman"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "b137bd54362c",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Molthor",
+  "quest": "The Heart of Hakkar",
+  "en": "All Hail adventurer, slayer of Hakkar, and hero of Azeroth!",
+  "files": [
+   "followup/10537-troll-male-shaman"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "ff4bcd6cb013",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Molthor",
+  "quest": "The Heart of Hakkar",
+  "en": "Ah, the Heart of Hakkar. So the Soulflayer has been slain! Our world is saved!\n\nAdventurer, your service to us cannot be overstated. You truly are a hero of this realm!",
+  "files": [
+   "quests/8183-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "7c00122a9e97",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zandalarian Emissary",
+  "quest": "The Heart of Hakkar",
+  "en": "The Blood God, the Soulflayer, has been defeated! We are imperiled no longer!",
+  "files": [
+   "followup/10612-troll-male-dark"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "959e9df8c055",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Bookie Herod's Records",
+  "quest": "The Hidden Key",
+  "en": "Although no mention of Private Thorsen is found in these records, hidden within the binding of one of Herod's ledger books is a small, brass key.\n\nAnd after further study of his notes, a few references to a \"secure strongbox\" are contained among various papers. The box is somewhere within the Stockpile - the cavern complex at the back of Kurzen's Compound.\n\nIf this secure strongbox is found, and the small brass key can open it, then perhaps the mystery behind Thorsen's detection will be revealed.",
+  "files": [
+   "quests/328-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "dfe06e959f77",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Bookie Herod's Strongbox",
+  "quest": "The Hidden Key",
+  "en": "Opening the strongbox, it's clear that this is where Herod keeps his more valuable coins and items.",
+  "files": [
+   "quests/328-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "c2b22edfdeb4",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Al'tabim the All-Seeing",
+  "quest": "The Jewel of Kajaro",
+  "en": "Do you see? The pebble is what we call a geode. Inside the pebble are powerful crystals that have been soaking in the latent energies from our world. By cutting the pebble in half, I have finally allowed its full potential to be realized. Use it to lay waste to our enemies.",
+  "files": [
+   "quests/8104-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "7d0b01a2af8c",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Falthir the Sightless",
+  "quest": "The Maelstrom's Tendril",
+  "en": "Amongst the Zandalarians, the profession of hunter is revered. Our greatest hunters travel to the edge of the Maelstrom to prove their resolution.\n\nFrom the heart of the sea they pull strands of kelp known as Maelstrom Tendrils. The kelp is then woven into a talisman that is enchanted to improve their accuracy and power.\n\nI now grant you a single weaving of the Maelstrom's Tendril. As your bond with Zandalar grows, I shall weave more power into the talisman.",
+  "files": [
+   "quests/8145-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "fe301d552bfe",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Falthir the Sightless",
+  "quest": "The Maelstrom's Tendril",
+  "en": "Let them seek atonement at the end of your munitions.",
+  "files": [
+   "quests/8146-complete",
+   "quests/8147-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "409bb07d18c9",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Kin'weelay",
+  "quest": "The Mind's Eye",
+  "en": "I have fashioned Yenniku's Soul Gem, adventurer...",
+  "files": [
+   "followup/743-troll-male-shaman"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "d482cb020c66",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Kin'weelay",
+  "quest": "The Mind's Eye",
+  "en": "The Mind's Eye is held by an ogre mage, east of here and deep within the Mosh'Ogg ogre mound. His name is Mai'Zoth. I know him from when the Darkspears dwelt in Stranglethorn - he is vicious, and his magic is strong.\n\nAnd if he has the Mind's Eye, then his magic will be stronger still.\n\nYou must face Mai'Zoth and wrest from him the Mind's Eye. It is a perilous task, but it is the only hope we have of saving Yenniku.",
+  "files": [
+   "quests/591-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "fadb6a1c71a3",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Kin'weelay",
+  "quest": "The Mind's Eye",
+  "en": "You retrieved the eye! Your might is the stuff of legends, Adventurer!\n\nAnd in getting the Eye, you must have defeated Mai'Zoth and sent him to the Nether. That is why the spirits would not mention him before.\n\nIt is good that he is gone from the world of flesh and bone, but now that he is in the realm of spirits...I fear he will begin a new reign.\n\nBut that is a worry for another time. Now, I must perform a ritual to bend the Mind's Eye to our needs...",
+  "files": [
+   "quests/591-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "161e9165c702",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Monogrammed Sash",
+  "quest": "The Monogrammed Sash",
+  "en": "This fine sash has the letters \"HS\" embroidered along its hem.",
+  "files": [
+   "quests/620-accept",
+   "quests/8552-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "ff713c2e22f6",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Al'tabim the All-Seeing",
+  "quest": "The Pebble of Kajaro",
+  "en": "Traveler, the pebble held within the frame of this talisman comes from Mount Kajaro in the South Seas. Mount Kajaro is an area plagued by volatility - marked by violent and oftentimes magical volcanic eruptions.\n\nAs your bond with the trolls of Zandalar grows, so too shall the power of this pebble. Harness the power of the pebble to strike down our enemies. Be like the mountain: Quick, explosive, deadly...",
+  "files": [
+   "quests/8101-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "c7711b20d191",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Al'tabim the All-Seeing",
+  "quest": "The Pebble of Kajaro",
+  "en": "Be unstoppable, like the molten fronts of Kajaro.",
+  "files": [
+   "quests/8102-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "e08d97d6d095",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Al'tabim the All-Seeing",
+  "quest": "The Pebble of Kajaro",
+  "en": "Continue in your decimation of the trolls of Zul'Gurub. Hakkar must see that the world will not buckle beneath his indomitable will.",
+  "files": [
+   "quests/8103-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "d249f00302cf",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zanza the Restless",
+  "quest": "The Savage Guard - Arcanum of Protection",
+  "en": "Zanza can create many ancient troll enchantments with proper components! Have you heard of the Savage Guard? No, of course you haven't. Your mind is addled with the inferior elven magic.\n\nBring me an arcanum of elven creation so that I may destroy the aberration. Do this and the Savage Guard will be yours.",
+  "files": [
+   "quests/9208-accept",
+   "quests/9209-accept",
+   "quests/9210-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "516738a304e0",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zanza the Restless",
+  "quest": "The Savage Guard - Arcanum of Protection",
+  "en": "The worthless magic in these enchantments fuels my anger. My anger gives me strength.\n\nBring me more and you shall receive another Savage Guard.",
+  "files": [
+   "quests/9208-complete",
+   "quests/9209-complete",
+   "quests/9210-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "baf244879c23",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Sergeant Yohwa",
+  "quest": "The Second Rebellion",
+  "en": "We're fighting a losing battle with Colonel Kurzen. Not only is he a brilliant tactician, he outnumbers us at least 10 to 1! To survive, we need to use his own, covert tactics against him.\n\nEnter his camp to the east and kill his men. Lots of them. And get out before reinforcements can close on you.",
+  "files": [
+   "quests/203-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "aa1b19405b50",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Sergeant Yohwa",
+  "quest": "The Second Rebellion",
+  "en": "Well done. The loss of those Jungle Fighters will relieve some of the pressure on our camp.\n\nBut now that you've had a taste of the forces we're up against, do you still want to throw your lot in with us??",
+  "files": [
+   "quests/203-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "f453133f9571",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Kin'weelay",
+  "quest": "The Singing Crystals",
+  "en": "Legends tell of a jewel, hidden deep in the heart of Stranglethorn. We call it the Mind's Eye, and it has great powers. If you gain this Eye then, perhaps, we can use it to bring lost Yenniku back from the darkness.\n\nI will consult with the spirits of the jungle to find the Mind's Eye. While I do this, you enter the Crystalvein Mine, southeast of here, and gather Pulsing Blue Shards from Ironjaw Basilisks. The shards are rare, but we will need their magic to bend the Mind's Eye to our will.",
+  "files": [
+   "quests/589-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "5bd25af17270",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Kin'weelay",
+  "quest": "The Singing Crystals",
+  "en": "You have done well, Adventurer. These shards are well formed. Already I hear them sing to me.\n\nAnd while you were gone, I spoke with the spirits of the jungle. I know where the Mind's Eye rests...\n\n...And who guards it.",
+  "files": [
+   "quests/589-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "c047e8e3e2bd",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Bookie Herod's Strongbox",
+  "quest": "The Spy Revealed!",
+  "en": "Among the valuables of the strongbox is a muddy, scribbled note. Although barely legible, it looks to be an itinerary for Private Thorsen. It details his patrol routes, who he speaks with and how he spends his time with the rebels. It's signed with only one letter: -M.\n\nBut whoever wrote this note must have stayed very close to Thorsen. Whoever wrote this note is the traitor within the rebel camp.",
+  "files": [
+   "quests/329-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "b300f3395822",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lieutenant Doren",
+  "quest": "The Spy Revealed!",
+  "en": "Thank you, Adventurer. This note is the clue we need to root out the traitor!",
+  "files": [
+   "quests/329-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "ff1e10892819",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Baron Revilgaz",
+  "quest": "The Stone of the Tides",
+  "en": "If there is indeed a goblin mage and water elementals haunting the island, it could mean the Stone of the Tides can be mine!\n\nI want you to locate this haunted island... find out what's going on. Oh, and if you perhaps want to find out more about the Stone of the Tides, take this scrip to the Stormwind Library, they should be able to find you a copy of the book I first came across the legend in.\n\nCould it be that Gazban actually discovered the Stone...?",
+  "files": [
+   "quests/578-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "354a1508a091",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Baron Revilgaz",
+  "quest": "The Stone of the Tides",
+  "en": "So the stories were true! Incredible!\n\nHowever, we will need to figure out a way to defeat the curse of the Stone of the Tides, if we are to retrieve it. The curse is magical business, we'll need one of those wizards to help us out.",
+  "files": [
+   "quests/578-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "68f644a0e5d7",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Maywiki of Zuldazar",
+  "quest": "The Unmarred Vision of Voodress",
+  "en": "One day, adventurer, you will be able to use this orb to communicate directly with me. Whenever this battle with Hakkar be over and Maywiki go home. Let us call to the spirits and ask them for that day to come soon.",
+  "files": [
+   "quests/8119-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "850de0b298b8",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Kin'weelay",
+  "quest": "The Vile Reef",
+  "en": "Long ago, a great shudder of the earth sunk an old troll city beneath the waters of the Savage Coast to the northwest. We call that place the Vile Reef, for murlocs now reside in the ruins of the city, attacking any who draw close.\n\nThere is an old tablet among those ruins that tells the ancient tale of Gri'lek, a hero of troll legends. The tale is sacred to the Darkspear tribe, and although the tablet is too large to move, I want a shard of it to enshrine in our new home in Orgrimmar.",
+  "files": [
+   "quests/629-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "5c6cc5a3178c",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Kin'weelay",
+  "quest": "The Vile Reef",
+  "en": "This is good. When I return to Orgrimmar I will place this shard in a sacred place. It will remind us of the might and honor of Gri'lek.\n\nThank you, Adventurer. Your deeds mark a growing friendship with the Darkspear tribe.",
+  "files": [
+   "quests/629-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "5ad051a88921",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Ajeck Rouack",
+  "quest": "Tiger Mastery",
+  "en": "When I was but a young girl, my father trained me in the art of tiger hunting.\n\nYou'll find the young felines much easier to track and slay. For this reason, we'll start you out easy. One can often find young tigers near the expedition camp.\n\nTest your tracking skills and see if you can hunt some of the beasts down.",
+  "files": [
+   "quests/185-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "eea9e75fef18",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Ajeck Rouack",
+  "quest": "Tiger Mastery",
+  "en": "Nicely done, adventurer. You are ready to move on.",
+  "files": [
+   "quests/185-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "85f237ca45d0",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Ajeck Rouack",
+  "quest": "Tiger Mastery",
+  "en": "You are learning, adventurer. Let us test your skills with the mature cats now. Kill 10 Stranglethorn Tigers this time out.",
+  "files": [
+   "quests/186-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "b33b62435d1b",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Ajeck Rouack",
+  "quest": "Tiger Mastery",
+  "en": "I am impressed, adventurer. You are progressing quite well.",
+  "files": [
+   "quests/186-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "b46feaf0d2d2",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Ajeck Rouack",
+  "quest": "Tiger Mastery",
+  "en": "Now I'm going to up the stakes on you and truly test your skill. Prove to me you can kill 10 Elder Stranglethorn Tigers. If you can do that, you will be ready for your final challenge before I declare you a master tiger hunter in Master Nesingwary's presence.\n\nElder Stranglethorn Tigers are not only the most difficult to find, they are also the fiercest to defeat.",
+  "files": [
+   "quests/187-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "38f5e0e4ad5f",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Ajeck Rouack",
+  "quest": "Tiger Mastery",
+  "en": "Most impressive. I believe you are almost ready.",
+  "files": [
+   "quests/187-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "492fbcb23cf7",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Ajeck Rouack",
+  "quest": "Tiger Mastery",
+  "en": "Here is the final challenge that I will put forth. We've been tracking an elusive tiger for weeks. We call the beast Sin'Dall. See if you can do what no traveler has done before: hunt down and kill Sin'Dall. Bring me her paw as proof of your accomplishment.\n\nTracking her down will be no easy task.",
+  "files": [
+   "quests/188-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "c7acd4aad45c",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Ajeck Rouack",
+  "quest": "Tiger Mastery",
+  "en": "Most impressive, I do say! You are a true Master Tiger Hunter, Adventurer!",
+  "files": [
+   "quests/188-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "82800b60c19f",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Bloodsail Traitor",
+  "quest": "Traitor to the Bloodsail",
+  "en": "Let us observe a minute of silence for our fallen mates, Adventurer.\n\n\nBeing a traitor is one thing, murdering yer own buckos... that'd be just downright despicable, aye!",
+  "files": [
+   "quests/9259-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "6882c14486cf",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Brother Nimetz",
+  "quest": "Troll Witchery",
+  "en": "While I study those legends you acquired, gather for me implements of evil troll magic. Enter the territory of the Skullsplitter trolls, a second tribe to the distant south, and acquire Skullsplitter Fetishes from their Witchdoctors and Mystics.",
+  "files": [
+   "quests/205-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "75f3e1cebe75",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Brother Nimetz",
+  "quest": "Troll Witchery",
+  "en": "Thank you. I will study these fetishes and see if they hold the secret of Kurzen's fall into evil.",
+  "files": [
+   "quests/205-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "88c92741a0aa",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Nimboya",
+  "quest": "Trollbane",
+  "en": "With Thoras Trollbane dead and Stromgarde in ruins, Vol'jin has instructed that we make every effort to spirit the legendary sword Trol'kalar from the humans' hands, so that we might use it in our coming battles against the trolls of Zul'Gurub.\n\nZengu, one of our seasoned hunters, was dispatched to Hammerfall in northeastern Arathi Highlands to oversee its procurement.",
+  "files": [
+   "quests/638-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "a2175ce8a0eb",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zengu",
+  "quest": "Trollbane",
+  "en": "How you doing, adventurer? The task set before us by Vol'jin will be a difficult one, and any assistance you might provide will be appreciated and necessary.",
+  "files": [
+   "quests/638-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "6ebd006fa774",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Deeg",
+  "quest": "Up to Snuff",
+  "en": "Ah, the sea life. I ain't gonna say it's the good life, but it's my life.\n\nWhen I get into port I like to find me a good bottle of grog and some high quality snuff. Nasty habits but what's a pirate without his vices, right?\n\nSo you can imagine how heartbroken I was to find out the herbalist here in town has gone and sold out of the stuff. Says his shipment got hijacked by those damned Bloodsail Raiders.\n\nI bet a fearless adventurer like you could convince 'em to share the goods, eh?",
+  "files": [
+   "quests/587-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "0b1e892e8fcd",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Deeg",
+  "quest": "Up to Snuff",
+  "en": "Good show, adventurer! And just before I need to ship out too! Can't thank you enough, old friend.",
+  "files": [
+   "quests/587-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "0ff62df4769d",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Crank Fizzlebub",
+  "quest": "Venture Company Mining",
+  "en": "The Venture Company has a string of operations through Stranglethorn which keeps hard-working goblins, like me, from making honest gold! Please, you must help me!\n\nThe Venture Company is mining near the Crystalvein Mine to the north. They can't get into the mine because of all the basilisks, but they're still able to dig up Singing Crystals from the surrounding hills.\n\nTake their crystals from them, and show them they don't have the run of the jungle.\n\nAnd... um... bring me those crystals as proof!",
+  "files": [
+   "quests/600-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "39714c044ec5",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Crank Fizzlebub",
+  "quest": "Venture Company Mining",
+  "en": "Great! Wonderful! I can get a bundle for these!!\n\nThat Venture Company sure picked the wrong jungle to mine in, didn't they? We'd all be in better shape if they moved out of here.\n\nThank you, Adventurer. You've done a good deed this day.",
+  "files": [
+   "quests/600-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "2f833ad482cd",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Maywiki of Zuldazar",
+  "quest": "Vision of Voodress",
+  "en": "You and Maywiki have something in common, mon. We both be shaman! Although, Maywiki is more of a mystic and you be more of a scrub. Still, we both know what the great spirits bring.\n\nAs a gift I give to you this orb to wear around your neck. Look deep inside and see the village of Voodress in the South Seas! Let it lift your spirits!",
+  "files": [
+   "quests/8116-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "d46b57e88101",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Maywiki of Zuldazar",
+  "quest": "Vision of Voodress",
+  "en": "Beware the evil Hakkari spirits, mon. Honestly, they be spooky.",
+  "files": [
+   "quests/8117-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "e3dd9ae1d572",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Maywiki of Zuldazar",
+  "quest": "Vision of Voodress",
+  "en": "Take a look at it now, adventurer. Voodress come in even clearer now, yea? Let the primal power flow through you, mon.",
+  "files": [
+   "quests/8118-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "2480f2326b80",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "\"Sea Wolf\" MacKinley",
+  "quest": "Voodoo Dues",
+  "en": "My list is shortening, but there are still people who owe me.\n\nNext, we have Maury \"Club Foot\" Wilkins, Jon-Jon the Crow, and Chucky \"Ten Thumbs.\"\n\nThese scurvy dogs' debts are months outstanding and I thought they skipped town to avoid paying up! Later, I heard they're cursed and bewitched and now wander the jungle ruins. But I don't care what their fate is - I want what's mine!\n\nThey're at the Ruins of Aboraz and the Ruins of Jubuwal, northeast of here. Find them, and collect.",
+  "files": [
+   "quests/609-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "1f167a5eb201",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "\"Sea Wolf\" MacKinley",
+  "quest": "Voodoo Dues",
+  "en": "Great! I can get a good price for these, especially for what's inside Maury's foot! Thanks much, Adventurer!\n\nI hope those three learned their lesson: don't bet something you can't afford to lose.\n\nAnd maybe it's too late for them, but...they should be careful of who they gamble with.",
+  "files": [
+   "quests/609-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "4567adcdd65c",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Baron Revilgaz",
+  "quest": "Water Elementals",
+  "en": "The water elementals were no doubt summoned by Gazban, the goblin wizard rumored to have discovered the Stone of the Tides. As you may know, the Stone of the Tides curses its bearer, causing him to fade in and out of existence...\n\nPerhaps we can find a way to counteract the curse. We can have a mage of Dalaran analyze the magical residue of one of the water elemental's bracers. I need you to go back to the island and retrieve a few specimens.",
+  "files": [
+   "quests/601-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "45df02bca768",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Baron Revilgaz",
+  "quest": "Water Elementals",
+  "en": "Hm, I haven't the eye to examine these bracers to see if any of them will be of any use, but I'm sure at least one of them will be able to help. Take them to Dalaran and have a mage look at them.\n\nAfter all, I can't very well leave Booty Bay just to chat with those tiresome old mages.\n\nNot that I'm worried anyone would try to elbow their way into being the new baron. No one crosses Revilgaz and lives to tell of it.",
+  "files": [
+   "quests/601-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "bec31df640b2",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Barnil Stonepot",
+  "quest": "Welcome to the Jungle",
+  "en": "Welcome to Stranglethorn!\n\nPerhaps you're not aware of this, but that dwarf over there is the one and only Hemet Nesingwary, renowned war hero of the Alliance and master big game hunter. He's not one for welcoming strangers into his camp, but you look like you've seen quite a bit of action in your day, adventurer.\n\nBeing a veteran of many battles himself, Master Nesingwary has a soft spot for fellow heroes.\n\nGo and speak with him. Perhaps he can give you some hunting pointers.",
+  "files": [
+   "quests/583-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "2db87c9801ac",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hemet Nesingwary",
+  "quest": "Welcome to the Jungle",
+  "en": "Jolly nice to make your acquaintance, adventurer. Haven't seen a adventurer around these parts for some time.\n\nI situated myself with this expedition for one purpose: to hunt a great and elusive beast. Seeing that you're a hero of sorts I am willing to let you take part in the hunt, but you must first prove yourself.\n\nI shall teach the ways of raptor killing to you. Ajeck will train you with tiger hunting. And Sir Erlgadin is a master of panther tracking.\n\nProve your skill and I'll let you in on the big hunt.",
+  "files": [
+   "quests/583-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "3714a47ca2e2",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Whiskey Slim",
+  "quest": "Whiskey Slim's Lost Grog",
+  "en": "We was splicin' the mainbrace somethin' fierce off of the Overlook Cliffs, ol' Hinterlands just in the distance. Thought the seas was goin' to swallow us whole.\n\nOl' Slim knows all about liquid courage! Cap'n had a crate of Pupellyverbos Port we commandeered from a privateer en route to Stormwind.\n\nSo when that storm off of Hinterlands hit, I busted into the grog. Big wave hit and tossed them bottles overboard. Cap'n is goin' to give me a taste o' the cat if ye don't help me get 'em back though!",
+  "files": [
+   "quests/580-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "e0042f88caca",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Whiskey Slim",
+  "quest": "Whiskey Slim's Lost Grog",
+  "en": "Shiver me timbers! Ye found the Cap'n's grog!\n\nI owe ye big time, friend.\n\nSeems like a storm is a brewin' outside. Maybe I'll just keep warm with one o' these here bottles while we wait for it to pass....",
+  "files": [
+   "quests/580-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "0b49922384a8",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Falthir the Sightless",
+  "quest": "Zandalarian Shadow Mastery Talisman",
+  "en": "This is the last time we will speak under the auspices of Shera Ali'kh. You know all that you must. Take the talisman and continue in your slaying. Hakkar must never be allowed to leave Zul'Gurub.",
+  "files": [
+   "quests/8144-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "57fb72d31270",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Falthir the Sightless",
+  "quest": "Zandalarian Shadow Talisman",
+  "en": "You progress swiftly, young adventurer. Perhaps it is time to initiate you into the Shera Ali'kh - Zandalari for Death's Hand. For thousands of years we have played the role of assassin for the Zandalar Empire. For too long we have sat idly, allowing the Hakkari to grow in strength. Once more we face Hakkar, but this time without the support of a united traveler front. It is you and your allies who must assist in vanquishing the Blood God and his minions!\n\nWear this talisman and let it assist you in your journeys.",
+  "files": [
+   "quests/8141-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "84fd7011d81d",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Falthir the Sightless",
+  "quest": "Zandalarian Shadow Talisman",
+  "en": "There is only one enhancement left that can be placed on the talisman, adventurer. When the time is right, I shall apply that enhancement.",
+  "files": [
+   "quests/8142-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "5c82ea5cc1c0",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Falthir the Sightless",
+  "quest": "Zandalarian Shadow Talisman",
+  "en": "An assassin of your caliber should be given a wide berth. Your foes must learn respect! You will get just that when the enemy sees the glint of Death's Hand - all too late...",
+  "files": [
+   "quests/8143-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "23d4cd7ebbb0",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Rin'wosho the Trader",
+  "quest": "Zanza's Potent Potables",
+  "en": "A fair trade, my friend - please enjoy the blessings of Zanza with our compliments!",
+  "files": [
+   "quests/8243-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "3ec186121f3e",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Crank Fizzlebub",
+  "quest": "Zanzil's Secret",
+  "en": "Thank you, adventurer.",
+  "files": [
+   "followup/1469-goblin-male-zany"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "4fa1e4f34057",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Crank Fizzlebub",
+  "quest": "Zanzil's Secret",
+  "en": "I'm sure I can find a use for this mixture...",
+  "files": [
+   "followup/1470-goblin-male-zany"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "a6e3745e1ac8",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Crank Fizzlebub",
+  "quest": "Zanzil's Secret",
+  "en": "Zanzil the Outcast dwells with his followers in the Jubuwai and Aboraz Ruins, northeast of Booty Bay. He is exiled from his tribe. Why? Well...\n\nZanzil has methods of bending the minds of others, and his leaders fear him. He uses a mixture of jungle plants on his followers to suppress their will and strengthen their bodies.\n\nHis mixture would be worth much to those who wish to control others.\n\nBring me samples of his mixture, and I will find a use for them.",
+  "files": [
+   "quests/621-accept"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "262277603ee0",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Crank Fizzlebub",
+  "quest": "Zanzil's Secret",
+  "en": "Ah, very good! Here is your pay.\n\nAnd here is a little something extra... for your discretion.",
+  "files": [
+   "quests/621-complete",
+   "quests/1127-complete"
+  ],
+  "uiMap": 1434
+ },
+ {
+  "id": "f395e0bf5835",
+  "zone": "stranglethorn-vale-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Vinchaxa",
+  "quest": "Zulian, Razzashi, and Hakkari Coins",
+  "en": "Excellent - this set of coins will make a fine addition to our growing collection... one that we will use in the tribe's defense against the rise of the Blood God. You've earned this Honor Token, Adventurer, as well as the thanks of the tribe!",
+  "files": [
+   "quests/8195-complete",
+   "quests/8238-complete",
+   "quests/8239-complete"
+  ],
+  "uiMap": 1434
+ }
+]

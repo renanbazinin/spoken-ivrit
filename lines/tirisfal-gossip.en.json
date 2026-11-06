@@ -1,0 +1,887 @@
+[
+ {
+  "id": "dc8f8946fe47",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Bowen Brisboise",
+  "quest": null,
+  "en": "So... you want to be a tailor? Very well, we'll see if you have what it takes.",
+  "files": [
+   "gossip/aa04b66da46a80a2753c940c3f9f1a2e"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "e19c5732cea3",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Bowen Brisboise",
+  "quest": null,
+  "en": "Pleased to make you acquaintance. May I help you?",
+  "files": [
+   "gossip/e291d9ad0a70ad2cbfd236c26b801d03"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "969bc535052c",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Bowen Brisboise",
+  "quest": null,
+  "en": "I am knowledgable, but I am not an expert. You know who you should talk to? Rhiannon! She's not far. Ask around for her in Undercity",
+  "files": [
+   "gossip/e5260b81bc08d0a40f54722eafa81dcb"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "9732ffec0830",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Dannal Stern",
+  "quest": null,
+  "en": "Do not waste my time, adventurer.",
+  "files": [
+   "gossip/3484fd102c48eb2fcac5e4f8ecc5347e"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "dbda01b7ff70",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Dannal Stern",
+  "quest": null,
+  "en": "Through rigorous retraining I have had to break many students of all they had previously learned so that I might teach them anew. The service I offer becomes increasingly difficult to perform each time it is done. It is for that reason that it becomes increasingly expensive with each retraining. Do you desire that I break you of the talents you have learned?",
+  "files": [
+   "gossip/a54fabb9fc0936c92134f8611f4e5e8b"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "172de06c68f7",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Dannal Stern",
+  "quest": null,
+  "en": "The warrior's role is one of protection. Just as we protect our compatriots in battle, we must also protect the interests of the Forsaken.",
+  "files": [
+   "gossip/bab02b057326c5ce92b70b19685745ed"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "a8499d790a0a",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Dark Cleric Duesten",
+  "quest": null,
+  "en": "Yes, adventurer?",
+  "files": [
+   "gossip/901d3b1160b38eacb61be277a1eab438"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "875308c643cf",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Dark Cleric Duesten",
+  "quest": null,
+  "en": "What can this insignificant servant do for you, adventurer? Training perhaps?",
+  "files": [
+   "gossip/ca5ae8d63433bb1a991ae3a7d4a633fc"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "b0e66134e04e",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "David Trias",
+  "quest": null,
+  "en": "I can not train you. You need to talk to your class trainer.",
+  "files": [
+   "gossip/055cd46d500b03f8da5d75f8fb873481"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "962acbca92a0",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "David Trias",
+  "quest": null,
+  "en": "With the sanction of Lord Varimathras, the Deathstalkers' numbers grow. More blades to strike at our enemies when they least expect it.",
+  "files": [
+   "gossip/64555eeab27efbc07ad81017e2883ba6"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "368968c19b2e",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Look inside the Gallows' End Tavern's main dining room for Austil de Mon. The tavern is on the southeast edge of Brill.",
+  "files": [
+   "gossip/026418de080205834ee64ce5d0625a46"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "c903551afc07",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Why cook when everything tastes like ashes in your mouth? If you have one still that is. Very well, head to the Undercity south of Brill and ask an Undercity Guardian there for further directions to their Cooking Trainer. To get there you can take the elevators down from the rear of the Ruins of Lordaeron.",
+  "files": [
+   "gossip/1c6cc53cc9d4d87c2ebcb2148741091e"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "f95a070dd02d",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Sorry friend, we don't have one of those here in Brill. You'll have to head to the Undercity for that. The Undercity is underneath the Ruins of Lordaeron to the south of Brill. From the back of the ruins take the elevator down and then speak to one of the Undercity Guardians to find your way further.",
+  "files": [
+   "gossip/1d78372b655ebdea61f7c5f24bd72002"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "0f919650aa06",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "What are you looking for?",
+  "files": [
+   "gossip/2496e7dedec4748fa10b50cbb971b275"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "54eacbdb6b09",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "I guess your first exercise is going to be to mine your way down to the Undercity. Heh, get it? Mine... nevermind. To get to the Undercity go to the rear of the Ruins of Lordaeron south of Brill, and take the elevator down. Ask one of the Undercity Guardians there for further assistance.",
+  "files": [
+   "gossip/2e97c78ba8df38524753f0708f9146cd"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "65f0fdf35cf7",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Our Alchemist's name is Carolai Anise. You'll find her in a house at the northwest end of Brill.",
+  "files": [
+   "gossip/31cbfadfd213c0536a30ef65e2da9df4"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "84cbf1e27062",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Nurse Neela greets all of her future customers as they enter the Gallows' End Tavern at the southeast end of town.",
+  "files": [
+   "gossip/372f22b4f09e1c12985532736a35e6ef"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "380c0fe30a60",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Do I look to you like I cast spells? Well, I did hear that Cain Firesong was hanging out on the upstairs landing of the Gallows' End Tavern at the southeast end of town. Odd how he just stands there outside of Gretchen's room like that.",
+  "files": [
+   "gossip/385fddd86e7c422be8f061e089433318"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "0ed57dd7d5a7",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Actually I prefer traditional medicines... leeches, maggots, bonesaws... that sort of thing. Well to each their own. You can find the our local Herbalism Trainer, Faruza, standing out front near the stables in Brill.",
+  "files": [
+   "gossip/3b98f483b3fc975239cc1e5337fdbb2e"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "59ecf0473869",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Fancy yourself a chef? Head to the Undercity south of town for your training. You can catch the elevators heading down at the back of the Ruins of Lordaeron. Talk to one of those lumbering Undercity Guardians for further assistance once you arrive.",
+  "files": [
+   "gossip/3f03840f6cba54c94a171fec48a1899a"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "8f43578f5a5a",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Which trainer do you seek?",
+  "files": [
+   "gossip/453b9c8037ce4d9e2cd70e18ad1d9620"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "d6fc4319dfb6",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "While there's no Engineering Trainer in Brill, there is one down in the Undercity. To get there head to the back of the Ruins of Lordaeron to the south of town and take the elevator down. Once you get there ask an Undercity Guardian for more specific directions.",
+  "files": [
+   "gossip/48bace730ef5ab4f593d6a3849c15245"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "d82f56ec81ea",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "That's Rupert Boch you're looking for. He and his entourage have a room upstairs at the Gallows' End Tavern on the southeast end of Brill.",
+  "files": [
+   "gossip/4d833ba2be9a9ed29ed79a621d6ebcce"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "f1fc3dbdeaf5",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "We don't have a bank here in Brill, you'll have to go to the Undercity for that. At the back of the Ruins of Lordaeron to the south are elevators that will take you down into the Undercity. Once there ask one of the Undercity Guardians for more precise directions.",
+  "files": [
+   "gossip/5adb08a671ae648047709221c58553c6"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "1c54cbcfe82f",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "At the southeast edge of town is the Gallows' End Tavern. Go there and head upstairs, and you'll find Dark Cleric Beryl inside the reading room.",
+  "files": [
+   "gossip/5beef90fab0c2fbc8e782f8a205f7045"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "929f90d2e715",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Blacksmith? Nope, our last one turned back into one of those mindless Scourge. There's one in the Undercity though to the south of town though. Undercity is underneath the Ruins of Lordaeron, clever name, huh? Just take the elevators down at the back of the ruins and then you can talk to one of the Undercity Guardians. They should be able to point you in the right direction.",
+  "files": [
+   "gossip/6635289d43d0b38e56c4dba6cd15143a"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "b84edb85132d",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Which profession?",
+  "files": [
+   "gossip/68b0bdb01281865de220bb8ce19e964a"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "af0d66134a0e",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Look for Faruza. Last I saw she was standing out front between the stables and the house on the northwest end of town.",
+  "files": [
+   "gossip/703653ea2b256edc8ff3ec853fb0791e"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "ec2d54c8e40b",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "There's a Bat Handler inside the Undercity. Head south down the road out of Brill, then west at the T-intersection. The Ruins of Lordaeron will be on your left. Go into them and then down into the Undercity. You can ask an Undercity Guardian there for further assistance.",
+  "files": [
+   "gossip/7cde77346a7f6eeabaf54f17380e5d92"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "c82e91c8bc7b",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Yeah, you'll always find Clyde Kellen fishing on the bank of Brightwater Lake just east of Brill. Just watch out for psychos wearing masks while you're out there. We had to shut down the kids' summer camp last year.",
+  "files": [
+   "gossip/90cd6156af4fabbed61c7d3ef0682ad3"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "f431701354c4",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "You can find Vance Undergloom upstairs in a room at the Gallows' End Tavern on the southeast side of Brill.",
+  "files": [
+   "gossip/93cc04c8b8e24496ad60223e82204b3c"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "a8b6246decf2",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "I hear that they have a Mining Trainer in the Undercity. All you have to do to get there is head south out of town and go to the back of the Ruins of Lordaeron. Then take the elevator down into the Undercity itself and ask an Undercity Guardian for further directions.",
+  "files": [
+   "gossip/9e32fc29d61e78d418bf12b83291d07c"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "5393b0d3cc1a",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "It is Bowen Brisboise that you seek then. You'll find him inside his house southwest of Brill just on the other side of the bridge at Cold Hearth Manor.",
+  "files": [
+   "gossip/a05a273555c4e438987174be83fe9a2d"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "8ee68790b4a6",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "The Rogue Trainer's name is Marion Call. You can find her upstairs in the reading room at the Gallows' End Tavern at the town's southeast edge.",
+  "files": [
+   "gossip/a3706807400a87a3d36b47b32c146081"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "d75101e306cb",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "What could you possibly need a bank for? Very well, you'll need to go through the Ruins of Lordaeron to the south of Brill. In the back are a set of elevators leading down into the Undercity. When you get there stop any of those lumbering Abominations they like to call an Undercity Guardian and ask it for better directions.",
+  "files": [
+   "gossip/a3e61fd7af1b53b3d710ad8dab75a981"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "7249f89d4bfa",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Now if I were Innkeeper Renee where might I be? Hmmm? Oh, perhaps inside the Gallows' End Tavern. Yes, that's it, I'm sure of it. Try the southeast end of Brill... think you can find that?",
+  "files": [
+   "gossip/affc5a63c0a0c78d1f8e58687e0f6be0"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "c2a438bcecbe",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Ah, you seek Dark Cleric Beryl. He's upstairs in the reading room at the Gallows' End Tavern. Reading, praying, who knows what he's up to, and who would dare to ask?",
+  "files": [
+   "gossip/b0d229770be3e29c722b451fae65aa8a"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "3f64a897c1fa",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "You aiming to be a taxidermist? I don't like people who think they can stuff and mount me because they think I'm dead. No? Good! Look for Rand Rhobart at a camp to the southeast of town. To get to him take the road southeast out of Brill and hang a left at the intersection.",
+  "files": [
+   "gossip/b2057081f202c32ff47e8c3e643a50bf"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "bbad44d418f0",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Morganus the stable master can be found out in front of the stables strangely enough.",
+  "files": [
+   "gossip/b3c7473fb751209da9ccc66fa335c622"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "0231e030d990",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Yeah, that would be Austil de Mon. He's always hanging out in the tavern at the southeast end of town. It's called the Gallows' End Tavern, you can't miss it.",
+  "files": [
+   "gossip/b7899941266bd499f36628be4b089ec3"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "4d39e3a1ebea",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Clyde Kellen, the local bass master, has his favorite fishing spot just east of Brill at Brightwater Lake.",
+  "files": [
+   "gossip/c8c457f00ba68e930345dc9a61425874"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "94bfbf528573",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Nothing quite like the feel of something dead rubbing up against you. You can find Shelene Rhobart by heading southeast on the road out of town, and then going east at the intersection. She's at a small camp there not too far along the road.",
+  "files": [
+   "gossip/cebb299ef2f7de153bf58659b5d8051b"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "b39a0b05d66e",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "That would be Shelene Rhobart. Take the road southeast out of Brill then head east at the intersection. She's at a camp along the side of the road.",
+  "files": [
+   "gossip/d527ff651e5c8f5b38b73526706b5b23"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "c28ee790b834",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Butcher you say? Oh, First Aid Trainer! Same thing. When you see Nurse Neela standing just inside the Gallows' End Tavern on the southeast side of town you'll know why.",
+  "files": [
+   "gossip/d52cdea0c5a316cd91c993435b3f0346"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "6d370b691073",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Black, grey and dark purple are the prescribed colors. See to it that you don't stray onto the wrong side of fashion street friend. Bowen Brisboise can help to see that you don't. You'll find him inside Cold Hearth Manor on the other side of the bridge to the southwest of town.",
+  "files": [
+   "gossip/d6769fe270aefb1f31493758e255cc9b"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "2746a710ac41",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Word is that Vance Undergloom has taken a permanent room upstairs at the Gallows' End Tavern at the southeast end of town. I think he's just off the reading room.",
+  "files": [
+   "gossip/dc627f30c464b24dbaf5d0e40e0aa261"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "dc78341110b8",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "You'll find Carolai Anise trying to blow up her house at the northwest end of town. Why don't you go see if you can help her?",
+  "files": [
+   "gossip/de06a1722b12d439c9afc5bbb2bda105"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "05ab59e7c6cf",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Rupert Boch is his name. I hear that he's upstairs in one of the rooms at the Gallows' End Tavern on the southeast end of town.",
+  "files": [
+   "gossip/de253e3169d9f7d6717bd3c610685772"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "b3f4335759b3",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Marion Call is keeping Dark Cleric Beryl company in the reading room upstairs at the Gallows' End Tavern on the southeast edge of Brill. I'm just dying to see who wins that staring contest.",
+  "files": [
+   "gossip/df502e2630a2ea2e0237408499de840a"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "4f8f9b63a298",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Rand Rhobart is fairly good at skinning felbats and the like. You can find him at a camp along the road to the southeast of Brill. Take the road southeast out of town and then head east at the intersection.",
+  "files": [
+   "gossip/e4f311ec0b21740e615d6cb30e9cb438"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "1b831956bc3b",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "You'll find Innkeeper Renee inside the Gallows' End Tavern at the southeast end of the street running through town.",
+  "files": [
+   "gossip/e5750cf72eef1fd9a7b8998872a7898a"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "ded9a4bf175c",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Not too clever are you? Hmm, if I were a stable master perhaps I might be in the vicinity of say, the stable? Look for Morganus over there.",
+  "files": [
+   "gossip/e9a287a2eb1861b87d62565cd3f9941c"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "41c13f406e25",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Somewhere to fly to? You'll need to go to the Undercity for that! Go south on the road out of town, then southwest to the Ruins of Lordaeron. You can catch the elevator down to the Undercity from the back of the ruins and once there ask an Undercity Guardian for more specific directions.",
+  "files": [
+   "gossip/f080ec403b25479b3bea6d34d7e97dda"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "d81b1b65e1a7",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "Rifles, dynamite, bombs, exploding sheep... what's not to love? To learn how to make these and many other exciting tools of the trade head to the Undercity, under the Ruins of Lordaeron to the south of Brill. Take the elevators down at the back of the ruins. Once you arrive speak to one of the Undercity Guardians about where the trainer is exactly.",
+  "files": [
+   "gossip/f1ae7876e60c93e2336f0802cc01e837"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "f2f601967ec2",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": null,
+  "en": "You'll find the Mage Trainer, Cain Firesong, upstairs on the landing at the Gallows' End Tavern, which is on the southeast end of Brill. I guess he checked in too late to get a room.",
+  "files": [
+   "gossip/fd95ca0767fb6854229c17e46878eea4"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "a16edaa6ad03",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Isabella",
+  "quest": null,
+  "en": "Through rigorous retraining I have had to break many students of all they had previously learned so that I might teach them anew. The service I offer becomes increasingly difficult to perform each time it is done. It is for that reason that it becomes increasingly expensive with each retraining. Do you desire that I break you of the talents you have learned?",
+  "files": [
+   "gossip/568cdabe1d3684de59b70f0a2ef0c659",
+   "gossip/0d64590eddacb5c6f64026dd45e8d2c8"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "ee3d08a12b34",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Isabella",
+  "quest": null,
+  "en": "Well met, adventurer. My advice to you is this: As you travel the world, be wary of magic for it will burn the untrained.",
+  "files": [
+   "gossip/6e8456199ea753ead910aea500ef3809",
+   "gossip/1fefb26fb14a8a417893850e7c1dc6d1"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "745e155f3460",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Isabella",
+  "quest": null,
+  "en": "Greetings. I'm an undead mage trainer, and you're a mage.",
+  "files": [
+   "gossip/6e9c7ec1a61b1c90100ee5b1a2b7cb90",
+   "gossip/ca41cfc324c9ff97239e297f99d28777"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "e2a12cbdf05d",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Kayla Smithe",
+  "quest": null,
+  "en": "Want to make your demons more powerful? It'll cost you, but you've come to the right place.",
+  "files": [
+   "gossip/24f8a464cacbadb24bac1f53d8aa22dd"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "fd55e477af6b",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Kayla Smithe",
+  "quest": null,
+  "en": "You're no warlock and I've no time for you. Begone!",
+  "files": [
+   "gossip/944b9c64d35c1c1dc8e01e4d94e1e346"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "7e54acea8440",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Maximillion",
+  "quest": null,
+  "en": "It is wise that you humble yourself before me Adventurer in your desire for more warlock knowledge.",
+  "files": [
+   "gossip/6d671d26f71829b3cfdafaf53866d6f0"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "4fc1de40dc9e",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Maximillion",
+  "quest": null,
+  "en": "I have no time to waste on the likes of you adventurer.",
+  "files": [
+   "gossip/9514382213ea5206a797eeb5423a9138"
+  ],
+  "uiMap": 1420
+ },
+ {
+  "id": "c7e730f7edf8",
+  "zone": "tirisfal-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Shadow Priest Sarvis",
+  "quest": null,
+  "en": "No other race on Azeroth has suffered as much as our people, adventurer. To laugh in the face of death has become second nature for all of us.",
+  "files": [
+   "gossip/f3c13d9b72d8b59a9be9b737dae6a6b2"
+  ],
+  "uiMap": 1420
+ }
+]

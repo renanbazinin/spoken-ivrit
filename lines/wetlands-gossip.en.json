@@ -1,0 +1,156 @@
+[
+ {
+  "id": "2639230b77c0",
+  "zone": "wetlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Adam Lind",
+  "quest": null,
+  "en": "You can find passage to Theramore from this dock. Heed my words, those lands are rarely safe to travel for people of the Alliance. Watch your step and your back.",
+  "files": [
+   "gossip/0330eb47812f7e68da55bc38f1165206"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "6e12e82b4e4d",
+  "zone": "wetlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Don Pompa",
+  "quest": null,
+  "en": "This dock here? Well you can catch the ship that goes to that Night Elf place. What's it's name? Uhh Auberdine I think. I don't really know for sure, I just load and unload stuff.",
+  "files": [
+   "gossip/ca7d18cf048257b8138d41171774e437"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "26a20bb1e04a",
+  "zone": "wetlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "First Mate Fitzsimmons",
+  "quest": null,
+  "en": "If you're willing to endure tales that will shiver your timbers and sog your skivvies, then get yourself a drink and sit for a spell...",
+  "files": [
+   "gossip/b22ef4b159c4d30560b2e0b7fa1b6fea"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "a95ec3d6dc65",
+  "zone": "wetlands-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Fremal Doohickey",
+  "quest": null,
+  "en": "I can train you in First Aid techniques.",
+  "files": [
+   "gossip/7f7be7d9f859827d61dd9fcd5450e23e"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "0c8fc55769a9",
+  "zone": "wetlands-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Fremal Doohickey",
+  "quest": null,
+  "en": "The esteemed Doctor Gustaf VanHowzen can train you further. He can be found in Theramore treating the wounded at the barracks.",
+  "files": [
+   "gossip/9c8fb9d3a4f7df72d0d9fc92d703fc17"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "5b6278d58bf8",
+  "zone": "wetlands-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Fremal Doohickey",
+  "quest": null,
+  "en": "I've heard it said that Deneb Walker, holed up in Stromgarde, has a book that is sure to help improve your First Aid techniques.",
+  "files": [
+   "gossip/c0c9e599067b43084770b8a1fe8ce769"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "d50c83513c54",
+  "zone": "wetlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "James Halloran",
+  "quest": null,
+  "en": "Greetings, adventurer. I'm in a bit of a pinch right now, running very low on hides.",
+  "files": [
+   "gossip/70958d3a0086102e7fbeecdc1bdc83c3"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "e8184c657ef6",
+  "zone": "wetlands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Longbraid the Grim",
+  "quest": null,
+  "en": "If there's one thing time has taught me it's that no assignment is a dull one. Protecting the Thandol Span should have been an easy task. But with the brunt of the army fighting alongside the alliance, we were overwhelmed here and Dun Modr has fallen.",
+  "files": [
+   "gossip/f1d14ab32292c3872c0b525fe554f79d"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "627308546aeb",
+  "zone": "wetlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mikhail",
+  "quest": null,
+  "en": "Give me a couple minutes, Adventurer. There was some excitement in here a moment ago, and I just want to make sure things have died back down. I'll talk to you soon enough.",
+  "files": [
+   "gossip/50ab02f29a0ca84f2eb232e907640d8b"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "8683bf1c595b",
+  "zone": "wetlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Unger Statforth",
+  "quest": null,
+  "en": "Sorry, but I am not disposed to sell horses to any individual who is not considered to be at least exalted to the Kingdom of Stormwind. These steeds are the finest you'll find anywhere, and we certainly wouldn't want them in the hands of our enemies.\n\nNot saying you're an enemy, of course... just earn the trust of Stormwind and then we can do business.",
+  "files": [
+   "gossip/3abbcc0541b691e0b8bbe9d7c11ad032"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "a44597a8b5e6",
+  "zone": "wetlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Unger Statforth",
+  "quest": null,
+  "en": "Years of quality breeding techniques and plenty of care allow me the privilege of showing you these horses! Please, take your time as you consider them for your mount. A horse is a companion for the ages, friend. Don't sell yourself short - get your steed here today!",
+  "files": [
+   "gossip/b2eb329ecae1bc16999a40f0d3b30dc8"
+  ],
+  "uiMap": 1437
+ }
+]

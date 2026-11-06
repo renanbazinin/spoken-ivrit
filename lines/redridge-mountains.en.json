@@ -1,0 +1,1136 @@
+[
+ {
+  "id": "9352ac80f980",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Verner Osgood",
+  "quest": "A Baying of Gnolls",
+  "en": "As if the attacking orcs weren't enough! Now I have gnoll brutes and mystics prowling along the ridge north of my stable, taking my horses when they stray...\n\nIf you can get rid of those gnolls, my horses and I would be very grateful.",
+  "files": [
+   "quests/124-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "a938523c3665",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Verner Osgood",
+  "quest": "A Baying of Gnolls",
+  "en": "Thank you for all your help, Adventurer.",
+  "files": [
+   "quests/124-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "72e3506bd52f",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Darcy",
+  "quest": "A Free Lunch",
+  "en": "Can you do me a favor? I've prepared a lunch for Guard Parker, but he's out on patrol...he's a big, strong Stormwind guard who can defend himself, but it's much too dangerous out there for a townsperson like me.\n\nSo if you deliver his lunch for me, then come back here and I'll give you a free lunch! Parker patrols the stretch of road leading to Duskwood.",
+  "files": [
+   "quests/129-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "c2520e02a177",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Guard Parker",
+  "quest": "A Free Lunch",
+  "en": "Thanks, I could really use the meal. Guarding Lakeshire from the orcs and gnolls is tough work!",
+  "files": [
+   "quests/129-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "393a8284d734",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Marcy Baker",
+  "quest": "A Sealed Crate",
+  "en": "Thank you for your hard work, Adventurer. There has been an uprising in bandits and thieves intercepting trade routes as of late. If you find other crates lying around, please bring them here and we'll handle the rest.\n\nHere is your payment.",
+  "files": [
+   "quests/91904-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "d438c5c48e6f",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Old Lion Statue",
+  "quest": "A Watchful Eye",
+  "en": "You place the Glyph of Azora on the stone. It adheres itself ... and you hear from it Theocritus' disembodied voice:\n\nYou have my gratitude, young Adventurer. You may now speak with me through this Glyph, and I might have future tasks for you ... after I have probed the thoughts of my rival.",
+  "files": [
+   "quests/94-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "6ad8396714c4",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Theocritus",
+  "quest": "A Watchful Eye",
+  "en": "My rival, Morganth, is a vicious mage of great power who lives in the Tower of Ilgalar in Redridge. I have developed a means of spying on him, the Eye of Azora, and can now view him from afar.\n\nBut to study his thoughts ... I require further aid.\n\nIf you are willing, then take my Glyph of Azora to the Tower of Ilgalar. Place it upon the Lion Statue near the Tower.\n\nWhen this is done, the power of Azora will grant visions of Morganth's future plans.",
+  "files": [
+   "quests/94-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "f366d7ef871f",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Foreman Oslow",
+  "quest": "Alther's Mill",
+  "en": "Orcs, gnolls, murlocs. Everything seems to be out to stop me from getting this bridge done on time. Now we have word there's an infestation of tarantulas at our lumber mill!\n\nIf you're up to earn a bit more coin, would you head over to Alther's Mill to the east and clear out their spider problem? Place is as good as useless to me if I can't safely send workers to collect shipments.\n\nOh, and if you see ol' Alther, tell him he owes me for cleaning up his mess.",
+  "files": [
+   "quests/98386-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "d83a725612c7",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Foreman Oslow",
+  "quest": "Alther's Mill",
+  "en": "The mill is that bad? That's worse than I thought.\n\nI'm not particularly squeamish, but work's bad enough without spiders snatching up my workers. Thanks for the help,Raton!",
+  "files": [
+   "quests/98386-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "1c2e92e091c4",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Martie Jainrose",
+  "quest": "An Unwelcome Guest",
+  "en": "Once again my garden was trampled and pillaged. And I know the brute who is doing it. It's that forsaken boar, the one Marshal Marris has taken to calling Bellygrub.\n\nI won't be able to re-plant the daffodils until next season now. Ruined! All ruined by that one menacing boar. Put an end to that pest! Show me his tusk and I'd be happy to reward you. He seems to spend his time foraging in the field southwest of Lakeshire but occasionally he roams over here and into my garden.",
+  "files": [
+   "quests/34-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "a3615981313a",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Martie Jainrose",
+  "quest": "An Unwelcome Guest",
+  "en": "Finally the menace is laid to rest! Thank you, adventurer, you have done me a great service. The garden shall be in full bloom this season!",
+  "files": [
+   "quests/34-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "16626b4000a2",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Deputy Feldon",
+  "quest": "Assessing the Threat",
+  "en": "We don't have men to spare, but something must be done about those gnolls you reported to me.\n\nScout southern Redridge for gnolls. Harry them, kill those you can and report back to me with a count of their numbers and an assessment of the threat they present. You may find those gnolls camped all along the southern road of Redridge.\n\nDo this for the Stormwind Army, Adventurer, and you will be rewarded.",
+  "files": [
+   "quests/246-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "8b2c98e72c2e",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Deputy Feldon",
+  "quest": "Assessing the Threat",
+  "en": "There's a sizable force of gnolls encamped there, and from what you tell me they are tough ones. It must not have been easy for you to gather this intelligence.\n\nHere you are, Adventurer. We are grateful for your aid.\n\nAnd if you haven't already done so, speak with Marshal Marris and Magistrate Solomon within Lakeshire. Our situation grows ever more desperate - those two will have need of you I'm sure.",
+  "files": [
+   "quests/246-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "808ea9a44bd9",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Marris",
+  "quest": "Blackrock Blockade",
+  "en": "What the Blackrock orcs don't understand is that this is a war of attrition. Their brazen push into Alliance territory has left them vulnerable and without supplies, relying on the surrounding mountains to gather resources.\n\nAn army can't run on empty bellies, Adventurer. Go to their encampments south of Stonewatch Keep to the east and rob them of their food and weapons. Let's see the orcs' fighting spirit when they're starved and defenseless.",
+  "files": [
+   "quests/98387-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "b2a50ed55eb4",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Marris",
+  "quest": "Blackrock Blockade",
+  "en": "Excellent work, Eraina. With the Blackrock orcs cut off from their allies in the Burning Steppes, they will have no hope of maintaining their foothold here without proper supplies.",
+  "files": [
+   "quests/98387-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "78857fb8b3b9",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Guard Howe",
+  "quest": "Blackrock Bounty",
+  "en": "The Blackrock Clan must be destroyed. The Enemy has invaded our lands. These mountains fall under the sovereign right of the King of Stormwind. Our sources tell us that the leaders of each unit within the Clan are known as Champions. You'll find them in their encampment to the north, just west of the road to the Burning Steppes.\n\nMagistrate Solomon wants these foul brutes dead. Slay 15 Blackrock Champions and return to me.",
+  "files": [
+   "quests/128-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "ecf5fbec4c04",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Guard Howe",
+  "quest": "Blackrock Bounty",
+  "en": "I see you have fought valiantly against the Blackrock Clan, Adventurer. Your service to our township is great indeed.",
+  "files": [
+   "quests/128-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "b68b5c495399",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Marris",
+  "quest": "Blackrock Menace",
+  "en": "The Blackrock orcs have travelled from the Burning Steppes and claimed Stonewatch Keep to the north. From there they maraud the areas north of Lakeshire and keep its citizens in town, penned like cattle.\n\nHelp rid Lakeshire of this menace. Kill these Blackrock orcs and bring me ten of their Battleworn Axes as proof.\n\nAnd although Blackrocks threaten us from the north, we've received reports of more in the southeastern pocket of Redridge. If you find any there, then they too should be hunted.",
+  "files": [
+   "quests/20-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "e9d84b81998f",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Marris",
+  "quest": "Blackrock Menace",
+  "en": "That makes for a lot fewer orcs to worry about, thanks.",
+  "files": [
+   "quests/20-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "3b4ac89b6882",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Darcy",
+  "quest": "Delivering Daffodils",
+  "en": "Oh, those are lovely! I can't wait to put them in some water!\n\nBut...these are Martie's favorite flowers. Parker didn't have you go to that jealous vixen for this bouquet, did he? You didn't tell her who they were for, did you? If you did, then it wouldn't surprise me if she poisoned them.\n\nOh, but it's not your fault. Thank you, and here's your meal.",
+  "files": [
+   "quests/131-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "96dae68a3732",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Martie Jainrose",
+  "quest": "Delivering Daffodils",
+  "en": "Here is your bouquet. I chose Daffodils for you. They're my favorite!",
+  "files": [
+   "quests/131-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "d9362f759683",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Barkeep Daniels",
+  "quest": "Dry Times",
+  "en": "I find myself in quite a pinch here, Adventurer. The bottles are close to running dry. The latest booze shipment is long overdue. The orc invasion has been hell.\n\nPerhaps you can go to work for me?\n\nI need you to pick up a keg of Thunderbrew Lager from Grimbooze Thunderbrew in the Westfall hills, a cask of Merlot from Stormwind, a bottle of Moonshine from Darkshire and a skin of Sweet Rum from Goldshire. Bring those back to me and I will see to it you are rewarded.",
+  "files": [
+   "quests/116-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "d74bc8242da5",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Barkeep Daniels",
+  "quest": "Dry Times",
+  "en": "A job well done, Adventurer! I know well the roads you had to journey to procure this fine array of liquor. But my patrons will be happy once again! \n\nMy wife is quite a seamstress. Please accept this cloak she made in return for your services.",
+  "files": [
+   "quests/116-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "90262381ac40",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Deputy Feldon",
+  "quest": "Encroaching Gnolls",
+  "en": "There are Redridge gnolls that close to Elwynn?? They may be poised to advance into our homeland. Soon the people of Lakeshire may not be the only humans under siege!\n\nHere is your pay, though you bring us dire news. And it comes at a bad time, for we are ill equipped to deal with it.",
+  "files": [
+   "quests/244-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "6b29de6365fc",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Guard Parker",
+  "quest": "Encroaching Gnolls",
+  "en": "Hail, adventurer. I am charged to patrol this stretch of road. Although the road is safe for now, I've seen gnoll encampments to the north and east of here.\n\nLakeshire must know of the gathering gnoll force! Report to Deputy Feldon in Lakeshire and tell him of the gnolls. Do this, and I'm sure Feldon will offer you a scout's wage.\n\nFeldon's usually inspecting the area south of the bridge to Lakeshire.",
+  "files": [
+   "quests/244-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "85e3a69dc915",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Shawn",
+  "quest": "Hilary's Necklace",
+  "en": "My friend Hilary lost her necklace, and we can't find it. We've been fishing all day right here, and we looked around here already. The only thing I can think of is that it fell into the lake. Our parents don't want us to swim in the lake... my mom says there's some mean things underwater, but you look like you aren't scared of mean things.\n\nCould you find it for her, please?",
+  "files": [
+   "quests/3741-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "458be5ef3cfe",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Verner Osgood",
+  "quest": "Howling in the Hills",
+  "en": "Adventurer, the gnolls are still out there. I can hear their baying as they hunt in the hills above Lakeshire. And one cry is louder than the rest - Yowler, their leader.\n\nKill Yowler and send his pack scattering! Bring me his paw as proof.\n\nAnd be careful, this gnoll is their leader for a reason. He is no Mongrel...",
+  "files": [
+   "quests/126-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "81751728efe8",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Verner Osgood",
+  "quest": "Howling in the Hills",
+  "en": "Again, thank you for your help. The Stormwind army is so busy dealing with the orcs, they don't have the troops to protect Redridge from local threats like the gnolls.",
+  "files": [
+   "quests/126-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "e4805052e8b2",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "An Empty Jar",
+  "quest": "Looking Further",
+  "en": "It is a suitable vessel for the Glyph of Azora, allowing Theocritus to delve into the minds within Stonewatch Keep.",
+  "files": [
+   "quests/248-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "1787b253329b",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Old Lion Statue",
+  "quest": "Looking Further",
+  "en": "I have been watching the Tower of Ilgalar, and can detect that Morganth is in conflict with the Orcs in Stonewatch Keep. I do not know the reason behind their contention, but you may aid me in unraveling this mystery.\n\nTake another Glyph of Azora, then go to the top of the intact watch tower beside Stonewatch Keep.\n\nFind a suitable object on which to place the Glyph. A chest or a jar -- some place where the glyph will not be noticed -- will suit my purpose.",
+  "files": [
+   "quests/248-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "b6bd99cf27ee",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lord Ello Ebonlocke",
+  "quest": "Messenger to Darkshire",
+  "en": "Thank you for making the long journey here. This is indeed important information.",
+  "files": [
+   "quests/145-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "1766fe8e8948",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lord Ello Ebonlocke",
+  "quest": "Messenger to Darkshire",
+  "en": "If I did not know Magistrate Solomon personally, I would say the man has gone mad. Send the Night Watch to Lakeshire because Stormwind refuses aid? The Night Watch was formed because Stormwind left us when this foul magic seeped into the land. If I sent my Night Watch, this town would be overrun by evil before the guards even reached the forest's edge.\n\nTake this letter of response to your Master in Lakeshire.",
+  "files": [
+   "quests/146-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "19c613b9e56a",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Solomon",
+  "quest": "Messenger to Darkshire",
+  "en": "I require your assistance once again. I have written to Lord Ebonlocke, requesting that he sends his trained guards, the Night Watch, to help with Lakeshire's defense. It is imperative this message makes it to him swiftly. You must exercise extreme caution. Ebonlocke is the mayor of Darkshire, in the heart of Duskwood. Do not stray from the roads.",
+  "files": [
+   "quests/145-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "5ee3969d07a0",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Solomon",
+  "quest": "Messenger to Darkshire",
+  "en": "By the Light! The Stormwind Army retreated from Westfall. And the Guard no longer protects Darkshire? There is some treachery abound. How could this be so? \n\nOh I forgot to reward your service, adventurer. Here are some coins. Now excuse me. Something is amiss in Stormwind and I must get to the bottom of it.",
+  "files": [
+   "quests/146-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "852e99e6751c",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "General Marcus Jonathan",
+  "quest": "Messenger to Stormwind",
+  "en": "At ease, adventurer.\n\nMagistrate Solomon is a noble leader. His words carry great weight with me. I shall seek the counsel of the King and make the situation clear to him. Assure the good judge that he has the Stormwind Army's support. Reinforcements will be sent as soon as word is given from His Majesty.",
+  "files": [
+   "quests/120-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "85af65afa1b9",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "General Marcus Jonathan",
+  "quest": "Messenger to Stormwind",
+  "en": "While I wait for a response from the King I want you to carry this letter to Magistrate Solomon. \n\nDismissed, adventurer!",
+  "files": [
+   "quests/121-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "83c70b5232c6",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Solomon",
+  "quest": "Messenger to Stormwind",
+  "en": "These are trying times, adventurer. The township is under constant siege. Without reinforcements, we will certainly face defeat. The message I now entrust to you is of utmost importance. Get this report to General Marcus Jonathan of Stormwind immediately. Once your delivery is made, return to me at once with any news, be it good or bad. \n\nNow make haste!",
+  "files": [
+   "quests/120-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "cbc5b5a8b4e6",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Solomon",
+  "quest": "Messenger to Stormwind",
+  "en": "Thank you for your time, adventurer. For your service to Lakeshire and Stormwind I reward you with these coins.\n\nNow if you'll excuse me, I find this correspondence somewhat of a mystery. Something is amiss in our Kingdom. I fear this is the beginning of conflict, not the end.",
+  "files": [
+   "quests/121-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "14ee81140a26",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gryan Stoutmantle",
+  "quest": "Messenger to Westfall",
+  "en": "Good Messenger, you have served your master well.",
+  "files": [
+   "quests/143-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "963a2a107f59",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gryan Stoutmantle",
+  "quest": "Messenger to Westfall",
+  "en": "Magistrate Solomon's note pains me to read. But it is obvious he knows not the war which is waged in Westfall or else he would know better than to expect aid from the Militia. If Stormwind had not deserted us as well, we would not have the need for the Militia.\n\nTake this response to your master in Redridge, adventurer. And let him know that my heart is heavy with the loss of good men.",
+  "files": [
+   "quests/144-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "be0e99b8992b",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Solomon",
+  "quest": "Messenger to Westfall",
+  "en": "Something odd is afoot with the Stormwind Army. They should have been here in force by now. Time is a luxury we don't have, however. I will not stand by and watch the people of Lakeshire give their lives without trying to enlist more help. I've heard word of a people's militia forming in Westfall.\n\nTake this plea to their leader, Gryan Stoutmantle. Perhaps Stoutmantle's men can lend some support here until the King sends reserves.",
+  "files": [
+   "quests/143-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "1529e7f4071c",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Solomon",
+  "quest": "Messenger to Westfall",
+  "en": "I do say, this is not good at all. I did not realize that Stoutmantle's situation was not unlike ours here in Lakeshire. What action is so important that it calls the Stormwind Army away from its people? Bah, I should not ponder aloud.\n\nHere, messenger. Accept these coins in exchange for your service to the Township. I might call upon you again.",
+  "files": [
+   "quests/144-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "93b48eb57879",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Corporal Keeshan",
+  "quest": "Missing In Action",
+  "en": "At last, friends of the Alliance!\n\nHelp... please... \n\nThe last thing I remember these foul Orcs overpowered our regiment. Most the men were killed. I took a strong blow to the head and everything went black. Now I am held captive in this cave. Help me, I am hurt badly.\n\nI'll need help getting back to town... please... you're my last hope...",
+  "files": [
+   "quests/219-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "19e7b4b8af18",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Marris",
+  "quest": "Missing In Action",
+  "en": "You have served the Kingdom well, Adventurer. Thank you for assisting Corporal Keeshan with his escape from those dreaded Blackrock Orcs. You shall be rewarded for your brave acts this day.",
+  "files": [
+   "quests/219-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "7814b5fbf02f",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Old Lion Statue",
+  "quest": "Morganth",
+  "en": "After much observation, I have discovered Morganth's plans.\n\nHe searches for the Scythe of Elune...and he may have found it! If he has, then the Redridge Mountains, and the kingdom of Stormwind, will soon feel his dark might.\n\nI am not prepared to pit myself against Morganth, but I fear he must be dealt with now. So you must enter the Tower of Ilgalar and face Morganth.\n\nDefeat him, and bring me his Pendant of Shadow. Do this, and the kingdom will owe you much.",
+  "files": [
+   "quests/249-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "d4b5874ded6c",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Theocritus",
+  "quest": "Morganth",
+  "en": "After much observation, I have discovered Morganth's plans.\n\nHe searches for the Scythe of Elune...and he may have found it! If he has, then the Redridge Mountains, and the kingdom of Stormwind, will soon feel his dark might.\n\nI am not prepared to pit myself against Morganth, but I fear he must be dealt with now. So you must enter the Tower of Ilgalar and face Morganth.\n\nDefeat him, and bring me his Pendant of Shadow. Do this, and the kingdom will owe you much.",
+  "files": [
+   "quests/249-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "c4cd69aa2323",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Theocritus",
+  "quest": "Morganth",
+  "en": "You have done well, Adventurer. In defeating the warlock Morganth, Stormwind is saved from a grave peril.\n\nI offer you this reward most humbly. And I would bid you peace, if these were peaceful times.\n\nBut instead, I will bid you luck with your trials, and victory in the conflicts ahead.",
+  "files": [
+   "quests/249-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "aeb1cf83dc92",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Dockmaster Baren",
+  "quest": "Murloc Poachers",
+  "en": "Murlocs are becoming a problem. Larger groups of the fishmen are dropping anchor along the shores of Lake Everstill and fishing up a storm! We need them gone before they eat all the fish in the lake!\n\nHunt murlocs! Bring me eight of their fins and I might have something for you...",
+  "files": [
+   "quests/150-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "c35e0b871883",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Dockmaster Baren",
+  "quest": "Murloc Poachers",
+  "en": "Well done, Adventurer. I hope you didn't have too much trouble with those murlocs.\n\nIt's strange seeing them so far from the sea. I wonder if they're here because they're running from something...",
+  "files": [
+   "quests/150-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "4e9d4f3bc465",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Chef Breanna",
+  "quest": "Redridge Goulash",
+  "en": "Nothing would please me more than to make you some Redridge Goulash. But there's a slight problem. During the recent orc uprising I fed the entire brigade of Stormwind troops. My cupboard is now bare. But if you can provide me with the ingredients, I'd be happy to oblige.\n\nJust bring me five pieces of Tough Condor Meat, five Great Goretusk Snouts and five helpings of Crisp Spider Meat.",
+  "files": [
+   "quests/92-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "4bff46e53caa",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Chef Breanna",
+  "quest": "Redridge Goulash",
+  "en": "Well done, Adventurer. Such fine specimens too! And here is your delicious delicacy known as Redridge Goulash!",
+  "files": [
+   "quests/92-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "fad0faaaa016",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Smith Argus",
+  "quest": "Return to Verner",
+  "en": "Ok, I'll give him his 50 horseshoes...\n\nHere they are, all boxed up and ready to go! Tell Verner it was a pleasure doing business, and be sure he reads the note attached to this crate!",
+  "files": [
+   "quests/119-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "156058cf995f",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Verner Osgood",
+  "quest": "Return to Verner",
+  "en": "Thank you, this really helps me out.\n\nBut what's this? Argus sent a note with the crate...What?? Argus wants me to PAY him? Bah!\n\nWell, Adventurer, thank you for your help.",
+  "files": [
+   "quests/119-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "ac19501f5384",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Dockmaster Baren",
+  "quest": "Selling Fish",
+  "en": "Lake Everstill is famous for its spotted sunfish. There's always demand for them...and I'm running low!\n\nBring me a batch of 10 and I'll barter well for them. If you can't fish yourself, then...maybe you can get them off the murlocs!",
+  "files": [
+   "quests/127-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "d55e4490e80e",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Dockmaster Baren",
+  "quest": "Selling Fish",
+  "en": "Pleasure doin' business with you, matey!",
+  "files": [
+   "quests/127-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "caeb9b7b1a2c",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Marris",
+  "quest": "Shadow Magic",
+  "en": "The Blackrock orcs enlisted shadowcasters to aid their attacks in Redridge, and they have brought with them devices of dark power--midnight orbs. These orbs have struck telling blows against Redridge's defenders, and it's imperative we remove the demon-tainted items from the conflict.\n\nFind and deliver to me midnight orbs from slain Blackrock shadowcasters. I will then have them disposed of, for this world would be a better place without them!",
+  "files": [
+   "quests/115-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "42d63a05c0dc",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Marris",
+  "quest": "Shadow Magic",
+  "en": "Thank you, Adventurer. I'll send these to be destroyed immediately.",
+  "files": [
+   "quests/115-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "d5564bd3b32f",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Marcy Baker",
+  "quest": "Shipping Label",
+  "en": "You have arrived at the right place! I am happy to mark you down as one of our affiliates. No contracts to sign and no commitments to weigh you down. All we ask of you is your diligence to assist in completing or returning any of our deliveries you find on your travels.\n\nWhen you do so, you will be compensated with Merchant's Favor that will allow you to purchase goods and services we offer here. In fact, here's a little bit to get you started.\n\nNow, do you happen to have the crate this came from?",
+  "files": [
+   "quests/98247-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "b4367169a2af",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Deputy Feldon",
+  "quest": "Show of Force",
+  "en": "If the gnolls are growing so bold they are willing to camp this close to humans, there's no telling how much further they'll go. We need to deter them.\n\nThe beasts are hardly organized, but they seem to respect strength above all else. If we can slay the worst of them, maybe claim some of their trophies, we can remind these gnolls why they should stay in the hills where they belong.\n\nShould you see any of their thrashers, bring me their collars. That should put the fear of the Alliance back into them.",
+  "files": [
+   "quests/98407-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "2ad3eec0e6a8",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Deputy Feldon",
+  "quest": "Show of Force",
+  "en": "Quite the armful you have.\n\nWhile this doesn't solve our problem out here, I can rest comfortably knowing we've discouraged them pushing any further. Great work, Zurk.",
+  "files": [
+   "quests/98407-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "6bb8688e99c7",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Bailiff Conacher",
+  "quest": "Solomon's Law",
+  "en": "An enemy of Stormwind has taken up residence in the eastern foothills of Redridge. This wicked villain uses the Arcane to spread terror and misery upon our town and our people. Under the name, Morganth, he conducts his evil business.\n\nMorganth now controls the Shadowhide Gnoll Clan to perform his biddings. As stated by the Law of Lakeshire, aiding a criminal of the Kingdom is punishable by death.\n\nThese vile gnolls must be killed!\n\nTurn in 10 Shadowhide Pendants to me, and you shall be rewarded.",
+  "files": [
+   "quests/91-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "856e7d4f869e",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Bailiff Conacher",
+  "quest": "Solomon's Law",
+  "en": "The Court of Lakeshire recognizes your commitment to justice, Adventurer. By enforcing the laws of the Kingdom you have helped uphold the justice of the land.",
+  "files": [
+   "quests/91-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "1d78c7a11983",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Marris",
+  "quest": "Tharil'zun",
+  "en": "Blackrock Outrunners and Renegades are running ambushes between here and Stonewatch Keep. The leader of the Outrunners is an orc named Tharil'zun--we want this orc. Bring me the head of Tharil'zun!",
+  "files": [
+   "quests/19-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "6c5afb3fbde2",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Marris",
+  "quest": "Tharil'zun",
+  "en": "Tharil'zun was a vicious, crafty orc. Well done--I'm sure he didn't go down easy. Here is your reward, Adventurer.",
+  "files": [
+   "quests/19-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "3dbf0097b7ba",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Foreman Oslow",
+  "quest": "The Everstill Bridge",
+  "en": "During the last orc invasion we were forced to smelt our iron down to make bullets, swords and armor. We sent word to Stormwind for a new shipment of materials but a band of Redridge gnolls hijacked the caravan and ran off into the hills behind Lakeshire.\n\nNow we're coming up short on supplies to get this bridge rebuilt. If you can bring me 5 iron pikes and 5 iron rivets, Adventurer, I'll make sure you're rewarded. \n\nNow let's get to work!",
+  "files": [
+   "quests/89-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "7f511d8f9961",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Foreman Oslow",
+  "quest": "The Everstill Bridge",
+  "en": "Great work, Adventurer. These supplies will help the bridge effort immensely. We'll get this beauty shored up in no time.",
+  "files": [
+   "quests/89-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "cd19f8e175f0",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Foreman Oslow",
+  "quest": "The Lost Tools",
+  "en": "I could really use a hand here, Adventurer. With the town under siege, it's been hard to get supplies. My tools were being delivered from Goldshire by wagon but the bridge was blown out. We put the tools in a boat but the orcs hit it with a catapult. Just my luck, my toolbox sank right to the bottom of the lake.\n\nRetrieve my toolbox, Adventurer, and I'll make it worth your while.",
+  "files": [
+   "quests/125-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "392935f942d6",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Foreman Oslow",
+  "quest": "The Lost Tools",
+  "en": "Excellent recovery, Adventurer! I never thought I'd see these tools again.",
+  "files": [
+   "quests/125-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "978e11c1af86",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Smith Argus",
+  "quest": "The Price of Shoes",
+  "en": "Heh, so old Verner needs some shoes, does he!?!",
+  "files": [
+   "quests/118-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "42ce9cb0136e",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Verner Osgood",
+  "quest": "The Price of Shoes",
+  "en": "I've been using so much iron keeping the Stormwind Guards outfitted, I don't have enough to supply the stable's horses with shoes!\n\nTake this note to Blacksmith Argus in Goldshire. It explains to him my problem and requests a shipment of horseshoes.",
+  "files": [
+   "quests/118-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "ac2b6843de41",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Glowing Shadowhide Pendant",
+  "quest": "Theocritus' Retrieval",
+  "en": "Do not be alarmed. I am Theocritus, High Mage of Tower Azora in Elwynn Forest. The pendant you are holding is a method of communication between the Shadowhide Gnolls and their master, Morganth.\n\nThrough months of research, I believe I too can communicate through these pendants. If you can hear this message, then my spell was a success.\n\nBring me this pendant and I will reward you for the service.",
+  "files": [
+   "quests/178-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "60525abf032e",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Theocritus",
+  "quest": "Theocritus' Retrieval",
+  "en": "You have my gratitude, Adventurer. I sent that message to the Shadowhide Pendants weeks ago and had believed it a failure. But it seems the spell did reach at least some pendants, after a significant delay.\n\nIn time I hope to learn how to send an attack through the pendants, to immobilize any Shadowhide Gnolls who wear them.\n\nBut before that is possible, I'm afraid that much more research is required.",
+  "files": [
+   "quests/178-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "02158739b3ba",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Verner Osgood",
+  "quest": "Underbelly Scales",
+  "en": "I need some underbelly scales from black dragon whelps to pay for the shoes Argus sent me from Goldshire. If you can get 6 of them for me, then I can pay Argus with some... and have enough left to fashion something for you.\n\nBlack dragon whelps are often flying around south of Lakeshire, but they like to wander. You might have to just keep an eye out and hunt them when you see them.",
+  "files": [
+   "quests/122-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "d544b8c00e77",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Verner Osgood",
+  "quest": "Underbelly Scales",
+  "en": "Thanks! These will get me out of debt to Argus...",
+  "files": [
+   "quests/122-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "71d837fc59e3",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Guard Parker",
+  "quest": "Visit the Herbalist",
+  "en": "Before you go back to Darcy, can you bring her some flowers for me? You can get them at the herbalist shop back in Lakeshire, at the west end of town.\n\nBut when you get the flowers...don't tell the herbalist, Martie, whom they're from, or whom they're for...",
+  "files": [
+   "quests/130-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "97d517253f75",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Martie Jainrose",
+  "quest": "Visit the Herbalist",
+  "en": "You need a bouquet of flowers? You haven't been in town very long...have you already found for yourself a sweetheart here?\n\nI know I shouldn't pry, but it's nice to see that love is in the air... especially in dangerous times like these.",
+  "files": [
+   "quests/130-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "87be99b3afe5",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Solomon",
+  "quest": "WANTED: Incinerator Gar'im",
+  "en": "Excellent work, Eraina! Incinerator Gar'im was preparing to bolster the defenses at Stonewatch Keep. With this victory, we may yet succeed in reclaiming the keep!",
+  "files": [
+   "quests/95999-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "0eed993970e5",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Solomon",
+  "quest": "Wanted: Gath'Ilzogg",
+  "en": "Fantastic work, Adventurer! Gath'Ilzogg led those brutes into battle, killing many innocent humans. Vindication is ours. This is the first step in reclaiming the keep for the kingdom of Stormwind!",
+  "files": [
+   "quests/169-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "3a71019d9279",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wanted: Gath'Ilzogg",
+  "quest": "Wanted: Gath'Ilzogg",
+  "en": "Wanted! Gath'Ilzogg, Leader of the Blackrock attacks on Stonewatch Keep and raids against the township of Lakeshire. \n\nGath'Ilzogg is extremely dangerous. He is reportedly holed up in the recently conquered keep plotting the Blackrock clan's further crimes against humanity. The orc infestation must be quelled at all costs. A gracious reward will be given to whatever brave soul can deliver the head of Gath'Ilzogg to Magistrate Solomon.",
+  "files": [
+   "quests/169-accept"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "b453f74a307f",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Solomon",
+  "quest": "Wanted: Lieutenant Fangore",
+  "en": "So the evil Lieutenant Fangore is dead? Good riddance to that foul creature. You are very brave, adventurer. The Township of Lakeshire thanks you for your aid.",
+  "files": [
+   "quests/180-complete"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "3c74db5de572",
+  "zone": "redridge-mountains",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wanted: Lieutenant Fangore",
+  "quest": "Wanted: Lieutenant Fangore",
+  "en": "Wanted: Lieutenant Fangore\n\nKnown leader of the Shadowhide Gnoll Clan, working under the enemy of the Township and Kingdom, Morganth. By mandate of Magistrate Solomon, this vile betrayer of Stormwind is wanted dead. Show his paw to the Magistrate as proof of his death.",
+  "files": [
+   "quests/180-accept"
+  ],
+  "uiMap": 1433
+ }
+]

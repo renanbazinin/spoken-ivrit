@@ -1,0 +1,2259 @@
+[
+ {
+  "id": "e69b7229d56c",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Damp Note",
+  "quest": "Allegiance to the Old Gods",
+  "en": "Some poor handwriting is scrawled on the crumpled up note:\n\n\"Yes, tell all the priestesses to bring the crystals to me. The water elemental spirits are strong within them and they will aid our aquamancers greatly in their own summonings.\n\nBy controlling the power within the crystals, we will appease Aku'Mai. One day we will have enough power to bring Aku'Mai back to us and the world will return to its greatest era! An era of rule by the Old Gods!\"",
+  "files": [
+   "quests/6564-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "f0c89d5d1380",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Je'neu Sancrea",
+  "quest": "Allegiance to the Old Gods",
+  "en": "This is interesting indeed. I am glad you have brought it to my attention.\n\nNow we have a name for our troubles... Lorgus Jett.",
+  "files": [
+   "quests/6564-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "7e3d591a7946",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Je'neu Sancrea",
+  "quest": "Allegiance to the Old Gods",
+  "en": "This Twilight's Hammer follower cannot be allowed to complete his plan. The Twilight's Hammer do not understand the spirits of nature. They believe in the Old Gods--creatures of chaos and destruction that were long ago defeated. This Lorgus cannot be allowed to succeed. You must stop him, Adventurer. I cannot do it myself--I am too weak.\n\nGo into Blackfathom Deeps, find him, and kill him. Return to me here at Zoram'gar when it's done.",
+  "files": [
+   "quests/6565-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "d6fb66e0c267",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Je'neu Sancrea",
+  "quest": "Allegiance to the Old Gods",
+  "en": "Very good!! Thank you, Adventurer. We may not have stopped the Twilight's Hammer completely, but at least you have staved off another of their plans to return the Old Gods to power.\n\nWho knows what other plans they have manifesting, but we can rest easy for now.",
+  "files": [
+   "quests/6565-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "16ea21e6de16",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Je'neu Sancrea",
+  "quest": "Amongst the Ruins",
+  "en": "The Twilight's Hammer has moved into the Moonshrine Ruins of Blackfathom Deeps. Their presence can only serve to coerce the elements into working against us. If left unchecked, this region will be theirs for good.\n\nAdventurer, go into Blackfathom and find the ruin's fathom stone; it should be somewhere close in the water. In it is a fathom core - a device that when properly read it will relate a history of all elemental activity. If I have it, I and the Earthen Ring can maybe do something to stop them!",
+  "files": [
+   "quests/6921-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "6b17d55a8175",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Je'neu Sancrea",
+  "quest": "Amongst the Ruins",
+  "en": "This is exactly what I need! A fathom core is an incredible well of information that we will be able to draw much good from. Whatever the Twilight's Hammer is up to in there - and believe me when I say it is no good - my comrades and I will now uncover.\n\nYou've done well here today; the Earthen Ring looks upon you warmly for assisting us. You've also helped the Horde as a whole, and for that you should be proud.",
+  "files": [
+   "quests/6921-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "fc207420669d",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Raene Wolfrunner",
+  "quest": "An Aggressive Defense",
+  "en": "Before you travel to the moonwell I have another task that will aid the people of Ashenvale if you would like to test your skills.\n\nAlong the road heading east before the Falfarren River, furbolgs have been attacking travelers. Their tortured minds feeding upon fear, and their appetites satiated by the blood of innocents.\n\nAid the Sentinels in protecting the lands by showing those monsters the same mercy they have shown our kind.\n\nI believe their camps are south of the road... be careful.",
+  "files": [
+   "quests/1025-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "c23692e77e9a",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Raene Wolfrunner",
+  "quest": "An Aggressive Defense",
+  "en": "You have done well, Adventurer. Thank you.",
+  "files": [
+   "quests/1025-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "6d6750f49403",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Jonathan Carevin",
+  "quest": "Answered Questions",
+  "en": "We shall rein in the worgen problem, have no worry of that. This evil that your friend introduced to our woods will be contained, and I bear her no ill will for her actions. Strange events are afoot in these times, adventurer, and the darkness knows no respite.\n\nI will keep you no longer. I suspect that there are others that should hear of what you have found in the mines of Duskwood.",
+  "files": [
+   "quests/1044-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "141e5fcc7a04",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Thyn'tel Bladeweaver",
+  "quest": "Answered Questions",
+  "en": "So this is the fate of Velinde, is it? The high priestess will be disappointed to hear of this, they were good friends before her disappearance. Still, the Scythe of Elune was surely granted to her as a boon by our goddess, and it is unsettling to me that it has fallen out of her servants' hands.\n\nAnother matter for another time, however. I owe you my thanks in no small amount for what you have accomplished.",
+  "files": [
+   "quests/1044-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "1b677da41a91",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Kuray'bin",
+  "quest": "Ashenvale Outrunners",
+  "en": "We received reports that Ashenvale outrunners left Silverwing Outpost not long ago, and now sneak near our territories in the forest. We don't want them gathering intelligence on our defenses!\n\nSneak through the forests south of our post here and east of the Alliance outpost of Silverwing. Find and slay the outrunners, then return to me.",
+  "files": [
+   "quests/6503-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "fe367a6bf4b5",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Kuray'bin",
+  "quest": "Ashenvale Outrunners",
+  "en": "Very good, Adventurer. Your hunting skills are impressive...\n\nThe loss of those outrunners helps blind the Alliance, and when they lack intelligence they are less likely to launch attacks.",
+  "files": [
+   "quests/6503-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "29d16fe7f5ce",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Je'neu Sancrea",
+  "quest": "Baron Aquanis",
+  "en": "This... this is quite the find, Adventurer.\n\nYou acquired this from Baron Aquanis in Blackfathom, you say? Baron Aquanis has long been thought of as a corrupted elemental power; this globe will prove what exactly had corrupted him. While it would be no surprise if it turned out to be the Twilight's Hammer, our studies will also show how they did it as well.\n\nYou did well in bringing this to me. Please - take this, along with the Earthen Ring's warmest regards.",
+  "files": [
+   "quests/909-complete",
+   "quests/6922-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "1de631ba4785",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Strange Water Globe",
+  "quest": "Baron Aquanis",
+  "en": "The defeated water elemental has left behind a strange water globe. You surmise that the object somehow fed the beast energy. Inside the globe, a putrid-looking form of water sloshes about. The globe itself seems impervious to any sort of physical force.\n\nIf anyone can make any sense of this item, it would be Je'neu Sancrea of the Earthen Ring. He is located at the Horde's Zoram'gar Outpost in Ashenvale.",
+  "files": [
+   "quests/6922-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "27ed89d32b86",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Orendil Broadleaf",
+  "quest": "Bathran's Hair",
+  "en": "The mixture is finished, adventurer. Now we must save the child.",
+  "files": [
+   "followup/1308-nightelf-male-official"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "b8774cf677b1",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Orendil Broadleaf",
+  "quest": "Bathran's Hair",
+  "en": "There is a plant that once grew in the old ruins of Bathran's Haunt to the north. The plant was called Bathran's Hair and was known to cure ailments of the spirit.\n\nThere is a sick child in the village, and I believe it is more than just a physical illness. Will you go to Bathran's Haunt and search it for Bathran's Hair? I may need it to properly treat the child.\n\nBathran's Haunt lies north of Maestra's Post and just south of the border to Darkshore.",
+  "files": [
+   "quests/1010-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "899cc740fdaf",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Orendil Broadleaf",
+  "quest": "Bathran's Hair",
+  "en": "Ah, you have the hair! Now I will mix a cure for the child, and pray my concoction works.\n\nAnd... Forsaken are at Bathran's Haunt? Very troubling to hear, that is. Very troubling indeed...",
+  "files": [
+   "quests/1010-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "9f7a5f9f49ee",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Karang Amakkar",
+  "quest": "Between a Rock and a Thistlefur",
+  "en": "The Thistlefur furbolgs are threatening our expansion! Thistlefur Village to our east blocks the way between us here and the Splintertree Post. It's a path that would circumvent the village of Astranaar; without it, we give the Alliance an extra expansion path.\n\nAdventurer, we must not allow... an expansion path gap!\n\nProceed to Thistlefur Village and thin out the furbolgs. You will be given compensation for this task, but more importantly you will be doing your duty for the Horde!",
+  "files": [
+   "quests/216-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "ec11e32198ae",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Karang Amakkar",
+  "quest": "Between a Rock and a Thistlefur",
+  "en": "Well done adventurer, well done! I will continue to send forces to thin out the furbolg, but I can at least count on a different path that will be free of Alliance entanglements. The Horde conquest of Ashenvale is now in full swing!\n\nYou've earned your pay this day, hero. I salute you!",
+  "files": [
+   "quests/216-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "0b62d7afa40e",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Argent Guard Thaelrid",
+  "quest": "Blackfathom Villainy",
+  "en": "Strength has left me. Your help is needed!\n\nLong ago this site was a great temple of Elune. But misfortune led to ruin when the corruption of an Old God seeped up from beneath the earth and tainted the sacred Moon Well.\n\nAku'Mai, servant of the Old God, rose from the waters.\n\nThe Twilight's Hammer cultists have allied with the naga to occupy these grounds. The cultists, led by Kelris, sacrifice innocents to Aku'Mai for power.\n\nSlay Kelris and bring his head to Selgorm in Darnassus, Adventurer, please.",
+  "files": [
+   "quests/1200-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "eb6c93c5a308",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Argent Guard Thaelrid",
+  "quest": "Blackfathom Villainy",
+  "en": "Strength has left me. Your help is needed!\n\nLong ago this site was a great temple of Elune. But misfortune led to ruin when the corruption of an Old God seeped up from beneath the earth and tainted the sacred Moon Well.\n\nAku'Mai, servant of the Old God, rose from the waters.\n\nThe Twilight's Hammer cultists have allied with the naga to occupy these grounds. The cultists, led by Kelris, sacrifice innocents to Aku'Mai for power.\n\nSlay Kelris and bring his head to Bashana in Thunder Bluff, Adventurer, please.",
+  "files": [
+   "quests/6561-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "1e56706ef434",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Bashana Runetotem",
+  "quest": "Blackfathom Villainy",
+  "en": "Kelris has eluded the Argent Dawn for some time.\n\nFor some time they considered him dead or missing.\n\nBy ending his reign you have spared the lives of many innocent people, Adventurer.\n\nEarthmother be praised! To sacrifice another to a servant of an Old God for personal gain is beyond disgusting!\n\nYou have done a great thing this day. Kelris was a creature of evil and sought to bring the world back to a time of chaos by worshipping such creatures as the Old Gods. Thank you, Adventurer.",
+  "files": [
+   "quests/6561-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "d9a91f4b561f",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Dawnwatcher Selgorm",
+  "quest": "Blackfathom Villainy",
+  "en": "Kelris has eluded us for quite some time.\n\nIt seems as though whenever evil made its presence known in these parts, Kelris had played a role. For some time we considered him dead or missing.\n\nBut this makes perfect sense. By ending his reign you have spared the lives of many innocent people.\n\nBy the light! To sacrifice someone to a servant of an Old God for one's personal gain is beyond reproachful!\n\nYou have done a great deed, adventurer. I salute you on behalf of the Argent Dawn.",
+  "files": [
+   "quests/1200-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "3441484798a3",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Raene Wolfrunner",
+  "quest": "Culling the Threat",
+  "en": "Directly to the north of Astranaar are the Thistlefur furbolg. My scouts report that their numbers have grown greatly over the past few months. If they grow too great, they may find the courage to attack Astranaar directly.\n\nKill as many of their kind as you can, but bring me their chieftain's skull as proof that their efforts have been stifled... for now.\n\nI shall remain here in Astranaar and await word from you. Elune be with you.",
+  "files": [
+   "quests/1054-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "9cc1f520a59a",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Raene Wolfrunner",
+  "quest": "Culling the Threat",
+  "en": "Well done, Adventurer.\n\nWe are under constant threat from the furbolg. Hopefully this will keep them at bay for a bit longer.",
+  "files": [
+   "quests/1054-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "be88ecb176dc",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Velene Starstrike",
+  "quest": "Elemental Bracers",
+  "en": "Take this divining scroll--it can determine the creator of these elementals. But you will need something from them to use as a reagent to focus scroll's magic--their bracers should do nicely.\n\nA few intact bracers from the creatures should be enough. The other bracers will be useless for our purposes, but they may be worth something to a merchant if you wish to sell them. Once you have the intact bracers attempt to use the scroll. Return to me with the results and we shall proceed from there.",
+  "files": [
+   "quests/1016-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "b8dd419e2e1f",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Velene Starstrike",
+  "quest": "Elemental Bracers",
+  "en": "Well done, Adventurer, this should give us the information we need to have the culprit discovered. How would you feel about taking out the mage who fills our pools with corrupt elementals? The corruption of Ashenvale and beyond makes my stomach turn on its own--to have a wizard actively attempting to destroy it further sickens me to no end. We shall make him pay.",
+  "files": [
+   "quests/1016-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "51e23b7a2b42",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Pelturas Whitemoon",
+  "quest": "Elune's Tear",
+  "en": "Eat this, my daughter. It will help you feel better.",
+  "files": [
+   "followup/1439-nightelf-male-official"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "416b9cc221bc",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Pelturas Whitemoon",
+  "quest": "Elune's Tear",
+  "en": "There you go...",
+  "files": [
+   "followup/1440-nightelf-male-official"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "1f211eb67b07",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Pelturas Whitemoon",
+  "quest": "Elune's Tear",
+  "en": "I had hoped Orendil's cure would save Relara, but I fear it only slowed the disease running through my child. We must find more powerful medicine! Thankfully, Orendil spoke to me of further remedies to try should his first one fail.\n\nElune's Tear is a type of stone that rests in only one place: the isle on Iris Lake, east of Astranaar. Orendil said the stone will wash away corruption... please, Adventurer, bring me Elune's Tear and pray it will end my child's sickness!",
+  "files": [
+   "quests/1033-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "57e8dfc44609",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Pelturas Whitemoon",
+  "quest": "Elune's Tear",
+  "en": "Oh, you found it! I will place the tear in a stew, and pray that it will cure her.\n\nThank you! Thank you, Adventurer!",
+  "files": [
+   "quests/1033-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "807d3501e3b6",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Relara Whitemoon",
+  "quest": "Elune's Tear",
+  "en": "Mmmmh...",
+  "files": [
+   "followup/1442-nightelf-female-standard"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "6e3fbf758385",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Pelturas Whitemoon",
+  "quest": "Fallen Sky Lake",
+  "en": "Here you are, Relara. Drink this...",
+  "files": [
+   "followup/1347-nightelf-male-official"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "d50df17c182f",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Pelturas Whitemoon",
+  "quest": "Fallen Sky Lake",
+  "en": "Relara... you're awake?",
+  "files": [
+   "followup/1350-nightelf-male-official"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "4269f6e4f6e3",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Pelturas Whitemoon",
+  "quest": "Fallen Sky Lake",
+  "en": "Rest now, my daughter.",
+  "files": [
+   "followup/1351-nightelf-male-official"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "84f48c336319",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Pelturas Whitemoon",
+  "quest": "Fallen Sky Lake",
+  "en": "Relara's fever has passed, but she is still very weak. I do not believe time alone will give her back the strength she has lost. I believe it will take the power of a moonstone.\n\nWe used to gather moonstones at Fallen Sky Lake to the southeast... until the Shadethickets came.\n\nTheir leader, a Shadethicket Oracle, gathered up all the fallen moonstones and hoards them. Now, you must retrieve a moonstone from the Oracle.\n\nAnd to do that, I fear that you must slay him.",
+  "files": [
+   "quests/1035-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "a2fe73f5fc27",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Pelturas Whitemoon",
+  "quest": "Fallen Sky Lake",
+  "en": "Oh, Adventurer, you have saved my daughter! I know the power of the moonstone will give back my daughter her strength!\n\nI can never repay you fully for the aid you have given me, but... please, take this. Other than Relara, it is my most dear possession.",
+  "files": [
+   "quests/1035-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "8955c042cc1e",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Relara Whitemoon",
+  "quest": "Fallen Sky Lake",
+  "en": "Mmh... my eyes are not so heavy now, father. Can we go out and play?",
+  "files": [
+   "followup/1349-nightelf-female-standard"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "4e63de5235e6",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Kayneth Stillwind",
+  "quest": "Forsaken Diseases",
+  "en": "Uh... the disease is potent. And it attacks the mind...",
+  "files": [
+   "followup/1316-nightelf-male-official"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "7022ac745758",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Kayneth Stillwind",
+  "quest": "Forsaken Diseases",
+  "en": "I must... RESIST!",
+  "files": [
+   "followup/1318-nightelf-male-official"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "c1fa140305fc",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Kayneth Stillwind",
+  "quest": "Forsaken Diseases",
+  "en": "I have survived the poisons of the Forsaken, adventurer, and I know now what must be done.",
+  "files": [
+   "followup/1319-nightelf-male-official"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "94747ec42353",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Kayneth Stillwind",
+  "quest": "Forsaken Diseases",
+  "en": "The Forsaken, the undead arm of the Horde, have crept into Ashenvale, lurking at our ruins and our barrows. We believe their goal is to spread disease amongst the lands of the night elves. We must confirm this!\n\nThe Forsaken have a camp south of here, near the Dor'Danil Barrow Den, where they create poisons and diseases and place them in bottles. Fight your way into that camp and steal a bottle of disease. Return with such a bottle. I will test it and find its purpose.",
+  "files": [
+   "quests/1011-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "4482b7e126e3",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Kayneth Stillwind",
+  "quest": "Forsaken Diseases",
+  "en": "Very good, Adventurer. Now... by testing the contents of this bottle, the goals of the Forsaken will be revealed!",
+  "files": [
+   "quests/1011-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "ccb2b27ac620",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Ruul Snowhoof",
+  "quest": "Freedom to Ruul",
+  "en": "Eh? Who are you?\n\nAdventurer? You're no furbolg. They are cursed! They thought I was a bear and captured me, and now they starve me! My strength is failing...\n\nHelp me escape, then speak with my sister Yama at the Splintertree Post to the east.\n\nAdventurer! I must escape!",
+  "files": [
+   "quests/6482-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "b7e38fac8348",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Yama Snowhoof",
+  "quest": "Freedom to Ruul",
+  "en": "You found my brother! He was captured by the Thistlefurs? That is terrible news to hear, for although many Furbolgs are noble creatures, the Thistlefurs are corrupt.\n\nThank you for rescuing my brother, Adventurer. I do not want to think of how they treated poor Ruul. He will likely sleep long after this ordeal...",
+  "files": [
+   "quests/6482-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "fae8a11f83c7",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Maliynn",
+  "quest": "Gleaming Crescent Necklace",
+  "en": "Oh my! I can't believe you found this. I thought I had looked everywhere!\n\nI had lost it when I went to deliver supplies to one of our outposts, but after searching along the road I had given up.\n\nThank you for bringing this back to me. It was a gift from my late parents, and I can't express how much it means to have it back.",
+  "files": [
+   "quests/98027-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "f39803698fa8",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Argent Guard Thaelrid",
+  "quest": "In Search of Thaelrid",
+  "en": "Dawnwatcher Shaedlass was good to send you. There is indeed a wicked plot underway in this corrupted place.",
+  "files": [
+   "quests/1198-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "368f2f87a5fa",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dawnwatcher Shaedlass",
+  "quest": "In Search of Thaelrid",
+  "en": "Many rumors circulate these days about the union of the Twilight's Hammer and the naga in Blackfathom Deeps on the coasts of Ashenvale.\n\nMy role here with the Argent Dawn is to collect as much information as I can, so we know when and where help is needed.\n\nIt has been weeks now since I sent a scout to check on the activity at Blackfathom Deeps. Argent Guard Thaelrid has not yet reported back.\n\nMy other scouts are preoccupied with pressing matters.\n\nSeek out and aid Thaelrid for me, adventurer.",
+  "files": [
+   "quests/1198-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "460bf364cdfa",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Kayneth Stillwind",
+  "quest": "Insane Druids",
+  "en": "When I struggled with the Forsaken's poisons, I had a vision. I had a vision of the druids in the Dor'danil Barrow Den, poisoned... murdered by the undead! They are now errant ghosts, severed from their bodies and driven mad.\n\nSo that the druids' spirits might some day find peace, you must enter the Dor'danil Barrow Den and destroy its once great leaders: Taneel Darkwood, Uthil Mooncall and Mavoris Cloudsbreak.\n\nDo this, then return to me.",
+  "files": [
+   "quests/1012-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "102366be86d8",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Kayneth Stillwind",
+  "quest": "Insane Druids",
+  "en": "I felt the anguish of the Dor'danil Barrows lessen, and knew you had completed your task.\n\nIt was grim work you did, Adventurer, for the spirits you destroyed were merely victims of the Forsaken's evil. But with their destruction, let us hope the other maddened spirits find peace.",
+  "files": [
+   "quests/1012-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "cb1e23868f1e",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Je'neu Sancrea",
+  "quest": "Je'neu of the Earthen Ring",
+  "en": "This globe... it is most disturbing. Many of the more powerful elementals receive their power and energy through such devices. To find one like this nearly intact is one thing - to find it so tainted is another.\n\nI will see that this globe is studied properly by the Earthen Ring. Perhaps we can bring an end to this corruption of the elements. Please - accept this as a fair exchange for bringing this globe to the attention of the Earthen Ring.",
+  "files": [
+   "quests/824-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "fe8c9af1ff5d",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mastok Wrilehiss",
+  "quest": "Je'neu of the Earthen Ring",
+  "en": "The Earthen Ring is a shamanistic group dedicated to studying and preserving the elements. They have forgotten more about crazy old gods, ancient legends and lore than most scholars will ever know.\n\nLucky for you, I know someone in the Earthen Ring here in Ashenvale. Head over to Zoram'gar Outpost on the coast of the Zoram Strand; show Je'neu Sancrea what you found. If anyone can figure out that globe's significance, it'd be him.",
+  "files": [
+   "quests/824-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "bc6651458267",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Faldreas Goeth'Shael",
+  "quest": "Journey to Stonetalon Peak",
+  "en": "The forest spirits tell me you are brave and willing to travel.\n\nTo the south, not far from Mystral Lake, there lies a tunnel named The Talondeep Path. Through this tunnel you will come to an area known as Windshear Crag in the Stonetalon Mountains. Once there, journey to the southwest past Cragpool Lake and then north, up the steep slope until you reach Stonetalon Peak.\n\nThere awaits Keeper Albagorm. Heed his bidding, traveler.\n\nThe journey will be perilous.",
+  "files": [
+   "quests/1056-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "2023f3c872cb",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Kayneth Stillwind",
+  "quest": "Kayneth Stillwind",
+  "en": "Ah, Shindrell's report! Many thanks, Adventurer. Shindrell is a fine sentinel, brave and keen. I must read this for clues of a wickedness I fear is moving through Ashenvale.",
+  "files": [
+   "quests/4581-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "10d18c53af21",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Shindrell Swiftfire",
+  "quest": "Kayneth Stillwind",
+  "en": "The druid Kayneth Stillwind sent word to me. He would like a report of the happenings along our coast and in the forests surrounding Astranaar. He fears there is a corruption moving through Ashenvale... and he may be right.\n\nHere, take my report to him. You will find him in the shrine of Forest Song, in the Nightsong Woods to the east.",
+  "files": [
+   "quests/4581-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "acf3d6e85b8e",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Karang Amakkar",
+  "quest": "King of the Foulweald",
+  "en": "Adventurer, another tribe of Furbolgs, the Foulweald, live southeast of Astranaar. They are not as many as the Thistlefur, but their ferocity poses a future threat. With a show of force, we can remove that threat.\n\nTake this banner, go to the Foulweald village and place it on their totem mound. They will try to destroy the banner, but hold your ground until their chief, Murgut, appears to save face for the tribe. Bring me the totem he carries.\n\nGather your allies, Adventurer. This is no task for a single adventurer.",
+  "files": [
+   "quests/6621-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "75bd0be215d0",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Karang Amakkar",
+  "quest": "King of the Foulweald",
+  "en": "Good work, Adventurer. Issuing that challenge to the Foulwealds and defeating their leader sends them a strong message:\n\nThe Horde is not to be trifled with.\n\nI don't believe that tribe will giving us much trouble for a long time.",
+  "files": [
+   "quests/6621-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "18c495f2d063",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gerrig Bonegrip",
+  "quest": "Knowledge in the Deeps",
+  "en": "As you might know, I collect lore. Old lore. Powerful lore. Lore that opens doorways, and lore that can awaken Those Who Sleep.\n\nThere are rumors of an old piece of lore, the Lorgalis Manuscript, at the bottom of Blackfathom Deeps in Ashenvale. That place is the old dwelling of long-dead elves. Elves who held great knowledge before their city fell to ruin.\n\nSearch Blackfathom Deeps for the manuscript. Do this, and I will not forget it. Not even after ... the end days.",
+  "files": [
+   "quests/971-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "86de7a170c3b",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gerrig Bonegrip",
+  "quest": "Knowledge in the Deeps",
+  "en": "You found the manuscript! What a joyous day this is! Copies will be made and distributed, and the ancient knowledge of Lorgalis will finally be known to my brothers and sisters!\n\nYour service to us is more than you know, Adventurer. But I hope that this gift shows you the gratitude we extend to our allies.",
+  "files": [
+   "quests/971-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "5ea821a8a585",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Velene Starstrike",
+  "quest": "Mage Summoner",
+  "en": "There's only one undead mage in the Barrens capable of defiling this many water elementals. He's also the only one foolish enough to try. Sarilus Foulborne is probably sitting at the top of Dreadmist Peak, laughing at me.\n\nadventurer, you must go into enemy territory and destroy this miscreant. I have had enough of his idiocy and we must show him what happens to those who annoy the Sentinels.\n\nDestroy him and bring me his head. Be wary though, the Horde may be watching for you.",
+  "files": [
+   "quests/1017-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "fb93fc2a3fd2",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Velene Starstrike",
+  "quest": "Mage Summoner",
+  "en": "Now I can see that repugnant smile wiped from his face forever. You have done very well, adventurer. Take this, the Light of Elune, drink of it when all seems lost and death is near. It may save you, Goddess willing.",
+  "files": [
+   "quests/1017-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "04b3264c3b2c",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Marukai",
+  "quest": "Naga at the Zoram Strand",
+  "en": "There is evil lurking here along the coast, traveler.\n\nIt is the resting place of the doomed city of Zoram, long destroyed and submerged beneath the seas. Lost, and nearly forgotten.\n\nNow, the naga have returned, and for what reason we do not know. But reason matters little; we must defend the land we have worked so hard to claim as our own.\n\nReturn to me with 20 of their heads! Throw the naga back to the depths!",
+  "files": [
+   "quests/6442-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "5c5bcab24dcb",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Marukai",
+  "quest": "Naga at the Zoram Strand",
+  "en": "We could use more of your kind around here, Adventurer. Thank you for your help.",
+  "files": [
+   "quests/6442-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "3028f2489c89",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gaxim Rustfizzle",
+  "quest": "On Guard in Stonetalon",
+  "en": "Treacherous... treacherous and dangerous, that's what this land is.\n\nBut I'm here to show the night elves that it's a little safer with the help of good ole engineering and a dash of magic.\n\nSee, swearing off magic completely won't help the night elves--they need it. The world needs it. And with engineering and alchemy to boot, you can't go wrong. The possibilities are endless.",
+  "files": [
+   "quests/1085-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "143c8f084409",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Kaela Shadowspear",
+  "quest": "On Guard in Stonetalon",
+  "en": "Ah, you've come from Ashenvale at the behest of Tara--how I miss her, my homeland and friends. She must be doing well with the Sentinels to be sequestering adventurers for other tasks. I'm proud of her.\n\nIt is a pleasure to meet you, Adventurer.",
+  "files": [
+   "quests/1070-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "c4d4696e8f4f",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Kaela Shadowspear",
+  "quest": "On Guard in Stonetalon",
+  "en": "The situation here in Stonetalon is obviously grave for a night elf and gnome to be working together.\n\nThe Venture Co. has devastated these lands and I've spent most of my time putting an end to the destruction.\n\nDo not judge Gaxim prematurely; he understands the need for us to work together.\n\nIf you wish to aid us, then start by speaking to Gaxim.\n\nI'm sorry I cannot send you back to Tara with good news yet. Perhaps soon.",
+  "files": [
+   "quests/1085-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "28881cdb9d31",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Thenysil",
+  "quest": "On Guard in Stonetalon",
+  "en": "Hello, Adventurer.\n\nYou seem to be full of wanderlust by the looks of you. Have you been to the Stonetalon Mountains? It is a land plagued by the Venture Co. and other enemies of the night elves.\n\nRecently, Sentinel Wolfrunner sent my friend Kaela Shadowspear there to investigate what's happening to the land, but I have yet to hear word back from her. I'm even more concerned because the Alliance sent a gnome mage along with her... a sign of trouble for sure.\n\nWould you find her and report back to me?",
+  "files": [
+   "quests/1070-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "b5f4caffeca1",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Orendil Broadleaf",
+  "quest": "Orendil's Cure",
+  "en": "Adventurer, I have created a cure that I believe will help the afflicted child. Take it to Astranaar and give it to the child's parent, Pelturas Whitemoon.\n\nTo reach Astranaar, follow the road south, then east.",
+  "files": [
+   "quests/1020-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "c6f135454a8e",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Pelturas Whitemoon",
+  "quest": "Orendil's Cure",
+  "en": "Here you are, Relara. Take this...",
+  "files": [
+   "followup/1335-nightelf-male-official"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "8e5ae3914aff",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Pelturas Whitemoon",
+  "quest": "Orendil's Cure",
+  "en": "What?",
+  "files": [
+   "followup/1338-nightelf-male-official"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "e03be1e74b6e",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Pelturas Whitemoon",
+  "quest": "Orendil's Cure",
+  "en": "You're awake?? Your cure must have worked! Thank you, adventurer.",
+  "files": [
+   "followup/1339-nightelf-male-official"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "56de3e9d4d94",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Pelturas Whitemoon",
+  "quest": "Orendil's Cure",
+  "en": "This is from Orendil?\n\nHis skill with herbs and healing is great. This cure gives me hope, when before I had little...",
+  "files": [
+   "quests/1020-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "e8af805a970e",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Relara Whitemoon",
+  "quest": "Orendil's Cure",
+  "en": "Uh... Father...? Are you there? I'm hungry... can I have some stew?",
+  "files": [
+   "followup/1337-nightelf-female-standard"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "43210a02d99c",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kelm Hargunth",
+  "quest": "Outrider Advanced Care Package",
+  "en": "You've certainly begun to prove yourself to us, Adventurer. As a reward, please take this care package! Inside it you'll find rations and bandages that are usable only inside Warsong Gulch.\n\nAs you continue to prove yourself inside the Gulch, you'll find that these items will become available to you for purchase. Rations become available when you are Friendly with us, and bandages when you are Honored.",
+  "files": [
+   "quests/7868-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "b2f059e2cc4f",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kelm Hargunth",
+  "quest": "Outrider Basic Care Package",
+  "en": "You've certainly begun to prove yourself to us, Adventurer. As a reward, please take this care package! Inside it you'll find rations and bandages that are usable only inside Warsong Gulch. \n\nAs you continue to prove yourself inside the Gulch, you'll find that these items will become available to you for purchase. Rations become available when you are Friendly with us, and bandages when you are Honored.",
+  "files": [
+   "quests/7866-complete",
+   "quests/7867-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "8f4a95d6a13f",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Caravaneer Ruzzgot",
+  "quest": "Passage to Booty Bay",
+  "en": "Yes? Now, it doesn't look to me like you're the sort with goods that need shipping, so either you're looking for a job with my caravan--and there's no jobs to be had now--or you're probably talking to the wrong goblin.\n\nSo which one is it?",
+  "files": [
+   "quests/1040-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "dc0480a077d3",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wharfmaster Dizzywig",
+  "quest": "Passage to Booty Bay",
+  "en": "Ah yes, finally found it. Should have told me she passed through here that long ago. Let's see.\n\nVelinde. Booked passage to Booty Bay on the Black Osprey. I don't have anything here saying otherwise, so I'd assume it arrived in port safely.\n\nNot much more help I can be to you, but she asked about overland travel over on that side of the world, and I mentioned Ruzzgot, a caravan driver based out of Booty Bay. Might be that this Velinde traveled with him.\n\nMove along, now. I haven't all day for you.",
+  "files": [
+   "quests/1040-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "5ce8910f8f30",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Shindrell Swiftfire",
+  "quest": "Pridewings of Stonetalon",
+  "en": "We are not in open war with the Horde, but our peace is fragile. We often find their agents moving against us, but they do so covertly.\n\nOne such advance was revealed to us from hidden sources in Theramore, claiming that the orcs collect venom from the pridewings near Mirkfallon Lake, in the Stonetalon Mountains to the south. Orc assassins then use the venom on their secret death raids against the Alliance!\n\nIf this is true, then we must stop them, Adventurer. We must deny them their source of venom.",
+  "files": [
+   "quests/1134-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "1a082d21a9dc",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Shindrell Swiftfire",
+  "quest": "Pridewings of Stonetalon",
+  "en": "Thank you, Adventurer. It saddens me to order the slaughter of creatures who may not willingly aid our enemies, yet it is my duty to do so.\n\nYour heart might weep for the pridewings you slew, my friend, but may your heart then swell in knowing that your allies are safe from the pridewings' venom.",
+  "files": [
+   "quests/1134-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "0991e55e9b62",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Hidden Shrine",
+  "quest": "Raene's Cleansing",
+  "en": "After the glow dies, you can see the re-enchanted rod within the shrine's basin.",
+  "files": [
+   "quests/1028-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "c48d508cd1a2",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Hidden Shrine",
+  "quest": "Raene's Cleansing",
+  "en": "The rod, now complete, lies in your hands. Shael'dryn will want to hear of your success.",
+  "files": [
+   "quests/1055-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "6347d03849a4",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Raene Wolfrunner",
+  "quest": "Raene's Cleansing",
+  "en": "This is terrible, Adventurer. Teronis is dead?!\n\nThe time for mourning will come, but for now we must focus our efforts. I shall send some of the Sentinels to recover Teronis' body as soon as possible.\n\nYou have Teronis' journal and the gem he was seeking. Do you think you're capable of completing his task? I would rest much better knowing his death was not in vain.",
+  "files": [
+   "quests/1023-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "453dcd111b91",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Raene Wolfrunner",
+  "quest": "Raene's Cleansing",
+  "en": "You'll have to do the research yourself, but from what notes Teronis has made, it sounds like your next course of action is to find the other pieces of the rod Dartol created. I would start by heading to the moonwell east of Iris Lake. When you're ready, follow the road and turn north when you reach a small sitting area on your left.\n\nA dryad there named Shael'dryn is better suited to guide you. Seek her out.\n\nKeep the gem with you--Shael'dryn will need it if she's to help you recreate the rod.",
+  "files": [
+   "quests/1024-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "014090de6313",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Raene Wolfrunner",
+  "quest": "Raene's Cleansing",
+  "en": "You've recreated the rod Teronis had set out to find? That's wonderful to hear.\n\nTeronis would be proud to see his quest is continuing even after his tragic passing.",
+  "files": [
+   "quests/1029-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "edcab1471062",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Raene Wolfrunner",
+  "quest": "Raene's Cleansing",
+  "en": "Alas, I'm not completely certain what he had in mind next.\n\nIf what he said was true about the rod's power, then it will allow you to take on another form altogether. Which form, I do not know.\n\nPerhaps he meant to use its powers to get closer to the tainted furbolgs, but even the uncorrupted creatures would slaughter him were he not careful. Transformed by the rod, Dartol would have to speak to a furbolg who was safe from the effects of Fel Moss.\n\nI would start your search southeast of Mystral Lake.",
+  "files": [
+   "quests/1030-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "93983bc9bf57",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Raene Wolfrunner",
+  "quest": "Raene's Cleansing",
+  "en": "So, this is the skull of the fiercest furbolg threat in Ashenvale?\n\nI am more than pleased with your abilities, Adventurer. The Sentinels cannot thank you enough. I hope we can rely on you again in the future to help our people.\n\nI shall put this skull and Dartol's Rod in a place of reverence for others to see.\n\nTeronis would be proud. Thank you again.",
+  "files": [
+   "quests/1046-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "4acca1698ff8",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Raene Wolfrunner",
+  "quest": "Raene's Cleansing",
+  "en": "Adventurer, a longtime friend of mine is also aiding the Sentinels here in Ashenvale, but he has yet to return.\n\nHe had leads on finding an item that he thought could slow the furbolg attacks on our people--a rod created by a now-dead, evil wizard.\n\nBefore he left here, he mentioned seeking out a gem for the rod.\n\nHe mentioned the gem possibly being hidden at the shrine in Lake Falathim at the base of the mountain to the west. The gem was being held there before it was overrun.\n\nFind my friend, Adventurer, please.",
+  "files": [
+   "quests/991-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "d7ad5888512e",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Teronis' Corpse",
+  "quest": "Raene's Cleansing",
+  "en": "As you rummage through Teronis' belongings, you find a journal that is still in good condition.\n\nYou take the journal and leave Teronis' corpse as is.\n\nThe only thing left to do is find the gem Teronis was seeking. Raene mentioned it being in the area. Perhaps the murlocs have it...",
+  "files": [
+   "quests/1023-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "3b05b0dd32d6",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Teronis' Corpse",
+  "quest": "Raene's Cleansing",
+  "en": "Teronis' body lies broken atop the island. For some unknown reason, the murlocs have left it alone.\n\nThe deep slashes across his corpse obviously came from the weapons and claws of the murlocs.",
+  "files": [
+   "quests/991-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "04740d3a147a",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Gershala Nightwhisper",
+  "quest": "Researching the Corruption",
+  "en": "Foolish blood elves toil with demonic magic. Have they not witnessed what happened with the naga and with the satyrs of Kalimdor?\n\nI fear that the blood elves will meet a similar deformation. Azeroth cannot afford to give birth to another vile race of monsters.\n\nI wish to study the brain stems of the satyr and naga so that I might deduce what fate the elves are headed toward. In Blackfathom Deeps, on the coast of Ashenvale, you will find both satyr and naga.\n\n'Tis a long journey, adventurer.",
+  "files": [
+   "quests/1275-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "be4c9b2f2e23",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Gershala Nightwhisper",
+  "quest": "Researching the Corruption",
+  "en": "You have traveled far and undoubtedly faced great peril.\n\nYour actions have been selfless. 'Tis for the good of all Azeroth that you help me with my research. I thank you, adventurer, for all that you have done.\n\nNow if you'll excuse me I have much work to do....",
+  "files": [
+   "quests/1275-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "b73a3e7c2266",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Talen",
+  "quest": "Ruuzel",
+  "en": "I fear the ancient statuette's secrets will remain forever hidden unless you find the key to its ancient lock.\n\nThat key is a ring, the Ring of Zoram. It belonged to the rulers of this city before the waves of the Sundering drowned it.\n\nFor years the ring was lost, but the naga have recently found it.\n\nTheir leader, Ruuzel, dwells on an isle on the northern edge of Zoram. Please, Adventurer, retrieve the ring for me!",
+  "files": [
+   "quests/1009-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "19b750efc712",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Talen",
+  "quest": "Ruuzel",
+  "en": "You found the ring! Thank you, Adventurer. Please take this as payment, and know that your deeds today will remain forever in my memory.",
+  "files": [
+   "quests/1009-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "7736767685f1",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Pixel",
+  "quest": "Satyr Horns",
+  "en": "Heya! I've been traveling through Ashenvale, heading towards Ratchet, and decided to make a stop here at Splintertree. I'm always looking for an opportunity, and it seems that satyr horns are in high demand in Ratchet these days.\n\nAfter asking around here, it seems that the satyrs in Night Run, Satyrnaar, and Xavian all have the type of horns I am looking for. I'm no match for those satyrs... but you look like you might be!\n\nTell you what, you collect the horns for me and I'll make it worth your time.",
+  "files": [
+   "quests/6441-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "1bc7b7b1686f",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Pixel",
+  "quest": "Satyr Horns",
+  "en": "These are perfect, Adventurer! Thanks for helping me out!\n\nOh, and this is for your time...",
+  "files": [
+   "quests/6441-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "8aab0df2f1d7",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Illiyana Moonblaze",
+  "quest": "Sentinel Advanced Care Package",
+  "en": "You've certainly begun to prove yourself to us, Adventurer. As a reward, please take this care package! Inside it you'll find rations and bandages that are usable only inside Warsong Gulch.\n\nAs you continue to prove yourself inside the Gulch, you'll find that these items will become available to you for purchase. Rations become available when you are Friendly with us, and bandages when you are Honored.",
+  "files": [
+   "quests/7865-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "adb8d83c04fb",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Illiyana Moonblaze",
+  "quest": "Sentinel Basic Care Package",
+  "en": "You've certainly begun to prove yourself to us, Adventurer. As a reward, please take this care package! Inside it you'll find rations and bandages that are usable only inside Warsong Gulch. \n\nAs you continue to prove yourself inside the Gulch, you'll find that these items will become available to you for purchase. Rations become available when you are Friendly with us, and bandages when you are Honored.",
+  "files": [
+   "quests/7863-complete",
+   "quests/7864-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "fd33f60d7dc8",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Senani Thunderheart",
+  "quest": "Shadumbra's Head",
+  "en": "A victory for Adventurer in the Ashenvale Hunt! Well done - the head of Shadumbra is a fitting trophy to claim for such an impressive fight, no doubt.\n\nShadumbra's savagery was well known throughout the post here. Any trip to the west, especially on foot trying to get out to the Zoram Strand, was wrought with danger because of this tiger. Thanks to you, this danger has abated.",
+  "files": [
+   "quests/24-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "db1608802b87",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Shadumbra's Head",
+  "quest": "Shadumbra's Head",
+  "en": "The once swift Shadumbra now lies still as you claim victory over it. The head of the slain nightsaber is a fitting trophy for this fight of the Ashenvale Hunt. Senani Thunderheart at Splintertree Post will want to see such a trophy to award you credit for this part of the Ashenvale Hunt.",
+  "files": [
+   "quests/24-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "da6f4dec7068",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Maseara Autumnmoon",
+  "quest": "Shared Fury",
+  "en": "There was a welling up of... Elune's light within and around me. I feel Kurothel has witnessed your act of battle within this war that rages within our land, and within our hearts.\n\nMy hopes are that with time, the efforts of our Sentinels and our wayward druids will eliminate the demonic menace once and for all. Perhaps then and only then will the feral drive for vengeance burn out from our lineage's heritage.\n\nThank you, Adventurer. You are an ally to the forest, and a friend of the Kaldorei.",
+  "files": [
+   "quests/98418-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "1eee1fa3a8ec",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Senani Thunderheart",
+  "quest": "Sharptalon's Claw",
+  "en": "Most impressive, Adventurer... the claw of Sharptalon could not have been easy to get! The Ashenvale Hunt goes well for you!\n\nSharptalon had long terrorized the peons from the lumber camps near its path as they tried to travel here to Splintertree Post. No doubt once the word gets out that it was you who put down the beast, many rousing songs of your bravery will be heard at campfires and lumber mills across Ashenvale!",
+  "files": [
+   "quests/2-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "5cbc3e722a00",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Sharptalon's Claw",
+  "quest": "Sharptalon's Claw",
+  "en": "The mighty hippogryph Sharptalon has been slain, with the claw of the felled beast serving as a testament to your victory. Senani Thunderheart at the Splintertree Post will no doubt be interested in seeing this trophy as proof of your deeds.",
+  "files": [
+   "quests/2-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "b4dbe240056b",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Shandrina",
+  "quest": "Slowing the Orc Advance",
+  "en": "Excellent work, Adventurer.\n\nI deplore the situation that requires us to resort to this kind of violence, but if the orcs aren't stopped, they'll invade Astranaar and cut down the whole wood. At least we can reuse the metal of their crude weapons to make defenses of our own.",
+  "files": [
+   "quests/86757-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "d05a61814b7e",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mastok Wrilehiss",
+  "quest": "Stonetalon Standstill",
+  "en": "If you want to be useful, then why don't you do something about the situation near Talondeep Path?\n\nThe transports between Ashenvale and Stonetalon are at a standstill because of the lake coming alive and attacking anything that gets close... which means anyone on the path. What'd be even more useful than just putting the hammer down on the water elementals there is someone scouting the gazebo on Mystral Lake - the one that has a solid view of the Alliance outpost there.\n\nYou up for being useful?",
+  "files": [
+   "quests/25-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "04a446b26bbb",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mastok Wrilehiss",
+  "quest": "Stonetalon Standstill",
+  "en": "Yeah, I heard that someone tore up the lake out there like a dust devil through the Barrens. From the sound of it too, we might be able to set up a possible observation area out there to keep an eye on our Alliance friends. Well, that is if we can keep it on the down low...\n\nLooks like you ended up being quite useful after all; the transports between here and Stonetalon should have an easier time of it. Take this - you've earned it.",
+  "files": [
+   "quests/25-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "42398fe141a2",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Delgren the Purifier",
+  "quest": "Supplies to Auberdine",
+  "en": "You have done well today, adventurer. The items we sent to aid Auberdine will be of immediate use in dealing with the dark threats that infest the forest.\n\nTake these with my heartfelt thanks.",
+  "files": [
+   "quests/976-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "b2d1d8e99abd",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Feero Ironhand",
+  "quest": "Supplies to Auberdine",
+  "en": "Delgren has asked me to deliver messages and supplies to Sentinel Starbreeze in Auberdine, but I am loathe to leave on my own. Dangerous foes operate in the forest, and I do not wish to risk letting these supplies and information fall into the wrong hands.\n\nIf you and others could act as my guards, I could leave now. With your protection, I have no doubt that we can see these goods safely to Auberdine.",
+  "files": [
+   "quests/976-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "f7361ab66c96",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Talen",
+  "quest": "The Ancient Statuette",
+  "en": "This statuette must hold a hidden compartment...",
+  "files": [
+   "followup/1325-nightelf-male-standard"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "c1fdc782ec64",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Talen",
+  "quest": "The Ancient Statuette",
+  "en": "It's locked! NO!!",
+  "files": [
+   "followup/1326-nightelf-male-standard"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "74d8694b7db8",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Talen",
+  "quest": "The Ancient Statuette",
+  "en": "adventurer, I am in need of your help once again.",
+  "files": [
+   "followup/1355-nightelf-male-standard"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "b2a53c636779",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Talen",
+  "quest": "The Ancient Statuette",
+  "en": "I would charge you with a task, Adventurer.\n\nI was on my small vessel, skimming over the submerged ruins of Zoram, when naga attacked me, surging from the water and tearing at me with their claws! I fled, carrying what supplies I could to make this meager camp.\n\nBut when I reached the shore and ran... my prized possession was lost.\n\nPlease, Adventurer, find the site of my ambush, along the coast to the north, and search for an ancient statuette. It is the reason I have braved the dangers of the Zoram Strand.",
+  "files": [
+   "quests/1007-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "d83c6a8978cf",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Talen",
+  "quest": "The Ancient Statuette",
+  "en": "You found it! Thank you, Adventurer!\n\nThe old city of Zoram holds many secrets, and this statuette may be the key to many of them.",
+  "files": [
+   "quests/1007-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "8576b1c00ec3",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Senani Thunderheart",
+  "quest": "The Ashenvale Hunt",
+  "en": "There are three legendary creatures that make up the Ashenvale Hunt; you may seek them and test yourself against their cunning and might. In the process, you will hopefully learn something about yourself. The creatures are: the bear Ursangous, the nightsaber cat Shadumbra, and the hippogryph Sharptalon.\n\nThe creatures of the Ashenvale Hunt are powerful, and you may find that you'll need aid in bringing them down. If you should best them, bring me proof of your deed.",
+  "files": [
+   "quests/6383-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "ab579d8ee0b7",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Thyn'tel Bladeweaver",
+  "quest": "The Barrens Port",
+  "en": "Ratchet is the only port in the Barrens. Most likely Velinde found a trading vessel in Ratchet to take her to Blackwater Cove in Azeroth. We've had limited dealings with the goblins that run the port, but the master of the dock should have information about the comings and goings of ship passengers.\n\nFollow the road southeast through Ashenvale and you will find yourself in the Barrens. Watch your step, adventurer, warriors of the Horde patrol the land. You will be safe at the port, though.",
+  "files": [
+   "quests/1039-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "52fdd762583b",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wharfmaster Dizzywig",
+  "quest": "The Barrens Port",
+  "en": "Traveler, eh? Must admit, we don't get much of your type out here. Looking for someone, eh? Just give me a moment, I'm sure I have it written in one of my ledgers.\n\nLot of people travel through here, though, so just give me a moment.",
+  "files": [
+   "quests/1039-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "1a2dc252f1ea",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Befouled Water Globe",
+  "quest": "The Befouled Element",
+  "en": "The slain elemental has produced an intensely glowing globe of water. The contents of the globe are, at best, disgusting. It would be safe to assume that whatever has befouled the water of Mystral Lake is most likely present in the water of the globe.\n\nIt's not exactly common knowledge who might be interested in such a find; perhaps the person who originally sent you out to the lake, Mastok Wrilehiss at Splintertree Post, might have an idea.",
+  "files": [
+   "quests/1918-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "484de74fb115",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mastok Wrilehiss",
+  "quest": "The Befouled Element",
+  "en": "You find a nasty ball of water and decide to bring it to me? Who am I, the Earthen Ring or something?\n\nActually, that does give me an idea... perhaps you do need the Earthen Ring for this. I mean, if it helps clear up the situation at the lake for good, then I'm all for it.\n\nYou know who the Earthen Ring are, Adventurer?",
+  "files": [
+   "quests/1918-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "f66453d77887",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Caravaneer Ruzzgot",
+  "quest": "The Caravan Road",
+  "en": "Turns out I was wrong about you, and that isn't something that happens everyday.\n\nIt just so happens that I remember this Velinde you're looking for. Isn't every day that a night elf priestess that wants to travel with a dirty old--but great for your shipping needs!--caravan like my own.\n\nWe split up on the way north, she was headed for Darkshire. The clerk there keeps all sorts of records. Might know something useful.\n\nBe careful in the jungle, it is a deadly place even at the best of times.",
+  "files": [
+   "quests/1041-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "7c5d5e11fae9",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Clerk Daltry",
+  "quest": "The Caravan Road",
+  "en": "With all the strange happenings of the last few years, I keep as good records of strangers as I can. Never know when it might come in handy... though it's usually not pleasant business when it does. Not to suggest anything about this Velinde you're looking for.",
+  "files": [
+   "quests/1041-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "2b0396a91f6e",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Clerk Daltry",
+  "quest": "The Carevin Family",
+  "en": "No, I don't have any records of a Velinde Starsong staying in Darkshire... though, if you don't mind me saying, I can hardly imagine a night elf priestess taking a room in the inn, if you get my meaning?\n\nThese wolf-men you mentioned though, that's something I've heard about. Just the other day, Calor came into town with a string of their heads. He works with the Carevin family. Hunters of demons, undead, and other monstrosities. Speak with Jonathan, he's the head of the household.",
+  "files": [
+   "quests/1042-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "77019febd9c8",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Jonathan Carevin",
+  "quest": "The Carevin Family",
+  "en": "Dark times these are. Ill news is whispered from every swaying branch, and evil can be found under every rock.\n\nAnd in such times an unknown stranger enters my home and asks of worgen... I'll ask no forgiveness for my suspicions, only answers.\n\nAnd answers, I will have.",
+  "files": [
+   "quests/1042-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "fa3c964cac55",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Je'neu Sancrea",
+  "quest": "The Essence of Aku'Mai",
+  "en": "Within the beginning tunnels of Blackfathom Deeps, large sapphire clusters can be found along the cave walls. Recently it was noted that the naga were harvesting the crystals. Until it can be discerned why, I sense we should stop the naga from succeeding. The crystals have great elemental power and if used inappropriately, could make for a powerful arcane component.\n\nWill you help me, Adventurer? Blackfathom Deeps can be found along Zoram Strand to the north of our outpost.",
+  "files": [
+   "quests/6563-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "90b74b5d1a70",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Je'neu Sancrea",
+  "quest": "The Essence of Aku'Mai",
+  "en": "Well done, Adventurer. These are the crystals I spoke of. Intriguing...\n\nI can feel the power within them. The spirits of water cling to them. Whatever the naga were going to use these for... well, let us be glad they are no longer in their hands.",
+  "files": [
+   "quests/6563-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "1099526a86e8",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Melyria Frostshadow",
+  "quest": "The Howling Vale",
+  "en": "Though we have put many resources and much effort into driving the remaining demons from the Felwood to the north, our successes have been few. We have been able to keep much of the demonic presence from Ashenvale.\n\nTo the north, near the Felwood border, the ruined shrine of Mel'Thandris has been overtaken by mysterious wolf-men. Their chilling calls have led the area to be known as the Howling Vale. The Tome of Mel'Thandris kept at the shrine may shed some light on why these wolf-men have come.",
+  "files": [
+   "quests/1022-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "a07c53aa3831",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Melyria Frostshadow",
+  "quest": "The Howling Vale",
+  "en": "The Tome of Mel'Thandris works in strange ways. The events it records, the events it shows... No one truly understands why it does what it does.\n\nNonetheless, it is clear that what Priestess Starsong received--this Scythe of Elune--bears further investigation.",
+  "files": [
+   "quests/1022-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "275f46b98bc8",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Senani Thunderheart",
+  "quest": "The Hunt Completed",
+  "en": "Adventurer, you have slain all three beasts that comprise the Ashenvale Hunt. You have brought me adequate proof of their demise; there is no question of your strength and tenacity. The blood of a hunter streaks through your veins, and you should be commended!\n\nPlease, accept this bauble as a sign of congratulations on your mighty deeds done in Ashenvale for the Horde today. May your ancestors watch over you!",
+  "files": [
+   "quests/247-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "a023cacc29cd",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Gurda Ragescar",
+  "quest": "The Lost Pages",
+  "en": "I just picked up this shredder from Ratchet and I was on my way back to the Warsong Lumber Camp, where I am supposed to be on duty. I was given a manual on how to operate the shredder, but on the trip back, a huge gust of wind blew it from my hands. The pages went everywhere, and all I was left with was the cover.\n\nThe pages could be just about anywhere by now, I suppose... but I don't know how to use the shredder without them! Will you find them for me?",
+  "files": [
+   "quests/6504-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "c3b4fe40d208",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Gurda Ragescar",
+  "quest": "The Lost Pages",
+  "en": "Reading isn't my strong point... but now I'll be able to get back to work! Thanks, Adventurer!",
+  "files": [
+   "quests/6504-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "26c7a6314f93",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Pelturas Whitemoon",
+  "quest": "The Ruins of Stardust",
+  "en": "Elune's Tear washed clear some of my daughter's sickness. Her nightmares are lessened and I thank the goddess for her blessing. But ... fever still rages within her.\n\nOrendil told me of a frosted dust found among the Ruins of Stardust. Perhaps it will abate Relara's fever. Gather some of the dust, then please return to me.\n\nThe Ruins of Stardust lie to the south, Adventurer. May Elune speed your journey.",
+  "files": [
+   "quests/1034-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "5e49daf79293",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Pelturas Whitemoon",
+  "quest": "The Ruins of Stardust",
+  "en": "You gathered the dust! I will create a poultice from these -- it should bring down Relara's fever.\n\nThank you again, Adventurer. Without your help, my child would surely perish.",
+  "files": [
+   "quests/1034-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "0f885b9b04c6",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Jonathan Carevin",
+  "quest": "The Scythe of Elune",
+  "en": "Your story rings true... I do not entirely understand your motives, but if your business here in Duskwood involves ridding the forest of worgen in any number, then I can forgo understanding for results.\n\nThere is a mine to the south that has been overrun with worgen... They appeared out of nowhere, but from what we know, that is where they first were found.\n\nGo about your business, but I would ask that if you find anything of import, you share it with me. We will accept any aid in our war against evil.",
+  "files": [
+   "quests/1043-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "8b15c8a13fcf",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Jonathan Carevin",
+  "quest": "The Scythe of Elune",
+  "en": "It is an interesting story you tell, adventurer. Though the Carevin family's influence is not large enough that we might find the root of these troubles and finish them once and for all, we will do what we can to contain the worgens' numbers in Duskwood.\n\nAlready I have instructed Calor to make this his first priority.",
+  "files": [
+   "quests/1043-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "1568684c5697",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Shindrell Swiftfire",
+  "quest": "The Zoram Strand",
+  "en": "There is evil lurking on our northwestern coast, known as the Zoram Strand.\n\nIt is the resting place of the doomed city of Zoram, destroyed during the Sundering and submerged beneath the seas. It has been lost to the night elves for ages. Lost, and nearly forgotten.\n\nNow, the naga have returned, and for what reason we do not know. But reason matters little; we must slay these fiends and throw them back to the depths!\n\nReturn to me when your mission is complete.",
+  "files": [
+   "quests/1008-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "bff30d9bb398",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Shindrell Swiftfire",
+  "quest": "The Zoram Strand",
+  "en": "Very well done, Adventurer. Your actions in the Zoram Strand against the naga are commendable.\n\nI know your feat was not easily accomplished, for the strength and guile of the naga is well known to the night elves. We know this, for we share a history with them.\n\nIt is a history I care not to repeat.",
+  "files": [
+   "quests/1008-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "50a1d1ddb4f7",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ertog Ragetusk",
+  "quest": "Torek's Assault",
+  "en": "So Torek's attack was successful! Well done, Adventurer. Night elves are decent foes. A little skinny, but strong and fierce! I'm sure the battle was something to see...\n\nAnd I hope you gained a scar or two!",
+  "files": [
+   "quests/6544-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "fdbcd96603e4",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Torek",
+  "quest": "Torek's Assault",
+  "en": "Hey! Adventurer! Come here!\n\nMy raiders and I are about to attack the Silverwing Outpost to the west. Our target is its leader, Duriel Moonfire. Scouts report the outpost is defended heavily with sentinels and warriors. The battle will be glorious!\n\nDo you want to share in the glory, Adventurer, and aid us? If so, then when it's over you can report our success to my superior, Ertog Ragetusk in Splintertree.\n\nWhat do you say. Are you with us?",
+  "files": [
+   "quests/6544-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "69161aa09bf0",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Raene Wolfrunner",
+  "quest": "Trek to Ashenvale",
+  "en": "Ah, a adventurer from Darkshore. Selarin has done well to send you here so quickly, Adventurer. I wish your trip here wasn't under such dire stress. Perhaps with your help we can improve matters.\n\nI would start my visit by speaking to the other citizens of Astranaar. Some could surely use your aid.",
+  "files": [
+   "quests/990-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "426d3867a7aa",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Selarin",
+  "quest": "Trek to Ashenvale",
+  "en": "Adventurer, my mistress, Raene Wolfrunner, awaits you in the city of Astranaar within Ashenvale. With your help, perhaps we can at least ease some of the corruption that's taken hold there.\n\nHead south from here and stay close to the road--you'll find your way there without issue if you follow those directions.",
+  "files": [
+   "quests/990-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "5eaeacb7a6cc",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Mitsuwa",
+  "quest": "Troll Charm",
+  "en": "My kinfolk were traveling here with many sacred troll charms, but the Thistlefur furbolgs attacked and killed them before they reached Zoram'gar! Those vile Furbolgs!\n\nI miss my brothers and sisters who were killed, but we will meet again in the afterlife. However, their troll charms hold great value in this world. It is an outrage that the furbolgs have them!\n\nAdventurer, you must retrieve the charms! They are in chests in Thistlefur Hold, a cave at the end of Thistlefur Village, north of Astranaar.",
+  "files": [
+   "quests/6462-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "aa51b8dfbc3b",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Mitsuwa",
+  "quest": "Troll Charm",
+  "en": "You found them! Thank you! Thank you, Adventurer! You do not know how great a thing you have done for me.\n\nA troll without his charm is like an orc without his battle scars...\n\nWorthless.",
+  "files": [
+   "quests/m-6462-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "59263f7fbcac",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Je'neu Sancrea",
+  "quest": "Trouble in the Deeps",
+  "en": "Tsunaman sent you? Excellent. Then we have matters to discuss.",
+  "files": [
+   "quests/6562-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "4233d190d5bd",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Argent Guard Manados",
+  "quest": "Twilight Falls",
+  "en": "Empowered by the ancient rites of the chaotic Old Gods the members of the Twilight's Hammer strive to bring about the return of their dark patrons and spread death and terror across the world.\n\nWe believe that the Twilight's Hammer has allied with the naga and are amassing in Blackfathom Deeps on the coast of Ashenvale.\n\nWhatever evil plan brews in the depths of the old temple must be thwarted.\n\nWage war on the Hammer and bring back proof of your deeds. Your efforts will be rewarded handsomely.",
+  "files": [
+   "quests/1199-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "3bbc1e01dd0d",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Argent Guard Manados",
+  "quest": "Twilight Falls",
+  "en": "You are no doubt of brave and noble blood, Adventurer. The Argent Dawn commends you for your efforts against evil.",
+  "files": [
+   "quests/1199-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "80f41dd3cdb3",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Senani Thunderheart",
+  "quest": "Ursangous's Paw",
+  "en": "Ah, the paw of Ursangous! Your skill is impressive, adventurer; he is credited with numerous kills. The crescent on his paw is no doubt a sign that he was trained by the night elves that skulk about Ashenvale. Ursangous is... was one of the mightiest bears you'd find in these parts. To have bested such a creature is a testament to your will and resolve.\n\nYour ancestors would be proud!",
+  "files": [
+   "quests/23-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "c049c1f5a1fe",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Ursangous's Paw",
+  "quest": "Ursangous's Paw",
+  "en": "The paw of the mighty bear Ursangous is your trophy for this part of the Ashenvale Hunt. On the paw is a small quarter-crescent emblem; the significance of the emblem remains a mystery.\n\nThe paw should be brought to Senani Thunderheart in Splintertree Post to prove that you have bested the mighty creature and completed this portion of the hunt.",
+  "files": [
+   "quests/23-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "f6f133ecde48",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Melyria Frostshadow",
+  "quest": "Velinde Starsong",
+  "en": "Velinde Starsong was my predecessor here in Ashenvale Forest. At first it seemed she had the situation in Felwood under control, but little by little her efforts faltered. One day, she simply disappeared.\n\nI was sent here to continue her work. I'm afraid I know nothing of the priestess, however. Perhaps Thyn'tel Bladeweaver, one of the commanders of the Sentinels, knows further details of her disappearance that I was not a party to.\n\nSurely she will understand the import of such information.",
+  "files": [
+   "quests/1037-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "153240afec94",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Thyn'tel Bladeweaver",
+  "quest": "Velinde Starsong",
+  "en": "Velinde Starsong? That the priestess disappeared some time ago is almost certainly common knowledge. As to further details about the events that surrounded her departure... it would take good reason for me to divulge such information.",
+  "files": [
+   "quests/1037-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "3354106f57e8",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Thyn'tel Bladeweaver",
+  "quest": "Velinde's Effects",
+  "en": "The Tome of Mel'Thandris showed you this? I suppose there would be little harm in allowing you to examine her belongings. This key will allow you to open the chest where we stored her things in the Sentinels' bunkhouse. She kept a journal of her duties, if there is anything to be learned, it will be from that.\n\nI should tell you, the Sentinels believe that she had her own reasons for leaving, and expect that she could return at any time. The priestess has done much in the past to earn our trust.",
+  "files": [
+   "quests/1038-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "9ddd8edd53b9",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Thyn'tel Bladeweaver",
+  "quest": "Velinde's Effects",
+  "en": "It seems that Velinde's disappearance is more troubling than it originally appeared. Even still, I cannot believe that she has come to a bad end. Perhaps it would be beneficial for us to make contact with her.\n\nadventurer, since you have shown a vested interest in this matter, I would like to enlist your aid.",
+  "files": [
+   "quests/1038-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "ef5689746708",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Maseara Autumnmoon",
+  "quest": "Vengeful Trail",
+  "en": "At the moment our fates bound us most vulnerable, tragedy fell upon our villages. Satyrs defiled our temples, their profane touch staining sacred boughs, and they slaughtered the innocent without mercy.\n\nKurothel was consumed by wrath. The druids are taking the fight to the satyr, and he has followed.\n\nOur bond endures. I feel my husband, west, within these woods. Please, return to me with news of his fate.",
+  "files": [
+   "quests/98417-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "bc0de9634639",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Maseara Autumnmoon",
+  "quest": "Vengeful Trail",
+  "en": "Oh no... words like these do not bring me comfort. Kurothel must be more than living in the wild, he's living more like a wild beast each passing night.\n\nI fear the whispers must be true.",
+  "files": [
+   "quests/98417-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "70bf6956e23d",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Muglash",
+  "quest": "Vorsha the Lasher",
+  "en": "This will be a tough fight, adventurer. Follow me closely!",
+  "files": [
+   "followup/8555-orc-male-shady"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "0969a1f4dec2",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Muglash",
+  "quest": "Vorsha the Lasher",
+  "en": "Are you sure that you are ready? If we do not have a group of your allies to aid us, we will surely fail.",
+  "files": [
+   "followup/8566-orc-male-shady"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "eec07ee9fa76",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Muglash",
+  "quest": "Vorsha the Lasher",
+  "en": "Vorsha the Lasher... the fiendish hydra that roams the seas...\n\nShe has attacked our outpost, each time unprovoked, laying waste to anything that falls in her path.\n\nBut I am ready, Adventurer. I have prepared to best the hydra and end these attacks on Zoram'gar.\n\nThe naga honor the wicked nature of this beast with a brazier that remains lit on an island just off the coast. I believe that if we put it out, Vorsha will appear in anger.\n\nWe will need help, so be sure to bring some strong allies.",
+  "files": [
+   "quests/6641-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "546731d5c5c9",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warsong Runner",
+  "quest": "Vorsha the Lasher",
+  "en": "I have witnessed many naga attacks since I arrived here. It puts my mind at ease that Vorsha will no longer roam freely.\n\nWe are in your debt, Adventurer.",
+  "files": [
+   "quests/6641-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "7ad80ccdfb4a",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Warsong Outrider",
+  "quest": "Warsong Outrider Update",
+  "en": "Take my update to Kadrak. Swiftly, Adventurer.",
+  "files": [
+   "quests/6546-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "fdaab43b4a44",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warsong Runner",
+  "quest": "Warsong Runner Update",
+  "en": "Well, my update will explain all of this to Kadrak. You must return this to him as quickly as possible.",
+  "files": [
+   "quests/6545-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "bfc4fa3dbac2",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Pixel",
+  "quest": "Warsong Saw Blades",
+  "en": "This is perfect -- just the thing! Well, here's the shipment.",
+  "files": [
+   "quests/6581-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "4068935432dd",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Warsong Scout",
+  "quest": "Warsong Scout Update",
+  "en": "Let Kadrak know of the success we have had here holding off the night elves. Our plans are going well.",
+  "files": [
+   "quests/6547-complete"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "7ca143dba4b1",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Locke Okarr",
+  "quest": "Warsong Supplies",
+  "en": "We are in short supply of a few items at the Warsong lumber camp!\n\nPixel at Splintertree Post has our shipment of saw blades. It'll take a trip to Booty Bay to pick up a crate of axes from Wharfmaster Lozgil.\n\nOur shipment of oil and rope will be more difficult. The rope was pilfered by the Thistlefur and Foulweald furbolgs, and the satyrs intercepted the delivery of the oil and are now using it for detestable rituals in Night Run, Satyrnaar, and Xavian!\n\nCan you help me?",
+  "files": [
+   "quests/6571-accept"
+  ],
+  "uiMap": 1440
+ },
+ {
+  "id": "4111139e05e0",
+  "zone": "ashenvale",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Locke Okarr",
+  "quest": "Warsong Supplies",
+  "en": "Excellent, Adventurer. You've saved me a lot of work!\n\nBut don't think that I'm not grateful!",
+  "files": [
+   "quests/6571-complete"
+  ],
+  "uiMap": 1440
+ }
+]

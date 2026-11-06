@@ -1,0 +1,2146 @@
+[
+ {
+  "id": "5de10733b566",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Curgle Cranklehop",
+  "quest": "A Bad Egg",
+  "en": "I am afraid I have bad news for you, Adventurer. This egg is too far gone. I can take it from you so that it may be disposed of properly.\n\nPlease don't be discouraged; we cannot save them all. If you find yourself in Feralas again, please try again. Bring another egg for the Super Egg-O-Matic!",
+  "files": [
+   "quests/2750-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "95e90eb3f2b2",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Curgle Cranklehop",
+  "quest": "A Fine Egg",
+  "en": "Very good, Adventurer. I will be sending this egg to Darnassus where I hope it will soon hatch!\n\nPlease accept this as a symbol of my gratitude.",
+  "files": [
+   "quests/2748-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "b37a87f2d80f",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mux Manascrambler",
+  "quest": "A Portable Power Source",
+  "en": "Next we shall need to find a stable and portable source of energy to keep the ectoplasm active. I've heard rumors of a mighty elemental called Magma Lord Bokk, whose heart is a powerful magma core - an endless supply of heat!\n\nIt's said he can be found in the Burning Steppes, south of Blackrock Mountain. Bring the magma core to me and we shall have enough juice to power the extra-dimensional ghost revealer!",
+  "files": [
+   "quests/8925-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "d01d05a55674",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mux Manascrambler",
+  "quest": "A Portable Power Source",
+  "en": "You've done it! This will certainly provide enough energy to power up the extra-dimensional ghost revealer!",
+  "files": [
+   "quests/8925-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "ba9800b1f614",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mux Manascrambler",
+  "quest": "A Shifty Merchant",
+  "en": "The core will provide us with enough juice to power our device; now we just have to build a rod that can channel that energy without melting.\n\nI met an imp in Winterspring that sold all manner of exotic goods. He had an elemental rod that would do perfectly. I'm kicking myself in the head right now for not having bought it.\n\nHe lives inside a cave in the entrance to Darkwhisper Gorge. Sneak in there and try to find him.\n\nMake sure he only charges you forty gold; that's the price he quoted me!",
+  "files": [
+   "quests/8928-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "72c78115f0a1",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mux Manascrambler",
+  "quest": "A Shifty Merchant",
+  "en": "You did it! This rod will do perfectly. Now to put it all together...",
+  "files": [
+   "quests/8928-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "83ab4ae37145",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Deliana",
+  "quest": "A Supernatural Device",
+  "en": "I must find a way to speak with Anthion Harmon... or more specifically, his ghost!\n\nI know of an engineer with a queer interest in the supernatural. He claims he can build a machine that allows him to speak with the dead!\n\nThe blood you collected was intended for him; travel to Gadgetzan and bring it to him as payment for his services!",
+  "files": [
+   "quests/8922-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "ad16eb810bef",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mokvar",
+  "quest": "A Supernatural Device",
+  "en": "You must be quite brave to have stuck around after that. That or I've piqued your interest with the piece of armor I gave you. There is more from where that came from, if you're still interested in aiding me.\n\nThe venom samples you collected are for an acquaintance of mine, Mux Manascrambler, an engineer with an interest in the supernatural. His latest project consists of a device that allows you to communicate with the dead! My last hope is to contact Anthion and find out more about my situation.",
+  "files": [
+   "quests/8923-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "9bcb9de219fe",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mux Manascrambler",
+  "quest": "A Supernatural Device",
+  "en": "Excellent! Just as I was running low!\n\nYou say Deliana sent you?",
+  "files": [
+   "quests/8922-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "593734afb047",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mux Manascrambler",
+  "quest": "A Supernatural Device",
+  "en": "Excellent! Just as I was running low!\n\nYou say Mokvar sent you?",
+  "files": [
+   "quests/8923-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "43d49a0eba94",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Curgle Cranklehop",
+  "quest": "An Extraordinary Egg",
+  "en": "Well now, you have one--amazing!\n\nI hope you always remember the good you have done today.",
+  "files": [
+   "quests/2747-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "d7f591f9a849",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Curgle Cranklehop",
+  "quest": "An Ordinary Egg",
+  "en": "So, you have found an ordinary egg, Adventurer? Please give it to me... And we can only hope for the best.\n\nI don't have much, but please accept this reward. If you ever find yourself in Feralas again, know that I am always here to take the eggs you find there.",
+  "files": [
+   "quests/2749-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "3b024ea7803f",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Bilgewhizzle",
+  "quest": "Another Power Source?",
+  "en": "Let me guess - you didn't get whatever world-ending, nefarious deed you were doing done in time. No wait, better still... you dropped it in the sand! Well, whatever the reason, I do have additional power sources I will sell to you. This time, however, it will cost you ten, YES TEN Wastewander Water Pouches!\n\nTimes are tough all around, adventurer, and power sources don't grow on trees! Hrm, but what if they did. Maybe we could MAKE a power source tree...",
+  "files": [
+   "quests/841-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "7102b852d760",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Bilgewhizzle",
+  "quest": "Another Power Source?",
+  "en": "Very well, here is another power source. I highly recommend you using it properly this time, unless you are eager to spend ten more water pouches for another water source.",
+  "files": [
+   "quests/841-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "87ce7e459d99",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Pestlezugg",
+  "quest": "Bungle in the Jungle",
+  "en": "My research revealed to me that the silithid are like bees; destroy the queen of the hive, and the rest of should be thrown into disarray. I'll brew a lure that we'll use to bring out the queen; once summoned, you'll take her down.\n\nFirst though, we need some reagents; we don't want you bungling into the jungle unprepared. Go west to find the silithid hive in Un'Goro Crater and obtain a scent gland from one of the bugs. I'll also need some samples of the native Un'Goro soil.",
+  "files": [
+   "quests/4496-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "3a86affcece8",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Pestlezugg",
+  "quest": "Bungle in the Jungle",
+  "en": "The scent gland, ah yes. The membrane appears intact - excellent. The soil, yes, this should work out perfectly. With my special additions, I should be able to grind all this up into the perfect lure.\n\nGive me a moment to make the lure, Adventurer. Once it's ready, we'll be able to enact the next step that may hopefully stop the silithid before they overrun Gadgetzan... and the rest of Kalimdor.",
+  "files": [
+   "quests/4496-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "d531a7073556",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Pestlezugg",
+  "quest": "Calm Before the Storm",
+  "en": "My recent findings and the knowledge we have gained here today needs to reach hands that can quite possibly do something with it. As resourceful as we are here in Gadgetzan, we can't do this alone.\n\nTake my latest report back to Gracina Spiritmight in Darnassus; she's still at the Temple of the Moon, is she not? She's got friends who are Alliance bigwigs; if we can get them involved in this Adventurer, then we just might make it out of this alive.",
+  "files": [
+   "quests/4508-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "b180aebc8ef2",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Pestlezugg",
+  "quest": "Calm Before the Storm",
+  "en": "My recent findings and the knowledge we have gained here today needs to reach hands that can quite possibly do something with it. As resourceful as we are here in Gadgetzan, we can't do this alone.\n\nTake my latest report back to Zilzibin Drumlore in Orgrimmar; he's still in his place on the upper part of the Drag, is he not? He's got friends who are high within the Horde; if we can get them involved in this Adventurer, then we just might make it out of this alive.",
+  "files": [
+   "quests/4509-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "148d14670244",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Gracina Spiritmight",
+  "quest": "Calm Before the Storm",
+  "en": "While I genuinely appreciate this, I am not sure what good it will do us. The Alliance ignores threats from any source other than the Horde, and even our own leaders here in Darnassus cannot agree on what exactly this threat is. Fools like Fandral Staghelm theorize that the silithid are nothing like the threat from the ancient past I claim them to be. His ignorance is only surpassed by his arrogance.\n\nYou have seen the threat yourself, Adventurer. We must remain committed to defeating the silithid!",
+  "files": [
+   "quests/4508-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "48fa556240bc",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zilzibin Drumlore",
+  "quest": "Calm Before the Storm",
+  "en": "While I genuinely appreciate this, I am not sure what good it will do us. The Horde ignores threats from any source other than the Alliance. While Thrall himself might take action were the facts presented to him, he is beset on all sides by conflicting advice. These fools would have us chase our own imaginary tails were they to think it might catch the Alliance unawares!\n\nYou have seen the threat yourself, Adventurer. We must remain committed to defeating the silithid!",
+  "files": [
+   "quests/4509-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "8369ec716bfc",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Cuergo's Treasure Map",
+  "quest": "Cuergo's Gold",
+  "en": "This map shows a stretch of beach with a southern face. Below the map are words, elegantly written...\n\n\nSouth of Wheedle\nSouth of home\nFind a mast and flag and bones\nDig you there, if you be bold\nDig and claim Cuergo's gold!\nA key you'll need and a key you'll see\nThe men you face take blood as fee.",
+  "files": [
+   "quests/2882-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "2523233b6cb4",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Pirate's Treasure!",
+  "quest": "Cuergo's Gold",
+  "en": "Captain Cuergo's hidden treasure awaits!",
+  "files": [
+   "quests/2882-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "7962cdbfcde7",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Narain Soothfancy",
+  "quest": "Decoy!",
+  "en": "I've got it! Here's what we're going to do. I'm going to fill a sack up with rocks and you're going to make the drop. I know it said that I should make the delivery and I'm going to - sort of.\n\n\nYes, you will do just fine. Take this turban, robe, and sack of rocks and head to the drop off point in Winterspring.\n\nI've included everything you need in this special kit. When they show up to pick up the goods, snuff them out! That will teach them to mess with Narain!",
+  "files": [
+   "quests/8606-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "6ca3eb4673ae",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Narain Soothfancy",
+  "quest": "Decoy!",
+  "en": "I think we may have underestimated these booknappers.",
+  "files": [
+   "quests/8606-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "b32f9ce1cf05",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "\"Sea Wolf\" MacKinley",
+  "quest": "Deliver to MacKinley",
+  "en": "Hm, let's try this...\n\nI can't believe it! This stuff is... terrible! That's great!\n\nWell I guess Stoley can keep the money he owes me. He's true to his word about Steamwheedle bilge rum. That stuff is as thick as gravel and burns like lava!",
+  "files": [
+   "quests/2874-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "bc7440a19297",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stoley",
+  "quest": "Deliver to MacKinley",
+  "en": "Thanks again for your help, Adventurer. Here's a bottle of Steamwheedle bilge rum. Take it to MacKinley and he can finally put to rest his crazy beliefs about Booty Bay booze.",
+  "files": [
+   "quests/2874-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "b3c647f6d2f7",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Marin Noggenfogger",
+  "quest": "Delivery for Marin",
+  "en": "Violet Powder, eh? Let's give it a try -- it sure couldn't make it any worse, that's for sure!",
+  "files": [
+   "quests/2661-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "e624e9f40590",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Sprinkle",
+  "quest": "Delivery for Marin",
+  "en": "Here's the Violet Powder, Adventurer. Take it to Marin and tell him he owes me a favor!",
+  "files": [
+   "quests/2661-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "6363ea2373f9",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Dirge Quikcleave",
+  "quest": "Dirge's Kickin' Chimaerok Chops",
+  "en": "My recipe is complete! What I need from you now is some rocket fuel and deeprock salt. I'll handle the spices and the meat you brought me will cover the rest.\n\nAfter you bring me what I asked for, the chicken will be ready to take back to Narain.",
+  "files": [
+   "quests/8586-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "df7e8d7864c9",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Dirge Quikcleave",
+  "quest": "Dirge's Kickin' Chimaerok Chops",
+  "en": "It's ready! I present to you my greatest creation: Dirge's Kickin' Chimaerok Chops!",
+  "files": [
+   "quests/8586-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "db195f32368e",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Bilgewhizzle",
+  "quest": "Divino-matic Rod",
+  "en": "Sergeant Bly stole from me! He said he'd only borrow it, but he stole my cherished divino-matic rod!! Without that rod how will I know where to dig new water holes??\n\nFind Bly and bring me my rod! I heard he led his band of ill-reputed adventurers to go treasure hunting in Zul'Farrak to the west. I bet you'll find him there.\n\nLet's hope the trolls took care of him, because if you have to fight him for the rod then you're in for a serious fight.",
+  "files": [
+   "quests/2768-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "20a1e5befcf0",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Bilgewhizzle",
+  "quest": "Divino-matic Rod",
+  "en": "You found it! Well done, Adventurer! Did you have to fight Bly for it? I hope you knocked him and his band down good and hard!",
+  "files": [
+   "quests/2768-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "8c790789daef",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Freshly Dug Dirt",
+  "quest": "Draconic for Dummies",
+  "en": "The book is gone! On top of the dirt mound is a note.",
+  "files": [
+   "quests/8597-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "1ad721eb69f5",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Narain Soothfancy",
+  "quest": "Draconic for Dummies",
+  "en": "I knew that book would come in handy some day! Thankfully, I had the wit and foresight to stow it somewhere safe.\n\nDon't worry, it's in a place that nobody could ever hope to find it! I needed a gyrocopter just to get there the first time. Unfortunately I crashed it on the beach on my way back. It was through that accident that I gained these super-gnomish psychic powers!\n\nLook for my crashed gyrocopter somewhere on Land's End Beach and swim south from there! You'll know the spot when you see it!",
+  "files": [
+   "quests/8597-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "7af135814bc8",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "OOX-17/TN Distress Beacon",
+  "quest": "Find OOX-17/TN!",
+  "en": "You have uncovered some sort of strange, egg-shaped device made from metal. Fiddling with one of its knobs springs the egg to life, as it opens up into some sort of gnomish robotic contraption! A voice from inside the robotic egg crackles to life.\n\n\"The name's Oglethorpe, and my homing robot has gone missing! I will reward you for its recovery! Please take this beacon to the robot. Excellent, I now have computed the coordinates for you! It crashed near the Gaping Chasm in Tanaris!\"",
+  "files": [
+   "quests/351-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "50fe875be584",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Arbington",
+  "quest": "Fire Plume Forged",
+  "en": "We've got quite the costly skeleton key there, don't we Adventurer? Still, it remains unfinished; the time has now come to put some focus behind our creation. To that end, you're going to have to face the ultimate foe we've been working towards facing in Andorhal... the nefarious being that runs the show within the ruined city walls.\n\nI'm speaking of Araj the Summoner - a lich, and one of the most powerful beings the Scourge calls as its own.",
+  "files": [
+   "quests/5801-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "ffe97bec0802",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Dithers",
+  "quest": "Fire Plume Forged",
+  "en": "We've got quite the costly skeleton key there, don't we Adventurer? Still, it remains unfinished; the time has now come to put some focus behind our creation. To that end, you're going to have to face the ultimate foe we've been working towards facing in Andorhal... the being that runs the show within the ruined city walls.\n\nI'm speaking of Araj the Summoner - a lich, and one of the most powerful beings the Scourge calls as its own.",
+  "files": [
+   "quests/5802-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "046d7fe46e1c",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Krinkle Goodsteel",
+  "quest": "Fire Plume Forged",
+  "en": "You need two bars of thorium and a powerfully hot heat source to forge the key stem. You're on your own for the thorium, but I can help with the heat.\n\nTo our west in Un'Goro Crater is Fire Plume Ridge - a simmering volcano. The lava lake up top is hot enough to fuse thorium and bone together. Your gold has bought you a mold that simply requires you to dip it in the lake up top; the lava will take care of the rest.\n\nThat's it on my end. To finish your key, you'll need to talk to Arbington again.",
+  "files": [
+   "quests/5801-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "0b1a6fb9f861",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Krinkle Goodsteel",
+  "quest": "Fire Plume Forged",
+  "en": "You need two bars of thorium and a powerfully hot heat source to forge the key stem. You're on your own for the thorium, but I can help with the heat.\n\nTo our west in Un'Goro Crater is Fire Plume Ridge - a simmering volcano. The lava lake up top is hot enough to fuse thorium and bone together. Your gold has bought you a mold that simply requires you to dip it in the lake up top; the lava will take care of the rest.\n\nThat's it on my end. To finish your key, you'll need to talk to Dithers again.",
+  "files": [
+   "quests/5802-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "5f6896cd9cdf",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Senior Surveyor Fizzledowser",
+  "quest": "Gadgetzan Water Survey",
+  "en": "We've got a position open for a temporary junior-grade surveyor in the Gadgetzan Water Company, if you're interested!\n\nWith the nomads seizing all our wells, we need to exploit more free sources of water! There is water to be had in the desert, but only to those smart enough to survey them first.\n\nTake this dowsing widget and tap a sample of the water by the pool near Sandsorrow Watch. It's right in sight of the trolls around there. Bring the tapped widget back to me when you're done!",
+  "files": [
+   "quests/992-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "88c61aa3ebe1",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Senior Surveyor Fizzledowser",
+  "quest": "Gadgetzan Water Survey",
+  "en": "What's this? You were ambushed by some sort of bad mojo creepy-crawly? Oh, this does not bode well for the Gadgetzan Water Company, no indeed...\n\nI guess I should have told you about the reports coming in on some crazy bug-creatures that appear to be sucking up all the water in the desert. At first, I thought it was just a crock. We have enough trouble with the nomads as is; I thought it was just more of their shenanigans. Well, now we know at least!",
+  "files": [
+   "quests/992-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "081c5d4b94cb",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Marvon Rivetseeker",
+  "quest": "Gahz'ridian",
+  "en": "Adventurer, I'm a scientist, but also a treasure hunter at heart!\n\nLong ago, when trolls used to occupy this land, they created large amounts of ornaments modeled after Gahz'rilla, a hydra they worshipped as a deity. These ornaments are carved out of an element that I call \"Gahz'ridian,\" after the hydra god.\n\nI did find some myself, but I'd like to have some more to study -- maybe you can find some?\n\nI even invented a detector that makes finding the Gahz'ridian a snap! Just put it on, and the search begins!",
+  "files": [
+   "quests/3161-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "fedc08096ae1",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Marvon Rivetseeker",
+  "quest": "Gahz'ridian",
+  "en": "Perfect; these ornaments are perfect for my studies. Thanks so much for the help, Adventurer.\n\nOh, can I get my helmet back?",
+  "files": [
+   "quests/3161-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "7df942af278a",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Wizzle Brassbolts",
+  "quest": "Gahz'rilla",
+  "en": "Deep in Zul'Farrak, the sand troll city in Tanaris, there is a sacred pool. From that pool the trolls summon a huge beast! Gahz'rilla! He's so fierce that even his scales crackle with energy. It's that energy I want to harness for my car!\n\nBring me the electrified scale of Gahz'rilla!\n\nBut the summoning of Gahz'rilla is a well-kept secret of the trolls. To face him, you must first wrest the secret from them.",
+  "files": [
+   "quests/2770-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "a210377f3b8c",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Wizzle Brassbolts",
+  "quest": "Gahz'rilla",
+  "en": "Wow, you got the scale! Thanks, Adventurer. I can't wait to get to work on this thing!\n\nSo you saw Gahz'rilla? Was he as big as they say??",
+  "files": [
+   "quests/2770-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "a94cc79f14ce",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Curgle Cranklehop",
+  "quest": "Handle With Care",
+  "en": "Adventurer, I can see you yearn to be dedicated to my worthwhile cause. Yes, of course, you can do something for me!\n\nTake this crate of eggs to Erelas Ambersky. He is a druid that cares for these eggs, helping them to hatch and then training the young hippogryphs. You will find him in Teldrassil, in a small village to the south called Rut'theran.",
+  "files": [
+   "quests/3022-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "398a8e44cf06",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Erelas Ambersky",
+  "quest": "Handle With Care",
+  "en": "Thank you for your help, Adventurer. The hippogryph population simply wouldn't flourish if it weren't for us. Ah, but I am sure you understand all too well, having traveled to Feralas yourself, and seen the devastation of the Gordunni there.\n\nWell, as you can see, I am hard at work here, so you'd best be on your way.\n\nThanks again, Adventurer.",
+  "files": [
+   "quests/3022-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "1adc8841a154",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mux Manascrambler",
+  "quest": "Hunting for Ectoplasm",
+  "en": "A fine piece of engineering, if I do say so myself! You will need to travel a bit, I'm afraid, in order to find the incorporeal undead we require.\n\nYou see, different climates lend different consistencies to the spectral fabric of the dead. The tortured night elves of Silithus, the spirits of the highborne from Winterspring and the ghosts and banshees of the Eastern Plaguelands should give us the different types of ectoplasm we need. Be sure to place the distiller nearby before you harvest them!",
+  "files": [
+   "quests/8924-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "2662c05f1c87",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mux Manascrambler",
+  "quest": "Hunting for Ectoplasm",
+  "en": "Yes, these will do great!\n\nBy tapping into the otherworldly energies contained within these substances we'll be able to reach out to those whose souls haven't quite left this world yet!",
+  "files": [
+   "quests/8924-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "653384ff2c4e",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Marin Noggenfogger",
+  "quest": "In Good Taste",
+  "en": "Blech! This stuff tastes terrible! So much for that idea...\n\nWait, what's that? Oh, I know, I know, you think I shouldn't give up on this stuff. Well, okay then.\n\nUhhhh, I have an idea! Brilliant! Take this dew to my friend Sprinkle -- she's an excellent chef. Tell her what we're up to here and that we want to make it go down a little easier.\n\nI mean, if it's going to taste that bad, it at least should have some kick to it... And I'm just not feeling it...",
+  "files": [
+   "quests/2606-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "9ec538eb5b88",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Sprinkle",
+  "quest": "In Good Taste",
+  "en": "Marin's a good guy, don't get me wrong -- just a little... eccentric, I'd say.\n\nAnd of course he needs my help, yet again.",
+  "files": [
+   "quests/2606-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "c3f4048ef285",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Pestlezugg",
+  "quest": "Insect Part Analysis",
+  "en": "Yes, I have the results right here. They are... unsettling, to say the least\n\nOur initial suspicion that the bugs are being controlled by an outside force, we believe, is correct. If this is the case, then we are dealing with not only a very powerful unknown force, but also a malignant one. These bugs have been changed to be pure ravagers. I've never seen anything quite like it.",
+  "files": [
+   "quests/110-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "992db43f6b3d",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Pestlezugg",
+  "quest": "Insect Part Analysis",
+  "en": "Senior Surveyor Fizzledowser needs to see this report immediately. Actually... everyone who can read needs to see this report. We are facing a grave and serious threat to not only Tanaris and Gadgetzan, but if left unchecked, the entirety of southern Kalimdor. Heck, even quite possible the whole of Azeroth; this thing has given no indication it will subside.\n\nHave Fizzledowser make a duplicate of the report for you to distribute freely to your allegiance. Everyone must know about this threat!",
+  "files": [
+   "quests/113-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "4ebe46b4a513",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Senior Surveyor Fizzledowser",
+  "quest": "Insect Part Analysis",
+  "en": "I'm going to spend some time taking a look at Scrimshank's surveying gear... as well as putting his personal effects in order. I get the sneaking feeling behind my ears that this isn't the last loss we'll be facing against these bugs.\n\nI'd like for you to check in with Alchemist Pestlezugg to see if he has had a chance to process the insect parts we sent him. If they're ready, bring them to me.",
+  "files": [
+   "quests/110-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "7e4c4dc5a788",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Senior Surveyor Fizzledowser",
+  "quest": "Insect Part Analysis",
+  "en": "Thank you for delivering the report, Junior Surveyor adventurer; here is your pay for your diligent service to the Gadgetzan Water Company.\n\nWhile I am usually not thrilled about handing out our valuable information carte blanche to those who would otherwise pay good coin for it, I've known Pestlezugg for a number of years now. If he recommends letting everyone know about it, then so be it. Give me a moment and I'll make you a copy.",
+  "files": [
+   "quests/113-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "9b65aab7cf14",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Apothecary Zinge",
+  "quest": "Into the Field",
+  "en": "You will be headed to the Tanaris desert, testing the tissue consistency of the basilisks, scorpids, and hyena native there. Obtain tissue samples and use them with the testing kit in tow; expect a chunk of the samples to fail. I need eight acceptable samples of each creature type.\n\nIn addition, the goblins of Gadgetzan have a power source that must be used with this kind of modified kit. Speak to Chief Engineer Bilgewhizzle and acquire one for the kit.\n\nReturn to me only when you are successful.",
+  "files": [
+   "quests/243-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "9a164cc77c6e",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Bilgewhizzle",
+  "quest": "Into the Field",
+  "en": "Ah, our model 4711-FTZ power sources! We normally use them to power the water wells, but THANKS TO THE VILE NOMADS, we have an over abundance of power sources right now.\n\nSure, I can get you a power source for whatever nefarious science experiment you think you're trying to hide from me. It ain't gonna be free though, traveler. Nothing's free in Gadgetzan.",
+  "files": [
+   "quests/243-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "6032ffd2d2b2",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Narain Soothfancy",
+  "quest": "Love Song for Narain",
+  "en": "What!?\n\n\nWell, um... What do you want me to do??? She's a fish! A FISH I tell you! And I'm a gnome. It could never work out.",
+  "files": [
+   "quests/8599-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "cf902c1e5008",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Bilgewhizzle",
+  "quest": "More Wastewander Justice",
+  "en": "We need you to take on the stronger ranks of the Wastewander nomads now. You've done a good job thus far, but if we are to take back those water wells, then it only makes sense to do it against as few nomads as possible!\n\nThis time around we need you to take down their rogues, assassins, and shadow mages. You'll find them east and southeast of here.\n\nI'm not going to lie to you - they're a nasty lot. Do this for us though, and we'll be on our way to taking back what is rightfully ours!",
+  "files": [
+   "quests/1691-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "129eb4d61713",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Bilgewhizzle",
+  "quest": "More Wastewander Justice",
+  "en": "Top notch work, adventurer... top notch! You've thinned down the nomad population to a point where we can actually take the fight to them!\n\nIf you haven't already, talk to Spigot Operator Luglunket here; he gives a bounty on any of the Wastewander water pouches you may have run across while bringing those nomads to justice!",
+  "files": [
+   "quests/1691-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "c338051e5f23",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thadius Grimshade",
+  "quest": "Nekrum's Medallion",
+  "en": "I'll find out where your gryphon is, but first you have to do something for me. There's a troll in Zul'Farrak, Nekrum Gutchewer, who possesses a medallion I would very much like to study. Bring me that Medallion and I'll use my powers to find Sharpbeak.\n\nZul'Farrak is across the ocean to the west, in the desert of Tanaris.",
+  "files": [
+   "quests/2991-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "3c9a1d8a4b3f",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thadius Grimshade",
+  "quest": "Nekrum's Medallion",
+  "en": "Ah, the medallion of Nekrum. It is rumored to have given the troll an unnatural long life, but at a cost. I hope to discover a way to reap the medallion's power while avoiding its... unpleasant side effects.\n\nYou have done me a service, Adventurer. I shall now uphold my end of our bargain.",
+  "files": [
+   "quests/2991-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "523c0a5a7097",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Dirge Quikcleave",
+  "quest": "Never Ask Me About My Business",
+  "en": "A 500 pound chicken? There's no such thing! Not anymore, at least. I knew of such a chicken... The Black Chicken of Death...\n\n\nBut yes, nobody ever saw that chicken and lived to tell the tale. I've got an idea that could benefit the both of us, kid.",
+  "files": [
+   "quests/8584-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "b20a9b3e4a6c",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Narain Soothfancy",
+  "quest": "Never Ask Me About My Business",
+  "en": "If there is one thing that you should know about me, it is this: NEVER ask me about my business! I work with things you simply cannot understand. Like for example: Do you know what a psychotronic muzzledorf is? Of course you don't! And that's why we leave the planning to me and the fetching to you.\n\nAs I said earlier, if this is going to work, we're going to need a 500 pound chicken.\n\nHead to Gadgetzan and speak with Dirge Quikcleave - he'll get you started on finding a suitable specimen.",
+  "files": [
+   "quests/8584-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "efdd79e570ad",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Marin Noggenfogger",
+  "quest": "Noggenfogger Elixir",
+  "en": "I'm going to carefully mix this - oops! ...Well, I spilled a little, but it's ready!",
+  "files": [
+   "followup/4548-goblin-male-zany"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "061a28dcbb2a",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Marin Noggenfogger",
+  "quest": "Noggenfogger Elixir",
+  "en": "Now, to mix this powder in with the dew.\n\nCome back and talk to me in a minute... after I have perfected the fabulous Noggenfogger Elixir!",
+  "files": [
+   "quests/2662-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "9a6f2bd50444",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Marin Noggenfogger",
+  "quest": "Noggenfogger Elixir",
+  "en": "Drink this! It's absolutely wonderful!!!\n\nI knew I had it in me... Oh thanks again, Adventurer for your help, but please, stand a little to the side, will you? You're blocking my business! I'm going to make millions on the fabulous Noggenfogger Elixir, millions!\n\nWhat's that? Sprinkle says I owe her a favor? Oh, that Sprinkle, such a kidder!",
+  "files": [
+   "quests/2662-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "cb92bce56270",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Pestlezugg",
+  "quest": "Noxious Lair Investigation",
+  "en": "Good work - I'll start my analysis on these now! I can tell you right from the start though... these are nothing like any insect form I have ever seen. It's almost as if these bugs are being controlled by an outside force or something.\n\nYou need to go talk to Fizzledowser right away; apparently there is an emergency that he needs your help with on the double! I'm not sure, but I think it involves more of the bugs in the Tanaris desert!",
+  "files": [
+   "quests/82-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "ff6611547019",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Senior Surveyor Fizzledowser",
+  "quest": "Noxious Lair Investigation",
+  "en": "All right now, these reports about the bugs... what we know is that they are draining the water pools that used to be where the Noxious Lair is. What we DON'T know is, well, everything else.\n\nLet's figure out who our enemy is first! I want you to head into the Noxious Lair and get some parts off of those critters. Get five from the Centipaar there and bring them to Alchemist Pestlezugg for him to dink with. With him on the case, we'll figure out what they are!",
+  "files": [
+   "quests/82-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "04d398549c12",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Pestlezugg",
+  "quest": "Pawn Captures Queen",
+  "en": "Here's the lure. Inside the hive network should be a crystal of some sort. We think the silithid use the crystal as some sort of hive-wide attunement device. As for where this crystal might be, I'd say try the hatcheries inside the hive.\n\nUsing the lure on the crystal should roust out the queen, but be warned - she will probably be protected by several guards. Take out the queen and remove her brain. As icky as that sounds, we desperately need to study it. Good luck, Adventurer!",
+  "files": [
+   "quests/4507-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "2d9a50e2939f",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Pestlezugg",
+  "quest": "Pawn Captures Queen",
+  "en": "Fantastic, Adventurer! We've won quite the victory here today. It will take some time for us to fully understand what we have here; we'll put it to good use though, don't you worry about that.\n\nAs for the silithid, I genuinely doubt that this was the full extent of their presence. This is much too clean of a resolution, I'm sorry to say.",
+  "files": [
+   "quests/4507-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "fda97a947e43",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Haughty Modiste",
+  "quest": "Pirate Hats Ahoy!",
+  "en": "You're the help the Cartel sent? I suppose you'll do. Listen carefully adventurer. As you know, I am a procurer of fashionable apparel for the elite of Azerothian society. Kings and Queens, Warchiefs and, well whatever the Horde calls their queens, all wear what I choose is in style. And they pay through the nose for it, which is the best part.\n\nSo here's what's going to happen. You head down to Lost Rigger Cove and acquire a lot of pirate hats by whatever means. Do you think you can handle that?",
+  "files": [
+   "quests/8365-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "29d361ac9d42",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Haughty Modiste",
+  "quest": "Pirate Hats Ahoy!",
+  "en": "Oh you're a darling, even if it did take you longer than I am accustomed to. This shipment should make me quite a bit of money once I've cleaned and personalized these hats. And seeing as I'm always willing to reward work that's well done, here's a little something for you. I suggest that you spend some of it on a bath sweetie.",
+  "files": [
+   "quests/8365-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "5bbe7d41607f",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Oglethorpe Obnoticus",
+  "quest": "Rescue OOX-17/TN!",
+  "en": "Oh, YOU'RE the great savior of OOX-17/TN! I cannot even begin to express my thanks for your assistance! My homing robot series needs more developing, but your recovery has saved me countless hours of rebuilding time, as well as many gold pieces in rebinding costs!\n\nPlease, take your choice of any of these items I have. Hopefully, you will make good use of one of them. Thank you again for your generous assistance, my robots and I are in your debt!",
+  "files": [
+   "quests/648-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "e8e8159bec86",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Dirge Quikcleave",
+  "quest": "Return to Narain",
+  "en": "I'm a goblin of my word, kid. Here's your 500 pound chicken.\n\nWhat a gnome wants with a 500 pound chicken, I'll never know...\n\n\nProbably to sleep in it... Dirty gnomes...",
+  "files": [
+   "quests/8587-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "b5135c4792c5",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Narain Soothfancy",
+  "quest": "Return to Narain",
+  "en": "MMmmm... This is unbelievable! Best chicken I've ever had!",
+  "files": [
+   "quests/8587-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "811ef3e0d87b",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Gracina Spiritmight",
+  "quest": "Rise of the Silithid",
+  "en": "This report... we night elves know of the terror mentioned here. Fizzledowser was wise to send this, and you, to me.\n\nThese creatures will consume the Tanaris desert rapidly; they are nothing short of one of the greatest menaces we all will ever face. Familiarize yourself with this name, adventurer: silithid. The insects mentioned here are the silithid, and they are the tools of one of the greatest threats that both the Horde and Alliance face.\n\nIf only we were smart enough to see that before.",
+  "files": [
+   "quests/162-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "8ddb61e65421",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Senior Surveyor Fizzledowser",
+  "quest": "Rise of the Silithid",
+  "en": "I urge you to take this report to someone who has working knowledge in this kind of thing.\n\nI know this night elf scholar named Gracina Spiritmight. She's spent a lot of time studying life forms that are unique to the ecology of Azeroth; she's a historian to boot! If you want someone to help figure out what exactly this threat is, and more importantly how to stop it, give her the report. We'll need the help.\n\nLast I heard, she was residing in the Temple of the Moon, located in Darnassus.",
+  "files": [
+   "quests/162-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "34c1188964d3",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Senior Surveyor Fizzledowser",
+  "quest": "Rise of the Silithid",
+  "en": "Here's your report. I urge you to take it to someone who might have working knowledge in this kind of thing.\n\nI know this troll scholar named Zilzibin Drumlore. He's spent a lot of time studying life forms that are unique to the ecology of Azeroth; he's a historian to boot! If you want someone to help figure out what exactly this threat is and how to stop it, give this report to him. We're going to need all the help we can get.\n\nZil lives in a house on the second tier of the Drag in Orgrimmar.",
+  "files": [
+   "quests/32-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "c3a304abcdbc",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zilzibin Drumlore",
+  "quest": "Rise of the Silithid",
+  "en": "This report... I've dealt with these beasts before. Fizzledowser was wise to send this, and you, to me.\n\nThese creatures will consume the Tanaris desert rapidly; they are nothing short of one of the greatest menaces we all will ever face. Familiarize yourself with this name, adventurer: silithid. The insects mentioned here are the silithid, and they are the tools of one of the greatest threats that both the Horde and Alliance face.\n\nIf only we were smart enough to see that before.",
+  "files": [
+   "quests/32-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "01241c9a2e64",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Tran'rek",
+  "quest": "Scarab Shells",
+  "en": "The scarabs of Tanaris have very hard shells! Hard enough to use as a building material for lots of things. So many things!\n\nIn fact, those shells are so useful... the scarabs were hunted all to near extinction!\n\nI know where there are more scarabs, and if you promise to bring me their shells then I'll tell you where they are. Promise?\n\nOk, the scarabs have a colony in Zul'Farrak. I guess the trolls don't hunt them for their shells.\n\nBut you can! Go to Zul'Farrak and get me uncracked shells!",
+  "files": [
+   "quests/2865-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "454e517a41ac",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Tran'rek",
+  "quest": "Scarab Shells",
+  "en": "Oh, great! You got them!\n\nThanks, Adventurer. You're a real lifesaver!",
+  "files": [
+   "quests/2865-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "1e6a9b40cd89",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Yeh'kinya",
+  "quest": "Screecher Spirits",
+  "en": "I seek the spirits of the vale screechers of Feralas. They are the cousins of an old, old god, and their spirits are linked to him.\n\nTake this bramble wand and go to Feralas. Find and defeat vale screechers in southern and central Feralas, then wave my bramble over their fallen bodies. This will coax their spirit to reveal itself. Touch the spirit and collect its essence.\n\nReturn to me with my bramble and with the collected essence, and I will tell you more of the old god of which I spoke.",
+  "files": [
+   "quests/3520-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "e52b6f7f689f",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Yeh'kinya",
+  "quest": "Screecher Spirits",
+  "en": "You have done well, Adventurer. Perhaps now it is time to reveal more...\n\nThere is an ancient prophecy among the trolls, where the dead god Hakkar, the Soulflayer, will one day return to this earth. Some say the coming of Hakkar will bring joy and glory to trollkind, while others believe his resurrection marks the end of all things.\n\nI do not believe this myth, but I do know the essence of Hakkar holds great power, and this power should be kept from those who would abuse it...",
+  "files": [
+   "quests/3520-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "8f0d17177ac0",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Security Chief Bilgewhizzle",
+  "quest": "Ship Schedules",
+  "en": "Oh my, this looks to be a list of ship departures and arrivals, with accurate dates and times and everything! If the captain of a pirate ship got his hands on this, he could have himself a field day!\n\nYou say you got this from a pirate? Well that's disturbing news...\n\nThank you, Adventurer. I'm glad you took it from him, and I'm glad that pirate's eating dirt right now!",
+  "files": [
+   "quests/2876-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "de2205245a82",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Ship Schedule",
+  "quest": "Ship Schedules",
+  "en": "This scroll contains the schedules of shipments between Steamwheedle Port and Booty Bay. Both past and future shipments are included, along with ship names, with large 'X's next to some ships' journeys, and annotations like \"GREAT LOOT\" and \"HARD FIGHT\" next to others.\n\nSomeone at Steamwheedle Port would want to see this document.",
+  "files": [
+   "quests/2876-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "1498f6de8aeb",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Bilgewhizzle",
+  "quest": "Slake That Thirst",
+  "en": "You want a power source. I can help you with that. Know what I want? I want something to drink! Bring me five Wastewander Water Pouches, and I'll give you the 4711-FTZ.\n\nNow... guess where you can find Wastewander Water Pouches! Why don't you walk up to one of the Wastewander nomads to the east of here and ask them for one. Let me know how that works out for you.",
+  "files": [
+   "quests/379-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "b43abf02b546",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Bilgewhizzle",
+  "quest": "Slake That Thirst",
+  "en": "Excellent, the power source is yours. Now, it isn't completely designed for use in a science kit like that, so you'll only have a limited amount of time before all the data you collect will go kablooey!\n\nWhen you collect everything you need for whatever it is you are doing, bring it to me and I'll shut it down properly. You'll have at most two hours to get what you need to get done, done.\n\nIf you don't get it done in time, I can always sell you another power source to try again. You heard me - sell!",
+  "files": [
+   "quests/379-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "70bc3f827b78",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Security Chief Bilgewhizzle",
+  "quest": "Southsea Shakedown",
+  "en": "Argh! They want the impossible from me!\n\nThe Steamwheedle Cartel wants me to teach the Southsea pirates a lesson. The problem is that I can't be in two places at once; I need to stay here to keep the peace.\n\nOf late, the pirates have been disregarding the protection money that the cartel regularly forks over. So I'd like to temporarily deputize you to go down there and show them what for.\n\nYou'll find them at Lost Rigger Cove, which is not too far to the south. Thanks Adventurer, I'll owe you one!",
+  "files": [
+   "quests/8366-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "02d39b37cad1",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Security Chief Bilgewhizzle",
+  "quest": "Southsea Shakedown",
+  "en": "Adventurer! You are the man!!!\n\nI'm sure that the Cartel will ease up on me now that you've dealt with those Southsea scum. Let's see, what can I give you as a reward? How about a little coin and you choose from one of these for your trouble?",
+  "files": [
+   "quests/m-8366-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "3f513bff0a6a",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Sprinkle",
+  "quest": "Sprinkle's Secret Ingredient",
+  "en": "Just sit tight while I get this prepared for you!",
+  "files": [
+   "followup/3661-goblin-female-zany"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "9ad2d3f0c28e",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Sprinkle",
+  "quest": "Sprinkle's Secret Ingredient",
+  "en": "When I was a kid, my sister used to do all the cooking. It was horrible! I could barely stomach some of her concoctions -- until I found what I like to call my \"secret\" ingredient! Add it to anything, and... WOW! It tastes great!\n\nWhat is it, you ask? It's a mushroom called the Violet Tragan. If you want me to help you turn this horrid-tasting brew into something edible, head to the Hinterlands, and look for a small lake there.\n\nOh, and remember, the Violet Tragan can only be found underwater.",
+  "files": [
+   "quests/2641-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "97d107af7d97",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Sprinkle",
+  "quest": "Sprinkle's Secret Ingredient",
+  "en": "That's the stuff, Adventurer!\n\nIt looks so good, I might just... Haha, gotcha!",
+  "files": [
+   "quests/2641-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "f2e5f6b7dcde",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Inconspicuous Crate",
+  "quest": "Stewvul, Ex-B.F.F.",
+  "en": "I can't believe he found me. I thought for sure that I'd lost him when I was in the Outland. I'm not going back there, Traveler! No way, no how! I'm through being his part time best friend forever and full time slave.",
+  "files": [
+   "quests/8577-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "318a632c5144",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Narain Soothfancy",
+  "quest": "Stewvul, Ex-B.F.F.",
+  "en": "If I am to translate anything, I will need my scrying goggles. Unfortunately, those were stolen quite some time ago by my ex-best friend forever, Stewvul. He broke my heart in five places and then left me here to rot.\n\nWith the help of my trusty crystal ball, I've isolated his whereabouts to either the Greymane Wall in Silverpine or what appears to be a portal world in the Outland that is currently being overrun by the Burning Legion. You're going to have to track him down and get my goggles back, Adventurer!",
+  "files": [
+   "quests/8577-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "ab80362b35d2",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "\"Sea Wolf\" MacKinley",
+  "quest": "Stoley's Debt",
+  "en": "My old buddy Stoley owes me a very special bottle of rum. He tends the bar at Steamwheedle Port in Tanaris, Kalimdor, and he promised me that the rum there is stronger than anything we can find in Booty Bay. He's so confident that he says if I try that rum and don't agree with him, then he'll double the money he owes me!\n\nWell, I think he's not as confident as he was when last we spoke, and now he's afraid to give me that rum. But I don't back down from wagers, so why don't you talk to him for me...",
+  "files": [
+   "quests/2872-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "909d6efc83fb",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stoley",
+  "quest": "Stoley's Debt",
+  "en": "Ah, so you've been speaking with MacKinley, have you?\n\nIt's not what he thinks! I'm not afraid to give him some Steamwheedle Bilge Rum...\n\nI just don't have any rum to give him!",
+  "files": [
+   "quests/2872-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "b5a7319cd095",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stoley",
+  "quest": "Stoley's Shipment",
+  "en": "I owe \"Sea Wolf\" MacKinley in Booty Bay some rum, to settle a bet, but I'm all out of rum! Captain Cuergo stole my last shipment, and he has it stowed in that walled pirate town to the south.\n\nIf you can find my shipment of rum and return it to me, then I can prove to MacKinley that Kalimdor's booze beats the dirt out of Booty Bay!",
+  "files": [
+   "quests/2873-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "f9d35a702689",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stoley",
+  "quest": "Stoley's Shipment",
+  "en": "Great, thanks for the shipment! Now MacKinley and I can finally settle our wager.",
+  "files": [
+   "quests/2873-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "7e2effc351c3",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Tran'rek",
+  "quest": "Super Sticky",
+  "en": "I'm always looking for a quick way to earn a gold, Adventurer. If you help me with my newest idea, I'll let you in on a little of the profit. How does that sound to you?\n\nI thought so!\n\nHead to the tar pits in northern Un'Goro Crater, and collect me some tar. Not just any tar, now, you'll need to get it from the beasts that live around the tar pits. Regular tar just simply isn't sticky enough.\n\nThe plant-like creatures contain chlorophyll in their skin, and mixed with the tar, it's super sticky!",
+  "files": [
+   "quests/4504-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "7ffe97b52f16",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Tran'rek",
+  "quest": "Super Sticky",
+  "en": "Yes, this tar is just the stuff...\n\nHey, wait a minute, my hands... I can't seem to get them apart...\n\nMaybe this wasn't such a good idea. Oh, but wait! Super sticky tar remover! That's where the real money is!",
+  "files": [
+   "quests/4504-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "923bccb742c6",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Bink",
+  "quest": "Tabetha's Task",
+  "en": "Rumor is that Tabetha, a mage colleague who lives deep in Dustwallow Marsh, has a bone to pick with a certain sand troll in Zul'Farrak. If you speak with Tabetha she can tell you more.\n\nAnd bring some friends with you, Adventurer. If Tabetha has you go to Zul'Farrak then you're not going to want to go alone.\n\nYou will find Tabetha's cottage west of Theramore, and just north of the Stonemaul Ruin.",
+  "files": [
+   "quests/2861-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "9f1c6eea8bf5",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Deino",
+  "quest": "Tabetha's Task",
+  "en": "Rumor is that Tabetha, a mage colleague who lives deep in Dustwallow Marsh, has a bone to pick with a certain sand troll in Zul'Farrak. If you speak with Tabetha she can tell you more.\n\nAnd bring some friends with you, Adventurer. If Tabetha has you go to Zul'Farrak then you're not going to want to go alone.\n\nYou will find Tabetha's cottage west of Theramore, and just north of the Stonemaul Ruin.",
+  "files": [
+   "quests/2861-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "fc150adaeb78",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Jennea Cannon",
+  "quest": "Tabetha's Task",
+  "en": "Rumor is that Tabetha, a mage colleague who lives deep in Dustwallow Marsh, has a bone to pick with a certain sand troll in Zul'Farrak. If you speak with Tabetha she can tell you more.\n\nAnd bring some friends with you, Adventurer. If Tabetha has you go to Zul'Farrak then you're not going to want to go alone.\n\nYou will find Tabetha's cottage west of Theramore, and just north of the Stonemaul Ruin.",
+  "files": [
+   "quests/2861-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "a3c3be938d99",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Tabetha",
+  "quest": "Tabetha's Task",
+  "en": "That's right. I do have a bone to pick with a troll. A few bones. All her bones!\n\nWant to help me?",
+  "files": [
+   "quests/2861-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "920d66309a6a",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Ursyn Ghull",
+  "quest": "Tabetha's Task",
+  "en": "Rumor is that Tabetha, a mage colleague who lives deep in Dustwallow Marsh, has a bone to pick with a certain sand troll in Zul'Farrak. If you speak with Tabetha she can tell you more.\n\nAnd bring some friends with you, Adventurer. If Tabetha has you go to Zul'Farrak then you're not going to want to go alone.\n\nYou will find Tabetha's cottage west of Theramore, and just north of the Stonemaul Ruin.",
+  "files": [
+   "quests/2861-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "c4eededd5d67",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Bilgewhizzle",
+  "quest": "Tanaris Field Sampling",
+  "en": "All right then, it will take me just a second to remove the power source. After that, you can do with it whatever you like now without having to worry about losing the data inside.",
+  "files": [
+   "quests/654-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "fb1f43206795",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Model 4711-FTZ Power Source",
+  "quest": "Tanaris Field Sampling",
+  "en": "Activating the power source makes the field testing kit start to glow and vibrate. It would seem to be working as planned.\n\nAccording to Chief Engineer Bilgewhizzle, you now have two hours to collect the data you need in the Tanaris desert. If you do not collect it within two hours, all the data will be lost and you will need to buy another power source from him.\n\nReturn to him when you have completed the task.",
+  "files": [
+   "quests/654-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "38749b6b222e",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Andi Lynn",
+  "quest": "The Dunemaul Compound",
+  "en": "Just recently, a large bank of nomadic ogres arrived in Tanaris. South of here, they have taken over a large area of the desert and formed a compound. Several smaller bands are currently wandering the desert, some of which have invaded the old troll ruins.\n\nThe Dunemaul Compound must be destroyed! We cannot allow these ogres to build up a force.\n\nThe leader of this band is named Gor'marok the Ravager; I believe that putting an end to his leadership will be the beginning of the end for the ogres.",
+  "files": [
+   "quests/5863-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "2197619c3f8d",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Andi Lynn",
+  "quest": "The Dunemaul Compound",
+  "en": "I'm so glad you were able to do this for me, Adventurer! Thanks for your help!",
+  "files": [
+   "quests/5863-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "9cba0d200a7c",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mux Manascrambler",
+  "quest": "The Ectoplasmic Distiller",
+  "en": "Ah, you're in need of my latest project... the extra-dimensional ghost revealer! Unfortunately I've run out of funds and manpower.\n\nYou're willing to help? Excellent! Our first task is to build a device to harvest the very fabric of death! Building an ectoplasmic distiller won't be an easy task, Adventurer.\n\nI'll need you to bring me an arcanite converter, some greater eternal essences and stonescale oil. I'll also need some volcanic ash from the lava pools in the Burning Steppes to build a filter.",
+  "files": [
+   "quests/8921-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "7ab6fd436f6b",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mux Manascrambler",
+  "quest": "The Ectoplasmic Distiller",
+  "en": "These are precisely the materials I needed. Quite timely too, Adventurer!\n\nIn mere moments I will have your distiller ready to go! In the meantime, take this as a reward for aiding me in my project.",
+  "files": [
+   "quests/8921-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "3c322eb515fb",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Narain Soothfancy",
+  "quest": "The Good News and The Bad News",
+  "en": "Well that took a little longer than expected. Now let me see what this ledger says.\n\n\n The good news is that I am 99% certain that I am capable of creating an arcanite buoy that will function to your specifications. This is, of course, wholly dependant on the bad news.\n\nThe bad news is that I'm going to need a lot of arcanite, elementium ore, and rare gemstones.\n\nBring me what I need and I will craft the buoy.",
+  "files": [
+   "quests/8728-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "afb807674b13",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Narain Soothfancy",
+  "quest": "The Good News and The Bad News",
+  "en": "A deal is a deal. I sure hope you know what you are getting yourself into, Adventurer. This is an awful lot of trouble to go through to do some fishing.",
+  "files": [
+   "quests/8728-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "3d4ee4fbe0b0",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Molthor",
+  "quest": "The Hand of Rastakhan",
+  "en": "You were sent by the prospector, Ironboot? His kind are wise, and wiser still to bring you to me, for I and the Zandalarian trolls may know a way to defeat the Soulflayer.\n\nSpeak with the trolls of this isle, heed their words, and prepare yourself, Adventurer, for the task before you is soaked in blood.",
+  "files": [
+   "quests/8182-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "018c60001ab9",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Ironboot",
+  "quest": "The Hand of Rastakhan",
+  "en": "Adventurer, our worst fears have come. Legend speaks of the Soulflayer ruling the ancient troll world through evil and terror, and his power was absolute. If he cannot be stopped now, then his new reign may spread across all of Azeroth!\n\nThere is a contingent of Zandalarian trolls who may help us stem this tide of darkness. They have camped on Yojamba Isle, off the coast of Stranglethorn, west of the ruins of Zul'Kunda. Speak with their leader, Molthor, and pray he knows how to defeat Hakkar.",
+  "files": [
+   "quests/8182-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "803bdb14572b",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Dirge Quikcleave",
+  "quest": "The Isle of Dread!",
+  "en": "Legend has it that the chimaerok of the Isle of Dread in Feralas have the most succulent and tender vittles in existence! Now these chimaerok also have a daddy who, with proper preparation, may or may not look like a 500 pound chicken.\n\nHead to the Isle of Dread and kill Lord Lakmaeran and bring me his fresh carcass. That should satisfy the gnome. To satisfy me, you'll need to get your hands on some chimaerok tenderloin.\n\nDo this and you'll have your 500 pound chicken and a little something extra.",
+  "files": [
+   "quests/8585-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "54956b17e330",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Dirge Quikcleave",
+  "quest": "The Isle of Dread!",
+  "en": "Look at the marbleization on those tenderloins! Fantastic!\n\nNow about that chicken... Hrm, let me see. I'm going to need a few minutes to devise the recipe.",
+  "files": [
+   "quests/8585-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "03d1409835e1",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Narain Soothfancy",
+  "quest": "The Only Prescription",
+  "en": "I should have known. My arch-enemy, Doctor Weavil, up to his old tricks! And now, thanks to your failure in Winterspring, Doctor Weavil has destroyed my book! How are you going to save the world now, hero?\n\nThe note I received stated that the only known copy of \"Draconic for Dummies: Volume II\" was ripped into 8 parts and scattered to the wind! If you somehow manage to find those missing chapters, use this magical binding to put them back together and return to me.",
+  "files": [
+   "quests/8620-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "38c8e4d58298",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Narain Soothfancy",
+  "quest": "The Only Prescription",
+  "en": "Fantastic! I can't believe you went through the hassle! Are you some kind of machine? If it were me, I would have probably just let the world implode.\n\nI tip my turban to you, sir. And no good deed should go unrewarded.",
+  "files": [
+   "quests/8620-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "523e6619b537",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Yeh'kinya",
+  "quest": "The Prophecy of Mosh'aru",
+  "en": "The ancient prophecy of Mosh'aru speaks of a way to contain the god Hakkar's essence. It was written on two tablets and taken to the troll city of Zul'Farrak, west of Gadgetzan.\n\nBring me the Mosh'aru tablets!\n\nThe first tablet is held by the long-dead troll Theka the Martyr. It is said his persecutors were cursed into scarabs and now scuttle about his shrine.\n\nThe second tablet is held by the hydromancer Velratha, near the sacred pool of Gahz'rilla.\n\nWhen you have the tablets, bring them to me.",
+  "files": [
+   "quests/3527-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "7dfee4b83dda",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Yeh'kinya",
+  "quest": "The Prophecy of Mosh'aru",
+  "en": "Ah, this is good. I can fuse these ancient tablets together, and then study their hidden secrets.\n\nMy debt to you grows, Adventurer. And it will grow further still.",
+  "files": [
+   "quests/3527-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "53d0130fb0ff",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Senior Surveyor Fizzledowser",
+  "quest": "The Scrimshank Redemption",
+  "en": "Oh, this is just terrible! I sent out my top assistant, Junior Surveyor Scrimshank, into the desert southeast of here. That's an area we call the Gaping Chasm. Well, he's gone missing, and his last report had more of those weird bugs where he was. Could it be that they've infested two major regions of the desert now?\n\nI need you to head into the Gaping Chasm and look for Scrimshank, please! That... or at least find his surveying equipment. I fear that may be all that is left of the poor sod.",
+  "files": [
+   "quests/10-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "21ebf2c60bc8",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Senior Surveyor Fizzledowser",
+  "quest": "The Scrimshank Redemption",
+  "en": "He was a good goblin, young Scrimshank. Let's hope that his demise was not in vain by what he was able to record with his surveying equipment.\n\nIt seems as though we have quite the situation on our hands here with these bugs. They're way too cunning for their own good, and the research we've done so far is shaping up to indicate that they might even be under the controlling influence of a third party! If this is the case, then it bodes ill for not only Gadgetzan, but the whole desert!",
+  "files": [
+   "quests/10-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "f97c0230046a",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Master Gadrin",
+  "quest": "The Spider God",
+  "en": "The Witherbarks worship a spider god, and from her they collect their most potent venom. So if you want the venom, then you must summon their god!\n\nTo do that, you must know her true name, and that name is on a tablet buried in Tanaris, in the troll city of Zul'Farrak, in a tomb guarded by Theka the Martyr.\n\nDefeat Theka and find and read his tablet to discover the spider god's name. When you know it, return to me.",
+  "files": [
+   "quests/2936-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "63ee48f102f0",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Master Gadrin",
+  "quest": "The Spider God",
+  "en": "Ah, Elortha no Shadra... speak this name only in whispers, for its utterance carries much weight in the realms of the spirit.\n\nI will put it to parchment and create for you a spell of summoning...",
+  "files": [
+   "quests/2936-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "3023802df6d8",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Tablet of Theka",
+  "quest": "The Spider God",
+  "en": "Ah, Elortha no Shadra... speak this name only in whispers, for its utterance carries much weight in the realms of the spirit.\n\nI will put it to parchment and create for you a spell of summoning...",
+  "files": [
+   "quests/2936-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "20abec532d6b",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Marvon Rivetseeker",
+  "quest": "The Stone Circle",
+  "en": "I once entered the foreboding chambers of the Sunken Temple. The evil in that place penetrates all that enter; I barely managed to find my way out, wading through the ooze that now covers the floors. All I can remember is stumbling through a large circular room, filled with serpent statues...\n\nRecently, I discovered a round stone that appeared to have the same serpent symbol imprinted on it. I had it packed up and shipped to my workshop in Ratchet. Retrieve it, and I might be able to tell you more.",
+  "files": [
+   "quests/3444-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "ff3670f0eccc",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Marvon Rivetseeker",
+  "quest": "The Stone Circle",
+  "en": "Yes... This is the stone.\n\nIt's all coming back to me now, Adventurer...",
+  "files": [
+   "quests/3444-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "225a0985e28e",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Uldum Pedestal",
+  "quest": "The Stone Watcher",
+  "en": "The stone watcher's voice resonates with power and authority:\n\n\"Your discs will be returned to you once you access the pedestal. When you have obtained the Plates of Uldum and incorporated them into your existing disc set, you may then enter the complex.\"",
+  "files": [
+   "quests/2954-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "22ecb45b747d",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Egg-O-Matic",
+  "quest": "The Super Egg-O-Matic",
+  "en": "You place the hippogryph egg into the machine. A series of beeps follows along with some strange mechanical sounds.\n\nIt appears that the Eggometer has weighed, measured, and packaged your egg. Now that's speedy service!",
+  "files": [
+   "quests/2741-complete",
+   "quests/8893-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "8513f2acd5a3",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Marin Noggenfogger",
+  "quest": "The Thirsty Goblin",
+  "en": "I've got an idea, see. I've heard of some strange creatures called dew collectors that live to the southwest... and that they are able to store water in special glands.\n\nI think that if I could get one of these glands, I could create a drink that would quench my terrible thirst! Do you think you could help me, Adventurer?\n\nLook for the cactus garden, Adventurer; that's where you'll find the dew collectors.",
+  "files": [
+   "quests/2605-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "71bdeebe409f",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Marin Noggenfogger",
+  "quest": "The Thirsty Goblin",
+  "en": "Oh, wonderful! Give it here -- let me drink it!",
+  "files": [
+   "quests/2605-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "3640f340260f",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Tran'rek",
+  "quest": "Thistleshrub Valley",
+  "en": "Have you ever seen Thistleshrub Valley? It's a mighty dangerous place, Adventurer.\n\nThose strange beasts there, I don't trust them for a minute! Gnarled thistleshrubs and thistleshrub rootshapers, that's what I think they were called...\n\nAnyhow, I want to get into the valley, but with so many of those thistleshrubs around, there's no way I'm going back there. But here's where you come in -- if you clear some of them out, I just might think about going back. What do you think, Adventurer? Help me out?",
+  "files": [
+   "quests/3362-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "605704dd7a1c",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Tran'rek",
+  "quest": "Thistleshrub Valley",
+  "en": "They're that big? I might have to rethink my plan...\n\nBut you did hold up your end of the bargain, so here's what I promised.",
+  "files": [
+   "quests/3362-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "d0eabc9b5006",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Tabetha",
+  "quest": "Tiara of the Deep",
+  "en": "Long ago I possessed a beautiful piece of jewelry, the Tiara of the Deep. And not only was it pretty--it held great power for those with the knowledge to use it.\n\nSo when word of the tiara reached the Hydromancer Velratha, she had to have it. She sent agents to my home and they stole it while I was away. The thieves!\n\nI want my tiara back! Go to Zul'Farrak, the troll city in Tanaris, find Velratha and wrench the tiara from her. Return it to me and you'll earn my favor.",
+  "files": [
+   "quests/2846-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "4aab02656a38",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Tabetha",
+  "quest": "Tiara of the Deep",
+  "en": "Wonderful! You found it! And what's just as important--Velratha no longer has it! Thank you, Adventurer. I am forever in your debt!\n\nAnd if I sounded a little... mean before, pay it no mind. You'll find me a much nicer person to those who haven't stolen from me.",
+  "files": [
+   "quests/2846-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "7d7c13fcbe47",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Krazek",
+  "quest": "Tran'rek",
+  "en": "My cousin Tran'rek is in a tight spot. He promised me a load of scarab shells weeks ago and he hasn't delivered. He's my cousin, so I'd hate to have to send someone to Gadgetzan to break something on him.\n\nCan you speak to Tran'rek for me? Let him know he needs to get that delivery together before I do something rash?\n\nGadgetzan is in northern Tanaris, in Kalimdor.",
+  "files": [
+   "quests/2864-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "730cc21ea25a",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Tran'rek",
+  "quest": "Tran'rek",
+  "en": "Hello!\n\nOh, you spoke to my cousin Krazek? How is he? I hope Booty Bay is treating him well...\n\nScarab shells, you say? Well... let me tell you a story...",
+  "files": [
+   "quests/2864-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "9792e6c15e8e",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Narain Soothfancy",
+  "quest": "Translating the Ledger",
+  "en": "First things first, Adventurer! We need to figure out what Azuregos wrote in this ledger.\n\nYou say that he's told you to make an arcanite buoy and that this is the schematic? Strange that he would write this in Draconic. That old goat knows I can't read this nonsense.\n\nIf this is going to work, I'm going to need my scrying goggles, a five hundred pound chicken and volume II of \"Draconic for Dummies.\" Not necessarily in that order.",
+  "files": [
+   "quests/8576-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "3e8d659deb94",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Trenton Lighthammer",
+  "quest": "Troll Temper",
+  "en": "The Sandfury trolls of Zul'Farrak make a tempering agent from sandstones, and I can use that to temper the goods I craft, yes I can! It is highly prized by connoisseurs, so if you bring me a good supply of the temper, then I'll reward you well.\n\nZul'Farrak is northwest of Gadgetzan. Good luck.",
+  "files": [
+   "quests/3042-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "3fcc439dca89",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Trenton Lighthammer",
+  "quest": "Troll Temper",
+  "en": "Ah, this is very nice temper indeed! And so much of it! I'll be at work for days before I use it all!\n\nThank you, Adventurer. Please, take this as payment.",
+  "files": [
+   "quests/3042-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "d3dfc228dc65",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Security Chief Bilgewhizzle",
+  "quest": "WANTED: Andre Firebeard",
+  "en": "Ah, Andre's head. So I guess he'll make his trial after all!\n\nMuch appreciated, Adventurer. Now if you'll just sign here, I can issue you payment for services rendered.\n\nDon't worry about the small print. It's harmless, and... I don't think there's a magnifying glass small enough to read it anyway.",
+  "files": [
+   "quests/2875-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "37fd174b81bc",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "WANTED: Caliph Scorpidsting",
+  "quest": "WANTED: Andre Firebeard",
+  "en": "The vile pirate Andre Firebeard is wanted for crimes against Steamwheedle and Gadgetzan.\n\nBy decree of governing counsel, any who read this are hereby authorized to use lethal force during the apprehension of Andre and his abettors.\n\nBy further decree, should Andre be deceased, or otherwise indisposed, during the time of his hearing, his head may act as proxy, and deliverance of such head to Security Chief Bilgewhizzle constitutes a binding, and tenderable, contract.",
+  "files": [
+   "quests/2875-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "9bda79f5bcec",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Bilgewhizzle",
+  "quest": "WANTED: Caliph Scorpidsting",
+  "en": "Finally - justice is served! You have struck a mighty blow against those vile nomads! With Scorpidsting's demise, this might be just the thing to finally push those squatters off of Gadgetzan's water wells!\n\nBy the authority of the Gadgetzan Water Company, I gladly award you with this bounty. You've done a great service for us all.",
+  "files": [
+   "quests/2781-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "509bf3b7f381",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "WANTED: Caliph Scorpidsting",
+  "quest": "WANTED: Caliph Scorpidsting",
+  "en": "WANTED: Caliph Scorpidsting!\n\nThe Gadgetzan Water Company of Gadgetzan, Tanaris will pay a high bounty for the head of Caliph Scorpidsting, leader of the Wastewander outlaws. His crimes include:\n\n1. Murdering Gadgetzan Water Co. employees!\n2.Stealing Gadgetzan Water Co. resources!\n3.Seizing Gadgetzan Water Co. property!\n\nBring proof of Caliph Scorpidsting's demise to Chief Engineer Bilgewhizzle for an immediate reward!",
+  "files": [
+   "quests/2781-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "94ad05b59ad8",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Rumsen Fizzlebrack",
+  "quest": "War at Sea",
+  "en": "Keep it coming, Adventurer. Us goblins don't forget that easily!",
+  "files": [
+   "quests/9268-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "3c894f5b0779",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Bilgewhizzle",
+  "quest": "Wastewander Justice",
+  "en": "You there! It's time for you to be a big helper to the Gadgetzan Water Company.\n\nThe Wastewander nomads out in the Tanaris desert have seized almost all the water wells! Without access to them, our water supply will dry up in no time. If you want to get in our good graces, then you'll help us bring justice to those nomads!\n\nHead east of here and bring down ten Wastewander Bandits and Thieves, then report back to me on the double. Justice waits for no man... goblin... bah, just get on it!",
+  "files": [
+   "quests/1690-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "9d5ccbe6a381",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Bilgewhizzle",
+  "quest": "Wastewander Justice",
+  "en": "Now that's what I call efficiency! You've helped thin out the nomad's numbers enough now that we can start to think about how we can win back those water wells.\n\nThe Gadgetzan Water Company thanks you for your help, but we're far from done in dealing with those foul nomads. Listen close - here's what we need next...",
+  "files": [
+   "quests/1690-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "54ee8c729aef",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Spigot Operator Luglunket",
+  "quest": "Water Pouch Bounty",
+  "en": "Greetings adventurer - the name's Luglunket, and we've got an important job for you if you're up for it! Huzzah!\n\nNothing would please me more as a seasoned spigot operator to take any Wastewander water pouches you might find out in the desert. That's our water anyway - the nomads have just stolen it is all! The Gadgetzan Water Company will offer you an official care package for every five you turn in. Most importantly though, you're helping Gadgetzan help itself!",
+  "files": [
+   "quests/1707-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "ad9db33a37ac",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Spigot Operator Luglunket",
+  "quest": "Water Pouch Bounty",
+  "en": "Excellent - the more water pouches we are able to reclaim, the further away from disaster we'll all be! Keep 'em coming, and I will be sure to reward you for every five water pouches you bring me.",
+  "files": [
+   "quests/1707-complete",
+   "quests/1878-complete"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "e18b9273e90d",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Freshly Dug Dirt",
+  "quest": "rAnS0m",
+  "en": "We've got your precious book, gnome. If you ever want to see it again, you'll do exactly as we ask.\n\n\nBring the money and come alone!",
+  "files": [
+   "quests/8598-accept"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "649cbd65b23d",
+  "zone": "tanaris",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Narain Soothfancy",
+  "quest": "rAnS0m",
+  "en": "Booknap my... book, will they!? I'll teach them what it means to mess with a psychic gnome!",
+  "files": [
+   "quests/8598-complete"
+  ],
+  "uiMap": 1446
+ }
+]

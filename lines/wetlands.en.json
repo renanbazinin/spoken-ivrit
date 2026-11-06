@@ -1,0 +1,1486 @@
+[
+ {
+  "id": "e412d1c1790a",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Longbraid the Grim",
+  "quest": "A Grim Task",
+  "en": "Many of my soldiers died in the battle of Dun Modr. My own brother perished when the West Bridge over the Thandol Span was destroyed. Aye, the Dark Iron dwarves are a devilish breed. From what Roggo was able to gather, the leader of this band of thugs in the Wetlands is a warlock named Balgaras the Foul. He is quite a coward however. He sends his soldiers to do his bidding but stays elusive, avoiding danger.\n\nIf you can find the spineless scum, slay him and bring me his ear. I will reward you, adventurer.",
+  "files": [
+   "quests/304-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "0c70c89a5cdb",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Longbraid the Grim",
+  "quest": "A Grim Task",
+  "en": "Balgaras the Foul is finally dead. While his death will not bring back the many innocent dwarves who died needlessly by his hand, it will help to restore peace of mind to those who survived. With Balgaras dead, the remaining Dark Iron scum should be easy enough to manage. Now, we must wipe them out before a new leader is sent to these parts.\n\nYou have done well, adventurer.",
+  "files": [
+   "quests/304-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "07b6bd4cfa84",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Bart Tidewater",
+  "quest": "A Lack of Virtue",
+  "en": "<Bart unwraps the gift.>\n\nWhy that no good, son of a--\n\nDid he even tell you that HE is the one who cheats at poker?! I only won enough money to buy the Maiden's Virtue after we kicked him out of our poker circle!\n\nI swear, the next time I see that absolute waste of seawater--\n\nI'm sorry, I'm sorry. I shouldn't shoot the messenger. On behalf of the crew of the Maiden's Virtue--finest ship in the Great Sea--welcome to Menethil Harbor!",
+  "files": [
+   "quests/98459-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "5e8e942ad8af",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tom \"Half-fish\" Wilson",
+  "quest": "A Lack of Virtue",
+  "en": "Bart Tidewater's a no-good cheapskate, I tell ya!\n\n\"Captain of the Maiden's Virtue\" he calls himself. That ship's sailed as far as a rock in Tanaris! He's no captain, he's an actor who won enough hands of poker to buy the Virtue in the first place!\n\nIf you ever find yourself in Menethil Harbor over in the Wetlands, give this to him and let him know it's from ol' Half-fish.\n\nThere's a boat from here that can take you right to the harbor, by the way. It'll be the second stop!\n\nAnd he cheats at poker!",
+  "files": [
+   "quests/98459-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "849ffcae2742",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Caitlin Grassman",
+  "quest": "Alchemical Hazards",
+  "en": "Certain alchemical recipes require ingredients sourced from, well, very dangerous places. And those are often just the base herbs! The other ingredients are even worse!\n\nI need to make more antivenom before I can leave again. I swear everything in this marsh is venomous. It's like it runs through the land itself!\n\nCan you help me? I'll need a venom gland from the spiders in Thelgen Rock to the far southeast. But it has to be unruptured, or too much venom will spill out before you can get here. Sorry!",
+  "files": [
+   "quests/98282-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "5c22fce1b64e",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Caitlin Grassman",
+  "quest": "Alchemical Hazards",
+  "en": "Oh, perfect! This is exactly what I need. You're a real hero, you know.\n\nPlease, I'd be remiss if I didn't share some of the fruits of your labors with you. Stay safe out there!",
+  "files": [
+   "quests/98282-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "f8960a668ca4",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "James Halloran",
+  "quest": "Apprentice's Duties",
+  "en": "I sent my apprentice out into the marshes to skin some of our famous giant Wetlands crocolisks. When he didn't return, I went out to look for him... Let's just say it wasn't a pretty sight.\n\nMidwife says he might pull through, but in the meantime I still need my skins!\n\n...If you'd like to kill a few more of the brutes, I wouldn't be opposed, after what they did. You'll find the crocs north up the coast, beyond the murloc hovels.",
+  "files": [
+   "quests/471-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "03f2de80fa65",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "James Halloran",
+  "quest": "Apprentice's Duties",
+  "en": "Hmm... Don't suppose you'd be interested in becoming my apprentice, would you?\n\nHah! No, I'm just kidding. You're much too old, for one thing. Besides - from the looks of you, it would seem that you have other ambitions in life. Nonetheless, these are some fine skins you've procured, and I'll be able to put them to good use.",
+  "files": [
+   "quests/471-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "e80bdab9015c",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sylessa Duskwhisper",
+  "quest": "Bloom of the Heavens",
+  "en": "I came to Menethil Harbor from Auberdine, from the great tree Teldrassil, to recover a bloom of great import to my people.\n\nMy people's ship the Flying Osprey crashed here many moons ago, joined with the Kul Tiran Third Fleet. Among its cargo was the flower known as Nord'el--Bloom of the Heavens in your tongue--bloomed under a full moon at the peak of Mount Hyjal, our former home.\n\nPlease help me retrieve it! The wreckage is just south of the city, but it is inhabited by fierce murloc raiders!",
+  "files": [
+   "quests/98208-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "813eb4bfb803",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sylessa Duskwhisper",
+  "quest": "Bloom of the Heavens",
+  "en": "It has survived! Oh, Elune be praised!\n\nA thousand thanks, Adventurer. If you are willing, I do have one more favor to ask of you...",
+  "files": [
+   "quests/98208-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "77f5be0e5635",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sylessa Duskwhisper",
+  "quest": "Bloom of the Heavens",
+  "en": "Would you please deliver Nord'el to elder Thundris Windweaver in Auberdine?\n\nThe boat from here should be able to get you there swiftly.\n\nI apologize for the request, I truly do. I remain fatigued from my journey here--and from fleeing those murloc devils when I first attempted to retrieve the sacred bloom!",
+  "files": [
+   "quests/98209-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "7ea7b5e66c62",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ashlan Stonesmirk",
+  "quest": "Bring Back a Bang",
+  "en": "The Dark Irons have a few camps east of here on Direforge Hill, and they've stolen a bunch of explosives from our construction site and hauled 'em back to their tents.\n\nI don't need tae tell ya what kinda mischief Dark Irons can get up tae with a barrel o' powder!\n\nI know the Dark Irons are dangerous, but we need those barrels back. You can tell 'em from other barrels because of the red markings on 'em. We cannae let the Dark Irons keep 'em!",
+  "files": [
+   "quests/88756-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "0e826fbbe702",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ashlan Stonesmirk",
+  "quest": "Bring Back a Bang",
+  "en": "Ach, that's a load off me mind. At least the Dark Irons won't be able to roll a bomb-cart into our wagons... or lob 'em in a trebuchet... or roll 'em down the hill at us... or feed 'em tae slimes and then let the slimes loose near are camp and set 'em on fire.\n\nNow we just have tae make sure the powder stays dry!\n\nThanks!",
+  "files": [
+   "quests/88756-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "e1580ed234cd",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Karl Boran",
+  "quest": "Claws from the Deep",
+  "en": "Murlocs are crawling out from the deep waters and building their villages on the coastline. They are harassing our fishers and merchants and must be stopped.\n\nOne of these Murlocs, Gobbler, skulks with other Bluegill Murlocs and harries merchants along the road, always then retreating to the safety of the nearby Murloc hovels. Our merchants are in jeopardy, and we will pay to secure them.\n\nGobbler prowls the river inlet north of here. Find him, slay his kin, and bring me his head.",
+  "files": [
+   "quests/279-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "52ed1b53c1cd",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Karl Boran",
+  "quest": "Claws from the Deep",
+  "en": "Ah, well done Adventurer.\n\nAccept this as payment for fulfillment of your contract with the Merchant Marines.",
+  "files": [
+   "quests/279-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "c553aba94087",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Archbishop Benedictus",
+  "quest": "Cleansing the Eye",
+  "en": "An Eye of Paleth. But this one has seen much sorrow...it must have been witness to a terrible, terrible tragedy.\n\nLet me cleanse it, for the Eyes were created to shine bright, and their powers can be quite dangerous if tainted like this one.",
+  "files": [
+   "quests/293-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "f387775d99ff",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Glorin Steelbrow",
+  "quest": "Cleansing the Eye",
+  "en": "I can't lift the curse from the Eye of Paleth. The Eyes were crafted by Human Priests, so you'll have to go to Stormwind to find someone who can help you. Speak with Archbishop Benedictus. He is head of the Cathedral of Light in Stormwind. He can help.\n\nI hope, for your sake.",
+  "files": [
+   "quests/293-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "4f019954ff17",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "James Halloran",
+  "quest": "Crocs of the Sky",
+  "en": "You're quite the go-getter! I have just one more favor to ask, if you're up for something a bit more dangerous.\n\nThe crocolisk trade is steady money, but they're small fish compared to what whelp scales will bring. Folks will pay top dollar for a sack of those.\n\nCrocs of the sky, I call 'em! There's no way my apprentice could get them--but it seems right up your alley!\n\nYou'll find whelps far to the east, along the Green Belt. But be careful, there's nasty orcs in those hills!",
+  "files": [
+   "quests/98072-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "cec9ff702cbe",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Einar Stonegrip",
+  "quest": "Daily Delivery",
+  "en": "Greetings, traveler!\n\nDon't suppose you might be heading in the direction of Menethil, would you? If you're not, I'd suggest you stop there, it's a good place to purchase goods and even have a pint and relax.\n\nNow, if it just so happens that you're heading in that direction, I don't suppose you'd mind taking this bundle of crocolisk skins to James Halloran, the tanner?\n\nI'd do it myself, but my wife's been in quite a mood lately, and I'd like to put off facing her as long as possible.",
+  "files": [
+   "quests/469-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "a49c9f02be52",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "James Halloran",
+  "quest": "Daily Delivery",
+  "en": "Hmm, this is from Einar, right? Hasn't delivered his skins to me in person for almost a week now. No doubt it's some differences with the wife!\n\nMaybe I'll have my wife go speak with Sida sometime...",
+  "files": [
+   "quests/469-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "fe87bbc7df9f",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Captain Stoutfist",
+  "quest": "Defeat Nek'rosh",
+  "en": "Stoutly done, Adventurer. You have dealt a telling blow to the Dragonmaw orc clan. They may never recover. And the destruction of those catapults has made Menethil Harbor safe.\n\nYou are a Traveler of merit, and the kingdom of Ironforge rewards those who serve it well.",
+  "files": [
+   "quests/474-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "0da29c947ff9",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Dragonmaw Catapult",
+  "quest": "Defeat Nek'rosh",
+  "en": "Now that the catapults have been burned, find and kill Chieftain Nek'rosh.",
+  "files": [
+   "quests/474-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "7772ee7cda88",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Sida",
+  "quest": "Digging Through the Ooze",
+  "en": "On my weekly visit to Ironbeard's Tomb I was attacked by dreadful, dripping oozes! Naturally, I panicked.\n\nI threw my bag at one, but it didn't do anything! The ooze just sucked it right up... Luckily, it did give me enough time to get away.\n\nThe bad news is that I really need to get the contents of my bag!\n\nI don't know which ooze I threw my bag at; they all looked the same! Ironbeard's Tomb is northeast of here, near Dun Modr. Thank you so much!",
+  "files": [
+   "quests/470-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "774032d3e1f3",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Sida",
+  "quest": "Digging Through the Ooze",
+  "en": "Oh, thank you, adventurer! I was afraid that it was lost for good!\n\n\nHm, I don't have much use for this anymore, but wash it off and I'm sure you could make use of it.",
+  "files": [
+   "quests/470-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "b85dc1c97bef",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Bashana Runetotem",
+  "quest": "Earthen Echo",
+  "en": "Truly, this is a fascinating object.\n\nIt shows indications of being much more than a mere carving or sculpture.\n\nWhile our elders may be interested in observing this artifact, the Earthen Ring are who would carry the most wisdom for our buried ruins and forgotten lands. Seek out Muln Earthfury, a direct approach is fitting for the gravity of what you carry.\n\nYou can find him and other elders of the Earthen Ring council at the Skywatcher Plateau in northwest Mulgore.",
+  "files": [
+   "quests/98823-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "ad2a2145060d",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Harlo Barnaby",
+  "quest": "Fall of Dun Modr",
+  "en": "Dun Modr has fallen to the Dark Iron Dwarves!\n\nMy wounds are grave, adventurer. Most of the regiment was killed! The Dark Iron thugs attacked us before we could regroup from the Thandol Span ambush.\n\nOur leader, Longbraid, sounded the retreat horn. As we left the town I was hit by a stray axe in the back. All went black.\n\nI awoke here in Menethil but I fear for my fellow soldiers. Hope still burns within me. Perhaps Longbraid is still alive! See if you can find him near Dun Modr, traveler!",
+  "files": [
+   "quests/472-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "df00fbf9a2bc",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Longbraid the Grim",
+  "quest": "Fall of Dun Modr",
+  "en": "What brave adventurer sends word from Menethil? Ah Adventurer, they call you.\n\nYou bring hope to a hopeless situation. 'Tis good news indeed that young Harlo survived. While fleeing he received a grievous wound. We had but little time to send him on his way on the back of the only surviving steed with the regiment.\n\nBut now we face a perilous situation. Dun Modr has fallen and we are but a shadow of the great regiment we once were.",
+  "files": [
+   "quests/472-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "2db5c0c4f831",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Dorin Songblade",
+  "quest": "Fallen in the Fen",
+  "en": "Ah no...\n<He buries his head in his hands and sobs.>\n\nI should 'ave gone with 'em.\n\nMuch of what I was smithin' was for 'im, was plannin' a surprise but it wasn't ready when he came by gettin' things for his journey.\n\nNow that these are finished, I don't have it in me to reforge or sell any of it.\nYou can have this. It's the least I can do for you, bringing me this grim day.",
+  "files": [
+   "quests/95795-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "c1abe8fce6da",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Fiora Longears",
+  "quest": "Fiora Longears",
+  "en": "Good day to you! You were sent by Mr. Flint in Menethil Harbor? Well Mr. Flint is a strong judge of character. If he sent you, then there's no doubt you belong here in Kalimdor!",
+  "files": [
+   "quests/1132-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "ec027d1da048",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Red Jack Flint",
+  "quest": "Fiora Longears",
+  "en": "Oh, to be at sea once again! To feel the kiss of the wind, and to have the waves rock me like my blessed mother, long ago!\n\nOh, I wish I had your fortune, good adventurer, for I see the sea in your future!\n\nIt's my job to tell eager souls of the land of Kalimdor, the land of opportunity! If you're willing to try your luck across the sea, then take a ship from here to the lovely port of Theramore. Speak there with my partner, the elf, Fiora Longears.\n\nShe'll start you on your Kalimdor adventure!",
+  "files": [
+   "quests/1132-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "8ce57160e560",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Captain Stoutfist",
+  "quest": "From the Ashes",
+  "en": "In the Second War the Dragonmaw built a fleet where we now stand, intending to take Hillsbrad. They nearly succeeded!\n\nThey were routed by the red dragons, left to mere stragglers deep in the mountains. However, there has been a surge in activity in their encampment northeast of Menethil.\n\nDun Algaz is proof that they intend to march to war once again and retake this land. Find their attack plans, take note of any critical information, and destroy them. We need to know where they will strike next!",
+  "files": [
+   "quests/98221-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "8970ee470a9a",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Captain Stoutfist",
+  "quest": "From the Ashes",
+  "en": "Ironforge as well? Nek'rosh certainly has his father's ambition!\n\nWhat he lacks, of course, is the enslaved army of red drakes that proved so devastating in the war. He's made a gambit, alright--one he will pay for dearly.",
+  "files": [
+   "quests/98221-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "a3efb58e1fb2",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Whelgar",
+  "quest": "Gleaning Our Future",
+  "en": "There are other, larger golems all around the Wetlands. They each bear inscriptions marking them as Ados, Modr, Golm, and Neru--matching the missing pieces of the Goaz Stone you found!\n\nI'd be willing to bet if we can bring pieces of them as well, we'll reveal more of the Goaz Stone!\n\nYou'll find Ados at the Dragonmaw Gates to the east, near Grim Batol. Modr is right outside Dun Modr to the north. Golm lies beneath Grim Batol, east of Dun Algaz. Neru's behind Direforge Hill, to the northeast.",
+  "files": [
+   "quests/98310-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "16c32413713c",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Caitlin Grassman",
+  "quest": "Heartwoven",
+  "en": "Goodness, that sounds terrible!\n\nBy the light, I'm grateful he's one of the survivors.\n\n<She holds the reed-woven heart to her own.>\n\nI'll start cooking a hearty meal for him. Thank you for bringing me this. I'd like you to have something as a token of our appreciation.",
+  "files": [
+   "quests/95809-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "44f095526c9f",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "James Halloran",
+  "quest": "Highland Hides",
+  "en": "The Highlands are host to ruins of some sort, secrets now being explored by an expedition team. What I know is that they've got their own wildlife and beasts lurking in that mountain marshland. How about you take a foray in there with some well-equipped friends, and we work a trade?\n\nI don't care if they're hiding, I want their hides! Bring me the skins from four of the Thicket Raptors, I'll have a trade worked out for you to make it worth it.",
+  "files": [
+   "quests/98815-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "3446ce6436fa",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Merrin Rockweaver",
+  "quest": "In Search of The Excavation Team",
+  "en": "Oh, thank the heavens you are here!",
+  "files": [
+   "quests/305-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "57b7205bf368",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Merrin Rockweaver",
+  "quest": "In Search of The Excavation Team",
+  "en": "It was horrible! We were uncovering some rare artifacts and we began to discover these large bones.\n\nBefore we knew what was happening, these Mottled Raptors overwhelmed the dig site. Many lives were lost.\n\nOrmer here -- so brave -- saved the Prospector and me. He defended us as we ran for shelter. Now we are trapped. And our hard work lies in ruin.\n\nHere, take this note back to my sweet Tarrel. It will explain the situation to him.",
+  "files": [
+   "quests/306-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "ac3b40c592d7",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Tarrel Rockweaver",
+  "quest": "In Search of The Excavation Team",
+  "en": "Oh my, you must be the scout Longbraid said he would send! You cannot imagine how worried I have been.\n\nMy wife, Merrin, has been sending me letters each week for the past month. She is part of the Whelgar Excavation team. But it has been nearly two weeks since her last correspondence. Surely something is wrong!\n\nLongbraid said that he would send a scout to check up on things if we did not hear from the team soon. I assume that scout is you, Adventurer. Find Merrin at the excavation site to the east!",
+  "files": [
+   "quests/305-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "873fb4c6ba6a",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Tarrel Rockweaver",
+  "quest": "In Search of The Excavation Team",
+  "en": "Such horrible news! At least 3 of them survived. But when will the killing end? I long for the day when King Magni's subjects can live without fear.",
+  "files": [
+   "quests/306-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "c09079026937",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Clerk Lendry",
+  "quest": "James Hyal",
+  "en": "James Hyal, James Hyal... Why does that name sound so familiar?\n\nOf course! The Shady Rest Inn incident. If you have any information about what happened there, I would urge you to speak with Captain Vimes about it. He's handling the investigation.",
+  "files": [
+   "quests/1302-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "c5de06b26b81",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Vincent Hyal",
+  "quest": "James Hyal",
+  "en": "My brother James went with Lady Proudmoore across the sea. Last I heard, the fighting had settled down over there, and James was setting up an inn somewhere on the continent. Wherever he is, I'm sure he's doing good business. Damn fine cook he was.\n\nI haven't heard from him for a while now--too busy with his inn, I'd wager--but the clerk in Theramore could probably point you to him.",
+  "files": [
+   "quests/1302-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "4429ecb45b48",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "First Mate Fitzsimmons",
+  "quest": "Lifting the Curse",
+  "en": "To break the curse and free all of my brethren, the...thing...stowed on my ship must be retrieved and cleansed! I don't know what it was, but I do know that it was stored securely in the ship's strongbox, which Captain Halyndor lorded over.\n\nMy old captain is still in my dreams. I know he walks my doomed ship, the Intrepid. Get the key from him, and use it to open the Intrepid's strongbox.\n\nThen, after you have the cursed thing, bring it to the priest Glorin Steelbrow in town.",
+  "files": [
+   "quests/290-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "482b336217c7",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Intrepid's Locked Strongbox",
+  "quest": "Lifting the Curse",
+  "en": "The key is rusted but it fits the lock neatly.",
+  "files": [
+   "quests/290-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "2751aefda0af",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Caitlin Grassman",
+  "quest": "Lost in the Thicket Things",
+  "en": "My husband, Ardin, has a rare gift for sensing nature. He'll scale any peak to gather the herbs and flowers I need for my alchemy, keeping our shelves and pantry stocked.\n\nBut I fear he's wandered into trouble. An excavation crew passed through seeking supplies. They spoke, among other things, of towering grasses unlike anything they'd ever seen. Those were what he told me he had to go see for himself. He's been gone too long!\n\nIf you learn anything of him, I'd be grateful.",
+  "files": [
+   "quests/95647-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "31877c6f8b6a",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Brewmeister Bilger",
+  "quest": "MacKreel's Moonshine",
+  "en": "Ah, nothing like Foggy MacKreel's Moonshine to warm you up on a brisk day! And here I was thinking the little bugger was going to be overdue on his bills again. Thank you, friend! Many thanks indeed!",
+  "files": [
+   "quests/647-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "212b9159e920",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Foggy MacKreel",
+  "quest": "MacKreel's Moonshine",
+  "en": "Had quite a bit of the ol' Moonshine last night! Longbraid would have my head if he knew that I passed out during my watch.\n\nThe noggin hurts something fierce. Felt as though a whole brigade of siege engines passed overhead, all that rumbling.\n\nOh my, look at the time! I promised Brewmeister Bilger in Southshore that I'd repay my debt to him by sending some Moonshine.\n\nBut there are just 15 minutes left before I'm overdue! Take him this batch, would you please? And hurry!",
+  "files": [
+   "quests/647-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "586e8c762920",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Captain Stoutfist",
+  "quest": "Nek'rosh's Gambit",
+  "en": "While you were fighting the Dragonmaws, we discovered more of their plans.\n\nNek'rosh has built catapults and aims to lay siege to Menethil! And with the fighting in Dun Algaz, we're effectively blocked from reinforcements!\n\nYou need to take out those catapults. They're in the Dragonmaw encampment.\n\nHere, take this tinder. Fight your way to the catapults and light them with the tinder.\n\nAnd after you've done that, find and kill Nek'rosh. We need to cut this Dragonmaw beast down...at its neck.",
+  "files": [
+   "quests/465-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "c1dc1a3e9476",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Dragonmaw Catapult",
+  "quest": "Nek'rosh's Gambit",
+  "en": "You place some of the tinder on the catapult then strike a spark onto it.\n\nFlame erupts and quickly spreads!",
+  "files": [
+   "quests/465-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "5df8dd171b8c",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathstalker Agent",
+  "quest": "Open the Maw",
+  "en": "Dragonmaw. <She lets out a dry, amused scoff.>\n\nThe remnants of the dragon-wrangling clan think they've found something that could lead to them rising to their former power. In the eyes of whom... their false warchief?\n\nClear out their ragtag clan within the Excavation Sites so our Deathstalkers can move in undetected.\n\nIf the Dragonmaw carry anything of note upon them, return it to me--this information must stay between us and our royal command.",
+  "files": [
+   "quests/95682-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "4eb90c0842ba",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ormer Ironbraid",
+  "quest": "Ormer's Revenge",
+  "en": "The situation is severe, that much is for sure. When we uncovered these bones it attracted the Raptors. These filthy beasts killed my brethren and trapped me, Merrin and the poor Prospector up here.\n\nHelp clear the Wetlands of these Raptors, Adventurer. Mottled Raptors and Mottled Screechers are just West of the bluff there. Kill 10 of each, if you can.\n\nThat will be a good start to the vengeance I have planned for them.",
+  "files": [
+   "quests/294-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "6141bf887bc1",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ormer Ironbraid",
+  "quest": "Ormer's Revenge",
+  "en": "Killing is a dirty business, but you did your job well, Adventurer. If I weren't obligated to stay with the Prospector and Merrin, I'd be down there shedding blood right along side you.",
+  "files": [
+   "quests/294-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "18c51cbb128e",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ormer Ironbraid",
+  "quest": "Ormer's Revenge",
+  "en": "Now it's time to really make those dreaded Raptors regret their blood-thirst. Just down below there are scores of Mottled Scytheclaws and Mottled Razormaws. Make those rotten creatures pay by slaying 10 of each!",
+  "files": [
+   "quests/295-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "ec0882dbe331",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ormer Ironbraid",
+  "quest": "Ormer's Revenge",
+  "en": "You did a bang-up job of clearing out those Raptors, Adventurer!",
+  "files": [
+   "quests/295-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "c433ab9e9a25",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ormer Ironbraid",
+  "quest": "Ormer's Revenge",
+  "en": "While you were down there I happened to notice that one of those beasts stood out from the rest. He was bigger and more menacing. I bet he's the one who led the others here to cause the disruption to the dig site.\n\nI ask of you now one final task, Adventurer. See to it that Sarltooth is brought to justice. And considering the gravity of his crimes, justice in this case means death! Bring me one of his talons as proof of his death.",
+  "files": [
+   "quests/296-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "205ff7c8a564",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ormer Ironbraid",
+  "quest": "Ormer's Revenge",
+  "en": "Thank you, Adventurer. Your efforts here will not be forgotten. Many innocent Dwarves died at this site, simply doing their jobs. The vengeance you delivered to those evil creatures should make them think twice before attacking King Magni's subjects ever again.",
+  "files": [
+   "quests/296-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "61aedba1ad22",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Captain Nials",
+  "quest": "Plea To The Alliance",
+  "en": "My condolences go out to Longbraid and his brave soldiers. The news of the Thandol Span tragedy and the fall of Dun Modr hangs heavy in my heart.\n\nBut Stromgarde has fallen! Hence our presence here at Refuge Pointe. We are faced with retaking our own great city.\n\nHonor and duty require that we do not leave the Highlands until Stromgarde raises the mighty banner of the King once again. I will send word to Longbraid that he is on his own...",
+  "files": [
+   "quests/634-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "b69d20b7361b",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rhag Garmason",
+  "quest": "Plea To The Alliance",
+  "en": "I ask of you one more small favor, adventurer. We await the reserves of Ironforge. However, Roggo has knowledge of an Alliance camp to the north in Arathi Highlands at Refuge Pointe.\n\nTravel there and seek out Captain Nials. Ask the good Captain if the Alliance can spare some soldiers to help us reclaim Dun Modr and the Thandol Span.",
+  "files": [
+   "quests/634-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "05a79ac08a65",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "High Explorer Magellas",
+  "quest": "Prehistoric Prism",
+  "en": "What's this you've got...\n\nWoah! Look at this marvel! The light through it dances like nothin' I've seen since my first dig in old Uldaman. The marks of the keepers on this cannot be mistaken.\n\nYou've done the League a great service bringin' this home. A find like this pushes the very boundaries o' the world's wisdom forward.\n\nWe'll be sure to record the details of your contribution! Truly a job well done, adventurer.",
+  "files": [
+   "quests/98824-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "e1a5b15b425e",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Whelgar",
+  "quest": "Prehistoric Prism",
+  "en": "With titan-like inscriptions like that on its facets, nothing less than Ironforge's Hall of Explorers is the right place to bring it.\n\nI'd like to think that you'll be noted in the history for it in the catalogue -- \"Recovered by Adventurer! Authenticated by Prospector Whelgar...\" Ah, I'm gettin' meself carried away.\n\nHigh Explorer Magellas will receive you, and given the exquisite nature of what you carry, will surely be most generously appreciative should you donate it to the museum.\n\nGood find!",
+  "files": [
+   "quests/98824-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "f375afce8f7e",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Howin Kindfeather",
+  "quest": "Razormaw Needling",
+  "en": "I don't know who I hate more: the bloody Dark Irons, the Dragonmaw, or the drakes they rode.\n\n<Howin spits.>\n\nI aim tae make things right. But we're gonna need some supplies.\n\nThese whelp scales will protect against dragonfire a good bit, but they're a pain in the arse tae weave together.\n\nThe Razormaw raptors up in Raptor Ridge to the northeast and Saltspray Glen to the northwest are so named for their pointy chompers--they oughta break through the scales.\n\nBring me a handful of the incisors.",
+  "files": [
+   "quests/98245-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "94e15ebff067",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Damaged Crate",
+  "quest": "Reclaiming Goods",
+  "en": "This crate is covered with clawed scratches, and the marks of water damage. Prying it open reveals soggy and rotted straw, as if something of value was stored in the crate. You search through the straw...\n\n...and find an armload of red-colored bottles.",
+  "files": [
+   "quests/281-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "9b8ba5d64d07",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Karl Boran",
+  "quest": "Reclaiming Goods",
+  "en": "Not long ago a merchant vessel, the Blind Princess, was raided by Murlocs. Although the ship escaped intact, much of its cargo was dragged overboard by the creatures, including a very valuable statuette of Terenas Menethil. We want that statuette recovered.\n\nSearch the coastal Murloc hovels for crates, barrels and other evidence of lost cargo. Find the Menethil Statuette and return it to me.",
+  "files": [
+   "quests/281-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "9c030b1cb8e7",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Captain Stoutfist",
+  "quest": "Report to Captain Stoutfist",
+  "en": "Adventurer. Valstag briefed me on your past success with the Dragonmaw Orcs at Dun Algaz. You're a Traveler of worth.\n\nAnd I have a task for you.",
+  "files": [
+   "quests/473-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "14be321f8fab",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Valstag Ironjaw",
+  "quest": "Report to Captain Stoutfist",
+  "en": "Adventurer. The Dragonmaw orc clan is showing its strength in more than just Algaz. Captain Stoutfist has asked to speak with those willing to offer aid against these orcs. He is inside the keep, in the war room.",
+  "files": [
+   "quests/473-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "79300aa856c2",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Kadrell",
+  "quest": "Report to Mountaineer Rockgar",
+  "en": "Mountaineer Rockgar is looking for volunteers for a mission through Dun Algaz and into the Wetlands. \n\nIf you want to get your boots wet in that soggy county to the north, then speak with Rockgar at Dun Algaz. Dun Algaz is north up the road, beyond the guard tower.",
+  "files": [
+   "quests/468-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "385ddb74ad69",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Rockgar",
+  "quest": "Report to Mountaineer Rockgar",
+  "en": "Hello, Adventurer! You're here for the scouting mission, are you? Very good!\n\nI hope your gear is in good condition, because this \"scouting\" mission has changed into something more messy...",
+  "files": [
+   "quests/468-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "55b58d190a76",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Half-buried Barrel",
+  "quest": "Return the Statuette",
+  "en": "After pulling the barrel free from the muck and opening it, a silvery figurine is found packed in fine straw. It depicts a young, long-haired Paladin with hammer upraised.\n\nThis must be the Menethil Statuette! You must now return it to Karl Boran in Menethil Harbor.",
+  "files": [
+   "quests/286-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "e03a6099414f",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Karl Boran",
+  "quest": "Return the Statuette",
+  "en": "The captain of the Blind Princess will be relieved to hear this precious cargo has been recovered. You have well earned this payment for services rendered.\n\nIt is good to see dependable folk like you, especially in trying times such as these.",
+  "files": [
+   "quests/286-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "1db596c33462",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Karl Boran",
+  "quest": "Return the Statuette",
+  "en": "My goodness, it's--it's beautiful!\n\nThe Blind Princess was to deliver this to Menethil Harbor before tragedy struck. We were so close!\n\nI believe it was to be signed for by Captain Stoutfist in Menethil Keep just behind us. Why don't you do the honors of finishing the job?",
+  "files": [
+   "quests/98189-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "9998515a66c7",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Half-buried Barrel",
+  "quest": "Search More Hovels",
+  "en": "This barrel is halfway buried amidst the mud and grass ...",
+  "files": [
+   "quests/285-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "d31c4e97a726",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Sealed Barrel",
+  "quest": "Search More Hovels",
+  "en": "This grouping of Murloc hovels, after a thorough inspection, reveals nothing.\n\n...but you're certain that the next clue you find will be fruitful.\n\nOne of the hovels to the north must have the Menethil Statuette!",
+  "files": [
+   "quests/285-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "e9cd825f4a11",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Caitlin Grassman",
+  "quest": "Seeking Caitlin",
+  "en": "Llana must be wondering where those grass seeds are that I promised I'd have my husband bring back! It comforts me to know she's as concerned as I am. It must be something about the excavation site itself that we're both sensing.",
+  "files": [
+   "quests/95737-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "5264f0e92529",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Dorin Songblade",
+  "quest": "Songblade Search",
+  "en": "Me brother tried draggin' me off tae the Wetlands with some diggin' crew out o' Loch Modan. Said they were headin' into hills no dwarf's ever set boot in for some sort o' excavation.\n\nAye, I'd 'ave gone, if I wasn't already behind on this pile o' girdles I've got to refit.\n\nDaewyn normally writes after he sends off, though. Haven't heard a thing, gives me a strange feelin' this time.\n\nIf yer marchin' that way, mind checking in on me brother?",
+  "files": [
+   "quests/95772-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "4140626e3bd2",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Valstag Ironjaw",
+  "quest": "Spoils of War",
+  "en": "This harbor was first built by the Old Horde as a staging ground for their naval invasion of Hillsbrad. Completely circumvented Lordaeron's defenses!\n\nSo many lives lost...\n\nWhat's worse is that fleet was built with the very resources they stole from Khaz Modan!\n\nPlenty of it remains in the harbor after Admiral Proudmoore routed the brutes and built this place for the Alliance. We'll need it to bolster the town's defenses with the Dragonmaw on the move.",
+  "files": [
+   "quests/98197-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "188f21bdaad6",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Valstag Ironjaw",
+  "quest": "Spoils of War",
+  "en": "Ah! A bit damp, but nothing a few days in the sun won't fix.\n\nThank you, adventurer. It's nice to not solely rely on shipments from Theramore or Auberdine for once!",
+  "files": [
+   "quests/98197-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "6b8896edfdcf",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Rockgar",
+  "quest": "The Algaz Gauntlet",
+  "en": "Orcs of the Dragonmaw clan have a haven in the Wetlands. And now they have expanded into Dun Algaz! We can't let them keep their foothold here or Loch Modan will be cut off from Menethil Harbor, our port and stronghold in the Wetlands.\n\nBreak through Dun Algaz to the Wetlands beyond, and kill some orcs for good measure! Report to Valstag Ironjaw in Menethil Harbor.\n\nMenethil is through Dun Algaz, then north along the road, then west at the fork.\n\nWe're counting on you, Adventurer. Do not fail.",
+  "files": [
+   "quests/455-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "464a5f502157",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Valstag Ironjaw",
+  "quest": "The Algaz Gauntlet",
+  "en": "Your report is full of bad news!\n\nI see the Dragonmaws are making a strong move into Algaz. Normally the Dragonmaws just hide up in the hills. What made them surge into Algaz is still a mystery...\n\nThank you, Adventurer. And we'll probably want your help dealing with these orcs.",
+  "files": [
+   "quests/455-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "24658ce82818",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "First Mate Fitzsimmons",
+  "quest": "The Cursed Crew",
+  "en": "I am the sole survivor of the ill-fated Third Fleet of Kul Tiras, wrecked off the coast to the north. But although I'm the only member of the fleet still breathing, I'm not the only one still walking about! For on one of our ships was hidden a great, and terrible treasure, and the eerie power of it keeps the souls of my brothers trapped within the ships' rotting hulls.\n\nBut if you can free some of my brothers, then perhaps you can break their curse.",
+  "files": [
+   "quests/289-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "3236956de304",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "First Mate Fitzsimmons",
+  "quest": "The Cursed Crew",
+  "en": "My thanks to you, Adventurer. And the gratitude of my cursed brethren goes to you as well.",
+  "files": [
+   "quests/289-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "92f6cc2c97cc",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Motley Garmason",
+  "quest": "The Dark Iron War",
+  "en": "War rages both home and abroad. While mighty Dwarven soldiers give their lives in far off territories in the name of the Alliance, our own lands fall prey to the evil deeds of the Dark Iron Dwarves. They laid waste to the Thandol Span. Dun Modr fell soon after.\n\nWe need you to gather force and push the front back. If you can kill 15 Dark Iron Dwarves, 5 Tunnelers, 5 Saboteurs and 5 Demolitionists, the reserve might arrive in time to finish the drive.\n\nNow make haste!",
+  "files": [
+   "quests/303-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "c2e0e354bd5b",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Motley Garmason",
+  "quest": "The Dark Iron War",
+  "en": "You upheld your orders well, adventurer. You have proven yourself to be a valiant soldier and loyal servant to King Magni and for that I salute you! With the pressure you applied to the Dark Iron encampment, we now stand a chance of driving them off our lands for good. . .if only the damned reserve would show. . . .",
+  "files": [
+   "quests/303-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "00b58b6b6926",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Glorin Steelbrow",
+  "quest": "The Eye of Paleth",
+  "en": "An Eye of Paleth? Amazing! Hmm...there's something wrong with this one. You found it on one of those shipwrecks? Well that explains it! But...I didn't know they had such an Eye on the Third Fleet...\n\nIt's no wonder Fitzsimmons was so spooked. A Cursed Eye of Paleth is no cause for mirth.",
+  "files": [
+   "quests/292-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "b003a5e8f04b",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Intrepid's Locked Strongbox",
+  "quest": "The Eye of Paleth",
+  "en": "Opening the chest reveals a blackened orb, pulsing with an eerie light. It is the treasure of which Fitzsimmons spoke: a Cursed Eye of Paleth.\n\nTake the Cursed Eye of Paleth to the dwarven priest Glorin Steelbrow, in Menethil Harbor. Ask him how to remove the Eye's curse.",
+  "files": [
+   "quests/292-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "616ecdf4ed21",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "First Mate Fitzsimmons",
+  "quest": "The Greenwarden",
+  "en": "You've heard of the Greenwarden? You're not looking for him, are you? Well I say you're crazy if you are, but who am I to keep a fool from his death?\n\nIf you are seeking that beast, then I hear he is in the marsh, east of the road where it forks to Dun Modr. He's lurking there among the crocs...and worse!\n\nAnd leave your money here. You won't need it where you're going...and you don't want to chip ol' Greenie's tooth on your gold when he bites you in half, do you?",
+  "files": [
+   "quests/m-463-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "53a45f8aeba0",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Damaged Crate",
+  "quest": "The Search Continues",
+  "en": "You thoroughly search this cluster of Murloc hovels, and find no trace of the Menethil Statuette.\n\nPerhaps one of the two nearby hovels to the north and northeast will have more clues.",
+  "files": [
+   "quests/284-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "b8b0f81d615e",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Sealed Barrel",
+  "quest": "The Search Continues",
+  "en": "This barrel is largely untouched. Prying it open...\n\n...you are assaulted by the pungent odor of cheese. It's a little wet, but still tasty!",
+  "files": [
+   "quests/284-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "d15e738c2ebc",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Ebenezer Rustlocke's Corpse",
+  "quest": "The Thandol Span",
+  "en": "You search the tiny, dwarven corpse. Engraved into the helmet you can clearly read: Ebenezer Rustlocke.",
+  "files": [
+   "quests/631-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "8eafc8905ea5",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Ebenezer Rustlocke's Corpse",
+  "quest": "The Thandol Span",
+  "en": "It seems as though poor Ol' Rustlocke ran into a Dark Iron ambush. You notice a parchment next to his clenched fist.\n\nReport the grim news to Rhag Garmason and show him what you found.",
+  "files": [
+   "quests/632-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "300ede109ebe",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rhag Garmason",
+  "quest": "The Thandol Span",
+  "en": "A tremendous explosion roared through the hills. 'Twas horrible, I tell you!\n\nGood soldiers died defending the Thandol Span. Longbraid says we'll take revenge on the Dark Irons before all is said and done.\n\nWe're in a world of hurt though and I don't see any reinforcements in sight. Longbraid sent Ol' Rustlocke to scout the eastern bridge to see if we could secure it.\n\nThat was days ago. We haven't the manpower to search for him with Dun Modr under siege.\n\nPerhaps you can find him...",
+  "files": [
+   "quests/631-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "3c657605a9cc",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rhag Garmason",
+  "quest": "The Thandol Span",
+  "en": "Oh my, the news is grave....",
+  "files": [
+   "quests/632-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "5ce3f61c7bd9",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rhag Garmason",
+  "quest": "The Thandol Span",
+  "en": "Heavens no! Poor Rustlocke. 'Tis quite a tragedy indeed.\n\nWe must not let his death pass in vain. This parchment you discovered indicates that Kam Deepfury, the mastermind behind the original attack, arranged for a cache of explosives to be stashed just across the Thandol Span, in Arathi Highlands.\n\nIf those explosives make it to the bridge, our major supply line to the north will be severed! The cache must be destroyed, adventurer! Return to me when your mission is complete.\n\nYou're our only hope.",
+  "files": [
+   "quests/633-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "83ff3a85f4da",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rhag Garmason",
+  "quest": "The Thandol Span",
+  "en": "The remaining bridge is saved! You have done a great service to King Magni and the people of Khaz Modan.\n\nNow if we can only hold out long enough for reinforcements to show...",
+  "files": [
+   "quests/633-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "2a89accf0f4e",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "First Mate Fitzsimmons",
+  "quest": "The Third Fleet",
+  "en": "I was once First Mate on the Wave Mistress, ship-of-the-line in the Kul Tiras Third Fleet. The Doomed Fleet. Doomed, for on its last voyage the fleet was attacked by Red Dragons. Dragons controlled by Orcs!\n\nWe didn't stand a chance against that dragonfire...and our fleet was burned and sunk off this here coast. I'm the sole survivor of those poor vessels...\n\n...Oh, my head hammers and pounds! I'll need a fresh drink if I'm to get a handle on this hangover and continue my tale.",
+  "files": [
+   "quests/288-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "533e94390b82",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "First Mate Fitzsimmons",
+  "quest": "The Third Fleet",
+  "en": "Ah! That hits the spot, and loosens the tongue. Thanks, mate!",
+  "files": [
+   "quests/288-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "f18cd89ba6f8",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Captain Stoutfist",
+  "quest": "This Land Was Their Land",
+  "en": "After the War of the Three Hammers that tore dwarven life as we knew it apart, the Wildhammers settled here, founding the mountain fortress of Grim Batol.\n\nIt was a wondrous place. Gryphons soared everywhere you looked, diving down through the wetlands to grab a fish.\n\nIt didn't last long, sadly.\n\nHowin Kindfeather is one of the first Wildhammers to return in ages. Keeps to himself, far outside of town. Follow the road east--you'll find him eventually. He could surely use a hand.",
+  "files": [
+   "quests/98230-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "4bebc5053140",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Howin Kindfeather",
+  "quest": "Trying Times",
+  "en": "I'll need some eggs if my plan is going tae work. Bassbeak needs a nice an' full belly--I ain't in the business of hoppin' on the back of a surly gryphon.\n\nThey need to be perfect--no cracks or anything.\n\nTake some from the Razormaw raptors--they're known for having yolks the size of a gnome's noggin. You can find 'em in Raptor Ridge to the northeast and Saltspray Glen to the northwest.\n\nLet's make it a nice even dozen, just to be safe.",
+  "files": [
+   "quests/98246-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "1fa368e04113",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Whelgar",
+  "quest": "Uncovering the Past",
+  "en": "Just before the invasion I uncovered a large tablet called the Goaz Stone. The translated text breaks off in 4 places. The text speaks of a \"divine plan\" and a \"doomed prophecy.\"\n\nI fear we are running out of time. I am too old to go down and brave those beasts. But you are strong.\n\nScour the excavation site and uncover the 4 missing tablet fragments: Ados, Modr, Golm and Neru. Search for them in ancient artifacts or where the soil is loose. Bring them to me so I can begin unlocking the mystery!",
+  "files": [
+   "quests/299-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "070db22d9308",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Whelgar",
+  "quest": "Uncovering the Past",
+  "en": "Ah the Goaz Stone is complete! Fine work, Adventurer. Fine work indeed. Now I can continue with the delicate translation of this Titan script. I can make out new words already! Hmm. . .it says here, \"Old Gods. . .Chained Beneath the Land.\" This is the beginning of something epic.",
+  "files": [
+   "quests/299-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "cdeceea8c6d4",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Whelgar",
+  "quest": "Understanding Our Present",
+  "en": "Old Gods?! This cannot be good news at all!\n\nI've made out a new bit on the stone that speaks of a guardian of some kind. Whatever it is, it must be linked to the stone!\n\nTake it with you and see if you can find a big Titan construct of some sort in the excavation. Read this here final passage on the stone and see what happens!\n\nIf I'm right, you'll activate the thing. Take it out if so, but try to preserve anything interesting! We simply must know more!",
+  "files": [
+   "quests/98216-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "5c88d94ffbef",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Whelgar",
+  "quest": "Understanding Our Present",
+  "en": "Look there--see how the Goaz Stone starts to glow when near the keystone? I can almost make out some more words...\n\nWe still must learn more about this Goaz. I feel like we're just on the tip of the iceberg with something huge!",
+  "files": [
+   "quests/98216-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "7a1d8e5c237e",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Archaeologist Hollee",
+  "quest": "Unrequited Love",
+  "en": "If you're heading out of Auberdine, I could use your help!\n\nMy dear friend Tarrel and I were classmates in school. Oh, he was such a quickfire on all things excavation! We got split up after graduation--him to Wetlands, and me to here in Darkshore.\n\n<Hollee sighs, then her brow furrows slightly.>\n\nSorry, and his wife... Merrin.\n\nIt doesn't matter. If you go to the Wetlands, could you make sure he's alright? And maybe give him this? He's probably near Menethil Harbor. There's a boat straight there.",
+  "files": [
+   "quests/98461-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "49cb4f4f893f",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Tarrel Rockweaver",
+  "quest": "Unrequited Love",
+  "en": "<Tarrel reads the note.>\n\nOh... oh my. Poor Hollee.\n\nShe always did have a bit of a thing for me. And, truth be told, there was a time where I would have reciprocated. But I'm married. Happily married!\n\nI think the best thing to do here is not to reply. I don't know how to let her down, and I have far more pressing things to worry about here! My wife is missing!",
+  "files": [
+   "quests/98461-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "ed0694e6560d",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Captain Stoutfist",
+  "quest": "War Banners",
+  "en": "The Dragonmaw orc clan was all but destroyed by the end of the Second War, after they lost control of their red dragon pets. The dragons were not very happy with their old masters, and fiercely hunted the Dragonmaws. What few remained fled from Grim Batol and into the Mountains east of Whelgar's Excavation.\n\nNow they've gained strength, and have an encampment northeast of Menethil.\n\nWe want you to attack that encampment. Gather and bring me their war banners as proof.",
+  "files": [
+   "quests/464-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "08c967d53807",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Captain Stoutfist",
+  "quest": "War Banners",
+  "en": "Well fought, Adventurer. The Dragonmaws are not the same threat they were when they had dragons, but they're still fierce opponents.\n\nThe Dragonmaws are led by Nek'rosh, son of Nekros, who was the former head of the Dragonmaws years ago. Nekros used powerful magic to tame the Red Dragons, but when that magic failed him...the dragons were not happy.\n\nNekros was killed, and his son has vowed revenge against the dragons who slew his father.",
+  "files": [
+   "quests/464-complete"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "d3ece56b4a0e",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "James Halloran",
+  "quest": "Young Crocolisk Skins",
+  "en": "I'm James Halloran, the tanner. My cured crocolisk skins are sought after all over, shipments leaving by boat to ports around the world.\n\nMet Einar? He's one of the hunters that brings crocolisk skins in for me.\n\nI'm a bit short on the softer skins that come off crocolisk young.\n\nBeing that I'm running low, I'll pay you top coin for a stack of the skins. You can find the young crocs in the marshes right outside of town.",
+  "files": [
+   "quests/484-accept"
+  ],
+  "uiMap": 1437
+ },
+ {
+  "id": "8a2e1381b6bc",
+  "zone": "wetlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "James Halloran",
+  "quest": "Young Crocolisk Skins",
+  "en": "Nice work you've done here, adventurer. The quality of these skins is superb. I'll have to get them into the curing process as soon as possible. Oh, but before I get to that, there's some other work I need done that I think you might be able to take care of.",
+  "files": [
+   "quests/484-complete"
+  ],
+  "uiMap": 1437
+ }
+]

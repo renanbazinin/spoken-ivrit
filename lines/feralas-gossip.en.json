@@ -1,0 +1,436 @@
+[
+ {
+  "id": "2bdba17723cb",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Angelas Moonbreeze",
+  "quest": null,
+  "en": "Hello, Adventurer. Perhaps you have some time to chat?",
+  "files": [
+   "gossip/28050ea7a13fe51385c9f3311d4746a1"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "8781441e57e5",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder Grimtotem",
+  "quest": null,
+  "en": "Elder Mistwalker enjoys watching the struggles at the Maul in Feralas.",
+  "files": [
+   "gossip/64ace453066cea13c58f99f1e85cf295"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "e764f3484c23",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder Grimtotem",
+  "quest": null,
+  "en": "I think Elder Splitrock has traveled to Mauradon in the Desolace.",
+  "files": [
+   "gossip/9e23396b9ad89ebcda67974afc38ea06"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "8b3fa0d0fefc",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Mistwalker",
+  "quest": null,
+  "en": "I think Elder Splitrock has traveled to Mauradon in the Desolace.",
+  "files": [
+   "gossip/bbe9c743d6505460c2bdd92d12dca68f"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "23e614f00ad0",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Mistwalker",
+  "quest": null,
+  "en": "You'll find Elder Grimtotem at the Lariss Pavilion in Feralas.",
+  "files": [
+   "gossip/e92d1977683e82b73e3d68d8e65e8cd8"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "6e89bd53e449",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Equinex Monolith",
+  "quest": null,
+  "en": "The large shrine was built many years ago by the night elves that once inhabited this land.\n\nWhat secrets could it hold?",
+  "files": [
+   "gossip/bdffb7bd4c1a549ca21fce4994c04b2e"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "0330befd66db",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gregan Brewspewer",
+  "quest": null,
+  "en": "Hi there! The name's Gregan. What can I do for ya?",
+  "files": [
+   "gossip/7673b1e1c1aee85187bd33011e028202"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "f99d4a6bbcb2",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gregan Brewspewer",
+  "quest": null,
+  "en": "Heh, heh... Quite the inquisitive one, aren't ya, adventurer? Well, here's what you need to do.\n\nNorth of here, in the old ruins, lives a very disagreeable gnoll by the name of Miblon Snarltooth. He guards the only Evoroot I know of, but he watches it night and day! Seems like he never even sleeps!\n\nWhat you can do, is bribe him. I can sell you some bait that he'll find tasty -- just put it down near him and that will distract him long enough for you to grab the Evoroot. Good luck!",
+  "files": [
+   "gossip/f3df391ade7879f97d794ce7af5fee06"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "a9a414b8fcd1",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gregan Brewspewer",
+  "quest": null,
+  "en": "Sure thing, adventurer. You look like you can be trusted... Trustworthy! I can spot that a mile away...\n\nAnyway, back to what I was sayin'. Takes one Evoroot plant to make the Videre Elixir. The rest 'a the ingredients are trivial really, but the Evoroot, well, that can be a bit tricky to get.",
+  "files": [
+   "gossip/f6ad8c672faab789040d554fb2b0b5a6"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "9ae4c13984d5",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Hadoken Swiftstrider",
+  "quest": null,
+  "en": "We must ensure the survival of this camp at all costs, adventurer! Our enemies must not be given any quarter, for they would surely give us none were we to need it.",
+  "files": [
+   "gossip/4d92317d28a869a2e22ffb04c657ac98"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "f6416b2945a2",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Hahrana Ironhide",
+  "quest": null,
+  "en": "I only wish I had more students like you. Not many will venture so far into enemy territory. I salute your courage.",
+  "files": [
+   "gossip/01054e0f81cd813f7dd94d9b5ab20dcc"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "208c02b7ad95",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Hahrana Ironhide",
+  "quest": null,
+  "en": "You have wasted your time and mine by coming to me for training, adventurer. I have no time to teach basic skills. We're fighting a war here, and this is one of the front lines. Don't return to me until you are more prepared.",
+  "files": [
+   "gossip/28f0b9de574960b8c0ef465e0f717dec"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "56b91a98736b",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Hahrana Ironhide",
+  "quest": null,
+  "en": "All requests for my work must be made in person by the buyer. Orwin often asks me to reconsider, but my priorities lie here. Look around you: many of these fighters rely upon me for their armor.",
+  "files": [
+   "gossip/d5ab20385b55a01835bedf887cdb59fe"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "e03f312dcf0e",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jangdor Swiftstrider",
+  "quest": null,
+  "en": "Welcome to Camp Mojache, brave adventurer. How may I assist you this day?",
+  "files": [
+   "gossip/e40a5faf56ab3503cf189bed6d939698"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "d7d8a9eab25f",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Kylanna Windwhisper",
+  "quest": null,
+  "en": "Have you come here for instruction in the art of making potions? You were mistaken if you thought that I would offer such a privilege to you, unearned. Go, and do not return to me until you have greater skill.",
+  "files": [
+   "gossip/4856907d89101ae05bd0436fae2b8d02"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "7b088ead851a",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Kylanna Windwhisper",
+  "quest": null,
+  "en": "Your skill displays an enduring affection for our art, but I would see further evidence of your commitment. I shall charge you with a task. Fulfill it, and I will be content.",
+  "files": [
+   "gossip/7c26a76054cb4a99357c700203091c0b"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "14b887713c97",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Kylanna Windwhisper",
+  "quest": null,
+  "en": "Once I welcomed darkness, for it was the sister of night. Now it is dark all the time, even during the day, and the forests cry out for sustenance. Unless we act soon, this spreading blight will cover the world.",
+  "files": [
+   "gossip/d20db83d74494178c900eb4e6a102125"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "c3fc2d42e21d",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Marli Wishrunner",
+  "quest": null,
+  "en": "The land of Feralas has been through much, traveler. The earth, the trees, the creatures; they are all changing what Feralas is and will be.\n\nThe Twin Colossals above us remain as a constant, though, throughout all that has happened here...",
+  "files": [
+   "gossip/c848f51b35187eedb6b472e16b737fa5"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "6301c51d103e",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Pratt McGrubben",
+  "quest": null,
+  "en": "I swear... if Quint tries to plant one more fishing grub on me, I'm going to hack down his tree with my not-so-rusty sword.",
+  "files": [
+   "gossip/850288efe4dccb31f59391e76405f2b9"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "11a1cbc370fb",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Pratt McGrubben",
+  "quest": null,
+  "en": "Greetings adventurer -- if you're looking for leather goods and leatherworking supplies, you've come to the right semi-retired Paladin.",
+  "files": [
+   "gossip/f4227fc6249932f3aa71dc28e89d87cf"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "600cad26a0c4",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Quintis Jonespyre",
+  "quest": null,
+  "en": "Greetings, adventurer. What may this humble servant of the Feathermoon Stronghold do for you today?",
+  "files": [
+   "gossip/9bd1329116de10f1184fdf255ad9ce76"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "119b689e39a2",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Rok Orhan",
+  "quest": null,
+  "en": "The Gordunni Ogres encroach upon our lands. We send as many as are willing to face them in the desecrated ruins of Feralas.",
+  "files": [
+   "gossip/ea12f291ac809d9141597765719fc0fe"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "8177a752d23f",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Scholar Runethorn",
+  "quest": null,
+  "en": "Oh the horror! The tragedy! We are on the verge of a breakthrough, yet all could be lost.",
+  "files": [
+   "gossip/5fc4f209b2ef0137dc307256ecdd2a18"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "dea0a5797d36",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Talo Thornhoof",
+  "quest": null,
+  "en": "Listen to the stories of an elder. adventurer. I have many to speak of...",
+  "files": [
+   "gossip/fe919449930ea179336d16a22b457806"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "9a2a0a9c9c67",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Uzer'i",
+  "quest": null,
+  "en": "Incredible power can be found in the spirits or \"muisek\" of the creatures that we battle against.\n\nLook inside yourself; learn to harness the power of your own spirit, and you will be more powerful than you ever imagined.",
+  "files": [
+   "gossip/48f9d9ec946770bdc62b7cf862bfbd1f"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "9809ffbc2f32",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Uzer'i",
+  "quest": null,
+  "en": "Existing in this area are many creatures considered allies of the night elves. The elves have had access to the power within each of these creatures; it is time that the horde be allowed this same satisfaction. I have devised a way that this power can be captured and used for our benefit.\n\nDo not doubt what I tell you, adventurer. Help me, and you shall see that I speak truth.",
+  "files": [
+   "gossip/da8a1f5eba022a30ad8c3b4a69e03d12"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "4ada7700900b",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Xylinnia Starshine",
+  "quest": null,
+  "en": "Why don't we see just what you're capable of? If you complete the task I shall be happy to further your training!",
+  "files": [
+   "gossip/71b3c8878ca9d907574fab21af50df1a"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "976b313fbbc7",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Xylinnia Starshine",
+  "quest": null,
+  "en": "If you are seeking a truly rewarding pursuit, then a life of enchanting is for you!",
+  "files": [
+   "gossip/ce24b2e19a5dadecf917c1c4f4fd4ee8"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "adf866babe14",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Xylinnia Starshine",
+  "quest": null,
+  "en": "I know many things, stranger, but your knowledge rivals my own. Enchanters who wish to hone their skills further are known to travel to the Tower of Azora, where an artisan named Kitta Firewind resides.",
+  "files": [
+   "gossip/eaade2c05b8910f296a765c4ce125adc"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "3430e0973738",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Zorbin Fandazzle",
+  "quest": null,
+  "en": "Well hello again, adventurer! I don't know how much longer I'm going to keep on trying to set up a shop out in the middle of nowhere. Still, since you've helped me out in the past, I'll show you some stuff you may find interesting!",
+  "files": [
+   "gossip/35ce1445970071ba504febea09ce9bc3"
+  ],
+  "uiMap": 1444
+ },
+ {
+  "id": "57afa463b25e",
+  "zone": "feralas-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Zorbin Fandazzle",
+  "quest": null,
+  "en": "Maybe this wasn't the best place for a shop after all...",
+  "files": [
+   "gossip/4878b6fdc757a0fa6ec3fdc0bd2136fd"
+  ],
+  "uiMap": 1444
+ }
+]

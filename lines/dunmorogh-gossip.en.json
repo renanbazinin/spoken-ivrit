@@ -1,0 +1,1767 @@
+[
+ {
+  "id": "0aa19b573005",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Alamar Grimm",
+  "quest": null,
+  "en": "The arcane only corrupts those who are weak. Keep up on your training, or you may find a similar fate.",
+  "files": [
+   "gossip/073492d1b775dad17b73e4495accc8b7"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "163f22e0e05f",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Alamar Grimm",
+  "quest": null,
+  "en": "I'm afraid your darkness quotient isn't sufficient enough for me to bother talking to you any further. Move along please.",
+  "files": [
+   "gossip/8045db4a1a25656b86eb87b955fbe642"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "fc6d318d374b",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Alamar Grimm",
+  "quest": null,
+  "en": "Through rigorous retraining I have had to break many students of all they had previously learned so that I might teach them anew. The service I offer becomes increasingly difficult to perform each time it is done. It is for that reason that it becomes increasingly expensive with each retraining. Do you desire that I break you of the talents you have learned?",
+  "files": [
+   "gossip/a9083a5c3e3237e00bd856dcc0fd400d"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "3c4fb6fe6919",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Binjy Featherwhistle",
+  "quest": null,
+  "en": "I can teach you the finer points of Mechanostrider Piloting, provided you have enough gold to cover the lesson!",
+  "files": [
+   "gossip/144516c0f69573ee3346350d1c8751f1"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "ac9e2edf95d9",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Binjy Featherwhistle",
+  "quest": null,
+  "en": "You need to be exalted with the gnomes of the Gnomeregan Exiles before I will teach you how to pilot a Mechanostrider, adventurer.",
+  "files": [
+   "gossip/4a0058f7e90fd806fca67dea42c579d6"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "6e9955e9b86e",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Binjy Featherwhistle",
+  "quest": null,
+  "en": "I'd be wasting both your gold and my time if I were to teach you how to pilot a Mechanostrider, adventurer. You're just too large!",
+  "files": [
+   "gossip/8793a1e3bacd16171e597a2e6e349f3b"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "98da3b24702b",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Branstock Khalder",
+  "quest": null,
+  "en": "I hope the Light is with you, adventurer. Is there anything I can do for you today?",
+  "files": [
+   "gossip/238a7cdf16a7d258e1b3789d98c5e7fb"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "2f44f9709695",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Branstock Khalder",
+  "quest": null,
+  "en": "Through rigorous retraining I have had to break many students of all they had previously learned so that I might teach them anew. The service I offer becomes increasingly difficult to perform each time it is done. It is for that reason that it becomes increasingly expensive with each retraining. Do you desire that I break you of the talents you have learned?",
+  "files": [
+   "gossip/31ab172e1a375db1c9157d594eb608d9"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "c75b7f84f485",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Branstock Khalder",
+  "quest": null,
+  "en": "The Light protect you, adventurer.",
+  "files": [
+   "gossip/852369f0d2fbc11e555e75fe5a433853"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "5ef4202723eb",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Bromos Grummner",
+  "quest": null,
+  "en": "The Light be with ya, adventurer. How can I help ya?",
+  "files": [
+   "gossip/0c2e5af8c299738c3e541d7e001d442e"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "fc4c15614ebb",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Bromos Grummner",
+  "quest": null,
+  "en": "Ya may not follow the ways of the Light like a Knight of the Silver Hand, but ya can always ask us for aid.",
+  "files": [
+   "gossip/6d05441079c12f5737a4ae0732070946"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "a61ded0e85b1",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Bronk Guzzlegear",
+  "quest": null,
+  "en": "Just a minor adjustment here... ah there we go!",
+  "files": [
+   "gossip/7a6856a43c935660b28dc73571129644"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "d2e25e71a2c9",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Cook Ghilm",
+  "quest": null,
+  "en": "I can teach you how to cook!",
+  "files": [
+   "gossip/8aeb96ef5db5b2d70e98dbbaca63f721"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "f7228cbc7aad",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Cook Ghilm",
+  "quest": null,
+  "en": "Cooking is a life long pursuit and I see we share the same passion!",
+  "files": [
+   "gossip/c4162cb7f63061b6eae39dc6b6b814dd"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "7cc69616772b",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Cook Ghilm",
+  "quest": null,
+  "en": "Dirge Quikcleave of Gadgetzan is a master of the culinary arts. To better yourself you will need to seek him out.",
+  "files": [
+   "gossip/de96efe8437890d30d0aff9e01f5f7cb"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "2365d388a44d",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Cook Ghilm",
+  "quest": null,
+  "en": "Seek out Shandrina in Silverwind Refuge. She can sell you the \"Expert Cookbook\".",
+  "files": [
+   "gossip/fe8baba790f8edd0a4e3d2f680dfe89a"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "1827782cd8be",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Dannie Fizzwizzle",
+  "quest": null,
+  "en": "You're no warlock and I've no time for you. Begone!",
+  "files": [
+   "gossip/ba8b5b409d8e88979163e3833b3ca8f7"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "5b1dc602fff6",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Dannie Fizzwizzle",
+  "quest": null,
+  "en": "Want to make your demons more powerful? It'll cost you, but you've come to the right place.",
+  "files": [
+   "gossip/e152d80f8a65a632eb862a6df3b5bc91"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "9c68f8d9df05",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Durnan Furcutter",
+  "quest": null,
+  "en": "I sell the finest cloth and leather garb this side of the valley!",
+  "files": [
+   "gossip/0f7736dc9f16d7152dca3f99e5a42807"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "1226dc01aad1",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Bronzebeard",
+  "quest": null,
+  "en": "Elder Ironband lives in Blackchar Cave in Searing Gorge.",
+  "files": [
+   "gossip/6954eeb9a527a8cef8cc62722874280a"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "ec7bc52f3c8c",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Bronzebeard",
+  "quest": null,
+  "en": "Now is the time when the year is new and the moon shines bright.\n\nIt is our time... when the ancients awake.",
+  "files": [
+   "gossip/98f6f474b4727ae3900b6c9cf1de0ff7"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "46401e8232de",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Goldwell",
+  "quest": null,
+  "en": "Elder Silvervein can be found near Thelsamar in Loch Modan.",
+  "files": [
+   "gossip/65bd0e4bec11189bc9ac50bd03e9d0f4"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "1e02cf93d5d6",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Goldwell",
+  "quest": null,
+  "en": "Elder Bronzebeard can be found in the ancestral home of the Bronzebeards, Ironforge.",
+  "files": [
+   "gossip/f65717b9ef7e2cce484130fee81dd53a"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "e3630eb0fc29",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Foreman Stonebrow",
+  "quest": null,
+  "en": "Troggs! I swear the gods put them in this land only to torment me! Four inches deeper into the mines, then two feet back from the troggs!",
+  "files": [
+   "gossip/028e5bed04e8188efd6d0cab5fc56e8f"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "6e8f6b6d3b76",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gimrizz Shadowcog",
+  "quest": null,
+  "en": "The darkness does not embrace you, adventurer. Cease your prattle and remove yourself from my sight! Be gone!",
+  "files": [
+   "gossip/b18ac3abb515a9b18a91daf4c6f17c2e"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "e465f99eb410",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grelin Whitebeard",
+  "quest": null,
+  "en": "Greetings, lad. I'm Grelin Whitebeard. I'm here to examine the threat posed by the growing numbers of trolls in Coldridge Valley. What have I found? It's a bit troubling...",
+  "files": [
+   "gossip/m-df26604e6baae8d611472c0496eb53e6"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "6d8dd2f88b1f",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hegnar Rumbleshot",
+  "quest": null,
+  "en": "Hegnar Rumbleshot, at your service!",
+  "files": [
+   "gossip/021dde6de017478913faed817d53af98"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "63c10bdf8d74",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hogral Bakkan",
+  "quest": null,
+  "en": "What brings you to this part of the world, adventurer?",
+  "files": [
+   "gossip/cdcf0443cbf0e6c89324a0d43261fbd6"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "55b026420f0d",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Belm",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Bolvar, Magni, or Tyrande.",
+  "files": [
+   "gossip/490f61093d0ec9e8887f5611d0dde3c6"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "74371e6531a9",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Belm",
+  "quest": null,
+  "en": "Love tokens are small messages of affection you can give to amorous town and city folk. Such people will reward you with a gift of adoration.\n\nOr, if you are already adored by another, then at the least they'll give you a gift of friendship.",
+  "files": [
+   "gossip/64973aa51308c04b55be79da97ac51f1"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "b1f69e52b124",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Belm",
+  "quest": null,
+  "en": "What can you do at an inn?\n\nWell when you stay at an inn, you rest very comfortably. Because of this, you will become \"well rested\" much more quickly than you would in the wilderness. When you are well rested, you learn more from experience.\n\nYou may also speak with any innkeeper to get a hearthstone, and can later use the hearthstone in order to quickly return to that inn.",
+  "files": [
+   "gossip/7559d6906f8128171c86805ac0f7eaac"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "a143b6753ee9",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Belm",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Cairne, Sylvanas and Thrall.",
+  "files": [
+   "gossip/a6db9e7560aabbf0956453b311a6e920"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "146da2ac6e9f",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Belm",
+  "quest": null,
+  "en": "Fill yer tankard and pull up a chair. We've stories to tell and kegs to empty.",
+  "files": [
+   "gossip/c3684d8296958c5935a2740fa7611b74"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "041426b9daf2",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Belm",
+  "quest": null,
+  "en": "If you put on cologne or perfume, then you'll see who is amorous. Those are the ones who accept love tokens... and offer a gift in return.\n\nBut remember: to give someone a love token, you have to smell just right! Men like the scent of perfume, while women prefer cologne.",
+  "files": [
+   "gossip/e74b227d686c3a09c784a937420b00fc"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "122391577df1",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Belm",
+  "quest": null,
+  "en": "No, I'm not, but lots of others are looking for love. You should buy my love tokens, put on some cologne or perfume, and then pass them around!",
+  "files": [
+   "gossip/e76319f8e0a3393f78b709a653ebd046"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "5e0fccd831ec",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "The Thunderbrews run a fine Inn in Kharanos which bears their name. Stop in for a pint and a bit of rest.",
+  "files": [
+   "gossip/0ee12bb81d2947b566609b7ba822b401"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "33eb45a25869",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Och! Now ye're talkin'! I bet Granis Swiftaxe could show ye a thing or two about swinging steel. He's over in the Thunderbrew Distillery in Kharanos at the moment.",
+  "files": [
+   "gossip/0fd2049ea24b3dbd43761a96e891bd61"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "cb258564033b",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "The skinners usually take all their hides into Ironforge to dry out. Why don't you head there and see if you can find one to train ye?",
+  "files": [
+   "gossip/12bf423a5f31db52e9d292ceb06ece6b"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "3042da6d7437",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Surely ye didn't think ye would find a town without a resident miner about, did ye? Yarr can usually be found over at Steelgrill's Depot just outside of Kharanos.",
+  "files": [
+   "gossip/1c9825e778eedca69936cc9dcbf549ef"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "bc52bd77ebe0",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Well then, it seems we're both looking for Hogral Bakkan. He's a dwarf to be sure, so sooner or later he'll be heading for the Thunderbrew Distillery for an ale -- he might even be there now.",
+  "files": [
+   "gossip/1f4384179f7f2eff7cf1e505f549b91e"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "c02640915102",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "There's only one hunter around here I would have ye talk to, and that would be Grif Wildheart. Ye'll find him standing just outside the smithy in Kharanos.",
+  "files": [
+   "gossip/3043df25383951a157419bf109bd7229"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "0745e0eef865",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Ye sure ye don't want to learn to be a warrior? Well, it's yer hide on the battlefield. If ye really want to learn to waggle yer finger, ye best talk to Magis Sparkmantle in the Thunderbrew Distillery.",
+  "files": [
+   "gossip/3361a9560236765dd4f9f954267bed44"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "a86aaf73e848",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "If ye need to get yer hands on some guild creation papers ye'll have to head up to Ironforge and visit the Ironforge Visitor's Center.",
+  "files": [
+   "gossip/395a422b3eb1d579d18416f0b5ef4bff"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "221771a02d74",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Amazing to see little flowers persist in the cold of Dun Morogh... but ye won't find any herbalists out here. Ye'll have to go to Ironforge to get some training in that profession.",
+  "files": [
+   "gossip/3fd9a5ca3019eefa0d287e45aeacd7da"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "480f735b967f",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "What do ye need directions to?",
+  "files": [
+   "gossip/411e9efc17c0fa67fa3a65ddbceb693f"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "bb836c2143e6",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Not much fishing to be had around here, but what little there is to be had is Paxton's ye can be sure. Ye can find him fishing out on Iceflow Lake.",
+  "files": [
+   "gossip/467b47eb9a3d4006f250fad9ecb18eb0"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "55d5434c7609",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Shelby Stoneflint houses a good deal of pets for the local hunters. She can be found over by the Thunderbrew Distillery if ye need her to look after a pet.",
+  "files": [
+   "gossip/5011b7376cf9fbdf9a91842132fba2e6"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "a944751e53c6",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Och! Now that's a skill worth knowing. Tognus beats the anvil with a fury ye don't see often. Why don't ye go talk him up and see what he can teach ye?",
+  "files": [
+   "gossip/5240f70aad5a8e58147ce8fae9c1ec57"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "df02ce2908d3",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Nope, nobody who can teach ye herbalism out here. I think ye'll have better luck in Ironforge though.",
+  "files": [
+   "gossip/5aaf2f083eef745315ab1a2dc692fcb0"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "b1bafb26eb4c",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "If ye're looking to learn the profession of leatherworking, ye're gonna need to travel to Ironforge. I hear there's a nice shop near the Great Forge where ye can learn the profession.",
+  "files": [
+   "gossip/5ca39ccf61fd158a1d527dc435d98222"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "a430fdb510f6",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "If ye ask me, I think Grif spends a little too much time with the animals. Still, nobody else knows the hunter's path quite like he does. Look for him outside the smithy in Kharanos.",
+  "files": [
+   "gossip/5d54f11c82628de5397e4af70d935d39"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "c4ff8f87a5de",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Warlocks... I don't care for their lot. Like that Grimrizz who's set up shop outside the Thunderbrew Distillery. The ale will probably go flat there because of him! Warlocks... bah!",
+  "files": [
+   "gossip/60bf6744b34a4b35ea7e3f938b4de2fd"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "f3db2df9415c",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Ye need some training? Well, Azar Stronghammer is always up for showing the younger paladins a thing or two. Why don't ye go see him in the Thunderbrew Distillery.",
+  "files": [
+   "gossip/63af3d038f4096f6bba167a9b297ef08"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "791fdb519791",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Ah, Stonebrow doesn't leave Ironforge much these days so if ye're looking to learn the tailor's profession ye'll have to go to see him up in Ironforge.",
+  "files": [
+   "gossip/63ec46e6d95ea9bc754d4ccb65dd8202"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "64e9371ba95c",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Ironforge is going to be your best bet for leatherworkers. If memory servers, there's a shop by The Great Forge that should meet yer needs.",
+  "files": [
+   "gossip/712130efaf95afb9ccb5f2a5c069c0fc"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "b357828c4a18",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Well, ye won't have much luck with finding a tailor out here. Ironforge is home to a quite a few talented tailors though. Why don't ye go ask a guard there.",
+  "files": [
+   "gossip/720fafcfb6472426d4149a74769fda89"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "f852c99ad5e6",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Gremlock doesn't always have the best of luck with cooking, but he does have some tasty recipies worth learning. Go chat him up in the Thunderbrew Distillery and see what he'll teach ye.",
+  "files": [
+   "gossip/812ca9ddb549b5088d51719a6d51434b"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "59185220643a",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "The Vault in Ironforge is the closest bank ye'll find in these parts.",
+  "files": [
+   "gossip/83965dbeffe98cceda0d3e3dbf0734c2"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "ca54b737dd2a",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Only a few spots to get any fishing done around here. Paxton knows them all and probably a few he won't tell ya about. Why don't ye go over to Iceflow Lake and see what he will tell ya.",
+  "files": [
+   "gossip/8bbfc8f6de8eca0089d8559839569436"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "12aeb3171b0d",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Good ol' Thamner bandaged me up just the other day when I had a run in with a nasty trogg. I'm good as new I tell ye! I'm sure Thamner would be happy to show ye how to make a good bandage.",
+  "files": [
+   "gossip/93839b8ccc68c7af9e06e65b17c1fd90"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "acb7d1758e96",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Oh, a priest is it? Well good ol' Maxan is sure to be found having a drink in the Thunderbrew Distillery if ye need a bit of training.",
+  "files": [
+   "gossip/9a7b6a50e57d38d1acb4f3bff531e0f2"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "1b57e9a3a839",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Ye can probably hear Tognus beating away on the anvil when yer in Kharanos. Although, if ye haven't cleared the wax out of yer ears recently, then why don't ye just have a look in the smithy.",
+  "files": [
+   "gossip/9f64ea1b3225a2261a71922332f8c889"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "d9a4ab6efa35",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "First Aid may not make up for a priest's healing, but it's handy in a pinch. I recommend ye go talk to Thamner in the Thunderbrew Distillery and learn what ye can.",
+  "files": [
+   "gossip/a88b941bc8e164b364a0b5d642a579b5"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "a222da83f528",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "The closest gryphon master is located up in Ironforge near The Great Forge itself. Ye'll need to head to Ironforge if ye want to travel by gryphon.",
+  "files": [
+   "gossip/c32efb4b50768d9afd75e50dc0393a88"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "384cfaee02b4",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "There aren't any enchanters out here in Dun Morogh that I know of. Ye're going to have to visit Ironforge if ye want to learn the enchanter's profession.",
+  "files": [
+   "gossip/ccffed48b48def2c22f1c44f31434020"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "a5b3b801cf99",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Which profession trainer would ye be looking for?",
+  "files": [
+   "gossip/cf38911600ac02c04cb72aafa6596e66"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "5764a4b324b2",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "There's a mage at the Thunderbrew Distillery who might be able to teach you some new spells. I believe his name is Magis Sparkmantle.",
+  "files": [
+   "gossip/cfa572bac748ea1fa7e7c25dc2a4ae04"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "2bb9c960d502",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Ye looking for Hogral? Well did ye check the tavern? Och! If yer looking for a rogue, and a dwarf one at that, ye should start in the Inn! Go have a look already.",
+  "files": [
+   "gossip/d218e9d1194ff62a08601af71245f9b8"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "42bf0ef6fe1d",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "A Thunderbrew ale and a bit of Gremlock's cooking makes for a nice meal indeed. Ye really should hit him up for some training if ye want to be a cook.",
+  "files": [
+   "gossip/d280277830161709ce905baf4cb22615"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "c59169f30da4",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "With all the screws that Bronk has been tightening, I think he's let a few of his own go if ye get me. All the same he's still got a good head for engineering the darndest devices. Ye should go pay him a visit over at Steelgrill's Depot.",
+  "files": [
+   "gossip/d505dd7c90c149052d96dc5021198f21"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "2927a118ee24",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Which class trainer might ye be looking for?",
+  "files": [
+   "gossip/dcadd0f33e63218ef70a191c145117f6"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "a1125f708e4d",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Ye should take a look in Ironforge if ye have yer mind set on enchanting. I think I saw a shop over by the gryphon master last time I was up there.",
+  "files": [
+   "gossip/e56f9fe4500923af12e19f791a883d14"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "d4a69f7bd15e",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "I hear there's a shop up in Ironforge run by the gnomes that specializes in alchemy. You should go have a look.",
+  "files": [
+   "gossip/e59e7a5d5007c14bc99785f8ce315a5c"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "c409c9e8b765",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Oooh, an Inn is it? Well, ye just can't beat the Thunderbrew Distillery. Rest if ye must, but be sure to have an ale or two while ye're there.",
+  "files": [
+   "gossip/e66a69d239e7c3f1206d7f638c44bec1"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "6d502dd1f58b",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "That Granis Swiftaxe could drink a fish under the table and yet his axe still swings true. However, if yer looking for training, ye best catch him while ye can understand him.",
+  "files": [
+   "gossip/ee5ecc14e2bf49a6990e74cae4288e7b"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "990aed850d47",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "That kind of magic is just bad news, I tell ye. I don't know why that Grimrizz has been allowed to set up outside the Thunderbrew Distillery of all places! You stay away from him, you here!",
+  "files": [
+   "gossip/f1180972db6665288081c1cfc7b5f408"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "cfec33a62720",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Ye should check over at Steelgrill's Depot for Bronk. When he's not tinkering with some odd device, he's usually chatting up the pilots about their steam tanks.",
+  "files": [
+   "gossip/f4fbd7429c935511c5657b11b95d1303"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "908aff711ab2",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Nope, no alchemists out here in Dun Morogh. Ye best take a look in Ironforge for them... try the gnomes in Tinker Town.",
+  "files": [
+   "gossip/f7cf19aeccddff42a9a0b22c505718cc"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "f23fa5ec43b9",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Ye'll surely find Maxan Anvol tossin' back a few in the Thunderbrew Distillery. Why don't ye go have yerself a pint and see if he'll teach ye something new.",
+  "files": [
+   "gossip/f9ef4e04eea4de713fc61313fd8a4c8e"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "1e65c826c5cb",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "All those official types reside in Ironforge. Ye'll be wanting to check out the Ironforge Visitor's Center for guild creation papers.",
+  "files": [
+   "gossip/f9fd222716447c9fab43d7fdd2bdcab4"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "74bf10392b97",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "A miner? Ye don't need to ask if lad, only where! Yarr is who yer looking for, and I think ye can find him hiding out over in Steelgrill's Depot.",
+  "files": [
+   "gossip/m-4ef02a6cde5565b37e151274512c0641"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "f42477d9c4ef",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "The nearest bank ye'll find is The Vault in Ironforge, lad.",
+  "files": [
+   "gossip/m-501c83ee292da27782fae1e60bf7c3f3"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "a80bcd3b488c",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Ye won't find any skinners out in here Dun Morogh lad, they're mostly to be found in Ironforge if ye're looking to be trained.",
+  "files": [
+   "gossip/m-6a6954aa23ff423b51b954fe09b144a8"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "bcc3f1116048",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Och... a paladin? Well lad, ye're in luck! Azar Stronghammer is back from training and is currently staying at the Thunderbrew Distillery in Kharanos.",
+  "files": [
+   "gossip/m-9d8f2dd4c4db277f02b3c5d5f15c9354"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "b286c8049ce4",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Well lad, ye can find Shelby Stoneflint right outside the Thunderbrew Distillery in Kharanos. She'll take good care of any pets ye might have.",
+  "files": [
+   "gossip/m-bee5611eb524aaf54dfb7c803d87d4c9"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "c83ace7edee1",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ironforge Mountaineer",
+  "quest": null,
+  "en": "Ye won't find a gryphon master just anywhere around Dun Morogh, lad. Ye're going to have to go to Ironforge if ye want to take a gryphon somewhere.",
+  "files": [
+   "gossip/m-f3c8a5a8b088f61349bd467d2e1e02b1"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "13827526b85b",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Loslor Rudge",
+  "quest": null,
+  "en": "Welcome to Steelgrill's Depot!",
+  "files": [
+   "gossip/f4728e16ba0ebf0c0e140d78d64f6dd7"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "82ae5a4ecd39",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Magis Sparkmantle",
+  "quest": null,
+  "en": "Well met, adventurer. My advice to you is this: As you travel the world, be wary of magic for it will burn the untrained.",
+  "files": [
+   "gossip/8fd77c576e61a6ac69420c6902a2153b"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "182e947aaa81",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Magis Sparkmantle",
+  "quest": null,
+  "en": "Greetings. I'm a mage trainer, and you're a mage.",
+  "files": [
+   "gossip/ba87bd521b00c273a44207b174b44c7a"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "b0115a8f9340",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Marryk Nurribit",
+  "quest": null,
+  "en": "Greetings. I'm a gnome mage trainer, and you're a mage.",
+  "files": [
+   "gossip/89ebbfb158e8bcf8fa80f49f22684c37"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "bd088c312cf9",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Marryk Nurribit",
+  "quest": null,
+  "en": "Well met, adventurer. You want some advice? Befriend a mage! We have a trick or two up our sleeves, we do...",
+  "files": [
+   "gossip/a3abb68c7dc7f0e59d1317d10b3a97cd"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "ae4392452034",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Matrix Punchograph 3005-A",
+  "quest": null,
+  "en": "Brzzzzt!\n\nWelcome to Matrix Punchograph 3005 stroke A, a security level alpha terminal.\n\nWhite punch card detected. Access Granted.\n\n01010100 01100101 01101100 01101100 00100000 01111001 01101111 01110101 01110010 00100000 01100110 01110010 01101001 01100101 01101110 01100100 01110011 00100000 01110100 01101111 00100000 01110000 01101100 01100001 01111001 00100000 01010111 01101111 01010111",
+  "files": [
+   "gossip/5899e16466b0cfc8aa73b7cd3df8170b"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "65b4b57996ba",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Matrix Punchograph 3005-A",
+  "quest": null,
+  "en": "White security card insertion successful...\n\nDispensing security level beta unit.\n\n01010000 01101100 01100001 01111001 00100000 01110100 01101000 01100101 00100000 01010111 01100001 01110010 01100011 01100001 01110010 01100110 01110100 00100000 01110010 01101111 01101100 01100101 01110000 01101100 01100001 01111001 01101001 01101110 01100111 00100000 01100111 01100001 01101101 01100101",
+  "files": [
+   "gossip/6aeeb85288821aec717d313e06a57c8a"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "b86d9b4f56f0",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Matrix Punchograph 3005-A",
+  "quest": null,
+  "en": "Brzzzzt!\n\nWelcome to Matrix Punchograph 3005 stroke A, a security level alpha terminal.\n\nYou must posses a white punch card to access terminal functions.\n\n01000100 01101111 01110111 01101110 00100000 01110111 01101001 01110100 01101000 00100000 01110100 01101000 01100101 00100000 01101000 01101111 01110010 01100100 01100101 00100001",
+  "files": [
+   "gossip/76aaa54e5e30fd41bd34c2fe44645123"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "2af93ae0f37c",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Maxan Anvol",
+  "quest": null,
+  "en": "Serve the Light well, adventurer.",
+  "files": [
+   "gossip/94b518f48b844adeec5c6d975a0ecbef"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "0390dcbab4cd",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Milli Featherwhistle",
+  "quest": null,
+  "en": "Erm... I really don't know you that well, sorry. I mean, as an authorized Mechano-strider dealer, I really only can sell my mounts to those people who are considered exalted amongst the gnomes. If you ever are recognized as exalted to Gnomeregan, I'd be happy to show you what I have to offer.",
+  "files": [
+   "gossip/19b68fb6acf9660f5027bc5ba4f9e9ad"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "de813459b41c",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Milli Featherwhistle",
+  "quest": null,
+  "en": "If you have come looking for the gift of fast and safe mobility, then you have arrived at your destination! This year's model of the new Mechano-striders have recently arrived, and I am ready to show you all they have to offer!",
+  "files": [
+   "gossip/299711f9bfc91cd6e18b4f2a9bc2baae"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "a4688dc720a9",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Milli Featherwhistle",
+  "quest": null,
+  "en": "Um... I think you're a little too big to ride a Mechano-strider there, mister. You'd likely crush the finely tuned servo-balancers!",
+  "files": [
+   "gossip/m-65e354785b26bc4ab909aec7cd4f43eb"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "1dd48b153ecc",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Peria Lamenur",
+  "quest": null,
+  "en": "You've come for training in order to pass it on to your pets?",
+  "files": [
+   "gossip/12e2351404174f85aa98fa3a3524bcd0"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "a50bf326a6bf",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Peria Lamenur",
+  "quest": null,
+  "en": "Ah friend, I only help hunters and their pets.",
+  "files": [
+   "gossip/b439ced1ada35971e9ff2706f428bff0"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "10400c2e1c9c",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Pilot Stonegear",
+  "quest": null,
+  "en": "Driving a Steam Tank isn't for everyone. It takes an iron grip and nerves of steel...lucky I have both! How about you? How's your mettle? Want to prove it to me?",
+  "files": [
+   "gossip/8a0822b237b7e842651bc6e1f35ef5d3"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "2a1e200109af",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ragnar Thunderbrew",
+  "quest": null,
+  "en": "Welcome to the Thunderbrew Distillery, founded by dear ol' pappy, Arkilus Thunderbrew. I've been keeping the place running ever since my older brother, Grimbooze, disappeared in a drunken haze a few harvests ago.",
+  "files": [
+   "gossip/16210fbff7e9a04c6c9ea97276069126"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "6dc21a246d6f",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rejold Barleybrew",
+  "quest": null,
+  "en": "Curse that Brewers' League! They have access to all the best ingredients, while we're stuck here grubbing for grain and hops!\n\nI really would like to give them some bitter tasting justice...",
+  "files": [
+   "gossip/fa20acab17b8e13330e87772d8d5b5b2"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "7cab0f0ad8cc",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Senator Mehr Stonehallow",
+  "quest": null,
+  "en": "I was bred and educated for public service. A representative of the people. My skill was not in arms or crafts, but in words and persuasion.",
+  "files": [
+   "gossip/2250ecb4e137b374adc7b8560f654e8f"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "3ac6b192f0eb",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Solm Hargrin",
+  "quest": null,
+  "en": "What kin I do for ye, adventurer?",
+  "files": [
+   "gossip/22dba637f525eff7a4f6ca7d8c7294cb"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "21da4db849b8",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Solm Hargrin",
+  "quest": null,
+  "en": "Can't help ya, adventurer. I only train rogues.",
+  "files": [
+   "gossip/fa078d44ecb0731e4c2a45f949ae67b1"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "ab18ba9bc6f7",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sten Stoutarm",
+  "quest": null,
+  "en": "Ah, well aren't you a sturdy-looking one? Perhaps you can assist me with a thing or two. Not much help around here except for green apprentices, and they've other things to worry about.",
+  "files": [
+   "gossip/5fc097432cec6da6622815d859a41a7a"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "ddd84b837556",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Talin Keeneye",
+  "quest": null,
+  "en": "Greetings, adventurer! Fine day for hunting, wouldn't you say? I've been having more than a little luck with boars, myself. Perhaps you'd like a shot?",
+  "files": [
+   "gossip/51372d66d806ff4cb6ab1b26eba30eb3"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "256b9a84ad6c",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thamner Pol",
+  "quest": null,
+  "en": "I can train you in First Aid techniques.",
+  "files": [
+   "gossip/61338bf2449f9fe80a4879d402d94c72"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "d7f4058b77f2",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thamner Pol",
+  "quest": null,
+  "en": "I've heard it said that Deneb Walker, holed up in Stromgarde, has a book that is sure to help improve your First Aid techniques.",
+  "files": [
+   "gossip/73b3f07d486fb7ce23b8df9c95511471"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "748102ccb27d",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thamner Pol",
+  "quest": null,
+  "en": "The esteemed Doctor Gustaf VanHowzen can train you further. He can be found in Theramore treating the wounded at the barracks.",
+  "files": [
+   "gossip/ac5120ee0f594edb256081dbc34f1a6f"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "fb4141065683",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thorgas Grimson",
+  "quest": null,
+  "en": "I kinnae help ye with trainin'. Ye should look fer a adventurer trainer.",
+  "files": [
+   "gossip/65ffa984c80ec793cab656acd848ac8c"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "9ce33718b008",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thorgas Grimson",
+  "quest": null,
+  "en": "Wot kin I do fer ye?",
+  "files": [
+   "gossip/ff4c1db50d39977890db3fe889ea21ae"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "336b2394f1a6",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thran Khorman",
+  "quest": null,
+  "en": "The big wars might be over, for now, but we still have to keep our skills sharp!",
+  "files": [
+   "gossip/ce85977b0f1b155023ca49641a927acd"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "3d56c3b16cf6",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thran Khorman",
+  "quest": null,
+  "en": "Yer no warrior... Why ye wouldn't even last a day under my training regimen! \n\nA adventurer who thinks he's a warrior. Ha!",
+  "files": [
+   "gossip/m-64a04066374cb355ff1adeae11f4ae82"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "aec144a6972a",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Tog Rustsprocket",
+  "quest": null,
+  "en": "I wish the snow would just all melt away. It's always getting my robe wet and messing up everything!",
+  "files": [
+   "gossip/0e1456f0d5c9168f7737048858545bb6"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "83ba3c57caa9",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Tognus Flintfire",
+  "quest": null,
+  "en": "Here for training eh? Just began my training meself, but I would be glad ta teach ye what I can.",
+  "files": [
+   "gossip/5fcded33d34a5f55fd70058a5461f5ed"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "0999cb2968a4",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Tognus Flintfire",
+  "quest": null,
+  "en": "Good day to ye lad. Can I be of service?",
+  "files": [
+   "gossip/m-9e8b94c1be7b802ff587b91f7fd1bd92",
+   "gossip/c7b8f5bb1b3fb39c59f309b69d3c1385"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "d9fb7d2a6dbe",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Tognus Flintfire",
+  "quest": null,
+  "en": "Ye learn fast lad, much faster than I can keep up with. If ye want ta continue yer training, I suggest ye see my teacher. His name's Rotgath, Rotgath Stonebeard and ye'll find him in Ironforge at The Great Forge.",
+  "files": [
+   "gossip/m-b87832ee885e2c2b541409175c3036f5"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "f3bf2b926ec1",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ultham Ironhorn",
+  "quest": null,
+  "en": "You need to be exalted with the dwarves of Ironforge before I will teach you a riding skill, adventurer.",
+  "files": [
+   "gossip/5a3771c3d2bdfebe5e171c408b765d17"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "80f0d08da6b5",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ultham Ironhorn",
+  "quest": null,
+  "en": "I can teach you the finer points of Ram Riding, provided you have enough gold to cover the lesson!",
+  "files": [
+   "gossip/5d9316f17b94eb5c320945684a88c12d"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "3a5d5e7b304e",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Veron Amberstill",
+  "quest": null,
+  "en": "You've not had a steed until you've taken the reigns of a finely bred Barak Tor'ol mountain ram, my friend. Please, feel free to inspect these fine companions to any adventurer. They'll serve you well, believe me.",
+  "files": [
+   "gossip/3caea1966e7ba5ccaa3d5ba89520c93f"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "6c4dbcbf3dcd",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Veron Amberstill",
+  "quest": null,
+  "en": "Not so fast, guy... I'll not be handing out the reigns of a mighty ram steed to someone that's not a proven ally of the dwarves of Ironforge. Once you've been recognized as exalted to Ironforge, I'll gladly show you what varieties of rams I have for sale.",
+  "files": [
+   "gossip/m-5953f84af6e63c466e0a1f64d4a3f981"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "38889a3ed0b1",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Warg Deepwater",
+  "quest": null,
+  "en": "Your skill exceeds mine, though I've heard that Old Man Heming in Booty Bay has copies of \"The Bass and You\". That is sure to help you increase your skill.",
+  "files": [
+   "gossip/88fec34af6aec4e24b11fe1f3ad60422"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "78971fd0e216",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Warg Deepwater",
+  "quest": null,
+  "en": "You will need to find Nat Pagle in Dustwallow Marsh to get any better than you are currently.",
+  "files": [
+   "gossip/b4e4101905820aead3b6b58b95cdc8ed"
+  ],
+  "uiMap": 1426
+ },
+ {
+  "id": "0a87c6fe9e12",
+  "zone": "dunmorogh-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Warg Deepwater",
+  "quest": null,
+  "en": "I can teach you fishing skills.",
+  "files": [
+   "gossip/cc6057593751f84f1d2743551c270cf4"
+  ],
+  "uiMap": 1426
+ }
+]

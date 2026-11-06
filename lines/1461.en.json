@@ -1,0 +1,532 @@
+[
+ {
+  "id": "8ffb944521d7",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Sergeant Maclear",
+  "quest": "Arathi Basin Mark of Honor!",
+  "en": "War must be fought with soldiers, any soldier will tell you. They'll also say that a battle fought with poor gear or on an empty stomach is lost before it starts!\n\nThat is why Arathi Basin is important. There are key areas in the basin that hold essential resources. Metals, weapons, food, lumber - all are needed, and all can be gained there.\n\nThat is what I want from you, Adventurer. Enter Arathi Basin, win the battle by holding more bases than the enemy, and return to me with a Mark of Honor.",
+  "files": [
+   "quests/8080-accept",
+   "quests/8154-accept",
+   "quests/8155-accept",
+   "quests/8156-accept",
+   "quests/8297-accept"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "f115d271eec3",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Sergeant Maclear",
+  "quest": "Arathi Basin Mark of Honor!",
+  "en": "You got the Mark! Great job! I'll send the ressources to our quartermasters, who can quickly disperse them to our troops.\n\nThank you, Adventurer. Indeed, performing successful missions like the one you achieved are how wars are truly won.",
+  "files": [
+   "quests/8080-complete",
+   "quests/8154-complete",
+   "quests/8155-complete",
+   "quests/8156-complete",
+   "quests/8297-complete"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "8fe75be0750a",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Sergeant Maclear",
+  "quest": "Arathi Basin Resources!",
+  "en": "War must be fought with soldiers, any soldier will tell you. They'll also say that a battle fought with poor gear or on an empty stomach is lost before it starts!\n\nThat is why Arathi Basin is important. There are key areas in the basin that hold essential resources. Metals, weapons, food, lumber - all are needed, and all can be gained there.\n\nThat is what I want from you, Adventurer. Enter Arathi Basin, win the battle by holding more bases than the enemy, and return to me with a crate of resources.",
+  "files": [
+   "quests/8080-accept",
+   "quests/8081-accept",
+   "quests/8154-accept",
+   "quests/8155-accept",
+   "quests/8156-accept",
+   "quests/8157-accept",
+   "quests/8158-accept",
+   "quests/8159-accept",
+   "quests/8297-accept",
+   "quests/8298-accept"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "f884a1ebb709",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Sergeant Maclear",
+  "quest": "Arathi Basin Resources!",
+  "en": "You got the resources! Great job! I'll send the resources to our quartermasters, who can quickly disperse them to our troops.\n\nThank you, Adventurer. Indeed, performing successful missions like the one you achieved are how wars are truly won.",
+  "files": [
+   "quests/8080-complete",
+   "quests/8154-complete",
+   "quests/8155-complete",
+   "quests/8156-complete",
+   "quests/8297-complete"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "db29d5343834",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Samuel Hawke",
+  "quest": "Arathor Advanced Care Package",
+  "en": "You've certainly begun to prove yourself to us, Adventurer. As a reward, please take this care package! Inside it you'll find rations and bandages that are usable only inside Arathi Basin.\n\nAs you continue to prove yourself inside the Basin, you'll find that these items will become available to you for purchase. Rations become available when you are Friendly with us, and bandages when you are Honored.",
+  "files": [
+   "quests/8262-complete"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "15d7b70edb39",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Samuel Hawke",
+  "quest": "Arathor Basic Care Package",
+  "en": "You've certainly begun to prove yourself to us, adventurer. As a reward, please take this care package! Inside it you'll find rations and bandages that are usable only inside Arathi Basin.\n\nAs you continue to prove yourself inside the Basin, you'll find that these items will become available to you for purchase. Rations become available when you are Friendly with us, and bandages when you are Honored.",
+  "files": [
+   "quests/8260-complete",
+   "quests/8261-complete"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "63025c68ad5b",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alliance Brigadier General",
+  "quest": "Claiming Arathi Basin",
+  "en": "Winning a war is about more than just outsmarting and outfighting your opponent. Victory often comes down to simply producing more than your enemy.\n\nWhat we have in Arathi Basin is a sizeable supply of resources for whichever side manages to claim it first.\n\nIf the Alliance comes out victorious, it'll mean more swords and pikes for our troops. If the Horde were to win, those swords and pikes would still get made, they'd just be pointed at us! Now is the time to help the Alliance in Arathi Basin, Adventurer.",
+  "files": [
+   "quests/8374-accept",
+   "quests/8393-accept",
+   "quests/8394-accept",
+   "quests/8395-accept",
+   "quests/8396-accept"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "5a75451bbdda",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alliance Brigadier General",
+  "quest": "Claiming Arathi Basin",
+  "en": "Good work, soldier! Keep it up and we'll have the Horde running all the way back to Orgrimmar.",
+  "files": [
+   "quests/8374-complete",
+   "quests/8384-complete",
+   "quests/8391-complete",
+   "quests/8393-complete",
+   "quests/8394-complete",
+   "quests/8395-complete",
+   "quests/8396-complete"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "7914d8836542",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alliance Brigadier General",
+  "quest": "Claiming Arathi Basin",
+  "en": "Excellent work, adventurer! Your efforts will help provide the Alliance with the resources it needs.",
+  "files": [
+   "quests/8392-complete",
+   "quests/8397-complete",
+   "quests/8398-complete"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "7f81177ab072",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Horde Warbringer",
+  "quest": "Conquering Arathi Basin",
+  "en": "Our conflict with the Alliance has escalated to a true war. No longer are false pretenses to enter into battle used or expected by either side at this point.\n\nThe battle for the Arathi Basin is one of resources, plain and simple. Either the Alliance gets the resources and uses them against us or we get them and use them to keep our war efforts going. Help the Defilers maintain the flow of resources we need, Adventurer!",
+  "files": [
+   "quests/8370-accept",
+   "quests/8436-accept",
+   "quests/8437-accept",
+   "quests/8438-accept",
+   "quests/8439-accept"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "98b1fb6a909d",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Horde Warbringer",
+  "quest": "Conquering Arathi Basin",
+  "en": "Securing our resources in Arathi is an important task! You've done well, Adventurer.",
+  "files": [
+   "quests/8370-complete",
+   "quests/8390-complete",
+   "quests/8436-complete",
+   "quests/8437-complete",
+   "quests/8438-complete",
+   "quests/8439-complete",
+   "quests/8441-complete",
+   "quests/8442-complete"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "8fee4908dbdf",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Horde Warbringer",
+  "quest": "Conquering Arathi Basin",
+  "en": "Excellent work, Adventurer! As long as Arathi Basin stays under our control our supplies will be well stocked.",
+  "files": [
+   "quests/8440-complete"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "3045058a9c99",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Horde Warbringer",
+  "quest": "Conquering Arathi Basin",
+  "en": "Excellent work, adventurer! As long as Arathi Basin stays under our control our supplies will be well stocked.",
+  "files": [
+   "quests/8443-complete"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "251add204e3b",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Field Marshal Oslight",
+  "quest": "Control Five Bases",
+  "en": "Adventurer, battling for the resources of Arathi Basin is a bloody undertaking. Your services to the League of Arathor are are needed as they are appreciated.\n\nAnd we have one more task for you.\n\nThe League wishes to make one strong push against the Defilers' occupation of Arathi Basin. We want them driven out of every strategic point on the battlefield!\n\nIt will not be easy, but if anyone can get it done, it is you.",
+  "files": [
+   "quests/8115-accept"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "f114f320e49c",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Field Marshal Oslight",
+  "quest": "Control Four Bases",
+  "en": "Adventurer, you have taken the battle of Arathi Basin to our enemies and earned great honors in that field of battle. You have shown us your worth as a adventurer, and you have shown our enemies that we will not submit to their villainy!\n\nBecause of your proven value to us, I have a difficult task for you. I want you to take and hold at least four of the bases in Arathi Basin. If you can do that, then we will not only secure critical resources, we will show the Horde our dominance!\n\nGo, Adventurer, and good fortune.",
+  "files": [
+   "quests/8114-accept"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "06f9e4499838",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Field Marshal Oslight",
+  "quest": "Control Four Bases",
+  "en": "Very good work, adventurer! An excited scout came to me with a report of your exploits. We in the League of Arathor are very pleased!\n\nYou are swiftly becoming a local hero among the soldiers in the League, and today's deed once again proves your sterling reputation.",
+  "files": [
+   "quests/8114-complete"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "1198fbe4e410",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathstalker Mortis",
+  "quest": "Cut Arathor Supply Lines",
+  "en": "The League of Arathor is sparing no expense in their move to retake Arathi. They, and all the races of the Alliance, now stream to this distant region, intent on expanding their hold from Refuge Pointe. We must stop them, and the best means to stop them is to take their supplies.\n\nYou can help us, Adventurer. Enter Arathi Basin, known for its rich mines, fertile land and skilled craftsman. Capture and control every base you can, win the battle, and return to me with the resources you gain.",
+  "files": [
+   "quests/8123-accept",
+   "quests/8124-accept",
+   "quests/8160-accept",
+   "quests/8161-accept",
+   "quests/8162-accept",
+   "quests/8163-accept",
+   "quests/8164-accept",
+   "quests/8165-accept",
+   "quests/8299-accept",
+   "quests/8300-accept"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "5f84790823bc",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathstalker Mortis",
+  "quest": "Cut Arathor Supply Lines",
+  "en": "The League of Arathor is sparing no expense in their move to retake Arathi. They, and all the races of the Alliance, now stream to this distant region, intent on expanding their hold from Refuge Pointe. We must stop them, and the best means to stop them is to take their supplies.\n\nYou can help us, Adventurer. Enter Arathi Basin, known for its rich mines, fertile land and skilled craftsman. Capture and control every base you can, win the battle, and return to me with the Mark of Honor you gain.",
+  "files": [
+   "quests/8123-accept",
+   "quests/8160-accept",
+   "quests/8161-accept",
+   "quests/8162-accept",
+   "quests/8299-accept"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "22596434ea05",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathstalker Mortis",
+  "quest": "Cut Arathor Supply Lines",
+  "en": "Another decisive blow has been dealt against our enemies, adventurer. Thanks to your deeds, Arathi Basin is soon to be taken hold of by the Defilers.",
+  "files": [
+   "quests/8123-complete",
+   "quests/8160-complete",
+   "quests/8161-complete",
+   "quests/8162-complete",
+   "quests/8299-complete"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "db2ff05a1e94",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Rutherford Twing",
+  "quest": "Defiler's Advanced Care Package",
+  "en": "You've certainly begun to prove yourself to us, Adventurer. As a reward, please take this care package! Inside it you'll find rations and bandages that are usable only inside Arathi Basin.\n\nAs you continue to prove yourself inside the Basin, you'll find that these items will become available to you for purchase. Rations become available when you are Honored with us, and bandages when you are Revered.",
+  "files": [
+   "quests/8265-complete"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "67b0df14f7ec",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Rutherford Twing",
+  "quest": "Defiler's Basic Care Package",
+  "en": "You've certainly begun to prove yourself to us, adventurer. As a reward, please take this care package! Inside it you'll find rations and bandages that are usable only inside Arathi Basin.\n\nAs you continue to prove yourself inside the Basin, you'll find that these items will become available to you for purchase. Rations become available when you are Friendly with us, and bandages when you are Honored.",
+  "files": [
+   "quests/8263-complete",
+   "quests/8264-complete"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "62435ff2e510",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathstalker Mortis",
+  "quest": "More Resource Crates",
+  "en": "Very good. I will get these to our quartermasters immediately, and a commendation for your actions will be sent to my superiors.\n\nOnce again, thank you Adventurer. Your contributions to our struggles are noticed by grunt and high warlord alike.",
+  "files": [
+   "quests/8124-complete",
+   "quests/8163-complete",
+   "quests/8164-complete",
+   "quests/8165-complete",
+   "quests/8300-complete"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "f16ce9b06742",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Sergeant Maclear",
+  "quest": "More Resource Crates",
+  "en": "Very good. I will get these to our quartermasters immediately, and a commendation for your actions will be sent to my superiors.\n\nOnce again, thank you Adventurer. Your contributions to our struggles are noticed by footman and field marshal alike.",
+  "files": [
+   "quests/8081-complete",
+   "quests/8157-complete",
+   "quests/8158-complete",
+   "quests/8159-complete",
+   "quests/8298-complete"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "bed165e2c8cc",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alliance Brigadier General",
+  "quest": "Past Victories in Arathi",
+  "en": "Ah, yes! Of course we wouldn't forget about your past accomplishments in Arathi Basin.",
+  "files": [
+   "quests/8565-complete"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "e4ad93ec8c72",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Horde Warbringer",
+  "quest": "Past Victories in Arathi",
+  "en": "Ah, yes! Of course we wouldn't forget about your past accomplishments in Arathi Basin.",
+  "files": [
+   "quests/8566-complete"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "496500cd4f4d",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathmaster Dwire",
+  "quest": "Take Five Bases",
+  "en": "It is difficult to see, so deep we are in the conflict, but our spies report a weakening in the League of Arathor's resolve. We must use this window and strike a brutal blow against them! Return to Arathi Basin and throw yourself against our foes. Curse them and kill them and control all five strategic bases! Send their soldiers screaming and bleeding from the front lines, with stories of your cruelty on their mewling lips.\n\nDo this, and score a great victory for the Defilers.",
+  "files": [
+   "quests/8122-accept"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "35da54e8a48d",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathmaster Dwire",
+  "quest": "Take Four Bases",
+  "en": "Adventurer, as the battles over Arathi Basin rage, news of your actions have reached many ears. You are highly regarded among us, which gives me confidence that you will accomplish the mission I now have for you.\n\nIt is time to send a message to the League of Arathor. We must show them that their holdings in Arathi Basin are tenuous and quickly lost. We will show them this by holding, all at once, four strategic points in Arathi Basin.\n\nSucceed in this, Adventurer, and earn great respect among the Defilers.",
+  "files": [
+   "quests/8121-accept"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "d8688158c9c9",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathmaster Dwire",
+  "quest": "The Battle for Arathi Basin!",
+  "en": "As you no doubt have heard, the League of Arathor is sending large numbers of troops into Arathi Basin. Eager for food and supplies, these Alliance fools are intent to take and control the rich resources there. We must show them that Arathi will never again be a home for humans!\n\nGo to Arathi Basin and assault the mine, the lumber mill, the blacksmith and the stables. Pull down the enemies' banners, declaring those territories for the Horde.\n\nGo, Adventurer. Report back to me when this task is complete.",
+  "files": [
+   "quests/8120-accept",
+   "quests/8169-accept",
+   "quests/8170-accept",
+   "quests/8171-accept"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "89db71bc99e1",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathmaster Dwire",
+  "quest": "The Battle for Arathi Basin!",
+  "en": "A Defiler scout came to me with a report of your success, adventurer. Well done.\n\nAs you will learn, to win the battle for Arathi Basin, we must be ever vigilant and crush any attempts at Alliance expansion. Do this, and our victory here is ensured.",
+  "files": [
+   "quests/8120-complete",
+   "quests/8169-complete",
+   "quests/8171-complete"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "5899c62ea6d2",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathmaster Dwire",
+  "quest": "The Battle for Arathi Basin!",
+  "en": "A Defiler scout came to me with a report of your success, Adventurer. Well done.\n\nAs you will learn, to win the battle for Arathi Basin, we must be ever vigilant and crush any attempts at Alliance expansion. Do this, and our victory here is ensured.",
+  "files": [
+   "quests/8170-complete"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "0db5e3304ed2",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Field Marshal Oslight",
+  "quest": "The Battle for Arathi Basin!",
+  "en": "Adventurer, the battle for Arathi Basin is a battle for resources and territory. Key points in the area must be held and operated in order to supply our forces with much needed raw materials and supplies. I charge you to assault the points farthest from our Arathi Basin base.\n\nAssault the farm, the mine, the lumber mill and the blacksmith when they are controlled by the enemy. Find the enemy's banner and rip it from its flag post!\n\nWhen you have done this to all four points, return to me.",
+  "files": [
+   "quests/8105-accept",
+   "quests/8166-accept",
+   "quests/8167-accept",
+   "quests/8168-accept"
+  ],
+  "uiMap": 1461
+ },
+ {
+  "id": "c1874aa0484a",
+  "zone": "1461",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Field Marshal Oslight",
+  "quest": "The Battle for Arathi Basin!",
+  "en": "I received reports of your exploits in Arathi Basin, adventurer. Well done! With those like you joining the struggles here, I have faith that we will one day retake our homelands.",
+  "files": [
+   "quests/8105-complete",
+   "quests/8166-complete",
+   "quests/8167-complete",
+   "quests/8168-complete"
+  ],
+  "uiMap": 1461
+ }
+]

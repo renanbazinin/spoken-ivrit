@@ -1,0 +1,1516 @@
+[
+ {
+  "id": "562aab781131",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Iverron",
+  "quest": "A Friend in Need",
+  "en": "Ughhh... I was bitten very badly by a spider named Githyiss the Vile while exploring the spider cave very close to here. I am sure I have been seriously poisoned; you must help me.\n\nPlease tell Dirania Silvershine. She will be able to help me.\n\nHurry... I'm so dizzy...",
+  "files": [
+   "quests/3519-accept"
+  ]
+ },
+ {
+  "id": "6b7cf58e16da",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Dirania Silvershine",
+  "quest": "A Friend in Need",
+  "en": "Oh dear; I was wondering why I hadn't seen Iverron yet today. And I've always warned him about those spiders...",
+  "files": [
+   "quests/3519-complete"
+  ]
+ },
+ {
+  "id": "62a1ec146bf1",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Dirania Silvershine",
+  "quest": "A Good Friend",
+  "en": "A friend of mine named Iverron usually visits me at the same time every day. The strange thing is that he hasn't been by today at all -- he's several hours late, in fact.\n\nI admit, I am a little worried, Adventurer. Iverron spends a lot of time over by the cave to the north, and I'm sure you know how dangerous it is there -- spiders, everywhere!\n\nIf you happen to be going that way, though, will you keep an eye out for him?",
+  "files": [
+   "quests/4495-accept"
+  ]
+ },
+ {
+  "id": "d081ad80bf40",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Iverron",
+  "quest": "A Good Friend",
+  "en": "I'm so glad you found me, Adventurer. How did you know I was here?",
+  "files": [
+   "quests/4495-complete"
+  ]
+ },
+ {
+  "id": "369f1beba1e1",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Athridas Bearmantle",
+  "quest": "A Troubling Breeze",
+  "en": "A troubling breeze blows through the forest.\n\nGaerolas Talvethren serves as Great Warden to the hibernating Druids of the Talon in the Ban'ethil Barrow Den. His duty as the chosen protector of the Sleeping is to ensure their safety so that their pact with Ysera remains fulfilled.\n\nBut word from Gaerolas is now delayed and I grow nervous. Travel east to Starbreeze Village and bring back a report from Gaerolas so that I can put my worries to rest, knowing my dreaming brethren slumber safely.",
+  "files": [
+   "quests/475-accept"
+  ]
+ },
+ {
+  "id": "9c3b6cf6a9d1",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Gaerolas Talvethren",
+  "quest": "A Troubling Breeze",
+  "en": "Thank the forest spirits you are here! I knew Athridas would sense trouble and send help.",
+  "files": [
+   "quests/475-complete"
+  ]
+ },
+ {
+  "id": "877dc94f2450",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Shayla Nightbreeze",
+  "quest": "Bounty: Gnarlpine Furbolg",
+  "en": "By strict orders from the Sentinels, I am commissioning a bounty on the Gnarlpine. They are no longer friends of the forest. Their corruption has left them mindless threats to our people and the creatures of the glade.\n\nAs decreed, you shall be rewarded for removing the furbolg menaces from Teldrassil. Bring to me their fangs as proof of your deeds.\n\nYou will find furbolg concentrated in Ban'ethil Hollow, west of Dolanaar and south of the road, and in Starbreeze Village to the east.",
+  "files": [
+   "quests/490-accept"
+  ]
+ },
+ {
+  "id": "1ebf4a21c599",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Shayla Nightbreeze",
+  "quest": "Bounty: Gnarlpine Furbolg",
+  "en": "You have served well, Adventurer. You shall be rewarded for your contribution.",
+  "files": [
+   "quests/490-complete"
+  ]
+ },
+ {
+  "id": "a8f084272950",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Tenaron Stormgrip",
+  "quest": "Crown of the Earth",
+  "en": "It is time for you to set out to seek your destiny, adventurer. But before you are ready to set out into the world beyond our enchanted forests, there is much you must learn about our recent history.\n\nMuch has changed with our people since the Battle of Mount Hyjal. Nordrassil lies a pale shadow of what it once was, its power used to defeat Archimonde and drive back the Burning Legion...\n\nThere is a task you must perform. Go to the moonwell north of Aldrassil and return me a phial of its water.",
+  "files": [
+   "quests/921-accept"
+  ]
+ },
+ {
+  "id": "dcd2a635cbf8",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Tenaron Stormgrip",
+  "quest": "Crown of the Earth",
+  "en": "So you have heard the first part of the aftermath of the Battle of Mount Hyjal. There is much more to be told and the task you have begun here will continue through the rest of your journey through Teldrassil and into Darnassus.",
+  "files": [
+   "quests/921-complete"
+  ]
+ },
+ {
+  "id": "19473ec313cd",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Tenaron Stormgrip",
+  "quest": "Crown of the Earth",
+  "en": "While there is more I could speak to you of the moonwells and of Teldrassil, I must send you along. Corithras Moonrage will be expecting you. I have poured the phial of water you brought to me into this vessel to bring to him.\n\nSeek out Corithras. You will find him at the moonwell in Dolanaar. Follow the road south from Aldrassil out of Shadowglen, and continue to follow the cobblestones as the road turns west.\n\nMind you stay on the road though, adventurer. There are dangerous beasts in the forests of late.",
+  "files": [
+   "quests/928-accept"
+  ]
+ },
+ {
+  "id": "6a5b72efd862",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Corithras Moonrage",
+  "quest": "Crown of the Earth",
+  "en": "Ah, I see. You were sent by Tenaron. Well then, it would seem we have much to talk about, much to do, and little time to do it in.\n\nI think we'd best get started.",
+  "files": [
+   "quests/928-complete"
+  ]
+ },
+ {
+  "id": "74cd1d1b1992",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Corithras Moonrage",
+  "quest": "Crown of the Earth",
+  "en": "First, let me tell you more of the task you must complete. The druids in Darnassus use the water of the moonwells of Teldrassil, and their moonwell must be replenished from time to time. Using these specially crafted phials, you can collect the water of the moonwells.\n\nTake this vessel to the moonwell outside of Starbreeze Village to the east, and fill it with some of its waters, then return to me. When you have completed your task, I shall continue the story where Tenaron left off...",
+  "files": [
+   "quests/929-accept"
+  ]
+ },
+ {
+  "id": "d877fbec7541",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Corithras Moonrage",
+  "quest": "Crown of the Earth",
+  "en": "After the Battle of Mount Hyjal, we were without direction. Nordrassil smoked from the fire it unleashed, and our immortality--the very essence of our beings!--was lost.\n\nIt was in this trying time that the Betrayer was freed from his prison, and Shan'do Stormrage disappeared. A dark time for all.",
+  "files": [
+   "quests/929-complete"
+  ]
+ },
+ {
+  "id": "9eb6fa66e1f6",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Corithras Moonrage",
+  "quest": "Crown of the Earth",
+  "en": "There is another moonwell southeast of the entrance to Darnassus, on the shores of the Pools of Arlithrien. The Sentinels are having problems patrolling the area because of attacks and the growing ill-temperedness of the Gnarlpine furbolgs.\n\nBe wary as you seek out the well, and keep your weapons close at hand.",
+  "files": [
+   "quests/933-accept"
+  ]
+ },
+ {
+  "id": "7538ddab855e",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Corithras Moonrage",
+  "quest": "Crown of the Earth",
+  "en": "Shan'do Stormrage never returned, and the druids were in disarray, and to this day we still do not know what became of him. With Malfurion missing, Arch Druid Fandral Staghelm took over the leadership of the druids, convincing the Circle of Ancients in Darkshore that it was time for our people to rebuild, and that it was time for our people to regain their immortality.\n\nWith the approval of the Circle, Staghelm and the most powerful druids grew Teldrassil, the new World Tree.",
+  "files": [
+   "quests/933-complete"
+  ]
+ },
+ {
+  "id": "9f203229ac78",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Corithras Moonrage",
+  "quest": "Crown of the Earth",
+  "en": "All was not well with Teldrassil, however. Staghelm's carefully made plans for the new World Tree had borne out as he had hoped, but there was one small problem, a problem to which many of the troubles on Teldrassil may be attributed.\n\nHowever, I will not get into that yet. You must visit the last moonwell, to the northwest in the Oracle Glade. Under the boughs of the Oracle Tree lies the first and most powerful of our wells. Retrieve a phial of its water and return to me.",
+  "files": [
+   "quests/934-accept",
+   "quests/7383-accept"
+  ]
+ },
+ {
+  "id": "fc011304e7ec",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Corithras Moonrage",
+  "quest": "Crown of the Earth",
+  "en": "To be in the presence of the Oracle Tree... it is almost to feel wisdom take form. Let me continue the telling...\n\nWith Teldrassil grown, the Arch Druid approached the dragons for their blessings, as the dragons had placed upon Nordrassil in ancient times. But Nozdormu, Lord of Time, refused to give his blessing, chiding the druid for his arrogance. In agreement with Nozdormu, Alexstrasza also refused Staghelm, and without her blessing, Teldrassil's growth has been flawed and unpredictable...",
+  "files": [
+   "quests/934-complete",
+   "quests/7383-complete"
+  ]
+ },
+ {
+  "id": "fa2c41dbaa4a",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Corithras Moonrage",
+  "quest": "Crown of the Earth",
+  "en": "Without the blessings of Alexstrasza the Life-Binder and Nozdormu the Timeless, Teldrassil's growth has not been without flaw. Strange beasts have been reported arising from the very ground of the tree, and crazed furbolgs attack passing travelers.\n\nI can only hope that the solution the Arch Druid is looking for will be found quickly. I will pour all the phials you brought into this vessel, for you to deliver to Darnassus.\n\nBring it to Fandral Staghelm, you will find him in the druid grove.",
+  "files": [
+   "quests/935-accept"
+  ]
+ },
+ {
+  "id": "59077695deed",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Fandral Staghelm",
+  "quest": "Crown of the Earth",
+  "en": "Ah yes, the water I had requested. Tenaron and Corithras certainly took their time in having it delivered... perhaps not choosing the most reliable of messengers... hmm.\n\nNonetheless, I can finally get back to my work then. The weight of Teldrassil's problems fall upon my shoulders. A yoke I would wish to soon be rid of.\n\nTake this, you may find some use for it.",
+  "files": [
+   "quests/935-complete"
+  ]
+ },
+ {
+  "id": "69d355057e97",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Fandral Staghelm",
+  "quest": "Crown of the Earth",
+  "en": "<Arch Druid Fandral Staghelm's gaze narrows.>\n\nYou're still here?\n\nTake the phial and get out of my sight, adventurer. It is clear my answers do not lie in the waters, just as they did not before.\n\nPerhaps one of the priestesses in the Temple of the Moon to the south will dispose of it.\n\n<Fandral looks away, no longer speaking to you.>\n\nI must look elsewhere if this is to work...",
+  "files": [
+   "quests/98046-accept"
+  ]
+ },
+ {
+  "id": "7846e8557107",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lariia",
+  "quest": "Crown of the Earth",
+  "en": "Do not mind the Arch Druid, Sneaky. He bears the weight of much in Malfurion's absence.\n\nWait! Some drops yet remain in the phial! Perhaps that is why his incantation failed?",
+  "files": [
+   "quests/98046-complete"
+  ]
+ },
+ {
+  "id": "d9edb4230040",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lariia",
+  "quest": "Crown of the Earth",
+  "en": "You must bring this to Tyrande at once! I will transfer it to a more ceremonial container for you.\n\nDo not be afraid. The High Priestess of Elune is firm, but kind. She protects all who enter Darnassus, and carries our goddess' light to all.\n\nShe will be glad to receive this sacred water. You will find her directly above us.",
+  "files": [
+   "quests/98065-accept"
+  ]
+ },
+ {
+  "id": "7ab8b2d7f28f",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Tyrande Whisperwind",
+  "quest": "Crown of the Earth",
+  "en": "Staghelm has done much in my beloved's absence, but he is not Malfurion. And he does not run the affairs of Darnassus--that burden is mine alone.\n\n<Tyrande's face settles.>\n\nI apologize. As you have likely seen, we have many challenges to overcome.\n\nFandral is Arch Druid for now, and I ask you respect his station. But his doings pertain to druidism, and mine not only to Elune but indeed to lead our people as she wills.\n\nEvery drop of this water is blessed by our goddess. I thank you for saving it.",
+  "files": [
+   "quests/98065-complete"
+  ]
+ },
+ {
+  "id": "3e852c2ba145",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Arynia Cloudsbreak",
+  "quest": "Darkness in the Glade",
+  "en": "These belts... look closely at the leather, Adventurer. Do you see the taint running through the fibers?\n\nI have a suspicion as to its origin, but we will need further proof to be sure.\n\nVenture back out into the harpies' nests to the west and take out their leaders. If their necklaces carry the same darkness as these belts, we'll have our answer.",
+  "files": [
+   "quests/98392-accept"
+  ]
+ },
+ {
+  "id": "1ad81f8d772a",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Arynia Cloudsbreak",
+  "quest": "Darkness in the Glade",
+  "en": "<Arynia investigates the amulets.>\n\nDo you see the foul green swirls within the gems? This is indeed fel moss corruption at work.\n\nI have heard similar reports from Shadowglen and elsewhere in the boughs of this substance turning our very world against us.\n\nI will inform my superiors of this at once.",
+  "files": [
+   "quests/98392-complete"
+  ]
+ },
+ {
+  "id": "d5ba2ef67d2d",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denalan",
+  "quest": "Denalan's Earth",
+  "en": "Now let us place this rare earth in my planter...",
+  "files": [
+   "followup/1239-nightelf-male-standard"
+  ]
+ },
+ {
+  "id": "c14b5a9ef03a",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denalan",
+  "quest": "Denalan's Earth",
+  "en": "Thank you again, adventurer. This rare earth will be very helpful in my experiments.",
+  "files": [
+   "followup/1240-nightelf-male-standard"
+  ]
+ },
+ {
+  "id": "c42ec3173bf2",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Syral Bladeleaf",
+  "quest": "Denalan's Earth",
+  "en": "Are you heading to the south? To Lake Al'Ameth? If so, then I have a task I might ask of you...\n\nMy colleague Denalan has a camp along the eastern end of the lake, where he is studying and experimenting on the plant life of Teldrassil. He requested a package of rare earths from Darnassus and it was late, only recently arriving here in Dolanaar.\n\nCan you take the package to him?",
+  "files": [
+   "quests/997-accept"
+  ]
+ },
+ {
+  "id": "c1e8cdb4578d",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denalan",
+  "quest": "Denalan's Earth",
+  "en": "Ah, it's here! I have waited for this rare earth for quite some time. I hope it's still fresh...\n\nThank you for bringing it to me, Adventurer. You are a traveler who is generous with her time.",
+  "files": [
+   "quests/f-997-complete"
+  ]
+ },
+ {
+  "id": "0d6a14c35bb3",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denalan",
+  "quest": "Denalan's Earth",
+  "en": "Ah, it's here! I have waited for this rare earth for quite some time. I hope it's still fresh...\n\nThank you for bringing it to me, Adventurer. You are a traveler who is generous with his time.",
+  "files": [
+   "quests/m-997-complete"
+  ]
+ },
+ {
+  "id": "5fadca12525a",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Porthannius",
+  "quest": "Dolanaar Delivery",
+  "en": "Greetings, young adventurer. Can you offer me aid? I have a package of herbs that I must deliver to the town of Dolanaar. But I still have business with the druids of Shadowglen and cannot yet leave.\n\nCan you deliver this package for me? It must be sent to Innkeeper Keldamyr, at the Dolanaar inn. It lies along the road, to the south.",
+  "files": [
+   "quests/2159-accept"
+  ]
+ },
+ {
+  "id": "021f8dd6268e",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Keldamyr",
+  "quest": "Dolanaar Delivery",
+  "en": "Ah yes, the delivery of herbs from Shadowglen. It is a shame Porthannius could not bring it himself, for we have much to discuss, he and I. But I am glad to get the herbs nonetheless, and I am glad you came.\n\nWhile you are here, please, rest yourself. Heroes must keep their strength and spirits high, and must find rest and solace whenever they may. For to neglect one's peace of body and mind is a sure path to failure.\n\nSo... rest.",
+  "files": [
+   "quests/2159-complete"
+  ]
+ },
+ {
+  "id": "ff65a13b766a",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Oben Rageclaw",
+  "quest": "Druid of the Claw",
+  "en": "After examining this charm, Adventurer, I see now what must be done. Please take it, and do as I ask.\n\nYou are to explore the deepest areas of the Ban'ethil Barrow Den. There, you will find my soulless body... Although I regret what I am about to tell you, I see no other way to free myself from the control of the Gnarlpine.\n\nIn order for me to escape them, you must kill my physical form. Once that is done, use the voodoo charm on my fallen body. After you have completed this task, please return to me.",
+  "files": [
+   "quests/2561-accept"
+  ]
+ },
+ {
+  "id": "cc85395415da",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Oben Rageclaw",
+  "quest": "Druid of the Claw",
+  "en": "I am finally free of the control of the Gnarlpine. Thank you, Adventurer.\n\nMy spirit may now rest peacefully forever in the Emerald Dream.\n\nPerhaps one day we may meet again, young adventurer. But, for now, please accept this reward as a symbol of my gratitude.",
+  "files": [
+   "quests/2561-complete"
+  ]
+ },
+ {
+  "id": "3726d4af9f3b",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Byancie",
+  "quest": "Easing Suffering",
+  "en": "The salve is ready. Take it to Eralya swiftly.\n\nI do not know if it will truly cure her. The rot festers quickly, and grows in strength as it spreads.\n\nIt will, if nothing else, ease her suffering. And that is still worth your haste.",
+  "files": [
+   "quests/99073-accept"
+  ]
+ },
+ {
+  "id": "274d25baa343",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Eralya Leafshadow",
+  "quest": "Easing Suffering",
+  "en": "<Eralya's breath calms quickly as you help her ingest the salve. She may not survive, but is at relative peace.>",
+  "files": [
+   "quests/99073-complete"
+  ]
+ },
+ {
+  "id": "ac3aefb605b4",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Lynessa Duskblossom",
+  "quest": "Escaping Ban'ethil",
+  "en": "My prayers have been answered! I am thankful that you have fought your way down here.\n\nI was sent here by the Oracle Tree to deliver a message to the slumbering druids here only to find it completely overrun by furbolg! They ambushed me before I could turn back and brought me down here--I fear for their next meal.\n\nI don't know about you, but I loathe this place. Under the earth is no place for the kaldorei.",
+  "files": [
+   "quests/99053-accept"
+  ]
+ },
+ {
+  "id": "db60b71542ef",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Kyra Starsong",
+  "quest": "Escaping Ban'ethil",
+  "en": "Thank Elune you were around to help Lynessa avoid a dark fate with the Gnarlpine. She's one of our best, and a personal friend.\n\nPlease, take this in thanks. May it serve you well in keeping the kaldorei safe.",
+  "files": [
+   "quests/99053-complete"
+  ]
+ },
+ {
+  "id": "c4eb4d3af5c4",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Gilshalan Windwalker",
+  "quest": "Fang of Githyiss",
+  "en": "My, my. How I do love surprises, Adventurer.\n\nThis specimen will surely help further my studies.",
+  "files": [
+   "quests/97236-complete"
+  ]
+ },
+ {
+  "id": "17967c5415f3",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Erelas Ambersky",
+  "quest": "Favored of Elune?",
+  "en": "Wildkin are quite unpredictable creatures, Adventurer. Capable of incredible gentleness, these creatures will show extreme ferocity if something they deem important is threatened.\n\nThese beasts are rumored to have been created by Elune, and I am interested in finding if this is really the truth.\n\nRecently, I heard about a population of wildkin living in the Hinterlands -- Vicious, Primitive, and Savage Owlbeasts. They can be found amongst the wildlife there. Will you gather some wildkin feathers for me?",
+  "files": [
+   "quests/3661-accept"
+  ]
+ },
+ {
+  "id": "0e6f8e25262c",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Erelas Ambersky",
+  "quest": "Favored of Elune?",
+  "en": "Thank you for bringing these to me, Adventurer.\n\nWhat did you learn of the Wildkin?\n\nPerhaps these feathers will tell us more. Ferocious monsters, or simply misguided pets? One day I'd like to know the truth...\n\nI am going to continue my research -- please come back and talk to me again after some time has passed.",
+  "files": [
+   "quests/3661-complete"
+  ]
+ },
+ {
+  "id": "3b286e367da1",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Tallonkai Swiftroot",
+  "quest": "Ferocitas the Dream Eater",
+  "en": "The emerald... It is missing! My dreamcatcher has been damaged!\n\nThere is a band of Gnarlpine mystics located to the north of Starbreeze. I have heard reports that their leader, Ferocitas the Dream Eater has been wearing a necklace that glows green in the night. Now seeing my dreamcatcher, I am sure that he has stolen my emerald... He would never realize that its power is useless to him.\n\nFind this missing jewel, Adventurer. And, while you're there, clear out some of the corrupted mystics as well.",
+  "files": [
+   "quests/2459-accept"
+  ]
+ },
+ {
+  "id": "4c82f1b3cb63",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Tallonkai Swiftroot",
+  "quest": "Ferocitas the Dream Eater",
+  "en": "Now I can repair my dreamcatcher. Thank you, Adventurer.",
+  "files": [
+   "quests/2459-complete"
+  ]
+ },
+ {
+  "id": "cad9902c084c",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Erelas Ambersky",
+  "quest": "Find Ranshalla",
+  "en": "Yes, yes, these feathers seem to hold the same magical enchantment that I noticed previously... While I am not certain what we might find, I urge you to continue searching for answers, Adventurer.\n\nA colleague of mine recently traveled into Winterspring to observe the wildkin there, in their own habitat. Why don't you catch up with her and see what she has found?",
+  "files": [
+   "quests/979-accept"
+  ]
+ },
+ {
+  "id": "c1fe1e5395be",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ranshalla",
+  "quest": "Find Ranshalla",
+  "en": "Hi! Erelas sent you? Great, I was just preparing to travel up to the caves now, and I wouldn't mind company.",
+  "files": [
+   "quests/979-complete"
+  ]
+ },
+ {
+  "id": "93c60cdd2d04",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Gaerolas Talvethren",
+  "quest": "Gnarlpine Corruption",
+  "en": "The Gnarlpine tribe has been corrupted!\n\nThe once peaceful furbolgs have turned against the protectors of the forest. They ambushed me as I left for the Ban'ethil Barrow Den and proceeded to pillage Starbreeze Village. Ursal the Mauler, their chieftain, is using the evil powers of the Fel Moss to drive them mad.\n\nI am too wounded to return to Athridas to bring him this grave news. The task is left to you, young adventurer. We can only hope that the deranged Gnarlpines have not made it to Ban'ethil yet!",
+  "files": [
+   "quests/476-accept"
+  ]
+ },
+ {
+  "id": "ac1e44e635fe",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Athridas Bearmantle",
+  "quest": "Gnarlpine Corruption",
+  "en": "By the stars! This is quite disturbing indeed!",
+  "files": [
+   "quests/476-complete"
+  ]
+ },
+ {
+  "id": "db08ea770e48",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Dirania Silvershine",
+  "quest": "Iverron's Antidote",
+  "en": "We may be able to help Iverron, as I know of an antidote that should help with the poison. It requires some ingredients, though, before I can make it.\n\nI'll need Hyacinth mushrooms. You can find these growing under trees, or you may collect them from the grell south of here; they seem to have taken a liking to them. I'll also need Moonpetal lilies, which only grow around watery pools.\n\nThe last ingredient may prove the most difficult. From the very spiders that poisoned Iverron, collect Webwood ichor.",
+  "files": [
+   "quests/3521-accept"
+  ]
+ },
+ {
+  "id": "b5db06965e19",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Dirania Silvershine",
+  "quest": "Iverron's Antidote",
+  "en": "Thank Elune that you have gathered these ingredients so quickly!\n\nIn just a moment, I will have the antidote prepared.",
+  "files": [
+   "quests/3521-complete"
+  ]
+ },
+ {
+  "id": "3b6d6304b5c0",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Dirania Silvershine",
+  "quest": "Iverron's Antidote",
+  "en": "The antidote is ready, Adventurer. Please see that Iverron drinks it.\n\nThere is something that you should know -- the antidote -- it will only remain viable for 5 minutes. You must get it to him in time.\n\nSpeed be with you, Adventurer.",
+  "files": [
+   "quests/3522-accept"
+  ]
+ },
+ {
+  "id": "9680cd4a07e7",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Iverron",
+  "quest": "Iverron's Antidote",
+  "en": "What is this, Adventurer?\n\nOh, I knew Dirania would be able to help me!\n\n\nI'm always getting into trouble and Dirania, well, she always manages to help me out of it.\n\nI am feeling much better, but I think I will sit here for a while longer, until I feel completely better. Well, that, and I was hoping you'd clear a path for me through those vicious Webwood spiders...",
+  "files": [
+   "quests/3522-complete"
+  ]
+ },
+ {
+  "id": "9dbed1096b74",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Arynia Cloudsbreak",
+  "quest": "Mist",
+  "en": "Oh, thank you, adventurer! I feared I would never see Mist again, knowing only her death in my heart, never to be united with my faithful companion. I owe you more than you can know, and you have my eternal gratitude.",
+  "files": [
+   "quests/938-complete"
+  ]
+ },
+ {
+  "id": "80e2de9fd9fb",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Erelas Ambersky",
+  "quest": "Moontouched Wildkin",
+  "en": "Wildkin feathers from the Hinterlands appear to contain traces of magical qualities. These powers... they don't seem to be wielded by the creatures, it's more like they are simply inherent to the species -- part of their very essence.\n\nDuring my studies, I heard that a large population of wildkin inhabit the snowy lands of Winterspring. Could these creatures have the same powers? Please help me find an answer, Adventurer. Go to Winterspring and gather feathers that have dropped to the ground, then return to me.",
+  "files": [
+   "quests/978-accept"
+  ]
+ },
+ {
+  "id": "eca255311b59",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Erelas Ambersky",
+  "quest": "Moontouched Wildkin",
+  "en": "Now I can compare the feathers... Let's see...",
+  "files": [
+   "quests/978-complete"
+  ]
+ },
+ {
+  "id": "f9eb95e64489",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Eralya Leafshadow",
+  "quest": "Not Dead Yet",
+  "en": "My sisters and I... were dispatched... Oracle Tree...\n\nTree... message. I... harpies... everywhere...\n\n<Eralya coughs up blood, grimacing through the pain.>\n\nI may not have long... no one coming. Please... Byancie... in Dolanaar...",
+  "files": [
+   "quests/99047-accept"
+  ]
+ },
+ {
+  "id": "e5943f673915",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Byancie",
+  "quest": "Not Dead Yet",
+  "en": "The harpies have become afflicted by the same foulness showing up throughout the forest. I'm sure that is what ails Sentinel Eralya as well.\n\nWe must hurry. It won't be long before she succumbs to her injuries.",
+  "files": [
+   "quests/99047-complete"
+  ]
+ },
+ {
+  "id": "157c4116b936",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denalan",
+  "quest": "Oakenscowl",
+  "en": "In a cave along the southern bank of the lake, a timberling named Oakenscowl is spreading corruption to all the creatures that make Lake Al'Ameth their home.\n\nI dared not get too close, but even from a distance, it is obvious: Oakenscowl is being poisoned by the largest tumor I have ever seen... I would call it gargantuan, even.\n\nAdventurer, you have already done much to aid my efforts, but I ask of you one more task. Hunt down Oakenscowl and collect the tumor; remove this source of corruption from my home.",
+  "files": [
+   "quests/2499-accept"
+  ]
+ },
+ {
+  "id": "8c5a4f38772c",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denalan",
+  "quest": "Oakenscowl",
+  "en": "I knew you were more than capable of ridding the lake of that horrible beast.\n\nIt is a distressing situation; Oakenscowl was once a grand leader amongst his kind... but corruption does not discriminate between the lowly and the noble.\n\nThe size of this tumor is quite disturbing, but I must study it to learn more about the disease that upsets the timberling population.\n\nThank you, Adventurer.",
+  "files": [
+   "quests/2499-complete"
+  ]
+ },
+ {
+  "id": "181d97ac0bc7",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denalan",
+  "quest": "Planting the Heart",
+  "en": "I have removed that foul moss from the heart, but it remains tainted...\n\nTry placing the heart in my planter. It is filled with a nutritive soil that may cleanse and heal the heart.",
+  "files": [
+   "quests/941-accept"
+  ]
+ },
+ {
+  "id": "9d994bd02b2c",
+  "zone": "teldrassil",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Denalan's Planter",
+  "quest": "Planting the Heart",
+  "en": "You place the heart within the planter, and it quickly digs itself in!\n\nA few seconds later it wriggles back out, cleansed. It pulses slightly... beckoning for you to take it.",
+  "files": [
+   "quests/941-complete"
+  ]
+ },
+ {
+  "id": "52d71bb74742",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denalan",
+  "quest": "Rellian Greenspyre",
+  "en": "Adventurer, can you take one of the seeds you brought me to my friend, Rellian Greenspyre? He is a druid in Darnassus, and when last we spoke he revealed his interest in my work with the Timberlings. He had some ideas himself, and he will appreciate a specimen seed to work with.\n\nThank you, Adventurer. You have been a great help to me. I hope that, some day, you will see the fruit of my labors.\n\nYou will usually find Rellian walking the pathways of the Cenarian Enclave in Darnassus.",
+  "files": [
+   "quests/922-accept"
+  ]
+ },
+ {
+  "id": "78c1d56e87aa",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rellian Greenspyre",
+  "quest": "Rellian Greenspyre",
+  "en": "Ah, a timberling seed? I wanted to try growing one of these to help Denalan with his studies.\n\nBut I'm afraid I've discovered that a corruption has grown in many of the timberlings, and seeds from such creatures carry their parent's taint. They are beyond my talents to repair.\n\nDenalan is very skilled with things that grow. He may find a cure for future timberlings. He may be their only hope.",
+  "files": [
+   "quests/922-complete"
+  ]
+ },
+ {
+  "id": "a8d7b4489e35",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rellian Greenspyre",
+  "quest": "Return to Denalan",
+  "en": "I have just received word that Denalan at Lake Al'Ameth has discovered what may be the cause of the tumors that plague the timberlings. Please speak with him, and tell him I sent you.\n\nMake haste, Adventurer; he needs our help.",
+  "files": [
+   "quests/2498-accept"
+  ]
+ },
+ {
+  "id": "40424467f9c2",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denalan",
+  "quest": "Return to Denalan",
+  "en": "Ah, so Rellian sent you to aid me. I am glad you arrived here so soon.\n\nI have discovered something quite disturbing!",
+  "files": [
+   "quests/2498-complete"
+  ]
+ },
+ {
+  "id": "54a333940446",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Syral Bladeleaf",
+  "quest": "Seek Redemption!",
+  "en": "The Council of the Forest has news that you aided Zenn Foulhoof. The satyr is an enemy of the forest. As a traveler, you should know better than to defile the forest by killing Nature's creatures.\n\nYou must redeem yourself in the eyes of the Council if you wish to remain a friend of Teldrassil.\n\nTeach Foulhoof a lesson and you shall be redeemed. Fel Cones are corrupted seeds that fall from the trees. They billow with green smoke.\n\nGive some to Foulhoof. He'll think you have brought him a harmless snack.",
+  "files": [
+   "quests/489-accept"
+  ]
+ },
+ {
+  "id": "7a944ffd3646",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aldia",
+  "quest": "Soft Saber Pelts",
+  "en": "Hello, traveler! I hope you are enjoying your visit to our village. I like Dolanaar because it is small and rustic and everyone is friendly.\n\nI'm a local trader, and I bring in all sorts of tools and trinkets that might be useful to you in your travels. Indeed, if you are interested in a trade, I find myself in need of some nightsaber pelts. While these majestic creatures are beautiful, the local ones are rather aggressive, so don't feel too bad about defending yourself.",
+  "files": [
+   "quests/87288-accept"
+  ]
+ },
+ {
+  "id": "aaec0055b3dc",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aldia",
+  "quest": "Soft Saber Pelts",
+  "en": "Oh, these are wonderful. It is a shame to resort to violence with such majestic animals, but it is important to keep the roads safe, and these pelts will make beautiful blankets and shawls.\n\nHere, let me give you something to remember them. It is both soft and sturdy.",
+  "files": [
+   "quests/87288-complete"
+  ]
+ },
+ {
+  "id": "6981c30bada5",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Daryn Lightwind",
+  "quest": "Starfall",
+  "en": "In Winterspring, to the north of Felwood, there are many ancient elven ruins. It's a harsh land, but it holds many secrets and places to explore.\n\nMy studies here keep me so busy that I have not had the opportunity to travel to Winterspring for some time. But there's no reason why you shouldn't travel there and study the ruins.\n\nWhile you're there, look for Wynd Nightchaser. He spends most of his time in Starfall and he knows a lot about the area.\n\nTell him that you are a student of mine...",
+  "files": [
+   "quests/5250-accept"
+  ]
+ },
+ {
+  "id": "8cac054f4183",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Wynd Nightchaser",
+  "quest": "Starfall",
+  "en": "A student of Daryn Lightwind? Nice to meet you, Adventurer.",
+  "files": [
+   "quests/5250-complete"
+  ]
+ },
+ {
+  "id": "b7c6542d86e9",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Arynia Cloudsbreak",
+  "quest": "Teldrassil",
+  "en": "The forest whispers of your feats of valor, adventurer. As I felt the harpies forced from their nests, a greater calm spread across the forest, its creatures once again feeling safe. I have feared sending another messenger to the Arch Druid, but I know that you will see my message safely to him.\n\nDeliver this to him and know that the forest will see you safely along its paths to the forest of stone.",
+  "files": [
+   "quests/940-accept"
+  ]
+ },
+ {
+  "id": "bd8b1070cfc0",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Fandral Staghelm",
+  "quest": "Teldrassil",
+  "en": "I wondered why the Oracle Tree had not communicated with me for so long... It seems that some problems are lessened while others grow to greater concerns.\n\nI fear my work on Teldrassil shall never be completed, and our immortality never restored.\n\nNonetheless, you have done the Oracle Tree's task well, and should be rewarded for your diligence.",
+  "files": [
+   "quests/940-complete"
+  ]
+ },
+ {
+  "id": "07dc56f3bed9",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Gilshalan Windwalker",
+  "quest": "Tenaron's Summons",
+  "en": "adventurer, is it? I heard that Tenaron has been asking for you. You'll find him in the highest room atop Aldrassil.\n\nWe may live long lives, but it's best you not keep him waiting too long.",
+  "files": [
+   "quests/920-accept"
+  ]
+ },
+ {
+  "id": "1e2b188a404b",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Tenaron Stormgrip",
+  "quest": "Tenaron's Summons",
+  "en": "Ah, adventurer. I was hoping you'd be prompt in answering my summons. I have an important task that I would like you to perform.",
+  "files": [
+   "quests/920-complete"
+  ]
+ },
+ {
+  "id": "f303ac67dbd3",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Conservator Ilthalaine",
+  "quest": "The Balance of Nature",
+  "en": "Greetings, Adventurer. I am Conservator Ilthalaine. My purpose in Shadowglen is to ensure that the balance of nature is maintained.\n\nThe spring rains were particularly heavy this year, causing some of the forest's beasts to flourish while others suffered.\n\nUnfortunately, the nightsaber and thistle boar populations grew too large. Shadowglen can only produce so much food for the beasts. Journey forth, young adventurer, and thin the boar and saber populations so that nature's harmony will be preserved.",
+  "files": [
+   "quests/456-accept"
+  ]
+ },
+ {
+  "id": "7365faa0874d",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Conservator Ilthalaine",
+  "quest": "The Balance of Nature",
+  "en": "You performed your duties well, Adventurer.",
+  "files": [
+   "quests/456-complete"
+  ]
+ },
+ {
+  "id": "4c09fba8ded9",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Conservator Ilthalaine",
+  "quest": "The Balance of Nature",
+  "en": "Thinning the younger population of creatures here in Shadowglen was a good start, Adventurer, but there is still work to be done.\n\nThe resources of the forest will be depleted too quickly if the problem is not addressed. Killing nature's beasts is a necessary evil for the good of all who share the land. Venture into the forest and slay mangy nightsabers and thistle boars in the name of balance.",
+  "files": [
+   "quests/457-accept"
+  ]
+ },
+ {
+  "id": "8b2cc93a7806",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Conservator Ilthalaine",
+  "quest": "The Balance of Nature",
+  "en": "You have proven your dedication to nature well, Adventurer. A young adventurer like yourself has a promising future.",
+  "files": [
+   "quests/457-complete"
+  ]
+ },
+ {
+  "id": "d675de7dddb3",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Tallonkai Swiftroot",
+  "quest": "The Emerald Dreamcatcher",
+  "en": "I was once given an emerald dreamcatcher from Gaerolas Talvethen, the warden of the druids in the Ban'ethil Barrow Den. This powerful amulet is able to siphon energy from the Emerald Dream, bestowing luck upon those who carry it.\n\nSadly, I have not been able to retrieve it from my dresser in Starbreeze Village... Although Starbreeze was once a tranquil place, it has now succumbed to the corruption of the furbolg that reside there.\n\nPerhaps you would be willing to recover my dreamcatcher, adventurer?",
+  "files": [
+   "quests/2438-accept"
+  ]
+ },
+ {
+  "id": "a01e1e2a6e5e",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Tallonkai Swiftroot",
+  "quest": "The Emerald Dreamcatcher",
+  "en": "My emerald dreamcatcher is of great importance to me. It is a gift only given to few. Thank you for returning it, Adventurer.",
+  "files": [
+   "quests/2438-complete"
+  ]
+ },
+ {
+  "id": "48615b55a40c",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Arynia Cloudsbreak",
+  "quest": "The Enchanted Glade",
+  "en": "I was dispatched with a small group of Sentinels here to protect the Oracle Tree from the harpies that have made nests all around the glade. Little by little we are trying to push them back.\n\nWhen the Oracle Tree attempted to send a runner to Darnassus with a report, the messenger was attacked and killed by a group of the harpies.\n\nIf you feel up to the task, go to their nests, slay them, and return their belts to me as proof of your deeds.",
+  "files": [
+   "quests/937-accept"
+  ]
+ },
+ {
+  "id": "ec82941ce324",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Arynia Cloudsbreak",
+  "quest": "The Enchanted Glade",
+  "en": "I am impressed by what you have accomplished here in so short a time, adventurer. Would that I could ask you to remain here to assist me with my duties... but I know in my heart that greater tasks lie ahead for you.\n\nI have noticed the Oracle Tree has just shed a piece of its bark. No doubt it has a task that it wishes completed. You should speak with it.",
+  "files": [
+   "quests/937-complete"
+  ]
+ },
+ {
+  "id": "3e1fd2ff98ed",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denalan",
+  "quest": "The Glowing Fruit",
+  "en": "Let's see how these seeds grow in my prepared soil...",
+  "files": [
+   "followup/1157-nightelf-male-standard"
+  ]
+ },
+ {
+  "id": "ce1977e766e1",
+  "zone": "teldrassil",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Strange Fruited Plant",
+  "quest": "The Glowing Fruit",
+  "en": "Hanging from beneath its fronds of this glowing plant is a large, round fruit.\n\nDenalan would want to study this fruit, you are certain.",
+  "files": [
+   "quests/930-accept"
+  ]
+ },
+ {
+  "id": "bae262f63b0d",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denalan",
+  "quest": "The Glowing Fruit",
+  "en": "You found this on Teldrassil? Intriguing... this fruit is exotic. Perhaps its seeds were brought here from far off. Perhaps even as far as Azeroth! And there's something about this fruit... it seems to have reacted very strangely with the soil of Teldrassil.\n\nThank you, Adventurer. Now if you'll excuse me, I must study this further...",
+  "files": [
+   "quests/930-complete"
+  ]
+ },
+ {
+  "id": "9f5c6bfa6b11",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Shanda",
+  "quest": "The Goddess Provides",
+  "en": "You are born kaldorei--the children of the stars--and have inherited a birthright unlike any other in this world. Elune's grace may illuminate our strengths, helping our strikes hit true, or it may help conceal us just as the moon may eclipse the sun.\n\nOur Long Vigil after the defense of Mount Hyjal has ended, and we have joined an Alliance of others--which you will meet in due time. For now, you are nestled in the boughs of Teldrassil.\n\nDemonstrate Mother Moon's gifts, and bask in her blessings.",
+  "files": [
+   "quests/97979-accept"
+  ]
+ },
+ {
+  "id": "c9bdd006a96e",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Shanda",
+  "quest": "The Goddess Provides",
+  "en": "You have seen what our goddess provides. Use it well, and she will never forsake you.",
+  "files": [
+   "quests/97979-complete"
+  ]
+ },
+ {
+  "id": "f6892c51fd33",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Byancie",
+  "quest": "The Great Tree Provides",
+  "en": "I will need your help acquiring the ingredients I need to stop the affliction long enough for Eralya to make it back here for further treatment.\n\nThankfully, our living home is still bountiful and will provide in our time of need.\n\nThe core ingredient is dewy lasher fronds. You'll find them around Lake Al'Ameth directly south of here, or Wellspring Lake and its river to the northwest.\n\nIn addition, I'll need an empty vial and some spring water. Both can be bought here in town, or traded for.",
+  "files": [
+   "quests/99050-accept"
+  ]
+ },
+ {
+  "id": "9066ec10edb1",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Byancie",
+  "quest": "The Great Tree Provides",
+  "en": "Thank you for your help. Please, accept this to help with the costs of the vial and water.\n\nNow, to make the salve. It should only take a moment.",
+  "files": [
+   "quests/99050-complete"
+  ]
+ },
+ {
+  "id": "83d52e2dd1d5",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Kyra Starsong",
+  "quest": "The Lost Runner",
+  "en": "The Council of the Forest sent a small group of sentinels to the Oracle Tree some time ago. The tree sends messages to our elders, and it falls to us to deliver them to Darnassus safely.\n\nI received word that our most recent runner has not yet arrived. The Oracle's messages vary in frequency, but it has been abnormally long.\n\nPlease head towards the Oracle Glade along the road to the west and check on her. It would have been Eralya Leafshadow's turn, and she is still in training. Elune guide you.",
+  "files": [
+   "quests/99046-accept"
+  ]
+ },
+ {
+  "id": "9e1a88fcb33e",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Eralya Leafshadow",
+  "quest": "The Lost Runner",
+  "en": "Elune's grace... I shall not die... alone...",
+  "files": [
+   "quests/99046-complete"
+  ]
+ },
+ {
+  "id": "e8ee6d99b22d",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denalan",
+  "quest": "The Moss-twined Heart",
+  "en": "adventurer, underneath the moss, this heart looks like a seed!",
+  "files": [
+   "followup/1127-nightelf-male-standard"
+  ]
+ },
+ {
+  "id": "946a92104dbb",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denalan",
+  "quest": "The Moss-twined Heart",
+  "en": "Let's try planting it in some of my special, prepared soil...",
+  "files": [
+   "followup/1128-nightelf-male-standard"
+  ]
+ },
+ {
+  "id": "fde07c651e6f",
+  "zone": "teldrassil",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Moss-twined Heart",
+  "quest": "The Moss-twined Heart",
+  "en": "The heart of Blackmoss the Fetid is covered with a dark, oily moss. In fact, the only way to tell this is a heart is from its slow, rhythmic beat... A beat that continues even now.\n\nPerhaps Denalan will want to see this heart.",
+  "files": [
+   "quests/927-accept"
+  ]
+ },
+ {
+  "id": "946d47a4c367",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denalan",
+  "quest": "The Moss-twined Heart",
+  "en": "...What is this? A timberling heart?? It's covered with a foul moss!\n\nThank you for bringing this to me, Adventurer. I will examine the heart and, if fortune shines, determine the nature of the moss about it.",
+  "files": [
+   "quests/927-complete"
+  ]
+ },
+ {
+  "id": "dc00e9df1d68",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Arynia Cloudsbreak",
+  "quest": "The Oracle Tree",
+  "en": "I am impressed by what you have accomplished here in so short a time, Adventurer. Would that I could ask you to remain here to assist me with my duties... but I know in my heart that greater tasks lie ahead for you.\n\nI have noticed the Oracle Tree has just shed a piece of its bark. No doubt it has a task that it wishes completed. You should speak with it.",
+  "files": [
+   "quests/98398-accept"
+  ]
+ },
+ {
+  "id": "50aa3d0c2a60",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Athridas Bearmantle",
+  "quest": "The Relics of Wakening",
+  "en": "Gnarlpine invaders were seen ravaging the Ban'ethil Barrow Den to the west.\n\nThe slumbering druids will be trapped in the Emerald Dream for eternity, unaware of their fate, unless we help. The delicate hibernation ritual cannot be broken without the Relics of Wakening.\n\nJourney to the Den and retrieve the Raven Claw Talisman, Black Feather Quill, Sapphire of Sky, and Rune of Nesting. The druids store them in sacred chests. Return them to me and I will prepare the awakening ritual.",
+  "files": [
+   "quests/483-accept"
+  ]
+ },
+ {
+  "id": "147a5841fa20",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Athridas Bearmantle",
+  "quest": "The Relics of Wakening",
+  "en": "You have succeeded, young adventurer! Well done. And just in time I might add.",
+  "files": [
+   "quests/483-complete"
+  ]
+ },
+ {
+  "id": "c733bc7957e7",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Moon Priestess Amara",
+  "quest": "The Road to Darnassus",
+  "en": "The road to Darnassus must be kept safe. Travelers heading from Dolanaar to Darnassus have been reporting ruthless attacks by corrupted furbolgs from the Gnarlpine tribe.\n\nImportant news and commerce travels to and from Darnassus by way of this road daily. We cannot afford to have a rogue band of heathens terrorizing people.\n\nTake up arms in the name of the sacred forest, adventurer. Their den lies somewhere below this vantage point. Slay 6 of these Gnarlpine ambushers and report back to me.",
+  "files": [
+   "quests/487-accept"
+  ]
+ },
+ {
+  "id": "9f5e125dcc66",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Moon Priestess Amara",
+  "quest": "The Road to Darnassus",
+  "en": "You have served the good people of Dolanaar and Darnassus well, brave adventurer. As a member of the Sentinel force of Teldrassil I salute your efforts.",
+  "files": [
+   "quests/487-complete"
+  ]
+ },
+ {
+  "id": "f9f0b901d1e4",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denalan",
+  "quest": "The Shimmering Frond",
+  "en": "I hope this frond takes root...",
+  "files": [
+   "followup/1160-nightelf-male-standard"
+  ]
+ },
+ {
+  "id": "9a3cf5dc5dee",
+  "zone": "teldrassil",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Strange Fronded Plant",
+  "quest": "The Shimmering Frond",
+  "en": "The fronds on this plant shimmer in the forest light, giving it a twisting, pulsing aura.\n\nYou believe that Denalan would want a specimen of this.",
+  "files": [
+   "quests/931-accept"
+  ]
+ },
+ {
+  "id": "d7610b4806da",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denalan",
+  "quest": "The Shimmering Frond",
+  "en": "Where did you get this? I haven't seen a plant like this since a sojourn I made to the Swamp of Sorrows... decades ago! It's amazing that a specimen made its way to Teldrassil. And it's grown to such a size!\n\nThank you, Adventurer. Forgive my shortness of words, but there is a test I would like to perform on this frond...",
+  "files": [
+   "quests/931-complete"
+  ]
+ },
+ {
+  "id": "10d26ebab233",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Oben Rageclaw",
+  "quest": "The Sleeping Druid",
+  "en": "The Gnarlpine shaman that inhabit this place have discovered a way of separating a sleeping druid's spirit from the physical body. The furbolg have animated my physical form and are using it to attack anyone that attempts to explore the Ban'ethil Barrow Den. I am now trapped in the Emerald Dream, powerless to stop this.\n\nYou must help me. The Gnarlpine shaman carry a strange charm which is used to perform this ritual, and I'd like to examine it. Please, Adventurer, bring one to me.",
+  "files": [
+   "quests/2541-accept"
+  ]
+ },
+ {
+  "id": "4b0f0ca4a633",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Oben Rageclaw",
+  "quest": "The Sleeping Druid",
+  "en": "Thank you, Adventurer.\n\nWhat an odd trinket this is... I can sense the vile aura emanating from it; this is a very powerful enchantment.",
+  "files": [
+   "quests/2541-complete"
+  ]
+ },
+ {
+  "id": "4302f15f7ae3",
+  "zone": "teldrassil",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Sprouted Frond",
+  "quest": "The Sprouted Fronds",
+  "en": "The fronds Denalan planted within his garden have sprouted and grown. They tremble, eager to be picked....",
+  "files": [
+   "quests/2399-complete"
+  ]
+ },
+ {
+  "id": "6cd06b6dbf12",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Melithar Staghelm",
+  "quest": "The Woodland Protector",
+  "en": "Thank goodness you are here, adventurer. Strange news has traveled to me through the whisperings of the forest spirits.\n\nThe mysterious woodland protector, Tarindrella, has returned to Shadowglen. The dryad's presence has not been felt in the forests of Kalimdor in years. Something is surely amiss if she has journeyed back to this land.\n\nSeek out Tarindrella and see what business she tends to in our grove. One of the Sentinels reported seeing her to the southwest of Aldrassil.",
+  "files": [
+   "quests/458-accept"
+  ]
+ },
+ {
+  "id": "2b759d930d3b",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Tarindrella",
+  "quest": "The Woodland Protector",
+  "en": "I see you found me, young traveler. Melithar is a wise druid to have sent you.",
+  "files": [
+   "quests/458-complete"
+  ]
+ },
+ {
+  "id": "588abc9fa6a6",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Tarindrella",
+  "quest": "The Woodland Protector",
+  "en": "Something evil is brewing in the forests of Teldrassil. Look long the hills to where the peaceful furbolgs used to dwell. They have deserted their homes and are amassing under the name of the Gnarlpine tribe.\n\nOnly the corruption of wicked Fel Moss could cause such a transformation. The grells and grellkin have infested the area and are threatening the residents of Shadowglen. \n\nEngage these grells and grellkin, Adventurer, and see if they are indeed caught under the enchantment of the wicked Fel Moss.",
+  "files": [
+   "quests/459-accept"
+  ]
+ },
+ {
+  "id": "33b80d8fef28",
+  "zone": "teldrassil",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Tarindrella",
+  "quest": "The Woodland Protector",
+  "en": "Your service to the creatures of Shadowglen is worthy of reward, Adventurer.\n\nYou confirmed my fears, however. If the grells have become tainted by the Fel Moss, one can only imagine what has become of the Gnarlpine tribe of furbolgs who once lived here.\n\nShould you find yourself in Dolanaar, able Adventurer, seek out the knowledgeable druid, Athridas Bearmantle. He shares our concern for the well being of the forest.",
+  "files": [
+   "quests/459-complete"
+  ]
+ },
+ {
+  "id": "5575241bad8a",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denalan",
+  "quest": "Timberling Seeds",
+  "en": "The timberlings of Teldrassil are elementals of nature. In some ways they reflect the natural order of plants and animals on our great tree.\n\nSo it is disturbing to see how angry the timberlings have become.\n\nI believe it has something to do with the soil. I have been working on different methods of nurturing plants and would like to try them on timberling seeds. Please, can you gather seeds from timberlings around Lake Al'Ameth and bring them to me?",
+  "files": [
+   "quests/918-accept"
+  ]
+ },
+ {
+  "id": "3937740505af",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denalan",
+  "quest": "Timberling Seeds",
+  "en": "You got them. This is good!\n\nI will plant these seeds in special soil I have prepared. I believe the seeds will sprout into timberlings who are much more docile. Perhaps later you can see the results!",
+  "files": [
+   "quests/918-complete"
+  ]
+ },
+ {
+  "id": "7a0d8e8fd572",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denalan",
+  "quest": "Timberling Sprouts",
+  "en": "Small timberlings are sprouting around the waters of Lake Al'Ameth. I'm afraid these sprouts are beyond help -- we should try to clear them from the land before they grow large enough to cause trouble.\n\nWhen you're wandering the lake, if you see any timberling sprouts please take them. Help keep our land clean!",
+  "files": [
+   "quests/919-accept"
+  ]
+ },
+ {
+  "id": "4c0523799612",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denalan",
+  "quest": "Timberling Sprouts",
+  "en": "That's a lot! I'm afraid they're spreading at a dangerous rate. I hope I can solve the riddle of what is tainting them.\n\nThank you for your help, Adventurer. The land is a cleaner place from your efforts.",
+  "files": [
+   "quests/919-complete"
+  ]
+ },
+ {
+  "id": "44ddbcb03b96",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rellian Greenspyre",
+  "quest": "Tumors",
+  "en": "There is a malevolence growing in the timberlings. We are trying to find the source, but until we do...in order to keep Teldrassil safe we must cut down the timberlings who are beyond help. Those that wander Wellspring Lake in northern Teldrassil are the most tainted. They must be removed!\n\nDestroy the Timberlings you find there, and gather the mossy tumors growing upon them. Bring the tumors to me so that they may be burned.",
+  "files": [
+   "quests/923-accept"
+  ]
+ },
+ {
+  "id": "b60fce1880dd",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rellian Greenspyre",
+  "quest": "Tumors",
+  "en": "Well done! These tumors are the symptom of the timberling's disease. They are filled with a poison that we must cleanse from our new land.\n\nI will dispose of these tumors. Thank you, Adventurer.",
+  "files": [
+   "quests/923-complete"
+  ]
+ },
+ {
+  "id": "e8ad9678466d",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Tallonkai Swiftroot",
+  "quest": "Twisted Hatred",
+  "en": "I must warn you, adventurer, this matter must stay between us. The satyr are enough of an embarrassment to us already, and this one is much too close to home.\n\nHe is called Lord Melenas. He resides in the nearby cave of Fel Rock where he has gathered a large group of grell warriors. His heart is black as night, and he plots something most foul.\n\nYou must find him within his nearby cave just to the north of here, and bring me his head.",
+  "files": [
+   "quests/932-accept"
+  ]
+ },
+ {
+  "id": "09b78ca16d35",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Tallonkai Swiftroot",
+  "quest": "Twisted Hatred",
+  "en": "With Lord Melenas laid to rest I can finally move on to other matters. Thank you, adventurer.",
+  "files": [
+   "quests/932-complete"
+  ]
+ },
+ {
+  "id": "523178fd7342",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Tallonkai Swiftroot",
+  "quest": "Twisted Hatred",
+  "en": "Lord Melenas did not act alone; he was at the behest of another. The one you seek is Xethorr the Wicked. It seems he has twisted the spiders that call Teldrassil home, intending their venom for some foul plan.\n\nHe has taken residence deep in the forest, in the area to the northwest of here known as the Cleft. Take caution, and bring allies, for Xethorr is not an opponent to be trifled with.\n\nDispatch his brood, and bring me anything that may tell us more of the satyr's work here.",
+  "files": [
+   "quests/98403-accept"
+  ]
+ },
+ {
+  "id": "d8fd80d0d78c",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Tallonkai Swiftroot",
+  "quest": "Twisted Hatred",
+  "en": "I should have known this was being used to twist the spiders of this land.\n\nI have heard whispers of this substance being the source of much of the corruption plaguing us. Though this is not the original, it is an older sample and may yield more information than what we have obtained so far.\n\nNormally I would have you send this to Darnassus for further study. However, it is best we kept this quiet for the moment, or Dolanaar will never recover its reputation.\n\nI trust you to do the same.",
+  "files": [
+   "quests/98403-complete"
+  ]
+ },
+ {
+  "id": "a91686bb92d4",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Athridas Bearmantle",
+  "quest": "Ursal the Mauler",
+  "en": "Now the time has come to save the Druids of the Talon. If we fail now, Adventurer, they will be forever lost in sleep.\n\nI shall prepare the Relics of Wakening and perform the ritual. For my work to take effect, the cursed beast responsible for this horrible situation must be slain. Only then will the ritual be complete.\n\nIt was Ursal the Mauler who meddled with our brethren's calling and it is Ursal the Mauler who must now pay so they can be freed. Travel to Gnarlpine Hold in the southwest and slay him.",
+  "files": [
+   "quests/486-accept"
+  ]
+ },
+ {
+  "id": "0e92d6b3fe3b",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Athridas Bearmantle",
+  "quest": "Ursal the Mauler",
+  "en": "Adventurer you have proven yourself a most worthy and able adventurer. A traveler who follows the path of honor as sure as you do is certain to find great glory in this world.\n\nMay the forest spirits protect you wherever your travels may take you.",
+  "files": [
+   "quests/486-complete"
+  ]
+ },
+ {
+  "id": "24cb1776895f",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Gilshalan Windwalker",
+  "quest": "Webwood Egg",
+  "en": "Now that I have the spiders' venom, I'd like some live specimens to study. Unfortunately, capturing a living, giant spider is more than I can ask of you, young adventurer. And a giant spider is more than I could handle myself!\n\nBut if you can find an unhatched egg, then delivering specimens will be much easier, and I can then arrange for the unhatched spiders to be contained.\n\nThere must be a nest deep in the Shadowthread Cave. Please, search for an egg in the nest and return it to me.",
+  "files": [
+   "quests/917-accept"
+  ]
+ },
+ {
+  "id": "92c9f4d56da8",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Gilshalan Windwalker",
+  "quest": "Webwood Egg",
+  "en": "Ah, very good. I will have this egg and the venom transported to Darnassus, then return there when my studies are done here. I expect to find out a great deal from these specimens, Adventurer. You have been a great help to me.",
+  "files": [
+   "quests/917-complete"
+  ]
+ },
+ {
+  "id": "d977bbdee936",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Gilshalan Windwalker",
+  "quest": "Webwood Venom",
+  "en": "I came to Shadowglen to observe the webwood spiders that dwell in the Shadowthread Cave. They are cousin to a much smaller variety of spider; I believe the world tree has had a profound effect on them, and I would like specimens to study to confirm this.\n\nFirst, I would like some of their venom. Gather Webwood venom sacs from the spiders in and around the Shadowthread Cave, to the north. I can then examine them for similarities with their smaller cousin's venom.",
+  "files": [
+   "quests/916-accept"
+  ]
+ },
+ {
+  "id": "8483523f730d",
+  "zone": "teldrassil",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Gilshalan Windwalker",
+  "quest": "Webwood Venom",
+  "en": "Thank you, Adventurer. When I return to Darnassus I will compare the venom within these sacs with the venom of other spiders. It is my belief that it will have properties linked to the recent growth of our new world tree.",
+  "files": [
+   "quests/916-complete"
+  ]
+ }
+]

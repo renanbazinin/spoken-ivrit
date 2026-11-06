@@ -1,0 +1,184 @@
+[
+ {
+  "id": "2430cd06b762",
+  "zone": "badlands-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lotwil Veriatus",
+  "quest": null,
+  "en": "How perfect of you to come by, adventurer.\n\nMy name is Lotwil Veriatus, founding member of the Enlightened Assembly of Arcanology, Alchemy, and Engineering Sciences: we seek to blend the intelligent sciences of Azeroth together into one comprehensive school.",
+  "files": [
+   "gossip/a0542cde795fdfada26ec0e05b2638e8"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "6afafe78e2b0",
+  "zone": "badlands-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lucien Tosselwrench",
+  "quest": null,
+  "en": "Hey there, Adventurer.\n\nLotwil's not the most perceptive boss I've had. He actually gets really involved with his work. So much so that sometimes his servants don't eat, or get paid.\n\n\nBut that doesn't mean you should suffer.",
+  "files": [
+   "gossip/c73828e632b03b29b139443cc995766d"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "2bb25e72009f",
+  "zone": "badlands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Mountaineer Pebblebitty",
+  "quest": null,
+  "en": "You're a fool that should heed my warnings. No one is invulnerable. You would be wise to remember that bit of advice.",
+  "files": [
+   "gossip/323d3889c894c4e4d23601fef852f8d4"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "15aa722e8ab7",
+  "zone": "badlands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Mountaineer Pebblebitty",
+  "quest": null,
+  "en": "I shouldn't even be telling you this but if you can make it past all the critters and beasties in Badlands, you might be able to make it to Searing Gorge.\n\nYes, the Badlands. There's some type of back road the orcs paved near Kargath. Just goes to show you what kind of fools we're dealing with here! A backdoor to hell? What were they thinking?",
+  "files": [
+   "gossip/7a5e20baffb1fd53805fba90136297cf"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "9483054c6494",
+  "zone": "badlands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Mountaineer Pebblebitty",
+  "quest": null,
+  "en": "I'll tell you what. Since you fancy yourself the hero type, if you can make your way through the Badlands to the Searing Gorge and bring me back something to prove your heroics, I'll see what I can do about getting you a key.\n\nIn the southeasternmost corner of Searing Gorge is a lady almost as tough as me, Margol the Rager. Maybe you should investigate.",
+  "files": [
+   "gossip/9498b67ff9de3d1b336edfc2a9c1234d"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "d838372b68b8",
+  "zone": "badlands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Mountaineer Pebblebitty",
+  "quest": null,
+  "en": "I don't care to hear it, adventurer. Nope, no way are you going to be let into the Searing Gorge. Impossible. Not going to happen. How many times do I have to tell you - I can't let you in! Do you not speak common? Are you an orc in disguise? N-O. NO!\n\nIf I let you in, then I have to let everybody in. Pretty soon your close friends will want in, then their distant relatives, then their friends, and so on and so forth. The last time that happened... well, we won't talk about the last time it happened.",
+  "files": [
+   "gossip/9bf4acfcf8b3017e7c135450b27e1187"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "fd6ba52b92d5",
+  "zone": "badlands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Mountaineer Pebblebitty",
+  "quest": null,
+  "en": "Invulnerable?",
+  "files": [
+   "gossip/dc10b90d49799ef2ea3208e27fd9dcb7"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "fa5614345296",
+  "zone": "badlands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Mountaineer Pebblebitty",
+  "quest": null,
+  "en": "Are you mad? Do you know what manner of beast inhabit that place? The worst that can happen is that we'll have to scoop up your remains with a shovel. We've lost some good dwarves to those awful monsters.\n\nSo the answer is no. If you're bent on getting to the Searing Gorge, you'll have to find another way.",
+  "files": [
+   "gossip/de002f127465baf4cabaaa0def1395d7"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "52b654961bac",
+  "zone": "badlands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Ryedol",
+  "quest": null,
+  "en": "Bastards came right at us at night, after we'd gotten a few drinks in us. Otherwise, we could've taken 'em, count on it.\n\nEveryone's dead now... except a few of us.",
+  "files": [
+   "gossip/d3bcb64fc7e64a57e763a59492127647"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "b5ff1cbe0c12",
+  "zone": "badlands-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Rigglefuzz",
+  "quest": null,
+  "en": "You must be hard up to be wandering these Badlands, adventurer. Hard up like me.\n\nOr maybe you're here because you're crazy. Crazy, like me.",
+  "files": [
+   "gossip/9c20efde5f130887d0c129a052780d46"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "40bc1316a275",
+  "zone": "badlands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sigrun Ironhew",
+  "quest": null,
+  "en": "It was quite a departure, let me tell you, adventurer. We were grabbing whatever wasn't nailed down or could be removed quickly. We're a little spare on supplies because of it.",
+  "files": [
+   "gossip/c3f420db7c0b095665e18b65488dca76"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "d11abdd7e65e",
+  "zone": "badlands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Theldurin the Lost",
+  "quest": null,
+  "en": "Back away! Stay back! I have a pack full of blastpowder and I'm not afraid to use it! I'll blow us all away!\n\nOh, never mind. I thought you were someone else....",
+  "files": [
+   "gossip/91c4313b56ed5abecc4be72cfbade940"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "75576da0fc6f",
+  "zone": "badlands-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thorkaf Dragoneye",
+  "quest": null,
+  "en": "Your stench will attract every dragon for miles. Tell me what you want, and quickly.",
+  "files": [
+   "gossip/0249ed1756f9b7c5b5603fe23f7cb456"
+  ],
+  "uiMap": 1418
+ }
+]

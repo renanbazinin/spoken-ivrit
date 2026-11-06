@@ -1,0 +1,1416 @@
+[
+ {
+  "id": "fbadf27951e5",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Apprentice Kryten",
+  "quest": "An Apprentice's Enchantment",
+  "en": "Here you are, Adventurer. The gem only needs to be pressed against one of the pedestals near the base of the tower to activate its defenses. Use it when you're ready to enter the tower and find Trelane's remaining items. \n\nGood luck to you. I'll be awaiting your return here at the camp. Oh, and speak to Skuerto before you leave. He'll give you the rest of the details you'll need.",
+  "files": [
+   "quests/695-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "b1c6ee7859da",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Skuerto",
+  "quest": "An Apprentice's Enchantment",
+  "en": "Good, good.\n\nIf there are no other delays, how about we get started?",
+  "files": [
+   "quests/695-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "42ccf7693343",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Skuerto",
+  "quest": "Attack on the Tower",
+  "en": "Here's what your lookin' for: Trelane's phylactery, Trelane's orb, an' Trelane's ember agate.\n\nAll three should be in chests within the tower an' you shouldn't have a problem opening the chests on your own; you just have to be careful of the ogres.\n\nThe tower's defenses won't take care of 'em on their own; you'll need to have your weapons at the ready. Those ogres find out you're there and stealing from 'em, an' they'll be sure to put the hurt on you.\n\nBe careful, an' good luck.",
+  "files": [
+   "quests/696-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "84d915ad2647",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Skuerto",
+  "quest": "Attack on the Tower",
+  "en": "Malin couldn't've asked a worthier person to come here an' aid us, Adventurer. You've done a grand job!\n\nHe'll be pleased to see what an overwhelming success our mission's been.",
+  "files": [
+   "quests/696-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "5cfb79e5483e",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Keystone",
+  "quest": "Breaking the Keystone",
+  "en": "You place the rod in the keystone. And a shudder is felt beneath you...",
+  "files": [
+   "quests/652-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "9771a97a1394",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Stone of Inner Binding",
+  "quest": "Breaking the Keystone",
+  "en": "Opening the Stones of Binding loosened much of my confinement, but a lock still holds me chained. It is the Keystone you see among this circle of stones. And the key is held by one of my captors, the stone watcher Fozruk.\n\nYou must obtain that key, which the stone watchers call the Rod of Order, from Fozruk and use it to open the Keystone.\n\nAdventurer, you have done so much to aid me. Just a little more...and my gratitude will shake the very foundations of the earth!",
+  "files": [
+   "quests/652-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "93b0ddcab5fd",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Drum Fel",
+  "quest": "Call to Arms",
+  "en": "The Witherbark trolls and Boulderfist ogres of Arathi are working together to rid us from this land, but we shall not meet our fates at their, or anyone else's, hand. We will slay them and show them that we, too, have a home here. \n\nThe trolls turned their backs to us; the ogres would use us for food and bedding if we allowed them to--these things shall not be.\n\nWe start our attack on the Witherbark trolls to the south of here. Slay them in droves, and only return when their camps run thick with blood.",
+  "files": [
+   "quests/677-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "fdec66ae3d41",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Drum Fel",
+  "quest": "Call to Arms",
+  "en": "The signs of war are upon your garments, and sweat drips from your brow. Good, very good indeed.",
+  "files": [
+   "quests/677-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "76a3e12f8355",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Drum Fel",
+  "quest": "Call to Arms",
+  "en": "Your strength is evident, Adventurer. Now to see how you fare against a real enemy.\n\nThe Boulderfists have a lair to the southwest of here towards the dwarven bridge, and, if I'm not mistaken, the maulers and magi there shall present to you a greater challenge--they have done so to us thus far.\n\nSlay as many as you can and come to me in body when you are successful, or come to me in spirit when you fail. I shall give praise to your tenacity in battle either way.",
+  "files": [
+   "quests/678-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "d4f12d0054ab",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Drum Fel",
+  "quest": "Call to Arms",
+  "en": "You are as strong as a kodo, and your lust for battle does your people proud.",
+  "files": [
+   "quests/678-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "41067044d08c",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Drum Fel",
+  "quest": "Call to Arms",
+  "en": "The head of the beast is ready to be taken off... with great force, Adventurer. You have shown every sign that you are able to help us with this final mighty blow. The leaders of these attacks have made their lair within the ruins of Stromgarde, a glaring symbol of human frailty.\n\nFind and slay those Boulderfist lords and their lackey shaman who would try and drive us from these lands.",
+  "files": [
+   "quests/679-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "1fbe4ff7645e",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Drum Fel",
+  "quest": "Call to Arms",
+  "en": "You do your people proud, Adventurer. The threat has been greatly lessened, and I am sure we will begin to thrive here in the Highlands.",
+  "files": [
+   "quests/679-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "1ec4c687c031",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Pendant of Myzrael",
+  "quest": "Crystal in the Mountains",
+  "en": "This shard pulses as you hold it...\n\nYou feel a sense of pleading coming from the shard, as if someone is trying to communicate, someone who desperately needs your help.\n\nA vision appears in your mind - of the northern mountains of Arathi, and of a brilliant crystal jutting from the earth there.\n\nYou feel drawn to that place.",
+  "files": [
+   "quests/635-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "7de888842751",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Shards of Myzrael",
+  "quest": "Crystal in the Mountains",
+  "en": "This crystal pulses, as if a living force is trapped within it.",
+  "files": [
+   "quests/635-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "8ab566bd9352",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "First Mate Nilzlix",
+  "quest": "Deep Sea Salvage",
+  "en": "O'Breen led the ships into the cove. We were certain this is where the treasure could be found. The Harbinger docked safely but as the Maiden's Folly and Spirit of Silverpine approached the tides began to lower. Strangest thing I've ever seen!\n\nThose two ships ran aground into something... some sort of temple in the reef. They sank so quickly, was quite a tragedy.\n\nWe need to retrieve their Logs as well as their Charts before we leave. We can't leave that information behind for prying eyes!",
+  "files": [
+   "quests/662-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "df254de2f3bd",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "First Mate Nilzlix",
+  "quest": "Deep Sea Salvage",
+  "en": "Knowing this information is secure will bring some ease to the command in Booty Bay. Well done, adventurer.",
+  "files": [
+   "quests/662-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "55b304d44248",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Captain Steelgut",
+  "quest": "Drowned Sorrows",
+  "en": "Argh, 'tis a horrible life. I should be in a watery grave right now, not sittin' here by the fire, breathin' fresh air.\n\nThe crew tried so hard to save my beautiful Maiden's Folly. Bless the boys, bless their hearts.\n\nO'Breen made it to shore safely but we weren't so lucky. The seas just sank on us, I swear.\n\nOne second we're afloat and the next water is rushin' in. And those beasts! Killed all the survivors. Horrible naga scum. I went black and ended up here, saved.\n\nI want those beasts dead.",
+  "files": [
+   "quests/664-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "03bf1ada2ff3",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Captain Steelgut",
+  "quest": "Drowned Sorrows",
+  "en": "Nice work out there, adventurer.\n\nThose scum deserved what they got. While nothin' will ever bring me ship or me crew back, the death of those naga gives me some solace.",
+  "files": [
+   "quests/664-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "9244eb2623ff",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Tor'gan",
+  "quest": "Foul Magics",
+  "en": "I have felt a strangeness in the air... a feeling that simmers in my blood. I had my suspicions. I set off to find the source of my unease and discovered to the west, at Northfold Manor, the residual traces of demonic summoning. As I got close, my blood began to boil and the rage within me grew.\n\nOn the ground I spied an amulet of bloodstone, used to assist in demonic summoning. The one I found was depleted, however. I'll need another to examine, but I dare not return to the manor. Can you bring me some?",
+  "files": [
+   "quests/671-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "a43f3513b373",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Tor'gan",
+  "quest": "Foul Magics",
+  "en": "It will take some time for me to ascertain the true intentions of the Syndicate, but their obvious association with dark, demonic magic troubles me. I will tell you when I know more.",
+  "files": [
+   "quests/671-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "d2d2427ebd9a",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Tor'gan",
+  "quest": "Foul Magics",
+  "en": "There is no doubt in my mind that a powerful warlock resides within the walls of Stromgarde. From time to time, using an arcane magical relic, this warlock has summoned forth terrible demons in large numbers. We must remove the source of his energy.\n\nFind the warlock and kill him. Bring me whatever magical object you find on his person, and I will take steps to destroy it and see that its power is not used to taint this land any longer.",
+  "files": [
+   "quests/673-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "49aa312c1aa3",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Tor'gan",
+  "quest": "Foul Magics",
+  "en": "My restless nights will turn to peaceful slumber when I have destroyed this orb. Thank you, adventurer. It is a chilling reminder of the terrible power the demons held over the orcs before Hellscream released them from their curse.",
+  "files": [
+   "quests/673-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "26d7f6996461",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gor'mul",
+  "quest": "Guile of the Raptor",
+  "en": "What is this power that flows through me? Is this the power of shamanism that Tor'gan spoke of...?",
+  "files": [
+   "followup/861-orc-male-guard"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "88d1c28dadda",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gor'mul",
+  "quest": "Guile of the Raptor",
+  "en": "Amazing! I feel... renewed. My strength returns!",
+  "files": [
+   "followup/862-orc-male-guard"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "17c4faf6743d",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gor'mul",
+  "quest": "Guile of the Raptor",
+  "en": "At least it is something interesting you bring to me this time. A strange power it emits...",
+  "files": [
+   "quests/702-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "15bfa0fc437f",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gor'mul",
+  "quest": "Guile of the Raptor",
+  "en": "This... this power.... Is this the power of the shamans that Tor'gan tried to show me? I must say, it is interesting. Tell Tor'gan that he has convinced me... for the time being. I will listen to what he has to say.",
+  "files": [
+   "quests/847-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "9c18b1bff641",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Tor'gan",
+  "quest": "Guile of the Raptor",
+  "en": "With some additional objects, I will be able to create an item that will imbue Gor'mul with the guile of the raptor! With the power of the raptor flowing through him, Gor'mul will know our new power and rediscover the warrior that lies dormant!\n\nI will require raptor hearts to fashion the item and spell.",
+  "files": [
+   "quests/701-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "a1ae4f6abf7d",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Tor'gan",
+  "quest": "Guile of the Raptor",
+  "en": "Yes, these will work perfectly. I will transfer their power and the spirit of the raptors into this orb. This orb will imbue Gor'mul with the fiery strength and intelligence of the raptor.",
+  "files": [
+   "quests/701-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "1ffe626f72e9",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Tor'gan",
+  "quest": "Guile of the Raptor",
+  "en": "Take this orb and use its energy to give Gor'mul the essence of the raptor. Surely this will invigorate his spirit and give him new purpose in life. With him returned to normal, we can explain to him the current state of the Horde, and we will have a great warrior's assistance in our unceasing battles.",
+  "files": [
+   "quests/702-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "c94fa33730b1",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Tor'gan",
+  "quest": "Guile of the Raptor",
+  "en": "When the enchantment wears off, I will speak with Gor'mul. My thanks to you for your help in returning Gor'mul to the land of the living. I have no doubt he thanks you greatly as well.",
+  "files": [
+   "quests/847-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "b8c6980a8f24",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gor'mul",
+  "quest": "Hammerfall",
+  "en": "It is still clear to me, like yesterday... So many years without hope, with wood and steel to bind me to this terrible place. Then finally, finally! There was the Warchief. Doomhammer in his midnight plate, his warhammer held high.\n\nIt was... too terrible... That the blow of a coward would strike down our greatest hero. From behind he charged on his horse, and then his lance ran him through... I fell to my knees. What hope was there? What hope is there...",
+  "files": [
+   "quests/655-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "0b0f9df47270",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Tor'gan",
+  "quest": "Hammerfall",
+  "en": "Ah, Gor'mul you speak of. Yes, from what he says, it seems he has never recovered from the death of Doomhammer.\n\nGor'mul was a captive here when Thrall and Orgrim fought to free the camp, but as the earth shook and our brethren escaped, he was left behind. He wandered alone and lost for years without direction or hope, until we returned to establish ourselves here in Hammerfall.",
+  "files": [
+   "quests/655-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "223a9b30a7df",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Archmage Malin",
+  "quest": "Malin's Request",
+  "en": "By the Light, you've done it. How wonderful. Trelane will be so pleased. I'm sure Kryten and Skuerto are just as excited as I am to have them on their way back to Stormwind.\n\nThank you, Adventurer. Please, take this to help you in your journeys.",
+  "files": [
+   "quests/697-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "3bb347904607",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Skuerto",
+  "quest": "Malin's Request",
+  "en": "Take this letter back to Stormwind and let Malin know that Kryten an' I'll be home soon. He'll reward you well for helping us here, Adventurer, of that I've no doubt.\n\nTravel safely.",
+  "files": [
+   "quests/697-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "c3397f6012f1",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gerrig Bonegrip",
+  "quest": "Myzrael's Allies",
+  "en": "The Lady told me of your coming, adventurer. You are welcome in my abode for you, like I, serve a higher cause.",
+  "files": [
+   "quests/653-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "05c861957497",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Keystone",
+  "quest": "Myzrael's Allies",
+  "en": "Free! I AM FREE! I am free to gather strength, hidden from my captors. For if they faced me now they would surely overpower and again imprison me.\n\nBut in time I will confront the giants, and they will regret their wardship of me!\n\nYou are a noble ally, Adventurer. I will need your help again in time. When I am ready, I will need you to summon me to the surface.\n\nSpeak with Gerrig Bonegrip. He is in Ironforge, in a shop of the Forlorn Cavern. He knows how I can be summoned.",
+  "files": [
+   "quests/653-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "dad9e358ea9d",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Keystone",
+  "quest": "Myzrael's Allies",
+  "en": "Free! I AM FREE! I am free to gather strength, hidden from my captors. For if they faced me now they would surely overpower and again imprison me.\n\nBut in time I will confront the giants, and they will regret their wardship of me!\n\nYou are a noble ally, Adventurer. I will need your help again in time. When I am ready, I will need you to summon me to the surface\n\nSpeak with Zaruk in Hammerfall. He knows how I can be summoned.",
+  "files": [
+   "quests/688-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "cc6ec930bb11",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Zaruk",
+  "quest": "Myzrael's Allies",
+  "en": "Welcome, adventurer. The Lady has informed me of your coming, and if we are to bring her back to the surface then we have much to discuss...",
+  "files": [
+   "quests/688-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "c230fca174fe",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Captain Nials",
+  "quest": "Northfold Manor",
+  "en": "We are fighting a war for Stromgarde, and we are losing. The ogres, the Syndicate and we have divided our once great city, and each faction battles the other into a bloody stalemate.\n\nBut our forces dwindle while our enemy grows.\n\nWe need help from the town of Southshore, but supplies are difficult to receive while the Syndicate holds territory between us.\n\nGo to the Syndicate base in Northfold Manor and slay them. Then, perhaps, pressure on our supply trains will lessen and more will get through.",
+  "files": [
+   "quests/681-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "8334c856f0c1",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Captain Nials",
+  "quest": "Northfold Manor",
+  "en": "Very good, Adventurer. With the deaths of those Syndicate members we should have an easier time receiving supplies from Southshore.\n\nPerhaps our cause yet has hope.",
+  "files": [
+   "quests/681-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "f066f652a854",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gor'mul",
+  "quest": "Raising Spirits",
+  "en": "What is this? Polished bone. What use have I for polished bone? Will a trinket restore the Horde to its glory?",
+  "files": [
+   "quests/674-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "6816c4ddd287",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gor'mul",
+  "quest": "Raising Spirits",
+  "en": "Tor'gan sent you, didn't he? Pah! Why he feels some mercy towards me I would not understand. Mercy was denied me when I was not allowed to die with my Warchief in battle. A cruel blow fate has dealt me...",
+  "files": [
+   "quests/675-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "d4b9738ee2ed",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Tor'gan",
+  "quest": "Raising Spirits",
+  "en": "We tried to settle him in, cheer him up, telling him stories of our mighty city at Orgrimmar in Kalimdor, but nothing would move him.\n\nTales of our young Warchief, Thrall, who bears the armor and hammer of Orgrim... but, perhaps... Perhaps! A demonstration of our newly found shamanistic magic would give him new hope. It is worth a try!\n\nA small object we could make for him, yes... Bring me some raptor eyes, and I will see what I can do.",
+  "files": [
+   "quests/672-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "a2e64a04b4ef",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Tor'gan",
+  "quest": "Raising Spirits",
+  "en": "Excellent. The spirits of the raptors that gave these eyes will lend strength to the bearer of this amulet.",
+  "files": [
+   "quests/672-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "b4e3b281af86",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Tor'gan",
+  "quest": "Raising Spirits",
+  "en": "Here, take this amulet to Gor'mul, and see if the raptors' strength can awaken the flame of the warrior that once burned through his veins.",
+  "files": [
+   "quests/674-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "febdac0ad624",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Tor'gan",
+  "quest": "Raising Spirits",
+  "en": "It did not work, I see. Nonetheless, I feel that showing him the power of the shamans will eventually return Gor'mul to his once proud self. The amulet's power was not great enough to show him our newfound power.",
+  "files": [
+   "quests/675-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "4ac76858a56b",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zengu",
+  "quest": "Sigil of Arathor",
+  "en": "Though they can barely be said to control Stromgarde, let alone the whole of Arathi Highlands, the human prince trots the remnants of his cavalry over the countryside. I can't understand why he does it, but who understands the way the humans think, hm?\n\nWhatever his reasoning, more importantly, he has given one of the sigils to Lieutenant Valorcall, their cavalry leader. Locate him and bring his sigil back to me.",
+  "files": [
+   "quests/643-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "f28b3f0a3173",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zengu",
+  "quest": "Sigil of Arathor",
+  "en": "Losing their cavalry leader will prove a large blow to the Stromgarde defenders. Better yet, it means that we are only one sigil from being able to have Trol'kalar for ourselves.",
+  "files": [
+   "quests/643-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "1634c45e40a9",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zengu",
+  "quest": "Sigil of Strom",
+  "en": "In ancient times, trolls fought against the Arathorian Empire and our most capable adversary, Lord Ignaeus of Strom, named Trollbane. He rode into battle wielding Trol'kalar--troll slayer, in their ancient tongue.\n\nBut now the sons of Trollbane are weakened, their stronghold brought to ruin.\n\nThe sword is protected by several sigils that were divided among the survivors of Stromgarde, and we must retrieve them.\n\nThe first was taken by the Syndicate, one of their men in Stromgarde should have it.",
+  "files": [
+   "quests/639-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "1aed0c31e985",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zengu",
+  "quest": "Sigil of Strom",
+  "en": "Excellent, mon. That's a good start to collecting the sigils we'll need to remove Trol'kalar from Trollbane's tomb.",
+  "files": [
+   "quests/639-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "6be8ea6c95c0",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Tor'gan",
+  "quest": "Sigil of Thoradin",
+  "en": "The reconstruction worked flawlessly. The sigil can now be used to unlock the seal on Trollbane's tomb. Return it to Zengu, no doubt he has additional tasks for you to complete.",
+  "files": [
+   "quests/641-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "4c0ce513c608",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zengu",
+  "quest": "Sigil of Thoradin",
+  "en": "We're halfway to being able to remove Trol'kalar from Trollbane's tomb. We are not exactly sure where the third sigil is, as its holders seem to move around Arathi quite a bit, but I have faith that you'll be able to find it.",
+  "files": [
+   "quests/641-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "faed0163a9a3",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zengu",
+  "quest": "Sigil of Trollbane",
+  "en": "The final of the sigils needed to unlock the tomb of Thoras Trollbane is held by his son personally. He resides deep within Stromgarde, in a chapel in the militia-held districts. Prince Galen is well protected and no slouch of a warrior himself, so this task could prove most difficult.",
+  "files": [
+   "quests/644-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "a97cf4229fe4",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zengu",
+  "quest": "Sigil of Trollbane",
+  "en": "Quite a day this is, adventurer. The blood of Trollbane will no longer haunt my people, and the sigils needed to take Trol'kalar are in our possession. Soon, very soon, we will strike against the hated trolls of Zul'Gurub.",
+  "files": [
+   "quests/644-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "8d625e050e92",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Iridescent Shards",
+  "quest": "Stones of Binding",
+  "en": "Four Stones of Binding are scattered throughout Arathi. These stones keep me pinned beneath the earth.\n\nTo unlock them you must unlock the strongest: the Stone of Inner Binding. And to do that, you must gather keys from the other three.\n\nThese stones are watched by guardians, but if you are clever, or lucky, you may find ways to banish them.",
+  "files": [
+   "quests/651-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "96bb7d25e82d",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Stone of Inner Binding",
+  "quest": "Stones of Binding",
+  "en": "You have done it! You opened the Stones of Binding! I can feel the shackles about me loosen, and freedom draws ever closer.\n\nYou are a noble adventurer, Adventurer. My rescuer!",
+  "files": [
+   "quests/651-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "fbfc32350d44",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Captain Nials",
+  "quest": "Stromgarde Badges",
+  "en": "Privates Marcus, Tremane, Osgood, Lampret...",
+  "files": [
+   "followup/874-human-female-warrior"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "6d24bf077d09",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Captain Nials",
+  "quest": "Stromgarde Badges",
+  "en": "Privates Fontane, MacDugal, Wilcott...",
+  "files": [
+   "followup/875-human-female-warrior"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "d80c88a3e124",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Captain Nials",
+  "quest": "Stromgarde Badges",
+  "en": "Privates Theoric, Kitrin, Blythe, Agmond...",
+  "files": [
+   "followup/876-human-female-warrior"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "82a6d5eaac9b",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Captain Nials",
+  "quest": "Stromgarde Badges",
+  "en": "Privates Horus, Tilling, Rockwell...",
+  "files": [
+   "followup/877-human-female-warrior"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "66d4e71e537f",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Captain Nials",
+  "quest": "Stromgarde Badges",
+  "en": "...Sampson, Yorick, Chamley...",
+  "files": [
+   "followup/878-human-female-warrior"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "28a7f27e7648",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Captain Nials",
+  "quest": "Stromgarde Badges",
+  "en": "Clemens, Bartholemew, Enderman, Wyles...",
+  "files": [
+   "followup/879-human-female-warrior"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "fcb992854c80",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Captain Nials",
+  "quest": "Stromgarde Badges",
+  "en": "Tormil, Gamlor, Shefferd, Cowry...",
+  "files": [
+   "followup/880-human-female-warrior"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "d2ab39e8c02c",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Captain Nials",
+  "quest": "Stromgarde Badges",
+  "en": "Martens, Reblock, Adinay, Nikeson...",
+  "files": [
+   "followup/881-human-female-warrior"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "082e94742e8a",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Captain Nials",
+  "quest": "Stromgarde Badges",
+  "en": "So many lost. And so many more we must lose before this battle ends.",
+  "files": [
+   "followup/883-human-female-warrior"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "adcba0fd1f05",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Captain Nials",
+  "quest": "Stromgarde Badges",
+  "en": "Thank you for these badges, adventurer. I will send news to the families of the deceased.",
+  "files": [
+   "followup/884-human-female-warrior"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "287b193a5c42",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Captain Nials",
+  "quest": "Stromgarde Badges",
+  "en": "The Syndicate in Stromgarde do battle with our contingent of militia there. In order to urge the rabble to fight our more disciplined troops, the Syndicate leaders have placed a bounty on our soldiers, awarding gold for each Stromgarde Badge gathered off killed militiamen.\n\nWe want those badges retrieved - we cannot allow the cutthroats to take trophies from our brave fallen!\n\nEnter the Syndicate-controlled area of Stromgarde and hunt them for our badges.",
+  "files": [
+   "quests/682-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "2c3fbd91a744",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Captain Nials",
+  "quest": "Stromgarde Badges",
+  "en": "Thank you, Adventurer. We will inform the families of these fallen soldiers that they were killed in battle.\n\nIt will be grim news to bear, but it is better than the uncertainty of a missing loved one.",
+  "files": [
+   "quests/682-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "65aea8fbc9ff",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Shards of Myzrael",
+  "quest": "Summoning the Princess",
+  "en": "As the eldritch shackles are placed around the Shards, an unhuman wail is heard from far below. The scream is followed by a roar.\n\nThe Shards of Myzrael no longer invoke feelings of warmth and security as they once did. Now they pulse with an open menace... as if the thing beneath them holds ill will toward the surface.",
+  "files": [
+   "quests/656-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "8a2f53d6951b",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Theldurin the Lost",
+  "quest": "Summoning the Princess",
+  "en": "You must defeat Myzrael before she grows in strength. If you do not, then once she has gathered enough power she will challenge her captors! There are some who think they can control her, but if she can be controlled then why did the giants chain her in the first place??\n\nCrazy logic, eh?\n\nTo defeat her, summon her at the Shards of Myzrael where you first spoke with her. Defeat her and gather her Eldritch Shackles, then bind them to the Shards of Myzrael.\n\nDo that, and she will again be trapped.",
+  "files": [
+   "quests/656-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "b315d4fed2ad",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Doctor Draxlegauge",
+  "quest": "Sunken Treasure",
+  "en": "The goggles work perfectly now! Well done, adventurer.",
+  "files": [
+   "quests/665-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "d1dca9bd138c",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Doctor Draxlegauge",
+  "quest": "Sunken Treasure",
+  "en": "The treasure has been on the sea floor so long that the gems have calcified into thick stone. But the power harnessed in these goggles will allow you to locate them easily.\n\nA little gnomish ingenuity goes a long way!\n\nSo borrow the Goggles of Gem Hunting, adventurer, and see if you can collect some of the lost treasure for Captain O'Breen.\n\nI'd swim down there myself but...um...well, I have important scientific business to tend to up on the safe, dry land....er, yeah.",
+  "files": [
+   "quests/666-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "12ece40a7dcc",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Doctor Draxlegauge",
+  "quest": "Sunken Treasure",
+  "en": "Most superb, adventurer! The Captain will be very pleased! And just wait until word gets back to Fleetmaster Seahorn!",
+  "files": [
+   "quests/666-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "fb78b425c086",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Doctor Draxlegauge",
+  "quest": "Sunken Treasure",
+  "en": "Let's not leave Captain O'Breen waiting. He'll want to see these gems first hand. After all, that's why we're here!\n\nAnd after a few weeks of consorting with these pirates, the professor and I have realized the last thing that's good for our health is to be caught hanging on to their treasure.\n\nHere, adventurer, take these to O'Breen.",
+  "files": [
+   "quests/668-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "a56b2e6393ab",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Fleet Master Seahorn",
+  "quest": "Sunken Treasure",
+  "en": "Ah, leave it to good old Shakes O'Breen! I knew that he was the right Captain for the mission!",
+  "files": [
+   "quests/669-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "c32491f451e7",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Fleet Master Seahorn",
+  "quest": "Sunken Treasure",
+  "en": "Say, adventurer, you seem to be an adventurous type. My fleet is stuck in Booty Bay until we can restock.\n\nThere are some heavy things brewing here and abroad and I need to get some top secret correspondence to Shakes O'Breen who is tied up off the Arathi coast.\n\nCan I trust you to deliver this message safely and in confidence?",
+  "files": [
+   "quests/670-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "53f1aa46d8bd",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Professor Phizzlethorpe",
+  "quest": "Sunken Treasure",
+  "en": "Now that we are full-fledged Blackwater Raiders it is our job to help Mr. O'Breen locate the lost elven treasure.\n\nIt is next to impossible to find the gems in the dark sea without aid. The doctor has constructed some goggles that will help. He needs the goggles charged with the energy derived from the enchanted stone in the cave just up the hill.\n\nBut the cave is cursed! When we get close, we get ambushed. Defend me and I can harness the energy from the stone into the goggles.",
+  "files": [
+   "quests/665-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "7b5d9fc7fa2c",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Tor'gan",
+  "quest": "The Broken Sigil",
+  "en": "Easier than I expected... the sigil of Thoradin is whole, once again.",
+  "files": [
+   "followup/798-troll-male-shaman"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "911e43e03e7d",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Tor'gan",
+  "quest": "The Broken Sigil",
+  "en": "Ah, you need me to reconstruct this sigil? It shouldn't be too difficult... all the pieces seem to be here and the magical structure will be easy to reform.\n\nYou might want to close your eyes.",
+  "files": [
+   "quests/640-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "d0a89f5d7d0a",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zengu",
+  "quest": "The Broken Sigil",
+  "en": "Thoras Trollbane's tomb is protected by three sigils--the first of which you retrieved from the Syndicate. The other two will be harder to get, as they're held by the firmly entrenched Stromgarde militia.\n\nThe sigil of Thoradin was divided into eleven pieces by Thoras' son, Galen, and dispersed among the Stromgarde defenders. Retrieve the pieces and bring them to Tor'gan, the troll shaman, he will be able to bind them into the complete sigil.",
+  "files": [
+   "quests/640-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "a76dfd6e1aa9",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Iridescent Shards",
+  "quest": "The Princess Trapped",
+  "en": "Ah! You activated these shards. Already I feel more myself!\n\nBut alas, I am still far from free...",
+  "files": [
+   "quests/642-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "dfa90d411545",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Shards of Myzrael",
+  "quest": "The Princess Trapped",
+  "en": "My name is Myzrael. I am a princess of the earth, and my captors, the giants, have trapped me deep beneath the Arathi Highlands. These crystal shards are the only way I can speak with the surface world.\n\nPlease help me. Allies of the giants, the Drywhisker Kobolds, have a shard like this one in their Drywhisker Gorge, to the east. To power the cluster, you must gather Motes of Myzrael from the kobolds and apply them to it.\n\nI beg you, Adventurer, aid me!",
+  "files": [
+   "quests/642-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "2f7576061ef2",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Korin Fel",
+  "quest": "The Real Threat",
+  "en": "You serve my husband well, adventurer, but he does not know why Hammerfall is under attack.\n\nOr'Kalar, Mug'thol's pawn in Stromgarde, has an intense hatred for my husband, and wishes nothing more than my husband's death for defeating him years ago.\n\nMy auguries tell me that Or'Kalar has laid a trap for my husband, so I have hidden signs of the ogre's presence from him.\n\nMy husband will rush off foolishly if he learns of the ogre's whereabouts and I would ask for your help in slaying the creature.",
+  "files": [
+   "quests/680-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "54cdbf26bbc7",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Korin Fel",
+  "quest": "The Real Threat",
+  "en": "You have done me a great service, Adventurer. Know that my husband's life and the safety of Hammerfall has been protected for another day because of your deeds. Please take this as a reward for your courage.",
+  "files": [
+   "quests/680-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "9ab9fef0f1c5",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gerrig Bonegrip",
+  "quest": "Theldurin the Lost",
+  "en": "Theldurin the Lost was once a member of our order, the Twilight's Hammer. But he lost his mind and scorned our teachings. And before he fled from us, he stole the scroll of Myzrael! We could not catch him, but rumors say he hides in the Badlands, gibbering and mad.\n\nTo bring the Lady back to us, you must find the scroll. And to do that, you must find Theldurin.",
+  "files": [
+   "quests/687-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "87107ae38b1f",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Theldurin the Lost",
+  "quest": "Theldurin the Lost",
+  "en": "Hello. Hello, hello hello hello hello HELLO!\n\nI'm sorry - wait, no I'm not! Don't be rude!\n\nOh no...that was crazy talk.\n\nBut...sometimes being crazy is my only solace.",
+  "files": [
+   "quests/687-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "f38df88b8b4e",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Zaruk",
+  "quest": "Theldurin the Lost",
+  "en": "Theldurin the Lost was once a member of our order, the Twilight's Hammer. But he lost his mind and scorned our teachings. And before he fled from us, he stole the scroll of Myzrael! We could not catch him, but rumors say he hides in the Badlands, gibbering and mad.\n\nTo bring the Lady back to us, you must find the scroll. And to do that, you must find Theldurin.",
+  "files": [
+   "quests/687-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "4412330080a2",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Apprentice Kryten",
+  "quest": "Trelane's Defenses",
+  "en": "You amaze me, Adventurer. Well done again.\n\nGive me a moment to cast the proper spell to enchant the gem, an' you'll be ready.",
+  "files": [
+   "quests/694-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "0623ef86e050",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Skuerto",
+  "quest": "Trelane's Defenses",
+  "en": "All rested?\n\nHere's our next step: there're ogres all around the Tower of Arathor in Stromgarde. We're gonna need to activate the tower's defenses if you're gonna stand a chance against 'em an' still make it to the items alive. To do that, we're gonna need some gems the Boulderfist shaman have taken a liking to. They took 'em from the tower, but they're not gonna stay in their possession for long.\n\nGet one of them gems an' bring 'em to Kryten--he knows the spell to enchant 'em so they'll work as a key.",
+  "files": [
+   "quests/694-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "96b720a9b7ac",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Trollbane's Tomb",
+  "quest": "Trol'kalar",
+  "en": "Matching the lines on the face of Trollbane's tomb with the glowing lines of the Sigil of Ignaeus, a flash of light consumes the Sigil, and the legendary sword Trol'kalar is released from the stone hands' grip.",
+  "files": [
+   "quests/645-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "1d9704620443",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Trollbane's Tomb",
+  "quest": "Trol'kalar",
+  "en": "The light slowly fades, the sword Trol'kalar, held within a stone sheath has been released.",
+  "files": [
+   "quests/646-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "37a53c80c828",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zengu",
+  "quest": "Trol'kalar",
+  "en": "What's this? With the four sigils brought together, they have formed together to create one sigil. There can be no doubt that this will be able to break the wardings placed upon Trollbane's tomb.\n\nTrollbane's remains are entombed in the Sanctum behind the chapel in Stromgarde. Retrieve Trol'kalar.",
+  "files": [
+   "quests/645-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "22cbc09412c0",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zengu",
+  "quest": "Trol'kalar",
+  "en": "For generations, the forces of Strom and Arathor ravaged the trolls. Now their greatest weapon is in our hands. Our inching progress in the steamy forests of Zul'Gurub will be no more.\n\nYour assistance has been great, adventurer, and the Darkspear trolls are indebted to you.\n\nI will be sure that the sword is delivered to Nimboya at Grom'gol.",
+  "files": [
+   "quests/646-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "3fe4a8e1f735",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Skuerto",
+  "quest": "Wand over Fist",
+  "en": "Hey, Adventurer. Sorry to be so short with ye earlier... and no, that ain't a pun.\n\nI figured out where Trelane's first item ended up: Kor'gresh has it in Boulderfist Hall. An' by the way he was throwing down blasts of ice at his kin to keep them in line, he must be close to figurin' out how to use all of its powers.\n\nBoulderfist Hall's south of here an' then east of Thandol Span. Find the ogre an' get back that wand.\n\nWhile you're gone, I'll figure out what we're gonna do about Stromgarde.",
+  "files": [
+   "quests/693-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "093f4e19995d",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Skuerto",
+  "quest": "Wand over Fist",
+  "en": "Brilliant, Adventurer. One item down an' three more to go, based on my list. The other three items are all in Stromgarde.\n\nTake a rest an' get your strength back--the next phase of my plan'll require a little more time an' effort. Come back to me after you've gotten a warm meal an' some rest.",
+  "files": [
+   "quests/693-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "2d6b2b5aa77e",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Captain Nials",
+  "quest": "Wanted!  Marez Cowl",
+  "en": "You took down Marez Cowl? Well done, Adventurer. Well done indeed!\n\nMarez menaced our Stromgarde defenders, and it is rumored she was an emissary between the Syndicate and some other, darker power. We are glad to see that she'll no longer ply her powers against us.",
+  "files": [
+   "quests/684-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "865e4ff749fe",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wanted Board",
+  "quest": "Wanted!  Marez Cowl",
+  "en": "A bounty has been placed on the head of Marez Cowl, a high-level advisor and operative of the Syndicate. She was last seen within the Syndicate controlled territory of Stromgarde.\n\nBounty may be collected from Captain Nials.\n\nBe warned: Marez is a skilled and cunning Warlock, known for her trafficking with demons. Extreme caution is advised when hunting her.",
+  "files": [
+   "quests/684-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "6b9b11b7afd6",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Captain Nials",
+  "quest": "Wanted!  Otto and Falconcrest",
+  "en": "Falconcrest and Otto? Wonderful!\n\nHere is your reward, Adventurer. I am happy to pay it.",
+  "files": [
+   "quests/685-complete"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "7b455778dfd4",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wanted Board",
+  "quest": "Wanted!  Otto and Falconcrest",
+  "en": "The Stromgarde Militia has placed bounties on the heads of Lord Falconcrest, and his bodyguard Otto. Falconcrest heads the Syndicate's efforts in the Arathi Highlands, and his death would cause a major disruption in those efforts.\n\nHis bodyguard Otto, although not a strategic target, is a fierce opponent and has killed dozens of our defenders.\n\nTheir bounties may be collected from Captain Nials.",
+  "files": [
+   "quests/685-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "8c0130894cd7",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Apprentice Kryten",
+  "quest": "Worth Its Weight in Gold",
+  "en": "Archmage Malin sent Skuerto and I here to collect reagents for him. I was at a loss as to how I was going to collect the items, but now that you're here, I think my problem's solved.\n\nI need the following: Witherbark tusks, Witherbark medicine pouches and a shadow hunter knife.\n\nCould you find those for me? The Witherbark live to the southeast of Arathi.",
+  "files": [
+   "quests/691-accept"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "157176582565",
+  "zone": "arathi-highlands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Apprentice Kryten",
+  "quest": "Worth Its Weight in Gold",
+  "en": "Incredible! I can see why Malin asked you to come join us--very well done indeed!\n\nAt this rate, Skuerto and I will be headed back to Stormwind in no time at all.\n\nI believe my dwarven companion is back from scouting Boulderfist Hall; go speak to him when you're ready.\n\nIt looked as though he might have had a bit of a scuffle with the ogres. Don't mention that to him, though; he's very sensitive about criticisms to his skills at scouting.",
+  "files": [
+   "quests/691-complete"
+  ],
+  "uiMap": 1417
+ }
+]

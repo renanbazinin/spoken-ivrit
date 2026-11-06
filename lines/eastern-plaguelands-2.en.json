@@ -1,0 +1,1590 @@
+[
+ {
+  "id": "413857439d6a",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mataus the Wrathcaster",
+  "quest": "Plagueheart Belt",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Plagueheart Belt.",
+  "files": [
+   "quests/9109-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "a300657b2e05",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mataus the Wrathcaster",
+  "quest": "Plagueheart Bindings",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Plagueheart Bindings.",
+  "files": [
+   "quests/9110-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "02f480cafcba",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mataus the Wrathcaster",
+  "quest": "Plagueheart Circlet",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Plagueheart Circlet.",
+  "files": [
+   "quests/9105-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "e0a3df46a3c6",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mataus the Wrathcaster",
+  "quest": "Plagueheart Gloves",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Plagueheart Gloves.",
+  "files": [
+   "quests/9108-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "e9f775673505",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mataus the Wrathcaster",
+  "quest": "Plagueheart Leggings",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Plagueheart Leggings.",
+  "files": [
+   "quests/9104-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "82c1da5c95b6",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mataus the Wrathcaster",
+  "quest": "Plagueheart Robe",
+  "en": "I make no pretenses, maggot. The darkness Plagueheart items hold could very well destroy the both of us. That is why the price is so high. If I'm going to die, it's going to be as a rich man.\n\nAnd I don't give an ounce of gnoll spit how you die, only that you do as I ask. Bring me what I require and we will both benefit - or die; but I've already explained this...",
+  "files": [
+   "quests/9103-accept",
+   "quests/9104-accept",
+   "quests/9105-accept",
+   "quests/9106-accept",
+   "quests/9107-accept",
+   "quests/9108-accept",
+   "quests/9109-accept",
+   "quests/9110-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "e560aa34ed07",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mataus the Wrathcaster",
+  "quest": "Plagueheart Robe",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Plagueheart Robe.",
+  "files": [
+   "quests/9103-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "d299e4f1f926",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mataus the Wrathcaster",
+  "quest": "Plagueheart Sandals",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Plagueheart Sandals.",
+  "files": [
+   "quests/9107-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "613d3407ac8b",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mataus the Wrathcaster",
+  "quest": "Plagueheart Shoulderpads",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Plagueheart Shoulderpads.",
+  "files": [
+   "quests/9106-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f6ef0b520574",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Craftsman Wilhelm",
+  "quest": "Polar Bracers",
+  "en": "Thanks to you and Omarion (May he rest in peace), I am now able to create Polar bracers. All you need to do is bring me the materials and pay a small crafting fee.",
+  "files": [
+   "quests/9241-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "3dee1298eba1",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Craftsman Wilhelm",
+  "quest": "Polar Gloves",
+  "en": "Thanks to you and Omarion (May he rest in peace), I am now able to create Polar gloves. All you need to do is bring me the materials and pay a small crafting fee.",
+  "files": [
+   "quests/9242-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "d54c79c5dfd7",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Craftsman Wilhelm",
+  "quest": "Polar Tunic",
+  "en": "Thanks to you and Omarion, may he rest in peace, I am now able to create a Polar tunic. All you need to do is bring me the materials and pay a small crafting fee.",
+  "files": [
+   "quests/9243-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "eace1cf94840",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Anthion Harmon",
+  "quest": "Proof of Life",
+  "en": "That locket... you found her! I can rest in peace at long last.\n\nI shall now answer any questions you might have, Adventurer. But make haste, my time in this world is not long.",
+  "files": [
+   "quests/8946-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "582baabca34b",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Ysida Harmon",
+  "quest": "Proof of Life",
+  "en": "It is the cruelest of fates that my beloved has perished while trying to rescue me. Yet, you claim to possess the ability to converse with him.\n\nBring him this locket as proof that I am well. He must not linger in this world; my heart would not be able to bear it.\n\nFarewell, Adventurer. I shall be in your debt always.",
+  "files": [
+   "quests/8946-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "5ae1a7c66f80",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Korfax, Champion of the Light",
+  "quest": "Ramaladni's Icy Grasp",
+  "en": "Fixing this band may prove to be quite challenging, Adventurer. You see, it was made from the very runes that form inside Scourge structures - like Naxxramas. Additional materials are also required but your main concern should be getting those frozen runes. Bring me what I need and I will restore the ring to its former glory.",
+  "files": [
+   "quests/9230-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "d2c8aa377b83",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Korfax, Champion of the Light",
+  "quest": "Ramaladni's Icy Grasp",
+  "en": "Ramaladni himself couldn't have done better! Here is the ring, as promised.",
+  "files": [
+   "quests/9230-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "7d2c28f2f697",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Nathanos Blightcaller",
+  "quest": "Ramstein",
+  "en": "I was overwhelmed. On this very stead, I stood... held my ground in defense of Lordaeron. The farm and all on it were waylaid by a gigantic wave of Scourge.\n\nThe wretch. The filth. It hovered above me, entrails hanging from its gaping chest cavity.\n\nI woke as Scourge. For so long I was helpless. My mind had coalesced with the Lich King's.\n\nShe came for me... somewhere, somehow, I knew she would. Free.\n\nAnd now, I must have my vengeance - my vengeance on that which took from me my life. Destroy it.",
+  "files": [
+   "quests/6163-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "36d61ee3a4d9",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tirion Fordring",
+  "quest": "Redemption",
+  "en": "You have worked hard, friend. Rest your weary bones and allow me to properly introduce myself.",
+  "files": [
+   "quests/5742-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "5df69a9f759e",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tirion Fordring",
+  "quest": "Redemption",
+  "en": "The Fordring redemption will be a difficult task. Are you prepared?",
+  "files": [
+   "quests/5742-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "27574d6a40ba",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Eligor Dawnbringer",
+  "quest": "Redemption Boots",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Redemption Boots.",
+  "files": [
+   "quests/9047-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "74265a9c62a0",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Eligor Dawnbringer",
+  "quest": "Redemption Girdle",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Redemption Girdle.",
+  "files": [
+   "quests/9049-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "c57576eb5d84",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Eligor Dawnbringer",
+  "quest": "Redemption Handguards",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Redemption Handguards.",
+  "files": [
+   "quests/9048-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "e50879ea1455",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Eligor Dawnbringer",
+  "quest": "Redemption Headpiece",
+  "en": "Keep it covered, Adventurer.",
+  "files": [
+   "quests/9045-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "2d6ae837a650",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Eligor Dawnbringer",
+  "quest": "Redemption Legguards",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Redemption Legguards.",
+  "files": [
+   "quests/9044-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "82de580e3b5f",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Eligor Dawnbringer",
+  "quest": "Redemption Spaulders",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Redemption Spaulders.",
+  "files": [
+   "quests/9046-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "c6825e55df79",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Eligor Dawnbringer",
+  "quest": "Redemption Tunic",
+  "en": "You will find the remnants of our fallen heroes on the corpses of the Lords of Naxxramas. Bring those desecrated keepsakes to me along with wartorn plate scraps and crafting materials capable of revitalizing the cursed armor and I shall craft a fine piece of armor for you.",
+  "files": [
+   "quests/9043-accept",
+   "quests/9044-accept",
+   "quests/9045-accept",
+   "quests/9046-accept",
+   "quests/9047-accept",
+   "quests/9048-accept",
+   "quests/9049-accept",
+   "quests/9050-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "ca0f5e178a92",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Eligor Dawnbringer",
+  "quest": "Redemption Tunic",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Redemption Tunic.",
+  "files": [
+   "quests/9043-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "a42b4f6b37ec",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Eligor Dawnbringer",
+  "quest": "Redemption Wristguards",
+  "en": "Exellent Adventurer !\n , you got everything just as i asked and now i can make a Redemption Wristguards.",
+  "files": [
+   "quests/9050-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "0b0a124f4ece",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Carlin Redpath",
+  "quest": "Return to Chromie",
+  "en": "You have gathered many relics of the battle of Darrowshire. Each time you returned with more, my heart yearned for my village... yearned to protect it from its fate.\n\nI know that cannot be, but Chromie, that strange gnome in Andorhal, tells me it is possible. She says you can save Darrowshire!\n\nShe asked me to gather together the relics, and to have you bring them to her. She said that she awaits you in the ruined inn of Andorhal.",
+  "files": [
+   "quests/5941-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "8dd7bb422f6d",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Chromie",
+  "quest": "Return to Chromie",
+  "en": "Ah yes, there they are. Together they weave a powerful spell, one that will raise the spirits of Darrowshire.\n\nWith that spell, and with a little luck, we can save Joseph Redpath!",
+  "files": [
+   "quests/5941-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "bdbba6e55719",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Crusader Lord Valdelmar",
+  "quest": "Return to Nathanos",
+  "en": "The Grand Crusader makes an unusual request. Hrm, regardless... what he asks will be done. Return to the Scarlet Bastion and notify him that the Oracle will be en route shortly.\n\nWe will take every precaution to ensure that she makes it to Stratholme unharmed.",
+  "files": [
+   "quests/6147-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "7a4be19ea43d",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Nathanos Blightcaller",
+  "quest": "Return to Nathanos",
+  "en": "The fools! My deception went unnoticed! Prepare yourself, Adventurer. We must strike with cold cunning!",
+  "files": [
+   "quests/6147-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "b6c3a5f5fe3c",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Father Inigo Montoy",
+  "quest": "Robe of Faith",
+  "en": "The vestments are ready, Adventurer. Smite those that would harm our world in your righteous fire.",
+  "files": [
+   "quests/9111-complete",
+   "quests/9114-complete",
+   "quests/9115-complete",
+   "quests/9116-complete",
+   "quests/9117-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "4c9e90989a7f",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Father Inigo Montoy",
+  "quest": "Robe of Faith",
+  "en": "Blessed boy, have you found the vestments of the fallen? The poor souls whose last breaths were taken on the field of battle - stripped of everything including their dignity.\n\nBring me the desecrated remnants of the departed along with reagents of purification and you shall know faith.",
+  "files": [
+   "quests/m-9111-accept",
+   "quests/m-9112-accept",
+   "quests/m-9113-accept",
+   "quests/m-9114-accept",
+   "quests/m-9115-accept",
+   "quests/m-9116-accept",
+   "quests/m-9117-accept",
+   "quests/m-9118-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "b2c395e816f7",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Rayne",
+  "quest": "Savage Flora",
+  "en": "I make a special type of armor for the brave heroes that enter Naxxramas known as Dreamwalker. They are able to provide me with most of the materials I require but I am always looking for those able to retrieve savage fronds from the flora of our world.\n\nYou may think of this job as beneath you, but without the fronds, the armor could not be made.\n\nI am also in a unique position to pay you with an insignia of your choice as both the Dawn and the Crusade supply me with funds.",
+  "files": [
+   "quests/9136-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "8f8f8d2fa7d2",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Rayne",
+  "quest": "Savage Flora",
+  "en": "I am much obliged, Adventurer.\n\n\nPlease remember that I am always accepting fronds.",
+  "files": [
+   "quests/9136-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "5c3d1cc06031",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Rayne",
+  "quest": "Savage Fronds",
+  "en": "Thank you, Adventurer. Your work is vital to the success of our campaign against the Scourge.",
+  "files": [
+   "quests/9137-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "4e1cfddd863e",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Jessica Redpath",
+  "quest": "Sister Pamela",
+  "en": "I fled Lordaeron during the great war, and was lucky to escape before the Scourge swept through my homeland and turned it into a plagued nightmare! I was lucky, but my family was not. I fear they were all killed during the battle of Darrowshire.\n\nDarrowshire is a village in the Eastern Kingdoms, nestled in the southern hills of what is now the Eastern Plaguelands. Will you go there and search for my family? I miss them so much, especially my little sister Pamela.\n\nPlease, find her for me!",
+  "files": [
+   "quests/5601-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "cab87bdb308d",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Quartermaster Miranda Breechlock",
+  "quest": "Superior Armaments of Battle - Exalted Amongst the Dawn",
+  "en": "Greetings, friend. Have you insignias of the Dawn or the Crusade that you would like to redeem for items of power?\n\nItems offered to those exalted amongst the Dawn are discounted. I encourage you to make a purchase!",
+  "files": [
+   "quests/9227-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "76fada235931",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Quartermaster Miranda Breechlock",
+  "quest": "Superior Armaments of Battle - Friend of the Dawn",
+  "en": "Greetings, friend. Have you insignias of the Dawn or the Crusade that you would like to redeem for items of power?\n\nI must warn you; purchases made at a friendly reputation with the Dawn come with a hefty surcharge. I would advise that you gain a better reputation with the Dawn before moving forward with your plans.",
+  "files": [
+   "quests/9221-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "6b717a7d2837",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Quartermaster Miranda Breechlock",
+  "quest": "Superior Armaments of Battle - Friend of the Dawn",
+  "en": "Good day, Adventurer. It was a pleasure doing business with you.",
+  "files": [
+   "quests/9221-complete",
+   "quests/9222-complete",
+   "quests/9223-complete",
+   "quests/9224-complete",
+   "quests/9225-complete",
+   "quests/9226-complete",
+   "quests/9227-complete",
+   "quests/9228-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "a6635b74f176",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Quartermaster Miranda Breechlock",
+  "quest": "Superior Armaments of Battle - Honored Amongst the Dawn",
+  "en": "Greetings, friend. Have you insignias of the Dawn or the Crusade that you would like to redeem for items of power?\n\nI must warn you; purchases made at honored reputation with the Dawn come with a fairly prohibitive surcharge. I would advise that you gain a better reputation with the Dawn before moving forward with your plans.",
+  "files": [
+   "quests/9223-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "586a1640c942",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Quartermaster Miranda Breechlock",
+  "quest": "Superior Armaments of Battle - Revered Amongst the Dawn",
+  "en": "Greetings, friend. Have you insignias of the Dawn or the Crusade that you would like to redeem for items of power?\n\nItems offered to those revered amongst the Dawn are priced quite reasonably. I encourage you to make a purchase!",
+  "files": [
+   "quests/9226-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "15af3cafa125",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Smokey LaRue",
+  "quest": "That's Asking A Lot",
+  "en": "These here Argent Dawn people commissioned ol' Smokey to do a little demolition work for 'em. Smokey's mammy ain't raised no dummy. When gold coin is slapped on the table, Smokey's services are available. That's my motto!\n\nNow I'd be willing to split the commission with you if you're willing to do a little legwork. Here's the deal: I'm going to head over to Plaguewood and mark the buildings we need destroyed. You gather the components for the bombs. Meet back here when you've got everything. Deal?",
+  "files": [
+   "quests/6026-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "c1c2e2f6dc7d",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Smokey LaRue",
+  "quest": "That's Asking A Lot",
+  "en": "I can pay you half up front and half when the job is done.",
+  "files": [
+   "quests/6026-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "71cf6152a380",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Betina Bigglezink",
+  "quest": "The Active Agent",
+  "en": "You will have to delve deeper into Stratholme, Adventurer.\n\nBeyond the first gates you will find the ziggurats. We know that the Scourge draws great power from these structures. Search the Ziggurats and return with any information that you may discover.",
+  "files": [
+   "quests/5213-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "5d3d0ca23143",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Betina Bigglezink",
+  "quest": "The Active Agent",
+  "en": "Astonishing! This will take months to dissect and analyze. The Argent Dawn thanks you for your efforts, Adventurer.\n\nWith our blessing, take your pick between either this Seal of the Dawn or this Rune of the Dawn. You can use either of them instead of a standard Argent Dawn Commission to collect scourgestones on our behalf. Should you lose yours, speak with me and I'll get you a replacement.",
+  "files": [
+   "quests/5213-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "04e3148cf10d",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Duke Nicholas Zverenhoff",
+  "quest": "The Archivist",
+  "en": "Anything taken to an extreme is hazardous to our world, Adventurer. Take for example, the Scarlet Crusade. Do you believe that their blind zealotry serves a greater good? How many innocents have they destroyed in the name of the Light?\n\nBlasphemers, one and all!\n\nOne in particular interests me, though; the Archivist Galford of Stratholme: A man that watches over the Crusade's most valued documents. Destroy him and burn down his archives! Should you succeed, return to me and be rewarded.",
+  "files": [
+   "quests/5251-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "004b903c3fb9",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Duke Nicholas Zverenhoff",
+  "quest": "The Archivist",
+  "en": "Outstanding, Adventurer! Years of intelligence, lost! The Scarlet Crusade will surely feel this blow in the coming weeks.",
+  "files": [
+   "quests/5251-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "d297374a7ddb",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lord Maxwell Tyrosus",
+  "quest": "The Argent Hold",
+  "en": "Through the years the Argent Hold has remained locked. None have been worthy to reach inside and take from it the power of the Argent Dawn - until today.\n\nThe Argent Hold is now open to you, Adventurer.",
+  "files": [
+   "quests/5265-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "dafd8d324184",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "The Argent Hold",
+  "quest": "The Argent Hold",
+  "en": "Whoa...",
+  "files": [
+   "quests/5265-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f1add6f3a0d8",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Chromie",
+  "quest": "The Battle of Darrowshire",
+  "en": "Now, Adventurer, you will take part in battle of Darrowshire, and you will save Joseph Redpath.\n\nPlace this relic bundle in the Darrowshire town square, and the spirits of Darrowshire will rise. Join their battle and assure that these two things come to pass: Davil must survive beyond the death of Horgus, and Redpath must survive to be corrupted, then defeated.\n\nAfter defeating the corrupted Redpath, his spirit will be saved. Speak with him, then return to his daughter Pamela.",
+  "files": [
+   "quests/5721-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "d03e7e4c8f54",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Nathanos Blightcaller",
+  "quest": "The Call to Command",
+  "en": "The order has come down, adventurer. Varimathras himself has requested that I send my most 'capable' agents back to the Undercity for a highly sensitive tactical operation.\n\nUnfortunately, my most capable agents were killed over three years ago. In their stead I have a collection of brain dead riff-raff.\n\n\nTravel to the Undercity at once and report to Varimathras. Do not embarrass me, adventurer!",
+  "files": [
+   "quests/6144-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "9142241981e6",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Varimathras",
+  "quest": "The Call to Command",
+  "en": "The Grand Crusader sits safely in the Scarlet Bastion while his forces pour into your lands, desecrate your structures and monuments and murder your people.\n\nThe Dark Lady has commanded that I deal with this insect once and for all. You will become the instrument of the Forsaken's reckoning.",
+  "files": [
+   "quests/6144-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f42afa829a96",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Nathanos Blightcaller",
+  "quest": "The Corpulent One",
+  "en": "Past the Argent Dawn encampment of Light's Hope and west of Northdale, you will find the corpulent maggot beast, Borelgore.\n\nI've lost entire regiments to that monster. His size knows no bounds! The more he eats the greater his girth becomes...\n\nWhile I would not suffer any emotional harm should the beast devour you, I would prefer that you were the victor. I recommend you enlist the help of others for this mission. Borelgore has been known to devour small battalions foolish enough to attack him.",
+  "files": [
+   "quests/6136-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "d9414cc91e5f",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Nathanos Blightcaller",
+  "quest": "The Corpulent One",
+  "en": "Keep this up and I may have to promote you from imbecile to mental deficient, first class.",
+  "files": [
+   "quests/6136-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "3b84cb4c074e",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Nathanos Blightcaller",
+  "quest": "The Crimson Courier",
+  "en": "Excellent! Finally! An opportunity to destroy the Scarlet Oracle!",
+  "files": [
+   "quests/6145-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "35c84333ab52",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Varimathras",
+  "quest": "The Crimson Courier",
+  "en": "Just as the body cannot survive without the head, the head cannot survive without the body. The defenses of the Scarlet Crusade's command inside Stratholme are almost impenetrable. We must, instead, cut the body out from under the head.\n\nMy Deathstalkers have been collecting data on the activity of the Crusade outside of Stratholme. Each day, a report is sent from their central command to Tyr's Hand. This report is the key, traveler! Find the Crimson Courier and recover that report. Return it to Nathanos.",
+  "files": [
+   "quests/6145-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "3035f8844c8d",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": "The Dread Citadel - Naxxramas",
+  "en": "In the thick of Plaguewood lies the entrance to the dread citadel of Naxxramas. Previously, all attempts to enter had been stymied by the magical wards placed upon the rune portal. That is, until now.\n\nWe have devised a way to gain entry via arcane cloaking - an old cantrip of the Kirin Tor with a few modifications of my own. Since your dedication to the cause of the Dawn is somewhat lacking, Adventurer, the price will be high. You may decline and choose to return when you are revered or exalted for a discount.",
+  "files": [
+   "quests/9121-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "8eca85078a19",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": "The Dread Citadel - Naxxramas",
+  "en": "You will feel a slight tingle, Adventurer. That sensation means it's working. Once complete, you will be able to enter Naxxramas by stepping upon the rune portal in Plaguewood.",
+  "files": [
+   "quests/9121-complete",
+   "quests/9122-complete",
+   "quests/9123-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "5720b7177c1a",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": "The Dread Citadel - Naxxramas",
+  "en": "In the thick of Plaguewood lies the entrance to the dread citadel of Naxxramas. Previously, all attempts to enter had been stymied by the magical wards placed upon the rune portal. That is, until now.\n\nWe have devised a way to gain entry via a permanent arcane cloaking of sorts - an old cantrip of the Kirin Tor with a few modifications of my own. With that said, the cloaking is costly. Since your dedication to the cause of the Dawn is admirable, we are willing to incur some of those costs.",
+  "files": [
+   "quests/9122-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "cf037a12423d",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": "The Dread Citadel - Naxxramas",
+  "en": "In the thick of Plaguewood lies the entrance to the dread citadel of Naxxramas. Previously, all attempts to enter had been stymied by the magical wards placed upon the rune portal. That is, until now.\n\nWe have devised a way to gain entry via a permanent arcane cloaking of sorts - an old cantrip of the Kirin Tor with a few modifications of my own. With that said, the cloaking is costly; however, your dedication to the cause of the Dawn is unwavering! We will waive all cost associations.",
+  "files": [
+   "quests/9123-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f2d39f388dba",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Flint Shadowmore",
+  "quest": "The Eastern Plagues",
+  "en": "As I said, your first mission is one of reconnaissance. Nothing fancy, Adventurer. You must travel to the Eastern Plaguelands and look for any clues as to this Blightcaller.\n\nBe on the lookout for information about our missing operatives. We have to assume that they are dead and if they are dead, they must have a corpse... somewhere.\n\n\nAll SI:7 agents carry this insignia.\n\n\nBring any of those that you may find back to me.",
+  "files": [
+   "quests/6185-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "ad75061b59a9",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Flint Shadowmore",
+  "quest": "The Eastern Plagues",
+  "en": "Rutger. Fredo. Turyen. All... dead...\n\n\nWhere were they? Did you discover any more information about this bastard, the Blightcaller?",
+  "files": [
+   "quests/6185-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "771c676ab45b",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": "The Elemental Equation",
+  "en": "Greetings, adventurer! Are you interested in some work? I pay those under my employ with insignias. These insignias can be used at the Quartermaster to purchase items of power.\n\nAll I need you to do is bring me as many core of elements as you can carry. The more the better!\n\nYou'll find them on elementals of varying shapes and sizes that exist across our world.",
+  "files": [
+   "quests/9128-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "ef2e7c0b8f22",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Angela Dosantos",
+  "quest": "The Elemental Equation",
+  "en": "A job well done, Adventurer! As promised, the insignia is yours. Just remember, there's more where that came from...",
+  "files": [
+   "quests/9128-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "d29c5b45f29e",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "The Phylactery of Kel'Thuzad",
+  "quest": "The Fall of Kel'Thuzad",
+  "en": "The phylactery is all that remains of the master of Naxxramas. Your better judgment dictates that you destroy the phylactery, preventing the lich from ever reforming. Thankfully, you seldom listen to that internal voice of reason.\n\nSomeone at Light's Hope will pay you hugely for this artifact. Who cares if Kel'Thuzad regenerates to full power?",
+  "files": [
+   "quests/9120-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "067d70923933",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Korfax, Champion of the Light",
+  "quest": "The Fate of Ramaladni",
+  "en": "Ramaladni was a warrior of the Brotherhood - a pupil of Highlord Mograine before the Dawn even existed! When news of Mograine's death reached him, hatred and anger took over.\n\nUnderstand this, Adventurer, when rage and retribution take the reins, a man ceases to be a man. The man personifies the emotions that control him instead. And so it would be that Ramaladni, the spirit of retribution, would enter Naxxramas to exact vengeance... and never return.\n\nEnter Naxxramas and find what became of Ramaladni.",
+  "files": [
+   "quests/9229-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "b1432d7ac2fa",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Korfax, Champion of the Light",
+  "quest": "The Fate of Ramaladni",
+  "en": "It is his ring! But it is destroyed. No other evidence of Ramaladni was found?\n\n\nThis does not bode well for Ramaladni. The ring, however... it might be salvageable.",
+  "files": [
+   "quests/9229-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "1bc2ec3d8c0e",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Betina Bigglezink",
+  "quest": "The Flesh Does Not Lie",
+  "en": "The Forsaken apothecaries are not the only beings in this world schooled in the sciences.\n\nI have been studying the plague for years, traveler. We had previously thought that the potency of the plague was dwindling, but what I have discovered here in the Plaguelands is startling. The plague seems to be growing in strength!\n\nI need to run more tests! The most potent source of the plague is from the tainted flesh of the most recently infected. Travel to Stratholme and bring me samples, Adventurer.",
+  "files": [
+   "quests/5212-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "c1541e9addf9",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Betina Bigglezink",
+  "quest": "The Flesh Does Not Lie",
+  "en": "There is something that has changed in the chemical structure of the plague's active agents. More data is required.",
+  "files": [
+   "quests/5212-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "6171a426c80c",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Smokey LaRue",
+  "quest": "The Great Fras Siabi",
+  "en": "Terrible thing... what happened to Fras. You see, the town was sacked and Fras didn't want to leave his precious goods behind. The last thing I remember him saying was, 'I'll burn every last leaf before they get their damned, dirty hands on them!'\n\nI may love a good stogie but I'm no fool. I left Fras and his delightful store that day. I assume he went down in flames but if there's a chance that even one box of his famous tobacco is still intact...\n\nWhat do you say, Adventurer? Find a box for ol' Smokey?",
+  "files": [
+   "quests/5214-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "39308323da83",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Smokey LaRue",
+  "quest": "The Great Fras Siabi",
+  "en": "Oh sweet, sweet stogie, how I have missed you...",
+  "files": [
+   "quests/5214-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "a8fabb3ace97",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mataus the Wrathcaster",
+  "quest": "The Ice Guard",
+  "en": "Ah, the Ice Guard. It is a thin sheen of protective magic that covers certain pieces of equipment. Those that do battle with creatures of frost and ice will gain increased protection from their attacks by using the Ice Guard.\n\nAs with all things the Wrathcaster creates, there is a price - a price that I will not lower, regardless of how much you whimper. Interested?",
+  "files": [
+   "quests/9211-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "806a098daad3",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mataus the Wrathcaster",
+  "quest": "The Ice Guard",
+  "en": "Enjoy the repair costs, traveler. Naxxramas is 'unkind' to the uninitiated.",
+  "files": [
+   "quests/9211-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "5e1133b610e6",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "The Left Piece of Lord Valthalak's Amulet",
+  "en": "The siblings, Jarien and Sothos, decided to join the Scarlet Crusade upon the disbanding of our mercenary company. They took the Left Piece of Lord Valthalak's Amulet with them. Good riddance, I say, but we need that piece back.\n\nFrom what we could gather, they were actually slain by Grand Crusader Dathrohan himself for failing the initiation rites inside his chamber in the Scarlet Bastion.\n\nIn any case, we... meaning you, are still going to need to retrieve that piece of the amulet.",
+  "files": [
+   "quests/8968-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f177a907602c",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "The Left Piece of Lord Valthalak's Amulet",
+  "en": "I suppose it's for the best that the souls of those two have finally been put to rest, even if I didn't like them while they were alive. In any case, we have what we were after, and that is definitely a good thing!\n\nUnfortunately, I do not know the location of the one who died with the right piece of the amulet in their possession. But do not fear; in life I was a dabbler in the art of divination, so I have another task for you, which is going to enable us to ferret out the final piece.",
+  "files": [
+   "quests/8968-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "5477c8e48b88",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Ironboot",
+  "quest": "The Lost Tablets of Mosh'aru",
+  "en": "The troll with whom you spoke did not tell the truth. The two tablets you gained for him spoke of containing the essence of Hakkar, but there is more to that legend. I have studied long, and found that there are six Tablets of Mosh'aru, not two! Six!\n\nAnd I fear that we will not like what secrets the others hold..\n\nFind the third and fourth tablets of Mosh'aru. They're in the Eastern Plaguelands, held by the mossflayer trolls. Find them, and bring them to me.",
+  "files": [
+   "quests/5065-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "40da34f38caa",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Ironboot",
+  "quest": "The Lost Tablets of Mosh'aru",
+  "en": "You found them! Great!\n\nThank you, Adventurer. I will pour over these texts and decipher their meaning.\n\nYou, however, have another task...",
+  "files": [
+   "quests/5065-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f1fe83d74087",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Aurius",
+  "quest": "The Medallion of Faith",
+  "en": "You retrieved the medallion! Now I will be able to leave the chapel and perform my duty.\n\nThat duty is to kill the beast who helped corrupt me and so many of my brothers and sisters, Baron Rivendare!",
+  "files": [
+   "quests/5122-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "ed2519cf9987",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Craftsman Wilhelm",
+  "quest": "The Only Song I Know...",
+  "en": "You fancy yourself a hero of the Dawn, eh? I've seen our greatest soldiers get rolled over by Kel'Thuzad's plebes! How well could someone so clueless possibly fare in Naxxramas?\n\n\nBah, what choice do I got? You're the best I can do; I may as well help you.\n\nOmarion left me with one recipe. It's the only song I know... I can make a few variations of these pants; you just gotta supply the materials.",
+  "files": [
+   "quests/9232-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "803a35c2e2cd",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Craftsman Wilhelm",
+  "quest": "The Only Song I Know...",
+  "en": "That's some hard work! Enjoy the pants, adventurer. At least you'll die in a clean pair now.",
+  "files": [
+   "quests/9232-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "a6815b4173b4",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Nathanos Blightcaller",
+  "quest": "The Ranger Lord's Behest",
+  "en": "The high elves of the Quel'Lithien lodge possesses something that belongs to me, adventurer: A document detailing my life as a mortal.\n\nBefore you ask; no, you most certainly are not privy to such information. Just do as I tell you, worm: Recover the registry.\n\nAnd imbecile, be sure to leave as much strife and grief as possible in your wake. Leave them suffering...",
+  "files": [
+   "quests/6133-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "54553be0f871",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Nathanos Blightcaller",
+  "quest": "The Ranger Lord's Behest",
+  "en": "I trust you did not read the registry. Not even you would do something that idiotic...",
+  "files": [
+   "quests/6133-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "0fc6342a1761",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Caretaker Alen",
+  "quest": "The Restless Souls",
+  "en": "There are those that died tragically in the fall of Stratholme. Many took their own lives, opting to hurl themselves into the myriad flames of the smoldering city rather than become one of the Scourge.\n\nThey now walk the streets of Stratholme as restless spirits.\n\nWe must aid them, Adventurer!\n\nI have an associate named Egan who has been doing miraculous work with ghosts and souls. Seek him out. He walks the eastern Plaguelands, near Stratholme, testing his innovations.",
+  "files": [
+   "quests/5281-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "3c2f52f0ced6",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Egan",
+  "quest": "The Restless Souls",
+  "en": "Alen has finally found someone brave enough, eh?",
+  "files": [
+   "quests/5281-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "9fab3dd31624",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Egan",
+  "quest": "The Restless Souls",
+  "en": "I draw my power - my will to continue living and breathing - from the unmitigated hatred I have for the Scourge and all that they have done. I am, however, no zealot. There are those, like the Scarlet Crusade, who would sooner destroy the innocent undead than lend them even an ounce of compassion.\n\nWhich brings me to this: My blaster. It will unchain the tortured souls from Stratholme.\n\nUse it on the ghosts that haunt the ransacked streets. Free their souls.",
+  "files": [
+   "quests/5282-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "d5547c4412ba",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Egan",
+  "quest": "The Restless Souls",
+  "en": "Did you see my mother, Adventurer? Did you free her?\n\nYou are a shining example of decency. For your troubles...",
+  "files": [
+   "quests/5282-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "b8f2d964f253",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "The Right Piece of Lord Valthalak's Amulet",
+  "en": "The siblings, Jarien and Sothos, decided to join the Scarlet Crusade upon the disbanding of our mercenary company. They took the Right Piece of Lord Valthalak's Amulet with them. Good riddance, I say, but we need that piece back.\n\nFrom what we could gather, they were actually slain by Grand Crusader Dathrohan himself for failing the initiation rites inside his chamber in the Scarlet Bastion.\n\nIn any case, we... meaning you, are still going to need to retrieve that piece of the amulet.",
+  "files": [
+   "quests/8991-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "04fdfd9ccdaa",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "The Right Piece of Lord Valthalak's Amulet",
+  "en": "I suppose it's for the best that the souls of those two have finally been put to rest, even if I didn't like them while they were alive. In any case, we have what we were after, and now the amulet is reassembled! But we still have the hardest test ahead of us.\n\nIn order for the brazier to be attuned to calling forth Lord Valthalak, there are a few more items that need to be gathered and brought back to me here.",
+  "files": [
+   "quests/8991-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "bebe8c72fbbd",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Nathanos Blightcaller",
+  "quest": "The Scarlet Oracle, Demetria",
+  "en": "Demetria is chief advisor to the Grand Crusader. She is called the Oracle due to her 'otherworldly' senses. She has successfully assisted the Crusade in several of their victories against the Scourge.\n\nWhile this ruse was successful in exposing her, if she truly does possess psychic powers, she will undoubtedly be expecting some sort of trouble. You are going to provide that 'trouble.'\n\nTrack down the Oracle and terminate her. They should be moving out of Tyr's Hand as we speak. Make me proud, worm.",
+  "files": [
+   "quests/6148-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "775fd4d3659b",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Nathanos Blightcaller",
+  "quest": "The Scarlet Oracle, Demetria",
+  "en": "They will be reeling from this blow for years! Well done, Adventurer! You have earned not only my respect but also this reward.",
+  "files": [
+   "quests/6148-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "462d0cfaf854",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mataus the Wrathcaster",
+  "quest": "The Shadow Guard",
+  "en": "A creation of genius! Much like the Ice Guard, the Shadow Guard employs a thin sheen of protective magic that covers certain pieces of equipment. And like the Ice Guard, the Shadow Guard is going to cost you a good amount of money.\n\n\nInterested?",
+  "files": [
+   "quests/9213-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "d7e9060dc916",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mataus the Wrathcaster",
+  "quest": "The Shadow Guard",
+  "en": "What are you still standing around for, Traveler? Our business is done.",
+  "files": [
+   "quests/9213-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "138648df091f",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Duke Nicholas Zverenhoff",
+  "quest": "The Truth Comes Crashing Down",
+  "en": "What will this mean to the Crusade? Could it be possible that they have been under the control of this demon? Unwittingly serving as the pawns to a greater evil?",
+  "files": [
+   "quests/5262-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "c89b9ad1571d",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Head of Balnazzar",
+  "quest": "The Truth Comes Crashing Down",
+  "en": "You try and gather your thoughts as the dust settles across the chamber. You go over the events that just transpired and still cannot comprehend the gravity of the situation.\n\nThe Grand Crusader of the Scarlet Crusade a demon? And not just any demon but brother to Varimathras, arch lord of the Undercity?\n\nYou carefully stow the severed head of the dreadlord into your pack. Surely, none would believe the tale you would tell without proof.\n\nDuke Nicholas Zverenhoff must be told at once!",
+  "files": [
+   "quests/5262-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "77bea1e828a3",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Dispatch Commander Metz",
+  "quest": "They Call Me \"The Rooster\"",
+  "en": "You want a writ? What? Do you expect me to hand you a highly sought after work order just for showing up? I think not, scrub. Crafters from around the world bid for jobs here at the front lines.\n\nIf you want a work order, you'll have to show me that you're willing to bleed for the cause. Bring me a valor token and we'll talk.\n\nAnd there's only one way to get your grubby little scrub mitts on those - get to killin'.",
+  "files": [
+   "quests/9141-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "2631786c8002",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Dispatch Commander Metz",
+  "quest": "They Call Me \"The Rooster\"",
+  "en": "Alright, here's how it works: For every valor token that you turn in, I'll give you another writ. You complete the order on that writ and deliver the order to Packmaster Stonebruiser. Got it? Good. Now get out of here.",
+  "files": [
+   "quests/9141-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "c89849e77efd",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Nathanos Blightcaller",
+  "quest": "To Kill With Purpose",
+  "en": "You kill with purpose while you remain on my stead.\n\nYour first task is to feed my hounds.\n\nTake this mortar and pestle and travel to Corin's Crossing. Once there, you will find a robust selection of Scourge to slaughter. From their fresh carcasses I need living rot. Take that living rot and grind it up in the mortar, then let it sit to coagulate. Bring the coagulated rot back here.\n\nAnd imbecile, realize that living rot from the undead doesn't remain 'living' for very long. You must kill quickly!",
+  "files": [
+   "quests/6022-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "e672602d8a18",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Nathanos Blightcaller",
+  "quest": "To Kill With Purpose",
+  "en": "Disappointing. I was hoping that I'd be feeding you to my hounds, instead.\n\n\nWell, at least they'll have something to eat.",
+  "files": [
+   "quests/6022-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "e90c8fe01bb7",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Nathanos Blightcaller",
+  "quest": "Un-Life's Little Annoyances",
+  "en": "You cannot take two steps off of this farm without running into one of those obnoxious bats. I want to be able to take the hounds out and slaughter Scourge without being accosted by any damned, dirty bats. Obviously, I have better things to do with my time than mindlessly kill bats day in and day out. You, however, do not.\n\nWhat? Your training? This is your training! Now get out of my sight and don't come back until you've killed a fair number of those winged demons. Don't disappoint me.",
+  "files": [
+   "quests/6042-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "72dc84802e48",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Nathanos Blightcaller",
+  "quest": "Un-Life's Little Annoyances",
+  "en": "It's incredible what a little anger and rage can get accomplished.",
+  "files": [
+   "quests/6042-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f1cc393c7fef",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Carlin Redpath",
+  "quest": "Uncle Carlin",
+  "en": "You've seen Pamela? She's alive?\n\nShe's dead? No! Oh, Pamela! Why does your spirit still suffer in this world. Why are you perished, while fortune keeps me alive? In an instant I would switch places with you and wander dead Darrowshire, a ghost and alone!\n\nAh, but this news cannot change fate. Thank you, Adventurer. Now my duty, my duty to revenge, burns hot as ever.",
+  "files": [
+   "quests/5241-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f4c9755bcd9c",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Carlin Redpath",
+  "quest": "Villains of Darrowshire",
+  "en": "The Annals of Darrowshire tells of the villains of that battle. It tells how the ghoul lord Horgus the Ravager was destroyed by Alliance forces during the battle. His body was cast into a lake, northwest of Corin's Crossing, and his skull remains there.\n\nMarduk the Black was never defeated, but his fabled sword was shattered and lost. It lies at the bottom of the gorge west of Corin's Crossing.\n\nRetrieve these items, Adventurer. I know not why, but I am certain their fate lies with you.",
+  "files": [
+   "quests/5181-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "5b811b372dfc",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Carlin Redpath",
+  "quest": "Villains of Darrowshire",
+  "en": "You found them! Well done, Adventurer! These relics hold a power I do not fully understand, a power you will one day harness.\n\nThey also bring dark memories to my mind, memories of death and treachery, and of the last night of Darrowshire...",
+  "files": [
+   "quests/5181-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "681fd1435939",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Smokey LaRue",
+  "quest": "When Smokey Sings, I Get Violent",
+  "en": "While you were gathering the supplies, I had some of my people handle marking the Scourge buildings we need demolished.\n\nHere's the plan: I'm going to give you ten sticks of my special compound. You're going to take them over to Plaguewood and plant them inside the Scourge structures that I've had marked for detonation.\n\n\nBing! It's just that easy.",
+  "files": [
+   "quests/6041-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "a45fb43c85f6",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Smokey LaRue",
+  "quest": "When Smokey Sings, I Get Violent",
+  "en": "You're much darker than I remember. You got that look going for you; the look that says, 'I've been charred by a high explosive bomb.'\n\n\nAnyhow! Here's your cut of the loot. I've thrown in a little something extra to help soothe the burns.",
+  "files": [
+   "quests/6041-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "6d0b10d70cb1",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Dispatch Commander Metz",
+  "quest": "Writ of Safe Passage",
+  "en": "Excellent work, Adventurer. Outstanding even! Take this as a token of our appreciation. No pun intended, scrub.",
+  "files": [
+   "quests/9165-complete"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "9718234d39af",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Guard Didier",
+  "quest": "Writ of Safe Passage",
+  "en": "Without the help of adventurers, my caravan would have never made it! Scourge were coming out of the woodwork to try and stop us from getting here.\n\n\nNow we need to wait here for Field Marshal Chambers to arrive. He'll sign your writ of safe passage to take back to Dispatch Commander Metz at Light's Hope Chapel.\n\nAnd Adventurer, watch what you say around Chambers. He's the 'bite off your head and spit down your wind pipe' type of guy - except that he'll actually do it...",
+  "files": [
+   "quests/9165-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "f4c2199b1b5d",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Caretaker Alen",
+  "quest": "Zaeldarr the Outcast",
+  "en": "Can you believe that, after all the trouble we have in the plaguelands... we have to worry about thieves too? And not just normal thieves, troll thieves.\n\nAnd not just normal troll thieves. Dead troll thieves!\n\nThey're led by this big, dead troll named Zaeldarr the Outcast, and they come here at night and steal bodies from the pit below, then take them back to their evil, dead troll hideout--the Undercroft to the west.\n\nGo there and take out Zaeldarr, Adventurer. I'm sick to death of his mischief!",
+  "files": [
+   "quests/6021-accept"
+  ],
+  "uiMap": 1423
+ },
+ {
+  "id": "42d443ce18dc",
+  "zone": "eastern-plaguelands-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Caretaker Alen",
+  "quest": "Zaeldarr the Outcast",
+  "en": "Great, you got him! And I hope you taught his gang a lesson too!",
+  "files": [
+   "quests/6021-complete"
+  ],
+  "uiMap": 1423
+ }
+]

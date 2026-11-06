@@ -1,0 +1,1190 @@
+[
+ {
+  "id": "0c3ea9a7414a",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Chief Hawkwind",
+  "quest": "A Humble Task",
+  "en": "All members of the tribe share in the harmony of life. We live together and work together.\n\nOur commitment to one another carries with it a high degree of responsibility. I ask of you now a humble task.\n\nMy mother set out this morning to fetch water from the well to the southeast of Narache. It has been quite some time now. Perhaps you could check on her for me while I attend to tribal matters here?",
+  "files": [
+   "quests/752-accept"
+  ]
+ },
+ {
+  "id": "8bfa810600a7",
+  "zone": "mulgore",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Greatmother Hawkwind",
+  "quest": "A Humble Task",
+  "en": "You traveled all this way just to help an old woman? My my, aren't you a keeper?",
+  "files": [
+   "quests/752-complete"
+  ]
+ },
+ {
+  "id": "6fbc243da067",
+  "zone": "mulgore",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Greatmother Hawkwind",
+  "quest": "A Humble Task",
+  "en": "I have traveled many paths through life and these old legs lack the vigor they once had. I can still perform my duties to the tribe. Sometimes it just takes an old woman a little longer to do the task.\n\nBut you look like an eager adventurer. Let's put some of that youthful vitality to the test. Take a water pitcher from the well and bring it to my son, the Chief, in Camp Narache.\n\nRemember that even the most humble task can gain the recognition of elders.",
+  "files": [
+   "quests/753-accept"
+  ]
+ },
+ {
+  "id": "4f1895a7c116",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Chief Hawkwind",
+  "quest": "A Humble Task",
+  "en": "You carried this pitcher back at the Greatmother's bidding, I see.\n\nYour willingness to help others and provide for the tauren of Camp Narache leads me to believe you would make the tribe proud in Thunder Bluff someday.",
+  "files": [
+   "quests/753-complete"
+  ]
+ },
+ {
+  "id": "613f1249fb04",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Lorekeeper Raintotem",
+  "quest": "A Sacred Burial",
+  "en": "Only the most valiant tauren are laid to rest at Red Rocks, our sacred burial ground. It is an honor bestowed upon the great warriors who helped found and defend Thunder Bluff and those who have given their lives for the greater good of their tribes and chieftains.\n\nBut it appears a foul menace has made its way onto our holy land. A band of Bristleback Interlopers is ravaging the grave site and I am too old and past my prime to drive them away.\n\nThey must be driven off with force, adventurer.",
+  "files": [
+   "quests/833-accept"
+  ]
+ },
+ {
+  "id": "74c36e8ef8a2",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Lorekeeper Raintotem",
+  "quest": "A Sacred Burial",
+  "en": "Well done. You have sent those foul Bristlebacks a clear message. They will think twice before attempting to meddle in this holy spot again.",
+  "files": [
+   "quests/833-complete"
+  ]
+ },
+ {
+  "id": "e4c0fc47b30f",
+  "zone": "mulgore",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Antur Fallow",
+  "quest": "A Task Unfinished",
+  "en": "Adventurer, please, I beg of you, can you help me? I have not finished my tasks here on the Mesa--I'm in the middle of my Rite of Strength--and my father asked me to deliver these furs to the inn in Bloodhoof.\n\nI'm far from rested enough to complete both my rite and this task for my father. Would you mind going on for me?\n\nThe inn is pleasant and a perfect place to rest during your long travels. I'm sure you'll agree once you see it.",
+  "files": [
+   "quests/1656-accept"
+  ]
+ },
+ {
+  "id": "ee6951f0fe63",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Kauth",
+  "quest": "A Task Unfinished",
+  "en": "Ah, the furs I was expecting. Thank you.\n\nThese came faster than I had expected. They will make good blankets for anyone who wishes to stay here.\n\nPlease feel free to stay as long as you like. My inn is always open and all of our people are welcome here. And don't underestimate a good night's rest, it can make a great difference while you're out traveling.",
+  "files": [
+   "quests/1656-complete"
+  ]
+ },
+ {
+  "id": "afbda079ab1f",
+  "zone": "mulgore",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Dirt-stained Map",
+  "quest": "Attack on Camp Narache",
+  "en": "After carefully evaluating the map, you realize that what you discovered are the plans made by the Bristleback warchief for an extended siege on Camp Narache.\n\nSurely Chief Hawkwind could use this information!",
+  "files": [
+   "quests/781-accept"
+  ]
+ },
+ {
+  "id": "0bbefe41fa83",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Chief Hawkwind",
+  "quest": "Attack on Camp Narache",
+  "en": "This is quite alarming indeed! But with this information we can call on our brethren from Bloodhoof Village to help thwart the attack. You have saved the lives of many tauren, adventurer.",
+  "files": [
+   "quests/781-complete"
+  ]
+ },
+ {
+  "id": "f9354d1aa6cf",
+  "zone": "mulgore",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Windfeather",
+  "quest": "Break Sharptusk!",
+  "en": "Adventurer - I have heard of you, newcomer. Perhaps it is you that will help us, where others have failed.\n\nWe tauren have carved a home out of this land, but not without a cost. The Bristleback quilboars of Brambleblade Ravine, led by Chief Sharptusk Thornmantle, have made our lives difficult with their continued war against us. I charge you to bring me the chief's head!\n\nHe will be found in the ravine to the east in their makeshift village.",
+  "files": [
+   "quests/3376-accept"
+  ]
+ },
+ {
+  "id": "54e1fc5bc9ba",
+  "zone": "mulgore",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Brave Windfeather",
+  "quest": "Break Sharptusk!",
+  "en": "Justice has been served on this day by your swift actions, Adventurer. Let this deed serve as a warning to all who would threaten our home.\n\nYou have earned this reward to help you on your sojourn, young adventurer.",
+  "files": [
+   "quests/3376-complete"
+  ]
+ },
+ {
+  "id": "331ac16a430e",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Morin Cloudstalker",
+  "quest": "Ceasing Operations",
+  "en": "The shredder one of the pages speaks of--I have seen them before in my travels. They can decimate a forest in a fraction of the time that hand and axe can.\n\nEntire glades--homes to the Earth Mother's children for millenia--erased in days.\n\nWe will not allow this to happen in our home, a stone's throw from where our young ones take their first steps.\n\nAdventurer, I must ask you to gather others, go back into the mine to the northeast, and ensure it fells not a single tree more.",
+  "files": [
+   "quests/98427-accept"
+  ]
+ },
+ {
+  "id": "cf087cb52885",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Morin Cloudstalker",
+  "quest": "Ceasing Operations",
+  "en": "All of Bloodhoof Village is in your debt this day. May the Earth Mother's grace stay with you always.",
+  "files": [
+   "quests/98427-complete"
+  ]
+ },
+ {
+  "id": "6ca2b91ad552",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Yaw Sharpmane",
+  "quest": "Chakuyak",
+  "en": "Among the prairie wolves that hunt the hills nearby is one that is especially aggressive. We have taken to calling her Chakuyak. She has become a threat to travelers coming from abroad.\n\nShe stalks the trees west of Stonebull Lake, moving from tree stand to tree stand.\n\nEnd this threat and bring me her pelt, and I will speak your praises to the chief. Beware, for she is dangerous! You might see other hunters seeking her out there, and perhaps you could work as a team.",
+  "files": [
+   "quests/96130-accept"
+  ]
+ },
+ {
+  "id": "358fc0c0450c",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Yaw Sharpmane",
+  "quest": "Chakuyak",
+  "en": "Taking the life of such a beautiful creature is a sad event, but it was necessary for the safety of our people. I will make certain that the pelt does not go to waste. Thank you.",
+  "files": [
+   "quests/96130-complete"
+  ]
+ },
+ {
+  "id": "dee7d024da3e",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Ruul Eagletalon",
+  "quest": "Dangers of the Windfury",
+  "en": "Thank you for taking the time to speak to me, Adventurer. I am Ruul, warrior and teacher.\n\nYou have obviously reached an age when you must prepare for your trials if you are to adventure much further out of Mulgore.\n\nIf you wish a test of your strength, start by seeking out the Windfury harpies to the southeast. They nestle along the mountain's edges away from the road.\n\nThey are one of our natural enemies here in Mulgore and will be a good gauge of your skill.",
+  "files": [
+   "quests/743-accept"
+  ]
+ },
+ {
+  "id": "37f9edeea8f6",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Ruul Eagletalon",
+  "quest": "Dangers of the Windfury",
+  "en": "You have done well, Adventurer. You seem well prepared to travel onward. Let the wind always be at your back.",
+  "files": [
+   "quests/743-complete"
+  ]
+ },
+ {
+  "id": "e94886c363a5",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Baine Bloodhoof",
+  "quest": "Drive Them Out",
+  "en": "Hear my words well: we will not yield a single blade of grass to the centaur.\n\nGo to their camp now, before they have rested and have a chance to ride to our village. Slaughter them all. Ensure none escape to the Barrens to rally others to their aid.\n\nIf you find the leader of this would-be raiding party, bring me his head so that it may serve as a warning to others who dare tread on our ancestral homeland.",
+  "files": [
+   "quests/99080-accept"
+  ]
+ },
+ {
+  "id": "eecd8a6cefdf",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Baine Bloodhoof",
+  "quest": "Drive Them Out",
+  "en": "You are covered in centaur blood. Remember this feeling. It is an honor unlike any other among our people.\n\nI could hear the moment the last fell, and their thunderous stampede echoed no longer. Well done!\n\nToday marks a great victory for our village, and a security our young ones need now more than ever. You have my deepest thanks, young adventurer.",
+  "files": [
+   "quests/99080-complete"
+  ]
+ },
+ {
+  "id": "c84286dff82f",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Baine Bloodhoof",
+  "quest": "Dwarven Digging",
+  "en": "There are dwarves preparing a dig site to the northwest. They think secrets lie in the earth, and that is true, but hollowing and defiling the land is no way to earn its teachings.\n\nCollect the dwarven tools of digging, smash them, and return to me with the dwarves' broken tools.\n\nYou can smash the tools at a forge. You will find one in Thunder Bluff, but any forge -- even a forge at the dwarven camp -- will suffice.",
+  "files": [
+   "quests/746-accept"
+  ]
+ },
+ {
+  "id": "9f5993f2daaf",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Baine Bloodhoof",
+  "quest": "Dwarven Digging",
+  "en": "Thank you, Adventurer. This will calm the beasts of Mulgore. And, spirits willing, it will teach the dwarves that hollowing the land is not the path to knowledge.",
+  "files": [
+   "quests/746-complete"
+  ]
+ },
+ {
+  "id": "d15b9988ed1a",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Morin Cloudstalker",
+  "quest": "Fizsprocket's Notes",
+  "en": "Ah, this is most valuable knowledge. I thank you for your efforts.\n\n<Morin looks through the notes.>\n\nIt seems our next move is clear.",
+  "files": [
+   "quests/98424-complete"
+  ]
+ },
+ {
+  "id": "3d5d1ebe6b58",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Seer Graytongue",
+  "quest": "Grace of An'she and Mu'sha",
+  "en": "The sun and the moon, An'she and Mu'sha, are not part of our world like the elements, yet their light gives us life, guidance, and hope.\n\nWe pay respect to the spirits of the world, and so we pay respect to the twins as well.\n\nIf you would show your respect, take this smoldering incense and bring it to a shrine in the hills to the southeast, overlooking the mesa, south of the quilboar. Be quick, so that you can reach the shrine before the incense burns away.\n\nDon't get it wet!",
+  "files": [
+   "quests/95805-accept"
+  ]
+ },
+ {
+  "id": "c7154b0a2cfa",
+  "zone": "mulgore",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Malah Longwind",
+  "quest": "Grim Tidings",
+  "en": "You can see what appears to be a new centaur camp in the direction the arrows in Malah's back would have come from. There is a stir of activity, suggesting a small raiding party has made its way into Mulgore.\n\nThe Longwalker has a report in her still-clenched hand. Brave Wildrunner will want to know of Malah's fate--and her killers.",
+  "files": [
+   "quests/99081-accept"
+  ]
+ },
+ {
+  "id": "0c3055538c1a",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Wildrunner",
+  "quest": "Grim Tidings",
+  "en": "This is most dire news indeed. We must inform Baine at once!",
+  "files": [
+   "quests/99081-complete"
+  ]
+ },
+ {
+  "id": "18d6a42ba025",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Ancestral Spirit",
+  "quest": "Journey into Thunder Bluff",
+  "en": "You will now be revered within our great city. Any traveler worthy of completing the Rites of the Earthmother earns that honor.\n\nFor your final quest, seek out our noble leader, Cairne Bloodhoof, who dwells atop the highest mesa in Thunder Bluff.",
+  "files": [
+   "quests/775-accept"
+  ]
+ },
+ {
+  "id": "838e1382a023",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Cairne Bloodhoof",
+  "quest": "Journey into Thunder Bluff",
+  "en": "Hail, young adventurer. I see you found your way to my doorstep.",
+  "files": [
+   "quests/775-complete"
+  ]
+ },
+ {
+  "id": "4a31106ea2a0",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Ahab Wheathoof",
+  "quest": "Kyle's Gone Missing!",
+  "en": "Help, Adventurer! My prized puppy, Kyle, has run away! I just know he's running around Bloodhoof Village, lost and hungry.\n\nWill you find him and feed him? Once he eats he will settle down and come home.\n\nTo feed him you will need to find food. His favorite meal is tender strider meat. Just venture east and you should find plenty of striders. Hunt one down and take its succulent meat to Kyle. When you see Kyle in town, put the meat down and he is sure to come to you.",
+  "files": [
+   "quests/99411-accept"
+  ]
+ },
+ {
+  "id": "eefc7d25d3c5",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Ahab Wheathoof",
+  "quest": "Kyle's Gone Missing!",
+  "en": "Fantastic work, Adventurer! Kyle came home as soon as he ate and went straight to bed. Thank you for your help.",
+  "files": [
+   "quests/99411-complete"
+  ]
+ },
+ {
+  "id": "36b670e6ead0",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Wildrunner",
+  "quest": "Longwalker Malah",
+  "en": "The Longwalkers are our people's most trusted scouts. Though their loyalty lies with the High Chieftain alone, young Baine at times seeks their aid.\n\nThis is one such time. Longwalker Malah was dispatched near our borders to the east and did not return last night after three days. When this occurs, it is our duty to confirm their safety.\n\nI must ensure the village remains safe. Prove yourself, and seek Malah out. You will know her by her headband and feathered staff, emblematic of the Longwalkers.",
+  "files": [
+   "quests/99079-accept"
+  ]
+ },
+ {
+  "id": "3650ad6414c5",
+  "zone": "mulgore",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Malah Longwind",
+  "quest": "Longwalker Malah",
+  "en": "It is clear that Malah did not die naturally. Arrows cover her back and the ground nearby.",
+  "files": [
+   "quests/99079-complete"
+  ]
+ },
+ {
+  "id": "0dc79c670905",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Maur Raincaller",
+  "quest": "Mazzranache",
+  "en": "My grandfather told me stories about his battles with a strider named Mazzranache. He told me of its demonic red eyes, razor-sharp talons and venomous bite.\n\nAs fortune would have it, while traveling across the plains, I encountered it, and it took a nasty bite from my shoulder. He was as terrible as my grandfather described. I will need some hard-to-find animal parts to clean the infection from his bite: a wolf heart, cougar femur, plainstrider scale and swoop gizzard.\n\nHurry, time is of the essence.",
+  "files": [
+   "quests/766-accept"
+  ]
+ },
+ {
+  "id": "b918006ac073",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Maur Raincaller",
+  "quest": "Mazzranache",
+  "en": "Ah, thank you, adventurer. Using the items you brought me, I will be able to create the remedy I need to stop the spread of the infection and, eventually, cure it completely. I owe you my life in thanks.\n\nBut I'll never forget that screeching call when Mazzranache came upon me, the blaze of color as its beak descended...\n\nBe wary on your travels.",
+  "files": [
+   "quests/766-complete"
+  ]
+ },
+ {
+  "id": "3a63ebf99042",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Wildrunner",
+  "quest": "Our Ancient Enemy",
+  "en": "Baine Bloodhoof leads our village. He must know of this incursion at once.\n\nBring him Longwalker Malah's report. You will find him at the center of town.\n\nQuickly, now. There is no time to waste!",
+  "files": [
+   "quests/99101-accept"
+  ]
+ },
+ {
+  "id": "07e21679b7ce",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Baine Bloodhoof",
+  "quest": "Our Ancient Enemy",
+  "en": "<Baine reads the report, his gaze darkening.>\n\nThis will not stand. Thank you for delivering it to me, Vanyel.",
+  "files": [
+   "quests/99101-complete"
+  ]
+ },
+ {
+  "id": "743576616c49",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mull Thunderhorn",
+  "quest": "Poison Water",
+  "en": "I have created the totem. You, adventurer, must cleanse the well.",
+  "files": [
+   "followup/1009-tauren-male-shaman"
+  ]
+ },
+ {
+  "id": "104a0e3e484c",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mull Thunderhorn",
+  "quest": "Poison Water",
+  "en": "Goblins and their servants have tainted our sacred water wells! We cannot allow this.\n\nTo cleanse each well, I must create a cleansing totem, then you must bring the totem to the well and perform a cleansing ritual.\n\nFirst we will create a cleansing totem for the Winterhoof Water Well. To do this, the land must offer its aid. Hunt prairie wolves for their paws and adult plainstriders for their talons. They are to the southwest.\n\nReturn to me with the paws and talons, Adventurer.",
+  "files": [
+   "quests/748-accept"
+  ]
+ },
+ {
+  "id": "a71be0d76f10",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mull Thunderhorn",
+  "quest": "Poison Water",
+  "en": "You have done well, Adventurer. I will take these and bind their power into a totem of cleansing.",
+  "files": [
+   "quests/748-complete"
+  ]
+ },
+ {
+  "id": "a1049c39e21f",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Seer Graytongue",
+  "quest": "Rite of Strength",
+  "en": "The Rites of the Earthmother are the steps a young tauren needs to take to gain respect in Thunder Bluff.\n\nFirst you must pass the Rite of Strength. In this test you must prove your bravery by slaying enemies of the tribe.\n\nBristlebacks of Brambleblade Ravine to the east are encroaching on our tribal lands. They ambush our hunting parties and steal from the village by dark.\n\nShow your valor by slaying these villains and return to the Chief in Camp Narache with their belts as proof of your deeds.",
+  "files": [
+   "quests/757-accept"
+  ]
+ },
+ {
+  "id": "66b38df238ec",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Chief Hawkwind",
+  "quest": "Rite of Strength",
+  "en": "You have passed the first test of the Rites of the Earthmother. The tribe will be proud.",
+  "files": [
+   "quests/757-complete"
+  ]
+ },
+ {
+  "id": "9953fbd46a10",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Zarlman Two-Moons",
+  "quest": "Rite of Vision",
+  "en": "The Water of the Seers is ready for your consumption, adventurer.",
+  "files": [
+   "followup/1012-tauren-male-elder"
+  ]
+ },
+ {
+  "id": "b233840eed04",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Baine Bloodhoof",
+  "quest": "Rite of Vision",
+  "en": "The Rite of Vision, one of the Rites of the Earthmother, will help guide you toward earning the respect of the elders of Thunder Bluff.\n\nOur people have learned that the land is our most holy provider. In order to take part in the ritualistic vision, you must speak with the spiritual leader of the village, Zarlman Two-Moons.",
+  "files": [
+   "quests/767-accept"
+  ]
+ },
+ {
+  "id": "d6ac206c1f4f",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Zarlman Two-Moons",
+  "quest": "Rite of Vision",
+  "en": "I sensed you would be coming to me, adventurer. I can always recognize one who is trying to pass the Rites of the Earthmother.",
+  "files": [
+   "quests/767-complete"
+  ]
+ },
+ {
+  "id": "fb4cfa52e2fb",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Zarlman Two-Moons",
+  "quest": "Rite of Vision",
+  "en": "In order to pass through the Rite of Vision, you must gather the reagents needed to make the Water of the Seers.\n\nI will need well stones, which can be found around the water wells in Mulgore. With those I will combine Ambercorn, which fall beneath the mighty trees in our land.\n\nThese reagents contain magical elements, and when brewed and consumed before the tribal fire, will cause you to encounter a vision. Follow it, and it will lead you to the next step of this holy quest.",
+  "files": [
+   "quests/771-accept"
+  ]
+ },
+ {
+  "id": "ef9afff5a320",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Zarlman Two-Moons",
+  "quest": "Rite of Vision",
+  "en": "I see you have learned to gather from our sacred land, adventurer. It will take but a moment for me to brew the Water of the Seers.",
+  "files": [
+   "quests/771-complete"
+  ]
+ },
+ {
+  "id": "be270467de4d",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Zarlman Two-Moons",
+  "quest": "Rite of Vision",
+  "en": "I now present you with the Water of the Seers.\n\nWhen you are ready, consume the waters near the tribal fire. Once you have ingested the holy waters, it will take a few moments before the vision materializes before the fire.\n\nAt that point, it is up to you to follow it to your destiny....",
+  "files": [
+   "quests/772-accept"
+  ]
+ },
+ {
+  "id": "a2d71cb2bc77",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Seer Wiserunner",
+  "quest": "Rite of Vision",
+  "en": "Be not afraid, adventurer. You have successfully passed the Rite of Vision.",
+  "files": [
+   "quests/772-complete"
+  ]
+ },
+ {
+  "id": "820b5e24c673",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Seer Wiserunner",
+  "quest": "Rite of Wisdom",
+  "en": "To gain acceptance amongst the elders of Thunder Bluff you must next complete the Rite of Wisdom.\n\nNow that you have passed the Rite of Vision, the ancestral spirits of Red Rocks will give you the blessing of our ancestors. Only those who have drunk from the Water of Seers can gain the blessing.\n\nTravel east of Thunder Bluff, to Red Rocks and seek out the Ancestral Spirit, adventurer.",
+  "files": [
+   "quests/773-accept"
+  ]
+ },
+ {
+  "id": "d0d203037597",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Ancestral Spirit",
+  "quest": "Rite of Wisdom",
+  "en": "You have shown great diligence in your yearning to pass the Rites of the Earthmother, adventurer.\n\nWe, the Ancestral Spirits, represent the mighty tauren who gave their lives bravely to found and protect our great city of Thunder Bluff. I hereby pass the duty of that protection over to you.\n\nYou have passed the Rite of Wisdom, young adventurer. Enter Thunder Bluff with pride.",
+  "files": [
+   "quests/773-complete"
+  ]
+ },
+ {
+  "id": "9205fa06d03f",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Chief Hawkwind",
+  "quest": "Rites of the Earthmother",
+  "en": "Your willingness to perform a humble task for the tauren of Narache and your eagerness to learn are noble traits, adventurer. I believe one day you will be heralded in Thunder Bluff as a adventurer of greatness.\n\nBefore that you must embark on the Rites of the Earthmother, of which there are three.\n\nThe first test is the Rite of Strength. Travel to Seer Graytongue and tell him Chief Hawkwind has sent you.\n\nYou will find the seer's abode directly to the south of Camp Narache, tucked away in the hills.",
+  "files": [
+   "quests/755-accept"
+  ]
+ },
+ {
+  "id": "ffcda36cddec",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Seer Graytongue",
+  "quest": "Rites of the Earthmother",
+  "en": "Chief Hawkwind sent you? Embarking on the Rites of the Earthmother is no small task...",
+  "files": [
+   "quests/755-complete"
+  ]
+ },
+ {
+  "id": "1777db17b956",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Chief Hawkwind",
+  "quest": "Rites of the Earthmother",
+  "en": "For you to continue with the Rites of the Earthmother you must pass two more tests. It is time for you to broaden your experience, adventurer.\n\nTravel to Bloodhoof Village and seek out the Chief, Baine Bloodhoof, son of Cairne. There you may continue your journey and earn the acceptance of the elders of Thunder Bluff.\n\nTake this totem to Baine. He will recognize my carvings and help you on your path.\n\nFollow the road out of Camp Narache and travel with haste. Do not stray or you will lose your way.",
+  "files": [
+   "quests/763-accept"
+  ]
+ },
+ {
+  "id": "ee68ac39291d",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Baine Bloodhoof",
+  "quest": "Rites of the Earthmother",
+  "en": "Word from my good friend, Chief Hawkwind! Ah, I can see by his carvings you are of a special breed.",
+  "files": [
+   "quests/763-complete"
+  ]
+ },
+ {
+  "id": "e57420e6ae25",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Cairne Bloodhoof",
+  "quest": "Rites of the Earthmother",
+  "en": "You have passed the Rites of the Earthmother and earned your place in Thunder Bluff.\n\nBut in order to maintain the spot that you strived so hard to achieve, you must continue to prove your worth to your people.\n\nWe are hunters, adventurer. Down below in Mulgore there is a mighty kodo named Arra'chea. Show me your skills in the ways of tracking and hunting by bringing me the Horn of Arra'chea.",
+  "files": [
+   "quests/776-accept"
+  ]
+ },
+ {
+  "id": "fa4563c95598",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Cairne Bloodhoof",
+  "quest": "Rites of the Earthmother",
+  "en": "Well done! A fine kill that was.\n\nI will send a gathering party to collect the carcass so we can retrieve the hide and meat.\n\nYou have done a great deed for your people, adventurer.",
+  "files": [
+   "quests/776-complete"
+  ]
+ },
+ {
+  "id": "ce63319ceb8a",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Baine Bloodhoof",
+  "quest": "Sharing the Land",
+  "en": "Adventurer, there are many conflicts that wound this land. It is my hope that you will not bear witness to as many of them as I have. Yet there is one that I would ask you to seek out. It will give you some sense of how terrible, if left unchecked, even a small threat can be to the land.\n\nPalemane gnolls have settled to the south of Bloodhoof and in a cave to the west. They disrespect our attempts to communicate with them, and they slay the wildlife of Mulgore unbridled.\n\nWords are no longer the answer.",
+  "files": [
+   "quests/745-accept"
+  ]
+ },
+ {
+  "id": "56ffe37bb6c9",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Baine Bloodhoof",
+  "quest": "Sharing the Land",
+  "en": "Adventurer, it is good you've taken my task seriously. Respect of the land and its creatures is important. Death and life are a circle... a necessity. One cannot exist without the other. Take time to ponder this and do well to never forget it.",
+  "files": [
+   "quests/745-complete"
+  ]
+ },
+ {
+  "id": "b7cb9937152a",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Krang Stonehoof",
+  "quest": "Sparring Match",
+  "en": "Hail, young adventurer. Though you are not a warrior and I cannot teach you that path, that does not mean you would not benefit from my tutelage.\n\nBefore you lies the arena. In it, it matters not who you call mother or whether you wield sword or bow. All are equal, and all learn to sharpen their horns in direct combat.\n\nWill you enter our space, and learn our ways for yourself? You may face any of these novices, or any other willing adversary. I care not which.",
+  "files": [
+   "quests/99108-accept"
+  ]
+ },
+ {
+  "id": "9e8f5031b15d",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Krang Stonehoof",
+  "quest": "Sparring Match",
+  "en": "You honor me with your abilities, adventurer. Perhaps the new generation has hope yet.\n\nTake these to tend to your wounds, for many more battles await you in this harsh world.",
+  "files": [
+   "quests/99108-complete"
+  ]
+ },
+ {
+  "id": "b7463c8c8420",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Boarton Shadetotem",
+  "quest": "Stalk With The Earthmother",
+  "en": "I sense in you a hidden talent for the subtle arts, adventurer. Use this mask to infiltrate the nearby Venture Company mine and steal their supplies. It may not seem like a convincing disguise, but a skilled rogue can slip past any guard with naught but a winning smile and a cunning distraction. I believe this capability lies within you as well.",
+  "files": [
+   "quests/76156-accept"
+  ]
+ },
+ {
+  "id": "0cd330f6d252",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Morin Cloudstalker",
+  "quest": "Supervisor Fizsprocket",
+  "en": "According to the documents you salvaged from the caravan, the Venture Co. created many plans to attempt to drive us from our lands here, so that they could have free reign to plunder our lands.\n\nThe depths that they would sink to accomplish their goals disgusts and appalls me. I want the mastermind behind their plans killed. His name is Supervisor Fizsprocket, you will find him at the Venture Co. mine east of the ravaged caravan. Bring me his clipboard, we shall see if we find out anything useful.",
+  "files": [
+   "quests/765-accept"
+  ]
+ },
+ {
+  "id": "d162439c11b6",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Morin Cloudstalker",
+  "quest": "Supervisor Fizsprocket",
+  "en": "My anger is somewhat lessened at the news that the villain Fizsprocket is dead. I will go through his personal effects and see if there is any additional information about what the Venture Co. has planned for the future. Thank you for your efforts, adventurer.",
+  "files": [
+   "quests/765-complete"
+  ]
+ },
+ {
+  "id": "50d17094c15b",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Harken Windtotem",
+  "quest": "Swoop Hunting",
+  "en": "The swoop is a cunning bird, and difficult to find and hunt. A collection of Swoop Quills is a badge of cleverness and determination for a hunter.\n\nIf you are willing to take up this task, then enter the plains and hunt the swoop.\n\nBring me their quills, and bring honor to your clan.\n\nThe swoops may be found anywhere in Mulgore, but your eyes must be sharp to spot them, and your hooves must be quick to catch them.",
+  "files": [
+   "quests/761-accept"
+  ]
+ },
+ {
+  "id": "44958bd99ffe",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Harken Windtotem",
+  "quest": "Swoop Hunting",
+  "en": "I know that gathering these quills was not an easy task, Adventurer. In doing this, you prove that you are a adventurer of merit. It is good to have you at Bloodhoof Village.",
+  "files": [
+   "quests/761-complete"
+  ]
+ },
+ {
+  "id": "17edd2c76154",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Grull Hawkwind",
+  "quest": "The Battleboars",
+  "en": "The Battleboars of Brambleblade Ravine to the east are encroaching on our tribal hunting grounds. They are trained to be malicious by the Bristleback Quilboars with whom we are at war.\n\nGo and slay the vile creatures and bring back some snouts and flanks so that we can make stew for our young.",
+  "files": [
+   "quests/780-accept"
+  ]
+ },
+ {
+  "id": "82410aad9db4",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Grull Hawkwind",
+  "quest": "The Battleboars",
+  "en": "Most excellent. These ingredients will make a fine stew and the loss of those boars should be a fair lesson to those vile Bristlebacks.",
+  "files": [
+   "quests/780-complete"
+  ]
+ },
+ {
+  "id": "692f2b8fc088",
+  "zone": "mulgore",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Demon Scarred Cloak",
+  "quest": "The Demon Scarred Cloak",
+  "en": "The ragged hide of Ghost Howl still bears a terrible wound, gained from the wolf's battles against the Burning Legion.\n\nPerhaps someone in Bloodhoof Village should know of Ghost Howl's demise....",
+  "files": [
+   "quests/770-accept"
+  ]
+ },
+ {
+  "id": "6fdab052bbac",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Skorn Whitecloud",
+  "quest": "The Demon Scarred Cloak",
+  "en": "I can barely believe my old eyes! You defeated the great wolf Ghost Howl? I look upon you with new respect, young adventurer. You are a hunter of extreme skills!\n\nLet me offer you something. My days of hunting are over, but I would be honored if you used one of my weapons in your hunts.\n\nMay it strike true, and bring you renown.\n\nAnd let us hope that Ghost Howl's spirit has finally found peace.",
+  "files": [
+   "quests/770-complete"
+  ]
+ },
+ {
+  "id": "5345a3618269",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Baine Bloodhoof",
+  "quest": "The High Chieftain",
+  "en": "Your bravery defending your people demands recognition. Journey to Thunder Bluff to the northwest, our mighty city whose shadow grants us shade in the warmer months, and seek audience with my father.\n\nIt was he who led the charge with the young Warchief Thrall to reclaim these plains and drive the centaur away for good. As High Chieftain, he will reward you generously for your part in ensuring his own bravery is honored.\n\nYou must take a lift to reach the High Chieftain, who sits on the central rise.",
+  "files": [
+   "quests/99082-accept"
+  ]
+ },
+ {
+  "id": "8ac530798711",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Cairne Bloodhoof",
+  "quest": "The High Chieftain",
+  "en": "The Galak centaur dare show themselves in Mulgore?!\n\nYou have brought pride to your ancestors by driving them out. Perhaps that will remind them of the pain that awaits them should they do so again!\n\nPlease accept this gift in honor of this. May it serve you well as you venture out into the Earth Mother's kingdom, to the far reaches of this world.",
+  "files": [
+   "quests/99082-complete"
+  ]
+ },
+ {
+  "id": "a4835aaa9063",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Grull Hawkwind",
+  "quest": "The Hunt Begins",
+  "en": "You have a promising air about you, and will prove yourself to the tribe. Perhaps someday soon you will be welcomed into the great city of Thunder Bluff. But before that can happen you must prove yourself to my father, Chief Hawkwind.\n\nUp here on Red Cloud Mesa we pride ourselves on keen hunting skills. Tauren hunt out of necessity and for sport. Our supply of meats has run low and we require feathers for clothing. Hunt the nearby plainstriders and prove yourself by resupplying the village.",
+  "files": [
+   "quests/747-accept"
+  ]
+ },
+ {
+  "id": "9f74051cc694",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Grull Hawkwind",
+  "quest": "The Hunt Begins",
+  "en": "The tauren of Narache thank you, adventurer. You show much promise.",
+  "files": [
+   "quests/747-complete"
+  ]
+ },
+ {
+  "id": "f7e14eb76c91",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Grull Hawkwind",
+  "quest": "The Hunt Continues",
+  "en": "A tauren skilled in the ways of the hunt knows that his prey is not for mere trophy. The beasts of the plains provide us with a means of survival. You will make quite an impression on the elders if you can bring back some highly valued Mountain Cougar Pelts. You can find the beasts lurking in the hills to the south.\n\nOur children need clothing and our tents need mending.",
+  "files": [
+   "quests/750-accept"
+  ]
+ },
+ {
+  "id": "baf52492caa4",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Grull Hawkwind",
+  "quest": "The Hunt Continues",
+  "en": "The tauren of Narache thank you for these provisions, adventurer. With your skill in the ways of the hunt you will surely be revered in Thunder Bluff someday.",
+  "files": [
+   "quests/750-complete"
+  ]
+ },
+ {
+  "id": "4f5d67761b43",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Skorn Whitecloud",
+  "quest": "The Hunter's Way",
+  "en": "You are eager to explore, I can tell. I too had the lust to wander, once...\n\nWander, and hunt. For hunting is a Tauren's greatest honor.\n\nIf you truly wish to follow the ways of the hunter, then Melor Stonehoof can show you the path. He is in Thunder Bluff, on the Hunter's Rise.\n\nAnd to show him your skill and resolve, bring him the claws of the flatland prowlers of Mulgore. They are tough and cunning -- fitting prey for a young adventurer on the hunter's path.",
+  "files": [
+   "quests/861-accept"
+  ]
+ },
+ {
+  "id": "4d0238f0112b",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Melor Stonehoof",
+  "quest": "The Hunter's Way",
+  "en": "Skorn Whitecloud is a wise tauren. He has hunted for years and years, and although his body is old, his spirit burns fiercely. We are honored to have him with us.\n\nIf Skorn sent you to me, then you too must have the hunter's spirit. And to have gathered these claws shows your burgeoning skills.\n\nPerhaps you are ready to walk the path.",
+  "files": [
+   "quests/861-complete"
+  ]
+ },
+ {
+  "id": "85f15f4767dc",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Perith Stormhoof",
+  "quest": "The Longwalkers",
+  "en": "Hail, adventurer. What brings you deep into such a dark and violent place?\n\nI was sent here by High Chieftain Cairne Bloodhoof as a part of our efforts to communicate with the gnolls that have taken residence. The rest of my mission must remain a secret, as do all things with the Longwalkers, the trusted scouts of our chieftain.\n\nAll you must know is our diplomacy was met with violence, and I fear I may be tonight's feast for the gnolls if you do not help me escape.\n\nAre you up to the task?",
+  "files": [
+   "quests/98430-accept"
+  ]
+ },
+ {
+  "id": "1d0b15277fef",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Cairne Bloodhoof",
+  "quest": "The Longwalkers",
+  "en": "I am relieved that Longwalker Stormhoof is well. He is my most trusted scout, and his mission of the utmost importance.\n\nPlease, accept my thanks and my hospitality for riskng your life to save his own. You have done a greater service to our people than you know.\n\nI encourage you to explore our great city while you are here. It is a place of safety, and you will find many that may aid you on your own travels upon its bluffs.\n\nIsh-ne-alo por-ah.",
+  "files": [
+   "quests/98430-complete"
+  ]
+ },
+ {
+  "id": "51ab79379ced",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Morin Cloudstalker",
+  "quest": "The Ravaged Caravan",
+  "en": "A few days ago, we found a Venture Co. caravan traveling under guard on the northern shore of Stonebull Lake. We'd lost two of our number in an earlier battle, so we were quick to attack and lay waste to the caravan.\n\nWe left their supply crates, thinking that our torches would destroy anything of value, but given that Venture Co. salvagers have been spotted near the burned wagons, maybe we were wrong.\n\nPerhaps you could go to the caravan and examine the contents of the crates.",
+  "files": [
+   "quests/749-accept"
+  ]
+ },
+ {
+  "id": "af681be10ec8",
+  "zone": "mulgore",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Sealed Supply Crate",
+  "quest": "The Ravaged Caravan",
+  "en": "All sides of the crate are stamped with the sign of the Venture Co. Mining Division. Notes printed carefully on the side of the carton indicate that the contents are due for processing at one of their central plants.",
+  "files": [
+   "quests/749-complete"
+  ]
+ },
+ {
+  "id": "07d08fa56604",
+  "zone": "mulgore",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Sealed Supply Crate",
+  "quest": "The Ravaged Caravan",
+  "en": "Prying open the lid reveals a tightly packed assortment of ore and minerals, more evidence of the Venture Co.'s mining operation in Mulgore. On the top of the ore and minerals you remove a tightly bound sheaf of papers.\n\nUp in the foothills to the east, you can barely hear the sounds of work, and see smoke rising from a large fire.",
+  "files": [
+   "quests/751-accept"
+  ]
+ },
+ {
+  "id": "96b330424128",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Morin Cloudstalker",
+  "quest": "The Ravaged Caravan",
+  "en": "It does indeed appear that the Venture Co. is attempting to rob us of our natural resources. It is good to know this for true, and now it seems, we must do something about it.",
+  "files": [
+   "quests/751-complete"
+  ]
+ },
+ {
+  "id": "1f7cca8d757e",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Morin Cloudstalker",
+  "quest": "The Venture Co.",
+  "en": "This explains the buildup of Venture Co. employees and equipment we've seen in Mulgore. Those goblins... their company is expanding too quickly for their own good. It's how they say, show a goblin something, and you can hear the scales in the background.\n\nGreedy little things, they are. Unfortunately for their business enterprise, we tauren cannot allow them to conduct their operations in our lands. Go to their mine northeast of the ravaged caravan and send them a message.",
+  "files": [
+   "quests/764-accept"
+  ]
+ },
+ {
+  "id": "00f37763e918",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Morin Cloudstalker",
+  "quest": "The Venture Co.",
+  "en": "I don't think there could be too much misinterpreting or ignoring of that signal, hm? The Venture Co. will know not to take the tauren lightly, or to be so arrogant as to believe we would allow them to steal the natural resources around us without protest.",
+  "files": [
+   "quests/764-complete"
+  ]
+ },
+ {
+  "id": "97caa1160ba6",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mull Thunderhorn",
+  "quest": "Thunderhorn Cleansing",
+  "en": "The totem is ready, Adventurer. And again, it is your task to perform the ritual of cleansing.\n\nGo to the Thunderhorn Water Well, north of the village, and use the Thunderhorn Cleansing Totem in your ritual. After you do this, return to me.\n\nMay the spirits guide you.",
+  "files": [
+   "quests/758-accept"
+  ]
+ },
+ {
+  "id": "560ec118d9bf",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mull Thunderhorn",
+  "quest": "Thunderhorn Cleansing",
+  "en": "Ancestors of the Thunderhorn clan spoke to me in a dream, praising you for your actions near their well.\n\nFor their gratitude, they wish to give you this...",
+  "files": [
+   "quests/758-complete"
+  ]
+ },
+ {
+  "id": "77111c944dbc",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mull Thunderhorn",
+  "quest": "Thunderhorn Totem",
+  "en": "The totem is made, adventurer.",
+  "files": [
+   "followup/954-tauren-male-shaman"
+  ]
+ },
+ {
+  "id": "8b560aa24ce7",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mull Thunderhorn",
+  "quest": "Thunderhorn Totem",
+  "en": "To create the Thunderhorn Cleansing Totem, you must gather the claws of the predators of the Mulgore plains. Hunt prairie stalkers for their stalker claws and flatland cougars for their cougar claws, then return to me.\n\nYou will find the prairie stalkers and flatland cougars to the east and west.",
+  "files": [
+   "quests/756-accept"
+  ]
+ },
+ {
+  "id": "7b73183e6066",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mull Thunderhorn",
+  "quest": "Thunderhorn Totem",
+  "en": "Thank you, Adventurer. The purity with which these beasts hunt is vital in the creation of the next cleansing totem.\n\nThe goblins will never learn the difference between contending with the land, and living in harmony with it.",
+  "files": [
+   "quests/756-complete"
+  ]
+ },
+ {
+  "id": "2c051ff6a63b",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mull Thunderhorn",
+  "quest": "Thunderhorn's Report",
+  "en": "Our elders in Thunder Bluff must know of the progress we have made here, thanks to your aid.\n\nPlease, take this to Arch Druid Hamuul Runetotem in Thunder Bluff. You will find him in the Elder Rise, on the east side of the city. You must take the lifts up to the center of the city, then cross the bridges to reach it.",
+  "files": [
+   "quests/98435-accept"
+  ]
+ },
+ {
+  "id": "30a4e4900f22",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Hamuul Runetotem",
+  "quest": "Thunderhorn's Report",
+  "en": "Ah, no wonder there is such joy running through the streams of Mulgore. You have done a great service today. The wells provide much for not only our people, but to the wildlife we depend on for food, clothing, and companionship.\n\nIt is my humble pleasure to honor Mull's request. Please, accept this token of my gratitude.",
+  "files": [
+   "quests/98435-complete"
+  ]
+ },
+ {
+  "id": "3d85802581bb",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mull Thunderhorn",
+  "quest": "Wildmane Cleansing",
+  "en": "Your cleansing of the Winterhoof and Thunderhorn wells is spoken among the spirits, young Adventurer. The Wildmane Totem is made, and your last task lies ahead.\n\nThe Wildmane Water Well lies north of Thunder Bluff. Perform the ritual! Heal the land of the goblins' poisons! Let clean water flow once again!",
+  "files": [
+   "quests/760-accept"
+  ]
+ },
+ {
+  "id": "c8692f87999e",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mull Thunderhorn",
+  "quest": "Wildmane Cleansing",
+  "en": "You've done it. You have cleaned the wells, and healed our land. Bloodhoof village is grateful, Adventurer.\n\nMay the wind whisper your deeds for a hundred seasons, and may the waters of Mulgore remain clean forever.",
+  "files": [
+   "quests/760-complete"
+  ]
+ },
+ {
+  "id": "38fabd12334c",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mull Thunderhorn",
+  "quest": "Wildmane Totem",
+  "en": "The totem is made. The well may now be cleansed.",
+  "files": [
+   "followup/1006-tauren-male-shaman"
+  ]
+ },
+ {
+  "id": "e42501fa2ae3",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mull Thunderhorn",
+  "quest": "Wildmane Totem",
+  "en": "There is but one water well left to cleanse, named after the Wildmane clan. For this well to be pure, the land must offer the teeth of a fierce predator, the prairie wolf alpha. Find the alphas to the north, then return to me when your hunt is finished.\n\nAlphas often wander around the base of our mighty city, Thunder Bluff.",
+  "files": [
+   "quests/759-accept"
+  ]
+ },
+ {
+  "id": "3295faac9b28",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mull Thunderhorn",
+  "quest": "Wildmane Totem",
+  "en": "Very good, Adventurer. I can feel the sacrifice of the land in this offering, and my spirit swells with sadness, and pride.",
+  "files": [
+   "quests/759-complete"
+  ]
+ },
+ {
+  "id": "30ab2c8d145e",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mull Thunderhorn",
+  "quest": "Winterhoof Cleansing",
+  "en": "I have crafted the totem to cleanse the Winterhoof Water Well. Now, you must take it to the well and perform a cleansing ritual. You will find it to the southeast, guarded by foul goblins!\n\nThis will not be an easy task, but you must do it if we are ever to use its waters again.\n\nFortune to you, Adventurer.",
+  "files": [
+   "quests/754-accept"
+  ]
+ },
+ {
+  "id": "e3ebddb97a10",
+  "zone": "mulgore",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mull Thunderhorn",
+  "quest": "Winterhoof Cleansing",
+  "en": "News of your deed reached me moments ago -- already the beasts near the well drink from it eagerly.\n\nYou have done a great thing for the land, Adventurer. And you have done a great thing for the Tauren people.",
+  "files": [
+   "quests/754-complete"
+  ]
+ }
+]

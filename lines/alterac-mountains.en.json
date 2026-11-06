@@ -1,0 +1,478 @@
+[
+ {
+  "id": "b5cb7e658e35",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Fragrant Cauldron",
+  "quest": "A Bubbling Cauldron",
+  "en": "A pleasant smell wafts up from the cauldron.",
+  "files": [
+   "quests/9029-complete"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "033ac0f170aa",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Assassin's Contract",
+  "quest": "Assassin's Contract",
+  "en": "This is a contract for the assassination of Magistrate Henry Maleb. It was sealed and stamped in red wax, using a distinctive signet ring.",
+  "files": [
+   "quests/522-accept"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "c8fecafba24f",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Henry Maleb",
+  "quest": "Assassin's Contract",
+  "en": "That explains the latest attack on Southshore. The Syndicate must be after me, just as they were the last magistrate!",
+  "files": [
+   "quests/522-complete"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "17ea60472fa3",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Henry Maleb",
+  "quest": "Baron's Demise",
+  "en": "The contract you recovered was signed by Baron Vardus, a noble of the former kingdom of Alterac, and one known for a cold heart and brutal practices. I'm not surprised someone like the Baron was behind this.\n\nFind this man. Find him, and bring him to justice. He must be among the Syndicate haunts - perhaps at the ruins of Strahnbrad, or perhaps within the valley north of them.",
+  "files": [
+   "quests/523-accept"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "6f395cfeabc2",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Henry Maleb",
+  "quest": "Baron's Demise",
+  "en": "Thank you, Adventurer. My head rests a little easier, knowing that villain lost his.",
+  "files": [
+   "quests/523-complete"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "5af7d65e1b59",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Redpath",
+  "quest": "Crushridge Bounty",
+  "en": "Crushridge ogres have dug an ogre mound up in the Alterac Mountains near the ruined city of Alterac. And my scouts tell me they've taken over those ruins as well.\n\nWe can't let them get cozy up there; if they think they're safe where they are, then their next step will be to move down into the foothills, which will put them right at our front door!\n\nGo north to the Alterac Mountains and hunt ogres. Bring me the Dirty Knucklebones they carry and you will earn a nice bounty.",
+  "files": [
+   "quests/500-accept"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "20d15dd39968",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Redpath",
+  "quest": "Crushridge Bounty",
+  "en": "Very good, Adventurer. You must have hacked through a whole mess of ogres to get all these knucklebones.\n\nThat should keep them out of our hair. At least, for a while.",
+  "files": [
+   "quests/500-complete"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "1b9a692e4d16",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Redpath",
+  "quest": "Crushridge Warmongers",
+  "en": "Now that you've had a taste of the Crushridge ogres, I want you to really bloody their noses...\n\nGo into the Ruins of Alterac and seek out the Crushridge Warmongers. I want you to cut down a good number of them - that's the only way those brutes will learn to keep their distance from Alliance territory.",
+  "files": [
+   "quests/504-accept"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "73b856eadb5f",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Redpath",
+  "quest": "Crushridge Warmongers",
+  "en": "Very good. Here is your reward.\n\nAnd when you were hunting those Warmongers, how did Alterac city look? It's in bad shape I would guess. Ogres are not known for their cleanliness.\n\nThankfully, your efforts will help keep them away from Southshore.",
+  "files": [
+   "quests/504-complete"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "2c95552e06dd",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Magus Wordeen Voidglare",
+  "quest": "Dalaran Patrols",
+  "en": "The wizards of Dalaran constructed a vast, magical dome around the heart of their city. Some believe it was for protection from the violence of these times, while others say they merely wanted solitude, to study and plot.\n\nI don't care what the reason was. I do care that the ruined outskirts of their city, outside the dome, may hide valuable magical treasures.\n\nBut the area is patrolled by the wizards and their elemental slaves.\n\nSo hunt them, and return when their numbers are sufficiently reduced.",
+  "files": [
+   "quests/545-accept"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "c52ced28967f",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Magus Wordeen Voidglare",
+  "quest": "Dalaran Patrols",
+  "en": "Very good. Those ruins should now be safe enough to search, if one is careful.\n\nThank you, Adventurer.",
+  "files": [
+   "quests/545-complete"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "b4ca42989eed",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Henry Maleb",
+  "quest": "Dark Council",
+  "en": "The letter you brought me was written by a being who calls himself Nagaz, a member of the Argus Wake. I don't know what this Argus Wake is, but if they're in alliance with the Syndicate then they must be a threat.\n\nI want you to find Nagaz and the Argus Shadow Mages mentioned in that letter. I want you to find them, and kill them.\n\nSearch in the Uplands, where the Syndicate is strongest. It is north of Strahnbrad.\n\nWith luck, you'll find these envoys of the Argus Wake there.",
+  "files": [
+   "quests/537-accept"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "f3dcc7e1f2b9",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Henry Maleb",
+  "quest": "Dark Council",
+  "en": "Well done, Adventurer. The Argus Wake does not sound like a group we want running the Syndicate.\n\nAnd although you may have destroyed their leader here, Nagaz was merely the servant of another. The Argus Wake might run deep through the continent of Azeroth.\n\nOr even the world.",
+  "files": [
+   "quests/537-complete"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "8dd2a5c98281",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Loremaster Dibbs",
+  "quest": "Encrypted Letter",
+  "en": "What is this? Hold a moment...let me take a closer look.\n\n...\n\nHm, I have never before seen this form of encryption, but I must admit that my knowledge in that area is by no means complete.",
+  "files": [
+   "quests/511-complete"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "05cdebdc6c34",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Syndicate Documents",
+  "quest": "Encrypted Letter",
+  "en": "One of the letters on this table is encrypted and inscrutable.",
+  "files": [
+   "quests/511-accept"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "5683169edb64",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Henry Maleb",
+  "quest": "Foreboding Plans",
+  "en": "These are very troubling, Adventurer. From the information in these documents, and from the Syndicate's actions in the past, we must assume that band of cutthroats has waged war on Southshore.",
+  "files": [
+   "quests/510-complete"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "cda46099be1e",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Syndicate Documents",
+  "quest": "Foreboding Plans",
+  "en": "Among these documents is a list of requested supplies. These include mundane items (food, weapons, clothing) as well as more exotic gear (masks, oil, poison).\n\nBut what is most notable is the urgency of the request - these supplies were needed soon in order to undertake what is described in the document as an \"important mission against Southshore.\"",
+  "files": [
+   "quests/510-accept"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "bf99f50b5c60",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Henry Maleb",
+  "quest": "Further Mysteries",
+  "en": "This is translated from a letter you found in a Syndicate encampment? This was not written by a thief, or even a noble of Alterac.\n\nIt appears The Syndicate has ties to another power, and I shudder to think what that might be.",
+  "files": [
+   "quests/525-complete"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "3e0c4d8721c7",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Stormpike",
+  "quest": "Further Mysteries",
+  "en": "I decrypted the letter, but I don't know what to make of it. You found this among thieves in the Alterac foothills? Very strange...\n\nYou should take this to the magistrate of Southshore. Although this letter is cryptic, his is the closest town to Alterac; if a threat is brewing, then he should know.",
+  "files": [
+   "quests/525-accept"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "be75b9c5228e",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Loremaster Dibbs",
+  "quest": "Letter to Stormpike",
+  "en": "I have a colleague in Ironforge who may be able to help decrypt this letter. Go to the Library in the Hall of Explorers in Ironforge and speak with Prospector Stormpike. Tell him I sent you and show him the letter. If there's anyone north of Blackrock Spire who can read this, it is he.",
+  "files": [
+   "quests/514-accept"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "fe521a32e9be",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Stormpike",
+  "quest": "Letter to Stormpike",
+  "en": "Ah, encryption! A specialty of mine. Let me see here...",
+  "files": [
+   "quests/514-complete"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "c43cd1fefd70",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Henry Maleb",
+  "quest": "Noble Deaths",
+  "en": "I fear the leadership behind the Syndicate is bent on Southshore's ruin. We must strike hard at these leaders before their plans are realized.\n\nEnter the ruins of Strahnbrad, in the Alterac Mountains to the north. We think the Syndicate is using the area as a headquarters.\n\nWe know this gang of cutthroats is run by former Alterac nobles. They may be hiding as normal Syndicate agents, but you'll know you've killed a noble by the signet ring he wears.\n\nBring me those signet rings.",
+  "files": [
+   "quests/512-accept"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "e64feb63b6aa",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Henry Maleb",
+  "quest": "Noble Deaths",
+  "en": "Stripping the Syndicate of its nobility will remove its ability to act decisively, and reduce it to nothing more than a gang of thugs.\n\nYou serve your Alliance well, Adventurer.",
+  "files": [
+   "quests/512-complete"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "0fadbcf41370",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "High Sorcerer Andromath",
+  "quest": "Power Overwhelming",
+  "en": "The Kirin Tor have long been allies of the Alliance. With the destruction of their city at the hands of the arch demon Archimonde, the once proud city of mages has now become reclusive and distrusting of outsiders.\n\nIn recent years they have begun reconstruction efforts to bring the city of Dalaran back to its former glory. However, reports show they are struggling to contain an outbreak of wayward arcane energies.\n\nWe must help them disperse these attacks lest we lose one of our most powerful allies.",
+  "files": [
+   "quests/92489-accept"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "b0260a39afaf",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Doctor Martin Felben",
+  "quest": "Source of Power",
+  "en": "With the city of Dalaran under siege by their own constructs, this is the perfect opportunity to, let's say, borrow a few samples.\n\nImagine an army of arcane-powered abominations. The Dark Lady would have no choice but to recognize my alchemical prowess. Maybe even grant me head of the Royal Apothecary Society?\n\nGo to the city and find the constructs' cores. They are unlikely to give them willingly, so do what you must.",
+  "files": [
+   "quests/96988-accept"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "ef6e731427b8",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Loremaster Dibbs",
+  "quest": "Stormpike's Deciphering",
+  "en": "Prospector Stormpike is a master of decryption and deciphering. If you take the parchment you found to him, then with luck he can make sense of it. Stormpike is currently studying in the Prospector headquarters in Ironforge.\n\nAnd when you see him tell him you spoke with me - I've been sending him quite a lot of business lately.",
+  "files": [
+   "quests/554-accept"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "b961138a198d",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Stormpike",
+  "quest": "Stormpike's Deciphering",
+  "en": "A wise decision. I don't believe there is a scholar other than myself with the skills to translate this scroll. And if its contents prove interesting, fear not. I will send for you.",
+  "files": [
+   "quests/554-complete"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "f048f0ff8eb6",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Henry Maleb",
+  "quest": "Syndicate Assassins",
+  "en": "I am the new magistrate of Southshore, recently assigned after the assassination of the previous magistrate. The assassins were never found, but through our investigations we're almost certain they were hired by the Syndicate - a group of thieves led by villainous nobles of the now fallen kingdom of Alterac.\n\nThe Syndicate has a camp north of the Horde-occupied Tarren Mill, and our last clues led to that camp. Slay the Syndicate members you find there.",
+  "files": [
+   "quests/505-accept"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "19e898cd559c",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Henry Maleb",
+  "quest": "Syndicate Assassins",
+  "en": "Thank you, Adventurer. Although they may still be lurking about, we hope that some of the thieves and footpads you slew were responsible for the last magistrate's death. But even if they weren't, the Syndicate is a taint on this land and a stain on the human race. \n\nTheir deaths are welcome to Southshore.",
+  "files": [
+   "quests/505-complete"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "36eb8ed1e1ac",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Ensorcelled Parchment",
+  "quest": "The Ensorcelled Parchment",
+  "en": "This parchment is enchanted with a spell, rendering it indecipherable. But one word at the top of the paper can be read:\n\n\n Nagaz",
+  "files": [
+   "quests/551-accept"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "a91c9685b8ae",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Loremaster Dibbs",
+  "quest": "The Ensorcelled Parchment",
+  "en": "More encrypted notes?\n\nI wish I had the talents to decrypt all the strange bits of writing that trickle down from Alterac. But I'm afraid I lack the knowledge.",
+  "files": [
+   "quests/551-complete"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "a0f6be4da1ed",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Melisara",
+  "quest": "The Grave Knight",
+  "en": "Within the underbelly of the mage city to the north is a traitor to our kind. A necromancer of disturbing talent. He raises an army of undeath right under the Kirin Tor's nose.\n\nI care not for the fate of the mage city, Adventurer, but this grave knight spits in the face of everything we Forsaken stand for. Put an end to him. Show him no one is beyond the reach of the Dark Lady.",
+  "files": [
+   "quests/96986-accept"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "21df48905a8e",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Henchman Valik",
+  "quest": "Valik",
+  "en": "Urrgh... Injured and dying and confronted with the enemy.\n\nNo doubt you'll kill me anyway, but if you bring me some Southshore stout--your kind does drink, don't they?--I'll tell you what you want to know.",
+  "files": [
+   "quests/535-accept"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "2a9883cbe92e",
+  "zone": "alterac-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Henchman Valik",
+  "quest": "Valik",
+  "en": "Given my impending death, I think I can safely say that this is the sweetest tasting thing ever... Here, take this, won't do me any good when I'm dead.\n\nWell, get on with it!",
+  "files": [
+   "quests/535-complete"
+  ],
+  "uiMap": 1416
+ }
+]

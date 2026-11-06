@@ -1,0 +1,730 @@
+[
+ {
+  "id": "e2afefb0b84b",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Caer Darrow Citizen",
+  "quest": null,
+  "en": "We're not really rude people, stranger, it's just that everyone is in a rush, trying to make sure that everything is perfect for Uther's arrival. It's not often that the Lightbringer comes to town.",
+  "files": [
+   "gossip/3fd0ad73fe861332551fc4d9af524377"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "43e11a634d2d",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Caer Darrow Citizen",
+  "quest": null,
+  "en": "Can't you see we're trying to prepare for Uther's visit? Now get out of my way, I have much work to do!",
+  "files": [
+   "gossip/4e2408ee8c09379d77525ec8b38e694d"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "d65ec1d3762d",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Caer Darrow Citizen",
+  "quest": null,
+  "en": "Another lovely day on our beautiful island.",
+  "files": [
+   "gossip/6ee2df979a0ec4486607c25f530d005f"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "78e0d2ddb4fc",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Caer Darrow Citizen",
+  "quest": null,
+  "en": "Welcome to Caer Darrow, stranger.",
+  "files": [
+   "gossip/7865da4630a47f9938f5a4dfce34dadf"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "76564271a56a",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Caer Darrow Citizen",
+  "quest": null,
+  "en": "Have you tried our bread? Baker Masterson must be the most gifted chef to have ever lived!",
+  "files": [
+   "gossip/f46f6654ac94eac82e2b0c3924d865e1"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "6201adc49dd1",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Caer Darrow Guardsman",
+  "quest": null,
+  "en": "There's no loitering, pan handling, cursing, fighting, or anything else you're thinking about doing, allowed in Caer Darrow.",
+  "files": [
+   "gossip/4c4f28300ec91dd44dcc6b9766779e5d"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "22794d882f37",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Caer Darrow Guardsman",
+  "quest": null,
+  "en": "I have a lot of pent up anger and hostility. Just give me a reason, guttersnipe.",
+  "files": [
+   "gossip/8aefd7ed4734fdad575f3aa8cabd868b"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "6e0e34db42c7",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Caer Darrow Guardsman",
+  "quest": null,
+  "en": "I've got my eye on you, traveler.",
+  "files": [
+   "gossip/98696987285136bfb07bf8b6b4ca71f2"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "c729d4780495",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Caer Darrow Guardsman",
+  "quest": null,
+  "en": "Watch your step, stranger. We do not allow miscreants in our town.",
+  "files": [
+   "gossip/a97a57480f28e32779349ee115d11474"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "3c2d46caee63",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Caer Darrow Guardsman",
+  "quest": null,
+  "en": "Why, you look like a common street urchin!",
+  "files": [
+   "gossip/f4a68005ee615866bd6901fa901730b9"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "76f9dc495c2d",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Call to Arms!",
+  "quest": null,
+  "en": "Jobs/Lost & Found/Wanted:",
+  "files": [
+   "gossip/324d50e454c68ca640804647cebfd92d"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "82a0b0264451",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Moonstrike",
+  "quest": null,
+  "en": "Elder Highpeak watches over the Hinterlands from a hill near its center.",
+  "files": [
+   "gossip/2442baa23cfc45cead0b408ae7992b9a"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "fb1b72e295c0",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Moonstrike",
+  "quest": null,
+  "en": "Elder Darkcore can be found in the Undercity.",
+  "files": [
+   "gossip/30a10dc53a50189c2a59b595f06e14cc"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "8bcbcc12c19d",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Moonstrike",
+  "quest": null,
+  "en": "Elder Windrun resides in the Crown Guard Tower in the Eastern Plaguelands.",
+  "files": [
+   "gossip/6fee5f9b81e6b858699215b17cbd21e4"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "28b93b217a45",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Moonstrike",
+  "quest": null,
+  "en": "Elder Snowcrown can be found in Light's Hope Chapel in the Eastern Plaguelands.",
+  "files": [
+   "gossip/9e165fd457fe0c8e45ebf93d209c6a8b"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "90beabaace8c",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Moonstrike",
+  "quest": null,
+  "en": "Elder Graveborn spends time near Brill in Tirisfal Glades.",
+  "files": [
+   "gossip/a16a47bc57987bc22dbd339bb48b4ad0"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "4beff34eb9e8",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Moonstrike",
+  "quest": null,
+  "en": "I last saw Elder Meadowrun at the Weeping Cave in the Western Plaguelands.",
+  "files": [
+   "gossip/bd0c01ad43796bf646589a2e59a56994"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "eab8adcd88dd",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Moonstrike",
+  "quest": null,
+  "en": "Elder Obsidian wanders near the Sepulcher in Silverpine Forest.",
+  "files": [
+   "gossip/eb3c261a1bda981ca64d825f051cd714"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "d5470207eac1",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Starsong",
+  "quest": null,
+  "en": "The stars of this time are bent on new paths, beacons of hope and strength for the coming ages.",
+  "files": [
+   "gossip/6c0be888c9404ce3e49df8fd7dbb1bba"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "750a4297620e",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Eva Sarkhoff",
+  "quest": null,
+  "en": "We did this for about six months and watched as the house went through horrifying changes. Foul monsters roamed through the manor at will. Dark cultists populated every inch with various paraphernalia relating to rituals and sacrifices. We knew that we could not hide much longer.\n\nAs expected, we were found and captured. They stripped us of all our clothes and laid us out inside a circle of blood. We sat there for days, naked and terrified.",
+  "files": [
+   "gossip/70ebec19d6bac1a72ab166bf72b88a89"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "16eabe8c3ae8",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Eva Sarkhoff",
+  "quest": null,
+  "en": "We finally understood what the screams were from. The Butcher exposed us to pain that we did not know existed. He used us in countless experiments, attempting to devise a plague.\n\nThe days turned to weeks. We would have died on the first day had it not been for that cruel bastard keeping us alive through magical means.",
+  "files": [
+   "gossip/8a7ceb21fd9d2dc97d7ae354831bff4d"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "b7f0119761d9",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Eva Sarkhoff",
+  "quest": null,
+  "en": "The Butcher would speak of 'the blood of innocents,' and his dark master, 'Kirtonos.' Of how he must appease his master.\n\nFinally, the beast was done with his experiments. We had been drained of all life. Our spirits shattered. The sweet embrace of death was upon us and we welcomed it with open arms. But in his infinite cruelty, the Butcher revived us from death's door.\n\nWe were to be kept alive and thrown to his ravenous ghouls. He laughed as he watched the fiends devour our flesh.",
+  "files": [
+   "gossip/a7270f1782361fe639b53192b48d3021"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "4c19842a4166",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Eva Sarkhoff",
+  "quest": null,
+  "en": "And go where? It was all that we knew; all that we had known and all that we would ever know.\n\nEventually, we lost contact with the Barovs and ultimately, were separated from the household. We knew not what happened to the other servants, only that there were screams. Tortured screams.\n\nKnowing that we had nowhere to go, Lucien and I were forced to hide in our quarters. During the day, when the school was relatively quiet, Lucien would sneak out to scrounge up food and drink.",
+  "files": [
+   "gossip/b065b568de2e8281a8a07ba46fb7e67a"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "f77eac775c58",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Eva Sarkhoff",
+  "quest": null,
+  "en": "We suspect that in order to preserve their fortune and hold of the land - well past their lifespan - the Barovs made a deal with a powerful human mage named Kel'Thuzad.\n\n\nFrom this deal sprang the school of necromancy: A place which bore the Cult of the Damned and would become their capital.\n\nAs each week passed, the house Barov became more and more decrepit...\n\nDark beings began to take residence in the various wings of the house. Upkeep became impossible... and disgusting.",
+  "files": [
+   "gossip/c5cf5c7edf079b63f339d577611fcc5e"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "de8e26d5a9d4",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Eva Sarkhoff",
+  "quest": null,
+  "en": "We feel nothing. Our souls remain here, in limbo. We are unable to leave until our remains are found and spirits laid to rest.",
+  "files": [
+   "gossip/edc58a5c1c56476d66c018d555211d77"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "b1a03719f2f1",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Eva Sarkhoff",
+  "quest": null,
+  "en": "Restraints? There are things in this world far more restraining than bars and shackles, young master. The undead surrounded us, constantly tormenting us with horrifying acts of depravity.\n\nFinally, he came. He introduced himself as Doctor Theolen Krastinov. We came to know him as 'The Butcher.'",
+  "files": [
+   "gossip/m-69e44cddca5438e4e1af0254c4b88beb"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "59bc415b2299",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Eva Sarkhoff",
+  "quest": null,
+  "en": "Hello young Master. I am Eva Sarkhoff and this is my husband, Lucien. It is a pleasure to make your acquaintance.",
+  "files": [
+   "gossip/m-719242cbbf2aa59d701d86713c8c3252"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "b586aca51e87",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Eva Sarkhoff",
+  "quest": null,
+  "en": "Oh it's just so horrible, sir. The house Barov was once full of life... full of splendor. The manor was the Barov's primary residence amidst their far reaching empire.\n\nLucien and I noticed that as the days progressed, the Barovs became depressed. Despondent. Paranoia and rage often overcame the master and missus. At night, we could hear the Barovs arguing in their chambers. From what we understood, their greed had 'broken the dam,' so to speak.",
+  "files": [
+   "gossip/m-af8171848b9bed576fbbef9cbc14cfea"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "7caa0355e33f",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gorkas",
+  "quest": null,
+  "en": "I'm going to stay here until I catch a 68 Pound Grouper! You on the other hand want to fly off somewhere, am I right?",
+  "files": [
+   "gossip/618fd179dc62675047c361ba163020cb"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "534ec39302ae",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gorkas",
+  "quest": null,
+  "en": "Can't you see I'm fishing here!",
+  "files": [
+   "gossip/6d360eae76ce9d8dd443dda348dde45e"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "b8fc4ea8945b",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gorkas",
+  "quest": null,
+  "en": "What can I do for you adventurer?",
+  "files": [
+   "gossip/8954aa5e093a20511ce5bc5c69380aac"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "d4ee389109d0",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gorkas",
+  "quest": null,
+  "en": "You scared the fish away! What do you want?",
+  "files": [
+   "gossip/fdcd1e64bf065be3a6c23042d93a5b68"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "59e5c52aa007",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Huntsman Markhor",
+  "quest": null,
+  "en": "Zul'jin shall return one day, traveler. Mark my words. Until then, we all hold our positions and do what we can to keep the forest troll population intact.\n\nWith that said, as master huntsman of Revantusk Village, it is my responsibility to insure that the world around us is safe for habitation.\n\nThe beasts of this area must be kept in check.\n\nAre you looking for work?",
+  "files": [
+   "gossip/a045bbb3ca0c9722e39090c24a9c5d87"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "fdc446e79241",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Joseph Dirte",
+  "quest": null,
+  "en": "The Barov house sure does keep me busy. Always some sort of refuse coming out of there.",
+  "files": [
+   "gossip/03a7c357a0ab51cdaf720c6be5d6d491"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "47a4dfdd4e70",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Joseph Dirte",
+  "quest": null,
+  "en": "My job title is Waste Management Specialist.",
+  "files": [
+   "gossip/a7ed0b69c3f96a8b2db61ded1d58a42b"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "c27616c4713e",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Joseph Dirte",
+  "quest": null,
+  "en": "Perhaps you should speak into these sound enhancing devices attached to my FISTS OF FURY.",
+  "files": [
+   "gossip/cbac7251f7cadd2e49d055da41a352e5"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "70bf2f2fd689",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Joseph Dirte",
+  "quest": null,
+  "en": "Ah, my sweet Brandy, I miss her so!",
+  "files": [
+   "gossip/d0de32a7070d9141f53ed58970f3f5f2"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "0245210238fb",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Katoom the Angler",
+  "quest": null,
+  "en": "Fishing is just so pleasant, mon. You know? I owe my state of bliss to my mentor, the greatest angler in the whole world - Nat Pagle. Have you heard of him, mon?\n\nIf you be looking for enlightenment, Nat Pagle be the one who gonna show you the way.",
+  "files": [
+   "gossip/3972c43d4381083fbd6f3734c680f4f3"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "857e2c00a823",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Marduke",
+  "quest": null,
+  "en": "Slow down, traveler. The one you need to kill is already dead. Killing him again will serve no purpose. There are very few ways in which a lich can actually be destroyed and none of those means are available to you or I. That is why I have a plan. A plan that will have a very noticeable and real impact upon the Cult.",
+  "files": [
+   "gossip/3654a5858970316abe17dd3eeaa6ad6f"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "c16382e83faa",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Marduke",
+  "quest": null,
+  "en": "And find it he did. After quickly advancing through the ranks of the Cult, the Lich King himself granted Ras immortality. Thus was born Ras Frostwhisper, the lich.\n\nNow do you understand?",
+  "files": [
+   "gossip/3f405996544104f75a50b759d3498828"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "6bdec0735534",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Marduke",
+  "quest": null,
+  "en": "Ah, I suppose that I am getting ahead of myself. Ras Frostwhisper is the overseer of this school. The being responsible for training all of its Dark Masters. A lieutenant and favored pupil of Kel'Thuzad. He was once a hedge mage of Stromgarde: A rogue wizard that never received his formal training from Dalaran.\n\nWhen Kel'Thuzad opened the Cult, Ras was among the first to join his ranks. Ras knew that through dark magic, he would find immortality.",
+  "files": [
+   "gossip/51cb986edcfa270e6cc5822e28aea6d5"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "87205e1e06df",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Marduke",
+  "quest": null,
+  "en": "The Cult of the Damned has grown large in scope. Nearly every city, from the capitals to the small hamlets and hovels of both the Horde and Alliance, have Cult members hidden amongst their citizenry.\n\nDo not look so surprised. The Cult only wears a uniform for ritual and ceremony. It is quite possible that you have interacted with one during your adventures and not even known.",
+  "files": [
+   "gossip/5531b0711b11aa45460840d0d2c1ab10"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "f301d87f48d6",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Marduke",
+  "quest": null,
+  "en": "It's simple, really. Rob the lich, Ras Frostwhisper, of his powers. Return him to his mortal form and then slay him, once and for all.",
+  "files": [
+   "gossip/5ccab19ac455820f916fd02a08fcb67c"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "ea24de0b5230",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Marduke",
+  "quest": null,
+  "en": "Some were spared the anguish that memories provide.",
+  "files": [
+   "gossip/617c23db3203cf0d7bf17c56cc4f725a"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "01eef11461c5",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Marduke",
+  "quest": null,
+  "en": "Is it? This has always been their method of operation. What is of greater value to Kel'Thuzad and the ever growing Scourge army? A zealous, living, follower that can work their way into a society and then unleash a plague, destroying thousands; or a single undead trooper? Certainly you cannot be that dense\n\nYes, traveler, they live, work, and plot among you.",
+  "files": [
+   "gossip/6ac3dfebce6f1d216515255cab46fcf0"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "f00eba953f1a",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Marduke",
+  "quest": null,
+  "en": "Stop - no. Slow down - maybe.\n\nThe Scholomance is their primary source of training and education. It is from there that the Cult members fan out and ultimately, make their way into our societies.\n\nThat is why we must strike at the source. The very heart of the Cult of the Damned!",
+  "files": [
+   "gossip/7bea42e5121470dc3f74c222342d2d9d"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "f965dd0ee506",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Marduke",
+  "quest": null,
+  "en": "Good. In order to carry out my plan, we must first create a lifestone. Are you prepared to act?",
+  "files": [
+   "gossip/860337aafa61acb9bf89d39d7d7e5df9"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "68f0a46b7c69",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Mystic Yayo'jin",
+  "quest": null,
+  "en": "Mystical goods and commodities is my business, stranger.",
+  "files": [
+   "gossip/bb2054685b1a042e53a7a2362476274c"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "2cdfb3f8ec34",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Otho Moji'ko",
+  "quest": null,
+  "en": "I've got all the cooking supplies you'll ever need, mon!",
+  "files": [
+   "gossip/c7327c44d6426ff5c6df14952cdcd98e"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "0341ae9ec4b4",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Primal Torntusk",
+  "quest": null,
+  "en": "Welcome to Revantusk Village, stranger. I am Primal Torntusk, leader of the Revantusk trolls.",
+  "files": [
+   "gossip/b92a5565a1763e2abf60f5aa437da0c0"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "6d9f3e36c308",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Rory",
+  "quest": null,
+  "en": "They don't realize that they're dead, traveler. They are cursed to relive the last memory they had before the town was eaten alive from the inside out. Most of them, anyway. Some were less fortunate.\n\nYou thought the Scourge did this? The Scourge did not yet exist and if they had, we would have at least put up a damned fight.\n\nNo, this was the result of a plague that came out of Scholomance and ravaged the town. It was horrifying and devastating. None survived.\n\nNow leave me to my sorrows.",
+  "files": [
+   "gossip/313febb63dee5a7c62e6bd14ad042eb5"
+  ],
+  "uiMap": 1425
+ },
+ {
+  "id": "5b7e9bd09d29",
+  "zone": "the-hinterlands-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Smith Slagtree",
+  "quest": null,
+  "en": "If it's broke, Slagtree can fix it!",
+  "files": [
+   "gossip/51031711691097d768356cfcd57947ae"
+  ],
+  "uiMap": 1425
+ }
+]

@@ -1,0 +1,2711 @@
+[
+ {
+  "id": "e0d4884de387",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bluff Runner Windstrider",
+  "quest": "A Call to Arms: The Plaguelands!",
+  "en": "Heroes of the realm, hear me - the Horde calls upon you for swift action!\n\nA call to arms has been issued for all able bodied individuals to take up arms against the Scourge! Rumors fly of new threats rising from the ruins of the Eastern Kingdoms. They loom to the east of the Undercity, in the northern reaches of the lands now known as the Plaguelands!\n\nHeroes of the realm - seek out High Executor Derrington, who has set up his base camp at the Bulwark, east of Tirisfal Glades!",
+  "files": [
+   "quests/5095-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "04b73bf59d04",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Harbinger Balthazad",
+  "quest": "A Call to Arms: The Plaguelands!",
+  "en": "Heroes of the realm, hear me - the Horde calls upon you for swift action!\n\nA call to arms has been issued for all able bodied individuals to take up arms against the Scourge! Rumors fly of new threats rising from the ruins of the Eastern Kingdoms. They loom to the east of the Undercity, in the northern reaches of the lands now known as the Plaguelands!\n\nHeroes of the realm - seek out High Executor Derrington, who has set up his base camp at the Bulwark, east of Tirisfal Glade!",
+  "files": [
+   "quests/5094-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "97194f07eea4",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "High Executor Derrington",
+  "quest": "A Call to Arms: The Plaguelands!",
+  "en": "Welcome to the Plaguelands, hero. This is one of the most dangerous frontiers in Azeroth, with the looming threat of the Scourge to our east, and then even further still eastward from there. I am glad to hear that the call of duty and service to the Horde did not fall on deaf ears with you!\n\nIf you are ready to get your hands dirty, then there is plenty for willing and able heroes to do here on the edge of the Plaguelands.",
+  "files": [
+   "quests/5093-complete",
+   "quests/5094-complete",
+   "quests/5095-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "acd50491c65b",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warcaller Gorlach",
+  "quest": "A Call to Arms: The Plaguelands!",
+  "en": "Heroes of the realm, hear me - the Horde calls upon you for swift action!\n\nA call to arms has been issued for all able bodied individuals to take up arms against the Scourge! Rumors fly of new threats rising from the ruins of the Eastern Kingdoms. They loom to the east of the Undercity, in the northern reaches of the lands now known as the Plaguelands!\n\nHeroes of the realm - seek out High Executor Derrington, who has set up his base camp at the Bulwark, east of Tirisfal Glade!",
+  "files": [
+   "quests/5093-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "c19835ef3e3a",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Chromie",
+  "quest": "A Matter of Time",
+  "en": "Tampering of the timeline by a sinister force - most likely the Scourge - has occurred in Andorhal! I can try to keep the passage of time here intact and mend what has been damaged, but I'll need your help to do so uninterrupted.\n\nTemporal parasites - carrion that feed on the strands of time's altered flow - now infest the silos of Andorhal. A blue pulse of distortion is their only visual marker. They slow my auguries; please Adventurer, help me by using this temporal displacer to root out these parasites.",
+  "files": [
+   "quests/4971-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "4d8fc74b7e5c",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Chromie",
+  "quest": "A Matter of Time",
+  "en": "Time feels easier to mend now, thank you Adventurer. While you might not understand fully the consequences of a fractured timeline, I appreciate that you understand the urgency of countering what I suspect more and more to be a Scourge-driven malfeasance.\n\nI see no harm in rewarding you for your assistance, mortal. Your greatest feats are to come, and the awarding of a bauble will certainly not alter your future destiny. Your continued aid, however, is something that I and the dragonflight could use...",
+  "files": [
+   "quests/4971-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "8b2a950613e8",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Mickey Levine",
+  "quest": "A Plague Upon Thee",
+  "en": "Thank you, Adventurer. Here, take this coin. I'm sorry it's not more, but try to take some joy in helping destroy the Scarlet Crusade's efforts!",
+  "files": [
+   "quests/6390-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "db07e0cd6dbd",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Nathaniel Dumah",
+  "quest": "A Plague Upon Thee",
+  "en": "I've tried many times to rout out the Scarlet Crusade through force alone, but to no avail. So, as an alternative, I've decided to make their lives more difficult.\n\nIf you are willing to help, I want to infest that lumber mill with the most terrible species of termites ever found.\n\nIn Plaguewood, near the once-great Stratholme, there is a breed that survived the plague and the Scourge combined. Find their mounds and fill this jar with them, so we can prepare them to be unleashed on the Crusade.",
+  "files": [
+   "quests/5903-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "e449fae12915",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Nathaniel Dumah",
+  "quest": "A Plague Upon Thee",
+  "en": "These will do nicely, Adventurer. Thank you. Just look at them... so many of them all huddled up. I almost feel bad for the Crusade, but then again, it was never their mill to take, now, was it?",
+  "files": [
+   "quests/5903-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "ab3daba674ba",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Nathaniel Dumah",
+  "quest": "A Plague Upon Thee",
+  "en": "Now that we have the termites, take this steel reinforced barrel to the Northridge Lumber Mill south of Hearthglen--you'll find it to the west of the road that leads you up to the town.\n\nOnce there, place the barrel in the center of the lumber mill; find someplace suitable, like on a crate and then open it. The termites should do their work from there and make the mill useless to the Crusade.",
+  "files": [
+   "quests/5904-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "5d04e821d23b",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Nathaniel Dumah",
+  "quest": "A Plague Upon Thee",
+  "en": "Haha! Thank you, Adventurer! You've done it! My father's spirit can now rest and I can live in peace.\n\nThank you again. If there is anything I can do for you, please, just ask.",
+  "files": [
+   "quests/6389-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "d243b917bdf4",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Termite Barrel",
+  "quest": "A Plague Upon Thee",
+  "en": "You look around the lumber mill for something suitable to open the barrel with. You find a crowbar that looks like it will do the trick.\n\nYou set your feet and pray that you'll be able to get out of the mill before the termites get to you.",
+  "files": [
+   "quests/6389-accept",
+   "quests/6390-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "4833711770bc",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Ashlam Valorfist",
+  "quest": "Alas, Andorhal",
+  "en": "Alas, the time to attack Andorhal and drive out the lich that controls it is upon us!\n\nYou may have noticed a summoning crystal inside the watchtowers you marked. We believe these feed the lich power needed to dominate the city. You must take down all four of them; destroying one will no doubt summon more of the lich's troops. If all four are down, the lich itself should arise to defend the heart of the city.\n\nDestroy the lich, Adventurer, and bring me a shard from its phylactery as proof!",
+  "files": [
+   "quests/211-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "fdeec3160b17",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Ashlam Valorfist",
+  "quest": "Alas, Andorhal",
+  "en": "Alas, the time to attack Andorhal and drive out the lich that controls it is upon us!\n\nInside the ruins of the city is where the lich - Araj the Summoner - holds dominion. He is guarded by numerous Scourge surrounding the remains of city's center, and his personal retinue of guardians attached to him directly is formidable. You will need numerous allies to even stand a chance of facing him successfully.\n\nDestroy Araj, Adventurer, and bring me a shard from his phylactery as proof!",
+  "files": [
+   "quests/211-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "2022d7c9b51e",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Ashlam Valorfist",
+  "quest": "Alas, Andorhal",
+  "en": "You've done it! Araj... the lich is finally defeated!\n\nYou've done a tremendous service to the Alliance on this day, Adventurer. Your bravery and perseverance are a testament to what it means to be a true hero. Please - accept this as a token for all to see and know that you have delivered the Alliance a victory for the ages!",
+  "files": [
+   "quests/211-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "2836f65c3e33",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "High Executor Derrington",
+  "quest": "Alas, Andorhal",
+  "en": "Alas, the time to attack Andorhal and drive out the lich that controls it is upon us!\n\nYou may have noticed a summoning crystal inside the watchtowers you marked. We believe these feed the lich power needed to dominate the city. You must take down all four of them; destroying one will no doubt summon more of the lich's troops. If all four are down, the lich itself should arise to defend the heart of the city.\n\nDestroy the lich, Adventurer, and bring me a shard from its phylactery as proof!",
+  "files": [
+   "quests/105-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "911c93abe183",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "High Executor Derrington",
+  "quest": "Alas, Andorhal",
+  "en": "Alas, the time to attack Andorhal and drive out the lich that controls it is upon us!\n\nInside the ruins of the city is where the lich - Araj the Summoner - holds dominion. He is guarded by numerous Scourge surrounding the remains of city's center, and his personal retinue of guardians attached to him directly is formidable. You will need numerous allies to even stand a chance of facing him successfully.\n\nDestroy Araj, Adventurer, and bring me a shard from his phylactery as proof!",
+  "files": [
+   "quests/105-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "e319568e4090",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "High Executor Derrington",
+  "quest": "Alas, Andorhal",
+  "en": "You've done it! Araj... the lich is finally defeated!\n\nYou've done a tremendous service to the Horde on this day, Adventurer. Your bravery and perseverance are a testament to what it means to be a true hero. Please - accept this as a token for all to see and know that you have delivered the Horde a victory for the ages!",
+  "files": [
+   "quests/105-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "df76a66140d2",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Ashlam Valorfist",
+  "quest": "All Along the Watchtowers",
+  "en": "Through the use of a magical device known as a beacon torch, we can mark targets of our choosing for future actions by our troops. To that end, we think the Scourge are using Andorhal's watchtowers as a means to control their troop movements.\n\nYour mission: breach Andorhal's defenses to plant beacons at all four watchtowers. You'll need to be in the doorway of each tower to plant the beacon; it will then proceed to mark the tower. There are only five charges on the beacon torch, so use them wisely!",
+  "files": [
+   "quests/5097-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "d135c4f6a6fc",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Ashlam Valorfist",
+  "quest": "All Along the Watchtowers",
+  "en": "My priests are reporting that our beacon trackers are picking up extremely strong signals on all four towers! Dare I say it, but I believe you've executed another mission with complete and total success! Well played once again, Adventurer!\n\nWith the towers marked, our preparations for the attack are now in place. The time has come to take the fight to the Scourge!",
+  "files": [
+   "quests/5097-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "aef1d303325e",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "High Executor Derrington",
+  "quest": "All Along the Watchtowers",
+  "en": "Through the use of a magical device known as a beacon torch, we can mark targets of our choosing for future actions by our troops. To that end, we think the Scourge are using Andorhal's watchtowers as a means to control their troop movements.\n\nYour mission: breach Andorhal's defenses to plant beacons at all four watchtowers. You'll need to be in the doorway of each tower to plant the beacon; it will then proceed to mark the tower. There are only five charges on the beacon torch, so use them wisely!",
+  "files": [
+   "quests/5098-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "7ef44075f484",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "High Executor Derrington",
+  "quest": "All Along the Watchtowers",
+  "en": "My warlocks are reporting that our beacon trackers are picking up extremely strong signals on all four towers! You've executed my orders with the skill and precision of a seasoned veteran. Your service to the Horde is duly noted once more, Adventurer!\n\nWith the towers marked, our preparations for the attack are now in place. The time has come to take the fight to the Scourge!",
+  "files": [
+   "quests/5098-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "63be5920ab23",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Arbington",
+  "quest": "Araj's Scarab",
+  "en": "The solution is ready in my cauldron. It's just the matter of treating both the unfinished key and the scarab.",
+  "files": [
+   "followup/7278-human-male-standard"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "85164cfd73a4",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Arbington",
+  "quest": "Araj's Scarab",
+  "en": "It's done adventurer, and I think you'll be satisfied with the results.",
+  "files": [
+   "followup/7279-human-male-standard"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "6b8426c8cefb",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Arbington",
+  "quest": "Araj's Scarab",
+  "en": "Araj the Summoner lords over Andorhal from an obfuscated vantage. We know that he was the former leader of Scholomance before claiming the city as his own. To finish the key, we will need his signet - called a scarab - mounted as the head of the key.\n\nIn the city are four summoning crystals, one in each tower you marked for us previously. Destroy all four crystals and break his hold on the city, drawing him into the open. Once destroyed, seize his scarab from his fallen phylactery!",
+  "files": [
+   "quests/5803-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "e069e104e405",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Arbington",
+  "quest": "Araj's Scarab",
+  "en": "Araj the Summoner lords over Andorhal from the ruined city's heart. We know that he was the former leader of Scholomance before claiming the city as his own. To finish the key, we will need his signet - called a scarab - mounted as the head of the key.\n\nMake your way into the heart of Andorhal, and break his hold on the city now that he is drawn into the open. Once destroyed, seize his scarab from his fallen phylactery!\n\nThe Key to Scholomance awaits, Adventurer!",
+  "files": [
+   "quests/5803-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "39d5e4485c89",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Arbington",
+  "quest": "Araj's Scarab",
+  "en": "Yes, this is it! I... again, I'm absolutely amazed at the depths of your heroism. It simply boggles the mind the lengths you are willing to go to achieve victory over the forces of darkness.\n\nAllow me now to play my small part in this. I've prepared a special solvent that should allow me to secure the scarab on as the head of the key, infusing it with the power to breach the locked door of Scholomance.\n\nHere goes nothing...",
+  "files": [
+   "quests/5803-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "a0bd168ea3d4",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Dithers",
+  "quest": "Araj's Scarab",
+  "en": "The solution is ready in my cauldron. It's just the matter of treating both the unfinished key and the scarab.",
+  "files": [
+   "followup/7278-scourge-male-dark"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "58294ec789f9",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Dithers",
+  "quest": "Araj's Scarab",
+  "en": "It's done adventurer, and I think you'll be satisfied with the results.",
+  "files": [
+   "followup/7279-scourge-male-dark"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "0fea23cbfe4d",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Dithers",
+  "quest": "Araj's Scarab",
+  "en": "Araj the Summoner lords over Andorhal from an obfuscated vantage. We know that he was the former leader of Scholomance before claiming the city as his own. To finish the key, we will need his signet - called a scarab - mounted as the head of the key.\n\nIn the city are four summoning crystals, one in each tower you marked for us previously. Destroy all four crystals and break his hold on the city, drawing him into the open. Once destroyed, seize his scarab from his fallen phylactery!",
+  "files": [
+   "quests/5804-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "89af4925355e",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Dithers",
+  "quest": "Araj's Scarab",
+  "en": "Araj the Summoner lords over Andorhal from the ruined city's heart. We know that he was the former leader of Scholomance before claiming the city as his own. To finish the key, we will need his signet - called a scarab - mounted as the head of the key.\n\nMake your way into the heart of Andorhal, and break his hold on the city now that he is drawn into the open. Once destroyed, seize his scarab from his fallen phylactery!\n\nThe Key to Scholomance awaits, Adventurer!",
+  "files": [
+   "quests/5804-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "b0e5d86c4afa",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Dithers",
+  "quest": "Araj's Scarab",
+  "en": "Yes, this is it! I... again, I'm absolutely amazed at the depths of your cunning and bravery. It simply boggles the mind the lengths you are willing to go in order achieve victory.\n\nAllow me now to play my small part in this. I've prepared a special solvent that should allow me to secure the scarab on as the head of the key, infusing it with the power to breech the locked door of Scholomance.\n\nThis should take just a moment...",
+  "files": [
+   "quests/5804-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "41c5183f06a2",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Argent Officer Garush",
+  "quest": "Argent Dawn Commission",
+  "en": "All who fight evil on behalf of the Argent Dawn must don our commission. Wearing such will earn your right to claim rewards our quartermasters have to offer.\n\nWhile under commission, you'll be able to acquire Scourgestones from slain Scourge; these are marks of insignia that they sometimes possess. Procure these insignia and bring them to me. For each set you turn in, you will receive our marker of heroism - the Argent Dawn Valor Token.\n\nAchieve your destiny, adventurer - join the fight today!",
+  "files": [
+   "quests/5405-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "cebc1c51a100",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Argent Officer Pureheart",
+  "quest": "Argent Dawn Commission",
+  "en": "All who fight evil on behalf of the Argent Dawn must don our commission. Wearing such will earn your right to claim rewards our quartermasters have to offer.\n\nWhile under commission, you'll be able to acquire Scourgestones from slain Scourge; these are marks of insignia that they sometimes possess. Procure these insignia and bring them to me. For each set you turn in, you will receive our marker of heroism - the Argent Dawn Valor Token.\n\nAchieve your destiny, adventurer - join the fight today!",
+  "files": [
+   "quests/5401-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "e01295381652",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Alexi Barov",
+  "quest": "Barov Family Fortune",
+  "en": "The deeds are mine, brother! Soon you shall be out of my way for good!",
+  "files": [
+   "followup/6554-scourge-male-standard"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "71c14696f5eb",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Alexi Barov",
+  "quest": "Barov Family Fortune",
+  "en": "Within the Scholomance lays the Barov family fortune. I, Alexi Barov, am one of the last two remaining heirs of the house Barov. My brother, Weldon, is the other.\n\nWeldon, the miserable coward, fled during the war and thus retained his worthless existence as a human.\n\nHe now searches for the deeds so that he may claim the fortune for his own. Recover the deeds before my brother does and I shall make you wealthy beyond your wildest dreams!",
+  "files": [
+   "quests/5341-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "8de304fc2d97",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Alexi Barov",
+  "quest": "Barov Family Fortune",
+  "en": "Excellent work, traveler. Now to secure my inheritance...",
+  "files": [
+   "quests/5341-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "5bdd655c915f",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Weldon Barov",
+  "quest": "Barov Family Fortune",
+  "en": "The fortune is mine, Alexi! Your end comes soon!",
+  "files": [
+   "followup/6555-human-male-official"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "4b6b408aa676",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Weldon Barov",
+  "quest": "Barov Family Fortune",
+  "en": "My dear brother Alexi. What a fool I was to spare his life. I looked into the face of the enemy, one of the undead, and let him live.\n\n\nHe now searches for MY inheritance. This simply cannot happen.\n\nFind my family's deeds before that vile retch gets his boney hands upon them and I shall reward you with vast riches. They lay in the ruins of the Scholomance. Make haste!",
+  "files": [
+   "quests/5343-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "6ca1684754f3",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Weldon Barov",
+  "quest": "Barov Family Fortune",
+  "en": "There is but one more task that I must ask of you, Adventurer.",
+  "files": [
+   "quests/5343-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "b34317f687b9",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Betina Bigglezink",
+  "quest": "Betina Bigglezink",
+  "en": "There they are! And in such a nice container. The perfect size!\n\nWe'll keep these eggs in a safe place so we can study them later, but right now we need that thing you brought them in.\n\nI have created a device with a very specific use: to destroy the undead scholars of the Scholomance. They are studying dragons in their efforts to create a plagued dragonflight, and we must halt their progress.\n\nI call the device Dawn's Gambit, because... I'm not sure if it works!\n\nWill you find out for us?",
+  "files": [
+   "quests/5531-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "3d2367810989",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Leonid Barthalomew the Revered",
+  "quest": "Betina Bigglezink",
+  "en": "The eggs you brought were to be used in Scourge experiments to create a plagued dragonflight. These frozen black dragon eggs would have been invaluable in their studies, and would have assuredly quickened their timetable.\n\nNow, it is time we ended their research.\n\nTake the frozen eggs to Betina Bigglezink outside. She is well-learned in science and alchemy, and has produced a weapon we can use against the Scourge. With your help, we will deal them a heavy blow.",
+  "files": [
+   "quests/5531-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "61d1274fd452",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Janice Felstone",
+  "quest": "Better Late Than Never",
+  "en": "\"The package must be delivered... delivered before I'm trapped here!\"\n\nThe cries of a panicked woman feel almost like a whisper floating through the house. Cowered in the upstairs corner is the apparition of a woman. She does not seem to be fully cognizant of her surroundings, and she is only vaguely aware of you.\n\n\"Are you here to deliver my package? Please, before it gets much worse! I was going to ride out of here. It should still be by my horse... or am I too late?\"",
+  "files": [
+   "quests/5021-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "3c64b768784e",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Janice's Parcel",
+  "quest": "Better Late Than Never",
+  "en": "A package in the barn that you might have otherwise overlooked now stands out amongst the decay and ruin. Perhaps this is the one that the ghost of Janice Felstone was clamoring about...",
+  "files": [
+   "quests/5021-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "c005ca7dabd2",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Janice's Parcel",
+  "quest": "Better Late Than Never",
+  "en": "You pick up the package, wiping off a small layer of dust and grime that had settled on it. It is addressed in a hurried hand to an Emma Felstone of Stormwind; the delivery of the package is dated for well over four years ago.\n\nThough it is unclear if Emma Felstone is even alive, it is widely known that the Stormwind City Hall keep records on the populace of the city. This is handled through the Royal Factors of the Stormwind Census.",
+  "files": [
+   "quests/5022-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "f12b2232a292",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Janice's Parcel",
+  "quest": "Better Late Than Never",
+  "en": "You pick up the package, wiping off a small layer of dust and grime that had settled on it. It is addressed in a hurried hand to a Jeremiah Felstone of Lordaeron; the delivery of the package is dated for well over four years ago.\n\nThough it is unclear if Jeremiah Felstone is even alive, it is widely known that the Undercity, formerly known as Lordaeron, keeps records on the populace of the city. This is handled through the Royal Overseers of the Undercity Census.",
+  "files": [
+   "quests/5023-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "02e4d8bac430",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Royal Factor Bathrilor",
+  "quest": "Better Late Than Never",
+  "en": "A package for an Emma Felstone, you say? Last known address was Stormwind, four years ago? Well let me see here...\n\nAccording to what we know, there was an Emma Felstone in the city about four years ago. Well, I should say possibly - this census I refer to is from five years ago, and I don't have a report of her vacating the city. This doesn't mean that she is still here though.\n\nWait a second... this package couldn't be for Ol' Emma, could it?",
+  "files": [
+   "quests/5022-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "1bf41bb40dd1",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Royal Overseer Bauhaus",
+  "quest": "Better Late Than Never",
+  "en": "A package for a Jeremiah Felstone, with his last known address as Lordaeron... I should be able to assist you.\n\nJeremiah Felstone was in the city before the plague. Well, I should say the former Jeremiah Felstone - some of the Forsaken have changed their last names to rid themselves of their former countenance. This case is no exception; the former Jeremiah Felstone is now known as Jeremiah Payson.\n\nWait a minute... isn't he the cockroach vendor?",
+  "files": [
+   "quests/5023-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "f41d879678f8",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Catalogue of the Wayward",
+  "quest": "Breastplate of the Chromatic Flight",
+  "en": "The forging of a powerful breastplate to protect against the unrelenting attacks of the chromatic flight is one built upon irony.\n\nThe scales of the very beasts we battle must be sewn to the pristine carapace of an elder chromatic drake or dragon. None are known to exist at this time and we should hope that none will ever exist.\n\nLastly, perhaps the most difficult of all components: the blood of heroes.\n\nThe Sculptor must ultimately forge this creation.",
+  "files": [
+   "quests/5166-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "fdf30589b7c6",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Catalogue of the Wayward",
+  "quest": "Catalogue of the Wayward",
+  "en": "Hundreds upon hundreds of pages filled with garbled text and symbols make up the brunt of this book.",
+  "files": [
+   "quests/5164-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "6545671c02d5",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Argent Quartermaster Hasana",
+  "quest": "Chromatic Mantle of the Dawn",
+  "en": "Most impressive, Adventurer - the Chromatic Mantle of the Dawn is now yours!\n\nAs long as you maintain Exalted status with the Argent Dawn, you will be able to purchase additional Chromatic Mantles. They will be made available to you immediately from any of the Dawn's quartermasters.",
+  "files": [
+   "quests/5524-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "2318e45f2c74",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Argent Quartermaster Hasana",
+  "quest": "Chromatic Mantle of the Dawn",
+  "en": "Brother Adventurer - your deeds on behalf of the Argent Dawn are far too numerous to be recounted easily. As a fitting tribute, I'll part with one of our special Chromatic Mantles of the Dawn - a version that protects the wearer from all forms of resistible magic simultaneously. Chromatic Mantles of the Dawn are reserved for only the mightiest of the Dawn's heroes!\n\nBring to me twenty-five valor tokens as a sign of tribute, and I'll give you the finest of all our mantles.",
+  "files": [
+   "quests/m-5524-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "8c27bc422659",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Argent Quartermaster Lightspark",
+  "quest": "Chromatic Mantle of the Dawn",
+  "en": "Most impressive, Adventurer - the Chromatic Mantle of the Dawn is now yours!\n\nAs long as you maintain Exalted status with the Argent Dawn, you will be able to purchase additional Chromatic Mantles. They will be made available to you immediately from any of the Dawn's quartermasters.",
+  "files": [
+   "quests/5521-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "848793ac4e79",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Argent Quartermaster Lightspark",
+  "quest": "Chromatic Mantle of the Dawn",
+  "en": "Brother Adventurer - your deeds on behalf of the Argent Dawn are far too numerous to be recounted easily. As a fitting tribute, I'll part with one of our special Chromatic Mantles of the Dawn - a version that protects the wearer from all forms of resistible magic simultaneously. Chromatic Mantles of the Dawn are reserved for only the mightiest of the Dawn's heroes!\n\nBring to me twenty-five valor tokens as a sign of tribute, and I'll give you the finest of all our mantles.",
+  "files": [
+   "quests/m-5521-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "492c52fc2fa3",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Ashlam Valorfist",
+  "quest": "Clear the Way",
+  "en": "With Andorhal's western and northern roads into the city well fortified, I'm looking to strike at it from the less defended eastern road. The Scourge relies on the buffer of undead that infests Sorrow Hill as a first line of defense. If we are to advance on Andorhal, we will need to do it through Sorrow Hill.\n\nYour first assignment will be to clear the way through Sorrow Hill. Thin out the skeletons and ghouls that haunt the area; report back to me when this is done!",
+  "files": [
+   "quests/5092-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "b7a5f2d4b3ca",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Ashlam Valorfist",
+  "quest": "Clear the Way",
+  "en": "Mission accomplished, Adventurer! Well played, well played.\n\nAllow me to reward your work thus far with some coin from the Stormwind coffers. I'd recommend spending it on materiel that will aid you in your next mission... one that will take you into the ruins of Andorhal itself.\n\nBe ready! Be vigilant!",
+  "files": [
+   "quests/5092-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "dfae959cb3e2",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Argent Officer Garush",
+  "quest": "Corruptor's Scourgestones",
+  "en": "Congratulations, Adventurer - I am pleased to award you with an Argent Dawn valor token!\n\nTo acquire a valor token in such a manner indicates that you are a true hero in the cause of good. We value all effort brought to bear against the Scourge, but to take down one of their leaders is to truly deliver onto them a crushing defeat!\n\nFor the Dawn, my brother!",
+  "files": [
+   "quests/m-5406-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "8d1062126292",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Argent Officer Pureheart",
+  "quest": "Corruptor's Scourgestones",
+  "en": "Congratulations, Adventurer - I am pleased to award you with an Argent Dawn valor token!\n\nTo acquire a valor token in such a manner indicates that you are a true hero in the cause of good. We value all effort brought to bear against the Scourge, but to take down one of their leaders is to truly deliver onto them a crushing defeat!\n\nFor the Dawn, my brother!",
+  "files": [
+   "quests/m-5404-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "a767b7470bb1",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Chromie",
+  "quest": "Counting Out Time",
+  "en": "I need you to reach into the world beyond this room, Adventurer. Allow me to explain.\n\nYou see the difference in this room compared to the rest of Andorhal. My dragonflight works in many different ways and in many different timelines. To mend Andorhal's damage, I now act from a different timeline as not to overly contaminate it. To continue this though I need time trinkets, ones trapped from when the plague hit. Find them in lockboxes found in the ruined buildings that make up this once proud city.",
+  "files": [
+   "quests/4972-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "c9a2d8192b28",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Chromie",
+  "quest": "Counting Out Time",
+  "en": "These are exactly what I need, Adventurer. Thank you.\n\nAllow me to suitably reward you with this. You may not understand what you would need with such a device. You might not even know quite what it really is. Alas, I cannot tell you when you will find it most useful; just know that at some point in the future, you may find this item to have extreme utility and function when consumed. Whether or not you choose to hold on to it until then... this, my friend, is up to you.",
+  "files": [
+   "quests/4972-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "6218d2d2a560",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Chromie",
+  "quest": "Counting Out Time",
+  "en": "If you are willing to help once more, I can certainly use your assistance. I'll gladly take more watches you might uncover from the ruins of Andorhal. They certainly help me in maintaining a balance against whatever malign force is meddling with the timeline here.\n\nIn exchange for those watches, I'll give you another item that, in the future, I suspect you'll find quite the use for.",
+  "files": [
+   "quests/4973-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "d2417b52f0ee",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Chromie",
+  "quest": "Counting Out Time",
+  "en": "Again, I think you for your assistance. Please accept this gift. While you still may not know when to use such an item, perhaps in the future the path of time will reveal its true intentions to you. You could say that I've seen as such happening to you, Adventurer.",
+  "files": [
+   "quests/4973-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "308e92934699",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Betina Bigglezink",
+  "quest": "Dawn's Gambit",
+  "en": "I've placed Dawn's Gambit in the container you brought to us, the one that held the dragon eggs. Your job is to bring it deep within the Scholomance.\n\nThe undead mage Vectus leads a team of scourge scholars... place Dawn's Gambit in their chamber, called the \"viewing room.\" It will then react with the undead found there and, with a little luck, destroy them!\n\nAfter that, defeating Vectus shouldn't be a problem. Right?",
+  "files": [
+   "quests/4771-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "b8ed3ecf39fc",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Betina Bigglezink",
+  "quest": "Dawn's Gambit",
+  "en": "You did it! Vectus is defeated! And Dawn's Gambit... did it work?\n\nHm... maybe my device wasn't the success I had hoped, but I'm glad you were able to handle things anyway. Well done, Adventurer!\n\nThe Argent Dawn, and the good people of Azeroth, are in your debt.",
+  "files": [
+   "quests/4771-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "6b78749155bf",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Eva Sarkhoff",
+  "quest": "Doctor Theolen Krastinov, the Butcher",
+  "en": "Krastinov is responsible for the deaths of thousands. He must be punished, justice must be meted out.\n\nFind him and exact upon him the agony he has inflicted upon countless innocents. Once he is destroyed, burn our remains. Turn them to ashes, Adventurer.",
+  "files": [
+   "quests/5382-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "744f1b4f1622",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Eva Sarkhoff",
+  "quest": "Doctor Theolen Krastinov, the Butcher",
+  "en": "I can feel my spirit healing, Adventurer. You have done my husband and I a great service, but I am certain there is more to be done.",
+  "files": [
+   "quests/5382-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "367a2388f39a",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Myranda the Hag",
+  "quest": "Find Myranda",
+  "en": "I was Tirion's most trusted advisor when he held rank as Lord of Mardenholde. I openly dissented the verdict passed by the Order of the Silver Hand and was banished for my insolence.\n\nHe has been through much heart ache and disappointment in his life, traveler. Are you prepared to right the wrongs set upon the Fordrings?",
+  "files": [
+   "quests/5861-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "9ac9528dd2e6",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tirion Fordring",
+  "quest": "Find Myranda",
+  "en": "Adventurer, you have done all that I have asked thus far. Only one step remains in your quest of redemption.\n\nYou must deliver the items you have collected to Taelan. Unfortunately, Taelan and his Scarlet Crusaders will attack you on sight.\n\nThere is only one way in which to deliver my message and that is through a guise of deception.\n\nTo the south you will find Uther's tomb. An old and trusted confidant of mine, Myranda, now resides there - seek her out. Show her the items and she will assist you.",
+  "files": [
+   "quests/5861-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "a117041c2d31",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Flint Shadowmore",
+  "quest": "Flint Shadowmore",
+  "en": "The first mission will be straight up, Adventurer. You go in, you come out. Recon...",
+  "files": [
+   "quests/6184-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "cfe23896ef84",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Master Mathias Shaw",
+  "quest": "Flint Shadowmore",
+  "en": "The only information we have thus far, then, is that Nathanos Marris may have been slain by this Blightcaller. We assume the Blightcaller is the same fiend that disposed of my agents.\n\nFlint Shadowmore, another SI:7 operative, is stationed at the Alliance encampment of Chillwind Point in the Western Plaguelands. Seek him out; he will debrief you on the current situation in the Plagues and give you an assignment.\n\nGood luck, Adventurer.",
+  "files": [
+   "quests/6184-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "ffe6368fe71d",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Scourge Cauldron",
+  "quest": "Gahrron's Withering Cauldron",
+  "en": "Adding the reagents to the cauldron's mix begins to change the color and texture of the cloud it spews forth. Scourge that are even remotely near the cauldron appear to recoil at the introduction of the new components into the environment.",
+  "files": [
+   "quests/5227-complete",
+   "quests/5224-complete",
+   "quests/5218-complete",
+   "quests/5221-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "9e40eb0a18af",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mathrengyl Bearwalker",
+  "quest": "Glyphed Oaken Branch",
+  "en": "This... this is quite strange. This druid - this tauren druid no less - entrusted you with a great deal of valuable information on the extent of the Scourge's plague. I am surprised a tauren would give a traveler such information, and freely at that if what you say is true. We will make good use of this, I promise you. Perhaps the tauren have not fallen as far from Cenarius as Fandral would believe...\n\nErm, anyway, please - accept this as a token of thanks from the Cenarion Circle.",
+  "files": [
+   "quests/4986-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "992fbadde52c",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mulgris Deepriver",
+  "quest": "Glyphed Oaken Branch",
+  "en": "The lifeless hand of the tauren druid clutches a surprisingly healthy looking oaken branch. Examining the branch reveals glyphs of a druidic nature carved into the bark.\n\nAs you grasp the branch, you notice it is warm to the touch, more than it should be. The image of the Teldrassil tree enters your mind - Darnassus specifically - and the words \"Cenarion Circle\" are on the tip of your tongue. It would appear that the suggestion of where to take the branch has been placed within it.",
+  "files": [
+   "quests/4986-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "9fc9d673357e",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mulgris Deepriver",
+  "quest": "Glyphed Oaken Branch",
+  "en": "The lifeless hand of the tauren druid clutches a surprisingly healthy looking oaken branch. Examining the branch reveals glyphs of a druidic nature carved into the bark.\n\nAs you grasp the branch, you notice it is warm to the touch, more than it should be. The image of Thunder Bluff in Mulgore enters your mind - Elder Rise specifically - and the words \"Cenarion Circle\" are on the tip of your tongue. It would appear that the suggestion of where to take the branch has been placed within it.",
+  "files": [
+   "quests/4987-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "7b9135704a7d",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Nara Wildmane",
+  "quest": "Glyphed Oaken Branch",
+  "en": "This is from Mulgris, you say? We had heard he sought to minister to the creatures suffering in the Plaguelands, but this is most unexpected... and most saddening. Mulgris is... was a good friend. I will mourn his passing deeply.\n\nHis efforts have not gone in vain, thanks to your diligence. In this branch, much lore is stored about the plague the Scourge propagates upon the land. We will study it diligently. As for you, please accept this. It is the least we can do for your noble efforts.",
+  "files": [
+   "quests/4987-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "5098f04c20ad",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Janice Felstone",
+  "quest": "Good Luck Charm",
+  "en": "You give the half-charm back to the apparition. She looks at it, then at you expectantly.\n\n\"Honey, where did you put your half of the charm? We can't be together unless we have both halves. Honey... can you see me?\"",
+  "files": [
+   "quests/5050-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "20de235ed8b5",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Jeremiah Payson",
+  "quest": "Good Luck Charm",
+  "en": "It would seem that I was wrong about you Adventurer, and for that I owe you an apology. My sister sent me a number of personal effects, including humorously enough the deed to the Felstone farm. I think I'll pass on reclaiming it right now.\n\nIf my sister's spirit remains tethered to the farm and cannot rest, please... could you return this to her? It is half of a good luck charm she had, with her husband having the other half.\n\nMaybe her knowing I have these things will now put her soul to rest.",
+  "files": [
+   "quests/5050-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "ad354e3ea623",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Ol' Emma",
+  "quest": "Good Luck Charm",
+  "en": "It would seem that I was wrong about you Adventurer, and for that I owe you an apology. My sister sent me a number of personal effects, including humorously enough the deed to the Felstone farm. I think I'll pass on reclaiming it right now.\n\nIf my sister's spirit remains tethered to the farm and cannot rest, please... could you return this to her? It is half of a good luck charm she had, with her husband having the other half.\n\nMaybe her knowing I have these things will now put her soul to rest.",
+  "files": [
+   "quests/5050-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "d20c924adf4c",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Betina Bigglezink",
+  "quest": "Healthy Dragon Scale",
+  "en": "Excellent! This will be invaluable in my continued studies of the machinations of the Scourge. Thank you, Adventurer, and if you find more of these scales please bring them to me!",
+  "files": [
+   "quests/5582-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "981b05def83b",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Healthy Dragon Scale",
+  "quest": "Healthy Dragon Scale",
+  "en": "This is a scale shed from a plagued dragon hatchling. But unlike the other pocked, oozing scales on the infant beast, this rare scale is healthy and unmarred.\n\nBetina Bigglezink will want a sample of this to study.",
+  "files": [
+   "quests/5582-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "639befd2de94",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Taelan Fordring",
+  "quest": "In Dreams",
+  "en": "For so long, I have been a puppet of the Grand Crusader. What reason was there to fight against what the Scarlet Crusade had become? It has been decades, yet the memories of my father; those precious memories, they are what have kept me alive.\n\nI have dreams, stranger. In these dreams my father is with me. He stands proudly at my side as I am inducted into the Order. We battle legion of Scourge, side by side. We bring honor to the Alliance, to Lordaeron.\n\nI want not to dream anymore.\n\nTake me to him.",
+  "files": [
+   "quests/5944-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "0955a0a79634",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lord Tirion Fordring",
+  "quest": "In Dreams",
+  "en": "The death of my son at the hands of these monsters will not pass without incident. Take solace in knowing that the Order is reborn.\n\nI now take my place as Highlord of the new Order of the Silver Hand.\n\nThese possessions of my past - they are all that I have to offer for all that you have done. Please, take these as a symbol of my gratitude; all have served me well over the years.\n\nMay we meet again, in better times, and reminisce of days long past... battles hard fought... dreams redeemed.",
+  "files": [
+   "quests/5944-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "d9513a7a8621",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Argent Officer Garush",
+  "quest": "Invader's Scourgestones",
+  "en": "Congratulations, Adventurer - I am pleased to award you with an Argent Dawn valor token!\n\nEach valor token handed out to worthy recipients is a sign of the tide turning against the Scourge. With more and more heroes fighting the Scourge in their own lands, the Argent Dawn will assuredly be at the forefront when the time comes to wage war on the ultimate evil of the Scourge. I hope that the valor you've shown what it took to acquiring your token will carry the day then as well!",
+  "files": [
+   "quests/5407-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "b7390f615466",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Argent Officer Pureheart",
+  "quest": "Invader's Scourgestones",
+  "en": "Congratulations, Adventurer - I am pleased to award you with an Argent Dawn valor token!\n\nEach valor token handed out to worthy recipients is a sign of the tide turning against the Scourge. With more and more heroes fighting the Scourge in their own lands, the Argent Dawn will assuredly be at the forefront when the time comes to wage war on the ultimate evil of the Scourge. I hope that the valor you've shown what it took to acquiring your token will carry the day then as well!",
+  "files": [
+   "quests/5403-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "d59b60519faa",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Eva Sarkhoff",
+  "quest": "Kirtonos the Herald",
+  "en": "This is it, Adventurer.\n\n\nThe blood of innocents. The purest blood, used to appease Krastinov's master.\n\nIt is with this blood that Kirtonos may be summoned. It is with this blood, then, that Kirtonos must be destroyed.\n\nTake the blood to the porch. Place it upon the brazier. Kirtonos will come - he cannot resist. When he appears, unleash the fury and wrath of a thousand innocent deaths upon him.\n\nShould you succeed, you will earn more than just our gratitude.",
+  "files": [
+   "quests/5384-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "f485e3f23f3e",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Eva Sarkhoff",
+  "quest": "Kirtonos the Herald",
+  "en": "With the death of Kirtonos, a chapter in the horrible tale of Scholomance comes to a close. There is, however, more to be done. Others here are now aware of your brave acts. Take this, Adventurer. It is a piece of our own essence. It will allow you to communicate with the other lost souls of Caer Darrow.",
+  "files": [
+   "quests/5384-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "90bfd8168f18",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Eva Sarkhoff",
+  "quest": "Krastinov's Bag of Horrors",
+  "en": "A great weight has been lifted from our hearts, Adventurer, but your task is not yet complete. Krastinov's master, Kirtonos, still lives.\n\nBefore you may face Kirtonos, however, you must first secure a method in which to summon him.\n\nIt is said that Jandice Barov stewards the blood of innocents from Krastinov to Kirtonos.\n\nFind her in the sunken catacombs of Scholomance and strike her down. Bring back any clues that you may find.",
+  "files": [
+   "quests/5515-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "4873841336b6",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Eva Sarkhoff",
+  "quest": "Krastinov's Bag of Horrors",
+  "en": "The bag of horrors!",
+  "files": [
+   "quests/5515-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "c5c3c6f38f12",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Catalogue of the Wayward",
+  "quest": "Legplates of the Chromatic Defier",
+  "en": "The carapace of a mature chromatic drake is needed to form the foundation of the leggings. Brilliant chromatic scales are then layered upon the wire frame and enchanted in the blood of heroes. Finally, the supple skin of shadow must be applied to the inner greaves.",
+  "files": [
+   "quests/5167-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "5d8f277e6d7e",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Locked Cabinet",
+  "quest": "Locked Away",
+  "en": "The key taken from Farmer Dalson's ghoulish remains fits the lock perfectly. The doors of the cabinet swing open, revealing several items that remain intact and appear quite valuable.",
+  "files": [
+   "quests/5060-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "fedd7f6cad34",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Outhouse",
+  "quest": "Locked Away",
+  "en": "Using the key found on the skeleton of the former Mrs. Dalson, you unlock the door to the outhouse. A bloodthirsty ghoul leaps from the outhouse, having been trapped inside for who knows how long.\n\nIt is clear by the bloodcurdling scream of the ghoul at your presence that the former Farmer Dalson is now beyond saving.",
+  "files": [
+   "quests/5059-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "71f8ef196262",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Argent Quartermaster Hasana",
+  "quest": "Mantles of the Dawn",
+  "en": "Your service to the Argent Dawn is to be commended, Adventurer. You are truly revered amongst us. I have been authorized to make available for you to purchase one of the Dawn's most valued items - our magic resistance mantles.\n\nApplication of a mantle to your existing shoulder piece will enhance your resistance to the powers of magic in one of five potential ways. As a sign of continued dedication to our cause, I ask for no less than ten of our valor tokens in exchange for access to these mantles.",
+  "files": [
+   "quests/5504-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "006f39637bf7",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Argent Quartermaster Hasana",
+  "quest": "Mantles of the Dawn",
+  "en": "Outstanding - your tribute to the Dawn is duly noted, Adventurer. With this accomplished, I am delighted to make our mantles available to you for purchase. So long as you maintain your current status with us, these mantles will be purchasable from any authorized quartermaster of the Argent Dawn.\n\nFor the Dawn, my brother!",
+  "files": [
+   "quests/5504-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "1d417111977f",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Argent Quartermaster Lightspark",
+  "quest": "Mantles of the Dawn",
+  "en": "Your service to the Argent Dawn is to be commended, Adventurer. You are truly revered amongst us. I have been authorized to make available for you to purchase one of the Dawn's most valued items - our magic resistance mantles.\n\nApplication of a mantle to your existing shoulder piece will enhance your resistance to the powers of magic in one of five potential ways. As a sign of continued dedication to our cause, I ask for no less than ten of our valor tokens in exchange for access to these mantles.",
+  "files": [
+   "quests/5507-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "e71ed51703d5",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Argent Quartermaster Lightspark",
+  "quest": "Mantles of the Dawn",
+  "en": "Outstanding - your tribute to the Dawn is duly noted, Adventurer. With this accomplished, I am delighted to make our mantles available to you for purchase. So long as you maintain your current status with us, these mantles will be purchasable from any authorized quartermaster of the Argent Dawn.\n\nFor the Dawn, my brother!",
+  "files": [
+   "quests/5507-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "64fb63635007",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Argent Officer Garush",
+  "quest": "Minion's Scourgestones",
+  "en": "Congratulations, Adventurer - I am pleased to award you with an Argent Dawn valor token!\n\nThe tokens serve two purposes. One - they can be used to further your standing within the Argent Dawn; to do so may avail you options and rewards that are reserved for our honored and revered allies. Two - they can be given to our quartermasters, along with coin, as payment for some of the Dawn's more prized items.\n\nWhatever you decide, know that you are earning your commission. Well done!",
+  "files": [
+   "quests/5408-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "1b6ed8a77dd6",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Argent Officer Pureheart",
+  "quest": "Minion's Scourgestones",
+  "en": "Congratulations, Adventurer - I am pleased to award you with an Argent Dawn valor token!\n\nThe tokens serve two purposes. One - they can be used to further your standing within the Argent Dawn; to do so may avail you options and rewards that are reserved for our honored and revered allies. Two - they can be given to our quartermasters, along with coin, as payment for some of the Dawn's more prized items.\n\nWhatever you decide, know that you are earning your commission. Well done!",
+  "files": [
+   "quests/5402-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "519a79789856",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Ashlam Valorfist",
+  "quest": "Mission Accomplished!",
+  "en": "Adventurer, your successful re-engineering of the cauldrons is a tremendous victory for us!\n\n\nLet all within my presence hear: for service to the Kingdom of Stormwind and to the Alliance above and beyond the call of duty - in the face of overwhelming odds and incredible danger, might I add - I give Adventurer this, and I extend upon him our undying gratitude as a true hero of the Alliance. Cheers, I say!",
+  "files": [
+   "quests/m-5237-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "cf6ba8f7fbf1",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "High Executor Derrington",
+  "quest": "Mission Accomplished!",
+  "en": "Adventurer, your successful re-engineering of the cauldrons is a tremendous victory for us!\n\n\nLet all within my presence hear: for service to the Forsaken and to the Horde as a whole above and beyond what was expected - in the face of overwhelming odds and incredible danger, might I add - I give Adventurer this, and I extend upon him our undying gratitude as a true hero of the Horde. Huzzah!",
+  "files": [
+   "quests/m-5238-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "50c0c46b61fc",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Arbington",
+  "quest": "Mold Rhymes With...",
+  "en": "The goblin you will need to speak with is Krinkle Goodsteel. He peddles his skills to the highest bidder in Gadgetzan, within the Tanaris desert. He'll likely be the only one who can produce the mold we need, and his services won't come cheap. We now ask for you to dig deep by footing whatever fee he will charge.\n\nI'm an alchemist, not a banker. If I had gold lying around, I certainly wouldn't be here.\n\nI guess I said the quiet part out loud again. Oops.\n\nGadgetzan awaits you! Good luck!",
+  "files": [
+   "quests/5538-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "5c92a85b56ad",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Dithers",
+  "quest": "Mold Rhymes With...",
+  "en": "The goblin you will need to speak with is Krinkle Goodsteel. He peddles his skills to the highest bidder in Gadgetzan, within the Tanaris desert. He'll likely be the only one who can produce the mold we need, and his services won't come cheap. We now ask for you to dig deep by footing whatever fee he will charge.\n\nI'm an apothecary, not a banker. If I had gold lying around, I certainly wouldn't be here.\n\nI guess I said the quiet part out loud again. Oops.\n\nGadgetzan awaits you! Good luck!",
+  "files": [
+   "quests/5514-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "f4f78066762f",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Krinkle Goodsteel",
+  "quest": "Mold Rhymes With...",
+  "en": "Dithers said you'd deliver the goods, and deliver you have! A deal is a deal; let me pack the fragments into the mold for you.\n\nDid Dithers imbue them already? Excellent... otherwise, it would have been a long trip back to the Bulwark for you.",
+  "files": [
+   "quests/5514-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "f34d69a30166",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Krinkle Goodsteel",
+  "quest": "Mold Rhymes With...",
+  "en": "Arbington said you'd deliver the goods, and deliver you have! A deal is a deal; let me pack the fragments into the mold for you.\n\nDid Arbington imbue them already? Excellent... otherwise, it would have been a long trip back to Chillwind Point for you.",
+  "files": [
+   "quests/5538-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "46089062a7af",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Mrs. Dalson's Diary",
+  "quest": "Mrs. Dalson's Diary",
+  "en": "A diary with yellowing pages lies open to the last entry:\n\n\"I don't know what's going to happen now that Harold's turned. It took everything out of me to drag him into the only place I could find that'd lock him up tight and hold him. I hid the key on me, and I pray it works...\n\nI hope I can get out of here, but I need money to do that. Our stuff's all in the cabinet I think... and now that I think about it, doesn't Harold keep the key on him?\n\nI'll rest on it, I'm dead tired now.\"",
+  "files": [
+   "quests/5058-complete",
+   "gossip/717e4452946d86f15f58fb9bae10c1b8"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "86322cc2ca48",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Betina Bigglezink",
+  "quest": "Plagued Hatchlings",
+  "en": "The Argent Dawn recently learned that the Scourge are creating their own plagued dragonflight! We must stop them -- if the Scourge gain a force of dragons they'll sweep across Azeroth unchecked!\n\nTheir necromancers are breeding plagued dragons at the Scholomance, in the middle of Darrowmere Lake.\n\nGo to the Scholomance and kill as many hatchlings as you can... before they get any bigger!",
+  "files": [
+   "quests/5529-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "8d3025a271d8",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Betina Bigglezink",
+  "quest": "Plagued Hatchlings",
+  "en": "Well done, Adventurer! It'll be a long time before they can grow another clutch of dragons.\n\n...At least, I hope it will!",
+  "files": [
+   "quests/5529-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "2752c227d441",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "High Priestess MacDonnell",
+  "quest": "Return to Chillwind Camp",
+  "en": "Well done Adventurer - it should take Alchemist Arbington no time at all to analyze this and devise a counter agent to introduce into the cauldron. If we are able to pump out enough of it into the air, we might be able to weaken all the Scourge present here.\n\nThis will no doubt be an ongoing ordeal; we will need to continually hit these cauldrons and introduce our reagents into their mix. Still, if we can keep it up, we will have a huge advantage over Scourge when the time comes for battle!",
+  "files": [
+   "quests/5217-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "7878e888f832",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "High Priestess MacDonnell",
+  "quest": "Return to Chillwind Camp",
+  "en": "Ah, there is plenty in here for study. Well done, Adventurer!\n\nFor now, the next step is in our hands. We'll need to produce a list of reagents that, when combined with what is already in the cauldron, will act as its counter.\n\nThe only way we will be able to introduce this is by placing the reagents into the cauldron directly. Alchemist Arbington will have more information on that, so be sure to speak with him at your earliest convenience.",
+  "files": [
+   "quests/5220-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "b6eb921ab90c",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "High Priestess MacDonnell",
+  "quest": "Return to Chillwind Camp",
+  "en": "Another finely executed mission, Adventurer! This makes three cauldrons available to us to turn against the Scourge. If Kel'Thuzad's necromantic dominance over these lands wasn't as strong as it currently is, I'd dare say you'd shut them down completely!\n\nAlchemist Arbington will have a report on what this cauldron - as well as the other cauldrons subverted - will require to deliver our counter agent to the plague. With that, the time has come to bring the last cauldron of the west under our influence!",
+  "files": [
+   "quests/5223-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "1d850eca70c7",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "High Priestess MacDonnell",
+  "quest": "Return to Chillwind Camp",
+  "en": "Congratulations Adventurer, you've unlocked the last cauldron for us! Alchemist Arbington will soon know what this cauldron requires as far as reagents needed for the mix.\n\nAs for you, I am sure that Commander Valorfist will want to thank you personally for the assistance you've given us. Without you, our struggle against the Scourge would have been nearly insurmountable. Thank you, hero!",
+  "files": [
+   "quests/5226-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "8d7edab47a72",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Scourge Cauldron",
+  "quest": "Return to Chillwind Camp",
+  "en": "You fill the bottle with enough of the cauldron's poisonous concoction for a suitable sample to be studied.\n\nWith the poison in hand, it is time to return to High Priestess MacDonnell at Chillwind Camp to complete the mission.",
+  "files": [
+   "quests/5217-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "3432e3b15f59",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Scourge Cauldron",
+  "quest": "Return to Chillwind Camp",
+  "en": "You carefully fill the bottle with enough of the cauldron's ichors for what you consider to be suitably sized sample.\n\nWith the poison in hand, it is time to return to High Priestess MacDonnell at Chillwind Camp to complete the mission.",
+  "files": [
+   "quests/5220-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "5bad280dc6ae",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Scourge Cauldron",
+  "quest": "Return to Chillwind Camp",
+  "en": "You delicately top off the empty bottle; a sample of the foul substance that churns under the platform of the cauldron now oozes back and forth inside the fragile glass container.\n\nWith the poison in hand, it is time to return to High Priestess MacDonnell at Chillwind Camp to complete the mission.",
+  "files": [
+   "quests/5223-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "475e807ee327",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Scourge Cauldron",
+  "quest": "Return to Chillwind Camp",
+  "en": "You carefully close the spigot in the control panel, watching the cauldron's putrid ichors drip into the empty bottle.\n\nWith the poison in hand, it is time to return to High Priestess MacDonnell at Chillwind Camp to complete the mission.",
+  "files": [
+   "quests/5226-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "d2ae5251f06b",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Scourge Cauldron",
+  "quest": "Return to the Bulwark",
+  "en": "You fill the bottle with enough of the cauldron's poisonous concoction for a suitable sample to be studied.\n\nWith the poison in hand, it is time to return to Shadow Priestess Vandis at the Bulwark to complete the mission.",
+  "files": [
+   "quests/5230-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "13294c403453",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Scourge Cauldron",
+  "quest": "Return to the Bulwark",
+  "en": "You carefully fill the bottle with enough of the cauldron's ichors for what you consider to be suitably sized sample.\n\nWith the poison in hand, it is time to return to Shadow Priestess Vandis at the Bulwark to complete the mission.",
+  "files": [
+   "quests/5232-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "6d92ae09da3c",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Scourge Cauldron",
+  "quest": "Return to the Bulwark",
+  "en": "You delicately top off the empty bottle; a sample of the foul substance that churns under the platform of the cauldron now oozes back and forth inside the fragile glass container.\n\nWith the poison in hand, it is time to return to Shadow Priestess Vandis at the Bulwark to complete the mission.",
+  "files": [
+   "quests/5234-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "6a1cead9dab3",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Scourge Cauldron",
+  "quest": "Return to the Bulwark",
+  "en": "You carefully close the spigot in the control panel, watching the cauldron's putrid ichors drip into the empty bottle.\n\nWith the poison in hand, it is time to return to Shadow Priestess Vandis at the Bulwark to complete the mission.",
+  "files": [
+   "quests/5236-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "1b363193097f",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadow Priestess Vandis",
+  "quest": "Return to the Bulwark",
+  "en": "Well done Adventurer - it should take Apothecary Dithers no time at all to analyze this and devise a counter agent to introduce into the cauldron. If we are able to pump out enough of it into the air, we might be able to weaken all the Scourge present here.\n\nThis will no doubt be an ongoing ordeal; we will need to continually hit these cauldrons and introduce our reagents into their mix. Still, if we can keep it up, we will have a huge advantage over Scourge when the time comes for battle!",
+  "files": [
+   "quests/5230-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "fbb463e3f64a",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadow Priestess Vandis",
+  "quest": "Return to the Bulwark",
+  "en": "Ah, there is plenty in here for study. Well done, Adventurer!\n\nFor now, the next step is in our hands. We'll need to produce a list of reagents that, when combined with what is already in the cauldron, will act as its counter.\n\nThe only way we will be able to introduce this is by placing the reagents into the cauldron directly. Apothecary Dithers will have more information on that, so be sure to speak with him as soon as possible.",
+  "files": [
+   "quests/5232-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "37659c9a9cf7",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadow Priestess Vandis",
+  "quest": "Return to the Bulwark",
+  "en": "Another finely executed mission, Adventurer! This makes three cauldrons available to us to turn against the Scourge. If Kel'Thuzad's necromantic dominance over these lands wasn't as strong as it currently is, I'd dare say you'd shut them down completely!\n\nApothecary Dithers will have a report on what this cauldron - as well as the other cauldrons subverted - will require to deliver our counter agent to the plague. With that, the time has come to bring the last cauldron of the west under our influence!",
+  "files": [
+   "quests/5234-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "f7cfb1e56a24",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadow Priestess Vandis",
+  "quest": "Return to the Bulwark",
+  "en": "Congratulations Adventurer, you've unlocked the last cauldron for us! Apothecary Dithers will soon know what this cauldron requires as far as reagents needed for the mix.\n\nAs for you, I am sure that High Executor Derrington will want to thank you personally for the assistance you've given us. Without you, our struggle against the Scourge would have been nearly insurmountable. I thank you, mighty adventurer.",
+  "files": [
+   "quests/5236-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "92c78c7a9bde",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "High Executor Derrington",
+  "quest": "Scarlet Diversions",
+  "en": "Before Andorhal, we must tackle the advancing Scarlet Crusade menace from Hearthglen. They've made camp between Felstone Field and Dalson's Tears, making us risk conflict against both the Scourge and the Crusade at once.\n\nMy plan is to play them off of each other by sending you to destroy the command tent they've set up; use some Flame in a Bottle from this box of incendiaries. Once razed, plant this Scourge banner by the tent. With some luck, they'll ignore us and focus on the Scourge for vengeance.",
+  "files": [
+   "quests/5096-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "56ea2fbb55a8",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "High Executor Derrington",
+  "quest": "Scarlet Diversions",
+  "en": "Finely executed, Adventurer. Your attack on the Scarlet Crusade will buy us time. I have sent one of my best scouts out to watch over the camp and make sure that the Crusade forces that come to reinforce the position will take the bait.\n\nWith the pressure on us lessened, we should now finally be able to risk a mission into Andorhal itself, and an important one at that. I'd very much like it if you'd perform this one as well, based on your success to date.",
+  "files": [
+   "quests/5096-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "e407f1c9ca01",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Taelan Fordring",
+  "quest": "Scarlet Subterfuge",
+  "en": "NOOOOOOOOOOOO!",
+  "files": [
+   "followup/7318-human-male-standard"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "360a06548f88",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Myranda the Hag",
+  "quest": "Scarlet Subterfuge",
+  "en": "I am what you would call, an illusionist. Though I may be able to create an illusion to allow you entry into Hearthglen, be warned; my powers have their limitations.\n\nShould you travel too far from these lands, the effects of the illusion will cease. The spell itself takes a great amount of concentration and power from me, and thus, I can only sustain the effect for a short time.\n\nSpeak to me again when you are ready.",
+  "files": [
+   "quests/5862-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "518c39107e7c",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Scarlet Cavalier",
+  "quest": "Scarlet Subterfuge",
+  "en": "Sir?",
+  "files": [
+   "followup/7319-human-male-standard"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "7a519d9b145c",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Scarlet Cavalier",
+  "quest": "Scarlet Subterfuge",
+  "en": "Something is wrong with the Highlord. Do something!",
+  "files": [
+   "followup/7320-human-male-standard"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "ddfb6601ec2e",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Scarlet Cavalier",
+  "quest": "Scarlet Subterfuge",
+  "en": "What the...",
+  "files": [
+   "followup/7321-human-male-standard"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "124c9a5b9a4e",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Scarlet Cavalier",
+  "quest": "Scarlet Subterfuge",
+  "en": "Hey, what's going on over there? Sir, are you alright? Sir??",
+  "files": [
+   "followup/7322-human-male-standard"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "29b9ca808a9f",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Scarlet Cavalier",
+  "quest": "Scarlet Subterfuge",
+  "en": "Highlord Fordring, are you alright?",
+  "files": [
+   "followup/7323-human-male-standard"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "b0cc50079b7b",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Arbington",
+  "quest": "Scholomance",
+  "en": "Well met, adventurer. I've dedicated a fair portion of my recent studies to the Scholomance, and I believe I know a means by which you can acquire a key... one that will let you past the front door.\n\nI can only imagine what horrid sights are to be seen inside, Adventurer. I don't know how you heroic types do it sometimes...",
+  "files": [
+   "quests/5533-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "bbc481d13cc9",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Dithers",
+  "quest": "Scholomance",
+  "en": "Yes, adventurer, the High Executor mentioned you might be the one to trust in the matter of the key. I've dedicated a fair portion of my recent studies to the Scholomance, and I believe I know a means by which you can acquire one that will let you past the front door at will.\n\nThis task will not be easy, but such tasks seldom are. You most assuredly look like the type to know this as fact.",
+  "files": [
+   "quests/838-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "98d62aeb2416",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Ashlam Valorfist",
+  "quest": "Scholomance",
+  "en": "On the island of Caer Darrow lies Scholomance - a wretched center of Scourge necromancy and evil. Our enemy dwells within, conducting unspeakable acts of depravity on unwitting victims... at least, we surmise as much. A door bars the way, and try as we might no entry is to be had without a proper key.\n\nAlchemist Arbington is well versed on Scholomance, and has an idea how to obtain a key. You have proved your worth to me, and now I entrust this task to you. Speak with him on this matter.",
+  "files": [
+   "quests/5533-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "c432291bf4d9",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "High Executor Derrington",
+  "quest": "Scholomance",
+  "en": "On the island of Caer Darrow lies Scholomance - a school that serves as a stronghold for the Scourge. Our enemy dwells within, safely allowed to pursue research that strengthens their power. A door bars the way, and try as we might no entry is to be had without a proper key.\n\nApothecary Dithers is well versed on Scholomance, and has an idea how to obtain a key. You have proved your value to me as someone who can get things done; I now entrust this task to you. Speak with him on this matter.",
+  "files": [
+   "quests/838-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "73d485a04254",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Arbington",
+  "quest": "Skeletal Fragments",
+  "en": "The key to Scholomance is called a Skeleton Key. It must be forged from the remains of a skeleton - several actually - and hardened by only the strongest of metals within a suitable mold. A signet of power from a being who naturally can open the portal to Scholomance will make the key ultimately function.\n\nFirst thing's first though, Adventurer. We'll need skeletal fragments for the key's forging. Skeletons inside Andorhal should yield what we need, but the ones outside the walls might work too.",
+  "files": [
+   "quests/5537-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "5b9c303996d5",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Arbington",
+  "quest": "Skeletal Fragments",
+  "en": "This'll work, Adventurer! My turn now - I will imbue these with a suitable temper that will allow them to survive the intense forging process they will eventually go through.\n\nThe next step will be to get an appropriate mold for the key. I know a goblin blacksmith in Tanaris that has in the past made molds for similarly macabre items. He works for whom goblins usually work for - the highest bidder.",
+  "files": [
+   "quests/5537-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "994f8983bf2c",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Dithers",
+  "quest": "Skeletal Fragments",
+  "en": "The key to Scholomance is called a Skeleton Key. It must be forged from the remains of a skeleton - several actually - and hardened by only the strongest of metals within a suitable mold. A signet of power from a being who naturally can open the portal to Scholomance will make the key ultimately function.\n\nFirst thing's first though, Adventurer. We'll need skeletal fragments for the key's forging. Skeletons inside Andorhal should yield what we need, but the ones outside the walls might work too.",
+  "files": [
+   "quests/964-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "f7d837912a89",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Dithers",
+  "quest": "Skeletal Fragments",
+  "en": "This'll work, Adventurer! My turn now - I will imbue these with a suitable temper that will allow them to survive the intense forging process they will eventually go through.\n\nThe next step will be to get an appropriate mold for the key. I know a goblin blacksmith in Tanaris that has in the past made molds for similarly macabre items. He works for whom goblins usually work for - the highest bidder.",
+  "files": [
+   "quests/964-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "ee97e2fa51e3",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Leonid Barthalomew the Revered",
+  "quest": "Soulbound Keepsake",
+  "en": "Return to Marduke with the keepsake, Adventurer. He will instruct you in its use.",
+  "files": [
+   "quests/5465-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "5685dd813a29",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Marduke",
+  "quest": "Soulbound Keepsake",
+  "en": "I was certain that you would be joining me as another hapless spirit.",
+  "files": [
+   "quests/5465-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "f2fe0df0e9cf",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "High Priestess MacDonnell",
+  "quest": "Target: Dalson's Tears",
+  "en": "One of the plague cauldrons is located in the field of a former farmhouse now referred to as Dalson's Tears. Well, we shall shed no tears this day as we thwart the Scourge and have them choke on their own fumes!\n\nGo to Dalson's Tears, almost due north of Andorhal, and eliminate the cauldron lord there. It should have a key like the last one did, allowing you into the cauldron. Use this bottle to obtain a sample from inside the cauldron; each cauldron has its own distinct brew of toxins it uses.",
+  "files": [
+   "quests/5219-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "d8a6e1cf6e15",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Scourge Cauldron",
+  "quest": "Target: Dalson's Tears",
+  "en": "The macabre key found on the cauldron lord easily slides into a keyhole and then disappears, allowing you permanent access to it. Crude, viscous ichors pulsate through twisted tubes within the cauldrons underpinnings.\n\nThere is a small spigot that the bottle fits well enough under, allowing you to draw a sample for High Priestess MacDonnell back at Chillwind Point.",
+  "files": [
+   "quests/5219-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "d87065adefe9",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Scourge Cauldron",
+  "quest": "Target: Dalson's Tears",
+  "en": "The skeletal key found on the cauldron lord easily slides into a keyhole and then disappears, allowing you permanent access to it. Crude, viscous ichors pulsate through twisted tubes within the cauldrons underpinnings.\n\nThere is a small spigot that the bottle fits well enough under, allowing you to draw a sample for Shadow Priestess Vandis back at the Bulwark.",
+  "files": [
+   "quests/5231-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "a23c6c4ff7b9",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadow Priestess Vandis",
+  "quest": "Target: Dalson's Tears",
+  "en": "One of the plague cauldrons is located in the field of a former farmhouse now referred to as Dalson's Tears. No tears will be shed this day, adventurer; we must strike at this cauldron and gain access to it!\n\nGo to Dalson's Tears, almost due north of Andorhal, and eliminate the cauldron lord there. It should have a key like the last one did, allowing you inside the cauldron's innards. Use this bottle to obtain a sample from inside the cauldron; each cauldron has its own distinct brew of toxins it uses.",
+  "files": [
+   "quests/5231-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "425bc0cd4030",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "High Priestess MacDonnell",
+  "quest": "Target: Felstone Field",
+  "en": "Of the four cauldrons here in the west, the one located at Felstone Field may be the easiest one in obtaining access to. The Scourge have greener troops positioned here, though they should not be underestimated.\n\nGo to Felstone Field, northwest of Andorhal, and engage the cauldron lord there. We think it has a key that will unlock access to the cauldron. When unlocked, use this bottle to obtain a sample of the poisons inside the cauldron; we'll need it for study in developing a counter agent.",
+  "files": [
+   "quests/5216-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "5f60fd8699d1",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Scourge Cauldron",
+  "quest": "Target: Felstone Field",
+  "en": "The key taken from Cauldron Lord Bilemaw is a perfect fit in unlocking the access panel. A foul stench emanates from the opened panel as an unknown mix of concentrated substances swirl inside the cauldron.\n\nThere is a small spigot that the bottle fits well enough under, allowing you to draw a sample for High Priestess MacDonnell back at Chillwind Point.",
+  "files": [
+   "quests/5216-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "c84d1d109f93",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Scourge Cauldron",
+  "quest": "Target: Felstone Field",
+  "en": "The key taken from Cauldron Lord Bilemaw is a perfect fit in unlocking the access panel, though it disappears after you use it. Still, you think you can open the panel now without a key. A foul stench emanates from the opened panel as an unknown mix of concentrated substances swirl inside the cauldron.\n\nThere is a small spigot that the bottle fits well enough under, allowing you to draw a sample for Shadow Priestess Vandis back at the Bulwark.",
+  "files": [
+   "quests/5229-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "204ef100c6f4",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadow Priestess Vandis",
+  "quest": "Target: Felstone Field",
+  "en": "Of the four cauldrons in the Western Plaguelands, the one at Felstone Field may be the easiest one to gain access to. The Scourge have greener troops positioned here, though they should not be underestimated.\n\nGo to Felstone Field, due east of here and northwest of Andorhal, and engage the cauldron lord there. On it is a key that will unlock access to the cauldron. When unlocked, use this bottle to get a sample of the cauldron's toxins; we'll need it for study in developing a counter agent.",
+  "files": [
+   "quests/5229-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "81aa84649df2",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "High Priestess MacDonnell",
+  "quest": "Target: Gahrron's Withering",
+  "en": "The last cauldron that remains is located on a farm now called Gahrron's Withering. It is guarded by some of the Scourge's tougher minions - specifically, wraiths and ghosts. They are not to be trifled with, Adventurer.\n\nGahrron's Withering is due northeast of our position here, close to where the Eastern Plaguelands begin; again, eliminate the cauldron lord present there for its key. Here is your empty sample bottle; bring it to me filled. May the Light protect you in this dangerous mission, adventurer.",
+  "files": [
+   "quests/5225-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "8a35d7c9965e",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Scourge Cauldron",
+  "quest": "Target: Gahrron's Withering",
+  "en": "Cauldron Lord Soulwrath's key disintegrates as it touches the lock on the access panel at the base of the cauldron's platform. A slight clanking noise is heard within, and the access panel swings open to reveal more viscous toxins within the cauldron's framework.\n\nThere is a small spigot that the bottle fits well enough under, allowing you to draw a sample for High Priestess MacDonnell back at Chillwind Point.",
+  "files": [
+   "quests/5225-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "c5dc36466909",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Scourge Cauldron",
+  "quest": "Target: Gahrron's Withering",
+  "en": "Cauldron Lord Soulwrath's key disintegrates as it touches the lock on the access panel at the base of the cauldron's platform. A slight clanking noise is heard within, and the access panel swings open to reveal more viscous toxins within the cauldron's framework.\n\nThere is a small spigot that the bottle fits well enough under, allowing you to draw a sample for Shadow Priestess Vandis back at the Bulwark.",
+  "files": [
+   "quests/5235-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "d6b7d013c715",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadow Priestess Vandis",
+  "quest": "Target: Gahrron's Withering",
+  "en": "The last cauldron that remains is located on a farm now called Gahrron's Withering. It is guarded by some of the Scourge's tougher minions - specifically, wraiths and ghosts. They are not to be trifled with, Adventurer.\n\nGahrron's Withering is far to the east of the Bulwark, close to where the Eastern Plaguelands begin; again, eliminate the cauldron lord present there for its key. Here is your empty sample bottle; bring it to me filled. May the shadows cloak you in safety for this dangerous mission, adventurer.",
+  "files": [
+   "quests/5235-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "68d166bfa000",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "High Priestess MacDonnell",
+  "quest": "Target: Writhing Haunt",
+  "en": "Two cauldrons have been successfully opened; while you will be able to access them indefinitely, we still want to open up the other two that remain. This will provide all of us with more options to introduce the counter agent!\n\nThis time, you'll be hitting the Writhing Haunt's cauldron. It is almost due east of Andorhal, relatively close to the ruined city walls; again, eliminate the cauldron lord present there for its key. Use this bottle to obtain the sample from the cauldron.\n\nGood hunting, Adventurer!",
+  "files": [
+   "quests/5222-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "f48d75c4bd5c",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Scourge Cauldron",
+  "quest": "Target: Writhing Haunt",
+  "en": "The cauldron lord's key unlocks the access panel to this cauldron and then disappears, much like the other keys have for the previous two cauldrons you've dealt of. A putrid smelling substance churns violently beneath the platform of the cauldron.\n\nThere is a small spigot that the bottle fits well enough under, allowing you to draw a sample for High Priestess MacDonnell back at Chillwind Point.",
+  "files": [
+   "quests/5222-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "3db837631785",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Scourge Cauldron",
+  "quest": "Target: Writhing Haunt",
+  "en": "The cauldron lord's key unlocks the access panel to this cauldron and then disappears, much like the other keys have for the previous ones you've dealt of. A putrid smelling substance churns violently beneath the platform of the cauldron.\n\nThere is a small spigot that the bottle fits well enough under, allowing you to draw a sample for Shadow Priestess Vandis back at the Bulwark.",
+  "files": [
+   "quests/5233-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "2a8cbb06bc72",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadow Priestess Vandis",
+  "quest": "Target: Writhing Haunt",
+  "en": "Two cauldrons have been successfully opened; while you'll be able to access them indefinitely, we still want to open up the other two that remain. This will provide all of us with more options to introduce the counter agent!\n\nThis time, you'll be hitting the Writhing Haunt's cauldron. It is almost due east of Andorhal, relatively close to the ruined city walls; again, eliminate the cauldron lord present there for its key. Use this bottle to obtain the sample from the cauldron.\n\nGood hunting, Adventurer!",
+  "files": [
+   "quests/5233-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "36ab8c046daa",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Chromie",
+  "quest": "The Annals of Darrowshire",
+  "en": "Let's find out the whole story. That's going to take some magic...",
+  "files": [
+   "followup/6418-gnome-female-standard"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "2975dc965300",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Chromie",
+  "quest": "The Annals of Darrowshire",
+  "en": "There, it is done. The book has been enhanced...",
+  "files": [
+   "followup/6419-gnome-female-standard"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "8d0363af2064",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Chromie",
+  "quest": "The Annals of Darrowshire",
+  "en": "To save Joseph Redpath, we must first discover his past. We can learn this in the Annals of Darrowshire, a book held in the city hall of Andorhal.\n\nBring me that book. We can then learn Joseph's fate, and with luck... change it!",
+  "files": [
+   "quests/5154-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "84dd292c0e10",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Chromie",
+  "quest": "The Annals of Darrowshire",
+  "en": "Well done, you found it!\n\nDid you read it? Is Joseph Redpath mentioned? If he is, then perhaps we can save him!\n\nAh. The Annals of Darrowshire tell a very unsettling tale. It says that during the battle, Joseph Redpath was corrupted and joined the ranks of the Scourge! He then betrayed the defenders of Darrowshire.\n\nThat is an ill fate. If we can, we should try to change that fate, don't you think?",
+  "files": [
+   "quests/5154-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "9c1f9a2f020a",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Leonid Barthalomew the Revered",
+  "quest": "The Dying, Ras Frostwhisper",
+  "en": "Your quandary stirs up memories that I had hoped would never resurface.",
+  "files": [
+   "quests/5462-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "3c3cc20fa02c",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Marduke",
+  "quest": "The Dying, Ras Frostwhisper",
+  "en": "Upon tainted soil, the keepsake must be attuned.\n\nIt is rumored that Stratholme is where Frostwhisper succumbed to the Lich King. Upon those bloodied grounds he gave his life - freely and with motive - to become one of the undying.\n\nIt is those grounds that must be found.\n\nThere is one, an undead dissenter of the Scourge, freed by the Banshee Queen but loyal to the cause of the Argent Dawn. Find him: Leonid Barthalomew the Revered. He may know more. Seek out Light's Hope, Adventurer.",
+  "files": [
+   "quests/5462-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "fa3697271a61",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Marduke",
+  "quest": "The Human, Ras Frostwhisper",
+  "en": "The undead fear life just as the living fear death. It is not unusual for a sentient undead being to completely destroy all remnants of his or her previous life after having turned.\n\nUnfortunately, in order to create an artifact capable of reverting Ras Frostwhisper to a mortal, we must have a keepsake from his years among the living.\n\nYou must venture to the ruined city of Stromgarde, Frostwhisper's home, and search for such an item. May luck be with you, Adventurer.",
+  "files": [
+   "quests/5461-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "a3a074e6101b",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Marduke",
+  "quest": "The Human, Ras Frostwhisper",
+  "en": "I had doubted the possibility of such an item existing. This certainly opens up an incredible opportunity - one we must not squander.\n\nPrepare yourself, Adventurer, for what I am about to ask of you will take you into the depths of hell.",
+  "files": [
+   "quests/5461-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "984b35dca6e0",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Arbington",
+  "quest": "The Key to Scholomance",
+  "en": "Well, here you are Adventurer - the completed Skeleton Key. I am certain as I can be that this key will allow you within the confines of the Scholomance. There's only one way to be absolutely sure it works, though. Waste no time in trying it out, I say.\n\nGood luck, mighty hero. May you continue to bring light unto the darkness!",
+  "files": [
+   "quests/5505-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "f328c55b212f",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Dithers",
+  "quest": "The Key to Scholomance",
+  "en": "Well, here you are Adventurer - the completed Skeleton Key. I am certain as I can be that this key will allow you within the confines of the Scholomance. There's only one way to be absolutely sure it works, though. Waste no time in trying it out, I say.\n\nGood luck, mighty hero. May your victories continue to bring you fame and power as you lay waste to Scholomance!",
+  "files": [
+   "quests/5511-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "0ac384f815ae",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Alexi Barov",
+  "quest": "The Last Barov",
+  "en": "Naturally, with my brother still alive, there may be some contention as to the primary beneficiary of the family's fortune. This cannot be.\n\nA low down guttersnipe like you isn't above a little cold-blooded murder, I hope.\n\nIt's a simple task and one that I expect you will complete; that is, if you wish to claim your reward.\n\nWeldon sits under Alliance protection at Chillwind Camp, to the east. Slay him, return his head.\n\n\nHurry along now.",
+  "files": [
+   "quests/5342-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "696f80531717",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Alexi Barov",
+  "quest": "The Last Barov",
+  "en": "Wonderful! Now only I hold the power and fortune of house Barov!\n\n\nAnd keep the change, you filthy animal.",
+  "files": [
+   "quests/5342-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "016c4af4bba0",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Weldon Barov",
+  "quest": "The Last Barov",
+  "en": "With the deeds recovered, there is but one thing left to do. Alexi must be killed. With him dead, I need not ever worry about an unscrupulous gang of mercenaries seeking my head.\n\nIt's a simple task. Alexi hides under the protection of the Horde - at the Bulwark.\n\nNo, I do not expect you to just walk up and kill him, I want his head! How you get it... well, that part is up to you. That type of behavior is below one of my noble upbringing.",
+  "files": [
+   "quests/5344-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "74dcade92020",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Weldon Barov",
+  "quest": "The Last Barov",
+  "en": "A glorious day it is! Finally, the pockmark of house Barov eliminated and my fortune secure!\n\nTake this and leave my sight, peasant.",
+  "files": [
+   "quests/5344-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "4d75666ee136",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "The Left Piece of Lord Valthalak's Amulet",
+  "en": "Now we have what we need, so it's time to discuss who it is that you'll be summoning.\n\nKormok was ok for an ogre, right up until he turned to necromancy. After that, things got creepy for just about everyone in the outfit. It was no surprise then when he took his piece of the amulet and returned to his new home, Scholomance.\n\nBut even there, or perhaps especially there, he was not safe from the spectral assassins. They slew him right in front of his master, Ras Frostwhisper.",
+  "files": [
+   "quests/8969-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "23a959239e7a",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "The Left Piece of Lord Valthalak's Amulet",
+  "en": "Good work, Adventurer! Kormok wasn't all that bad for an ogre, at least not while he was still alive, so I hope he gets the rest that he deserves. But, there is more work ahead of us.\n\nUnfortunately, I do not know the location of the one who died with the right piece of the amulet in their possession. But do not fear; in life I was a dabbler in the art of divination, so I have another task for you, which is going to enable us to ferret out the final piece.",
+  "files": [
+   "quests/8969-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "48f8651c1e19",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Marduke",
+  "quest": "The Lich, Ras Frostwhisper",
+  "en": "There is but one task remaining, Adventurer. Confront the lich, Ras Frostwhisper, in his lair.\n\nUse the power of the keepsake against the beast - be unrelenting in your actions! Weather the blows that the flailing beast will surely bring down upon you. Do not give in to the pain!\n\nWhen the ritual is complete, Ras will be mortal once more. It is at that point that he must be slain. Strike him down and take his human head.",
+  "files": [
+   "quests/5466-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "fc126f736260",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Marduke",
+  "quest": "The Lich, Ras Frostwhisper",
+  "en": "Ten thousand souls cry out in unison, Adventurer! You have struck a mortal blow to the Scourge and their masters.",
+  "files": [
+   "quests/5466-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "c55654e8cf56",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "The Right Piece of Lord Valthalak's Amulet",
+  "en": "Now we have what we need, so it's time to discuss who it is that you'll be summoning next.\n\nKormok was ok for an ogre, right up until he turned to necromancy. After that, things got creepy for just about everyone in the outfit. It was no surprise then when he took his piece of the amulet and returned to his new home, Scholomance.\n\nBut even there, or perhaps especially there, he was not safe from the spectral assassins. They slew him right in front of his master, Ras Frostwhisper.",
+  "files": [
+   "quests/8992-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "be93edad5f06",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "The Right Piece of Lord Valthalak's Amulet",
+  "en": "Good work, Adventurer! Kormok wasn't all that bad for an ogre, at least not while he was still alive, so I hope he gets the rest that he deserves. And now we have the completed amulet! But we still have the hardest test ahead of us.\n\nIn order for the brazier to be attuned to calling forth Lord Valthalak, there are a few more items that need to be gathered and brought back to me here.",
+  "files": [
+   "quests/8992-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "15dd62e63872",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Ashlam Valorfist",
+  "quest": "The Scourge Cauldrons",
+  "en": "Within the lands of former Lordaeron are eight cauldrons - four here in the west, and four more ensconced in the east. These cauldrons spew poisons into the air, propagating the plague throughout the land for the Scourge.\n\nThe necromantic might of Kel'Thuzad is too strong to outright shut down these cauldrons, but we think we might have a way to subvert them to our advantage. My second, High Priestess MacDonnell, will be your point on this assignment; she'll continue the briefing from here.",
+  "files": [
+   "quests/5215-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "97b73f6d80f2",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "High Executor Derrington",
+  "quest": "The Scourge Cauldrons",
+  "en": "Within the lands of former Lordaeron are eight cauldrons - four in the west, and four more entrenched in the east. These cauldrons spew poisons into the air, propagating the plague throughout the land for the Scourge.\n\nThe necromantic might of Kel'Thuzad is too strong to outright shut down these cauldrons, but we think we might have a way to subvert them to our advantage. My second, Shadow Priestess Vandis, will be your point on this assignment; she'll continue the briefing from here.",
+  "files": [
+   "quests/5228-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "c1fdc544eed2",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "High Priestess MacDonnell",
+  "quest": "The Scourge Cauldrons",
+  "en": "May the power of the Light shine upon you in these dark times, adventurer. I am pleased to serve as your coordinator for our plan to sabotage the Scourge's cauldrons.\n\nOur goal will be to change the composition of the plague that the cauldrons create into something that negatively affects the Scourge. In order to affect this change, you will need to secure access to each of the four cauldrons present in the Western Plaguelands.\n\nStand ready hero, for a glorious battle against the vile Scourge awaits you!",
+  "files": [
+   "quests/5215-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "b315c517abcd",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadow Priestess Vandis",
+  "quest": "The Scourge Cauldrons",
+  "en": "From the shadows, brother traveler, I bid you greetings. I am to serve as your coordinator for our plan to sabotage the Scourge's cauldrons.\n\nOur goal will be to change the composition of the plague that the cauldrons create into something that negatively affects the Scourge. In order to affect this change, you will need to secure access to each of the four cauldrons here in the Western Plaguelands.\n\nThe time has come for you to lead the charge against the Scourge, hero.",
+  "files": [
+   "quests/m-5228-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "453e05c35d30",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mulgris Deepriver",
+  "quest": "The Wildlife Suffers Too",
+  "en": "While there was little I could do alone to thwart the Scourge, I nevertheless came to these lands to try and heal the damage done to nature. Animals suffer from the plague that continues to choke these lands, unable to find mercy and peace. I ask for you to continue what I could not finish here.\n\nThere is no salvation for the suffering animals but a sweet and merciful release. Seek out diseased wolves nearby and put them down. Please Adventurer, end their misery - doing so will surely soothe mine.",
+  "files": [
+   "quests/4984-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "6e0185d1db37",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mulgris Deepriver",
+  "quest": "The Wildlife Suffers Too",
+  "en": "I... I sense that the souls of those wolves you have put down now have rest. They - and I - thank you for a merciful release.\n\nThe wolves are not alone in their suffering within this damnable place, Adventurer. Please, I have need of you once more.",
+  "files": [
+   "quests/4984-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "e053d56a78fd",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mulgris Deepriver",
+  "quest": "The Wildlife Suffers Too",
+  "en": "To the east of where we are, near where the Eastern Plaguelands begin, once proud and majestic grizzlies roamed the countryside. The plague released by the Scourge has sundered these beasts too. They wander the countryside, agonized by the stiffening of their muscles and the rotting of their fur and flesh.\n\nI ask of you to end their misery as well. The only cure for their suffering is a swift death, one that must be ministered by your hand.",
+  "files": [
+   "quests/4985-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "f0486e24e82a",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mulgris Deepriver",
+  "quest": "The Wildlife Suffers Too",
+  "en": "\"I know that the grizzles have been put down, their torment at an end. I... I have one more thing for you. I wrote it down on... on this branch, sensing that my time in this realm had come to an end.\n\nIndeed... I am at that end. Thank you again friend... the creatures of this accursed land may rest... and now shall I.\"\n\nWith that, a heavy sigh is uttered by the druid, followed by what sounds like a death rattle. His body lies motionless on the cottage floor.",
+  "files": [
+   "quests/4985-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "6f00b22345ff",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Janice Felstone",
+  "quest": "Two Halves Become One",
+  "en": "The ramblings of the poor ghost continue:\n\n\"I'm so cold, John. Bring me your charm, and we'll be together! Quickly John, before the plague comes to change us into hideous beasts! I can't see you John... but I know you're near. I feel you near me.\"\n\nPerhaps if the second half of the charm was found and reassembled, this would constitute what the spirit of Janice Felstone is seeking.",
+  "files": [
+   "quests/5051-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "610717a05e35",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Janice Felstone",
+  "quest": "Two Halves Become One",
+  "en": "You hand the reassembled good luck charm to Janice Felstone's ghost. As soon as she grasps it, you observe an almost immediate change in her. Her ethereal form shimmers, and she looks upon you with clear yet sad eyes.\n\n\"You've freed me... I no longer will need this charm. Please, take it and perhaps it will give you the solace it has given me.\"",
+  "files": [
+   "quests/5051-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "9ef27381e333",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Kirsta Deepshadow",
+  "quest": "Unfinished Business",
+  "en": "I was sent as a scout to do some damage and gauge the strength of Hearthglen's defenses. Some people in the Alliance feel the little town has more than historical importance. It's not my job to question what that importance is, but regardless, I'm in no shape to continue until I rest up.\n\nIf you're willing, I'd pay handsomely for some help. Start south of here at their camp near the small bulwark they've set up. If you prove strong enough, maybe I could get your help with my main goal.",
+  "files": [
+   "quests/6004-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "f62ff068e068",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Kirsta Deepshadow",
+  "quest": "Unfinished Business",
+  "en": "Well done, Adventurer. I'm amazed you dealt with them so quickly. Thank you.\n\nI have yet to meet anyone that approves of the Scarlet Crusade and their methods. I believe in the Light as much as anyone else in Stormwind, but they've demonstrated that they only want to kill anyone not loyal to their movement... even innocents.",
+  "files": [
+   "quests/6004-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "c04c2c21d3c2",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Kirsta Deepshadow",
+  "quest": "Unfinished Business",
+  "en": "My real mission was to weaken the Scarlet Crusade's outlying forces and then infiltrate Hearthglen to gauge their numbers. I'm still in no shape to do it on my own, so perhaps I could ask you to aid me again, Adventurer? From what information I gathered before being discovered, the Crusade has two important members that are the backbone of their forces outside the town: Huntsman Radley and Cavalier Durgen. Kill them, and we're making progress. They should be along Hearthglen Pass outside the town proper.",
+  "files": [
+   "quests/6023-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "44d73c23d0f5",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Kirsta Deepshadow",
+  "quest": "Unfinished Business",
+  "en": "Thank you, Adventurer. You've been more help than I could have hoped for. The air here just seems to suck my will. I feel tired, and I can tell I'm not getting any better the longer I'm here.\n\nI'm not really sure how I'm going to infiltrate Hearthglen itself and report on how strong the Scarlet Crusade's presence is.\n\nBut that's another matter, before you leave, here, take this... as payment for your help. Thank you again.",
+  "files": [
+   "quests/6023-complete"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "e2481d538a65",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Kirsta Deepshadow",
+  "quest": "Unfinished Business",
+  "en": "What? Really? You want to know more? But you've already done so much for me, Adventurer. I couldn't possibly ask you to enter Hearthglen itself on my behalf.\n\nAre you sure, Adventurer? Hearthglen is much more dangerous than the Pass--I cannot provide you any protection or even information about what you might face.\n\nWell, if you really are willing to help, then enter the town and find a high place to gain a good view of the town. From there you can gauge their numbers and report them back to me. But be careful....",
+  "files": [
+   "quests/6025-accept"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "117e8e767363",
+  "zone": "western-plaguelands",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Kirsta Deepshadow",
+  "quest": "Unfinished Business",
+  "en": "You've done it, Adventurer! Thank you!\n\nI'll return to Elling... I mean Stormwind as soon as I can. Here, take this coin, it's the least I can do for you. You're a credit to your people, Adventurer. Thank you and good luck.",
+  "files": [
+   "quests/6025-complete"
+  ],
+  "uiMap": 1422
+ }
+]

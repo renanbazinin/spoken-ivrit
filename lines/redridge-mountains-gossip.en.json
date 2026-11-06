@@ -1,0 +1,226 @@
+[
+ {
+  "id": "164dc04f2efd",
+  "zone": "redridge-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Ariena Stormfeather",
+  "quest": null,
+  "en": "Where would you like to fly to?",
+  "files": [
+   "gossip/f6ea55ad6f6344693225294350de4559"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "f5d1a28b821c",
+  "zone": "redridge-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Bailiff Conacher",
+  "quest": null,
+  "en": "What business brings you before the Court of Lakeshire and the Honorable Magistrate Solomon?",
+  "files": [
+   "gossip/ecbc88ee5ec39c09cc42260c9b80d412"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "0a08dd7cad2e",
+  "zone": "redridge-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Crystal Boughman",
+  "quest": null,
+  "en": "I can teach you how to cook!",
+  "files": [
+   "gossip/1e74135d166c75a3fff7f83d3426831e"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "ee3dbe269c8c",
+  "zone": "redridge-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Crystal Boughman",
+  "quest": null,
+  "en": "Cooking is a life long pursuit and I see we share the same passion!",
+  "files": [
+   "gossip/9894fe017afd5c82d452ec8f283f45f3"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "f90c04fb7fd0",
+  "zone": "redridge-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Crystal Boughman",
+  "quest": null,
+  "en": "Dirge Quikcleave of Gadgetzan is a master of the culinary arts. To better yourself you will need to seek him out.",
+  "files": [
+   "gossip/d25a7e0932a93ba447d43caf3968c467"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "e75e2fc89462",
+  "zone": "redridge-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Crystal Boughman",
+  "quest": null,
+  "en": "Seek out Shandrina in Silverwind Refuge. She can sell you the \"Expert Cookbook\".",
+  "files": [
+   "gossip/efa6e9ddc589d11d0aeee639e21deb43"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "bf782e4714ed",
+  "zone": "redridge-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Dockmaster Baren",
+  "quest": null,
+  "en": "Well met, Adventurer. If you're here for business, then get yourself a brew and we'll have ourselves a talk.",
+  "files": [
+   "gossip/ddc30f62024a13c934f03e207c662870"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "63b16cdd6e59",
+  "zone": "redridge-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Foreman Oslow",
+  "quest": null,
+  "en": "I don't have much time for idle talk, Adventurer. I've got to get this bridge rebuilt before the rains come. I've finished every project on-time and under budget and I'm not about to start slipping now.",
+  "files": [
+   "gossip/46e52b54b40320d1794923d450a74c44"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "4f7a3631c1d2",
+  "zone": "redridge-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Guard Parker",
+  "quest": null,
+  "en": "Hail, Adventurer. Ill times these are, my friend, for our town is besieged! The Blackrock Orcs attack from Stonewatch Keep, the Shadowhides loom over the Tower of Ilgalar, and the Redridge Gnoll Pack gathers strength. I hope you're not here for a holiday...",
+  "files": [
+   "gossip/6f87d92a661abe64c1fe3bdb763a0e8c"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "a59e99894bd9",
+  "zone": "redridge-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Solomon",
+  "quest": null,
+  "en": "Who is this adventurer who goes before the Court of Lakshire in the Kingdom of Stormwind? State your business within this township, Traveler. The orc threat to the Kingdom is far too great to squander time in idle conversation.",
+  "files": [
+   "gossip/46d0e4b19c3e1bf929fc184bef2f54a1"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "62bdd809d660",
+  "zone": "redridge-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Marris",
+  "quest": null,
+  "en": "I don't have time to chat, citizen, but if you're willing to give us a hand against the orcs, then I'll find a use for you.",
+  "files": [
+   "gossip/3c180db27e28d7858ec6ae858d96ec0f"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "b75215d3d843",
+  "zone": "redridge-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Martie Jainrose",
+  "quest": null,
+  "en": "Hail, Adventurer! Welcome to my humble garden. The weather has been perfect lately. Let us hope it holds steady for a ripe harvest.",
+  "files": [
+   "gossip/06c875e93cfe3fa732719481017369a8"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "56dc3e2fefd9",
+  "zone": "redridge-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Shawn",
+  "quest": null,
+  "en": "Thank you again for helping Hilary, mister! When I grow up, I wanna be a hero just like you!",
+  "files": [
+   "gossip/m-b217baf215f2d580b5f89ad5807da5fc"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "9ce70618bba3",
+  "zone": "redridge-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Shawn",
+  "quest": null,
+  "en": "Hello there mister... do you have a little time that you could help us out? Please?",
+  "files": [
+   "gossip/m-ef28db84b525a406d4e688bbedc3e068"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "42944e77b11e",
+  "zone": "redridge-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Verner Osgood",
+  "quest": null,
+  "en": "Hey buddy, do you think you could give me a hand with something? I'm really in dire straits here...",
+  "files": [
+   "gossip/m-cc055e12d3db6948a61792148d209f80"
+  ],
+  "uiMap": 1433
+ },
+ {
+  "id": "247b291c17a4",
+  "zone": "redridge-mountains-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Yorus Barleybrew",
+  "quest": null,
+  "en": "You think you have guts? Well I have something for you if you do...",
+  "files": [
+   "gossip/fddec762a2758d0c2133065f9bc5333a"
+  ],
+  "uiMap": 1433
+ }
+]

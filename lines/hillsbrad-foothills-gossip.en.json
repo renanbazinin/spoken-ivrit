@@ -1,0 +1,688 @@
+[
+ {
+  "id": "5b5a440ac8f8",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brumn Winterhoof",
+  "quest": null,
+  "en": "The spirits told me you would come, that you would seek me for some reason, but that even you may not know that reason. So, do you know why you are here?",
+  "files": [
+   "gossip/f7eb9170dcfaa7e5f749986588580ced"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "936524d45e07",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Drakk Stonehand",
+  "quest": null,
+  "en": "I can make amazing things with the materials I find out here. By Muradin's beard, there are fantastic creatures in these hills! Go have a whack at them, adventurer, and bring me back some tall tales.",
+  "files": [
+   "gossip/ad4a6b6d0badc2d4fe6a7a1d542a117b"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "fffbca23e72f",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Drakk Stonehand",
+  "quest": null,
+  "en": "I love a good challenge; don't you? Aye, of course ye do. An' that's why you're about to do exactly what I say.",
+  "files": [
+   "gossip/ce752e682ab8f0d0c23c727db53bbcf4"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "6b5388eb279a",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Drakk Stonehand",
+  "quest": null,
+  "en": "I'm not here to teach babes fresh out of the cradle. Ye've nowhere near the amount of skill I require in my students. In fact, ye're a sad figure of a lad, an' I'll thank ye not to stand there jibber-jabberin' at me.",
+  "files": [
+   "gossip/m-ae30154a118ba87fdf6f4a2c62f6344f"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "80a605680199",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Drull",
+  "quest": null,
+  "en": "One of the humans has the key to this infernal contraption. Eston I think they said his name was.",
+  "files": [
+   "gossip/89766cf6963eb64a903985c79701ac18"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "607d671a302b",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Drull",
+  "quest": null,
+  "en": "Do you mock me while I am unable to defend myself, bound to this ball of iron?",
+  "files": [
+   "gossip/ed5b5a2b8d5bee46993333b4c3f3eafe"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "30d70aef87cf",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "The Scholomance is housed in crypts beneath the Caer Darrow keep. Once owned by the noble Barov family, the keep fell to ruin after the Second War. As the wizard Kel'Thuzad enlisted followers for his Cult of the Damned, he often promised immortality for those who served his Lich King. The Barovs fell to his influence and donated their keep, but the cultists killed the family and turned the crypts into a school of necromancy. Though Kel'Thuzad no longer resides there, cultists and instructors still remain.",
+  "files": [
+   "gossip/030c3d5eaa74e0b659b340e1c5a38305"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "02f86c40ab7d",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Maraudon is one of the most sacred sites within Desolace. The great temple/cavern is the burial place of Zaetar, one of two immortal sons born to the demigod, Cenarius. Legend holds that Zaetar and the earth elemental princess, Theradras, sired the misbegotten centaur race. It is said that upon their emergence, the barbaric centaur turned on their father and killed him. Some believe that Theradras, in her grief, trapped Zaetar's spirit within the winding cavern - used its energies for some malign purpose.",
+  "files": [
+   "gossip/0576d812610ee374192e4e84ef91c2f2"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "3cc42a7cb844",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "During the War of the Ancients, the demigod Agamaggan came forth to battle the Burning Legion. The colossal boar was defeated, and over time in the areas where his blood fell, massive thorn-ridden vines sprouted to life. The quilboar came to occupy these regions and hold them sacred. The heart of these massive thorn-colonies is the Razorfen. Razorfen Kraul was conquered by the crone, Charlga Razorflank, who some speculate has been negotiating with agents of the Scourge for some insidious purpose.",
+  "files": [
+   "gossip/0b5e7969b8b45594985feae2eb2ed564"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "4f7316a48db7",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Ragefire Chasm can be found beneath the Shadow Cleft in the center of Orgrimmar.",
+  "files": [
+   "gossip/22402e5384189f37d277d6f6502d132f"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "d922721a51d2",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Maraudon is located in the middle of the western coast of Desolace, in the Valley of Spears.",
+  "files": [
+   "gossip/226480cbc96165e6dd0338a080871d2b"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "77df71eea6a5",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "The Sunken Temple can be found in the center of a great lake in eastern Swamp of Sorrows.",
+  "files": [
+   "gossip/2ca43116d936ae90d2a83a9e65633b18"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "2587402e0e9d",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Are you interested in exploring one of these dungeons?",
+  "files": [
+   "gossip/338674bfb1edb2117c563bae8305e5f2"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "1ef9dcf72f70",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "The Stockades are a high-security prison complex, hidden beneath the canal district of Stormwind city. Presided over by Warden Thelwater, the Stockades are home to petty crooks, political insurgents, murderers and a score of the most dangerous criminals in the land. Recently, a prisoner-led revolt has resulted in a state of pandemonium within the Stockades - where the guards have been driven out and the convicts roam free.",
+  "files": [
+   "gossip/39cefc621bbcaa9de4f15bf64910a0dd"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "fef757312331",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Crafted from the same vines as Razorfen Kraul, Razorfen Downs is the traditional capital city of the quilboar race. The sprawling, thorn-ridden labyrinth houses a veritable army of loyal quilboar as well as their high priests - the Death's Head tribe. Recently, however, a looming shadow has fallen over the crude den. Agents of the undead Scourge - led by the lich, Amnennar the Coldbringer - have taken control over the quilboar race and turned the maze of thorns into a bastion of undead might.",
+  "files": [
+   "gossip/3cb878b29bbead8f6dd51327dc32625a"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "8a9b8510c728",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Recently, a night elf druid named Naralex discovered a network of underground caverns within the heart of the Barrens. Believing he could use the caverns' springs to restore lushness to the Barrens, the druid began siphoning the energies of the fabled Emerald Dream. His vision somehow became a nightmare, however, and soon the Wailing Caverns changed into a den of vicious, deadly predators. It is said that Naralex still resides somewhere inside the labyrinth, trapped beyond the edges of the Emerald Dream.",
+  "files": [
+   "gossip/442564e4ee5fc6e12bc08f7fc207c5ee"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "119ab2a95ac9",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Situated along the Zoram Strand of Ashenvale, Blackfathom Deeps was once a glorious temple dedicated to the night elves' moon-goddess Elune. However, the great Sundering shattered the temple - sinking it beneath the waves of the Veiled Sea. There it remained untouched - until, drawn by its ancient power - the naga and satyr emerged to plumb its secrets. Legends hold that the ancient beast, Aku'mai, has taken up residence within the temple's ruins.",
+  "files": [
+   "gossip/4770f436e4721b1e363a54416ff3594f"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "a53b780d3376",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "The ruins of Zul'Farrak are located in the northwestern corner of the Tanaris Desert.",
+  "files": [
+   "gossip/4fb69760c9da7ebb077cf4bab2e8b3c9"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "f84f45a79aa8",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "The Wailing Caverns has its entrance at the Lushwater Oasis southwest of Crossroads in the Barrens.",
+  "files": [
+   "gossip/60ab96695e6dbb39e46aa2a2cb6eaea7"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "6d17896ba625",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Once the greatest gold production center in the human lands, the Dead Mines are now inhabited by the Defias Brotherhood, who have turned the dark tunnels into their private sanctum. It is rumored that the thieves have conscripted the clever goblins to help them build something terrible at the bottom of the mines - but what that may be is still uncertain. Rumor has it that the way into the Deadmines lies through the quiet, unassuming village of Moonbrook.",
+  "files": [
+   "gossip/629ffce2af79eb3c11349d2f8fa2deb2"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "84a22764224d",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "The mighty fortress carved within the fiery bowels of Blackrock Mountain was held by the sinister Dark Iron dwarves for centuries until Nefarian - the cunning son of the dragon, Deathwing - took control of the upper Spire and made war on the dwarves' holdings in the mountain's volcanic depths. Realizing that the dwarves were led by the mighty fire elemental, Ragnaros - Nefarian vowed to crush his enemies and claim the whole of Blackrock mountain for himself.",
+  "files": [
+   "gossip/6971e3d1fc84da25d4a4d7539cfcb942"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "6762b134c46a",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Over a thousand years ago a group of troll priests known as the Atal'ai attempted to bring back an ancient blood god named Hakkar the Soulflayer. After the resulting civil war the priests were defeated and exiled to the Swamp of Sorrows. There they erected a temple to Hakkar to prepare for his arrival into the physical world. The dragon Aspect Ysera soon learned of the Atal'ai's plans and smashed the temple beneath the marshes. To this day, the temple's ruins are guarded by the mighty green dragons.",
+  "files": [
+   "gossip/70e14cec1f3ddef25bb53cbea8c56ec7"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "28528c12fcad",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Scarlet Monastery lies in the hills northeast of Tirisfal Glades.",
+  "files": [
+   "gossip/72550dddc854b1270a86f40c208f6ae0"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "66a91addb1fd",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Uldaman is an ancient Titan vault that has laid buried within the earth since the world's creation. Dwarven excavations of the city have recently released the Titans' first failed creations: the troggs. Legends say that when the Titans deemed the trogg experiment a failure they tried again, resulting in the creation of the dwarven race. These secrets are recorded on the fabled Discs of Norgannon - massive artifacts that lie at the bottom of the ancient city, protected by giant constructs of living stone.",
+  "files": [
+   "gossip/7b54d00530269ed4fa7441cf0c9dc6b5"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "998ff7721fc7",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Razorfen Downs can be found on the very southern tip of the Barrens on the east side of the road.",
+  "files": [
+   "gossip/86a94d223c4370fac6e1ac3838f3978d"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "016801322467",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "The School for Necromancy known as Scholomance is on the ruined island of Caer Darrow in the Western Plaguelands.",
+  "files": [
+   "gossip/8b5f9c1d4b48cf5f54a92b94cfb20ced"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "825880ecfbeb",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Blackfathom Deeps can be found at the north end of Zoram Strand along the coast of Ashenvale.",
+  "files": [
+   "gossip/9b605670acd65783140b807060cc5459"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "e179a987f6ad",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "The Stormwind Stockades are found near the mage quarter in Stormwind.",
+  "files": [
+   "gossip/9cd348728ba38505c5456af01f1ea6f5"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "7ede6e19e55d",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Uldaman can be found at the very northern end of the Badlands.",
+  "files": [
+   "gossip/a5b01fe10a2f3670eed24abec1704d24"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "fd8fccd90a8a",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Shadowfang Keep is in southern Silverpine just north of Pyrewood Village.",
+  "files": [
+   "gossip/a98ca602e3662a391ca9f0807a798926"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "e45903e9b031",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Gnomeregan can be found in western Dun Morogh.",
+  "files": [
+   "gossip/ad9e028bbf4d1db826c98feaf297f9c3"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "b7f8dd08ab0e",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Located in Dun Morogh, Gnomeregan has been the gnomes' capital city for generations, though it was recently infested by mutant troggs. In a desperate attempt to retaliate, High Tinker Mekkatorque ordered the emergency venting of the city's radioactive waste tanks. Though the troggs became irradiated, their siege continued unabated and the gnomes were forced to seek refuge in the dwarven city of Ironforge, where the High Tinker now enlists brave souls to help his people reclaim their beloved city.",
+  "files": [
+   "gossip/b414305e416528da2000301e3515fa68"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "4e1f3559fd98",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Ragefire Chasm consists of a network of volcanic caverns below the orcs' new capital city of Orgrimmar. Recently, rumors have spread that a cult loyal to the demonic Shadow Council has taken up residence within the Chasm's fiery depths. This cult, known as the Burning Blade, threatens the very sovereignty of Durotar. Many believe that the orc Warchief Thrall is aware of the Blade's existence and has chosen not to destroy it in the hopes that its members might lead him straight to the Shadow Council.",
+  "files": [
+   "gossip/bf63140d3b623148e1b74e9a0e0b5219"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "114610465098",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "The monastery was once a center for learning and enlightenment. With the rise of the undead Scourge during the Third War, the peaceful Monastery was converted into a stronghold of the fanatical Scarlet Crusade. The Crusaders are intolerant of all non-human races, regardless of alliance or affiliation. They believe that any and all outsiders are potential carriers of the undead plague - and must be destroyed.",
+  "files": [
+   "gossip/bfe63c8539d0c2c66acda72719c40dba"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "00e96281d19c",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "The Deadmines can be found beneath Moonbrook in the south of Westfall.",
+  "files": [
+   "gossip/d93e39bb8315763e590a2f235411c18a"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "0026f93f7191",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "The ruined city of Stratholme lies in the Eastern Plaguelands to the north of the Plaguewood.",
+  "files": [
+   "gossip/d954ed5f8eed6d5d9fba09e4a2c794c3"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "112380929e52",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Razorfen Kraul can be found on the very southern tip of the Barrens on the west side of the road.",
+  "files": [
+   "gossip/e581a9ed3de8105b6729f7dc085e1c17"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "2af0e07c4189",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Blackrock Mountain lies between Searing Gorge in the north and Burning Steppes in the south.",
+  "files": [
+   "gossip/e9bfb735f937373390fdaecefdf86203"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "75f36f504f2e",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "This sun-blasted city is home to the Sandfury trolls, known for their particular ruthlessness and dark mysticism. Troll legends tell of a powerful sword called Sul'thraze the Lasher, a weapon capable of instilling fear and weakness in even the most formidable of foes. Long ago, the weapon was split in half. However, rumors have circulated that the two halves may be found somewhere within Zul'Farrak's walls.",
+  "files": [
+   "gossip/ea68efe1a61ecbb1e167a8048083d87a"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "f7025cfdd17b",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Frustrated by the Dalaran wizards' lack of progress against the undead during the Third War, the Archmage Arugal elected to summon the extra-dimensional worgen to bolster his side's diminishing ranks. The wolf-men slaughtered the Scourge, then quickly turned on the wizards themselves and laid siege to the keep of the noble, Baron Silverlaine. The fort quickly fell into shadow and ruin. Driven mad with guilt, Arugal adopted the worgen as his children and retreated to the newly dubbed 'Shadowfang Keep'.",
+  "files": [
+   "gossip/f3470ace9961a588dd6ef24942fdbf74"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "63c0a619ec37",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "The ruins of Dire Maul stand in central Ferelas.",
+  "files": [
+   "gossip/f6eff35098cc2813e2aaba0133e90c9f"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "5de28211c01c",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Once the capital city of the Dark Iron dwarves, this volcanic labyrinth now serves as the seat of power for Ragnaros the Firelord. Ragnaros has uncovered the secret to creating life from stone and plans to build an army of unstoppable golems to aid him in conquering the whole of Blackrock Mountain. Obsessed with defeating Nefarian and his draconic minions, Ragnaros will go to any extreme to achieve final victory.",
+  "files": [
+   "gossip/f8d10783a3c760d2420a46cb47298aa5"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "e5a111d9d366",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Once the jewel of northern Lordaeron, the city of Stratholme is where Prince Arthas turned against his mentor, Uther Lightbringer, and slaughtered hundreds of his own subjects who were believed to have contracted the plague of undeath. Arthas' surrender to the Lich King soon followed. The broken city is now inhabited by the undead Scourge - led by the powerful lich, Kel'Thuzad, and a contingent of Scarlet Crusaders, led by Grand Crusader Dathrohan. The two sides are locked in constant, violent combat.",
+  "files": [
+   "gossip/fbc87ee1e0a194ab0eaf5f7c75da9fe1"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "486d50406e5d",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Anderson",
+  "quest": null,
+  "en": "Built twelve thousand years ago by a covert sect of night elf sorcerers, the ancient city of Eldre'Thalas was used to protect Queen Azshara's most prized arcane secrets. Though it was ravaged by the Great Sundering of the world, much of the wondrous city still stands as the imposing Dire Maul. The ruins' three distinct districts have been overrun by all manner of creatures - especially the spectral highborne, foul satyr and brutish ogres.",
+  "files": [
+   "gossip/fd1eeeb911d448dfafb87bd8acef70d7"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "0e8162fcd6e2",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Loremaster Dibbs",
+  "quest": null,
+  "en": "I have a great deal of work to do. Are you here to aid me with my research?",
+  "files": [
+   "gossip/6eeff286cb7ec7e3c6c00b0d6bdb0dfb"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "843891209155",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Henry Maleb",
+  "quest": null,
+  "en": "When I was first offered the title of Southshore Magistrate I was elated to have earned such a commission so early in my career.\n\nBut now that I'm here, I wonder if I'd have been better off shuffling papers in Stormwind.",
+  "files": [
+   "gossip/a8ed59d051668a2f0fe6cf278d92aa39"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "fd8d8ff0a85b",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Redpath",
+  "quest": null,
+  "en": "I hope you're here to work, Adventurer. We have a lot to do and the Horde, the Syndicate and the Ogres aren't going to help us.",
+  "files": [
+   "gossip/4fdd02cb939d074c211ea3fef06668e1"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "0a0a845f1f91",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Sergeant Hartman",
+  "quest": null,
+  "en": "You there! You look able bodied... we need your aid in defending Southshore!\n\nThe blasted Forsaken are all riled up because it's Hallow's End. Their \"celebration\" will no doubt be leading them right to our doorstep. If you've got the time, we really could use your help!",
+  "files": [
+   "gossip/aa29eb4cc989127d57a7bf2186381767"
+  ],
+  "uiMap": 1424
+ },
+ {
+  "id": "88a7371df58c",
+  "zone": "hillsbrad-foothills-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Tog'thar",
+  "quest": null,
+  "en": "Get away from here, adventurer, or they'll put you in chains as well.",
+  "files": [
+   "gossip/77c86eaf2987bb99b8be605cc0566070"
+  ],
+  "uiMap": 1424
+ }
+]

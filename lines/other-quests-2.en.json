@@ -1,0 +1,2818 @@
+[
+ {
+  "id": "5b95a2891925",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Bruegs Kindleborn",
+  "quest": "Call of Fire",
+  "en": "By Madoran's beard, yer spirit burns brighter than any torch I've laid eyes on, Rhett--and that's somethin' to be proud of.\n\nKeep walkin' this path, and the elements'll bend to yer will. Our kin will come to ye for wisdom and guidance. So let me be the first to offer me hearty congratulations -- and present ye with yer newest totem. Ye've earned it, flameborn.",
+  "files": [
+   "quests/94468-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "183f5002d12a",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Eldrun Stormbreaker",
+  "quest": "Call of Fire",
+  "en": "It's been long since ye were last tested, Adventurer. Ye've shown patience, aye -- but now it's time ye learned of chaos... of destruction. Fire's call is loud, and if ye're ready to pay its price, it'll speak to ye.\n\nSeek out Bruegs Kindleborn, far east in the mountains. He dwells in a cave above South Gate Outpost. He'll know if ye're truly ready.",
+  "files": [
+   "quests/94449-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "14f1ca7b8e04",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kranal Fiss",
+  "quest": "Call of Fire",
+  "en": "May your spirit burn brightly, adventurer.",
+  "files": [
+   "followup/2181-orc-male-standard"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2d1bb7237daf",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kranal Fiss",
+  "quest": "Call of Fire",
+  "en": "Hmmm, Searn sent you to me, did he?\n\nWell then, Searn could always be trusted, so that must mean you're ready to take part of the next sapta--the sapta of fire.\n\nI see it in your eyes already, the burning, the desire. You've tasted power, and now you're ready for more of it. Patience, Adventurer. Remember what earth taught you. Power and destruction will come easily, but you must still know when to stay your hand.",
+  "files": [
+   "quests/1522-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1270adb12530",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kranal Fiss",
+  "quest": "Call of Fire",
+  "en": "Hmmm, Narm sent you to me, did he?\n\nWell then, Narm could always be trusted, so that must mean you're ready to take part of the next sapta--the sapta of fire.\n\nI see it in your eyes already, the burning, the desire. You've tasted power, and now you're ready for more of it. Patience, Adventurer. Remember what earth taught you. Power and destruction will come easily, but you must still know when to stay your hand.",
+  "files": [
+   "quests/1523-complete",
+   "quests/2984-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b30d1a670158",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kranal Fiss",
+  "quest": "Call of Fire",
+  "en": "You are powerful enough to wield the totem of fire, but that does not mean you are ready.\n\nAlong the Southfury River in Durotar, before the Great Sea, lies a hidden trail to one of the highest peaks in the land. Find your way to the top and you shall find one of our holy shrines watched over by Telf Joolam--the Shrine of the Dormant Flame.\n\nTake this torch to him--it marks that you attempt to tame fire. Return it to me aflame by the brazier at the shrine and I will see you are given the totem of fire.",
+  "files": [
+   "quests/1524-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "026a7f57e5af",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kranal Fiss",
+  "quest": "Call of Fire",
+  "en": "Your spirit burns brighter than any torch I've ever seen, Adventurer, and for that, you should be proud.\n\nIf you continue down this path, the elements will be yours to command, and our brethren will look to you for guidance and wisdom. Let me be the first to congratulate you and present to you your newest totem.",
+  "files": [
+   "quests/1527-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "89542390918f",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kranal Fiss",
+  "quest": "Call of Fire",
+  "en": "Hmmm, Swart sent you to me, did he?\n\nWell then, Swart could always be trusted, so that must mean you're ready to take part of the next sapta--the sapta of fire.\n\nI see it in your eyes already, the burning, the desire. You've tasted power, and now you're ready for more of it. Patience, Adventurer. Remember what earth taught you. Power and destruction will come easily, but you must still know when to stay your hand.",
+  "files": [
+   "quests/2983-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "08333c71ebe3",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Narm Skychaser",
+  "quest": "Call of Fire",
+  "en": "Long has it been since you were last tested, Adventurer. You have shown patience thus far in your studies, but the time has come for you to learn more. The time has come for you to learn about destruction... and chaos. The element of fire is yours for the understanding, if you're prepared to pay for it.\n\nSeek out Kranal Fiss in the Barrens. He lives in a small dwelling north of the Crossroads, but be mindful, if you've reached the night elf lands, you've gone too far.",
+  "files": [
+   "quests/2984-accept",
+   "quests/1523-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "596de59b641e",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Olariaan Swiftburn",
+  "quest": "Call of Fire",
+  "en": "So you've brought the torch. Yes, young adventurer, I can teach you to heed the call of fire. It will not be easy, but nothing that we do in this realm is ever easy.",
+  "files": [
+   "quests/97243-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "920cd273fb18",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Olariaan Swiftburn",
+  "quest": "Call of Fire",
+  "en": "There is an Al'Aketh Skypriest called Faladiel. He was once a caller of the flame and a stalwart Windshaper. Like so many Al'Aketh, he mortgaged his loyalty for power and his hands are now stained with the blood of his former brothers and sisters.\n\nYou will find Skypriest Faladiel at the farm to the northeast past Valanaar, just to the south of the Shrine of Akir. Kill the betrayer. Bring me his heart. It is a gruesome task, but it is needed for the ritual we are to perform.",
+  "files": [
+   "quests/97244-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ec427d216912",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Olariaan Swiftburn",
+  "quest": "Call of Fire",
+  "en": "The Windshapers do not forget, and blood is always paid with blood. It pleases me that you were able to deliver this final, painful reminder of our creed to this traitor.\n\nThis heart will not be all that feeds the flames today, however. There is one other task that needs to done.",
+  "files": [
+   "quests/97244-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e94b352d8dfa",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Olariaan Swiftburn",
+  "quest": "Call of Fire",
+  "en": "The residents of the Shen'dar Highlands speak of an ancient forest sprite called Kuramaa. They say it lives inside of a twisted stump at the summit of a hill near the highlands Anchor Pylon.\n\nGo to the highlands and find this stump. Rap your fist upon the bark and Kuramaa will appear. Best the spirit in combat, and bring me its wooden mask.\n\nBe warned however, this entity will be exceptionally resistant to much of your magic. Only the touch of flame will lay low the spirit.",
+  "files": [
+   "quests/97245-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "227d81696ec9",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Olariaan Swiftburn",
+  "quest": "Call of Fire",
+  "en": "We now have what we need. We will light the eternal flame and commune with the spirits of fire.",
+  "files": [
+   "quests/97245-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "beedc98e43a7",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Olariaan Swiftburn",
+  "quest": "Call of Fire",
+  "en": "Now we will perform the ritual.\n\nI will place the materials onto the altar and call forth the spirits of flame. If the offering is accepted, they will appear and light the Eternal Flame. You will then hold your torch forth and capture the flame.\n\nCarry the lit torch to Valanaar and place it in the Brazier of Eternal Flames. You must do so quickly, for the flames of the Firelands are quick to dissipate here in Skywall.",
+  "files": [
+   "quests/97257-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b09c113c694b",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Searn Firewarder",
+  "quest": "Call of Fire",
+  "en": "Fire be witcha, mon. I see you be strong in da ways of earth already, an' me tinkin' you be ready to talk to Kranal.\n\nKranal live north of da Crossroads in da Barrens. He be strong in da ways of da elements and can teach ya da ways of fire... if you tink you be ready.\n\nHe be easy ta find, just don' go too far--ya go too far an' ya find yerself in da elves' lands.",
+  "files": [
+   "quests/1522-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "eaae2212e52d",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sessaria Skystride",
+  "quest": "Call of Fire",
+  "en": "Even though we are in the realm of skywall, this is still the elemental plane. The spirits of all four elements speak to us, if we deign to listen. One among us Windshapers is in particular attunement with the element of fire. A shen'dorei by the name of Olariaan Swiftburn.\n\nBring this to him at the Shrine of Flames in the Gustberry Lowlands. You'll find it tucked away along the edge of the island, west of Valanaar.",
+  "files": [
+   "quests/97243-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "95a17894ae1e",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sessaria Skystride",
+  "quest": "Call of Fire",
+  "en": "It is done. The Eternal Flame burns once again.\n\nYour trial is now complete. I am pleased to present you with your Fire Totem. Use this icon of power well in your travels, Bilbøn.\n\nJust remember, the power of the elemental plane serves those that respect it, and consumes those who do not. This is our way.",
+  "files": [
+   "quests/97257-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e4a0934ac325",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Swart",
+  "quest": "Call of Fire",
+  "en": "It's been some time since you were tested last, Adventurer. You've been patient thus far in your studies, but it's time for you to learn about greater powers... it's time you learn real power. The element of fire is yours if you're prepared to pay for it.\n\nSeek out Kranal Fiss in the Barrens. He lives in a small dwelling north of the Crossroads, but be mindful, if you've reached the blasted night elf lands, you've gone way too far.",
+  "files": [
+   "quests/2983-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2d5fd6ed93b3",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Telf Joolam",
+  "quest": "Call of Fire",
+  "en": "Ah, my mistake, Adventurer. I apologize. I did not realize you possessed the Torch. I am pleased to make your acquaintance.\n\nMany adventurers find their way here while looking for lost treasure or the promise of mystical creatures to slay, only to be turned away from a seemingly empty shrine. But we know the truth, do we not, Adventurer?\n\nThis shrine holds a greater secret from the mundane members of the Horde. To us, it is sacred.",
+  "files": [
+   "quests/1524-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "67df5eff92ee",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Telf Joolam",
+  "quest": "Call of Fire",
+  "en": "But you did not come here for a history lesson, did you? You came for the Eternal Flame and fire totem.\n\nThe first step is to create a sapta and bind you to the flame.\n\nI can create the fire sapta for you if you bring me two items. The first is fire tar, a simple item usually carried by Razormane spellcasters in eastern Barrens.\n\nThe second item will be more dangerous: a reagent pouch from one of the cultists of the Burning Blade. You can find them in a cave above the ravines northeast of Razor Hill.",
+  "files": [
+   "quests/1525-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "70d0cd6bba18",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Telf Joolam",
+  "quest": "Call of Fire",
+  "en": "These will do nicely, Adventurer.\n\nFire is more than chaos and destruction--do well to remember that. It is also about life, and creation. All things are tied together in such a way. Forces oppose one another, but at the same time, one cannot exist without the other. Both extinguish one another, but also give one another meaning. Always remember this.\n\nUsing different types of magic in conjunction with one another will show not only true skill, but great wisdom.",
+  "files": [
+   "quests/1525-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6c025bf46507",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Telf Joolam",
+  "quest": "Call of Fire",
+  "en": "The fire sapta is finished. The time has come for you to face the flame. Use the sapta at the shrine and head to the top of the mountain to face the manifestation there. He will not attack until you are ready, but he will realize you are able to see him.\n\nStrike him down swiftly, Adventurer, for he shall only grow in power the longer you take to slay him. Once he is defeated, place his glowing embers within the brazier and light the torch.",
+  "files": [
+   "quests/1526-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0aaf5f172ccc",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Brazier of Everfount",
+  "quest": "Call of Water",
+  "en": "Light explodes as you finish the incantation. The sounds of the water drops hitting the flame have died down and your senses are overcome as the corrupt spirits around you are destroyed.",
+  "files": [
+   "quests/100-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "73d1e046a0a5",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Brazier of Everfount",
+  "quest": "Call of Water",
+  "en": "You place the bracers atop the brazier and then pour the remaining drops of Brine's potion into the flame. The drops crackle as they hit the flame and you begin to incant the simple words Islen taught you....",
+  "files": [
+   "quests/63-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "59ff8e152ffa",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Brine",
+  "quest": "Call of Water",
+  "en": "Yes?\n\nMmm. I have a feeling I know what you're going to ask me: what would possess someone to live out here in the deepest part of the Barrens, the threat of quilboar all around, and no protection? Well, we all have our reasons to justify why we act the way we do. The real question is, what brings a lowly Traveler to the deepest reaches of the Barrens to speak to a woman who obviously has no concern for her own well-being?\n\nI'm willing to bet we both know the answer to that.",
+  "files": [
+   "quests/1530-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f0efbad2d4c7",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Brine",
+  "quest": "Call of Water",
+  "en": "Take this waterskin and head deep into the lush forest the night elves call Ashenvale. It is to the far north of the Barrens.\n\nOnce you've entered the forest, travel west. Along the mountains that separate Stonetalon and Ashenvale, and beyond Lake Mystral, you will find a holy place: the Ruins of Stardust. At the center of the lake you will find a small fountain.\n\nBring me a sample of the fountain's water. It will be the final component you'll need before I send you back to Islen.",
+  "files": [
+   "quests/1534-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7be2a1c94d9a",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Brine",
+  "quest": "Call of Water",
+  "en": "Wonderful, Adventurer. With all three samples gathered, I can create for you a vial of the purest water any living creature will find. It will be used in the next steps of your rite of passage.\n\nI am pleased to count you among our kind, Adventurer. You do all Adventurer proud, and I look forward to hearing about your exploits in the future.",
+  "files": [
+   "quests/1534-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c3bb243cba6f",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Brine",
+  "quest": "Call of Water",
+  "en": "To find understanding and gain the sapta from me, you must seek out only the purest forms of water. As you fetch the samples for me, take note of your surroundings. Be aware of the creatures that rely on the water, that protect it. See how it affects forests and deserts. Witness how the very substance that sustains life will force creatures to take lives.\n\nWe shall start with a simple task: down below my hut there is a pond of the precious liquid. Fill this skin with it and return to me.",
+  "files": [
+   "quests/1535-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "14a7bf71f637",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Brine",
+  "quest": "Call of Water",
+  "en": "I thought some bloodshed might ensue if you tried to take water from the pool. It is a pity the quilboar do not realize that all living things are tied together; that their greed only perpetuates the pain and suffering of their people. How much could they accomplish if they were to put their differences aside and their clans came together.\n\nAgain, a pity, but more than likely a boon for the other races of the Barrens.",
+  "files": [
+   "quests/1535-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b95cdb337322",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Brine",
+  "quest": "Call of Water",
+  "en": "Long ago I followed some companions into the Hillsbrad Foothills. We defended ourselves from some tenacious humans who make their home there and we found ourselves in a small town the Forsaken had taken over: Tarren Mill.\n\nIt was there I found a most peculiar thing: in the center of town was a small well of fresh spring water. I'm not sure the plagued citizens of the town even realize its value--it's a small holy vestige in an unhallowed sea.\n\nBring me a sample of that water in this waterskin.",
+  "files": [
+   "quests/1536-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "03a46eed8057",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Brine",
+  "quest": "Call of Water",
+  "en": "This is good, Adventurer. You're dedicated to the task at hand and have the ability to seek out that which is needed.\n\nOne more sample is all I need to create the reagent needed for your sapta. Islen will be pleased as well.",
+  "files": [
+   "quests/1536-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3707bba566ac",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Brine",
+  "quest": "Call of Water",
+  "en": "Islen will have one more task for you before rewarding you with your next totem. The vial of water I've given you is necessary for whatever that task is.\n\nGo now and find her. We shall meet again some day.",
+  "files": [
+   "quests/220-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5ce21ba6dd9e",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Eldrun Stormbreaker",
+  "quest": "Call of Water",
+  "en": "Long has it been since ye were last tested, Adventurer. Ye have shown patience thus far in yer studies, but the time has come for ye to learn about the purity of water.\n\nSeek out Norric Lochthane in Loch Modan. He is along the north western edge o' the lake, south of Stonewrought Dam. Ye will find him there at his burrow hut. Good luck to ye, Adventurer.",
+  "files": [
+   "quests/94494-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d4cf7b4cb65e",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Hervdana Saegrund",
+  "quest": "Call of Water",
+  "en": "Aye, I see it in yer eyes, traveler. You're wonderin' what kind o' soul chooses to live out here, deep in the Wetlands, with Dark Iron scum lurkin' about and nary a guard in sight. Well, we all have our reasons, love.\n\nBut the real question is, what brings you to our home? Out here at the edge of the falls, I reckon we both know the answer to that.",
+  "files": [
+   "quests/94495-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a10bd70e25cb",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Hervdana Saegrund",
+  "quest": "Call of Water",
+  "en": "Ah, so ye've come seekin' the sapta, have ye? Well then, listen close, love. To find understandin' and earn the sapta, ye must seek water in its various forms. As ye gather the samples, keep yer eyes open. Watch the beasts that guard it, the land it nourishes, and how it changes lives.\n\nWe'll start simple: fill this skin at the base o' the falls, where the fresh meets the brackish. Go on now, and mind the marsh.",
+  "files": [
+   "quests/94497-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c00c6163076a",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Hervdana Saegrund",
+  "quest": "Call of Water",
+  "en": "Glad ye managed to steer clear o' the Dark Iron. Shame they've crept so far north--makes ye wonder what dwarfkind could do if the clans ever stopped squabblin' and worked as one.\n\nStill, the tides rise high when the moons are strong, and the seawater floods the marsh. It's here that we study our estuary water.\n\nThank ye for this sacred offering, it marks the beginning of your stage as a vessel--one who seeks the waters' wisdom.",
+  "files": [
+   "quests/94497-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "593507240901",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Hervdana Saegrund",
+  "quest": "Call of Water",
+  "en": "Aye, Redridge drinks deep from Lake Everstill, but by the time the waters tumble down Stonewatch Falls, somethin' has seeped in. The murlocs down there are big, twisted brutes. Not like the ones ye find here or in the Loch. Lucky for the townsfolk they keep to the base o' the falls.\n\nBring a sampling to me. I've a mind to find out if it's magic, venom, or somethin' worse that's taintin' the waters near that old fort.",
+  "files": [
+   "quests/94499-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "364e35eb3254",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Hervdana Saegrund",
+  "quest": "Call of Water",
+  "en": "Aye, this is good water, Theinn. The magic used by the shadowseers in the region must be changin' the murlocs. Nothin' but pure water, this be. Yer dedication to the task at hand and abilities to seek out that which is needed proves you're ready for the next stage of your journey.\n\nOne more sample is all I need to create the reagent needed for your sapta. Norric will be pleased as well.",
+  "files": [
+   "quests/94499-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b2b5cc6ddede",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Hervdana Saegrund",
+  "quest": "Call of Water",
+  "en": "Take this waterskin and journey deep into the emerald shade o' Ashenvale. Astranaar rests cradled by waters untouched by corruption. Ruins litter the bed o' the lake, hinting at a bygone era. Bring back a sample from the lake. Pure, ancient, and possibly enchanted water.\n\nIt's the last liquid I need before I send ye back to Norric.\n\nBoard the boat in Menethil to Auberdine, it stops in Southshore on the way over.\n\nAnd mind yerself... the forest's got eyes, and they don't blink.",
+  "files": [
+   "quests/94500-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d877a698d54a",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Hervdana Saegrund",
+  "quest": "Call of Water",
+  "en": "Well done, Theinn! With all three samples in hand, I'll brew ye a vial o' water so pure it'd make the mountains weep. It's the final piece for yer rite o' passage. I'm proud to call ye kin, Theinn. Ye've done adventurer proud, and I look forward to hearing yer tales in the future.",
+  "files": [
+   "quests/94500-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "94c531788527",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Hervdana Saegrund",
+  "quest": "Call of Water",
+  "en": "Norric will have one more task for ye before rewarding ye with the water totem rites. The vial of water I've given ye is necessary for whatever that task is. Go now and find him. We shall meet again some day.",
+  "files": [
+   "quests/94501-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5ae0a7c96bde",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Islen Waterseer",
+  "quest": "Call of Water",
+  "en": "The wind approaches you quickly from the horizon; the earth is steady beneath your feet; and your spirit is already warmed by fire--I would say it is time for you to learn about the purity of water.\n\nYour path has led you this far, and your spirit will give you the strength to carry on even further. But the first step is yours to take.",
+  "files": [
+   "quests/1528-complete",
+   "quests/1529-complete",
+   "quests/2985-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b1a2e4ca3b4b",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Islen Waterseer",
+  "quest": "Call of Water",
+  "en": "If there is one lesson you must learn of water, it is this: water means rebirth.\n\nIts power flows, erodes, and makes clean all manner of things. You will find its ability to heal and replenish incomparable, but only when it is pure.\n\nWhen you understand that water, when polluted, can devastate all that it touches, you will appreciate how vital a resource it is.\n\nIf you wish the water sapta, find Brine deep in Southern Barrens. Her home is continually molested by the quilboar there.",
+  "files": [
+   "quests/1530-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "bf1a5c7a93ef",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Islen Waterseer",
+  "quest": "Call of Water",
+  "en": "Ah, a vial of water created and blessed by Brine, and gathered by you, no less.\n\nThe liquid in this vial will be key in creating a sapta for you, but also used in one other task.\n\nThe sapta I create for you should be used to see the water spirits at the shrine in Silverpine Forest, south of the Undercity. The remaining drops, well, the remaining drops I will tell you about if you feel you are ready.\n\nAre you prepared for one more journey, Adventurer?",
+  "files": [
+   "quests/220-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3496d37e340e",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Islen Waterseer",
+  "quest": "Call of Water",
+  "en": "Along the coast of Silverpine, west of the Sepulcher, you will find a shrine that has become tainted by the plague. The spirits there no longer speak to our people and it will be up to you to defeat the manifestation and cleanse the pool.\n\nTake the elemental's bracers, along with the remaining drops of Brine's potion, and place them on the brazier. The ritual should be enough to summon a pure spirit for you to communicate with.\n\nBring me proof the task is done, and I will reward you with your totem.",
+  "files": [
+   "quests/63-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f35a4f2dd3b7",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Islen Waterseer",
+  "quest": "Call of Water",
+  "en": "This is the proof I asked for. You've done well, Adventurer.\n\nI am pleased to be the first to congratulate you and give you this... your water totem.\n\nUse it well, and good luck.\n\nYour next test will not be for some time, so learn your lessons well. Pure water will not only give life back to those who are injured, but can have many other effects. I suggest you seek out a shaman trainer when you have the time. They might have other spells for you to learn.",
+  "files": [
+   "quests/96-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "da572749f1e3",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Narm Skychaser",
+  "quest": "Call of Water",
+  "en": "Long has it been since you were last tested, Adventurer. You have shown patience thus far in your studies, but the time has come for you to learn more. The time has come for you to learn about the purity of water.\n\nSeek out Islen Waterseer in the Barrens. She is along the eastern coast, south of the Southfury River and Ratchet. You will find her there at her fishing hut. Good luck to you, Adventurer.",
+  "files": [
+   "quests/2986-accept",
+   "quests/1529-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8ccbf0085185",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Norric Lochthane",
+  "quest": "Call of Water",
+  "en": "The wind's rushin' at yer back, the stone's firm beneath yer boots, and the fire in yer belly's burnin' bright. Aye, it's time ye learned the truth o' water's purity. Yer path's been long, but it's yer spirit that'll carry ye further still. Now, go on, take that first step. The mountain waits for no one.",
+  "files": [
+   "quests/94494-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "46ef9e94d64b",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Norric Lochthane",
+  "quest": "Call of Water",
+  "en": "If there's one truth ye need to learn about water, it's this: water means rebirth. It carves stone, cleanses filth, and heals the weary -- but only when it's pure. Taint it, and it'll ruin all it touches.\n\nIf ye seek the water sapta, find Hervdana Saegrund in the Wetlands. Her family dwells in a cave beneath the southern falls.\n\nGo on then, don't let the river outrun ye.",
+  "files": [
+   "quests/94495-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "38570b7b6f35",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Norric Lochthane",
+  "quest": "Call of Water",
+  "en": "Ahh, water blessed by Hervdana herself, and gathered by your own hands? A gift indeed.\n\nThese vials shall birth your sapta, letting you glimpse the water spirits at Stendel's Pond, near Moonbrook. The last few drops of the water have an equally important purpose... waste not even a cork stopper dampened with sacred water.",
+  "files": [
+   "quests/94501-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "062ab0caf5d6",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Norric Lochthane",
+  "quest": "Call of Water",
+  "en": "In Westfall, outside o' Moonbrook lies Stendel's Pond. Once a pure spring, now touched by dark forces. The spirits there 'ave gone silent.\n\nYe must face the corruption that fouls the waters. Take its bracers and the last drops o' Hervdana's potion, then place 'em on the shrine. That'll call forth a spirit, cleansed and true. Speak with it, learn what ye can.\n\nBring me proof the deed's done, and I'll grant ye the totem.",
+  "files": [
+   "quests/94502-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ec25468b7463",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Norric Lochthane",
+  "quest": "Call of Water",
+  "en": "Aye, this is the proof I asked for, and ye've done well, Theinn. I'm proud to be the first to offer my congratulations--and yer water totem. Use it wisely, and may fortune walk beside ye.\n\nYer next trial won't come soon, so take this time to learn. Pure water heals, aye, but its gifts go far beyond mending wounds.",
+  "files": [
+   "quests/94505-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "34109f2774b6",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Searn Firewarder",
+  "quest": "Call of Water",
+  "en": "Water be in ya future, mon. I see you be strong in da ways of fire already, an' me tinkin' you be ready to talk to Islen.\n\nIslen live along the coast of da Barrens. If ya head south along the Southfury River, ya canna miss her--look fer da big shark! She be strong in da ways of da elements and can teach ya da ways of water... if you tink you be ready.\n\nShe be easy ta find, just don' go too far south--she be jus' beyond Ratchet.",
+  "files": [
+   "quests/1528-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "14882cee2181",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Swart",
+  "quest": "Call of Water",
+  "en": "You look ready for your next test, Adventurer. You've been patient in your studies, but the time has come for you to learn more. The time has come for you to learn about the purity of water.\n\nSeek out Islen Waterseer in the Barrens. She is along the eastern coast, south of the Southfury River and Ratchet. You will find her there at her fishing hut. Good luck to you, Adventurer.",
+  "files": [
+   "quests/2985-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8c40247feeb9",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Tiev Mordune",
+  "quest": "Call of Water",
+  "en": "Come down to da shrine with Tiev. We'll put da sapta magics to work there.",
+  "files": [
+   "followup/3069-troll-male-shaman"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "bd1b389bc9fe",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Tiev Mordune",
+  "quest": "Call of Water",
+  "en": "Greetin's, brotha! Have you too come to purify the waters here and prove your understandin' to Islen?\n\nI've just defeated the corrupt water spirit meself, and I'm just 'bout to put da bracers and remaining drops o' water on the brazier.\n\nWhat's dat? Ahhh. Tiev understan' all too well when somethin' goes wrong. Well, Tiev can help you plenty if you be needin' to see the pure water spirit again.\n\nBring me a water sapta from Islen as proof that you be ready, an' I'll wait to turn in me parts.",
+  "files": [
+   "quests/m-1103-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "66346516c0a9",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Tiev Mordune",
+  "quest": "Call of Water",
+  "en": "Ahhh, den yur ready...\n\nI'll put me items in the brazier den, and you c'n talk wit' da spirit too.\n\nAn' dontchu worry none 'bout seein' into da spirit world wit' da sapta... ol' Tiev know a trick or two 'bout how da sapta magic works.\n\nCome now, head down wit' me to the shrine and let's speak to da spirits together, brotha.",
+  "files": [
+   "quests/m-1103-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6ec63e33dfc3",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Mallory",
+  "quest": "Camping 101: Alchemy",
+  "en": "There you have it, you can now craft your very own Mana Well. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97915-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "978fba09316c",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Brakk",
+  "quest": "Camping 101: Alchemy",
+  "en": "So, you chose to cook up brews and potions as an Alchemist. I'm sure that'll come in handy in your travels.\n\nI reckon I know someone that can teach you how to craft a Mana Well for your camp. Build one of these and all of the healers and spellcaster types will come running to get a refreshing taste.",
+  "files": [
+   "quests/97899-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "32f4e5bbea96",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Carolai Anise",
+  "quest": "Camping 101: Alchemy",
+  "en": "There you have it, you can now craft your very own Mana Well. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97951-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "80a5ab6105e5",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Cyndra Kindwhisper",
+  "quest": "Camping 101: Alchemy",
+  "en": "There you have it, you can now craft your very own Mana Well. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97938-complete",
+   "quests/97963-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "75860cce0f56",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Eleanor Shackleton",
+  "quest": "Camping 101: Alchemy",
+  "en": "So, you chose to cook up brews and potions as an Alchemist. I'm sure that'll come in handy in your travels.\n\nI reckon I know someone that can teach you how to craft a Mana Well for your camp. Build one of these and all of the healers and spellcaster types will come running to get a refreshing taste.",
+  "files": [
+   "quests/97951-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8863248d7e37",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Kaga Wildhoof",
+  "quest": "Camping 101: Alchemy",
+  "en": "So, you chose to cook up brews and potions as an Alchemist. I'm sure that'll come in handy in your travels.\n\nI reckon I know someone that can teach you how to craft a Mana Well for your camp. Build one of these and all of the healers and spellcaster types will come running to get a refreshing taste.",
+  "files": [
+   "quests/97927-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4345eb72d7e3",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Kray",
+  "quest": "Camping 101: Alchemy",
+  "en": "There you have it, you can now craft your very own Mana Well. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97927-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e8c0ebd3852a",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lyreena Duskblade",
+  "quest": "Camping 101: Alchemy",
+  "en": "So, you chose to cook up brews and potions as an Alchemist. I'm sure that'll come in handy in your travels.\n\nI reckon I know someone that can teach you how to craft a Mana Well for your camp. Build one of these and all of the healers and spellcaster types will come running to get a refreshing taste.",
+  "files": [
+   "quests/97938-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e074b2e4cc79",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Raan Wildwind",
+  "quest": "Camping 101: Alchemy",
+  "en": "So, you chose to cook up brews and potions as an Alchemist. I'm sure that'll come in handy in your travels.\n\nI reckon I know someone that can teach you how to craft a Mana Well for your camp. Build one of these and all of the healers and spellcaster types will come running to get a refreshing taste.",
+  "files": [
+   "quests/97963-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ae65dd1be32a",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Vosur Brakthel",
+  "quest": "Camping 101: Alchemy",
+  "en": "Now that you've taken up Alchemy, I can also teach you how to craft a Mana Well for your camp once you've learned a bit. Build one of these and all of the healers and spellcaster types will come running to get a refreshing taste.",
+  "files": [
+   "quests/96045-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "76fe2e848671",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Vosur Brakthel",
+  "quest": "Camping 101: Alchemy",
+  "en": "There you have it, you can now craft your very own Mana Well. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/96045-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "195a9625d6c3",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Whuut",
+  "quest": "Camping 101: Alchemy",
+  "en": "There ya have it, directions for your very own Mana Well. Most folks don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to try it out.\n\nNo camp is complete without a campfire. You'll need one of those as the basis of your camp. Most cooks can teach you to make a fire. Check in with someone who can train you in cooking if you haven't already learned the basics.",
+  "files": [
+   "quests/97899-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3bb016a06084",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Сэм Сарсапарилла",
+  "quest": "Camping 101: Alchemy",
+  "en": "So, you chose to cook up brews and potions as an Alchemist. I'm sure that'll come in handy in your travels.\n\nI reckon I know someone that can teach you how to craft a Mana Well for your camp. Build one of these and all of the healers and spellcaster types will come running to get a refreshing taste.",
+  "files": [
+   "quests/97915-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6daf396bf2fa",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Aedi Thriceforged",
+  "quest": "Camping 101: Blacksmithing",
+  "en": "There you have it, you can now craft your very own Sharpening Wheel. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97964-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "af690dd3af35",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Basil Frye",
+  "quest": "Camping 101: Blacksmithing",
+  "en": "There you have it, you can now craft your very own Sharpening Wheel. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97952-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "91ad9bbe0283",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Brakk",
+  "quest": "Camping 101: Blacksmithing",
+  "en": "So, you've become a Blacksmith. That's a great choice if you want to make sure your blades never dull.\n\nI reckon I know someone that can help with that by teaching you how to craft a Sharpening Wheel. Bring one of these out at your camp and all the warriors and rogues in the area will be lining up to hone their weapons.",
+  "files": [
+   "quests/97900-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0a9541b21632",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Dwukk",
+  "quest": "Camping 101: Blacksmithing",
+  "en": "There you have it, you can now craft your very own Sharpening Wheel. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97900-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "656d728984bc",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Eleanor Shackleton",
+  "quest": "Camping 101: Blacksmithing",
+  "en": "So, you've become a Blacksmith. That's a great choice if you want to make sure your blades never dull.\n\nI reckon I know someone that can help with that by teaching you how to craft a Sharpening Wheel. Bring one of these out at your camp and all the warriors and rogues in the area will be lining up to hone their weapons.",
+  "files": [
+   "quests/97952-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3f7b66893a56",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Eric Brighthammer",
+  "quest": "Camping 101: Blacksmithing",
+  "en": "So, you've become a Blacksmith. That's a great choice if you want to make sure your blades never dull.\n\nI reckon I know someone that can help with that by teaching you how to craft a Sharpening Wheel. Bring one of these out at your camp and all the warriors and rogues in the area will be lining up to hone their weapons.",
+  "files": [
+   "quests/96044-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "936c7bfdbc36",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Kaga Wildhoof",
+  "quest": "Camping 101: Blacksmithing",
+  "en": "So, you've become a Blacksmith. That's a great choice if you want to make sure your blades never dull.\n\nI reckon I know someone that can help with that by teaching you how to craft a Sharpening Wheel. Bring one of these out at your camp and all the warriors and rogues in the area will be lining up to hone their weapons.",
+  "files": [
+   "quests/97928-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e000a8f90748",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lyreena Duskblade",
+  "quest": "Camping 101: Blacksmithing",
+  "en": "So, you've become a Blacksmith. That's a great choice if you want to make sure your blades never dull.\n\nI reckon I know someone that can help with that by teaching you how to craft a Sharpening Wheel. Bring one of these out at your camp and all the warriors and rogues in the area will be lining up to hone their weapons.",
+  "files": [
+   "quests/97939-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "bab581602728",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Raan Wildwind",
+  "quest": "Camping 101: Blacksmithing",
+  "en": "So, you've become a Blacksmith. That's a great choice if you want to make sure your blades never dull.\n\nI reckon I know someone that can help with that by teaching you how to craft a Sharpening Wheel. Bring one of these out at your camp and all the warriors and rogues in the area will be lining up to hone their weapons.",
+  "files": [
+   "quests/97964-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9f7a861701c9",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Smith Argus",
+  "quest": "Camping 101: Blacksmithing",
+  "en": "There you have it, you can now craft your very own Sharpening Wheel. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97916-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a833729ee53b",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Thrag Stonehoof",
+  "quest": "Camping 101: Blacksmithing",
+  "en": "There you have it, you can now craft your very own Sharpening Wheel. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97928-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "087bec5dbe52",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Tognus Flintfire",
+  "quest": "Camping 101: Blacksmithing",
+  "en": "There you have it, you can now craft your very own Sharpening Wheel. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/96044-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "14ca92a27baa",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Сэм Сарсапарилла",
+  "quest": "Camping 101: Blacksmithing",
+  "en": "So, you've become a Blacksmith. That's a great choice if you want to make sure your blades never dull.\n\nI reckon I know someone that can help with that by teaching you how to craft a Sharpening Wheel. Bring one of these out at your camp and all the warriors and rogues in the area will be lining up to hone their weapons.",
+  "files": [
+   "quests/97916-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4fb5a6b49027",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Brakk",
+  "quest": "Camping 101: Cooking",
+  "en": "So you want to learn more about camping, huh? Good for you, adventurer. The first step any adventurer needs to take is to become a cook and learn how to make a campfire.\n\nCooking's not just about making tasty foods. It's also the foundation for your camp.",
+  "files": [
+   "quests/96655-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b558a57af769",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Cook Torka",
+  "quest": "Camping 101: Cooking",
+  "en": "With this, you'll be able to set up a camp anywhere out in the wilderness. What you've learned is just the basics, so you won't be able to place too many furnishings around it.\n\nRaise your cooking skill and you might just be able to learn to make even bigger fires.\n\nYou can also learn the basics of furnishing your campsites from other tradeskill trainers if you're savvy in their skills.",
+  "files": [
+   "quests/96655-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "611848448023",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Eleanor Shackleton",
+  "quest": "Camping 101: Cooking",
+  "en": "So you want to learn more about camping, huh? Good for you, adventurer. The first step any adventurer needs to take is to become a cook and learn how to make a campfire.\n\nCooking's not just about making tasty foods. It's also the foundation for your camp.",
+  "files": [
+   "quests/96658-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5067207ac14c",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Eric Brighthammer",
+  "quest": "Camping 101: Cooking",
+  "en": "So you want to learn more about camping, huh? Good for you, adventurer. The first step any adventurer needs to take is to become a cook and learn how to make a campfire.\n\nCooking's not just about making tasty foods. It's also the foundation for your camp.",
+  "files": [
+   "quests/96629-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4f0f04a17f9e",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gremlock Pilsnor",
+  "quest": "Camping 101: Cooking",
+  "en": "With this, you'll be able to set up a camp anywhere out in the wilderness. What you've learned is just the basics, so you won't be able to place too many furnishings around it.\n\nRaise your cooking skill and you might just be able to learn to make even bigger fires.\n\nYou can also learn the basics of furnishing your campsites from other tradeskill trainers if you're savvy in their skills.",
+  "files": [
+   "quests/96629-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9c2728ad7d30",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Kaga Wildhoof",
+  "quest": "Camping 101: Cooking",
+  "en": "So you want to learn more about camping, huh? Good for you, adventurer. The first step any adventurer needs to take is to become a cook and learn how to make a campfire.\n\nCooking's not just about making tasty foods. It's also the foundation for your camp.",
+  "files": [
+   "quests/96661-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d7df84d2c895",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lyreena Duskblade",
+  "quest": "Camping 101: Cooking",
+  "en": "So you want to learn more about camping, huh? Good for you, adventurer. The first step any adventurer needs to take is to become a cook and learn how to make a campfire.\n\nCooking's not just about making tasty foods. It's also the foundation for your camp.",
+  "files": [
+   "quests/96634-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3f8255156782",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Pyall Silentstride",
+  "quest": "Camping 101: Cooking",
+  "en": "With this, you'll be able to set up a camp anywhere out in the wilderness. What you've learned is just the basics, so you won't be able to place too many furnishings around it.\n\nRaise your cooking skill and you might just be able to learn to make even bigger fires.\n\nYou can also learn the basics of furnishing your campsites from other tradeskill trainers if you're savvy in their skills.",
+  "files": [
+   "quests/96661-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5a7d7656e539",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tomas",
+  "quest": "Camping 101: Cooking",
+  "en": "With this, you'll be able to set up a camp anywhere out in the wilderness. What you've learned is just the basics, so you won't be able to place too many furnishings around it.\n\nRaise your cooking skill and you might just be able to learn to make even bigger fires.\n\nYou can also learn the basics of furnishing your campsites from other tradeskill trainers if you're savvy in their skills.",
+  "files": [
+   "quests/96626-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5e0694f21b92",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "William Pickman",
+  "quest": "Camping 101: Cooking",
+  "en": "With this, you'll be able to set up a camp anywhere out in the wilderness. What you've learned is just the basics, so you won't be able to place too many furnishings around it.\n\nRaise your cooking skill and you might just be able to learn to make even bigger fires.\n\nYou can also learn the basics of furnishing your campsites from other tradeskill trainers if you're savvy in their skills.",
+  "files": [
+   "quests/96658-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b7ab8e594c22",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Zerril Softbreeze",
+  "quest": "Camping 101: Cooking",
+  "en": "With this, you'll be able to set up a camp anywhere out in the wilderness. What you've learned is just the basics, so you won't be able to place too many furnishings around it.\n\nRaise your cooking skill and you might just be able to learn to make even bigger fires.\n\nYou can also learn the basics of furnishing your campsites from other tradeskill trainers if you're savvy in their skills.",
+  "files": [
+   "quests/96646-complete",
+   "quests/96634-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e0e0e6572387",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "npc 263664",
+  "quest": "Camping 101: Cooking",
+  "en": "So you want to learn more about camping, huh? Good for you, adventurer. The first step any adventurer needs to take is to become a cook and learn how to make a campfire.\n\nCooking's not just about making tasty foods. It's also the foundation for your camp.",
+  "files": [
+   "quests/96646-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7f02b97c6ea6",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Сэм Сарсапарилла",
+  "quest": "Camping 101: Cooking",
+  "en": "So you want to learn more about camping, huh? Good for you, adventurer. The first step any adventurer needs to take is to become a cook and learn how to make a campfire.\n\nCooking's not just about making tasty foods. It's also the foundation for your camp.",
+  "files": [
+   "quests/96626-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "50d0089daa43",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Betty Quin",
+  "quest": "Camping 101: Enchanting",
+  "en": "There you have it, you can now craft your very own Enchanted Lute. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97917-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "319d76a6cdc0",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Brakk",
+  "quest": "Camping 101: Enchanting",
+  "en": "Enchanters make everything better and are always welcome at any camp out in the wilds.\n\nI reckon I know someone that can teach you how to craft an Enchanted Lute for your camp. It's so important to find entertainment during your downtime, and this bit of magic can help ensure you are ready to weather all sorts of challenges when you hit the old dusty trail once again.",
+  "files": [
+   "quests/97901-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9c3adab29a65",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Eleanor Shackleton",
+  "quest": "Camping 101: Enchanting",
+  "en": "Enchanters make everything better and are always welcome at any camp out in the wilds.\n\nI reckon I know someone that can teach you how to craft an Enchanted Lute for your camp. It's so important to find entertainment during your downtime, and this bit of magic can help ensure you are ready to weather all sorts of challenges when you hit the old dusty trail once again.",
+  "files": [
+   "quests/97953-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "fef308548f62",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Jhag",
+  "quest": "Camping 101: Enchanting",
+  "en": "There you have it, you can craft your very own Enchanted Lute. Most folks don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to try it out.\n\nNo camp is complete without a campfire. You'll need one of those as the basis of your camp. Most cooks can teach you to make a fire. Check in with someone who can train you in cooking if you haven't already learned the basics.",
+  "files": [
+   "quests/97901-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a6e8509fbc31",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Kaga Wildhoof",
+  "quest": "Camping 101: Enchanting",
+  "en": "Enchanters make everything better and are always welcome at any camp out in the wilds.\n\nI reckon I know someone that can teach you how to craft an Enchanted Lute for your camp. It's so important to find entertainment during your downtime, and this bit of magic can help ensure you are ready to weather all sorts of challenges when you hit the old dusty trail once again.",
+  "files": [
+   "quests/97929-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1cb90670041f",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lyreena Duskblade",
+  "quest": "Camping 101: Enchanting",
+  "en": "Enchanters make everything better and are always welcome at any camp out in the wilds.\n\nI reckon I know someone that can teach you how to craft an Enchanted Lute for your camp. It's so important to find entertainment during your downtime, and this bit of magic can help ensure you are ready to weather all sorts of challenges when you hit the old dusty trail once again.",
+  "files": [
+   "quests/97940-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "190e764a3e4b",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Nasalanna Windsinger",
+  "quest": "Camping 101: Enchanting",
+  "en": "There you have it, you can now craft your very own Enchanted Lute. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/98286-complete",
+   "quests/98284-complete",
+   "quests/97940-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "96e7b043a5f0",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Raan Wildwind",
+  "quest": "Camping 101: Enchanting",
+  "en": "Enchanters make everything better and are always welcome at any camp out in the wilds.\n\nI reckon I know someone that can teach you how to craft an Enchanted Lute for your camp. It's so important to find entertainment during your downtime, and this bit of magic can help ensure you are ready to weather all sorts of challenges when you hit the old dusty trail once again.",
+  "files": [
+   "quests/98286-accept",
+   "quests/98284-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a5404791c09d",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thonys Pillarstone",
+  "quest": "Camping 101: Enchanting",
+  "en": "Now that you've begun your journey into being an enchanter, I reckon I can teach you how to craft an Enchanted Lute for your camp once you've learned the ropes.\n\nIt's so important to find entertainment during your downtime, and this bit of magic can help ensure you are ready to weather all sorts of challenges when you hit the old dusty trail once again.",
+  "files": [
+   "quests/96059-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "334ce98fab54",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thonys Pillarstone",
+  "quest": "Camping 101: Enchanting",
+  "en": "There you have it, you can now craft your very own Enchanted Lute. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/96059-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b6924ce604a1",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Vance Undergloom",
+  "quest": "Camping 101: Enchanting",
+  "en": "There you have it, you can now craft your very own Enchanted Lute. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97953-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6280e0f5d13f",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Сэм Сарсапарилла",
+  "quest": "Camping 101: Enchanting",
+  "en": "Enchanters make everything better and are always welcome at any camp out in the wilds.\n\nI reckon I know someone that can teach you how to craft an Enchanted Lute for your camp. It's so important to find entertainment during your downtime, and this bit of magic can help ensure you are ready to weather all sorts of challenges when you hit the old dusty trail once again.",
+  "files": [
+   "quests/97917-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4967fae0fd4b",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Brakk",
+  "quest": "Camping 101: Engineering",
+  "en": "Engineers like yourself can cook up all sorts of bits, bots, and bombs for fun and profit.\n\nI reckon I know someone that can teach you how to craft a Reagent Bot for your camp. This helpful automaton can help keep you well-supplied so that you and your allies never run out of the materials needed to fuel your spells.",
+  "files": [
+   "quests/97902-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6c73a29cd277",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Bronk Guzzlegear",
+  "quest": "Camping 101: Engineering",
+  "en": "There you have it, you can now craft your very own Reagent Bot. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/96058-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8fbd83a15983",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Eleanor Shackleton",
+  "quest": "Camping 101: Engineering",
+  "en": "Engineers like yourself can cook up all sorts of bits, bots, and bombs for fun and profit.\n\nI reckon I know someone that can teach you how to craft a Reagent Bot for your camp. This helpful automaton can help keep you well-supplied so that you and your allies never run out of the materials needed to fuel your spells.",
+  "files": [
+   "quests/97954-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1411b447ee39",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Eric Brighthammer",
+  "quest": "Camping 101: Engineering",
+  "en": "Engineers like yourself can cook up all sorts of bits, bots, and bombs for fun and profit.\n\nI reckon I know someone that can teach you how to craft a Reagent Bot for your camp. This helpful automaton can help keep you well-supplied so that you and your allies never run out of the materials needed to fuel your spells.",
+  "files": [
+   "quests/96058-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1d1088361d77",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Graham Van Talen",
+  "quest": "Camping 101: Engineering",
+  "en": "There you have it, you can now craft your very own Reagent Bot. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97954-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6f687dd2d47d",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Jenna Lemkenilli",
+  "quest": "Camping 101: Engineering",
+  "en": "There you have it, you can now craft your very own Reagent Bot. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97941-complete",
+   "quests/97918-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0b7e831ca4f2",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lyreena Duskblade",
+  "quest": "Camping 101: Engineering",
+  "en": "Engineers like yourself can cook up all sorts of bits, bots, and bombs for fun and profit.\n\nI reckon I know someone that can teach you how to craft a Reagent Bot for your camp. This helpful automaton can help keep you well-supplied so that you and your allies never run out of the materials needed to fuel your spells.",
+  "files": [
+   "quests/97941-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4308c6cfb085",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mukdrak",
+  "quest": "Camping 101: Engineering",
+  "en": "There you have it, you can now craft your very own Reagent Bot. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97902-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "94e88cbbad3d",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Strange Hermit",
+  "quest": "Camping 101: Engineering",
+  "en": "An engineer is ever-resourceful, and if you are in the wilds alone, it's always good to be able to put your trade to use. No good camp is complete without a few helpful constructs!\n\nYes, come back and see me when you've gained a little bit of experience as an engineer and I can show you how to make something special!",
+  "files": [
+   "quests/98285-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "521834301f03",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Strange Hermit",
+  "quest": "Camping 101: Engineering",
+  "en": "There you have it, you can now craft your very own Reagent Bot. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/98285-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "804707d10d42",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Сэм Сарсапарилла",
+  "quest": "Camping 101: Engineering",
+  "en": "Engineers like yourself can cook up all sorts of bits, bots, and bombs for fun and profit.\n\nI reckon I know someone that can teach you how to craft a Reagent Bot for your camp. This helpful automaton can help keep you well-supplied so that you and your allies never run out of the materials needed to fuel your spells.",
+  "files": [
+   "quests/97918-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c8f3008b79ca",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Brakk",
+  "quest": "Camping 101: First Aid",
+  "en": "So you've taken up First Aid? That's an honorable... and pragmatic pursuit as a adventurer.\n\nI reckon I know someone that can teach you how to craft a First Aid Kit for your camp. Injuries are a reality in the world of adventuring and offering some much-needed healing at your camp could even save lives.",
+  "files": [
+   "quests/97903-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ab703676bc34",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Byancie",
+  "quest": "Camping 101: First Aid",
+  "en": "There you have it, you can now craft your very own First Aid Kit. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97942-complete",
+   "quests/97965-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "37ab39c305e0",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Eleanor Shackleton",
+  "quest": "Camping 101: First Aid",
+  "en": "So you've taken up First Aid? That's an honorable... and pragmatic pursuit as a adventurer.\n\nI reckon I know someone that can teach you how to craft a First Aid Kit for your camp. Injuries are a reality in the world of adventuring and offering some much-needed healing at your camp could even save lives.",
+  "files": [
+   "quests/97955-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "42a8579fcabe",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Eric Brighthammer",
+  "quest": "Camping 101: First Aid",
+  "en": "So you've taken up First Aid? That's an honorable... and pragmatic pursuit as a adventurer.\n\nI reckon I know someone that can teach you how to craft a First Aid Kit for your camp. Injuries are a reality in the world of adventuring and offering some much-needed healing at your camp could even save lives.",
+  "files": [
+   "quests/96047-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3a50818119b1",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Kaga Wildhoof",
+  "quest": "Camping 101: First Aid",
+  "en": "So you've taken up First Aid? That's an honorable... and pragmatic pursuit as a adventurer.\n\nI reckon I know someone that can teach you how to craft a First Aid Kit for your camp. Injuries are a reality in the world of adventuring and offering some much-needed healing at your camp could even save lives.",
+  "files": [
+   "quests/97931-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "986fae45a7f1",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lyreena Duskblade",
+  "quest": "Camping 101: First Aid",
+  "en": "So you've taken up First Aid? That's an honorable... and pragmatic pursuit as a adventurer.\n\nI reckon I know someone that can teach you how to craft a First Aid Kit for your camp. Injuries are a reality in the world of adventuring and offering some much-needed healing at your camp could even save lives.",
+  "files": [
+   "quests/97942-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "998b2b645477",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Michelle Belle",
+  "quest": "Camping 101: First Aid",
+  "en": "There you have it, you can now craft your very own First Aid Kit. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97919-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c6ffe877723c",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Nurse Neela",
+  "quest": "Camping 101: First Aid",
+  "en": "There you have it, you can now craft your very own First Aid Kit. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97955-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "349192f820a0",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Raan Wildwind",
+  "quest": "Camping 101: First Aid",
+  "en": "So you've taken up First Aid? That's an honorable... and pragmatic pursuit as a adventurer.\n\nI reckon I know someone that can teach you how to craft a First Aid Kit for your camp. Injuries are a reality in the world of adventuring and offering some much-needed healing at your camp could even save lives.",
+  "files": [
+   "quests/97965-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d8d613272b27",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Rawrk",
+  "quest": "Camping 101: First Aid",
+  "en": "There you have it, you can now craft your very own First Aid Kit. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97903-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d726d79df926",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thamner Pol",
+  "quest": "Camping 101: First Aid",
+  "en": "There you have it, you can now craft your very own First Aid Kit. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/96047-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "fee6768baca4",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Vira Younghoof",
+  "quest": "Camping 101: First Aid",
+  "en": "There you have it, you can now craft your very own First Aid Kit. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97931-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8fad16b0587b",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Сэм Сарсапарилла",
+  "quest": "Camping 101: First Aid",
+  "en": "So you've taken up First Aid? That's an honorable... and pragmatic pursuit as a adventurer.\n\nI reckon I know someone that can teach you how to craft a First Aid Kit for your camp. Injuries are a reality in the world of adventuring and offering some much-needed healing at your camp could even save lives.",
+  "files": [
+   "quests/97919-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f19fde2e02ec",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Astaia",
+  "quest": "Camping 101: Fishing",
+  "en": "There you have it, you can now craft your very own Fish Bowl. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97943-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "40dc393f9127",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Brakk",
+  "quest": "Camping 101: Fishing",
+  "en": "You might not think so, but your skill as a fisherman can actually come in handy at camp.\n\nI reckon I know someone that can teach you how to craft a Fish Bowl for your camp. You can use this fixture to help provide a bit of joy to yourself and your fellow adventurers. A happy adventurer is a strong adventurer and I'm sure your combat capabilities will reflect that.",
+  "files": [
+   "quests/97904-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "addd8cb61349",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Clyde Kellen",
+  "quest": "Camping 101: Fishing",
+  "en": "There you have it, you can now craft your very own Fish Bowl. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97956-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "998ec57f359e",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Eleanor Shackleton",
+  "quest": "Camping 101: Fishing",
+  "en": "You might not think so, but your skill as a fisherman can actually come in handy at camp.\n\nI reckon I know someone that can teach you how to craft a Fish Bowl for your camp. You can use this fixture to help provide a bit of joy to yourself and your fellow adventurers. A happy adventurer is a strong adventurer and I'm sure your combat capabilities will reflect that.",
+  "files": [
+   "quests/97956-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4bf45535758a",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Eric Brighthammer",
+  "quest": "Camping 101: Fishing",
+  "en": "You might not think so, but your skill as a fisherman can actually come in handy at camp.\n\nI reckon I know someone that can teach you how to craft a Fish Bowl for your camp. You can use this fixture to help provide a bit of joy to yourself and your fellow adventurers. A happy adventurer is a strong adventurer and I'm sure your combat capabilities will reflect that.",
+  "files": [
+   "quests/96050-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5543ae5d3142",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Fenn Fairweather",
+  "quest": "Camping 101: Fishing",
+  "en": "There you have it, you can now craft your very own Fish Bowl. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97967-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9b31c1de7cf6",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Kaga Wildhoof",
+  "quest": "Camping 101: Fishing",
+  "en": "You might not think so, but your skill as a fisherman can actually come in handy at camp.\n\nI reckon I know someone that can teach you how to craft a Fish Bowl for your camp. You can use this fixture to help provide a bit of joy to yourself and your fellow adventurers. A happy adventurer is a strong adventurer and I'm sure your combat capabilities will reflect that.",
+  "files": [
+   "quests/97932-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ca200491c089",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Lau'Tiki",
+  "quest": "Camping 101: Fishing",
+  "en": "Dere ya have it, ya be craftin' your very own Fish Bowl. Most folk don't be carin' much for camps being set up in da center of town, so ya be needin' ta head into da wilderness if ya be wantin' to try it out.\n\nNo camp is complete without a campfire, mon. Ya be needin' one of dose before ya be startin' up your camp. Most cooks be teachin' ya ta make a fire. Check in with someone who can train ya in da culinary arts if ya haven't already learned da basics.",
+  "files": [
+   "quests/97904-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7c0a96d1e3e7",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lee Brown",
+  "quest": "Camping 101: Fishing",
+  "en": "There you have it, you can now craft your very own Fish Bowl. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97920-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d47ac4fd60e1",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lyreena Duskblade",
+  "quest": "Camping 101: Fishing",
+  "en": "You might not think so, but your skill as a fisherman can actually come in handy at camp.\n\nI reckon I know someone that can teach you how to craft a Fish Bowl for your camp. You can use this fixture to help provide a bit of joy to yourself and your fellow adventurers. A happy adventurer is a strong adventurer and I'm sure your combat capabilities will reflect that.",
+  "files": [
+   "quests/97943-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "96c25b15ba63",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Paxton Ganter",
+  "quest": "Camping 101: Fishing",
+  "en": "There you have it, you can now craft your very own Fish Bowl. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/96050-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d980508dd131",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Raan Wildwind",
+  "quest": "Camping 101: Fishing",
+  "en": "You might not think so, but your skill as a fisherman can actually come in handy at camp.\n\nI reckon I know someone that can teach you how to craft a Fish Bowl for your camp. You can use this fixture to help provide a bit of joy to yourself and your fellow adventurers. A happy adventurer is a strong adventurer and I'm sure your combat capabilities will reflect that.",
+  "files": [
+   "quests/97967-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "aa6e4ecc54c5",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Uthan Stillwater",
+  "quest": "Camping 101: Fishing",
+  "en": "There you have it, you can now craft your very own Fish Bowl. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97932-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7408670e009a",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Сэм Сарсапарилла",
+  "quest": "Camping 101: Fishing",
+  "en": "You might not think so, but your skill as a fisherman can actually come in handy at camp.\n\nI reckon I know someone that can teach you how to craft a Fish Bowl for your camp. You can use this fixture to help provide a bit of joy to yourself and your fellow adventurers. A happy adventurer is a strong adventurer and I'm sure your combat capabilities will reflect that.",
+  "files": [
+   "quests/97920-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7f296a01e56e",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Brakk",
+  "quest": "Camping 101: Herbalism",
+  "en": "Looks to me like you've gained some skill in herbalism. Picking flowers isn't just for dilly-dallying, you know. It can be useful... and profitable.\n\nI reckon I know someone that can teach you how to craft an Incense Candle for your camp. High spirits are a key component to keeping healers and spellcasters in the fight, and an Incense Candle can provide a boost that magic users will surely appreciate.",
+  "files": [
+   "quests/97905-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "374cf6f6bd9f",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Eleanor Shackleton",
+  "quest": "Camping 101: Herbalism",
+  "en": "Looks to me like you've gained some skill in herbalism. Picking flowers isn't just for dilly-dallying, you know. It can be useful... and profitable.\n\nI reckon I know someone that can teach you how to craft an Incense Candle for your camp. High spirits are a key component to keeping healers and spellcasters in the fight, and an Incense Candle can provide a boost that magic users will surely appreciate.",
+  "files": [
+   "quests/97957-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "19d33d21577e",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Eric Brighthammer",
+  "quest": "Camping 101: Herbalism",
+  "en": "Looks to me like you've gained some skill in herbalism. Picking flowers isn't just for dilly-dallying, you know. It can be useful... and profitable.\n\nI reckon I know someone that can teach you how to craft an Incense Candle for your camp. High spirits are a key component to keeping healers and spellcasters in the fight, and an Incense Candle can provide a boost that magic users will surely appreciate.",
+  "files": [
+   "quests/96055-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7b848345edb8",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Faruza",
+  "quest": "Camping 101: Herbalism",
+  "en": "There you have it, you can now craft your very own Incense Candle. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97957-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "93280ac9c15f",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Herbalist Pomeroy",
+  "quest": "Camping 101: Herbalism",
+  "en": "There you have it, you can now craft your very own Incense Candle. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97921-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3a1a17692d85",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Jandi",
+  "quest": "Camping 101: Herbalism",
+  "en": "Dere ya have it, ya be craftin' your very own Incense Candle. Most folk don't be carin' much for camps being set up in da center of town, so ya be needin' ta head into da wilderness if ya be wantin' to try it out.\n\nNo camp is complete without a campfire, mon. Ya be needin' one of dose before ya be startin' up your camp. Most cooks be teachin' ya ta make a fire. Check in with someone who can train ya in da culinary arts if ya haven't already learned da basics.",
+  "files": [
+   "quests/97905-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "17ebcc546b9f",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Kaga Wildhoof",
+  "quest": "Camping 101: Herbalism",
+  "en": "Looks to me like you've gained some skill in herbalism. Picking flowers isn't just for dilly-dallying, you know. It can be useful... and profitable.\n\nI reckon I know someone that can teach you how to craft an Incense Candle for your camp. High spirits are a key component to keeping healers and spellcasters in the fight, and an Incense Candle can provide a boost that magic users will surely appreciate.",
+  "files": [
+   "quests/97933-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f3ff50338c00",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Komin Winterhoof",
+  "quest": "Camping 101: Herbalism",
+  "en": "There you have it, you can now craft your very own Incense Candle. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97933-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e942b777d8d0",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lyreena Duskblade",
+  "quest": "Camping 101: Herbalism",
+  "en": "Looks to me like you've gained some skill in herbalism. Picking flowers isn't just for dilly-dallying, you know. It can be useful... and profitable.\n\nI reckon I know someone that can teach you how to craft an Incense Candle for your camp. High spirits are a key component to keeping healers and spellcasters in the fight, and an Incense Candle can provide a boost that magic users will surely appreciate.",
+  "files": [
+   "quests/97944-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b74ba46c5730",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Malorne Bladeleaf",
+  "quest": "Camping 101: Herbalism",
+  "en": "There you have it, you can now craft your very own Incense Candle. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97944-complete",
+   "quests/97968-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e9be249cdd08",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Raan Wildwind",
+  "quest": "Camping 101: Herbalism",
+  "en": "Looks to me like you've gained some skill in herbalism. Picking flowers isn't just for dilly-dallying, you know. It can be useful... and profitable.\n\nI reckon I know someone that can teach you how to craft an Incense Candle for your camp. High spirits are a key component to keeping healers and spellcasters in the fight, and an Incense Candle can provide a boost that magic users will surely appreciate.",
+  "files": [
+   "quests/97968-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5bf073940763",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Reyna Stonebranch",
+  "quest": "Camping 101: Herbalism",
+  "en": "There you have it, you can now craft your very own Incense Candle. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/96055-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b804f9bbcf71",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Сэм Сарсапарилла",
+  "quest": "Camping 101: Herbalism",
+  "en": "Looks to me like you've gained some skill in herbalism. Picking flowers isn't just for dilly-dallying, you know. It can be useful... and profitable.\n\nI reckon I know someone that can teach you how to craft an Incense Candle for your camp. High spirits are a key component to keeping healers and spellcasters in the fight, and an Incense Candle can provide a boost that magic users will surely appreciate.",
+  "files": [
+   "quests/97921-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "52aa22f568c7",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Adele Fielder",
+  "quest": "Camping 101: Leatherworking",
+  "en": "There you have it, your very own camp tent. Most folk don't care much for tents being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97922-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2e551825149e",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Brakk",
+  "quest": "Camping 101: Leatherworking",
+  "en": "You've become a leatherworker. Good for you, adventurer. I reckon I know someone that can teach you how to make yourself a tent that will keep you cool on hot days, and dry on rainy days.\n\nWith a good tent over your head, you'll ensure that you get all the rest you need to stay sharp on your travels.",
+  "files": [
+   "quests/97906-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a488e547e177",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Chaw Stronghide",
+  "quest": "Camping 101: Leatherworking",
+  "en": "There you have it, your very own camp tent. Most folk don't care much for tents being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97934-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5b6f563a4e11",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Eleanor Shackleton",
+  "quest": "Camping 101: Leatherworking",
+  "en": "You've become a leatherworker. Good for you, adventurer. I reckon I know someone that can teach you how to make yourself a tent that will keep you cool on hot days, and dry on rainy days.\n\nWith a good tent over your head, you'll ensure that you get all the rest you need to stay sharp on your travels.",
+  "files": [
+   "quests/97958-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2bb46a6e9a3a",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Eric Brighthammer",
+  "quest": "Camping 101: Leatherworking",
+  "en": "You've become a leatherworker. Good for you, adventurer. I reckon I know someone that can teach you how to make yourself a tent that will keep you cool on hot days, and dry on rainy days.\n\nWith a good tent over your head, you'll ensure that you get all the rest you need to stay sharp on your travels.",
+  "files": [
+   "quests/96031-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "24acd0e98b99",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Gretta Finespindle",
+  "quest": "Camping 101: Leatherworking",
+  "en": "There you have it, your very own camp tent. Most folk don't care much for tents being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/96031-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ff9800af2f6b",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Indari Sunseam",
+  "quest": "Camping 101: Leatherworking",
+  "en": "There you have it, your very own camp tent. Most folk don't care much for tents being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97969-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ce67ce551cee",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Kaga Wildhoof",
+  "quest": "Camping 101: Leatherworking",
+  "en": "You've become a leatherworker. Good for you, adventurer. I reckon I know someone that can teach you how to make yourself a tent that will keep you cool on hot days, and dry on rainy days.\n\nWith a good tent over your head, you'll ensure that you get all the rest you need to stay sharp on your travels.",
+  "files": [
+   "quests/97934-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "28ed14f8aecc",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Karolek",
+  "quest": "Camping 101: Leatherworking",
+  "en": "There you have it, your very own camp tent. Most folk don't care much for tents being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97906-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "73b8a251bcfd",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lyreena Duskblade",
+  "quest": "Camping 101: Leatherworking",
+  "en": "You've become a leatherworker. Good for you, adventurer. I reckon I know someone that can teach you how to make yourself a tent that will keep you cool on hot days, and dry on rainy days.\n\nWith a good tent over your head, you'll ensure that you get all the rest you need to stay sharp on your travels.",
+  "files": [
+   "quests/97946-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "31b608f301bd",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Nadyia Maneweaver",
+  "quest": "Camping 101: Leatherworking",
+  "en": "There you have it, your very own camp tent. Most folk don't care much for tents being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97946-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c8e7ed2be466",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Raan Wildwind",
+  "quest": "Camping 101: Leatherworking",
+  "en": "You've become a leatherworker. Good for you, adventurer. I reckon I know someone that can teach you how to make yourself a tent that will keep you cool on hot days, and dry on rainy days.\n\nWith a good tent over your head, you'll ensure that you get all the rest you need to stay sharp on your travels.",
+  "files": [
+   "quests/97969-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ed9f20156096",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shelene Rhobart",
+  "quest": "Camping 101: Leatherworking",
+  "en": "There you have it, your very own camp tent. Most folk don't care much for tents being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97958-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f60ae92d2a51",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Сэм Сарсапарилла",
+  "quest": "Camping 101: Leatherworking",
+  "en": "You've become a leatherworker. Good for you, adventurer. I reckon I know someone that can teach you how to make yourself a tent that will keep you cool on hot days, and dry on rainy days.\n\nWith a good tent over your head, you'll ensure that you get all the rest you need to stay sharp on your travels.",
+  "files": [
+   "quests/97922-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3a1dca21cf79",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Brakk",
+  "quest": "Camping 101: Mining",
+  "en": "Mining isn't the most glamorous, but it's good honest work and a fine profession for you to explore.\n\nI reckon I know someone that can teach you how to craft a Lodestone for your camp. Build one of these and everyone who wants to swing a sword will be eager to gather round your fire and soak up the extra \"oomph\" it can provide to increase their combat prowess.",
+  "files": [
+   "quests/97907-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3fd1e7c6407d",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brek Stonehoof",
+  "quest": "Camping 101: Mining",
+  "en": "There you have it, you can now craft your very own Lodestone. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97935-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "827be46af879",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Brom Killian",
+  "quest": "Camping 101: Mining",
+  "en": "There you have it, you can now craft your very own Lodestone. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97959-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e75c484b5665",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Eleanor Shackleton",
+  "quest": "Camping 101: Mining",
+  "en": "Mining isn't the most glamorous, but it's good honest work and a fine profession for you to explore.\n\nI reckon I know someone that can teach you how to craft a Lodestone for your camp. Build one of these and everyone who wants to swing a sword will be eager to gather round your fire and soak up the extra \"oomph\" it can provide to increase their combat prowess.",
+  "files": [
+   "quests/97959-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "cdc6ced77cb0",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Eric Brighthammer",
+  "quest": "Camping 101: Mining",
+  "en": "Mining isn't the most glamorous, but it's good honest work and a fine profession for you to explore.\n\nI reckon I know someone that can teach you how to craft a Lodestone for your camp. Build one of these and everyone who wants to swing a sword will be eager to gather round your fire and soak up the extra \"oomph\" it can provide to increase their combat prowess.",
+  "files": [
+   "quests/96046-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "68ca939704af",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gelman Stonehand",
+  "quest": "Camping 101: Mining",
+  "en": "There you have it, you can now craft your very own Lodestone. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97923-complete",
+   "quests/97948-complete",
+   "quests/96046-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7e27d704bdb6",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Kaga Wildhoof",
+  "quest": "Camping 101: Mining",
+  "en": "Mining isn't the most glamorous, but it's good honest work and a fine profession for you to explore.\n\nI reckon I know someone that can teach you how to craft a Lodestone for your camp. Build one of these and everyone who wants to swing a sword will be eager to gather round your fire and soak up the extra \"oomph\" it can provide to increase their combat prowess.",
+  "files": [
+   "quests/97935-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "af5a84630c0d",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Krunn",
+  "quest": "Camping 101: Mining",
+  "en": "There you have it, you can now craft your very own Lodestone. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97907-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "00d223ca9d5d",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lyreena Duskblade",
+  "quest": "Camping 101: Mining",
+  "en": "Mining isn't the most glamorous, but it's good honest work and a fine profession for you to explore.\n\nI reckon I know someone that can teach you how to craft a Lodestone for your camp. Build one of these and everyone who wants to swing a sword will be eager to gather round your fire and soak up the extra \"oomph\" it can provide to increase their combat prowess.",
+  "files": [
+   "quests/97948-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "01f48ce4996b",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Messana Crestavento",
+  "quest": "Camping 101: Mining",
+  "en": "There you have it, you can now craft your very own Lodestone. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97970-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7eaccc93d9e0",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Raan Wildwind",
+  "quest": "Camping 101: Mining",
+  "en": "Mining isn't the most glamorous, but it's good honest work and a fine profession for you to explore.\n\nI reckon I know someone that can teach you how to craft a Lodestone for your camp. Build one of these and everyone who wants to swing a sword will be eager to gather round your fire and soak up the extra \"oomph\" it can provide to increase their combat prowess.",
+  "files": [
+   "quests/97970-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2c45b1a7d0dd",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Сэм Сарсапарилла",
+  "quest": "Camping 101: Mining",
+  "en": "Mining isn't the most glamorous, but it's good honest work and a fine profession for you to explore.\n\nI reckon I know someone that can teach you how to craft a Lodestone for your camp. Build one of these and everyone who wants to swing a sword will be eager to gather round your fire and soak up the extra \"oomph\" it can provide to increase their combat prowess.",
+  "files": [
+   "quests/97923-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "62d4e135c813",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Balthus Stoneflayer",
+  "quest": "Camping 101: Skinning",
+  "en": "There you have it, you can now craft your very own Camp Chair. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/96056-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2fc9fa8a904f",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Brakk",
+  "quest": "Camping 101: Skinning",
+  "en": "Being able to skillfully harvest the skins and hides of fallen beasts is one of the more valuable skills an adventurer can possess.\n\nI reckon I know someone that can teach you how to craft a Camp Chair for your camp. Sometimes it's important to just take a load off, and you can use some of those hides you've gathered to make a comfy chair to sit in. A bit of relaxation can help ensure that you are at your peak condition and can strike where it counts the next time you find yourself in a dust-up.",
+  "files": [
+   "quests/97908-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7efb0c21095f",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Eleanor Shackleton",
+  "quest": "Camping 101: Skinning",
+  "en": "Being able to skillfully harvest the skins and hides of fallen beasts is one of the more valuable skills an adventurer can possess.\n\nI reckon I know someone that can teach you how to craft a Camp Chair for your camp. Sometimes it's important to just take a load off, and you can use some of those hides you've gathered to make a comfy chair to sit in. A bit of relaxation can help ensure that you are at your peak condition and can strike where it counts the next time you find yourself in a dust-up.",
+  "files": [
+   "quests/97960-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7f7a9294c933",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Eric Brighthammer",
+  "quest": "Camping 101: Skinning",
+  "en": "Being able to skillfully harvest the skins and hides of fallen beasts is one of the more valuable skills an adventurer can possess.\n\nI reckon I know someone that can teach you how to craft a Camp Chair for your camp. Sometimes it's important to just take a load off, and you can use some of those hides you've gathered to make a comfy chair to sit in. A bit of relaxation can help ensure that you are at your peak condition and can strike where it counts the next time you find yourself in a dust-up.",
+  "files": [
+   "quests/96056-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "edec5e33f0f2",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Helene Peltskinner",
+  "quest": "Camping 101: Skinning",
+  "en": "There you have it, you can now craft your very own Camp Chair. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97924-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "24405125b3e6",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Kaga Wildhoof",
+  "quest": "Camping 101: Skinning",
+  "en": "Being able to skillfully harvest the skins and hides of fallen beasts is one of the more valuable skills an adventurer can possess.\n\nI reckon I know someone that can teach you how to craft a Camp Chair for your camp. Sometimes it's important to just take a load off, and you can use some of those hides you've gathered to make a comfy chair to sit in. A bit of relaxation can help ensure that you are at your peak condition and can strike where it counts the next time you find yourself in a dust-up.",
+  "files": [
+   "quests/97936-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "40b26aaacf3f",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lyreena Duskblade",
+  "quest": "Camping 101: Skinning",
+  "en": "Being able to skillfully harvest the skins and hides of fallen beasts is one of the more valuable skills an adventurer can possess.\n\nI reckon I know someone that can teach you how to craft a Camp Chair for your camp. Sometimes it's important to just take a load off, and you can use some of those hides you've gathered to make a comfy chair to sit in. A bit of relaxation can help ensure that you are at your peak condition and can strike where it counts the next time you find yourself in a dust-up.",
+  "files": [
+   "quests/97949-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f6c2b4ebfd1a",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mendalass Tattermend",
+  "quest": "Camping 101: Skinning",
+  "en": "There you have it, you can now craft your very own Camp Chair. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97971-complete",
+   "quests/97949-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0bf3fbbf9b07",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Rand Rhobart",
+  "quest": "Camping 101: Skinning",
+  "en": "There you have it, you can now craft your very own Camp Chair. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97960-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "69f2be5343d1",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thuwd",
+  "quest": "Camping 101: Skinning",
+  "en": "There you have it, you can now craft your very own Camp Chair. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97908-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4666575e8cb3",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Yonn Deepcut",
+  "quest": "Camping 101: Skinning",
+  "en": "There you have it, you can now craft your very own Camp Chair. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97936-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3be84e6ec6af",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "npc 263664",
+  "quest": "Camping 101: Skinning",
+  "en": "Being able to skillfully harvest the skins and hides of fallen beasts is one of the more valuable skills an adventurer can possess.\n\nI reckon I know someone that can teach you how to craft a Camp Chair for your camp. Sometimes it's important to just take a load off, and you can use some of those hides you've gathered to make a comfy chair to sit in. A bit of relaxation can help ensure that you are at your peak condition and can strike where it counts the next time you find yourself in a dust-up.",
+  "files": [
+   "quests/97971-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "acc3304f9064",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Сэм Сарсапарилла",
+  "quest": "Camping 101: Skinning",
+  "en": "Being able to skillfully harvest the skins and hides of fallen beasts is one of the more valuable skills an adventurer can possess.\n\nI reckon I know someone that can teach you how to craft a Camp Chair for your camp. Sometimes it's important to just take a load off, and you can use some of those hides you've gathered to make a comfy chair to sit in. A bit of relaxation can help ensure that you are at your peak condition and can strike where it counts the next time you find yourself in a dust-up.",
+  "files": [
+   "quests/97924-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d7675eda86f7",
+  "zone": "other-quests-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Bowen Brisboise",
+  "quest": "Camping 101: Tailoring",
+  "en": "There you have it, you can now craft your very own Rallying Banner. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+  "files": [
+   "quests/97961-complete"
+  ],
+  "uiMap": null
+ }
+]

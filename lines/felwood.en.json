@@ -1,0 +1,1100 @@
+[
+ {
+  "id": "6eb505824d79",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Greta Mosshoof",
+  "quest": "A Final Blow",
+  "en": "Unfortunately, I see the only way to stop this threat to Felwood is a frontal attack. There are no other ways into Shadow Hold, and I have no means to teleport you inside. The straight path down to the bottom is the only way... and I also know who you should seek out. His name is Fel'dan... Shadow Lord Fel'dan. He is the mortal in power down below... he is the head of the serpent. Kill him and his two succubus servants and return to me. Fel'dan is the one making pacts with the Legion. He must be stopped.",
+  "files": [
+   "quests/5242-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "46e38ddd9703",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Greta Mosshoof",
+  "quest": "A Final Blow",
+  "en": "Earthmother be praised, Adventurer! Thank you! This is a great day, indeed!\n\nThe Shadow Council will be hard pressed to scale to the same levels of power they once held with this blow to their hierarchy. You have done a great thing this day!",
+  "files": [
+   "quests/5242-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "251528ae94c1",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Dreka'Sur",
+  "quest": "A Husband's Last Battle",
+  "en": "My husband traveled Felwood for the honor of our clan, doing battle against the Shadow Council and other corrupt atrocities!\n\nAfter he escaped death numerous times, I received a letter from him saying that a druid asked him for help against a great befouled furbolg named Overlord Ror--the two were never heard from again.\n\nI want this Ror's clawed hand, Adventurer. I want it to pay for leaving me a widow! I believe the creature is to the south... near the Ashenvale border.",
+  "files": [
+   "quests/6162-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "2705c53c4229",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Dreka'Sur",
+  "quest": "A Husband's Last Battle",
+  "en": "You bring honor to me for following through with your word. My husband died in battle--he would have been proud of that. But I could not rest until I knew that the creature that has forced me to live my life alone paid for what it had done.\n\nThank you again, Adventurer.",
+  "files": [
+   "quests/6162-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "12d180941bfe",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Blood Red Key",
+  "quest": "A Strange Red Key",
+  "en": "The small red key seems to be made of some kind of bone material. It is heavy in your hand, but appears very fragile. Why would a member of the Shadow Council have such a thing? Perhaps there is something within Jaedenar that this strange key unlocks.",
+  "files": [
+   "quests/5202-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "49ff421d2f03",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Captured Arko'narin",
+  "quest": "A Strange Red Key",
+  "en": "The key, you've found it! Please, give it to me and I can finally escape!",
+  "files": [
+   "quests/5202-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "96e94a310ef7",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Kayneth Stillwind",
+  "quest": "Ancient Spirit",
+  "en": "Yes, Adventurer. Felwood has been through much hardship. Thank you for what you have done.\n\nOne day, we may be able to reclaim Felwood from the corruption; every kind deed helps.",
+  "files": [
+   "quests/4261-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "73bc283f4f72",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Greta Mosshoof",
+  "quest": "Cleansed Water Returns to Felwood",
+  "en": "This should be more than enough water for our purposes.\n\nI'm glad to hear that Islen was able to help us. Her strength with the water spirits has always been a strong one. She is also wise, and rare is it that the spirits do not agree with her purpose. The fact that both of them have blessed our task gives me hope that we are on the right path.",
+  "files": [
+   "quests/5159-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "64d75aedcc56",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Islen Waterseer",
+  "quest": "Cleansed Water Returns to Felwood",
+  "en": "Thank the spirits, Adventurer. They are the ones that have come to your aid, not me.\n\nI give this purified water to you now. Please give my regards to Greta and my best wishes. She is tackling something greater than many of us... as I'm sure she will soon find out.\n\nThe Shadow Council is not a force to be trifled with, Adventurer. Remember that.\n\nGo now. Take the water and return to Greta.",
+  "files": [
+   "quests/5159-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "1a201e187273",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Arathandris Silversky",
+  "quest": "Cleansing Felwood",
+  "en": "Plants give life to Felwood, yet even they suffer the taint of corruption. I know ways to cleanse them, but I cannot give out such knowledge to those I don't know or trust. Prove to me that you will truly aid the cause of the Cenarion Circle!\n\nTo the north lie the Irontree Caverns. The Warpwood elementals present there are now beyond hope of cleansing. I ask you to bring me their sap - blood amber it is called - so I may study it in the hopes of saving other forms of life here.",
+  "files": [
+   "quests/4101-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "eaa8b2f90e8c",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Arathandris Silversky",
+  "quest": "Cleansing Felwood",
+  "en": "This blood amber will be used to find a means of defeating the corruption present in Felwood. You've proven to me that you're willing to do whatever it takes for the Cenarion Circle. I trust you now, friend.\n\nIt might seem odd that killing the elementals proved yourself to me, but the end of saving countless sentient beings must justify the means we take. You and I can now focus on the preservation of life through the salves I can make.\n\nAdventurer, the time has come to cleanse Felwood.",
+  "files": [
+   "quests/4101-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "74b93a66781f",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Maybess Riverbreeze",
+  "quest": "Cleansing Felwood",
+  "en": "Plants give life to Felwood, yet even they suffer the taint of corruption. I know ways to cleanse them, but I cannot give out such knowledge to those I don't know or trust. Prove to me that you will truly aid the cause of the Cenarion Circle!\n\nTo the north lie the Irontree Caverns. The Warpwood elementals present there are now beyond hope of cleansing. I ask you to bring me their sap - blood amber it is called - so I may study it in the hopes of saving other forms of life here.",
+  "files": [
+   "quests/4102-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "b5a5362e55e5",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Maybess Riverbreeze",
+  "quest": "Cleansing Felwood",
+  "en": "This blood amber will be used to find a means of defeating the corruption present in Felwood. You've proven to me that you're willing to do whatever it takes for the Cenarion Circle. I trust you now, friend.\n\nIt might seem odd that killing the elementals proved yourself to me, but the end of saving countless sentient beings must justify the means we take. You and I can now focus on the preservation of life through the salves I can make.\n\nAdventurer, the time has come to cleanse Felwood.",
+  "files": [
+   "quests/4102-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "d79367f19e69",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Greta Mosshoof",
+  "quest": "Collection of the Corrupt Water",
+  "en": "Deep within Jaedenar lies Shadow Hold--the main fortress of their corruption and evil.\n\nThe Shadow Council has protective spells surrounding their lair in the form of braziers. If I am to find out any more information about our enemy through scrying, then those braziers must be extinguished. By doing so, I should be able to spy on the Council and find out who leads them.\n\nIf you can, take this canteen and fill it at the Moon Well in the center of Jaedenar. Return to me afterwards.",
+  "files": [
+   "quests/5157-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "91880a9ea92e",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Greta Mosshoof",
+  "quest": "Collection of the Corrupt Water",
+  "en": "This will do nicely, Adventurer.\n\nNow all we have to do besides apply the waters to the braziers is to have it purified. That should not be difficult--it should only require a little travel.\n\nHopefully we can do this quickly.",
+  "files": [
+   "quests/5157-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "c581e9a6be44",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Corrupted Night Dragon",
+  "quest": "Corrupted Night Dragon",
+  "en": "You apply 4 Cenarion Plant Salves to the Night Dragon. It immediately begins to shed it's corrupted form, blossoming into a vibrant and healthy plant.",
+  "files": [
+   "quests/4119-complete",
+   "quests/4447-complete",
+   "quests/4448-complete",
+   "quests/4462-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "8964a66748c2",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Winna Hazzard",
+  "quest": "Corrupted Sabers",
+  "en": "This corrupted water can be used to our advantage, Adventurer. With just a small amount of the water, my kitten doubled in size, and seems to be stronger... somehow. These cats may prove useful...\n\nHere, Adventurer. Take this cat carrier, and release the kitten inside next to the moon well in the Ruins of Constellas. Heh, heh... I'm sure you'll be pleased with the results!\n\nReturn the cat to me, and I'm sure I can make it worth your time.",
+  "files": [
+   "quests/4506-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "73368537f6a9",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Winna Hazzard",
+  "quest": "Corrupted Sabers",
+  "en": "Excellent!\n\nThe forsaken will resort to any means necessary to crush the alliance! The use of the corrupted water will surely prove useful in our future efforts...",
+  "files": [
+   "quests/4506-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "59adc97e96a3",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Corrupted Songflower",
+  "quest": "Corrupted Songflower",
+  "en": "You apply some Cenarion plant salve to the songflower. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",
+  "files": [
+   "quests/2523-complete",
+   "quests/2878-complete",
+   "quests/3363-complete",
+   "quests/4113-complete",
+   "quests/4114-complete",
+   "quests/4116-complete",
+   "quests/4118-complete",
+   "quests/4401-complete",
+   "quests/4464-complete",
+   "quests/4465-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "5023f8a1563c",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Corrupted Whipper Root",
+  "quest": "Corrupted Whipper Root",
+  "en": "You apply 3 Cenarion Plant Salves to the Whipper Root. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",
+  "files": [
+   "quests/4117-complete",
+   "quests/4443-complete",
+   "quests/4444-complete",
+   "quests/4445-complete",
+   "quests/4446-complete",
+   "quests/4461-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "15dfe69a2b90",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Corrupted Windblossom",
+  "quest": "Corrupted Windblossom",
+  "en": "You apply two Cenarion plant salves to the windblossom. It immediately begins to shed its corrupted form, blossoming into a vibrant and healthy plant.",
+  "files": [
+   "quests/996-complete",
+   "quests/998-complete",
+   "quests/1514-complete",
+   "quests/4115-complete",
+   "quests/4221-complete",
+   "quests/4222-complete",
+   "quests/4343-complete",
+   "quests/4403-complete",
+   "quests/4466-complete",
+   "quests/4467-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "ce617210656f",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Deadwood Ritual Totem",
+  "quest": "Deadwood Ritual Totem",
+  "en": "You have found one of the Deadwood furbolg's ritual totems. The totem itself is of non-descript construction, but a palpable sense of despair emanates from it. If there were any object that might best exemplify the corruption that the Deadwood furbolg suffer under, this item would clearly be it.\n\nOne of the furbolgs inside Timbermaw Hold may have a use for such an item... that is, if you've earned their trust enough for them to speak with you.",
+  "files": [
+   "quests/8470-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "1027b7d360d8",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Greta Mosshoof",
+  "quest": "Dousing the Flames of Protection",
+  "en": "Now, you must return to Jaedenar. The braziers are more than likely spread throughout Shadow Hold. Douse each of their flames and the protections the Council has set up will fall for at least a short period of time. I will be waiting for that to happen. When it does, I will look deep within the Hold and try to find out who the head of this beast is. Then, and only then, will we see about attacking them directly.",
+  "files": [
+   "quests/5165-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "b66ca5e1e9d1",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Greta Mosshoof",
+  "quest": "Dousing the Flames of Protection",
+  "en": "I was able to see you with my spells as soon as the last brazier's flames died. Well done, Adventurer.\n\nI learned a few things before the Shadow Council's warlocks were able to recast their spells. Hopefully it will be enough.\n\nFor now, rest. I will tell you what I've learned in a moment.",
+  "files": [
+   "quests/5165-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "3d87b70a48b7",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Eridan Bluewind",
+  "quest": "Felbound Ancients",
+  "en": "The flute you found was carved from an ancient protector, the treant allies that have faithfully protected the night elves.\n\nThe satyrs have been able to corrupt anything they come in contact with, which includes the ancients that made Felwood their home. By the use of the fel, the spirit of the ancient has been bound and tortured, never completely released. The felbind you found is no doubt related.\n\nWe must try to purify the flute, Adventurer. Bring me blessed water from the Temple of the Moon in Darnassus.",
+  "files": [
+   "quests/4441-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "c182ce7b9ae2",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Eridan Bluewind",
+  "quest": "Felbound Ancients",
+  "en": "Thank you, Adventurer. Now, we must pray that we can undo the damage that has been done...",
+  "files": [
+   "quests/4441-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "ed472f2b5743",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Eridan Bluewind",
+  "quest": "Flute of Xavaric",
+  "en": "I sense the suffering of ancient ones, Adventurer...\n\nHolding these items is almost unbearable...",
+  "files": [
+   "quests/939-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "8bea70c905f7",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Flute of Xavaric",
+  "quest": "Flute of Xavaric",
+  "en": "You study the simple wooden flute you picked up after defeating Xavaric.\n\nThe knotted wood feels solid, but it seems as if the spirals and patterns in the surface begin to spin and move as you turn it over in your hands. Suddenly, you feel a sense of dread...\n\nYou shake your head, sure that your mind is playing tricks on you.\n\nIt's possible that other satyrs carry clues as to what you have found. Bring your findings to the druid, Eridan Bluewind, that lives in southern Felwood.",
+  "files": [
+   "quests/939-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "fb367f558eb8",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Greta Mosshoof",
+  "quest": "Forces of Jaedenar",
+  "en": "If I am to trust you in this matter, you will first have to prove yourself.\n\nI must know that you are an enemy of the Shadow Council--the ones responsible for many evils here and abroad.\n\nTravel deeper into Felwood. To the west you will see a path leading to Jaedenar. It is there that the Council plots with the Burning Legion.\n\nEnter the depths of one of the corrupted Barrow Dens they inhabit and slay their kind. Return to me after you've done this. Then I will know you truly seek to help us.",
+  "files": [
+   "quests/5155-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "6f40f58d095e",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Greta Mosshoof",
+  "quest": "Forces of Jaedenar",
+  "en": "Good, Adventurer! With their numbers weakening, we can further press them.\n\nHow was your first taste of their power? Were they as strong as you thought they would be? Stronger? Or perhaps they were no challenge for you at all. Wouldn't that be something?\n\nWe can discuss the details of your exploits later. There are other things we must focus on now.",
+  "files": [
+   "quests/5155-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "9232e7e594a9",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Eridan Bluewind",
+  "quest": "Further Corruption",
+  "en": "A second encampment of satyrs threatens the land of Felwood towards the north, led by the cruel Xavaric. The vile betrayers and tricksters feed upon the corruption of the native creatures of Felwood.\n\nXavathras and his minions were only part of a larger plan -- to cultivate a corrupted moonwell, and then provide the spoils to Xavaric.\n\nNow that Xavathras is out of the way, finish this task, Adventurer. Head to the north and defeat Xavaric.",
+  "files": [
+   "quests/4906-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "543e9df07412",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Eridan Bluewind",
+  "quest": "Further Corruption",
+  "en": "Thank you for all you have done, Adventurer. May Elune protect you and guide you on the path ahead.",
+  "files": [
+   "quests/4906-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "a95b394ee182",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Eridan Bluewind",
+  "quest": "Purified!",
+  "en": "May this evil aura be banished from this artifact!",
+  "files": [
+   "followup/8366-nightelf-female-priestess"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "c9fde5fc2ae1",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Eridan Bluewind",
+  "quest": "Purified!",
+  "en": "I can feel the presence of evil leaving...",
+  "files": [
+   "followup/8367-nightelf-female-priestess"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "0284ba219790",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Eridan Bluewind",
+  "quest": "Purified!",
+  "en": "Using the water of Elune, I will attempt to purify the flute. We must end this suffering...\n\nMay Elune guide my hands and heart.\n\nSpeak with me again in a moment.",
+  "files": [
+   "quests/4442-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "70ce91b69651",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Eridan Bluewind",
+  "quest": "Purified!",
+  "en": "With the blessed water, I was able to break the link between the flute and the ancient spirit. I do believe though, that if you were to use this flute in a sacred spot, you may be able to summon the ancient spirits.\n\nPerhaps you might try the ruins in the southern part of Irontree Woods. Many corrupted treants inhabited this area at one time, and it is possible that they may still reside there, even in spirit form.",
+  "files": [
+   "quests/4442-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "6161788445e9",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Captured Arko'narin",
+  "quest": "Rescue From Jaedenar",
+  "en": "But, as much as it pains me, there is one thing that must be done first: I have to find Trey's sword Lightforge and escape Shadow Hold to tell my superiors what's happening here. Can you help me, Adventurer?\n\nOur equipment isn't far from here, and you've already proven you can survive the path to the top.\n\nAfter we escape, I'll head to Darnassus if you can find my friend Jessir near the Ashenvale border. She was to meet us at the Emerald Circle's camp near there.\n\nWhat do you say, Adventurer? Can you help me again?",
+  "files": [
+   "quests/5203-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "272d791110c6",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Jessir Moonbow",
+  "quest": "Rescue From Jaedenar",
+  "en": "You were the one who helped Arko escape? I'm so glad you found me. She passed by here not too long ago on her way to Darnassus. She had Lightforge in tow and wouldn't even take time to speak to the druids to be healed. She said it was far too urgent.\n\nBut she did tell me about your encounter with Trey's spirit. What a terrible fate for a Knight of the Silver Hand. She didn't show it, but I know it's tearing her up inside, the thought of losing one of her closest friends.",
+  "files": [
+   "quests/5203-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "9bf0bc71af83",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Jessir Moonbow",
+  "quest": "Retribution of the Light",
+  "en": "She would like to pretend that she's fine. She'd love for me to think that she's strong enough to deal with all of this on her own, but I know better than that. Trey's death and hearing the torture he was put through is going to haunt her for a long time, and there's nothing we can do to stop that. But we can give her some peace!\n\nAdventurer, return to Shadow Hold, kill Trey's torturer and find his remains. There is no reason we can't tie off all these loose ends while Arko'narin mourns in her own private way.",
+  "files": [
+   "quests/5204-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "82d1ef1e7bc3",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Remains of Trey Lightforge",
+  "quest": "Retribution of the Light",
+  "en": "You gather the paladin's remains as carefully as you can, recalling that at least his spirit has been released from any pain or suffering that might have been forced upon him.",
+  "files": [
+   "quests/5204-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "5045d1a74e4f",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Arathandris Silversky",
+  "quest": "Salve via Disenchanting",
+  "en": "Here are some Cenarion plant salves - I only need one lesser nether essence for this, adventurer. Essence is by far the most potent item I can make use of to turn swords into plowshares, as it were. If you need more salve, then find me here!",
+  "files": [
+   "quests/4107-complete",
+   "quests/5886-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "c18e402049f3",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Maybess Riverbreeze",
+  "quest": "Salve via Disenchanting",
+  "en": "Here are some Cenarion plant salves - I only need one lesser nether essence for this, adventurer. Essence is by far the most potent item I can make use of to turn swords into plowshares, as it were. If you need more salve, then find me here!",
+  "files": [
+   "quests/4112-complete",
+   "quests/5891-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "a2bd75c76762",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Arathandris Silversky",
+  "quest": "Salve via Gathering",
+  "en": "Excellent work adventurer - every bit of this, once we purify it, will help us take back Felwood. Here, take some doses of Cenarion plant salve and head into the forest. The reclaiming of the land from the corruption waits for no traveler!",
+  "files": [
+   "quests/4105-complete",
+   "quests/5884-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "e4e3d12e46c4",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Maybess Riverbreeze",
+  "quest": "Salve via Gathering",
+  "en": "Excellent work adventurer - every bit of this, once we purify it, will help us take back Felwood. Here, take some doses of Cenarion plant salve and head into the forest. The reclaiming of the land from the corruption waits for no traveler!",
+  "files": [
+   "quests/4110-complete",
+   "quests/5889-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "8badcb63d7d3",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Arathandris Silversky",
+  "quest": "Salve via Hunting",
+  "en": "Very well then, here are your Cenarion plant salves. Scour Felwood for corrupted plants, Adventurer! Wherever they are, use the salve I have given you to purify them.",
+  "files": [
+   "quests/4103-complete",
+   "quests/5882-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "8020b27d42c4",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Maybess Riverbreeze",
+  "quest": "Salve via Hunting",
+  "en": "Very well then, here are your Cenarion plant salves. Scour Felwood for corrupted plants, Adventurer! Wherever they are, use the salve I have given you to purify them.",
+  "files": [
+   "quests/4108-complete",
+   "quests/5887-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "917e368db676",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Arathandris Silversky",
+  "quest": "Salve via Mining",
+  "en": "Very well then, here's some Cenarion plant salve. If you find more vitriol when you mine in Felwood, remember to hold on to it for me! The more of it you find, the more salve I will be able to make.",
+  "files": [
+   "quests/4104-complete",
+   "quests/5883-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "cacc61301766",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Maybess Riverbreeze",
+  "quest": "Salve via Mining",
+  "en": "Very well then, here's some Cenarion plant salve. If you find more vitriol when you mine in Felwood, remember to hold on to it for me! The more of it you find, the more salve I will be able to make.",
+  "files": [
+   "quests/4109-complete",
+   "quests/5888-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "8b7b7f360e70",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Arathandris Silversky",
+  "quest": "Salve via Skinning",
+  "en": "This is exactly what I need. Here - take these plant salves and use them to reclaim Felwood from the corruption. We must persevere, adventurer!",
+  "files": [
+   "quests/4106-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "412ed7bfbe11",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Arathandris Silversky",
+  "quest": "Salve via Skinning",
+  "en": "This is exactly what I need. Here - take these plant salves and use them to reclaim Felwood from the corruption. We must persevere, Adventurer!",
+  "files": [
+   "quests/5885-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "7eda7ec37c94",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Maybess Riverbreeze",
+  "quest": "Salve via Skinning",
+  "en": "This is exactly what I need. Here - take these plant salves and use them to reclaim Felwood from the corruption. We must persevere, adventurer!",
+  "files": [
+   "quests/4111-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "1375b14128b2",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Maybess Riverbreeze",
+  "quest": "Salve via Skinning",
+  "en": "This is exactly what I need. Here - take these plant salves and use them to reclaim Felwood from the corruption. We must persevere, Adventurer!",
+  "files": [
+   "quests/5890-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "88a07d9a0b55",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Greta Mosshoof",
+  "quest": "Seeking Spiritual Aid",
+  "en": "Take the corrupt water to the Barrens, Adventurer. South of Ratchet, hidden along the shore, is an old friend of mine, a shaman named Islen Waterseer. She is a powerful shaman who will help us. Her relationship with the spirits of water has always been strong. Our task being a noble one should be enough to persuade her and the spirits of water to aid us in this task.\n\nYou should find her at a small camp right along the water's edge. And, Adventurer, ignore the pirates... they are but a nuisance and no threat to you.",
+  "files": [
+   "quests/5158-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "aa6579674632",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Islen Waterseer",
+  "quest": "Seeking Spiritual Aid",
+  "en": "Ah, you need the water from this Moon Well cleansed. Stopping this force of malice in Felwood seems noble enough, but it is not for me to decide if the water will be purified. I will ask the spirits of water--it will be up to them to decide if the cause is just.\n\nGive me a moment and I will tell them of your plea. I hope they are as sympathetic as I am to your cause.",
+  "files": [
+   "quests/5158-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "ea385e52a72f",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "King Magni Bronzebeard",
+  "quest": "The Brokering of Peace",
+  "en": "Let it be known that adventurer - Alliance Adventurer - has earned the undying respect of Ironforge and the Alliance as a whole. He has engaged in great diplomacy with Timbermaw Hold and performed valiant actions for them on our behalf. He has gone above and beyond the call of duty. Three cheers for adventurer - a true hero of the Alliance!",
+  "files": [
+   "followup/m-11308-dwarf-male-standard"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "cf840268a2a9",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "King Magni Bronzebeard",
+  "quest": "The Brokering of Peace",
+  "en": "Indeed, this is a most fortuitous turn of events. Were a lasting peace to be made with these creatures, this would certainly give us an advantage in the affairs of Kalimdor... one that the Night Elves cannot support on their own. I will notify the other leaders of the Alliance of this immediately, and further diplomats will be dispatched!\n\nAs for you, Adventurer... you have shown courage in both diplomacy and in action. I thank you, as does the whole of the Alliance.",
+  "files": [
+   "quests/8484-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "79e3f60aa8ed",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "The Brokering of Peace",
+  "en": "Let it be known that adventurer - Horde Adventurer - has earned the undying respect of the Warchief. He has engaged in great diplomacy with Timbermaw Hold and performed valiant actions for them on our behalf. He has gone above and beyond the call of duty. Three cheers for adventurer - a true hero of the Horde!",
+  "files": [
+   "followup/m-11307-orc-male-standard"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "728b7eef1ca0",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "The Brokering of Peace",
+  "en": "Indeed, this is a most fortuitous turn of events. Were a lasting peace to be made with these creatures, this would certainly give us an advantage in securing Kalimdor from external threats. I will notify the other leaders of the Horde of this immediately, and further diplomats will be dispatched!\n\nAs for you, Adventurer... you have shown courage in both diplomacy and in action. I thank you, as does the entirety of the Horde.",
+  "files": [
+   "quests/8485-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "f7bdc68ce068",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Eridan Bluewind",
+  "quest": "The Corruption of the Jadefire",
+  "en": "Not many seek adventure here... Felwood's corruption is widespread and indiscriminate.\n\nAs part of the Emerald Circle, I seek to heal this land, but there are some that wish it to fester.\n\nThe ones I speak of are the Jadefire satyrs that dwell to the northwest of here, at the Ruins of Constellas. Led by a particularly cruel satyr named Xavathras, they continue to spread the disease to any creatures they encounter.\n\nWe must defend this land that was once ours. Defeat Xavathras and destroy his minions.",
+  "files": [
+   "quests/4421-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "7af5176a2235",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Eridan Bluewind",
+  "quest": "The Corruption of the Jadefire",
+  "en": "Ridding Felwood of Xavathras is only the first step in a long process. It will take much work to repair the damage that has been done here.\n\nI sense that there is something much larger than just the satyrs at work here, but we will only know the truth with time...",
+  "files": [
+   "quests/4421-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "38f3079ea587",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Jessir Moonbow",
+  "quest": "The Remains of Trey Lightforge",
+  "en": "You've done it! Praise be to Elune and whichever powers you worship, Adventurer. You have done an honorable and noble thing this day. I am certain Arko'narin will be pleased that you not only took the time to save her, but to also slay the creature who tortured one of her best friends.\n\nI wish I could do more for you, but please, take this.",
+  "files": [
+   "quests/5385-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "0be51b260391",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Remains of Trey Lightforge",
+  "quest": "The Remains of Trey Lightforge",
+  "en": "You pick up the sack carefully and prepare to make your way back to Jessir Moonbow on the border of Felwood and Ashenvale. Hopefully the paladin will be given the proper respects once you've passed his remains on to his friends.",
+  "files": [
+   "quests/5385-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "27350b2f9aff",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ivy Leafrunner",
+  "quest": "To Winterspring!",
+  "en": "In Winterspring, to the north of here, there are many ancient elven ruins. It's a harsh land, but it holds many secrets and places to explore.\n\nWith all my work to do here in Felwood, I have not had the opportunity to travel to Winterspring. But there's no reason why you shouldn't!\n\nWhile you're there, look for Wynd Nightchaser. He spends most of his time in Starfall Village and he knows a lot about the area.",
+  "files": [
+   "quests/5249-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "f47ac5fdd093",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Wynd Nightchaser",
+  "quest": "To Winterspring!",
+  "en": "A friend of Ivy Leafrunner? Nice to meet you, Adventurer.",
+  "files": [
+   "quests/5249-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "a6a65483aa4d",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Taronn Redfeather",
+  "quest": "Verifying the Corruption",
+  "en": "To the north, along the east of the road in what's called Shatter Scar Vale, is an area where infernals were called down during the last great war--the craters still scar the land, as do the infernals themselves.\n\nI am curious about two things. First, are there still entropic elementals roaming the area? And second, are the craters still filled with the corrupt, fetid water that gathered there years ago? Will you help me and check, Adventurer? Be careful though, the infernals destroy anything in their path.",
+  "files": [
+   "quests/5156-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "d9c95be5ee69",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Taronn Redfeather",
+  "quest": "Verifying the Corruption",
+  "en": "Good that you're alive, Adventurer. Bad that the water still exists. I was hoping to find at least one pure source of water here in Felwood. It looks like my search has failed. The process of healing the land could have been made much easier with its existence.\n\nI will have to concern myself with saving what forest creatures I can while destroying those that have become so corrupt that they endanger themselves as much as travelers through this once-mighty forest.",
+  "files": [
+   "quests/5156-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "2349199f0f61",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Winna Hazzard",
+  "quest": "Well of Corruption",
+  "en": "I'm very curious to see what this sample of water will do!",
+  "files": [
+   "followup/5945-scourge-female-magic"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "96a318e831cc",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Winna Hazzard",
+  "quest": "Well of Corruption",
+  "en": "Haha! Perfect!",
+  "files": [
+   "followup/5947-scourge-female-magic"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "373326d7a78d",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Winna Hazzard",
+  "quest": "Well of Corruption",
+  "en": "Some may say that I am exceptionally cruel... But truly, it is only a strong desire to see the Horde gain an advantage against the Alliance, in any way possible.\n\nMy newest interest is a moonwell at the Ruins of Constellas, south of here, tended by the Jadefire satyrs. The moonwell, once a symbol of renewal for the insufferable night elves, is now corrupted, and used to bring forth more satyrs.\n\nI have an idea, Adventurer, and I'd like a sample of the water... for my little feline friend here.",
+  "files": [
+   "quests/4505-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "4c771dbdcfda",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Winna Hazzard",
+  "quest": "Well of Corruption",
+  "en": "Very well. We must find a way to use this corruption against our enemies...",
+  "files": [
+   "quests/4505-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "ae89e9642622",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Trull Failbane",
+  "quest": "Wild Guardians",
+  "en": "Winterspring lies just beyond Timbermaw, northeast of Felwood. Have you been there?\n\nI have heard that the area is laden with creatures called wildkin. These beasts have been known to guard secrets; secrets of the Night elves.\n\nWe must figure out what may be hidden in Winterspring.\n\nI have heard the ragged owlbeasts can be found just south of the road, and that there are others called raging owlbeasts that may be found in the center of Winterspring. Clear them out, and gain access to the land.",
+  "files": [
+   "quests/4521-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "e8f6a3cb2349",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Trull Failbane",
+  "quest": "Wild Guardians",
+  "en": "This is excellent news, Adventurer. With these beasts out of the way, we can begin to adventure further into Winterspring. Are you ready for more?",
+  "files": [
+   "quests/4521-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "6cfaac4689d6",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Trull Failbane",
+  "quest": "Wild Guardians",
+  "en": "Runners have returned from Winterspring with reports that there is a series of small caves in the southern area of Winterspring. It seems that there are wildkin situated in the area around these caves. If there is something valuable that they are guarding, I believe that this is the place we will find it.\n\nYou will find these to be more of a challenge than the previous types, Adventurer. The creatures seem to have gone mad from exposure to the very thing that they strive to protect.",
+  "files": [
+   "quests/4721-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "15f3185b0bf0",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Trull Failbane",
+  "quest": "Wild Guardians",
+  "en": "Hard work is something I have great respect for, Adventurer. Now we can move forward with our plans for Winterspring.",
+  "files": [
+   "quests/4721-complete"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "14e072e6a11c",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Trull Failbane",
+  "quest": "Wild Guardians",
+  "en": "In the northern areas of Winterspring, the Wildkin grow even more ferocious. We must continue our measures there.\n\nHunt the moontouched owlbeasts in Winterspring, and explore the area they inhabit.\n\nThis is dangerous ground, but I know that you will be able to handle the challenge. Return to me after you have slain 13 of the wildkin.",
+  "files": [
+   "quests/4741-accept"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "cb28ad2dc93d",
+  "zone": "felwood",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Trull Failbane",
+  "quest": "Wild Guardians",
+  "en": "I sense that you are enjoying your work. And I believe that we are onto something here.",
+  "files": [
+   "quests/4741-complete"
+  ],
+  "uiMap": 1448
+ }
+]

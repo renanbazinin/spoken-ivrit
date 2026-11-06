@@ -1,0 +1,646 @@
+[
+ {
+  "id": "9317a6af6a99",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Captain Vanessa Beltis",
+  "quest": "A Crew Under Fire",
+  "en": "We were just off the coast looking for a safe haven to make anchor. The sun hadn't been down for more than an hour when they attacked... those damned naga!\n\nI'm not sure what they were looking for, but it's clear they didn't find it--they've already come back once. A couple of my scouts are on watch at the entrance of the valley to give us fair warning when the next attack comes.\n\nI'm sorry you've come along now, Adventurer, but it's out of my hands.\n\nAre you ready for the fight of your life?",
+  "files": [
+   "quests/3382-accept"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "1d01459ca1ff",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Captain Vanessa Beltis",
+  "quest": "A Crew Under Fire",
+  "en": "You've done it! Thank you! Surely this was one of the most brutal battles I've ever taken part in. I can't thank you enough.\n\nI only wish more of my crew could have lived through this trial.\n\nI would ask you to speak to any surviving passengers from the Horizon Scout. Some of them had business in the area, and may have a request or two of you if you're willing. Again, thank you for all your help.",
+  "files": [
+   "quests/3382-complete"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "366b047a0781",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Hydraxis' Coffer",
+  "quest": "A Hero's Reward",
+  "en": "Hydraxis' voice descends from the waters' surface...\n\n\"Choose that which best suits you, Adventurer. May it protect you against the foes of the Waterlords.\"",
+  "files": [
+   "quests/7486-complete"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "f72c2dc33609",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Loh'atu",
+  "quest": "A Land Filled with Hatred",
+  "en": "The satyr, a disfigured, evil aspect of the night elves, now infect the sacred lands once traveled by Cenarius. I cannot speak for the night elves when it comes to all the atrocities those demonic creatures have committed, but I have sworn an oath to the Earthmother to aid the elves in ridding the land of such a nuisance.\n\nI am sure you would prove yourself if you aided me in purging them.\n\nNortheast of here, you can find the Haldarr clan. Return to me after you've tested yourself against their power.",
+  "files": [
+   "quests/5536-accept"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "1db49105dc82",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Loh'atu",
+  "quest": "A Land Filled with Hatred",
+  "en": "Well done, adventurer. I see you're not only skilled but cunning. To defeat such creatures is a testament to your loyalty to the tenants of the Earthmother, even if you do not recognize her as your own deity. She is in all things on this planet and beyond. Her eyes, one dark and one light, travel across the skies always gazing down upon us.\n\nPlease, take this small amount of coin in appreciation for what you have done.",
+  "files": [
+   "quests/5536-complete"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "8317cfd5b801",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Sanath Lim-yo",
+  "quest": "A Meeting with the Master",
+  "en": "Ah, a young traveler come to speak to Sanath. What a wonderful day! I am so honored to have you grace me with your presence. Thank you!\n\nPlease... do not be so arrogant to assume my sarcasm was a compliment. Let us get one thing straight: I don't like you. But this little conversation doesn't have anything to do with us--it has to do with my master.\n\nBring me a couple hippogryph feathers for my arrows and I'll give you leave to see him. He's asked that I send adventurers to him if they proved worthy enough.",
+  "files": [
+   "quests/3381-accept"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "98fa11590bd7",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Sanath Lim-yo",
+  "quest": "A Meeting with the Master",
+  "en": "Two feathers, just as I asked. And not bad ones at all.\n\nReady then? Just say the word and you're on your way.\n\nOh, and once again, mind yourself... my master doesn't take kindly to imbeciles, but he is very generous to those that please him.",
+  "files": [
+   "quests/3381-complete"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "0d4e8e53c946",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Andron Gant",
+  "quest": "Andron's Payment to Jediga",
+  "en": "Here... take... this to Jediga. Good luck to ya!",
+  "files": [
+   "quests/3564-accept"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "c8bf1ed89d90",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Jediga",
+  "quest": "Andron's Payment to Jediga",
+  "en": "Perfect... wait a minute.\n\nHaha! What'd you tell him when you delivered the tablet, Adventurer? He overpaid us way too much! Not that I'm complaining. Did you tell him the deal changed? Or was he drunk again?\n\nDoesn't matter... here, take an extra share also.",
+  "files": [
+   "quests/3564-complete"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "b1108f944dba",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Loramus Thalipedes",
+  "quest": "Azsharite",
+  "en": "You will need to open the Felhound Tracker Kit and read the instruction manual. Summon the beast when you are near the peninsula of cliff giants, south of here.",
+  "files": [
+   "followup/4576-nightelf-male-warrior"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "86a73a5f46b4",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Loramus Thalipedes",
+  "quest": "Azsharite",
+  "en": "The ancient cliff giants of the southern region of Azshara consume the rock and buildings of the land for sustenance. The excrement from their consumption is a highly malleable and extremely strong crystal known as Azsharite.\n\nThe formations litter the southern arc, but few are ever recovered due to the extremely violent nature of the giants.\n\nYou are to venture south and recover enough of the Azsharite for the creation of the weapon's body. My felhounds will aid in the recovery of the crystal.",
+  "files": [
+   "quests/3602-accept"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "d4a962aba180",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Loramus Thalipedes",
+  "quest": "Azsharite",
+  "en": "Your tasks in Azshara are complete, mortal. I must now forge the necessary components for the next step in your adventure.",
+  "files": [
+   "quests/3602-complete"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "17e55c498f78",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Magical Ledger",
+  "quest": "Azuregos's Magical Ledger",
+  "en": "You cannot understand a single word on this ledger. You don't even know what language it is written in!",
+  "files": [
+   "quests/8575-accept"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "a99082fb3d15",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Narain Soothfancy",
+  "quest": "Azuregos's Magical Ledger",
+  "en": "Outstanding, Traveler! What is it? I can't read a lick of Draconic.",
+  "files": [
+   "quests/8575-complete"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "c83af3a3a323",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Loramus Thalipedes",
+  "quest": "Breaking the Ward",
+  "en": "You are foolhardy, Adventurer. It is an admirable quality of your kind - to blindly enter battle when you have little to no chance of success. I will assist you, if only to see just one of Razelikh's minions fall.\n\nTo break the ward placed over Razelikh's subordinates will take time and require the acquisition of rare artifacts.\n\nBe still, I must first perform the enlightenment ritual. The information I gather will assist me in forging weapons of great power.",
+  "files": [
+   "quests/3508-accept"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "2b6c392a5901",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Loramus Thalipedes",
+  "quest": "Breaking the Ward",
+  "en": "The name of the beast must be found.",
+  "files": [
+   "quests/3508-complete"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "29ea0f6b1854",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Jediga",
+  "quest": "Delivery to Andron Gant",
+  "en": "Andron Gant is my next contact. He usually holds himself up in the Undercity... right near the Apothecarium.\n\nHe was a little more loose-lipped when it came to speaking about what he wanted the Tablet for. Apparently some of the mages of Undercity are looking to study some of the arcane spells the highborne used. They think this tablet will help them. Markri was adept at summoning creatures; especially elementals.\n\nTake the Tablet of Markri and return to me for your part of the reward.",
+  "files": [
+   "quests/3542-accept"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "ca4d848da79a",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Archmage Xylem",
+  "quest": "Delivery to Archmage Xylem",
+  "en": "Ah, the Tablet of Sael'hai... how long I've longed to study it.\n\nThank you, Adventurer. You may tell Jediga that she has done well. This will definitely be worth the payment she asked for.",
+  "files": [
+   "quests/3561-complete"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "afed4aae99c5",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Jediga",
+  "quest": "Delivery to Archmage Xylem",
+  "en": "This final tablet goes to someone very dangerous, Adventurer. Heed me when I tell you that I trust this person far less than anyone else I've asked you to meet with.\n\nArchmage Xylem has a tower up in the hills overlooking Azshara. He's human, but he acts like no human I've met... or killed. He exudes power, and I dare not ask him what he plans on doing with the tablet.\n\nHe came to me, but told me that his bodyguard Sanath would help me get to the tower when I was ready to meet him. Look north for Sanath.",
+  "files": [
+   "quests/3561-accept"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "d9f8d5750ec8",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Jediga",
+  "quest": "Delivery to Jes'rimon",
+  "en": "I have a fence in Orgrimmar. He resides in The Drag. He's difficult to nail down if you don't know where to look, but if you go looking in one of the highest buildings there you should have no problem finding him.\n\nDo me a favor though, don't go shouting to all of Kalimdor that he's there and what his business is--it'd be bad for both of us.\n\nHe'll give us more than a fair price for the Tablet of Jin'yael. I'm not sure why, but you should have seen how excited he was to hear about its whereabouts.",
+  "files": [
+   "quests/3541-accept"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "c8208f7cd36c",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jes'rimon",
+  "quest": "Delivery to Jes'rimon",
+  "en": "Ahhh, Jediga be sendin' her package all the way from Azshara. Good. I be waitin' on this.\n\nJediga, now that be a fine woman... deadly too. What could be better?\n\nLook at this... the tablet be in perfect condition. You make a good messenger, Adventurer.",
+  "files": [
+   "quests/3541-complete"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "ba54710ae64e",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Jediga",
+  "quest": "Delivery to Magatha",
+  "en": "The first tablet goes to a tauren female... one called Magatha. She is among the elders in Thunder Bluff, and is one of the proponents of the alliance between the tauren and the Forsaken. She, more than anyone among the elders, feels the tauren and their ways can help the Forsaken find a path back to being human.\n\nBring her the Tablet of Beth'Amara. The tablet may be the link she needs in finding a way to help the Forsaken... or so she claims.",
+  "files": [
+   "quests/3518-accept"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "c6f1bf9ba621",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Magatha Grimtotem",
+  "quest": "Delivery to Magatha",
+  "en": "Ah, at long last, the Tablet of Beth'Amara. I was wondering if my partnership with Jediga had failed or if the poor orc had found her death in Azshara. I am glad she was successful.\n\nBeth'Amara was one of the Highborne's most influential alchemists. The wizard alone was said to have mastered transmuting metals among other things.",
+  "files": [
+   "quests/3518-complete"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "c3b295e8543b",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Jediga",
+  "quest": "Jes'rimon's Payment to Jediga",
+  "en": "I can see he was more than pleased by the looks of his note.... a little too pleased.\n\nPerhaps some day I'll take time to make sure he knows how much I appreciate his advances also. Well, at least there's one reason to look forward to spending more time in Azshara.\n\nHere's your share of our payment.",
+  "files": [
+   "quests/3563-complete"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "88f543f6817b",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jes'rimon",
+  "quest": "Jes'rimon's Payment to Jediga",
+  "en": "Take this letter to Jediga. Let her know that our deal has been beneficial and I be pleased with her work.\n\nYou tell her she come back to Orgrimmar fast and Jes'rimon make sure he take good care of her.\n\nTell her that, and maybe in the future I have need of your services again, Adventurer.",
+  "files": [
+   "quests/3563-accept"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "b988f0cd813d",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Kim'jael",
+  "quest": "Kim'jael Indeed!",
+  "en": "Kim'jael indeed!! Do you know what Kim'jael means to the Blood elves, Adventurer? Little rat... or something like that. The big bullies!\n\nThey hired me to help them scout the area looking for some sort of lost treasures. Of course I jumped aboard the moment they said \"treasure\" and the amount they were willing to pay, but of course, they turned on me and tried to kill me... ME!\n\nGoes to show you, you can't trust a Blood elf.\n\nThe problem is, they still have my equipment and I can't get it back. Help me out?",
+  "files": [
+   "quests/3601-accept"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "4b70676e938a",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Kim'jael",
+  "quest": "Kim'jael Indeed!",
+  "en": "Haha! You got them good, didn't you?!\n\nThis is great! That'll teach those Blood elves to betray their partners... especially someone as loyal as a goblin merchant! Bah, Blood elves...!\n\nWell, the least I can do for you is pay you for your time... just like I said I would.\n\nHere you go... those should be useful.",
+  "files": [
+   "quests/3601-complete"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "8b399bd40cf7",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Kim'jael",
+  "quest": "Kim'jael's \"Missing\" Equipment",
+  "en": "What?! What?!\n\nThat wasn't good enough for you? You know how expensive those explosives are? They sell for... oh, nevermind. Fine, you want to make some real money? Cause that's how business is done: you prove you're a valuable employee and then you're rewarded adequately after you stick it out some.\n\nIf you're a \"valuable\" employee, then hit the Ruins of Eldarath and find me some rune that them Blood elves were lookin' for. The naga apparently have it in their possession.",
+  "files": [
+   "quests/5534-accept"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "de4041a2dbf9",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Kim'jael",
+  "quest": "Kim'jael's \"Missing\" Equipment",
+  "en": "Haha! Wonderful!\n\nI'll be sure to find out what this is for and why Magus Rimtori--she's the cow that hired me--wanted it. Hah! I got you now, stinkin' Blood elves! Kim'jael! Ha! I'll teach them who the rats are!\n\nYa did good, Adventurer. Thanks a bundle. Here, take this coin and be off with ya--I've got some things to figure out.",
+  "files": [
+   "quests/5534-complete"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "58fee16cfe2c",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Loramus Thalipedes",
+  "quest": "Loramus",
+  "en": "So you wish to battle demons? You would do well to listen to my tale.",
+  "files": [
+   "quests/3141-accept"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "27e0c293b964",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Loramus Thalipedes",
+  "quest": "Loramus",
+  "en": "So be it...",
+  "files": [
+   "quests/3141-complete"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "8417b676dd47",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Jediga",
+  "quest": "Magatha's Payment to Jediga",
+  "en": "Ah, good. She was much more reasonable than I expected... at least towards you. I half expected her to have you punished for my insolence in sending someone in my place. She must really want that tablet. Interesting.\n\nSomething to ponder another time.",
+  "files": [
+   "quests/3562-complete"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "9c14d964c7df",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Magatha Grimtotem",
+  "quest": "Magatha's Payment to Jediga",
+  "en": "Take this note to Jediga. Tell her the payment will be here for her when she returns. And tell her I am pleased with her work.\n\nGo swiftly, Adventurer. Tell your master I will be awaiting her here.",
+  "files": [
+   "quests/3562-accept"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "c3a245edfc33",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Sanath Lim-yo",
+  "quest": "Meeting with the Master",
+  "en": "There was a time when I could ask whatever I wished from those who sought out my master. But now, you need only ask and I will send you to him.\n\nIt is upsetting to me, but I do not question his orders. I can only take enjoyment in making fun of the ridiculous clothes you wear or the pathetic look on your face. Even that bores me...\n\nEven this rambling bores me! Do you wish to see my master or not?",
+  "files": [
+   "quests/3503-complete"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "caf14a2c9f8a",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Nyrill",
+  "quest": "Return Trip",
+  "en": "I will return you to Sanath's camp now.\n\nDo not mind his bad manners--he is rude to everyone save for the master. Perhaps he shall learn his lesson one day.",
+  "files": [
+   "quests/3421-complete"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "d06b41149d50",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Loh'atu",
+  "quest": "Spiritual Unrest",
+  "en": "Long ago, the Highborne were some of the most powerful students of the arcane the night elves ever produced. The corruption that comes along with such studies caused much harm to night elf society and greatly affected all of Azeroth... as I'm sure you well know.\n\nI promised the Sentinels that I would release the spirits from their mortal bonds as I find them. If you would do the same, then I am sure I can reward you some.\n\nThe spirits haunt the Shadowsong Shrine to the northeast of here.",
+  "files": [
+   "quests/5535-accept"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "5f245e3b5e76",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Loh'atu",
+  "quest": "Spiritual Unrest",
+  "en": "Well done, adventurer. Thank you for your help. The spirits are at peace, and the threats that their desire for the arcane draw have been lessened.\n\nI am sure that both sides of the conflict that ravishes Azeroth will see you are above such things.",
+  "files": [
+   "quests/5535-complete"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "2983eaf507fe",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Jediga",
+  "quest": "Stealing Knowledge",
+  "en": "I admit, Adventurer, I've made the most of my situation in Azshara. Belgrom's punishment has had its share of benefits.\n\nBefore I left, I did some research and you would be surprised how many valuable items are lying around.\n\nI'll tell you more about my deals, and even give you a cut of the profits, if you help me gather some of them.\n\nThere are tablets throughout the Ruins of Eldarath to the east that I need. All four are named after Highborne wizards. Get them for me and we'll talk some more.",
+  "files": [
+   "quests/3517-accept"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "3716e535af62",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Jediga",
+  "quest": "Stealing Knowledge",
+  "en": "Perfect, Adventurer, and in good condition also. These should get us a good price from all the parties concerned.\n\nLet's not dawdle around here any longer than we have to. We have some money to make.",
+  "files": [
+   "quests/3517-complete"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "4af7306900fa",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Galvan the Ancient",
+  "quest": "The Formation of Felbane",
+  "en": "My goodness, I can only imagine what you went through to get these materials. Few venture into Azshara and return alive, let alone those that face demi-gods and giants!",
+  "files": [
+   "quests/3621-complete"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "ec9a5db9bfdd",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Loramus Thalipedes",
+  "quest": "The Formation of Felbane",
+  "en": "The weapons are ready to be forged. You must take the tempered azsharite to one with the ability to harness fel energy.\n\nIn Stranglethorn Vale such a blacksmith exists. Galvan the Ancient, leader of the Mithril Order, will craft the weapons to your specifications. You will find his encampment between Zul'Gurub and the Mosh'Ogg ogre mound.\n\nMay your determination and faith carry you through this ordeal. Should you fail, know that your God smiles down upon you, mortal.",
+  "files": [
+   "quests/3621-accept"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "eb6e4a3deaed",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Loramus Thalipedes",
+  "quest": "The Name of the Beast",
+  "en": "There is only one way to harm the demon lord and his minions. A weapon of power must be forged bearing his true name.\n\nWhen such a weapon is forged, the demon and all under his command are vulnerable.\n\nA lesser deity resides in Azshara: Lord Arkkoroc. You must seek him out but be warned, his minions will stop at nothing to destroy you if you are discovered.\n\nUndoubtedly, you will have to pay a price for such information.",
+  "files": [
+   "quests/3509-accept"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "c826db3cb1c1",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Loramus Thalipedes",
+  "quest": "The Name of the Beast",
+  "en": "The temper will add the necessary vitriol we require for the forging of the weapons. There is but one more step in their creation.",
+  "files": [
+   "quests/3511-complete"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "d810fd447537",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Narain Soothfancy",
+  "quest": "The Wrath of Neptulon",
+  "en": "Did I mention the bad news yet? Its name is Maws: 100 feet of death and destruction. I guess I may have forgotten that little tidbit.\n\nAccording to my superior psycho-psionic clairvoyance, you'll find that the best spot to cast this buoy is off the coast of Azshara, in the Bay of Storms.\n\nLook for a swirling maelstrom, most likely cluttered with wreckage.\n\nBy the by, I hope you have friends.\n\nNow if you somehow miraculously succeed, take the scepter shard to Anachronos.",
+  "files": [
+   "quests/8729-accept"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "e514bfd3d25c",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Archmage Xylem",
+  "quest": "Xylem's Payment to Jediga",
+  "en": "What is it? Oh yes, your payment. Of course.\n\nTake this and be off with you. I'm sure Jediga is awaiting oh so patiently for your return.",
+  "files": [
+   "quests/3565-accept"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "da8dc1895242",
+  "zone": "azshara",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Jediga",
+  "quest": "Xylem's Payment to Jediga",
+  "en": "No problems? None at all? Well, that's something to be said... I expected him to show some sort of reluctance or to at least betray our deal. Hmm, maybe he can be trusted after all.\n\nWell, no need to dwell on it that much. Here's your share. Thank you for your help.",
+  "files": [
+   "quests/3565-complete"
+  ],
+  "uiMap": 1447
+ }
+]

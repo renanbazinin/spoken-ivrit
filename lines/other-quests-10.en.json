@@ -1,0 +1,2199 @@
+[
+ {
+  "id": "554e7c337401",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Torwa Pathfinder",
+  "quest": "Toxic Test",
+  "en": "Thank you, adventurer. You are brave and wise.\n\nTell me, how did the devilsaur react to the toxin?",
+  "files": [
+   "quests/9051-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d0154c996f13",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Aristan Mottar",
+  "quest": "Tracing the Source",
+  "en": "We've got to find the source. I've seen a lot more people than usual - guards included - going in and out of The Gilded Rose. Talk to Allison. If she's selling them, she can tell you where they came from.",
+  "files": [
+   "quests/9026-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "283b30bc6eb5",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Evert Sorisam",
+  "quest": "Tracing the Source",
+  "en": "Yes, of course. Those fragrances are the hottest items this season. You must be the fifth or sixth person this hour to inquire about them.\n\nI'm afraid my supplies are all sold out. If you'd like some, you should speak with Allison, the innkeeper of The Gilded Rose.\n\nYou shouldn't waste any time, though. I think you'll find the cologne will be irresistible.",
+  "files": [
+   "quests/m-9027-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0d79a11112d4",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Fenstad Argyle",
+  "quest": "Tracing the Source",
+  "en": "We must find who the supplier is. I noticed Apothecary Katrina with a bottle of the perfume tucked in her pack. She told me that she purchased it from Norman, the innkeeper.",
+  "files": [
+   "quests/8982-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a7a7dd634964",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Allison",
+  "quest": "Tracing the Source",
+  "en": "Oh yes, I just got the perfume and cologne in stock recently. It's been selling so well, I don't know how long I can keep it on the shelves.\n\nIf you ask me, it's kind of boring. Everyone smelling the same? It smells great, but still.",
+  "files": [
+   "quests/9026-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "128809fc3427",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Allison",
+  "quest": "Tracing the Source",
+  "en": "Something funny about the cologne? It's possible. I've never seen so many people after one product like this.\n\nLook, if there's something wrong with it, I want to know, too. I bought my supply from a merchant named Evert Sorisam. He's new in town.\n\nHe mentioned he had some goods he was going to deliver to The Finest Thread.",
+  "files": [
+   "quests/9027-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2ff1641516cd",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Norman",
+  "quest": "Tracing the Source",
+  "en": "Ah yes, I just recently received stock of the perfume and cologne. I don't know how long I can keep it on the shelves - seems like no one can get enough of it.\n\nIf you ask me, I don't see what the big deal is.",
+  "files": [
+   "quests/8982-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "660cfabcefab",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Norman",
+  "quest": "Tracing the Source",
+  "en": "Something's wrong with my product? Well, I've never seen so many people wanting something so badly.\n\nI bought my supply from a merchant named Mara Rennick. She's new in town.\n\nShe mentioned she had some goods she had to deliver to the tailor in the Mage Quarter.",
+  "files": [
+   "quests/8983-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a8e2af6d1211",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Mara Rennick",
+  "quest": "Tracing the Source",
+  "en": "I'm afraid I sold my entire supply of perfume and cologne to Norman, the innkeeper. If you'd like some, you should speak with him - assuming he has any left.\n\nYou shouldn't waste any time, though. I think you'll find the cologne irresistible.",
+  "files": [
+   "quests/m-8983-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1a263c9d22e7",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Belia Thundergranite",
+  "quest": "Training the Beast",
+  "en": "A new recruit, eh? You're on your way to becoming a great Adventurer, I see.\n\nYes, I can bestow you with the skills you need to train and guide your pet. Not only will you be able to teach your pet new abilities, you will now be able to feed your pet, as well as revive it, should it fall in battle.\n\nRemember that the key to getting the most from your new pet is to respect it and treat it well. In turn, your pet will be your most loyal friend.",
+  "files": [
+   "quests/6086-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a1faeee6c7ff",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dazalar",
+  "quest": "Training the Beast",
+  "en": "You now have the power to tame a pet, but you must also gain the skills to train it.\n\nTravel to Darnassus. There you must speak to one of our most revered hunters, Jocaste. She will give you the ability to train your new pet, so make haste.\n\nWhile Jocaste may seem stern, she is always pleased to see another hunter rising through the ranks. Treat her with respect and she will return in kind. Good luck, Adventurer.",
+  "files": [
+   "quests/6103-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "15d69e6a7e66",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grif Wildheart",
+  "quest": "Training the Beast",
+  "en": "Adventurer, ya now have the power to tame a pet, but you must also gain the skills ta train it.\n\nTravel to Ironforge and find the Hall of Arms. There you must speak to one of our most revered animal trainers, Belia Thundergranite. She'll give ya the power to train your new pet, so get goin', lad!\n\nBelia is a friendly sort; you should have no problems gaining her approval. Good luck, Adventurer.",
+  "files": [
+   "quests/m-6086-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c62af436a6a3",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Holt Thunderhorn",
+  "quest": "Training the Beast",
+  "en": "A young adventurer, I see. Yes, I can bestow you with the skills you need to train and guide your pet. Not only will you be able to teach your pet new abilities, you will now be able to feed your pet, as well as revive it, should it fall in battle.\n\nNow, go forth. May the Earthmother guide you on your path. We shall speak again, at a later date.",
+  "files": [
+   "quests/6089-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "fc7015f0723e",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Jocaste",
+  "quest": "Training the Beast",
+  "en": "A fledgling hunter, I see. Yes, I can bestow you with the skills you need to train and guide your pet. Not only will you be able to teach your pet new abilities, you will now be able to feed your pet, as well as revive it, should it fall in battle.\n\nRemember, Adventurer, always respect the balance and live in awe of nature around you. Now, go forth. We shall speak again, at a later date.",
+  "files": [
+   "quests/6103-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8e7fcc3d95d5",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ormak Grimshot",
+  "quest": "Training the Beast",
+  "en": "A young hunter, I see. Yes, I will grant you the skills you need to train and guide your pet. Not only will you be able to teach your pet new abilities, you will now be able to feed your pet, as well as revive it, should it fall in battle.\n\nNow, go, hunter. We will speak again, at a later date.",
+  "files": [
+   "quests/6081-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ed45907e453f",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Quel'ana Quickgale",
+  "quest": "Training the Beast",
+  "en": "You now have the power to tame a pet, but you must also gain the skills to train it. For this, there is none better than my sister, Quel'dora. She will give you the ability to train your new pet.\n\nGo with the winds, young adventurer.",
+  "files": [
+   "quests/94050-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c6e6b2dbfdad",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Quel'dora Quickgale",
+  "quest": "Training the Beast",
+  "en": "A fledgling adventurer, I see. Yes, I can bestow you with the skills you need to train and guide your pet. Not only will you be able to teach your pet new abilities, you will now be able to feed your pet, as well as revive it, should it fall in battle.\n\nRemember, Gei, always respect the balance and live in awe of nature around you. Now, go forth. We shall speak again, at a later date.",
+  "files": [
+   "quests/94050-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2a20e9348185",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thotar",
+  "quest": "Training the Beast",
+  "en": "You now have the power to tame a pet, but you must also gain the skills to train it.\n\nTravel to Orgrimmar. There you must speak to one of our most revered hunters, Ormak Grimshot. He will give you the ability to train your new pet. You will find him near the Hall of the Brave.\n\nGood luck, Adventurer.",
+  "files": [
+   "quests/6081-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "83781e1bbe8e",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Yaw Sharpmane",
+  "quest": "Training the Beast",
+  "en": "You now have the power to tame a pet, but you must also gain the skills to train it.\n\nTravel to Thunder Bluff. There you must speak to one of our most revered hunters, Holt Thunderhorn. If he deems you worthy, he will give you the ability to train your new pet.\n\nHolt has bested the most powerful and feared beasts of Azeroth, and commands many strong creatures of his own. His ties to the Earthmother are strong, and you can learn much from him. Good luck, Adventurer.",
+  "files": [
+   "quests/6089-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6d0a78de79b5",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Жозефина Карсон",
+  "quest": "Training the Beast",
+  "en": "You now have the power to tame a pet, but you must also gain the skills to train it. For this, there is none better than Isaac Chan, a lifelong woodsman. He will give you the ability to train your new pet.\n\nGo with the winds, young adventurer.",
+  "files": [
+   "quests/94793-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d763dfef4f96",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Исаак Чан",
+  "quest": "Training the Beast",
+  "en": "A fledgling adventurer, I see. Yes, I can bestow you with the skills you need to train and guide your pet. Not only will you be able to teach your pet new abilities, you will now be able to feed your pet, as well as revive it, should it fall in battle.\n\nRemember, Darlin, always respect the balance and live in awe of nature around you. Now, go forth. We shall speak again, at a later date.",
+  "files": [
+   "quests/94793-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "bdb40deff001",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orokk Omosh",
+  "quest": "Trampled Under Foot",
+  "en": "Only two more lessons Orokk will teach, Adventurer. Your muscles ache, I know, but continue on for the Omosh!\n\nBring to Orokk four green iron helms, four green iron bracers, and two green iron leggings - for this you learn and your enemies suffer!",
+  "files": [
+   "quests/2753-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "fe06baa54560",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orokk Omosh",
+  "quest": "Trampled Under Foot",
+  "en": "You remind Orokk of his grandfather, Chief Gorokk of Omosh! Read, learn of the iron boot.",
+  "files": [
+   "quests/2753-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ffb7834d92e5",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Great-father Winter",
+  "quest": "Treats for Great-father Winter",
+  "en": "You're quite the helper to ol' Greatfather Winter there, Adventurer. Have a great Feast of Winter Veil.\n\nHere's a little something... you know, for the effort.",
+  "files": [
+   "quests/6962-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1e4a32aa2a7e",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Great-father Winter",
+  "quest": "Treats for Great-father Winter",
+  "en": "Hey, can you do Greatfather Winter a favor, um, little boy?\n\nNot to needlessly talk about myself in the third person, but Greatfather Winter has been at this all day and he could use a treat himself. Some gingerbread cookies and ice cold milk to wash them down with would really hit the spot. Think you could be a friend to the Greatfather and fetch some for me?",
+  "files": [
+   "quests/m-6962-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d622ba2084c2",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Greatfather Winter",
+  "quest": "Treats for Greatfather Winter",
+  "en": "You're quite the helper to ol' Greatfather Winter there, Adventurer. Have a great Feast of Winter Veil.\n\nHere's a little something... you know, for the effort.",
+  "files": [
+   "quests/7025-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0144c53fd199",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Greatfather Winter",
+  "quest": "Treats for Greatfather Winter",
+  "en": "Hey, can you do Greatfather Winter a favor, um, little boy?\n\nNot to needlessly talk about myself in the third person, but Greatfather Winter has been at this all day and he could use a treat himself. Some gingerbread cookies and ice cold milk to wash them down with would really hit the spot. Think you could be a friend to the Greatfather and fetch some for me?",
+  "files": [
+   "quests/m-7025-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "609fb2ef8232",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Doctor Gregory Victor",
+  "quest": "Triage",
+  "en": "Good day, doctor. You will be tested on your ability to triage patients accordingly this afternoon. Should you pass your examination, you will join the prestigious ranks of Horde Trauma.\n\nNow pay attention! The critically injured must be tended to first. After the criticals come the badly injured. The injured should be tended to last. You must save 15 patients to pass this exam. You will fail should 6 of your patients die in triage.\n\nTriage bandages will be supplied.\n\nGood luck, doctor.",
+  "files": [
+   "quests/6622-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "494b82c4389a",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Doctor Gregory Victor",
+  "quest": "Triage",
+  "en": "Doctor Adventurer, welcome to Horde Trauma.",
+  "files": [
+   "quests/6622-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "17a4d7efca07",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Doctor Gustaf VanHowzen",
+  "quest": "Triage",
+  "en": "Good day, doctor. You will be tested on your ability to triage patients accordingly this afternoon. Should you pass your examination, you will join the prestigious ranks of Alliance Trauma.\n\nNow pay attention! The critically injured must be tended to first. After the criticals come the badly injured. The injured should be tended to last. You must save 15 patients to pass this exam. You will fail should 6 of your patients die in triage.\n\nGood luck, doctor.",
+  "files": [
+   "quests/6624-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "aed1e6448bcd",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Doctor Gustaf VanHowzen",
+  "quest": "Triage",
+  "en": "Doctor Adventurer, welcome to Alliance Trauma.",
+  "files": [
+   "quests/6624-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "546013d57f9d",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Ruga Ragetotem",
+  "quest": "Trial at the Field of Giants",
+  "en": "To pass this trial, you must travel south to the Field of Giants. There you will find a host of crawling, insect creatures. They are new to the Barrens and I do not like what they herald.\n\nBring me their still-twitching antennae, and waste no time, Adventurer, for harvested antennae will not twitch for long. Bring me the antennae in the time allowed, and you will pass the trial.",
+  "files": [
+   "quests/1824-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1f55cb58625d",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Ruga Ragetotem",
+  "quest": "Trial at the Field of Giants",
+  "en": "Nicely done, Adventurer! In passing the trial at the Field of Giants, you take one more step down the Adventurer's path.",
+  "files": [
+   "quests/1824-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "fa7994475b5b",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dendrite Starblaze",
+  "quest": "Trial of the Lake",
+  "en": "For your first trial, search the depths of Lake Elune'ara to locate a Shrine Bauble. It decays rapidly, so proceed with it to the Shrine of Remulos post haste. Use the bauble at the shrine, and then speak with Tajarri there; she is one of Moonglade's most trusted wardens.\n\nYou only have a set amount of time to complete the task, and you may be competing against other druids searching for baubles themselves. Mental and physical dexterity will be critical to your success.\n\nGood luck, Adventurer.",
+  "files": [
+   "quests/28-accept",
+   "quests/29-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "cf652b31dec9",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Tajarri",
+  "quest": "Trial of the Lake",
+  "en": "Well now, it looks like yet another druid has successfully completed the Trial of the Lake! Well done, my young friend - well done.\n\nAs I've said, my name is Tajarri. It is my duty and my privilege to serve as a warden for Moonglade, and specifically this shrine. Keeper Remulos guides the Cenarion Circle in preservation of nature and balance, and his shrine serves as a lasting tribute to such. By using the bauble here, it serves as a nod to the importance of this place within the Circle.",
+  "files": [
+   "quests/28-complete",
+   "quests/29-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "844021f02cd6",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dendrite Starblaze",
+  "quest": "Trial of the Sea Lion",
+  "en": "You've completed the Trial of the Sea Lion, Adventurer - congratulations.\n\nEach task in acquiring the pendant shows that both agility and endurance are necessary to act in harmony with what you desire to do underwater. Neither can exist without the other, and both cannot be done without your willingness to embrace the aspect of the sea lion.\n\nRemember these lessons well, and count on them once you have gained your aquatic form.",
+  "files": [
+   "quests/30-complete",
+   "quests/272-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3977707d1840",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Tajarri",
+  "quest": "Trial of the Sea Lion",
+  "en": "For the second trial, you'll need the two halves that make the Pendant of the Sea Lion. One half draws power from the agility of the sea lion aspect, gliding through water; the other draws power from the incredible endurance of the sea lion aspect. Druids draw on both these traits equally to embody the aspect of their aquatic form.\n\nSpeak with the locals of Moonglade to learn where the parts may lie, and bring both here to join them together. Once formed, take the pendant to Dendrite Starblaze.",
+  "files": [
+   "quests/30-accept",
+   "quests/272-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f0eb04c4d074",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Caryssia Moonhunter",
+  "quest": "Tribal Leatherworking",
+  "en": "To learn tribal leatherworking demands an understanding of how primal nature truly is; I know that you have already mastered the art of making wild leather armor, and I am willing to complete your training.\n\nKnow this, adventurer: by choosing this path you agree never to learn dragonscale or elemental leatherworking; there is only room for practice of one of the three arts. Furthermore, bring to me the finest samples of your wild leather armor. From there, we will begin your mastery.",
+  "files": [
+   "quests/5143-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "05f17aece808",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Caryssia Moonhunter",
+  "quest": "Tribal Leatherworking",
+  "en": "You've given your finest offerings, and nature will soon permit you to bend her to your will. Once I have finished my tutelage, your work will be a force of nature unto itself.\n\nTo train in the art for the future, simply speak to me and I will make available any knowledge that you have yet to commit as yours.",
+  "files": [
+   "quests/5143-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4740ebd8c8af",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Se'Jib",
+  "quest": "Tribal Leatherworking",
+  "en": "To learn tribal leatherworking demands an understanding of how primal nature truly is; I know that you have already mastered the art of making wild leather armor, and I am willing to complete your training.\n\nKnow this, adventurer: by choosing this path you agree never to learn dragonscale or elemental leatherworking; there is only room for practice of one of the three arts. Furthermore, bring to me the finest samples of your wild leather armor. From there, we will begin your mastery.",
+  "files": [
+   "quests/5148-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b6653c0affb0",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Se'Jib",
+  "quest": "Tribal Leatherworking",
+  "en": "You've given your finest offerings, and nature will soon permit you to bend her to your will. Once I have finished my tutelage, your work will be a force of nature unto itself.\n\nTo train in the art for the future, simply speak to me and I will make available any knowledge that you have yet to commit as yours.",
+  "files": [
+   "quests/5148-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "32fed517d9ec",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thun'grim Firegaze",
+  "quest": "Ula'elek and the Brutal Gauntlets",
+  "en": "The troll smith Ula'elek will craft for you the brutal gauntlets. He dwells in Durotar, in Sen'jin Village with his Darkspear brethren, and he awaits your coming.",
+  "files": [
+   "quests/1839-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "58692c55f948",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Ula'elek",
+  "quest": "Ula'elek and the Brutal Gauntlets",
+  "en": "Greetings, Adventurer. Old Thun'grim sent word to me of your coming, but had he kept silent your presence here would not have surprised me.\n\nThe spirits follow your progress, young Adventurer, and they tell me that many foes have fallen before you.",
+  "files": [
+   "quests/1839-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c8cc0abbd4f6",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": "Ulag the Cleaver",
+  "en": "When the Scourge swept through Tirisfal Glades, we captured one to study. He had a free mind, and called himself Ulag the Cleaver. But, although his will was free, he was still enthralled by the Lich King.\n\nWe hoped to find a way to break the king's control over Ulag, but we failed. Now, finally, it is time to free him. \n\nFree him, and kill him.\n\nActivate the skull stone trigger near the mausoleum to the north. This will lift the magical seal that binds him.\n\nThen... be ready, Adventurer.",
+  "files": [
+   "quests/1819-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a3af78531692",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Dillinger",
+  "quest": "Ulag the Cleaver",
+  "en": "Well done, Adventurer. Ulag was no minor agent of the Scourge. You have shown the Deathguards, and hence the Dark Lady, that you are a warrior of skill and resolve, and are worthy of further instruction.",
+  "files": [
+   "quests/1819-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "02508159d784",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Thomas Helleran",
+  "quest": "Under the Shadow",
+  "en": "The floating necropolises of the Scourge plague the lands of Horde and Alliance alike. Tanaris, the Blasted Lands, Winterspring and the Burning Steppes are blanketed in the shadows of the flying fortresses.\n\nOnly through our combined efforts will they be turned away.\n\nThe necropolises are supported by magical circles at various points in the invaded areas. We have determined that destroying the mindless hordes that surround these circles will destroy their defenses.",
+  "files": [
+   "quests/9153-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d9412d542550",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Thomas Helleran",
+  "quest": "Under the Shadow",
+  "en": "You've done well, adventurer. Through these incremental defeats, we shall prevail against this renewed Scourge threat.\n\nRest and recover, but then you must head out to the front again, lest we lose the ground we have gained today.\n\nTo aid you in your further battles, we will make some of our special items available to you in trade for more necrotic runes.",
+  "files": [
+   "quests/9153-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2d0dd8e1fe68",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "High Sorcerer Andromath",
+  "quest": "Ur's Treatise on Shadow Magic",
+  "en": "Long ago, three mages studied in this tower until one fell to the dark arts. He was urged to turn away from that evil magic, but he could not resist. And so he was banished.\n\nThe fallen mage's new domain is the tower of Ilgalar in Redridge, and he took with him a powerful book--Ur's Treatise on Shadow Magic.\n\nWe, the mages of Stormwind, would have that book returned. Enter the tower of Ilgalar, find the tome in his library, and bring it to me.",
+  "files": [
+   "quests/1938-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e1a2a52795fd",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "High Sorcerer Andromath",
+  "quest": "Ur's Treatise on Shadow Magic",
+  "en": "I feared that Morganth had hidden the book elsewhere, or that he had found a way to open it and read its contents.\n\nIt is good to see that he did not, and that the seals we placed on Ur's Treatise on Shadow Magic still hold.",
+  "files": [
+   "quests/1938-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1687f52bb1b8",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Lunar Festival Harbinger",
+  "quest": "Valadar Starsong",
+  "en": "Now that you have your Lunar Festival invitation, you may travel to Moonglade! There you will find many revelers, and in the village of Nighthaven Valadar Starsong and his sister Fariel await those eager to participate in the celebration.\n\nTravel to Moonglade through the greater moonlight and speak with Valadar Starsong; see what prizes you might gain during the festival!",
+  "files": [
+   "quests/8883-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "320e6ec1122b",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Valadar Starsong",
+  "quest": "Valadar Starsong",
+  "en": "Adventurer, welcome to Nighthaven, host of the Lunar Festival! Although our village is normally remote and sequestered from the peoples of Azeroth, during this time of celebration we open our arms and hearts to all.\n\nEnjoy your visit, adventurer, and speak with me or my sister again when ready.",
+  "files": [
+   "quests/8883-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "384f4f950298",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Muren Stormpike",
+  "quest": "Vejrek",
+  "en": "If you want to rise in the ranks of the warriors, then you better be tough. I can teach you new moves but before that, prove to me you can handle yourself against real foes.\n\nVejrek is the toughest troll you'll find in these parts, and he's who you have to beat. He has a hut in the foothills just south of Frostmane Hold\n\nBring me Vejrek's head and I'll know you have mettle.",
+  "files": [
+   "quests/1678-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "09fb1a1b078f",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Muren Stormpike",
+  "quest": "Vejrek",
+  "en": "Vejrek sure was an ugly one, eh? Nicely done, Adventurer! You have what it takes, now let's start your lesson...\n\nYou may not know it, but a strong defense is very important to a Adventurer. It keeps him standing against foes that'd fell others, and that's what your allies need.",
+  "files": [
+   "quests/1678-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d70c922de843",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thun'grim Firegaze",
+  "quest": "Velora Nitely and the Brutal Legguards",
+  "en": "It is said that, before her death, Velora Nitely was one of the finest armorsmiths in Lordaeron. Death, it seems, has not decreased her talents. Speak with Velora--she will make your brutal legguards.\n\nVelora plies her trade in the Undercity of Lordaeron, in the trade quarter.",
+  "files": [
+   "quests/1841-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d05348002436",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Velora Nitely",
+  "quest": "Velora Nitely and the Brutal Legguards",
+  "en": "You are here for leg armor? Great!\n\nUm... am I making the armor for you, or are you making it for me?\n\nThat was joke. Was it funny? I can't tell... I lost my sense of humor the same time I lost my sense of smell. Which was about the same time I stopped breathing.",
+  "files": [
+   "quests/1841-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e18dfc3563be",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Gart Mistrunner",
+  "quest": "Verdant Note",
+  "en": "Though we share a common bond, do not expect much welcome from the night elves. Their pride still limits their sight, but that is none of our concern. The teachings of the Earthmother are all you must concern yourself with, and I will teach you what I know as you grow in wisdom.\n\nReturn to me often, Adventurer. You will find that the Earthmother grants incredible abilities to those who are most dedicated.",
+  "files": [
+   "quests/3094-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1772c7374257",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Grull Hawkwind",
+  "quest": "Verdant Note",
+  "en": "Just a moment ago a messenger was looking for you, Adventurer. I believe she was sent by the druid trainer Gart. If this note is from Gart, I wouldn't take long in reading its contents.",
+  "files": [
+   "quests/3094-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "10cbd20d9bdd",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Conservator Ilthalaine",
+  "quest": "Verdant Sigil",
+  "en": "This sigil was given to me by a messenger from our druid trainer, Mardant. It seems Mardant would have words with you when you have a moment. Read it and bring it to him afterwards.",
+  "files": [
+   "quests/3120-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "34caf75cb301",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mardant Strongoak",
+  "quest": "Verdant Sigil",
+  "en": "I will be your mentor and guide for now. It is my duty to teach you how to interpret not only what the spirits communicate to us, but also the complexities and secrets of the Emerald Dream.\n\nAs you learn and grow in power, you will learn more of our sleeping trance. But until then, return to me as often as you like and I will teach you what I can in the ways of our kind.",
+  "files": [
+   "quests/3120-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9e58870e143c",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Krang Stonehoof",
+  "quest": "Veteran Uzzek",
+  "en": "The Horde honors its warriors because their strength is unquestioned. But the truly great warriors are great students as well.\n\nSeek out Uzzek. He is a veteran of many battles and now instructs young warriors in the ways of combat. You will find him south of Far Watch Post, the orc garrison on the border of the Barrens and Durotar to the east.",
+  "files": [
+   "quests/1505-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "709a23614241",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Tarshaw Jaggedscar",
+  "quest": "Veteran Uzzek",
+  "en": "The Horde honors its warriors because their strength is unquestioned. But the truly great warriors are great students as well.\n\nSeek out Uzzek. He is a veteran of many battles and now instructs young warriors in the ways of combat. You will find him south of Far Watch Post, the orc garrison on the border of the Barrens and Durotar to the east.",
+  "files": [
+   "quests/1505-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "fc72ff46cadb",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Uzzek",
+  "quest": "Veteran Uzzek",
+  "en": "Hello, young one. Here for some instruction, are you?",
+  "files": [
+   "quests/1505-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "96ec0a2a5333",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Yebb Neblegear",
+  "quest": "Vibrant Plumes",
+  "en": "Ah, the plumes! They are amazing, don't you think! It would be easy to spark one's imaginations with such beauties!\n\nYou do such charitable work, Adventurer. The smiles on our visitors' faces when they see the show is a grand payment indeed, but please take these tickets as well.",
+  "files": [
+   "quests/7902-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e4aeba661eaf",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ruzan",
+  "quest": "Vile Familiars",
+  "en": "Those warlocks who came before us have earned the distrust of the Horde, and while we are tolerated, we are not loved.\n\nThis has not brought the warlocks closer together, however, as many choose to live reclusively, dabbling in their magics alone. I will not seek to lead you down one path or the other, but only help you in your maturation.\n\nBefore I teach you the art of summoning, bring me six heads of the vile familiars from the cave to the northeast.",
+  "files": [
+   "quests/1485-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d3bcff8b4d49",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ruzan",
+  "quest": "Vile Familiars",
+  "en": "Throughout your training as a Adventurer, you will learn to call forth beings of many sorts. Some may not seem it, but all are useful tools.\n\nDo not be fooled by the imp's small size. As you no doubt noticed, it is still a formidable adversary.",
+  "files": [
+   "quests/1485-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "31922cc18c9e",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ruzan",
+  "quest": "Vile Familiars",
+  "en": "Zureetha has been sending novices like yourself to help cull the numbers of the creatures in the cave near where you fought the vile familiars.\n\nI think it would be good for you to gain experience by assisting her. Be sure to tell her that you assisted with the imp problem, she'll probably have a reward for you.",
+  "files": [
+   "quests/1499-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e814e8830935",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Zureetha Fargaze",
+  "quest": "Vile Familiars",
+  "en": "You have done well, adventurer.\n\nAlthough the vile familiars were merely pets of the darker powers within the Burning Blade, your success against them foretells greater deeds ahead.",
+  "files": [
+   "quests/1499-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1fd3c303bb13",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "Voodoo Feathers",
+  "en": "My fury is released!",
+  "files": [
+   "followup/10893-orc-male-standard"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "796cf23296f1",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "Voodoo Feathers",
+  "en": "Your honor has brought some peace to me. It is only right that I offer you something in return.\n\nMy weapons and armor were splendid in life, and yet they are of no use to me now. They would be better served in your possession.\n\nTravel to the sunken temple and destroy the troll guardians Gasher, Mijan, Zolo, Hukku, Zul'lor, and Loro. They carry magic feathers that can reform my physical body long enough to grant you a reward.",
+  "files": [
+   "quests/8425-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ca61e8907dc5",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "Voodoo Feathers",
+  "en": "At last I can feel the cold touch of steel again, even if only for a moment.",
+  "files": [
+   "quests/8425-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "79fad11561bb",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elanaria",
+  "quest": "Vorlus Vilehoof",
+  "en": "Before I can teach you, you must show me your resolve.\n\nThe satyr Vorlus Vilehoof has found one of our remote moonwells, southeast of the Ban'ethil Barrow Den. He now splashes within it, defiling its pure waters with his filth.\n\nFind Vorlus at the moonwell and destroy him. Bring me his horn as proof and I will begin your advanced training as a warrior.\n\nThe path to the moonwell is hidden well, Adventurer, but stay focused and alert and you will find it.",
+  "files": [
+   "quests/1683-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0ecd8263fd9d",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elanaria",
+  "quest": "Vorlus Vilehoof",
+  "en": "Well done, Adventurer. It is good to know Vorlus is defeated and our moonwell cleansed, and it is good to see young warriors eager to keep our beloved Teldrassil free of corruption.\n\nNow let us begin your training...",
+  "files": [
+   "quests/1683-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a589d43eb638",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "War on the Shadowsworn",
+  "en": "The continued presence of the shadowsworn in the Blasted Lands bring great pain to me. Their dark rituals and spells cause agony unlike any I felt while alive.\n\nThrough you I can deliver my own message of pain. Go forth and deliver my wrath.",
+  "files": [
+   "quests/8424-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f260a34244bb",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "War on the Shadowsworn",
+  "en": "Already you have subdued my pain and honored me. Thank you, Adventurer.",
+  "files": [
+   "quests/8424-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c82c9a0c23a2",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Archmage Xylem",
+  "quest": "Warlord Krellian",
+  "en": "There isn't much time, adventurer! My scrying spells have revealed a powerful source of magic. I cannot leave the tower, and would ask you to kill the vile creature in possession of this artifact.\n\nThe pathetic little cretin is known as Warlord Krellian, hiding behind his guards in the Temple of Zin-Malor. Burn him to ashes and take the prismatic shell he covets so dearly.",
+  "files": [
+   "quests/9362-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f01acc6182dd",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Archmage Xylem",
+  "quest": "Warlord Krellian",
+  "en": "I must say, this shell has a strange aura. It seems only fitting that part of your reward for retrieving it would be to test its magical capabilities...",
+  "files": [
+   "quests/9362-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "97d49a9bf0bc",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "Warrior Kinship",
+  "en": "You are a adventurer, no doubt. I would ask an honorable task of you, but I must test your strength.\n\nIt is said that Rexxar would measure the sharpness of his blades by killing a helboar with a single, swift strike. Now I will measure your strength by killing them.",
+  "files": [
+   "quests/8423-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "cfcb9f782a5b",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": "Warrior Kinship",
+  "en": "I need no proof to know what you have done, Adventurer. I can see the determination etched in your expression.",
+  "files": [
+   "quests/8423-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a8156dea0023",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Islen Waterseer",
+  "quest": "Water Sapta",
+  "en": "Take the water sapta and find the corrupted pool of water in Silverpine, Adventurer. I have great faith in your abilities.",
+  "files": [
+   "quests/972-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c2c014bea7d0",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Norric Lochthane",
+  "quest": "Water Sapta",
+  "en": "Take the water sapta and find the tainted pond water in Westfall, Adventurer. I have great faith in your abilities.",
+  "files": [
+   "quests/94616-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "28b69277cce4",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Deino",
+  "quest": "Waters of Xavian",
+  "en": "The fabled city of Xavian lies nestled deep within eastern Ashenvale, and tales of its ancient knowledge are well known among the learned. It is said that the waters of Xavian hold vast magical powers.\n\nI would have a sample of those waters, from their source.\n\nTake this flask and go to Xavian. Gather water from the bottom of its highest waterfall, and return to me. And use care as you move through that ancient city--satyrs now hold the ruins and do not like mages prying into their affairs.",
+  "files": [
+   "quests/1944-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a9893f76e0e0",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Deino",
+  "quest": "Waters of Xavian",
+  "en": "Ah, very good. I trust the satyrs of Xavian gave you little trouble?\n\nThank you, Adventurer. I will study this sample of Xavian water immediately.",
+  "files": [
+   "quests/1944-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8e6e33f83d54",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mathiel",
+  "quest": "Weapons of Elunite",
+  "en": "Adventurer, I have crafted these weapons with the elunite you brought to me. Please, take whichever most suits you.\n\nAnd I must thank you. Working with elunite is both an honor and a pleasure.",
+  "files": [
+   "quests/1693-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1d27d707a056",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Camp Narache Gift Voucher",
+  "quest": "Welcome!",
+  "en": "Welcome to the World of Warcraft!\n\nAs special thanks for purchasing the World of Warcraft Collector's Edition, turn in this gift voucher to Vorn Skyseer in Camp Narache. You'll then be given a gift: a little companion to join you on your quest for adventure and glory.\n\nThanks again, and enjoy your stay in the World of Warcraft!",
+  "files": [
+   "quests/5844-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "677ed6515ee1",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Claire Willower",
+  "quest": "Welcome!",
+  "en": "You are indeed a special hero, Adventurer. We welcome you to the world of Azeroth, and offer you one of these unique gifts!",
+  "files": [
+   "quests/5847-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0dc887661edf",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Coldridge Valley Gift Voucher",
+  "quest": "Welcome!",
+  "en": "Welcome to the World of Warcraft!\n\nAs special thanks for purchasing the World of Warcraft Collector's Edition, turn in this gift voucher to Yori Crackhelm in Coldridge Valley. You'll then be given a gift: a little companion to join you on your quest for adventure and glory.\n\nThanks again, and enjoy your stay in the World of Warcraft!",
+  "files": [
+   "quests/5841-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4ca10bb7dd69",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Deathknell Gift Voucher",
+  "quest": "Welcome!",
+  "en": "Welcome to the World of Warcraft!\n\nAs special thanks for purchasing the World of Warcraft Collector's Edition, turn in this gift voucher to Claire Willower in Deathknell. You'll then be given a gift: a little companion to join you on your quest for adventure and glory.\n\nThanks again, and enjoy your stay in the World of Warcraft!",
+  "files": [
+   "quests/5847-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2c6129f5b527",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Magga",
+  "quest": "Welcome!",
+  "en": "You are indeed a special hero, Adventurer. We welcome you to the world of Azeroth, and offer you one of these unique gifts!",
+  "files": [
+   "quests/5843-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8761ede57fd3",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Merissa Stilwell",
+  "quest": "Welcome!",
+  "en": "You are indeed a special hero, Adventurer. We welcome you to the world of Azeroth, and offer you one of these unique gifts!",
+  "files": [
+   "quests/5805-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "966eda018ce4",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Northshire Gift Voucher",
+  "quest": "Welcome!",
+  "en": "Welcome to the World of Warcraft!\n\nAs special thanks for purchasing the World of Warcraft Collector's Edition, turn in this gift voucher to Merissa Stilwell in Northshire Valley. You'll then be given a gift: a little companion to join you on your quest for adventure and glory.\n\nThanks again, and enjoy your stay in the World of Warcraft!",
+  "files": [
+   "quests/5805-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "23ec78bbacaf",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Orenthil Whisperwind",
+  "quest": "Welcome!",
+  "en": "You are indeed a special hero, Adventurer. We welcome you to the world of Azeroth, and offer you one of these unique gifts!",
+  "files": [
+   "quests/5842-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f55dda3ee8b6",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Shadowglen Gift Voucher",
+  "quest": "Welcome!",
+  "en": "Welcome to the World of Warcraft!\n\nAs special thanks for purchasing the World of Warcraft Collector's Edition, turn in this gift voucher to Orenthil Whisperwind in Shadowglen. You'll then be given a gift: a little companion to join you on your quest for adventure and glory.\n\nThanks again, and enjoy your stay in the World of Warcraft!",
+  "files": [
+   "quests/5842-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "fafa2c3ac4e8",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Valley of Trials Gift Voucher",
+  "quest": "Welcome!",
+  "en": "Welcome to the World of Warcraft!\n\nAs special thanks for purchasing the World of Warcraft Collector's Edition, turn in this gift voucher to Magga in the Valley of Trials. You'll then be given a gift: a little companion to join you on your quest for adventure and glory.\n\nThanks again, and enjoy your stay in the World of Warcraft!",
+  "files": [
+   "quests/5843-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c9f7627d21ed",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Vorn Skyseer",
+  "quest": "Welcome!",
+  "en": "You are indeed a special hero, Adventurer. We welcome you to the world of Azeroth, and offer you one of these unique gifts!",
+  "files": [
+   "quests/5844-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "da213111338e",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Yori Crackhelm",
+  "quest": "Welcome!",
+  "en": "You are indeed a special hero, Adventurer. We welcome you to the world of Azeroth, and offer you one of these unique gifts!",
+  "files": [
+   "quests/5841-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "02520b2b0d94",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Takar the Seer",
+  "quest": "What Is Love?",
+  "en": "You will need a powerful reagent to tempt an incubus -- an object that represents great devotion and love.\n\nWith my scrying, I have located a small figurine that should be suitable for your ritual.\n\nThousands of years ago, the figurine belonged to a young couple. The original owners are no more, but their keepsake has survived to the present day.\n\nFollow the road north into Ashenvale, then west and past Maestra's Post. You will see a house nestled amongst the trees. There you will find what you seek.",
+  "files": [
+   "quests/65602-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "52b27081d798",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Gorzeeki Wildeyes",
+  "quest": "Wheel of the Black March",
+  "en": "There they are! I hear that dark iron ore is only found in the depths of Blackrock, and I'm sure these shards weren't easy to find either. I am often awed at the dedication you warlocks have. If you instead bent all that energy into the art of bug catching, oh... such a feast you would enjoy!\n\nSorry, a small digression. I'll create the wheel and keep it for you until you're ready for your ritual.",
+  "files": [
+   "quests/7627-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ad35f6b66cd3",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mor'zul Bloodbringer",
+  "quest": "Wheel of the Black March",
+  "en": "A Wheel of the Black March contains and directs the violent energies required for the Circle of Greater Summoning. For Gozeeki to construct a wheel, he will need both large brilliant shards from an enchanter, and dark iron ore from a master miner.\n\nAcquire these and bring them to my servant.",
+  "files": [
+   "quests/7627-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "55741d63b04d",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Bath'rah the Windwatcher",
+  "quest": "Whirlwind Weapon",
+  "en": "I have the whirlwind heart, and am ready to place it within your vessel of choice.\n\nChoose your weapon, Adventurer, and know that its power is the power of Cyclonian.",
+  "files": [
+   "quests/1792-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0774d63814f4",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Rinling",
+  "quest": "Whirring Bronze Gizmo",
+  "en": "You brought the gizmos! Wonderful! Even now I can hear their buzzing, whirring chorus in my mind! Oh, when this booth is ready it will be the wonder of the world, mark me!\n\nHere are you tickets, Adventurer. And please enjoy your stay at the Faire!",
+  "files": [
+   "quests/7895-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "333927015fed",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Festival Flamekeeper",
+  "quest": "Wild Fires in Kalimdor",
+  "en": "The Midsummer Fire Festival is celebrated everywhere in Azeroth, and the diverse land of Kalimdor is no exception. You look fit to travel -- perhaps a journey is in order.\n\nMidsummer cannot be truly appreciated unless you've seen the blistering blue fires abroad. The celebrants have lit fires in chilly western Winterspring, northeastern Azshara, near Valor's Rest in the wastes of Silithus, and by the entrance to lush Un'Goro. Return once your journey is complete.",
+  "files": [
+   "quests/9322-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5faccc65c0bd",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Festival Flamekeeper",
+  "quest": "Wild Fires in Kalimdor",
+  "en": "Your spirit glows with the warmth of the Kalimdor fires, friend. Is the heat not invigorating?\n\n Once the power fades from you, perhaps these will help rekindle the feeling.",
+  "files": [
+   "quests/9322-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "406c2eb73e7c",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Festival Flamekeeper",
+  "quest": "Wild Fires in the Eastern Kingdoms",
+  "en": "Our celebration of the flame is spread throughout the land, adventurer. Not a single place remains untouched by the heat of this holiday, and the strongest fires burn a brilliant blue. Seek them out.\n\nYou'll find one just north of Blackrock Spire. The others are located deep within the Eastern Plaguelands near a decrepit town, along the road to the cliffs within the mountainous Hinterlands, and on the way to the Dark Portal within the Blasted Lands.\n\n Return once your journey is done.",
+  "files": [
+   "quests/9323-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7ba85e8e4607",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Festival Flamekeeper",
+  "quest": "Wild Fires in the Eastern Kingdoms",
+  "en": "Ah, here you are. A little wearier, a bit dustier, but enlightened! The heat touches us all during this season and unites us; your very being glows with the power of the fires you touched.\n\nAh, but these days enlightenment is taken as a rather poor reward for being sent on a task, I suppose. Take these, then, and enjoy the celebration.",
+  "files": [
+   "quests/9323-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ba87cafa0a5a",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jangdor Swiftstrider",
+  "quest": "Wild Leather Armor",
+  "en": "adventurer, your skill as a leatherworker precedes you. I possess leatherworking lore you would be wise to acquire... Wild Leather armor! Wild Leather taps into the potent and chaotic properties of wildvines, found in areas of lush vegetation and on some of the creatures there. Armor made using it is second to none for a crafter of your skill, guaranteed.\n\nI'll teach you, but you'll be working for me for a while. The first cost is simply ten pieces of thick leather. After this, we'll talk specifics.",
+  "files": [
+   "quests/2854-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "397daa1e0e49",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jangdor Swiftstrider",
+  "quest": "Wild Leather Armor",
+  "en": "Well adventurer, I'm glad to have you on board as my apprentice. You've made a wise decision as a leatherworker; those who make use of leather armor will be clamoring to you once you learn how to master the art of Wild Leather.\n\nLet's get to work - where do you want to start?",
+  "files": [
+   "quests/2854-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "123301a26da7",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Pratt McGrubben",
+  "quest": "Wild Leather Armor",
+  "en": "adventurer, you're becoming quite skilled as a leatherworker! I know some patterns you might be interested in... Wild Leather armor! Wild Leather taps into the potent and chaotic properties of wildvines, found in areas of lush vegetation and on some of the creatures there. The armor made using it is second to none for people of your skill, guaranteed.\n\nI'll teach this to you, but you'll be working for me for a while. The first cost is simply ten pieces of thick leather. After this, we'll talk specifics.",
+  "files": [
+   "quests/2847-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f3207fc898a0",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Pratt McGrubben",
+  "quest": "Wild Leather Armor",
+  "en": "Well Adventurer, I'm glad to have you on board. You've made a smart decision as a leatherworker; those who wear leather armor will be clamoring to you once you learn how to make any of the Wild Leather armor pieces.\n\nLet's get to work - where do you want to start?",
+  "files": [
+   "quests/2847-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "609bd338370a",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jangdor Swiftstrider",
+  "quest": "Wild Leather Boots",
+  "en": "Your knowledge of Wild Leather armor grows, adventurer; still, there is more for you to learn.\n\nWild Leather boots are the cornerstone of any set. Such boots are crafted to cradle the foot in comfort while bracing it against the hazards of adventuring. The soft soles are a blessing to those seeking quiet movement in footwear.\n\nFor this pattern, I need two Nightscape pants and two Nightscape boots crafted. I also will require two wildvines... not just one. When you have these items, we will proceed.",
+  "files": [
+   "quests/2858-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2329cfeab4a0",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jangdor Swiftstrider",
+  "quest": "Wild Leather Boots",
+  "en": "Once again, you have produced items with the skill of a seasoned professional. You have earned this pattern, as well as my congratulations.",
+  "files": [
+   "quests/2858-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "de0802018233",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Pratt McGrubben",
+  "quest": "Wild Leather Boots",
+  "en": "You've learned quite a bit now, adventurer; still, there is more for you to learn. Next are Wild Leather boots, the cornerstone of any set.\n\nThese boots are crafted to cradle the foot in comfort while bracing it against the hazards of adventuring. The soft soles are a blessing to those seeking quiet movement in footwear.\n\nFor this pattern, I need an order of two Nightscape pants and two Nightscape boots filled. I also will require two wildvines... not just one. When you have all this, let me know.",
+  "files": [
+   "quests/2851-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ebbec2c72e3f",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Pratt McGrubben",
+  "quest": "Wild Leather Boots",
+  "en": "Once again, you've filled a complex order with the skill of a seasoned professional. You have earned this pattern, as well as my thanks.",
+  "files": [
+   "quests/2851-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0adfac19efab",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jangdor Swiftstrider",
+  "quest": "Wild Leather Helmet",
+  "en": "A Wild Leather helmet offers the wearer superior protection to the vital areas of the head without a sacrifice in comfort. As with all Wild Leather armor, the integrated wildvine yields a powerful but random magic imbuement to the helm's frame. Leather wearers will definitely want this piece!\n\nFor this pattern, I will need two Nightscape tunics, 2 Nightscape headbands, and a wildvine. Complete this lesson and the pattern will be yours!",
+  "files": [
+   "quests/2857-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f3c06fb9df7d",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jangdor Swiftstrider",
+  "quest": "Wild Leather Helmet",
+  "en": "This Nightscape equipment you have supplied perfectly meets the requirements I have given to you, adventurer. I expect no less from a leatherworker of your caliber.\n\nYou have earned the honor of crafting Wild Leather helmets. I give this pattern to you freely, and hope you will profit from it accordingly.",
+  "files": [
+   "quests/2857-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b77e5029ad1b",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Pratt McGrubben",
+  "quest": "Wild Leather Helmet",
+  "en": "A Wild Leather helmet offers the wearer superior protection to the vital areas of the head without a sacrifice in comfort. As with all Wild Leather armor, the integrated wildvine yields a powerful but random enhancement to the frame of the helm. Leather wearers will definitely want this piece!\n\nFor this pattern, I will need two Nightscape tunics, two Nightscape headbands, and a wildvine. Complete this order and the pattern will be yours!",
+  "files": [
+   "quests/2850-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "bb5dba3c26f2",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Pratt McGrubben",
+  "quest": "Wild Leather Helmet",
+  "en": "This Nightscape equipment you have supplied fills the order perfectly, Adventurer. I expect no less from a leatherworker of your caliber.\n\nYou have definitely earned this pattern. I give it to you freely, and hope you will profit from it accordingly.",
+  "files": [
+   "quests/2850-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "543ceb6c20bb",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jangdor Swiftstrider",
+  "quest": "Wild Leather Leggings",
+  "en": "You are ready to master more complex lessons, adventurer. Wild Leather leggings are some of the sturdiest and powerful leather gear around. The waist, thighs, calves, and the vitals - all are given tremendous protection. Coupled with the enhancement that the wildvine provides, adventurers who own it will thank you each time they see you.\n\nFor you to gain this pattern, I need two Turtle Scale helms, two Turtle Scale bracers, and two wildvines.",
+  "files": [
+   "quests/2859-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "51b91505335c",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jangdor Swiftstrider",
+  "quest": "Wild Leather Leggings",
+  "en": "Again, you've completed my task without flaw. Perhaps some day I will come to YOU seeking knowledge, eh adventurer?\n\nHere is the pattern for the leggings, along with my thanks. Commit this lore to your knowledge, and let your finished products tap into your impressive skills!",
+  "files": [
+   "quests/2859-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "84923911276d",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Pratt McGrubben",
+  "quest": "Wild Leather Leggings",
+  "en": "With the basics down, you are ready to master more complex fare, adventurer. Wild Leather leggings are some of the sturdiest and powerful leather gear around. The waist, thighs, calves, and the vitals - all are given tremendous protection. Coupled with the enhancement that the wildvine provides, adventurers who own it will thank you each time they see you.\n\nFor this pattern, I need an order of two Turtle Scale helms, two Turtle Scale bracers, and two wildvines filled.",
+  "files": [
+   "quests/2852-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2dbdb303f31c",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Pratt McGrubben",
+  "quest": "Wild Leather Leggings",
+  "en": "Again, you've filled an order without flaw. Perhaps some day I will come to YOU seeking knowledge, eh Adventurer?\n\nHere is the pattern for the leggings, along with my thanks. Commit this lore to your knowledge, and let your finished products tap into your impressive skills!",
+  "files": [
+   "quests/2852-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2651801ef6df",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jangdor Swiftstrider",
+  "quest": "Wild Leather Shoulders",
+  "en": "Wild Leather shoulders support a wearer's frame extremely well, offering superior protection of the upper arms as well as the shoulders. As with all Wild Leather armor, a random yet very potent enhancement is imbued within the item as the wildvine is stitched in.\n\nFor this pattern, I will require six thick armor kits and a wildvine. That shouldn't be too tall of an order for you to fill.",
+  "files": [
+   "quests/2855-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4cf12fd6255e",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jangdor Swiftstrider",
+  "quest": "Wild Leather Shoulders",
+  "en": "These armor kits are of solid quality, adventurer. If there is one thing I demand in not only my work, but in the work of those I give tutelage to, it is quality.\n\nYou've done well to earn this pattern; I hope it brings you the rewards it has brought me.",
+  "files": [
+   "quests/2855-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "faa341ba923d",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Pratt McGrubben",
+  "quest": "Wild Leather Shoulders",
+  "en": "Wild Leather shoulders support the wearer's frame extremely well, offering top notch protection of the upper arms and the shoulders themselves. As with all Wild Leather armor, a potent but random benefit is applied to the item as the wildvine is stitched in.\n\nFor this pattern, I will require six thick armor kits and a wildvine. That shouldn't be too tall of an order for you to fill.",
+  "files": [
+   "quests/2848-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "707e40dc6f84",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Pratt McGrubben",
+  "quest": "Wild Leather Shoulders",
+  "en": "These armor kits are of solid quality, Adventurer. If there is one thing I demand in not only my work, but the work of those in my employ, it is quality.\n\nYou've done well to earn this pattern; I hope it brings you the rewards it has brought me.",
+  "files": [
+   "quests/2848-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ca53cd3c56f2",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jangdor Swiftstrider",
+  "quest": "Wild Leather Vest",
+  "en": "Wild Leather vests are the staple of any Wild Leather armor set. The frame of the vest and the wildvine weave within it produces a product that offers maximum protection of the torso while allowing for potent magic to work its way through the garment.\n\nFor this pattern, I will require two Turtle Scale breastplates, two sets of Turtle Scale gloves, and a wildvine. This is not an easy lesson, but it is one you certainly have the skill to complete.",
+  "files": [
+   "quests/2856-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "dc2eb38a8d3e",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jangdor Swiftstrider",
+  "quest": "Wild Leather Vest",
+  "en": "These are some very nice pieces here, adventurer. The craftsmanship and care put in to making these show you have chosen to dedicate yourself fully to these tasks.\n\nYou've met my requests, and with that comes your reward. The knowledge of making Wild Leather vests is now yours!",
+  "files": [
+   "quests/2856-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "05c02a9d98d4",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Pratt McGrubben",
+  "quest": "Wild Leather Vest",
+  "en": "Wild Leather vests are the staple of any Wild Leather armor set. The frame of the vest blends with the wildvine to produce a product that offers maximum protection of the torso while allowing for the potent magic to work its way through the garment.\n\nFor this pattern, I will require two Turtle Scale breastplates, two sets of Turtle Scale gloves, and a wildvine. It's a tall order, but one you should have little difficulty in filling for me.",
+  "files": [
+   "quests/2849-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d763d38a6a32",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Pratt McGrubben",
+  "quest": "Wild Leather Vest",
+  "en": "These are some very nice pieces here, Adventurer. The craftsmanship and care put in to making these alone would fetch several silver more than the average piece made.\n\nYou've filled my order, and with that comes your reward. The knowledge of making Wild Leather vests is now yours!",
+  "files": [
+   "quests/2849-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "45563f6aea30",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Gorzeeki Wildeyes",
+  "quest": "Wildeyes",
+  "en": "Oh, it's blood. It must be from master Mor'zul then. He is so enamored with the stuff, and loves to see it spilled. I, however, prefer it coursing through the veins of a small rodent. It stays warm that way... until you want it.\n\nThis is powerful blood. Mor'zul must be making another parchment to summon a dreadsteed! How exciting!\n\nIf that's true, and you're going to perform the ritual, then... you're going to need a lot more than blood, my friend.",
+  "files": [
+   "quests/7564-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8b5eada352e9",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mor'zul Bloodbringer",
+  "quest": "Wildeyes",
+  "en": "My servant, Gorzeeki, is an alchemist of some skill. He can prepare the ink I will need for your parchment. I gathered together the blood you acquired; take it to Gorzeeki so that he can begin his work.",
+  "files": [
+   "quests/7564-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c8a3211adf34",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elder Windrun",
+  "quest": "Windrun the Elder",
+  "en": "The heavens, in their countless stars, hold answers to earthly mysteries, Adventurer. Might, then, the wise, and the lucky, gaze up and find truth?",
+  "files": [
+   "quests/8688-complete",
+   "quests/8715-complete",
+   "quests/8716-complete",
+   "quests/8717-complete",
+   "quests/8718-complete",
+   "quests/8720-complete",
+   "quests/8723-complete",
+   "quests/8727-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8d114b34703b",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Great-father Winter",
+  "quest": "Winter's Presents",
+  "en": "Oh, ho hello there! You can only be here for one reason: to open your Winter Veil presents.\n\nNow, don't you worry, Great-father Winter hasn't forgotten about his favorite traveler adventurer. Look under the tree and you'll find your gifts.\n\nDuring this season of giving, perhaps your friends would also enjoy receiving some of Smokeywood Pasture's excellent products?",
+  "files": [
+   "quests/8828-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "eb8723761940",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Greatfather Winter",
+  "quest": "Winter's Presents",
+  "en": "Oh, ho hello there! You can only be here for one reason: to open your Winter Veil presents.\n\nNow, don't you worry, Greatfather Winter hasn't forgotten about his favorite traveler adventurer. Look under the tree and you'll find your gifts.\n\nDuring this season of giving, perhaps your friends would also enjoy receiving some of Smokeywood Pasture's excellent products?",
+  "files": [
+   "quests/8827-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "842de4b72bbe",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wonderform Operator",
+  "quest": "Winter's Presents",
+  "en": "I hear Greatfather Winter - with the generous support of Smokeywood Pastures - has put presents for everyone under the tree in Ironforge. I wish I could go, but I've got to look after the PX-238 Winter Wondervolt.\n\nBut you should definitely check it out. I'm sure Greatfather Winter has some presents with your name on them.",
+  "files": [
+   "quests/8827-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9e79f57aba46",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wonderform Operator",
+  "quest": "Winter's Presents",
+  "en": "I hear Great-father Winter - with the generous support of Smokeywood Pastures - has put presents for everyone under the tree in Orgrimmar. I wish I could go, but I've got to look after the PX-238 Winter Wondervolt.\n\nBut you should definitely check it out. I'm sure Great-father Winter has some presents with your name on them.",
+  "files": [
+   "quests/8828-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "bb3c7b8e4202",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Magar",
+  "quest": "Wish You Were Here",
+  "en": "I met Krilge while making Mooncloth in Ashenvale. He was stationed there to protect civilians from danger, until he disappeared...\n\nThey've stopped looking for him and consider him a deserter, but I don't believe it.\n\nWe would often meet at Fallen Sky Lake before it became overrun by those aggressive bog beasts.\n\nI'm not typically one to ask favors, but if you could go to Ashenvale and look for any sign of him, I'd appreciate it.",
+  "files": [
+   "quests/65610-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2c9c06c55933",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wrenix the Wretched",
+  "quest": "Wrenix of Ratchet",
+  "en": "Another one? The last five that crazy troll sent me ended up as shark food. Let's hope you fare a little better, eh?",
+  "files": [
+   "quests/2382-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "07f7c8a0b3fa",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zando'zan",
+  "quest": "Wrenix of Ratchet",
+  "en": "Zando'zan has seen it! Yes, the day comes! Thrall's death... the dagger in his back, poison seeping through to his every vein... Zando'zan has said too much.\n\nAdventurer! Zando'zan has a task for Adventurer! Adventurer must travel to Ratchet, east of the Crossroads, and speak with Wrenix the Wretched. Go!",
+  "files": [
+   "quests/2382-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1700d8599251",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Gorzeeki Wildeyes",
+  "quest": "Xorothian Stardust",
+  "en": "There it is! I can hardly believe you got it! You must have struck a big deal with that Dreadlord or else paid a large sum, or both!\n\nMor'zul will have his ink very soon and then he can finally make the glyph parchment, so you can open a portal to Xoroth and pull through it one of the famed dreadsteeds!",
+  "files": [
+   "quests/7625-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "842657c3340b",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Darnath Bladesinger",
+  "quest": "Yorus Barleybrew",
+  "en": "Yorus Barleybrew has issued a challenge to all able warriors of the Alliance. He waits at the Lakeshire Inn, in Redridge, and pledges a grand reward to anyone able to pass his trial.",
+  "files": [
+   "quests/1698-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e55d2f41b42d",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Wu Shen",
+  "quest": "Yorus Barleybrew",
+  "en": "Yorus Barleybrew has issued a challenge to all able warriors of the Alliance. He waits at the Lakeshire Inn, in Redridge, and pledges a grand reward to anyone able to pass his trial.",
+  "files": [
+   "quests/1698-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "396cf98307ad",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Yorus Barleybrew",
+  "quest": "Yorus Barleybrew",
+  "en": "Hah! So you heard of my challenge, did you?\n\nWell sit down and listen. Have a drink, and savor it... because it might be your last.",
+  "files": [
+   "quests/1698-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ce6c9a92cb95",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Lumak",
+  "quest": "You Too Good.",
+  "en": "Lumak no can teach Adventurer no more. You too good! Find Lumak friend, Nat Pagle. Is human but no eat! Is Lumak friend! Nat teach you fish gooder.\n\nYou find Nat in Dustwallow Marsh, south of Humie town, Thermorosomethinglikedat. Nat probably fishing. Go now!",
+  "files": [
+   "quests/6608-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5a65983e5747",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Nat Pagle",
+  "quest": "You Too Good.",
+  "en": "'Course, you must be a friend of Lumak's.\n\nFishin'? I can tell you all 'bout fishin'.",
+  "files": [
+   "quests/6608-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9a0971a274c9",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Kaymard Copperpinch",
+  "quest": "You're a Mean One...",
+  "en": "You found it! You've saved Smokywood Pasture's Feast of Winter Veil!\n\nPoor Sacks... we'll be sure to send a team out there and figure out a way to unfreeze him. Hopefully, he'll be back in time for the day of the Feast; he'll need to make up missed time working though. Still, this wouldn't even be possible if it weren't for you!",
+  "files": [
+   "quests/6983-complete",
+   "quests/7043-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "18aad69a6ada",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Mysterious Deadmines Chest",
+  "quest": "Your Fortune Awaits You...",
+  "en": "A quick search of the chest reveals a lockbox from within it! It would seem that you have found your fortune!",
+  "files": [
+   "quests/7938-complete",
+   "quests/7944-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b50d4bbcdc09",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Mysterious Eastvale Haystack",
+  "quest": "Your Fortune Awaits You...",
+  "en": "A quick search of the haystack reveals a lockbox from within it! It would seem that you have found your fortune!",
+  "files": [
+   "quests/7937-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9cae25188536",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Mysterious Tree Stump",
+  "quest": "Your Fortune Awaits You...",
+  "en": "A quick search of the tree stump reveals a lockbox from within it! It would seem that you have found your fortune!",
+  "files": [
+   "quests/7945-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "018db2cae960",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Sayge's Fortune #23",
+  "quest": "Your Fortune Awaits You...",
+  "en": "\"Your fortune awaits you in Eastvale.\"\n\nThe fortune Sayge handed you feels slightly warm to the touch. Grasping it firmly, you see an image of the Eastvale Logging Camp in Elwynn Forest. Focusing closer in on the image, you see a haystack that sits next to a stable.",
+  "files": [
+   "quests/7937-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9910f3dd8fed",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Sayge's Fortune #24",
+  "quest": "Your Fortune Awaits You...",
+  "en": "\"Your fortune awaits you inside the Deadmines.\"\n\nThe fortune Sayge handed you feels slightly warm to the touch. Grasping it firmly, you see an image of the Deadmines inside Westfall's ruined hamlet of Moonbrook. Focusing closer in on the image, you wind about twisty passages until you reach a shimmering portal... one that leads into the heart of the mines itself. Stepping through it, a strange chest appears out from nowhere.",
+  "files": [
+   "quests/7938-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "dca88b524e7a",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Sayge's Fortune #25",
+  "quest": "Your Fortune Awaits You...",
+  "en": "\"Your fortune awaits you inside Wailing Caverns.\"\n\nThe fortune Sayge handed you feels slightly warm to the touch. Grasping it firmly, you see an image of a cave to the southwest of the Crossroads in the Barrens. Focusing closer in on the image, you wind about twisty passages until you reach a shimmering portal... one that leads into the heart of the caverns itself. Stepping through it, a strange chest appears out from nowhere.",
+  "files": [
+   "quests/7944-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "60715c5992bc",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Sayge's Fortune #27",
+  "quest": "Your Fortune Awaits You...",
+  "en": "\"Your fortune awaits you outside Palemane Rock.\"\n\nThe fortune Sayge handed you feels slightly warm to the touch. Grasping it firmly, you see an image of the Palemane Rock of Mulgore. Focusing closer in on the image, you see a tree stump that sits close to the cave entrance.",
+  "files": [
+   "quests/7945-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3e957f3d59d7",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Shenthul",
+  "quest": "Zando'zan",
+  "en": "Your determination alone is not enough to overcome the obstacles that lay ahead of us.\n\nSpeak with Zando'zan to begin your training as an operative of the Shattered Hand.\n\nIt is only when you have mastered the practices of stealth and thievery that you may take the next step towards your destiny.",
+  "files": [
+   "quests/2379-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "bd087a9f19fe",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zando'zan",
+  "quest": "Zando'zan",
+  "en": "Perhaps Zando'zan was wrong. Zando'zan apologizes.",
+  "files": [
+   "quests/2379-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a30ec6b24022",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Apothecary Zinge",
+  "quest": "Zinge's Assessment",
+  "en": "This is unexpected. It looks like Fenstad might be on to something after all. I found traces of substances used in mind control potions.\n\nIt isn't unheard of for perfumes to have some of this, but a few of the ingredients I detected... This is serious alchemy, along the abilities of a member of the Royal Apothecary Society.",
+  "files": [
+   "quests/8980-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "085db4ea4ce4",
+  "zone": "other-quests-10",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Fenstad Argyle",
+  "quest": "Zinge's Assessment",
+  "en": "So, I was right. We must waste no time. We must determine the source of these tainted fragrances.\n\nHere, to repay you for the purchase of the cologne and perfume.",
+  "files": [
+   "quests/8980-complete"
+  ],
+  "uiMap": null
+ }
+]

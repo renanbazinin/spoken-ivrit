@@ -1,0 +1,801 @@
+[
+ {
+  "id": "11429aec80e1",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Alanndarian Nightsong",
+  "quest": null,
+  "en": "Hello traveler, it is a pleasure to make your acquaintance.",
+  "files": [
+   "gossip/5f95ec2be38e4f15ab9cd9f879175957"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "7e2c14955d2b",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Arathandris Silversky",
+  "quest": null,
+  "en": "\"Darnassae?\"\n\nThe night elf druid looks at you expectantly, but it is clear you cannot verbally communicate with her. Undaunted, she points to herself and smiles. She points at you and smiles once more. She finally motions several times down the path to the north.\n\nPerhaps she is indicating that there is a druid you can speak to further up the road?",
+  "files": [
+   "gossip/60d3b613b0964e6b175fb809f8530f6c"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "1ab868adbb25",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Arathandris Silversky",
+  "quest": null,
+  "en": "I have observed four different kinds of plants that have been affected by the corruption: the songflower, the windblossom, the whipper root, and the night dragon plant. The songflower and windblossom are common plants in Felwood, while the whipper root and night dragon are seen less frequently. All are a vital part of Felwood's ecosystem.",
+  "files": [
+   "gossip/6f24888eac412dbfa5d0a5e430b3a3e5"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "a72a2a85c4eb",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Arathandris Silversky",
+  "quest": null,
+  "en": "There are plants in Felwood that may be saved from corruption when Cenarion plant salve is applied to them. I know how to make the salve from several different kinds of items; based on your skill set, you may find that you have multiple options to assist me.\n\nYou will also need a Cenarion beacon for your work here; it is a device that allows you to see the taint and corruption of nature that the naked eye will miss.",
+  "files": [
+   "gossip/cd511841051bab517382934a36722298"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "d80bc25e3df0",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Arathandris Silversky",
+  "quest": null,
+  "en": "These once beautiful woods suffer under a terrible curse! Corrupting forces twist the life here into shadows of their former selves. If you are not an agent of this corruption, then perhaps you can aid me in reclaiming Felwood!",
+  "files": [
+   "gossip/fa07b8641ac6fc01719221caf46a9c3c"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "5b3de264ad60",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Archaeologist Hollee",
+  "quest": null,
+  "en": "Who would have guessed the excavation would have uncovered such findings!",
+  "files": [
+   "gossip/896fe1126a91ad2a5311167bae4102d7"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "bbccdafb867e",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Captured Arko'narin",
+  "quest": null,
+  "en": "You've already done me a great service, adventurer. For that I thank you.\n\nThe least I can do now is tell you what brought me here: My long time friend Trey Lightforge and I came to Jaedenar to investigate the Shadow Council when they caught us unprepared. They took Trey deeper into Shadow Hold and put me in here after taking all of our equipment... I can still hear his screams from below, adventurer. They were... inhuman. I don't know what they've done to him, but they will pay for it.",
+  "files": [
+   "gossip/625edf901382c61c77256e280f0ab6f6"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "0c09faaf0741",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Captured Arko'narin",
+  "quest": null,
+  "en": "So cold... and hungry.\n\nMy poor friend, I hope you've found peace. I can't stand to think about what they could have done to you.\n\nYou! You there! Please, you have to help me escape. One of them has a key, can you find it? I know they have it. If you get it, you can help me get out of here. Trey is probably already dead, but there's still time! Please, can you help me?",
+  "files": [
+   "gossip/a202c1efc29e7b10a54e9f8ac2c470f2"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "1181349c592a",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Caylais Moonfeather",
+  "quest": null,
+  "en": "The Hippogryph is a noble beast, proud and swift. They are an honor to train, and can quickly take their rider a great distance.",
+  "files": [
+   "gossip/1f096cf54952bb1fda0616de290e0b25"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "5a57b3a61bf9",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Delfrum Flintbeard",
+  "quest": null,
+  "en": "Don't see many Blacksmiths this far from Ironforge. What can I do for ye?",
+  "files": [
+   "gossip/6c6565db7cbcd83084366295deee0bb4"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "7c0105d2b88d",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Delfrum Flintbeard",
+  "quest": null,
+  "en": "Now that's a piece of steel worth wearing. Form and function lad/lass, I am impressed. Only ever seen it's match once, a Master in the Great Forge named Grumnus Steelshaper. I bet he has learned a few things since then, could probably teach some to ye.",
+  "files": [
+   "gossip/aff585eea5e8216eb73afe08f8a7dd6e"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "02c8bd648603",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Delfrum Flintbeard",
+  "quest": null,
+  "en": "I just can't seem to get comfortable without a sturdy ceiling of granite over my head. All these stars up there, enough to give ye the shivers.",
+  "files": [
+   "gossip/e50375b7265f11678a108fd87e8a8a60"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "cb841daa3994",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Donova Snowden",
+  "quest": null,
+  "en": "Hello! What brings you to Winterspring? These cold and vast lands may seem dismal, but this is a place of many secrets...",
+  "files": [
+   "gossip/0b8f51a79876c6c5d2b0c15431dd36f8"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "3ffb5dc4a9ac",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Dreka'Sur",
+  "quest": null,
+  "en": "Throm-Ka, adventurer. My mood is poor this day, so please, unless you can help me, I would prefer to be alone.",
+  "files": [
+   "gossip/2e2206ddcfb46257589dd619b5ae7118"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "93d57bc5ab15",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elder Nightwind",
+  "quest": null,
+  "en": "Elder Brightspear can be found wandering amongst the ruins of Kel'Theril in Winterspring.",
+  "files": [
+   "gossip/3613b09d8e43d701e596c7f9a37ecc12"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "855c10ac4ada",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elder Nightwind",
+  "quest": null,
+  "en": "Last I knew, Elder Stonespire was at Everlook in Winterspring.",
+  "files": [
+   "gossip/a83d39d0702f6b46c46eb4e389e211be"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "3af4f68b65f5",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Starweave",
+  "quest": null,
+  "en": "Elder Nightwind passes the days at the shrine in Jaedenar in Felwood.",
+  "files": [
+   "gossip/0d1d8f5bfe9f9a9fd5c933cb12fe7aa4"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "499eeda7a80c",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Starweave",
+  "quest": null,
+  "en": "Elder Bladeswift wanders the paths of Darnassus atop Teldrassil.",
+  "files": [
+   "gossip/7958d3b990ce2b9262f79d066f774857"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "7120788ed719",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Starweave",
+  "quest": null,
+  "en": "The village of Astranaar in Ashenvale is Elder Riversong's current home.",
+  "files": [
+   "gossip/864d4407e0084d6dcde5c378d55d0a56"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "0d09c99d01e4",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Eridan Bluewind",
+  "quest": null,
+  "en": "The Emerald Circle strives to heal the wounded land of Felwood. Although the land is named for the very thing that has corrupted it, we hope that one day we will be able to eradicate the corruption from this land.",
+  "files": [
+   "gossip/2a8913e6bf69413a4a09dcd8251c2340"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "19ed005e08cd",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gorbold Steelhand",
+  "quest": null,
+  "en": "Greetings lad, if you're looking for the best deals you'll find outside of Ironforge itself, then you've come to the right place.",
+  "files": [
+   "gossip/m-30788884689c5bb0102e781a007f9ad6"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "d950ed28fa7f",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Greta Mosshoof",
+  "quest": null,
+  "en": "I welcome you, Adventurer. And the Emerald Circle welcomes you.\n\nHopefully together we can help rejuventate and protect this once-mighty forest. Many forces seek to destroy it from without... and within.\n\nDo not be persuaded by the power here--it will only corrupt you, like it has this entire land.",
+  "files": [
+   "gossip/508c0975d055f561070f14c8877581b1"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "ffd3c761aec8",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Grondal Moonbreeze",
+  "quest": null,
+  "en": "It is time for you to journey to Darnassus and speak to Me'lynn. She will guide you from now on.",
+  "files": [
+   "gossip/2b4f7103b433f22f1e0130533daa0976"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "a2ef48e96ea1",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Grondal Moonbreeze",
+  "quest": null,
+  "en": "I would be happy to take you under my wing. Let us begin.",
+  "files": [
+   "gossip/a5bb9bf7601a2bba6b4270f85bdd04f4"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "4c9136d76409",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Grondal Moonbreeze",
+  "quest": null,
+  "en": "Needlework requires a steady hand. And patience... above all, patience.",
+  "files": [
+   "gossip/afa3c58692e1f910f1511cf81176b4cf"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "1a020bd1f197",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gubber Blump",
+  "quest": null,
+  "en": "Hi there. I'm Gubber Blump.",
+  "files": [
+   "gossip/363e9a32646c220ede74b874d124997b"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "2f93f99b1c80",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Gwennyth Bly'Leggonde",
+  "quest": null,
+  "en": "May Elune walk with you, adventurer. The Temple of the Moon has come to help the troubled citizens of Auberdine.",
+  "files": [
+   "gossip/35f3abb9c514c878d528d18c9e29c073"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "498ab5caaf29",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Jaron Stoneshaper",
+  "quest": null,
+  "en": "Being part of the Explorers' League, I've been hunting for artifacts in the area. Winterspring is said to contain very magical items... Most are highly guarded.",
+  "files": [
+   "gossip/f694c689e77899c4faf5ac919d971f4f"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "a2a3c5b1242e",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Je'neu Sancrea",
+  "quest": null,
+  "en": "The elements speak to us, adventurer. They share knowledge that we must learn, and they share secrets that must be kept.",
+  "files": [
+   "gossip/0a8aa26eccc0242964a89762467e5241"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "c4778951d85a",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Jenna Lemkenilli",
+  "quest": null,
+  "en": "Hello there! My name's Jenna! And you?",
+  "files": [
+   "gossip/7d443120bf24605ece221852345da227"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "74c31287c70b",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Jenna Lemkenilli",
+  "quest": null,
+  "en": "You want to train? With me? Fantastic! The only thing better than assembling bullets and explosive devices is to share that knowledge with someone else! Let's get started!",
+  "files": [
+   "gossip/a441f79503ac8fed306628690a06aa0f"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "1891d24a4845",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Jenna Lemkenilli",
+  "quest": null,
+  "en": "Oh, you've got oodles of things to learn still. I would teach you everything if I could, but I'm still learning too! Why don't you talk to Trixie Quickswitch in Ironforge, she'll help you further your education!",
+  "files": [
+   "gossip/b14de01992948f1b0553a6de31fee1d3"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "2c898e425681",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Jessir Moonbow",
+  "quest": null,
+  "en": "Hello, adventurer. I am Jessir Moonbow. I have come from Darnassus seeking two friends who came looking for signs of the Shadow Council in Felwood.\n\nIt seems those vile creatures who claim responsibility for much of the orcish race's suffering seeks to regain some of its power.\n\nMy two friends went looking in Jaedenar to prove one way or the other what was happening.\n\nI expected them to be here when I arrived, but now they are days late.",
+  "files": [
+   "gossip/01ed61117dd6f345c1893b55ba7c3e87"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "312cd1c368b4",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Karang Amakkar",
+  "quest": null,
+  "en": "Greeting adventurer - welcome to the front lines in our conquest of Ashenvale! If you are looking for something to do, then you've come to the right place. I'm always looking for able-bodied individuals to help bring glory to the Horde!",
+  "files": [
+   "gossip/373a32e64da03908f74c18135f0f399a"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "555068a6a828",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Laird",
+  "quest": null,
+  "en": "Although the coast of Darkshore is more dangerous than that of Teldrassil, many fishers find profit here.",
+  "files": [
+   "gossip/40cb7a31eb60d273876ed5e0a23aa52f"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "8aff4e165d85",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Maybess Riverbreeze",
+  "quest": null,
+  "en": "\"Taurahe?\"\n\nThe tauren druid looks at you expectantly, but it is clear you cannot verbally communicate with her. Undaunted, she points to herself and smiles. She points at you and smiles once more. She finally motions several times down the path to the south.\n\nPerhaps she is indicating that there is a druid you can speak to further down the road?",
+  "files": [
+   "gossip/0c05fe78c90faea203cc74d0db442095"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "2e77cd624665",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Maybess Riverbreeze",
+  "quest": null,
+  "en": "There are plants in Felwood that may be saved from corruption when Cenarion plant salve is applied to them. I know how to make the salve from several different kinds of items; based on your skill set, you may find that you have multiple options to assist me.\n\nYou will also need a Cenarion beacon for your work here; it is a device that allows you to see the taint and corruption of nature that the naked eye will miss.",
+  "files": [
+   "gossip/15b30f30284e6f8e6208980bb0c02d9e"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "041a2509c8e5",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Maybess Riverbreeze",
+  "quest": null,
+  "en": "These once beautiful woods suffer under a terrible curse! Corrupting forces twist the life here into shadows of their former selves. If you are not an agent of this corruption, then perhaps you can aid me in reclaiming Felwood!",
+  "files": [
+   "gossip/9e0a1e0a2edfadef02d6ac0c504feebf"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "f6b7dbd5d201",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Niby the Almighty",
+  "quest": null,
+  "en": "There is a powerful infernal named Kroshius northeast of this camp. It is why Niby is here. Kroshius is a greater infernal - an infernal that has lasted longer than expected. You see, nub, an infernal crashes down into the earth with great intensity to serve its master but this intensity fades fast. Once the blazing flames have died down, the infernal crumbles.",
+  "files": [
+   "gossip/1d846f3de3583986c12a82cbfed8b313"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "201d7579fb37",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Niby the Almighty",
+  "quest": null,
+  "en": "Bow in my presence, insect! Surely you can feel the power I hold over you.",
+  "files": [
+   "gossip/283fc5c382b274b565983a110dfbcccc"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "8ae15c3bc2ab",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Niby the Almighty",
+  "quest": null,
+  "en": "So you have come to Niby to learn the secrets of calling down an infernal servant from the Nether.\n\nSilence! Niby knows all!\n\nNiby is not so quick to part with such knowledge. First, you must assist Niby with a very important task.",
+  "files": [
+   "gossip/35284cfba5849c0b76c8dffde030b428"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "f9ca2aafe202",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Niby the Almighty",
+  "quest": null,
+  "en": "Do not interrupt Niby, fool! I shall rend the flesh from your bones and use your skeletal remains as a coat rack. Now where was I? Oh yes, so, Kroshius lasted nearly ten times longer than any ordinary infernal. I am not sure why but I am confident that with enough study, I could find out.\n\nI need you to recover Kroshius' Infernal Core.",
+  "files": [
+   "gossip/71cbe27cb3eb26c72fce94d8e5036a76"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "ac47a1b8aafd",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Glynda Nal'Shea",
+  "quest": null,
+  "en": "Corruption sneaks into nature's grove. The forest must be protected at all costs.",
+  "files": [
+   "gossip/375a66dcfbecb0dce679111ec88f13b3"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "c08179c8d0da",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Terenthis",
+  "quest": null,
+  "en": "Adventurer, I've come to find out how rampant the effects of Fel Moss are throughout Darkshore. The corruption of Teldrassil and our surrounding lands really concerns the druids of the Cenarian Circle, and all Night elves.\n\nIt is my goal to find out why this has happened and to put an end to it.",
+  "files": [
+   "gossip/c7e8ad876846de0a672a9b4dd6150d20"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "7b0791bd9ba7",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Thamarian",
+  "quest": null,
+  "en": "On the northern dock, you can board a ship that will carry you to Rut'theran Village and Darnassus. From the southern dock, you can find passage across the Great Sea to Menethil Harbor on Khaz Modan. Safe journeys to you!",
+  "files": [
+   "gossip/69d07a52e02e6c2a801dd6309215b6e6"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "379d8c69e4d8",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Thamarian",
+  "quest": null,
+  "en": "On the northern dock, you can board a ship that will carry you to Rut'theran Village and Darnassus. From the southern dock, you can find passage across the Great Sea to Menethil Harbor on Khaz Modan, and onwards to Southshore in Hillsbrad Foothills. If you head to the western dock, you can board a ship setting sail for Stormwind.\n\nSafe journeys to you!",
+  "files": [
+   "gossip/df3311a530253e321afef97e906e9009"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "b8d3176fd265",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Tharnariun Treetender",
+  "quest": null,
+  "en": "Greetings Traveler, I am Tharnariun Treetender.",
+  "files": [
+   "gossip/1210fdab329f2bfebdcf1f7d836de9da"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "99bcedb3f66d",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Thundris Windweaver",
+  "quest": null,
+  "en": "Dark forces encroach upon our borders, ancient taints resurface, and new evils emerge to topple the delicate balance of the land. In times of such darkness, we all must be vigilant.",
+  "files": [
+   "gossip/3f95b0f1e5a347161090771b0b06fba2"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "d0983e27c884",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ulathek",
+  "quest": null,
+  "en": "What? But how? No! This is not possible! I have been so careful... he could not know!\n\nYou lie! You lie, and now you'll die for your deceit!",
+  "files": [
+   "gossip/0895ca3a8270e33abe5027f593574c7e"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "2bc3b146f224",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ulathek",
+  "quest": null,
+  "en": "Be gone! I hold counsel with Dreadlords, and the matters we discuss are not your concern!",
+  "files": [
+   "gossip/09af5cd652b4864bff857c89022d0037"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "da80b4784bc6",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ulathek",
+  "quest": null,
+  "en": "... A message from Banehollow? What message is that? Does he have need of his great advisor and servant, Ulathek? Does he require my presence?",
+  "files": [
+   "gossip/d02f8235c277c2ac91b7975819950acb"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "7962567cf0fc",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ur'dan",
+  "quest": null,
+  "en": "The ways of Jaedenar are dark and treacherous. Watch your moves in this place, Adventurer, or you will find your soul entralled by your rivals...",
+  "files": [
+   "gossip/c0f2b93ae2639e64818da8383aafef89"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "2c8c902a5e51",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Volcor",
+  "quest": null,
+  "en": "Well, the way I see it, adventurer, we have two options to consider for leaving this cave.\n\nWe can make our way stealthfully--I use the cloak you've given me, and you'd be left to your own devices, or, and this may be a harder option considering my wounds, we fight our way out back to back.\n\nI'll let you decide since you know your strengths better than I.",
+  "files": [
+   "gossip/2cb42068ee7ca52b04d1b1033e275953"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "7fa59e7cf855",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Volcor",
+  "quest": null,
+  "en": "Oh, sorry, adventurer. Now's not a good time. I hope you understand.",
+  "files": [
+   "gossip/7ca86bd3e09f6043007de96fec4773a6"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "27f05c7ddbbf",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warsong Runner",
+  "quest": null,
+  "en": "Yes, adventurer? Are you reporting in?",
+  "files": [
+   "gossip/ecb5c5765055132283e8f669c19aa1d7"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "88f685744841",
+  "zone": "felwood-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Wizbang Cranktoggle",
+  "quest": null,
+  "en": "Hmm... I can plug this wire in here and that will power the fizzletan gear, but then the hydrophlange will need an alternate power source... Maybe I can... Oh, hello! Hey, want to help me try a new invention?",
+  "files": [
+   "gossip/f8c3c308d61756b98473bef9698ad444"
+  ],
+  "uiMap": 1448
+ },
+ {
+  "id": "3e4932538bad",
+  "zone": "felwood-gossip",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Niby the Almighty",
+  "quest": "What Niby Commands",
+  "en": "If I am to teach you the secrets of summoning an infernal servant, you must destroy Kroshius and bring me the infernal core from his burning remains. This, however, is not as easy as it sounds. Kroshius has all but burned out completely. You must reignite his corpse and raise him from the rubble. To do this, however, you must gather some components from other demonic entities.\n\nMy imp, Impsy, shall set you on your way.",
+  "files": [
+   "quests/7601-accept",
+   "gossip/0f171e609c3286086cdc7254621214ab"
+  ],
+  "uiMap": 1448
+ }
+]

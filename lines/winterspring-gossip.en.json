@@ -1,0 +1,1080 @@
+[
+ {
+  "id": "b374997ab9fc",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Artorius the Amiable",
+  "quest": null,
+  "en": "How wonderful to see another person in this remote region of the world. Come, walk with me. Let our bodies keep each other warm.",
+  "files": [
+   "gossip/592e299bd0edf1ea20bdb5dabf705526"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "a2f532a3fe48",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Bronn Fitzwrench",
+  "quest": null,
+  "en": "What can I do for you, adventurer? Make it quick, I don't have all day!",
+  "files": [
+   "gossip/b9dfff243575891bcfc18fc60feb4f58"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "ac5f6cef1e2e",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder Stonespire",
+  "quest": null,
+  "en": "The village of Astranaar in Ashenvale is Elder Riversong's current home.",
+  "files": [
+   "gossip/53abec3d35ec7b6424bc99e2133bcd12"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "59d0a9829d92",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder Stonespire",
+  "quest": null,
+  "en": "Elder Nightwind passes the days at the shrine in Jaedenar in Felwood.",
+  "files": [
+   "gossip/bb478e0a85747a97ae68c6a9abb26377"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "6f7abc3cc8e1",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder Stonespire",
+  "quest": null,
+  "en": "Elder Brightspear can be found wandering amongst the ruins of Kel'Theril in Winterspring.",
+  "files": [
+   "gossip/f2fa1311fb4c8221cf2fdd77a713d125"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "7a8ac58aa887",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gregor Greystone",
+  "quest": null,
+  "en": "Greetings, my friend. May the Dawn keep you well in these troubled times.",
+  "files": [
+   "gossip/9ec1c2021f5f1a32200d3ff28474b403"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "ce0da8be112e",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "This sun-blasted city is home to the Sandfury trolls, known for their particular ruthlessness and dark mysticism. Troll legends tell of a powerful sword called Sul'thraze the Lasher, a weapon capable of instilling fear and weakness in even the most formidable of foes. Long ago, the weapon was split in half. However, rumors have circulated that the two halves may be found somewhere within Zul'Farrak's walls.",
+  "files": [
+   "gossip/0a14977b923b0be3640ccdeb0c310ca4"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "e98f21885ef2",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Frustrated by the Dalaran wizards' lack of progress against the undead during the Third War, the Archmage Arugal elected to summon the extra-dimensional worgen to bolster his side's diminishing ranks. The wolf-men slaughtered the Scourge, then quickly turned on the wizards themselves and laid siege to the keep of the noble, Baron Silverlaine. The fort quickly fell into shadow and ruin. Driven mad with guilt, Arugal adopted the worgen as his children and retreated to the newly dubbed 'Shadowfang Keep'.",
+  "files": [
+   "gossip/11c3ea2689d0fd9a04ddb9557a48b4c4"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "f51097c5bfc6",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "The ruins of Dire Maul stand in central Ferelas.",
+  "files": [
+   "gossip/12cbfbf2c2f790dffa2c20463b3e2b63"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "20578dca7c0f",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Bolvar, Magni, or Tyrande.",
+  "files": [
+   "gossip/1634a5dccbea47f39276cf79744035f6"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "bb2271818786",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Once the greatest gold production center in the human lands, the Dead Mines are now inhabited by the Defias Brotherhood, who have turned the dark tunnels into their private sanctum. It is rumored that the thieves have conscripted the clever goblins to help them build something terrible at the bottom of the mines - but what that may be is still uncertain. Rumor has it that the way into the Deadmines lies through the quiet, unassuming village of Moonbrook.",
+  "files": [
+   "gossip/2a9d5a7861378398b5f5ded83395f794"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "c2725b9ee060",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Blackfathom Deeps can be found at the north end of Zoram Strand along the coast of Ashenvale.",
+  "files": [
+   "gossip/2c36f4b85f081ffa0059501012a47ad9"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "c74684b9b9fe",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "The Sunken Temple can be found in the center of a great lake in eastern Swamp of Sorrows.",
+  "files": [
+   "gossip/3019461d07288487531039345321867b"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "bc254a1783bb",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Blackrock Mountain lies between Searing Gorge in the north and Burning Steppes in the south.",
+  "files": [
+   "gossip/305d2bb0a0ec6f8c4279ffe77b2405cc"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "62cb87b9f277",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "The Wailing Caverns has its entrance at the Lushwater Oasis southwest of Crossroads in the Barrens.",
+  "files": [
+   "gossip/30f1c9a2f2f0f5fe8c8ce03164fe3f80"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "7d95979f7162",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Ragefire Chasm can be found beneath the Shadow Cleft in the center of Orgrimmar.",
+  "files": [
+   "gossip/314b29b747fa859ad91de3785a93d808"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "80ac005e80b3",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "The Stockades are a high-security prison complex, hidden beneath the canal district of Stormwind city. Presided over by Warden Thelwater, the Stockades are home to petty crooks, political insurgents, murderers and a score of the most dangerous criminals in the land. Recently, a prisoner-led revolt has resulted in a state of pandemonium within the Stockades - where the guards have been driven out and the convicts roam free.",
+  "files": [
+   "gossip/33365e24098ac326d7a02842b80c9ece"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "18038d2d5e1b",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "No, I'm not, but lots of others are looking for love. You should buy my love tokens, put on some cologne or perfume, and then pass them around!",
+  "files": [
+   "gossip/353a8e93b02e9c49ae94b3a5011588bb"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "5bd014fc9737",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Crafted from the same vines as Razorfen Kraul, Razorfen Downs is the traditional capital city of the quilboar race. The sprawling, thorn-ridden labyrinth houses a veritable army of loyal quilboar as well as their high priests - the Death's Head tribe. Recently, however, a looming shadow has fallen over the crude den. Agents of the undead Scourge - led by the lich, Amnennar the Coldbringer - have taken control over the quilboar race and turned the maze of thorns into a bastion of undead might.",
+  "files": [
+   "gossip/3ab3c8765d0c52d13b2628e8c4babaa6"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "8ddd5ce353b9",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Maraudon is located in the middle of the western coast of Desolace, in the Valley of Spears.",
+  "files": [
+   "gossip/3d50b3c8523fd4e14848a3a53be149bf"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "e11554559870",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Shadowfang Keep is in southern Silverpine just north of Pyrewood Village.",
+  "files": [
+   "gossip/3ef6a7990ed58b98f707df1ff450c6ec"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "d91287a8ab5f",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "The mighty fortress carved within the fiery bowels of Blackrock Mountain was held by the sinister Dark Iron dwarves for centuries until Nefarian - the cunning son of the dragon, Deathwing - took control of the upper Spire and made war on the dwarves' holdings in the mountain's volcanic depths. Realizing that the dwarves were led by the mighty fire elemental, Ragnaros - Nefarian vowed to crush his enemies and claim the whole of Blackrock mountain for himself.",
+  "files": [
+   "gossip/4240b0e9386c847bf7610e5cbd0a98db"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "6df2b06e9ab4",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "The ruined city of Stratholme lies in the Eastern Plaguelands to the north of the Plaguewood.",
+  "files": [
+   "gossip/49ed8576dd0786e236dd87d0f38c8c20"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "548c9bd8bf42",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Maraudon is one of the most sacred sites within Desolace. The great temple/cavern is the burial place of Zaetar, one of two immortal sons born to the demigod, Cenarius. Legend holds that Zaetar and the earth elemental princess, Theradras, sired the misbegotten centaur race. It is said that upon their emergence, the barbaric centaur turned on their father and killed him. Some believe that Theradras, in her grief, trapped Zaetar's spirit within the winding cavern - used its energies for some malign purpose.",
+  "files": [
+   "gossip/4f23f6d9a9625031dc0f071d896ef815"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "b4393ec9e981",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "The Stormwind Stockades are found near the mage quarter in Stormwind.",
+  "files": [
+   "gossip/5e32b11a014d38435309852c50df4593"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "880c465d9f47",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Razorfen Kraul can be found on the very southern tip of the Barrens on the west side of the road.",
+  "files": [
+   "gossip/6bffe49eafcf8df1848c2509da86730a"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "dc09522300f3",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Are you interested in exploring one of these dungeons?",
+  "files": [
+   "gossip/6fcd8a8f723f26e9218624439fe88db7"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "4f54b69ff103",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Once the capital city of the Dark Iron dwarves, this volcanic labyrinth now serves as the seat of power for Ragnaros the Firelord. Ragnaros has uncovered the secret to creating life from stone and plans to build an army of unstoppable golems to aid him in conquering the whole of Blackrock Mountain. Obsessed with defeating Nefarian and his draconic minions, Ragnaros will go to any extreme to achieve final victory.",
+  "files": [
+   "gossip/80c7791d0f726c6038424e4e9ec88b2e"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "9e6e33e38712",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "The Deadmines can be found beneath Moonbrook in the south of Westfall.",
+  "files": [
+   "gossip/850aeceef030ff968b8c47af9519d1e5"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "ba14087bf3b1",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Scarlet Monastery lies in the hills northeast of Tirisfal Glades.",
+  "files": [
+   "gossip/87368fc74f08705c08ae578c168c55d4"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "289f13961aa4",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Gnomeregan can be found in western Dun Morogh.",
+  "files": [
+   "gossip/88767c2b09612db177541d67e62643f6"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "49452969b2fd",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Love tokens are small messages of affection you can give to amorous town and city folk. Such people will reward you with a gift of adoration.\n\nOr, if you are already adored by another, then at the least they'll give you a gift of friendship.",
+  "files": [
+   "gossip/9d9bce9e257f45dd17522274f40eb90a"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "9b2942016e20",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Once the jewel of northern Lordaeron, the city of Stratholme is where Prince Arthas turned against his mentor, Uther Lightbringer, and slaughtered hundreds of his own subjects who were believed to have contracted the plague of undeath. Arthas' surrender to the Lich King soon followed. The broken city is now inhabited by the undead Scourge - led by the powerful lich, Kel'Thuzad, and a contingent of Scarlet Crusaders, led by Grand Crusader Dathrohan. The two sides are locked in constant, violent combat.",
+  "files": [
+   "gossip/9ea36275dbd35e366c4dd3e17bacd2a3"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "28b3e90f5668",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "The School for Necromancy known as Scholomance is on the ruined island of Caer Darrow in the Western Plaguelands.",
+  "files": [
+   "gossip/a2c336cefa994f850e7628145aef6230"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "38d707e027c3",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "The Scholomance is housed in crypts beneath the Caer Darrow keep. Once owned by the noble Barov family, the keep fell to ruin after the Second War. As the wizard Kel'Thuzad enlisted followers for his Cult of the Damned, he often promised immortality for those who served his Lich King. The Barovs fell to his influence and donated their keep, but the cultists killed the family and turned the crypts into a school of necromancy. Though Kel'Thuzad no longer resides there, cultists and instructors still remain.",
+  "files": [
+   "gossip/a81545312fb538a27d48e6796f1f8cb9"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "5220ea934148",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Over a thousand years ago a group of troll priests known as the Atal'ai attempted to bring back an ancient blood god named Hakkar the Soulflayer. After the resulting civil war the priests were defeated and exiled to the Swamp of Sorrows. There they erected a temple to Hakkar to prepare for his arrival into the physical world. The dragon Aspect Ysera soon learned of the Atal'ai's plans and smashed the temple beneath the marshes. To this day, the temple's ruins are guarded by the mighty green dragons.",
+  "files": [
+   "gossip/ab4e58f01968879f7f1069e0186c3f57"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "c3723e8b2400",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Razorfen Downs can be found on the very southern tip of the Barrens on the east side of the road.",
+  "files": [
+   "gossip/aeb1408df68552c8f9bfc1ebc2831f47"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "5cbe346263bb",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Situated along the Zoram Strand of Ashenvale, Blackfathom Deeps was once a glorious temple dedicated to the night elves' moon-goddess Elune. However, the great Sundering shattered the temple - sinking it beneath the waves of the Veiled Sea. There it remained untouched - until, drawn by its ancient power - the naga and satyr emerged to plumb its secrets. Legends hold that the ancient beast, Aku'mai, has taken up residence within the temple's ruins.",
+  "files": [
+   "gossip/b2211c64d47ca8c3d8e615dafe91b495"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "0ce4f31bf5da",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Cairne, Sylvanas and Thrall.",
+  "files": [
+   "gossip/b3cbd3b34c12301e130d6d8c71c79640"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "9a23840f0ede",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Recently, a night elf druid named Naralex discovered a network of underground caverns within the heart of the Barrens. Believing he could use the caverns' springs to restore lushness to the Barrens, the druid began siphoning the energies of the fabled Emerald Dream. His vision somehow became a nightmare, however, and soon the Wailing Caverns changed into a den of vicious, deadly predators. It is said that Naralex still resides somewhere inside the labyrinth, trapped beyond the edges of the Emerald Dream.",
+  "files": [
+   "gossip/b500cf9cb16697efa215b17db7bcfb10"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "24d09c904f91",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Come in, come in. Just don't sit too close to the stove. It hasn't exploded yet today, but just to be safe I think you should sit elsewhere.",
+  "files": [
+   "gossip/bc1b3f439e8fd0f9f2ac5ff43c880695"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "a27d3de74f5b",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Ragefire Chasm consists of a network of volcanic caverns below the orcs' new capital city of Orgrimmar. Recently, rumors have spread that a cult loyal to the demonic Shadow Council has taken up residence within the Chasm's fiery depths. This cult, known as the Burning Blade, threatens the very sovereignty of Durotar. Many believe that the orc Warchief Thrall is aware of the Blade's existence and has chosen not to destroy it in the hopes that its members might lead him straight to the Shadow Council.",
+  "files": [
+   "gossip/bc8c50bfc1d8ed1c75ba7dd8b90fd912"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "78d5531f3b67",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Built twelve thousand years ago by a covert sect of night elf sorcerers, the ancient city of Eldre'Thalas was used to protect Queen Azshara's most prized arcane secrets. Though it was ravaged by the Great Sundering of the world, much of the wondrous city still stands as the imposing Dire Maul. The ruins' three distinct districts have been overrun by all manner of creatures - especially the spectral highborne, foul satyr and brutish ogres.",
+  "files": [
+   "gossip/c411cbef5df180ccd890bef475112e69"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "5e12ad09ea14",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Uldaman is an ancient Titan vault that has laid buried within the earth since the world's creation. Dwarven excavations of the city have recently released the Titans' first failed creations: the troggs. Legends say that when the Titans deemed the trogg experiment a failure they tried again, resulting in the creation of the dwarven race. These secrets are recorded on the fabled Discs of Norgannon - massive artifacts that lie at the bottom of the ancient city, protected by giant constructs of living stone.",
+  "files": [
+   "gossip/c741d06e3ae26604a28606c05c568df5"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "f7536b3bdef2",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "During the War of the Ancients, the demigod Agamaggan came forth to battle the Burning Legion. The colossal boar was defeated, and over time in the areas where his blood fell, massive thorn-ridden vines sprouted to life. The quilboar came to occupy these regions and hold them sacred. The heart of these massive thorn-colonies is the Razorfen. Razorfen Kraul was conquered by the crone, Charlga Razorflank, who some speculate has been negotiating with agents of the Scourge for some insidious purpose.",
+  "files": [
+   "gossip/db2d76d7b455d886696d89b8e8e48c20"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "5ee01e5efef3",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "The monastery was once a center for learning and enlightenment. With the rise of the undead Scourge during the Third War, the peaceful Monastery was converted into a stronghold of the fanatical Scarlet Crusade. The Crusaders are intolerant of all non-human races, regardless of alliance or affiliation. They believe that any and all outsiders are potential carriers of the undead plague - and must be destroyed.",
+  "files": [
+   "gossip/dd9f3d64c827838e795e0a03f9ef713a"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "4bdacc22d902",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "If you put on cologne or perfume, then you'll see who is amorous. Those are the ones who accept love tokens... and offer a gift in return.\n\nBut remember: to give someone a love token, you have to smell just right! Men like the scent of perfume, while women prefer cologne.",
+  "files": [
+   "gossip/e762061ba8bf75781dc6a8a400d88e13"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "f9b9e6b7deb9",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Uldaman can be found at the very northern end of the Badlands.",
+  "files": [
+   "gossip/ed7ede5fd80672340015462249d28fe0"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "b0ecf9be8cb5",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "The ruins of Zul'Farrak are located in the northwestern corner of the Tanaris Desert.",
+  "files": [
+   "gossip/f1ed33547ad09d7d0d14fc037e5a34b2"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "7ebe6ccd54ca",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Vizzie",
+  "quest": null,
+  "en": "Located in Dun Morogh, Gnomeregan has been the gnomes' capital city for generations, though it was recently infested by mutant troggs. In a desperate attempt to retaliate, High Tinker Mekkatorque ordered the emergency venting of the city's radioactive waste tanks. Though the troggs became irradiated, their siege continued unabated and the gnomes were forced to seek refuge in the dwarven city of Ironforge, where the High Tinker now enlists brave souls to help his people reclaim their beloved city.",
+  "files": [
+   "gossip/fdb62b0e3003d60d76ddfff91eeaa1ba"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "64a10c02d75d",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Kilram",
+  "quest": null,
+  "en": "Ah, a seasoned veteran you once were. Kilram can make you this again. I know you are capable, you merely need to ask and I shall teach you the way of the axesmith.",
+  "files": [
+   "gossip/6d7eb7644ad83f313e5d689284fb3b48"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "9d1076fdb1f5",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Kilram",
+  "quest": null,
+  "en": "I am Kilram, master of the axe.",
+  "files": [
+   "gossip/9bd36faf52beb6ae72539e0731c74b9d"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "09ce81c944ae",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Lilith the Lithe",
+  "quest": null,
+  "en": "I will teach you the way of the hammersmith. Just ask nicely.",
+  "files": [
+   "gossip/36713901087518deca258af947863cc9"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "4896b1be7cc6",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Lilith the Lithe",
+  "quest": null,
+  "en": "Don't get too close, adventurer. I'm liable to fumble and bash your brains open with the face of my hammer.",
+  "files": [
+   "gossip/e2dd7fbda6eda67036e13d4fbe105755"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "0db2b959ad7b",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Lokhtos Darkbargainer",
+  "quest": null,
+  "en": "The Thorium Brotherhood does not waste time on ants. Be gone!",
+  "files": [
+   "gossip/807f545aa510396b39fd74ed72c9abcb"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "de349f103185",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Malyfous Darkhammer",
+  "quest": null,
+  "en": "It's a simple process for a craftsman of my caliber.\n\nThe most difficult aspect of crafting items out of beast hides and carapace is the actual acquisition of said parts. Now, if you could bring me a pristine hide from this beast, I could make several different powerful items from the flesh.",
+  "files": [
+   "gossip/5c51b2b4d2e369e2c9b1c95f23c50db1"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "36915a0dc3d4",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Malyfous Darkhammer",
+  "quest": null,
+  "en": "I reckon that the odds of obtaining such a piece would be a one in a million! A once in a lifetime skin! Even the most disciplined artisans of the craft would no doubt fail several hundred times in the process of skinning the beast before a pristine sample was recovered.",
+  "files": [
+   "gossip/8a0cd35a24d37645220db16398cde660"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "0eeea89cc4a8",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Malyfous Darkhammer",
+  "quest": null,
+  "en": "If you actually brought me the hide of the beast? Well... Let me show you...",
+  "files": [
+   "gossip/dcf2194937d4f71a8dcd75edc4a3df89"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "187566c18c52",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Malyfous's Catalogue",
+  "quest": null,
+  "en": "The ground upon which the Scholomance was built was given to Kel'Thuzad by the Barov family. In exchange for this land - a place where the Cult of the Damned could learn the foul magics of the Scourge - Kel'Thuzad granted the Barov's immortality through undeath.\n\nIt is in Shadow Vault that you will find both the skin of shadow and its owner, Lady Illucia Barov.\n\nA finer mirror for the vain and dead never existed.",
+  "files": [
+   "gossip/33f4d18ce0ab409c37b0395f421b1056"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "37bbb6759f68",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Malyfous's Catalogue",
+  "quest": null,
+  "en": "If it's frayed abomination stitchings you be wanting, to Stratholme you'll be jaunting.\n\nFormerly the hometown of the Lightbringer hisself, now overrun by the minions of Kel'Thuzad.\n\nBrave the perils of the burning city and strike down the meaty abominations! Take from them your prize: Frayed abomination stitchings!",
+  "files": [
+   "gossip/3f424f4d79a0f2e7f08530b667b2e442"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "63958c27a5d6",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Malyfous's Catalogue",
+  "quest": null,
+  "en": "The Thorium Brotherhood Fall Catalogue:\n\nInside you will find the hottest deals on all of your adventuring needs! We'll even show you where to pick up those difficult to find components and supplies.",
+  "files": [
+   "gossip/76853600f17808d27848257e7a687168"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "b1878682ac4c",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Malyfous's Catalogue",
+  "quest": null,
+  "en": "The final sanctum of crazed zealots. 'Tis where they create their scarlet uniforms, magically imbued by the enchanted scarlet thread!\n\nTo Stratholme, adventurer!",
+  "files": [
+   "gossip/a1ab5bb20b1a4b85596ee4b43ec71cb8"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "a5c91b3c2ece",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Malyfous's Catalogue",
+  "quest": null,
+  "en": "The finest preservative of flesh known to man and Scourge alike - Frostwhisper's embalming fluid. Only one place an adventurer could find this and one would think that the lich the fluid is named after would not take too kindly to anyone going to said place.\n\nBut... if it's the fluid you want, the Scholomance you'll haunt...",
+  "files": [
+   "gossip/bc097c6ccf37ea8c37e08bf804253ff4"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "b4fafa68402c",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Malyfous's Catalogue",
+  "quest": null,
+  "en": "A staple of the Thorium Brotherhood.\n\nArcanite crystals are harvested from rich thorium lodes. Through the alchemical prowess of powerful alchemists, arcanite bars are born.\n\nSeek out a miner, if you aren't one... and find a good alchemist! You'll need both.",
+  "files": [
+   "gossip/d46d54093f1260912aed6c305f8d3ca6"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "6dc1c33424bd",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ranshalla",
+  "quest": null,
+  "en": "Hi! I just got back from exploring the Ruins of Kel'Theril, to the southwest. Now I'm intent on investigating the Wildkin that lie just up the ridge here, in Owl Wing Thicket.\n\nHave you spoken to Erelas Ambersky in Rut'theran Village? He requested that I come here, and perhaps he has a task for you as well.",
+  "files": [
+   "gossip/17dd87ec78f0ac1fa26bdd906869278d"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "79c2f76fabea",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ranshalla",
+  "quest": null,
+  "en": "I'm getting ready to travel up the ridge, adventurer. I could use some help -- would you like to come with me?",
+  "files": [
+   "gossip/1e3795fa61eca0a3ad809d0994bcae39"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "0a65af9930db",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ranshalla",
+  "quest": null,
+  "en": "Thanks again, adventurer! I'm very pleased with what we found.\n\nGood luck to you!",
+  "files": [
+   "gossip/3c5d2a9611ce5bf150c04f924634e640"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "c71775eddf85",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rivern Frostwind",
+  "quest": null,
+  "en": "Hello, traveler. Not many find me out this way.\n\nMy name is Rivern, and I train the Winterspring Frostsabers to become mounts.\n\nThese cats are the most feral and difficult to subdue of all the sabers. Only the most trusted and exalted may attempt to ride one.\n\nI will not sell such a mount to just anyone; no, you must work for it and earn your acceptance not only with me, but with the sabers themselves.",
+  "files": [
+   "gossip/36c8e9c4ac3bcc7350a02ddb82c11cbc"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "cae888b34889",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Seril Scourgebane",
+  "quest": null,
+  "en": "Back off or I'll cut you in half.",
+  "files": [
+   "gossip/06af0379d0a4f27cb78f8ccab80db4c6"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "807d5541048e",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Seril Scourgebane",
+  "quest": null,
+  "en": "If you wish to become a swordsmith, just ask.",
+  "files": [
+   "gossip/f6dd091cd31c13e889f5415aa70a5dd6"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "53477a51bf5a",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Umi Rumplesnicker",
+  "quest": null,
+  "en": "Why is it that there's never a gyrochronatom lying around when you need one?",
+  "files": [
+   "gossip/60bef144ff90534acfd671fd7d8e653e"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "987f6e572865",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Umi Rumplesnicker",
+  "quest": null,
+  "en": "Mighty fine weather we're having here, wouldn't you say?",
+  "files": [
+   "gossip/63b0c2ab50bf6fff81cba4b99f297a2e"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "22600067759a",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Umi Rumplesnicker",
+  "quest": null,
+  "en": "I'll get the last laugh... they'll see! Oh, hi adventurer, I didn't see you there.",
+  "files": [
+   "gossip/688e7a178f4c5a3e69d6b3cd086d6fdf"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "30af3557493e",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Umi Rumplesnicker",
+  "quest": null,
+  "en": "Invention, my dear adventurer, is two percent bottled inspiration, four percent solar exposure, six percent chance of thunderstorms clearing by mid-afternoon, and ninety-three percent Rumplesnicker.\n\nWait, did that add to one hundred? I've got my notes around here somewhere.",
+  "files": [
+   "gossip/ce950915a538ac6011289e41f41d81a8"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "508c4b21f8cd",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Zap Farflinger",
+  "quest": null,
+  "en": "I have just completed a new dimensional imploder that will make me rich beyond my wildest goblin dreams! All I need to do is get a skilled Goblin Engineer to build a dimensional ripper that connects to it and try it!",
+  "files": [
+   "gossip/0c3633a7d4f6e9b798ba0e339ff2765c"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "d39ed9001908",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Zap Farflinger",
+  "quest": null,
+  "en": "It's good to see an engineer brave enough to make the device. We goblin engineers laugh at danger!",
+  "files": [
+   "gossip/8f5aefe9123fb8887c7b7bb32250448a"
+  ],
+  "uiMap": 1452
+ },
+ {
+  "id": "a64d86cb6f76",
+  "zone": "winterspring-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Zap Farflinger",
+  "quest": null,
+  "en": "The theory behind it is that we completely destroy you with a massive explosion wherever you are and send those particles through a dimensional rip and then re-implode you at the machine here. Instant Transport! It might not work ALL the time, but what kind of goblin engineer are you! If survival was your first priority you could never be a real Goblin Engineer!\nHere is the recipe you will need to make the Dimensional Ripper and try it out!",
+  "files": [
+   "gossip/dfd0c3400fd8ac2bb161ce6bba353f92"
+  ],
+  "uiMap": 1452
+ }
+]

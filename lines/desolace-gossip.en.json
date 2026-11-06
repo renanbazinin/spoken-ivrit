@@ -1,0 +1,576 @@
+[
+ {
+  "id": "a53477de2050",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captain Pentigast",
+  "quest": null,
+  "en": "The Alliance has many stakes in Desolace, and our hold here is unstable.\n\nWill you help us?",
+  "files": [
+   "gossip/eac41b497f36241ca7bb4b51e012da27"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "0a9cc1cf8d9f",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Cork Gizelton",
+  "quest": null,
+  "en": "Ah... a customer! Talk to my greatest invention, the Vendor-Tron 1000. He has all your needs... some of the rarest items you will ever find on the market anywhere in Kalimdor... not to mention that his programming will not allow any bargaining, so the price you see is the price you pay.",
+  "files": [
+   "gossip/4de54f822df981ac699c8e0f5d6eaca4"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "28e73ccb513b",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Drulzegar Skraghook",
+  "quest": null,
+  "en": "If you seek to hunt naga, then you will need all the help you can get. Deep in the water you can find bubbly fissures that produce enough air bubbles that will allow you to breath underwater. Swim up close so that you can use the bubbles.",
+  "files": [
+   "gossip/3c57610ceaac598ea2221dac45d2551c"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "9f23b054fe8c",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Gelvas Grimegate",
+  "quest": null,
+  "en": "Ticket redemption here! Get your tickets turned into prizes! Step right up!",
+  "files": [
+   "gossip/41e1418f674fe4ab79111719d0059787"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "ac041cba0843",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Gurda Wildmane",
+  "quest": null,
+  "en": "The centaur clans rule the wastes of Desolace. If united, they would be a terrible force. It is then good that the centaur clans are not united but instead bicker and war amongst themselves.",
+  "files": [
+   "gossip/500e589a12855ac74c218d13b385766e"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "387af3a75f8b",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jinar'Zillen",
+  "quest": null,
+  "en": "Hey mon! You've ever been diving deep in the ocean? I'll let you in on a little secret, eh. Deep in the ocean you can find bubbly fissures; they'll allow you to breathe air while underwater. Let's keep this secret between you and me though, eh. I don't need no competition for me shellfish traps elsewhere... if you get my drift!",
+  "files": [
+   "gossip/4e6ffc14d0d8a4483a2dcdfc8694ccbf"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "c7faced58cf3",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Kerri Hicks",
+  "quest": null,
+  "en": "adventurer, it's good to see you again! Are you having fun at the Faire?\n\nWant to arm wrestle? No, of course not... you want to keep your arm!",
+  "files": [
+   "gossip/c8136cab467bcb9f94304a861482c25d"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "c468ba602941",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kreldig Ungor",
+  "quest": null,
+  "en": "I've got a lot going on out here in Desolace, Adventurer. Roetten wants us to pick up some reagents for one of our clients as well as fetch some of these lost items.\n\nSeein' as you're here to help out, why don't we get started?",
+  "files": [
+   "gossip/15bbb75d5db4a7d1de51de841bf00cdb"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "0b60b1264d46",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Lhara",
+  "quest": null,
+  "en": "Have you any idea what I go through to bring these incomparable valuables to sell? Come see them all for yourself!",
+  "files": [
+   "gossip/094cace1e1f8bca5aca039f124ce8236"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "8bf2c6f3a991",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Lhara",
+  "quest": null,
+  "en": "Come and take a look at my wares while you still can. We're here all week, and then we're off to some far off land.",
+  "files": [
+   "gossip/1e3edd109eb58225d62d1478f6ff6d54"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "1520d3459978",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Lhara",
+  "quest": null,
+  "en": "Every item that I have for sale I acquired myself. You have my personal guarantee of authenticity.",
+  "files": [
+   "gossip/29c5fcc54f30c3265fc0ea1499ea23af"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "5a34748f2fb1",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Lhara",
+  "quest": null,
+  "en": "Darkmoon Faire Cards? See the Professor here for those. Come see me if you are a dealer in hard to come by antiquities and artifacts.",
+  "files": [
+   "gossip/a18afdc5e96e5c4132424bf6058f6568"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "c89df5039cf2",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Lui'Mala",
+  "quest": null,
+  "en": "Your skill exceeds mine, though I've heard that Old Man Heming in Booty Bay has copies of \"The Bass and You\". That is sure to help you increase your skill.",
+  "files": [
+   "gossip/0e953fd8dfbfe1414c60a2989878d380"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "010a39c8e532",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Lui'Mala",
+  "quest": null,
+  "en": "You will need to find Nat Pagle in Dustwallow Marsh to get any better than you are currently.",
+  "files": [
+   "gossip/191f9771bbe3c0dfd9d726fd4f02d760"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "4abc315affc8",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Lui'Mala",
+  "quest": null,
+  "en": "I can teach you fishing skills.",
+  "files": [
+   "gossip/7709fb559a1b486ad6fbaec0f8f6f8ff"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "96357e910061",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Mai'Lahii",
+  "quest": null,
+  "en": "I should find some hired help; I don't like sitting here all day selling fish supplies. I'd much rather go fishing, and then sell supplies.",
+  "files": [
+   "gossip/6c9f3fe4497da2c378cdd9d41104d24e"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "e6200528e728",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Maurin Bonesplitter",
+  "quest": null,
+  "en": "Greetings, adventurer.",
+  "files": [
+   "gossip/9df67739a99bd32b0305f64bf3916331"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "1ce7e7525db3",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Nataka Longhorn",
+  "quest": null,
+  "en": "Desolace is not such a bad place, if you don't mind the constant harassments from the centaurs.",
+  "files": [
+   "gossip/f665bec7d52af8ff76a10cb1e23a6f8c"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "1d4ef4d5fd91",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Professor Thaddeus Paleo",
+  "quest": null,
+  "en": "Welcome to the Faire young one! We have collected wonders from all over the world for your perusal. Oh and please let me know if you manage to collect a set of the lesser darkmoon cards, as the master...I mean I would be keenly interested in them.",
+  "files": [
+   "gossip/175e8b03efe27c1ffb0ce6644f4ac989"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "aab4ce289328",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Professor Thaddeus Paleo",
+  "quest": null,
+  "en": "We have seeded Darkmoon Cards around the world to see if any worthy individuals could complete a set of any of the four suits. If you manage to collect all eight cards of one of the suits we will reward you with one of the Greater Darkmoon cards that functions as a powerful trinket as well as a link to the Darkmoon Faire.",
+  "files": [
+   "gossip/3f7bf1a688d937c820a4dd5e2b16b4e4"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "ec50fcd94415",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Professor Thaddeus Paleo",
+  "quest": null,
+  "en": "If you manage to complete a deck of warlords cards you will be rewarded with a greater darkmoon card of heroism. This card will occasionally heal you while you are engaged in melee combat.",
+  "files": [
+   "gossip/5b4d4908a2259afea5d5edad7b0cb6e5"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "42df70bf885b",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Professor Thaddeus Paleo",
+  "quest": null,
+  "en": "If you manage to complete a deck of elementals cards you will be rewarded with a greater darkmoon card of the maelstrom. This card will occasionally impact an enemy you are fighting with for heavy damage.",
+  "files": [
+   "gossip/6c0066e9c134f9932cf5d4baf797844d"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "f47d9744d524",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Professor Thaddeus Paleo",
+  "quest": null,
+  "en": "If you manage to complete a deck of portals cards you will be rewarded with a greater darkmoon card of the twisting nether. This card will occasionally pull your spirit back into your body after death and restore you.",
+  "files": [
+   "gossip/cabe10467ba55951a39c5efc5b01e754"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "5c627e784d2b",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Professor Thaddeus Paleo",
+  "quest": null,
+  "en": "If you manage to complete a deck of beasts cards you will be rewarded with a greater darkmoon card of the blue dragon. This is very useful in restoring of magical energies.",
+  "files": [
+   "gossip/f9fbc218ea70279123d05e8059b07a52"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "3c048f781753",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Rackmore's Log",
+  "quest": null,
+  "en": "My chest is one of ingenious design, and requires two keys to unlock, one gold and one silver. The first key, the silver key, I gave to my first mate, and I kept the gold.\n\nBut we were doomed to lose them. My key was lost during the next naga attack, and my first mate's was lost a day later when drysnap makrura assailed us and pulled him into the deep.\n\nI am sure the naga and makrura have the keys. I am glad the two are enemies and will not share them.",
+  "files": [
+   "gossip/4737220be29ed0b0905a27df23942c8f"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "023310d7a449",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Rackmore's Log",
+  "quest": null,
+  "en": "After the makrura attack, we could see that the Gallant would not survive another. So I and the few surviving sailors abandoned my ship.\n\nWe are now ashore and will soon strike out for the town of Nijel's Point, but much danger lies between us and sanctuary, and I fear Desolace will consume us.\n\nI write this now in hopes that someone will know our plight, and some day avenge us against the watery fiends who were our ruin.",
+  "files": [
+   "gossip/b7584554dd225ef7e529ef1bd508f29b"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "ba723ecb24cd",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Rackmore's Log",
+  "quest": null,
+  "en": "I am Ulysses Rackmore, captain of the Gallant. And this is the log of the last few days of my doomed ship.\n\nWe were sailing to Feathermoon Stronghold with a shipment of supplies when naga stormed the sides of the Gallant. We drove them back but we knew they'd return. Fearing the loss of my most precious belongings, I steered the Gallant to an island off the coast of Desolace, one with old, night elf ruins. And there I left my treasure chest.",
+  "files": [
+   "gossip/c59de48f730da3b5d7c895e1e6639450"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "6f61ac83c22d",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Rexxar",
+  "quest": null,
+  "en": "Greetings, adventurer. I am Rexxar, champion of the Horde, servant of Thrall, master to the beasts of the wilds.",
+  "files": [
+   "gossip/af40e357c59edbf15d948e3c6f65eeb5"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "3a48ec95f654",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Rinling",
+  "quest": null,
+  "en": "Hello! And welcome! I'm afraid my booth is not open... many repairs are needed...\n\nBut I am still bound by blood oath to put a smile on your face. So please, smile, or I must cut off my hand and consume no living flesh until it regenerates...",
+  "files": [
+   "gossip/dcf71fd938957989dca86c245fa95f64"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "6d28bbe77302",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Silas Darkmoon",
+  "quest": null,
+  "en": "Greetings my friend, and welcome to the greatest show on Azeroth!\n\nPlease, step right up and take in all we have to offer. Amaze at the wonders that the Darkmoon Faire has uncovered in this vast and mysterious world! We have spared no expense in bringing you excitement that children of all ages will delight in!",
+  "files": [
+   "gossip/bcc4137261fe1b6312ba537a58e54584"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "845065786839",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Smeed Scrabblescrew",
+  "quest": null,
+  "en": "My business plan never accounted for housing giant kodos... maybe I should have gone into the underwater basket weaving business instead.",
+  "files": [
+   "gossip/f09ae60bd463ebe5e4647fdabaf33b7a"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "d28034b746b3",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Stamp Thunderhorn",
+  "quest": null,
+  "en": "For a limited time only, crunchy frog available exclusively here at the Darkmoon Faire.",
+  "files": [
+   "gossip/59d2d4fff147043a75626e0a7a8383d9"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "8531a027e6ef",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Stamp Thunderhorn",
+  "quest": null,
+  "en": "You've got money and we've got food. What are you waiting for?!",
+  "files": [
+   "gossip/9719b872df7a6d658059c4efb6a6eab8"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "590b818054c3",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Stamp Thunderhorn",
+  "quest": null,
+  "en": "Step right up! Get your red hot wings right here!",
+  "files": [
+   "gossip/a0865f7e679cbc713d639fbb652b59b9"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "6c07670ee299",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Stamp Thunderhorn",
+  "quest": null,
+  "en": "Darkmoon Dogs fresh off the grill. Come and get em while they're hot!",
+  "files": [
+   "gossip/c3f265f9c79fe874218c75eeb60e795b"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "6005f02f11f4",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sylannia",
+  "quest": null,
+  "en": "Don't be shy, buy a round for everyone!",
+  "files": [
+   "gossip/05dd55fc3499fcacc3e60a02e7dbbfe6"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "5c5fd425bcf1",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sylannia",
+  "quest": null,
+  "en": "Tasty drinks for sale! Quench your thirst on some of the Darkmoon Faire's finest brews!",
+  "files": [
+   "gossip/3999eb39e5a6b4a8ebbe3d52dc37db02"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "28b8e4d15dc7",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sylannia",
+  "quest": null,
+  "en": "Tips are always graciously accepted, friend.",
+  "files": [
+   "gossip/7fb4098049b4c3596d12b8795d24c345"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "506adb871e72",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sylannia",
+  "quest": null,
+  "en": "Just in... another batch of Darkmoon Special Reserve. Come get yours before they're all gone!",
+  "files": [
+   "gossip/a1cdb9f0073b916776c053aaf793a2bb"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "8bb6b0b3a13f",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Takata Steelblade",
+  "quest": null,
+  "en": "The main threat Thrall wishes dealt with is the Burning Blade--members of the Horde that have given their loyalty to the demons. They seek to practice their dark magic and care little for Thrall's vision of the Horde's future here in Kalimdor.",
+  "files": [
+   "gossip/dfddc8836289b42ca955376be2a09676"
+  ],
+  "uiMap": 1443
+ },
+ {
+  "id": "d48f64be601b",
+  "zone": "desolace-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Yebb Neblegear",
+  "quest": null,
+  "en": "Welcome! Welcome to Yebb Neblegear's Darkmoon Zoo Bizarre - a Trove of Living Legends and Mythical Oddities! Enjoy your visit, friend!\n\nBut be mindful of what you touch! These exhibits hold artifacts and beasts both dire and divine! They might burn the wayward hand of an over-curious onlooker...",
+  "files": [
+   "gossip/7b6f88d5a16eec48ed71f32561eef2a6"
+  ],
+  "uiMap": 1443
+ }
+]

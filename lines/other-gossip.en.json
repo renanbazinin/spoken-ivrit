@@ -1,0 +1,2802 @@
+[
+ {
+  "id": "4683b6ac4e2b",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "\"Flipfin\"",
+  "quest": null,
+  "en": "Psst! Hey, you! Yeah, you! You caught one of those rare tournament fish, didn't you? Don't be shy, I can smell it from here!\n\nListen, I know what it's like to reel in your last line, thinking you're about to claim your prize... only to catch the most amazing, gorgeous, WORTHLESS lunker known to goblin kind! Yeah, been there, lost my shot at the title three weeks in a row to that! Learned pretty darn quick they taste better than the tastyfish, though.\n\nNow, I just participate for fun. That means I've got a few tastyfish on hand... and I am willing to trade for the vastly superior rare fish.\n\nSeems like a win-win for you, huh?",
+  "files": [
+   "gossip/ca39a6d07719555f70a6133b3f049d97"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "388e2e6ebd2b",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aamelia Windfield",
+  "quest": null,
+  "en": "The Windfield Orchard has seen better days...",
+  "files": [
+   "gossip/15487a1878a9f4c9994d4c45828677fd"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0d63925d4dd3",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Abigail Sawyer",
+  "quest": null,
+  "en": "Words are like arrows. Once loosed, you cannot call them back.",
+  "files": [
+   "gossip/0a580867476945196bf3485d6efcea06"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "99091e2ddef2",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Ada Gelhardt",
+  "quest": null,
+  "en": "Quickly, adventurer, I'm expecting someone.",
+  "files": [
+   "gossip/153409fed882a873373b29bb75acb23b"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5ccbc27dcd59",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Aedi Thriceforged",
+  "quest": null,
+  "en": "You're not bad, but let me show you a few tricks you might find handy.",
+  "files": [
+   "gossip/26ed40a424790a3c88b546813bd8632c"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7808a424e330",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Aedi Thriceforged",
+  "quest": null,
+  "en": "I can teach you to swing a blacksmith's hammer, if you are willing to learn.",
+  "files": [
+   "gossip/3eeda264aba442e3d1fd6679960bdedd"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "dbcbc6dacee5",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aemara",
+  "quest": null,
+  "en": "I'm hoping to open my very own shop soon! In the meantime, would you like to buy anything?\n\nEvery bit counts towards funding my dream!",
+  "files": [
+   "gossip/cbca42c4de87472daaebfb21b58007c1"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "21c5379e86fa",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ailee Farheart",
+  "quest": null,
+  "en": "Hello, hunter.",
+  "files": [
+   "gossip/9854cbbb8921997d625bad0b366ccaf1"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d25eb9687b26",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ailee Farheart",
+  "quest": null,
+  "en": "Hello, adventurer.",
+  "files": [
+   "gossip/a99c6cb6931916301d9f42a914c6f800"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "aeab27f1677e",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Akeri Hoja Umbría",
+  "quest": null,
+  "en": "Slay your enemies and swoon your paramours with this one weird trick.\n\nIf you follow the path of the rogue, I can teach you... for a cost, of course.",
+  "files": [
+   "gossip/103e9ca0f5830b69f6114d7590edd362"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7e0c95b239fc",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Al'Aketh Stormcaller",
+  "quest": null,
+  "en": "Soon all Shen'dorei will see the truth... and those that refuse will be swept away in the coming storm!",
+  "files": [
+   "gossip/0214ebec5426eb0db58bb663f3a4d25d"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6a8fd1643070",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Al'Aketh Stormcaller",
+  "quest": null,
+  "en": "Are you new here? I have nothing to say to unshaven recruits save that you should sublimate your youthful eagerness into supplication and prayer.",
+  "files": [
+   "gossip/0f829c0ddd036ddf0345db58e383139d"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9f316e62bf29",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Al'Aketh Stormcaller",
+  "quest": null,
+  "en": "The non-believers will be purged in our glorious storms! Praise the Windlord!",
+  "files": [
+   "gossip/1acf8efe36ca24bf8db32fb77f33d7f1"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "685487f0a433",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Al'Aketh Stormcaller",
+  "quest": null,
+  "en": "Why are you asking me, unshaven novice?",
+  "files": [
+   "gossip/22776a0b85ad5638324076d707b9588f"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "bcee1bece33e",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Al'Aketh Stormcaller",
+  "quest": null,
+  "en": "Do not trouble me, recruit. Submit yourself to Commander Cyclas or Skypriest Aanders if your hands are idle.",
+  "files": [
+   "gossip/6d553dc6816a2cd4c126f273d0ef4cce"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d12368cc02d1",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Al'Aketh Stormcaller",
+  "quest": null,
+  "en": "You'll need to speak with Skypriest Aanders for instruction, there is no guidance I can provide. Be gone with you, recruit.",
+  "files": [
+   "gossip/9cafc1e36d5b91894bd0a5f2e752d4c8"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "99d5c2fbab01",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Al'Aketh Stormcaller",
+  "quest": null,
+  "en": "Why are you bothering me, recruit? If you want to talk to other doe-eyed fools, try the inn on the north side of town. The recruits that congregate there tend to have brains as smooth as their freshly shaved heads.\n\nOh, and shave that head of yours. The only thing the windlord abhors more than chatty recruits is chatty recruits with a full head of hair.\n\nNow, be gone from my sight.",
+  "files": [
+   "gossip/a2e2961a81764e825ea313cee0a7c358"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a4042049c87b",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Al'Aketh Stormcaller",
+  "quest": null,
+  "en": "The Windlord's blessings flow through me!",
+  "files": [
+   "gossip/ccd6b356ee52e874495812d5f57370bc"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8c2f133f728b",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Al'Aketh Stormcaller",
+  "quest": null,
+  "en": "Does your heart beat in rhythm with the winds?",
+  "files": [
+   "gossip/d972ae035fa3e24ea9d952a78271c143"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9eb47a3826bc",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Al'Aketh Stormcaller",
+  "quest": null,
+  "en": "Have you heard the good news about Al'Akir, the Windlord?",
+  "files": [
+   "gossip/f7c9818d6192fe82213c1db33a5ad47d"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "161d4b25864e",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Alba Fairmoon",
+  "quest": null,
+  "en": "I am told the farms of Westfall once supplied a bounty of crops for Stormwind. But now, the soil is barren and most of the farmers have fled.\n\nOn behalf of Darnassus I would like to offer my aid in replenishing this land. Will you assist me?",
+  "files": [
+   "gossip/cf001b610ea4f1cd70b38fe9a1febe48"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "106ea32744ce",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aldia",
+  "quest": null,
+  "en": "Greetings.",
+  "files": [
+   "gossip/4cdb3f8d5c5634d4b3dfd884adc30a6c"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "997b828283a3",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Alfina Vistanoche",
+  "quest": null,
+  "en": "I was invited to visit Dalaran on behalf of the Cenarion Circle. I find this place equal parts wondrous... and unsettling.\n\nAs for you, young Adventurer--If you have not yet done so, seek out Sheldras Moontree in Stormwind. He will teach you to reach the Cenarion Circle enclave at Moonglade.",
+  "files": [
+   "gossip/1a517214d3f5819d1569675ce2034c68"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b15c4edf6a6c",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Altar of Hakkar",
+  "quest": null,
+  "en": "The ancient Altar of Hakkar stands silently near the entrance to the room.\n\nLooking to the balconies above it, you notice a large serpent-like statue rests on each. The statues look very much like the ones on the altar before you. They must be related in some way...",
+  "files": [
+   "gossip/91b59c0582fdc11756948115c740b617"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9db2b0cd4192",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Alvarion Windfield",
+  "quest": null,
+  "en": "It's always great to see you, Adventurer.",
+  "files": [
+   "gossip/75180d4ba26fde28d9daf2d2a3217f04"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d95cbb2e4bea",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Alvarion Windfield",
+  "quest": null,
+  "en": "<The man lying before you shifts uncomfortably. He's recovering from some very nasty wounds.>",
+  "files": [
+   "gossip/a7706c001be19b9f911c402d0c8cfd0e"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "14fceae81afe",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Alynsia",
+  "quest": null,
+  "en": "You look like you could use a few enchants. You have come to the right place!",
+  "files": [
+   "gossip/bacd71887e351ff4f2305fed0f13fc9d"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "eba9df2e8ed1",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Ander Solliden",
+  "quest": null,
+  "en": "Mostly the usual. Murloc attacks, the occasional Scarlet Crusade skirmish. There are even some paladins that can't quite adjust to life as a Forsaken. Far too often we have to put those down that turn their blades upon their brothers.\n\nBy far the worst is when some mindless thrall wanders too close. I can kill murlocs all day, but some of the scourge I've had to destroy were former friends of mine. Some were even family members.\n\nI'd rather it be me who puts them down than some random adventurer, but it still stings.",
+  "files": [
+   "gossip/35444125713423e244d559589f4c5947"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1d7312afa52f",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Ander Solliden",
+  "quest": null,
+  "en": "In my previous life, I lived nearby here. I still wander the fields of my childhood farmstead occasionally. It fills me with sadness to see those I knew and loved, shambling around as mindless thralls. It pains me, but its that very pain that gives me strength and purpose.",
+  "files": [
+   "gossip/5b8d8a89e020dc2fa9b656115e4a9cb4"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "47581eba4f2a",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Andorgos",
+  "quest": null,
+  "en": "Step carefully mortal. You tread where mightier beings have met their fate.",
+  "files": [
+   "gossip/01a72b8a9ee3737b37605b3e99d6402a"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5962d7a40750",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Andorgos",
+  "quest": null,
+  "en": "With Ouro slain the way is clear to the final chamber. I am able to transport you there, if you desire.",
+  "files": [
+   "gossip/2e604774c5428e55d30448b3f9443e9b"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ced8f19964d0",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Andorgos",
+  "quest": null,
+  "en": "With the Emperors slain, the magical protection blocking teleportation within the temple has been greatly weakened. If you desire, I am able to translocate you to the Emperors' lair.",
+  "files": [
+   "gossip/e3ba53c521b1009ced105bc09ff00136"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f8bd96c63d3e",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Anger'rel",
+  "quest": null,
+  "en": "Our leader, Doom'rel, has ears for the challenge.",
+  "files": [
+   "gossip/a372bc64e7ea57b0c42f74c9c3cd93a4"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "584799d5f915",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Angus Hammerhand",
+  "quest": null,
+  "en": "It's my job to get the Paladins of Bandarion Keep set up with proper arms and armor. It's not much, but it's honest work.\n\nI've got a thing or two for sale as well, should you need gear.",
+  "files": [
+   "gossip/1470506cc74cbb7d9a2efbbfe3143830"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "939ccecb0d35",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Apothecary Durelle",
+  "quest": null,
+  "en": "Please do not touch the vials unless you intend to purchase one.\n\nFingerprints ruin the value, you see.",
+  "files": [
+   "gossip/54b5285a423d9b920ba39c611e13aeeb"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "32e6f40c87da",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Aramis Hammerhand",
+  "quest": null,
+  "en": "Welcome back to the light, friend. Do you require training?",
+  "files": [
+   "gossip/5eb039c7592831b563107d5a4e9a3b39"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "43ea33a5c8cd",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Aramis Hammerhand",
+  "quest": null,
+  "en": "You may not be a paladin, but you may yet find solace in the light should you seek it.",
+  "files": [
+   "gossip/abc0bc3774958d865a2dfe9eb652c17d"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a12c6f950435",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Arcanist Ginsberg",
+  "quest": null,
+  "en": "Unfortunately, the rumor of our plight is true. Disruptions to our ley lines have unveiled a disturbance amongst the arcane forces of our city.\n\nWith Dalaran on the cusp of reopening its borders to our allies, we are in dire need of immediate solutions.",
+  "files": [
+   "gossip/18ad6d0fe5989a96a905597f8aead519"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "683a54ffac15",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Arcanist Laurain",
+  "quest": null,
+  "en": "Welcome to Dalaran, adventurer.\n\nPlease pay no mind to some of the construction that is still underway. Oh, and should you encounter a rogue arcane anomaly, demon, or other malign entity, please feel free to seek assistance from the nearest member of the Kirin Tor before fleeing--um... proceeding--to the nearest exit in an orderly fashion!\n\n<Arcanist Laurain laughs nervously.>\n\nThank you for visiting!",
+  "files": [
+   "gossip/619ca4f59f0b51909dd142eb09085ee6"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f165c445fb25",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Archmage Alvareaux",
+  "quest": null,
+  "en": "Greetings, I am Archmage Alvereaux and I manage supply and logistics for the Kirin Tor.\n\nUnfortunately, we have relatively few useful items available for disbursement to our friends and allies at present.\n\nI suggest checking back often, as available stock may change from time to time.",
+  "files": [
+   "gossip/757a44fc31c51dc3a3faffdd45dbecf3"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "fcf0c6873597",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Celindra",
+  "quest": null,
+  "en": "Yes? I am quite busy.",
+  "files": [
+   "gossip/9bf44a08081d504fe49548f0f2a20e9b"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ce101b683be6",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Archmage Modera",
+  "quest": null,
+  "en": "Ah, Adventurer. It's good to see you. After all your help, you're a welcome guest in our halls.\n\nPlease, make yourself at home. Dalaran owes you at least that much.",
+  "files": [
+   "gossip/89c8b1d5557d0d3ea0c9093ca12be746"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1ff64636303d",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Ardelle Dralta",
+  "quest": null,
+  "en": "I am Ardelle Dralta of the Argent Dawn. I've just been dispatched from Chillwind Camp to investigate reports we've received of an enormous light-wreathed stone that seems to have fallen from the sky somewhere in the mountains of Alterac.\n\nI believe I saw the light coming from high in the hills just northeast of Tarren Mill as I was riding by, but I'm at a loss as to how to navigate the winding and treacherous paths leading to it. I came here hoping to hire a knowledgeable guide.\n\nPlease, you must excuse me while I set about on my most urgent business.",
+  "files": [
+   "gossip/0743f462cea6629d25c084bb91ecb617"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7eb63044086a",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Arille Azuregaze",
+  "quest": null,
+  "en": "You look like a adventurer who could use a drink and an ear.",
+  "files": [
+   "gossip/f18e9a32b4ac5ece481583a8a5be886f"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "bd3d0370c450",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Arygos",
+  "quest": null,
+  "en": "I bear witness to a miracle that stands before me! In one thousand years of captivity, I have not seen a single LIVING specimen - other than those foul Qiraji and silithid - enter these chambers.",
+  "files": [
+   "gossip/fbec45aaafa3ad165557bf6abbdc4ac2"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "28fa5c3a962e",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Arygos",
+  "quest": null,
+  "en": "The world is indebted to you and your allies, adventurer.",
+  "files": [
+   "gossip/fd10ddbf850f23ec3e5ca81dbb183556"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7ca96c00a8fb",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Ashe Amberhall",
+  "quest": null,
+  "en": "When these lands fell to the orcish Horde during the First War, the bulk of the Alliance military moved on to other concerns. They believed the land lost, and that the war efforts were better spent on the home front.\n\nWe agree. But the Riverglades are our home, Adventurer. Without aid from the rest of the army, the cavalry men and women of Farholde mounted a bold campaign to retake our lands. Under the command of Demar, we know that someday these lands will belong to us once again.\n\nThis is not just a battle for control, Adventurer. This is a war for our birthright.",
+  "files": [
+   "gossip/9a68b0c46c61c9e9f58ae518a78f8020"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "37719b05ed3c",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Ashe Amberhall",
+  "quest": null,
+  "en": "Greetings, adventurer. As advisor to Demar, I would be happy to answer any questions you have about Farholde Keep.",
+  "files": [
+   "gossip/e65b963ca850bfa67a61806b65e6f76f"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "35af08161d1a",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Aurius",
+  "quest": null,
+  "en": "Leave me. My wounds are great and I fear they will overtake me. Thank you, adventurer. I will die here, but because of you... I'll die in peace.",
+  "files": [
+   "gossip/1459e6358a1d64d948e842c494640010"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4a0a6803ef45",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Aurius",
+  "quest": null,
+  "en": "It is good to see others who fight the Scourge in Stratholme, for it is here they are strongest.\n\nGreetings. I am Aurius. I was once a paladin of the Silver Hand, but like others whose faith wavered... I fell from grace. The Scourge seduced me and nearly transformed me into a death knight!\n\nFinally sensing my peril, I fled to this chapel. It is a sacred place, where the first paladin, Uther the Lightbringer, was ordained into the order of the Silver Hand.",
+  "files": [
+   "gossip/838b9927288bcbb1e762b2ef266b1a9d"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "45b93a69fc60",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Aurius",
+  "quest": null,
+  "en": "I do not have much time in this world, but Light willing, it is time enough to fulfill my destiny. When you face Baron Rivendare, I will be with you.",
+  "files": [
+   "gossip/a30c5c705bd6b70241922ce37f6afcdb"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1113e0ec0c91",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Axle Smoothslice",
+  "quest": null,
+  "en": "Welcome, friend, to the barbershop! Come for a cut? A coloring? Something else, perhaps?\n\nWe can groom facial hair, perform piercings, reshape tusks and horns, and even modify undead features!\n\nHave a seat and we'll get right to work. You're only moments away from a new, more attractive you...",
+  "files": [
+   "gossip/9b15a7a906a19034900e3764c97fc4b4"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c50f773d5576",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ayessa Dawnsinger",
+  "quest": null,
+  "en": "<Ayessa Dawnsinger eyes you with barely-contained fury.>\n\nYou are either very bold, or very stupid to so brazenly step foot into our domain after spilling Windshaper blood. We are slow to forgive, and we never forget.\n\nYou should remove yourself from here at once. If we weren't in the center of Zephras, you would already be dead.",
+  "files": [
+   "gossip/13c545b91b4310528d1540a46d1d40ee"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "abe383a477b8",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ayessa Dawnsinger",
+  "quest": null,
+  "en": "Greetings, I am Ayessa Dawnsinger, the current Grand Skyseer of the Windshapers. What may I do for you?",
+  "files": [
+   "gossip/1832ca4ef40be8e606cbfb8bdb62ee60"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "65297c77123c",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ayessa Dawnsinger",
+  "quest": null,
+  "en": "Lorthuna is performing some sort of ritual up there. She may be trying to bring down the wards!\n\nThe help we sent for has not yet arrived, but we'll just have to manage with what we have. When you are ready, let me know and we'll go confront her.",
+  "files": [
+   "gossip/af71532a5b76412988767f1a52f0b982"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d65ee69e006b",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ayessa Dawnsinger",
+  "quest": null,
+  "en": "Hmm, I see. Very well then, adventurer. The Windshapers will provide aid. Please inform Valennia that she can count on us for this fight.\n\n<Ayessa lowers her voice dangerously.>\n\nDo not mistake our cooperation for any sort of forgiveness. You owe the Windshapers blood, and someday we will collect.",
+  "files": [
+   "gossip/f8f3ada42defc38fa990acfd7b60fb9a"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8e8e1943e454",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Baelann Favorbreeze <Banker>",
+  "quest": null,
+  "en": "Welcome to the Bank of Valanaar. We can secure your belongings and valuables here should you so desire. Do you wish to access your deposit box?",
+  "files": [
+   "gossip/65da84e17677fa5b6ed7d1318e7c8af9"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6a0e8a87eca9",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Baelann Riorraudo",
+  "quest": null,
+  "en": "Re, y ealdor Regenthor. Hir ras novaedi re uden va y vandar thorniss? Melka E gol ruff ras y garde va vil?",
+  "files": [
+   "gossip/ee59564869d19dba950f8e825a824f02"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ce61bae15a98",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Baelann Riorraudo",
+  "quest": null,
+  "en": "Ah, a fellow Fisherman. Are you perhaps in need of a little training? Maybe I can show you a thing or two?",
+  "files": [
+   "gossip/f10237f873964a58febdec53abb705e4"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5ef7365ab3e6",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Baelann Swiftcurrent",
+  "quest": null,
+  "en": "Gales greetings, friend. Is there something I can help you with?",
+  "files": [
+   "gossip/3cf816ad18453f687be2eac93856cb8a"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "165dd85b68e0",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ban'aethal Refugee",
+  "quest": null,
+  "en": "Unknown",
+  "files": [
+   "gossip/cb6d68993aef0d58cbb18ac96a978e4d"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "950aebf79185",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Belanaa Velovento",
+  "quest": null,
+  "en": "I am Belanaa Windveil and I am an agent of the High Order here on Azeroth. If you'd like to make a donation of cloth to our organization, we would be most grateful.",
+  "files": [
+   "gossip/74c1447e02baffde1a5e7a50b06c5597"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "703756652a92",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Belathaan Brightwish",
+  "quest": null,
+  "en": "What are you doing here? Quickly, leave this place now. You are going to ruin everything!",
+  "files": [
+   "gossip/be0682ab5d35fc9b4494318ad7f00c58"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "47e512bd7809",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Beneris <Enchanting>",
+  "quest": null,
+  "en": "Oh! Greetings, friend. Feel free to browse my wares.",
+  "files": [
+   "gossip/1caa76a41033085738501e4f0e493a38"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b3ed8fbfb660",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Bezza Shearshave",
+  "quest": null,
+  "en": "Welcome, friend, to the barbershop! Come for a cut? A coloring? Something else, perhaps?\n\nWe can groom facial hair, perform piercings, ink traveler tattoos, anything you might need!\n\nHave a seat and we'll get right to work. You're only moments away from a new, more attractive you...",
+  "files": [
+   "gossip/5ddfd519fba1d59904be0388995be82a"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "04743f3871e1",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Blademaster Ren",
+  "quest": null,
+  "en": "The adventurer who flinches is the adventurer who dies. If you would look death in the face as a adventurer, I will teach you how not to flinch.",
+  "files": [
+   "gossip/4291f6217075bcacda9f782c587c5145"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9a5aeec8e97a",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Boarton Shadetotem",
+  "quest": null,
+  "en": "Most impressive that you have noticed me, traveler. You may have a talent for the shadows.\n\nI am Boarton Shadetotem, a master of the arts of stealth and subtlety. You may find the idea of a traveler rogue implausible, even impossible. For many years I took pride that my skills were mine alone. But I have seen my people face unimaginable challenges, and I now feel a duty to share my knowledge with the tribe.",
+  "files": [
+   "gossip/ac78d98012488e3c85b32e8cb728056f"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "aa6f9277ebd4",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Borook Gallfist",
+  "quest": null,
+  "en": "I am sorry, adventurer, but you are not experienced enough yet to enter Darkspear Islands.",
+  "files": [
+   "gossip/cfbb9dd825963098fabf6f1387dc7fd1"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d704687a1a35",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Borstan",
+  "quest": null,
+  "en": "I have the finest meats in Orgrimmar.",
+  "files": [
+   "gossip/d192743fb9c0c53e8a1247dcc6b0f23e"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "afd358a93d58",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Brakk",
+  "quest": null,
+  "en": "Greetings, traveler.",
+  "files": [
+   "gossip/5a5cfd9b66c08e54d7f912c93f16aec1"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "149ffc3a3c42",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Stonetorch",
+  "quest": null,
+  "en": "Now that I've seen this land and have heard the sound of the earth here, I think I am glad I made the journey.\n\nAh, forgive me. I am thinking aloud. I am called Stonetorch, and I come here seeking knowledge of a brilliant white stone that some say fell from the sky and came to rest in the hills over yonder. Some among my people believe that this is a tear wept from An'she, the eye of the Earth Mother herself.\n\nI don't know if I believe that, but I do intend to see this phenomenon for myself and make my own judgement.",
+  "files": [
+   "gossip/5639943581dffcfb5648bdf76d9c0e8a"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7ebda1e812bb",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brek Stonehoof",
+  "quest": null,
+  "en": "Greetings.",
+  "files": [
+   "gossip/ca7358e2cec09c600084b8744b9a5abb"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "94633e54a61a",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Breton Samuels",
+  "quest": null,
+  "en": "If you've come seeking the fellowship of your fellow paladins, you've come to the right place.\n\nWelcome home.",
+  "files": [
+   "gossip/de99134a5e5a2c6d8b2d0b0496f97000"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0113bd61e9b7",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Brighid Stormflayer",
+  "quest": null,
+  "en": "Care to learn how to gather leather from slain beasts? Or do you need some new tools?",
+  "files": [
+   "gossip/d946f44a23da83262fe2d024db084c06"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "09eab2027154",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Brix Xizzix",
+  "quest": null,
+  "en": "When I heard that there was a whole new gaggle of elves literally fallin' from the sky. I said to myself \"THAT'S where I need to be\". A whole new society of impressionable, bright eyed suckers... er--customers!",
+  "files": [
+   "gossip/8e77db8a5ea4005ca1ce9b1f91568ee9"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d17e7dc17d15",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Brom Killian",
+  "quest": null,
+  "en": "Greetings.",
+  "files": [
+   "gossip/3a63f7cceeba74ce98846013cdffcaf7"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "bcf5c4a65df9",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Brother Zendraas",
+  "quest": null,
+  "en": "Not much story to tell. I lived in Falaath Village and when the cult moved in, I saw the winds turning. I shaved my head, donned the grey robes, and said the words they wanted to hear.\n\nNow I'm just trying to survive. Mostly I keep my head down and ply my trade for that crackpot, Lorthuna.",
+  "files": [
+   "gossip/3359983c5c43836fdd2ab46e1e2e486e"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e1941f8524bc",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Brother Zendraas",
+  "quest": null,
+  "en": "Why are you looking at me like that. Do you expect me to shoot bolts of lightning at you, or threaten you with the wrath of the Windlord?\n\nIts fair enough if you do. However, not all of us are quite so... zealous.",
+  "files": [
+   "gossip/5772380da2345fb636f3737914d52dfe"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a8aa9eba3040",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Brother Zendraas",
+  "quest": null,
+  "en": "Tailor, by trade.\n\nHere, stranger, I'll tell you what. Bring me any spare windstones you come across and I'll share my wares with you. I've got quite the stockpile of Al'Aketh garments here. Say what you will about the insanity of the cult, you've got to admit, they have some sense of style.\n\nOr rather, I do, considering I designed most of their attire.",
+  "files": [
+   "gossip/9073b087a1dd4f6f71e05de7197edae6"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1af96d94d005",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Brother Zendraas",
+  "quest": null,
+  "en": "Tailor, by trade.\n\nHere stranger, I'll tell you what. Bring me any spare windstones you come across and I'll share my wares with you. I've got quite the stockpile of Al'Aketh garments here. Say what you will about the insanity of the cult, you've got to admit, they have some sense of style.\n\nOr rather, I do, considering I designed most of their attire.",
+  "files": [
+   "gossip/92e1a639ad49ffb7b04a4b122c0eb6fe"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "170b4dd50372",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Brother Zendraas",
+  "quest": null,
+  "en": "Why are you looking at me like that? Do you expect me to shoot bolts of lightning at you, or threaten you with the wrath of the Windlord?\n\nIt's fair enough if you do. However, not all of us are quite so... zealous.",
+  "files": [
+   "gossip/a24bda95eff2134d1d55fa8a90b75a3d"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "53c9891f556f",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Bruegs Kindleborn",
+  "quest": null,
+  "en": "To give light, one must burn.",
+  "files": [
+   "gossip/77cc439cdeb7cb51e4129da23dabeeb2"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6fd5724b3c7c",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Bruegs Kindleborn",
+  "quest": null,
+  "en": "Out of the hottest fire comes the strongest steel.",
+  "files": [
+   "gossip/85659f3a2a7989d1d0d03f1ad707bb22"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "040626482a9b",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Cadoc Winterheart",
+  "quest": null,
+  "en": "I am glad you asked!\n\nProfessions are skills pertaining to crafting, gathering, and general survival. There are many to choose from, with each offering their own unique benefits and economic opportunities. Whether you seek wealth, an opportunity to stock your guild's warehouse with useful items, or simply enjoy the satisfaction of wearing equipment crafted by your own hand; there's a profession for that.\n\nCrafting recipes can be learned from trainers, such as those around here, and numerous other sources across Azeroth. Once learned, you can craft as many of that item as you wish, provided you can acquire the necessary materials.",
+  "files": [
+   "gossip/b8ecbada699116f2e074c7d05b53646d"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "fc9495a3e156",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Cadoc Winterheart",
+  "quest": null,
+  "en": "Hello, Adventurer! Have you considered taking up a tradeskill?\n\nI would be happy to answer any questions you might have, or point you toward the local trainers.\n\nIf this feels overwhelming, that's okay! You can always return here or visit trainers in capital cities to get started on your crafting journey at any time.",
+  "files": [
+   "gossip/f2b255bf99830e58fd3542f57058da15"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "95b081e2c0f1",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Caelestrasz",
+  "quest": null,
+  "en": "Our freedom would have meant nothing if C'Thun had survived. You are truly a champion of prophecy.",
+  "files": [
+   "gossip/4a3616c5c52ca099ad816dfc278bf7a9"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "53641517a461",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Caelestrasz",
+  "quest": null,
+  "en": "Even if you somehow managed to free us without defeating C'Thun, we would focus all of our powers to see the beast banished back to the hell from whence it came - AT ANY COST.",
+  "files": [
+   "gossip/febc6c6f0212bb59db53fa246e390a6c"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2a4cd904c49d",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Captured Bandit",
+  "quest": null,
+  "en": "Largely, yes. The thing we all have in common is that we have nowhere else to go and that we prefer thieving over enslaving ourselves to some insane cult.",
+  "files": [
+   "gossip/1a805a968ec63be0827b8f2a0145bef2"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2f102f0bb93f",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Captured Bandit",
+  "quest": null,
+  "en": "Killed a peacekeeper and stole some windstones.",
+  "files": [
+   "gossip/301f08afeaaf0bae76748990cd7d1828"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "79151280677f",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Captured Bandit",
+  "quest": null,
+  "en": "What are you looking at?",
+  "files": [
+   "gossip/60338cc8e4cadc013adcc8a789c2338a"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1651ca1549eb",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Captured Bandit",
+  "quest": null,
+  "en": "Why bother denying it, the constable already passed her judgement. No point lying.",
+  "files": [
+   "gossip/6277f0e1648b69a7767a3d0300ba4a81"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2d03bc3c5e89",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Captured Bandit",
+  "quest": null,
+  "en": "Desperation? Hunger? I'm not exactly here doing this because I like robbing and murdering. I lost my home, had nowhere to go, and I don't much care to shave my head and worship some imaginary wind god, so I became a bandit. The rest is obvious.",
+  "files": [
+   "gossip/7620e00a703b5f8d7e481b9db4d4866d"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3983f698ec1c",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Captured Bandit",
+  "quest": null,
+  "en": "Most of my outfit did. Displaced from the ground falling out from under our feet. Some came from other islands entirely. I came from the city of Shen'dramar, on the big island. Well, what used to be the big island, I suppose.\n\nMy family and I managed to get on one of the last skycutters out of there before the entire island broke apart. We thought that Zephras would save us. Well, it didn't. They are all long dead and now I'm here, awaiting execution.",
+  "files": [
+   "gossip/b765eca303d743aeaa8fcbfd2dbe0ae7"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6b2acd53e274",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Clarence Gillian",
+  "quest": null,
+  "en": "Hello, Adventurer! Have you considered taking up a tradeskill?\n\nI would be happy to answer any questions you might have, or point you toward the local trainers.\n\nIf this feels overwhelming, that's okay! You can always return here or visit trainers in capital cities to get started on your crafting journey at any time.",
+  "files": [
+   "gossip/268b520ae32f6604b9459bcf3825be70"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "146d24e37692",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Cleansed Night Dragon",
+  "quest": null,
+  "en": "This vibrant night dragon plant stands in stark contrast to the demonic taint that sunders Felwood. Rare and luscious fruit, known as Night Dragon's Breath, hang heavily from the plant.",
+  "files": [
+   "gossip/6db8c7356fccccf62cf8d04a42e9a148"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ce7239b98d77",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Cleansed Songflower",
+  "quest": null,
+  "en": "This songflower plant stands out as a rock in the sea of corruption that is Felwood. Its petals have a powerful fragrance that bolsters your spirits and strengthens your resolve.",
+  "files": [
+   "gossip/2f91c912a2e655993273aa88af125b61"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "145c33fb27fe",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Cleansed Whipper Root",
+  "quest": null,
+  "en": "This healthy whipper root plant stands as a polar opposite to the sickly taint of corruption that dominates Felwood. Tender and healthy roots yield delicious tubers that lay on the ground next to the plant.",
+  "files": [
+   "gossip/6688a5582ca943992a60fa5fae080eae"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "07049199459f",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Cleansed Windblossom",
+  "quest": null,
+  "en": "This windblossom plant stands out as a beacon of light in the darkness that is Felwood. Plump and juicy berries hang from the plant, ripe for the picking.",
+  "files": [
+   "gossip/a02c9db05dbae9f51ddb60906a0a61bf"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a925fe09901a",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Constable Aonda",
+  "quest": null,
+  "en": "<Constable Aonda wears an intense look on her face, clearly deep in thought.>",
+  "files": [
+   "gossip/091a88c7a06456b236801b45b26373f4"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f18c9b1bd6b8",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Constable Aonda",
+  "quest": null,
+  "en": "More than I'd like, I'm afraid. We've been harassed by a group of bandits camping out in a cave to the north, and the Al'Aketh cult recently took over Falaath Village to the south of us. I trust every peacekeeper and citizen here, but we are far too few to keep the village secure.\n\nIf the cult decides to continue their expansion here, there's little we can do to stop them.",
+  "files": [
+   "gossip/1a4d22b0bffdff6275a0b7cde6e7c0e8"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a15b61506fa4",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Contemplative Bandit",
+  "quest": null,
+  "en": "What do you want?",
+  "files": [
+   "gossip/1ce9bc82bb6914c043375c43adea804e"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e59679237119",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Contemplative Bandit",
+  "quest": null,
+  "en": "You don't look like much, but something tells me you are right. I think I'll just sit here a bit longer. Thanks for the chat, stranger.",
+  "files": [
+   "gossip/1dd9a905f0ef5b4288857b5c1c1254d2"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f432a0828f67",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Contemplative Bandit",
+  "quest": null,
+  "en": "Anyway, I should probably get back to work. Speaking of, do you have any food or valuables that I could lift off of you? Maybe some windstones? Could always use more windstones?",
+  "files": [
+   "gossip/2504140057e55cd844ca85f5e4b5dc28"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "acd0b74c0209",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Contemplative Bandit",
+  "quest": null,
+  "en": "Just thinking. It's scary out here these days, you know? Any minute this section of the island could drop out from under me and I'd go tumbling... somewhere? Tell me, do you even know what happens to skyborne who fall off the island?",
+  "files": [
+   "gossip/2dec2f28d085e6196c74c5c0137b3033"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8a7ed8037ecc",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Contemplative Bandit",
+  "quest": null,
+  "en": "<A solitary bandit sits on the edge of the precipice, clearly deep in thought. If he notices you, he doesn't seem interested in attacking you.>",
+  "files": [
+   "gossip/38d7cc05be6f2b34dc0f8188b561a9a9"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ee4615deb572",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Contemplative Bandit",
+  "quest": null,
+  "en": "No one does. Because the only people who've done it have never come back. When the skycutters used to run between Valanaar and New Eldranaar or Shen'dramar, sometimes an accident or other misfortune would cause someone to go overboard. When it happened, they wouldn't even slow the ship down. No point.\n\nFor all we know, anyone who fell off is still out there... tumbling endlessly forever.",
+  "files": [
+   "gossip/acbff955cc68979dc633424fb012871d"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e4b5eef89c5c",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Contemplative Bandit",
+  "quest": null,
+  "en": "Look around you. There's so much beauty here. The wind on your face, the blue skies overhead. It's so bright and alive, but yes, it's also quite dark. It feels like a prison. A prison where the guards have all left the prisoners in their cells to fend for themselves.",
+  "files": [
+   "gossip/fe0b54a3a944e1ac111ead8ef120db99"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e873557b7d5b",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Coriella Calmbreeze",
+  "quest": null,
+  "en": "Welcome to the Calmbreeze Inn, traveler. Would you like some refreshment?",
+  "files": [
+   "gossip/1b9a413cc5a0c37395ffce5a1833577f"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e2efb194168d",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Corsan Terrasar",
+  "quest": null,
+  "en": "The warrior who flinches is the warrior who dies. If you would look death in the face as a warrior, I will teach you how not to flinch.",
+  "files": [
+   "gossip/60866ecc4847f737666b9ef7d2f7a2a8"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "63a3d7ad45b9",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Corsan Terrasar",
+  "quest": null,
+  "en": "The adventurer who flinches is the adventurer who dies. If you would look death in the face as a adventurer, I will teach you how not to flinch.",
+  "files": [
+   "gossip/cc652ba9c6236e1b43f7931c7566f67c"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3ddb74974431",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Creeg Bothunk",
+  "quest": null,
+  "en": "Greetings, traveler! I am Creeg Bothunk, the main supplier for the Darkspear Raiders. As you improve your standing with the Darkspear Raiders, I will be able to provide a various selection of goods that you can use inside Darkspear Islands. Should you find yourself in need of item repair, I also provide those services.",
+  "files": [
+   "gossip/706201d5828913d38169ce77d6874cd5"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "249d962fddc1",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Cultist Engineer",
+  "quest": null,
+  "en": "This cultist is in a deep trance...",
+  "files": [
+   "gossip/73f0462573697c404b28308bec6f882a"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "701f74198363",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Cyriden Farseeker",
+  "quest": null,
+  "en": "Work has been stymied as of late. Our dig sites have been overrun by both the Forsaken and the Cult of the Dark Strand. The Sentinels are keeping them corralled to the ruins. I just hope they don't cause too much damage while they're there.\n\nThe last item we recovered was a wooden effigy depicting two figures. I gave it to Relathor, and he's been trying to piece together its history. You can find him upstairs.",
+  "files": [
+   "gossip/7de5d8e1e16bffe0b5f917c4cbef5dac"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d9161ec96085",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Cyriden Farseeker",
+  "quest": null,
+  "en": "Elune-adore, traveler. I am Cyriden. My partner Relathor and I are working to unearth the lost artifacts of our people.\n\nMuch is remembered by the older kaldorei, but there is no telling what tales have been forgotten. Without our intervention, they will vanish from this world forever.",
+  "files": [
+   "gossip/ad008fa3b82d8b68d7ba774408019e56"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f671557b3d9a",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Daeann Steelwind",
+  "quest": null,
+  "en": "Winds tidings. What can I help you with?",
+  "files": [
+   "gossip/bd332f5d7d3458235a87a234fc01b179"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3b11c93dac78",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dani'ill",
+  "quest": null,
+  "en": "Many of the supplies that tradesmen need can be found in the world. For those that cannot, I provide a limited selection for fair price.",
+  "files": [
+   "gossip/7da2e914119cbb34e9c1d90ccae3ddca"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "bec71147d74c",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Daniel",
+  "quest": null,
+  "en": "What does Brother Paxton need now?",
+  "files": [
+   "gossip/08fed5e8781a098242c70ec4bb16f3f7"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7f1ce568b1de",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Daniel",
+  "quest": null,
+  "en": "I am glad you asked!\n\nProfessions are skills pertaining to crafting, gathering, and general survival. There are many to choose from, with each offering their own unique benefits and economic opportunities. Whether you seek wealth, an opportunity to stock your guild's warehouse with useful items, or simply enjoy the satisfaction of wearing equipment crafted by your own hand; there's a profession for that.\n\nCrafting recipes can be learned from trainers, such as those around here, and numerous other sources across Azeroth. Once learned, you can craft as many of that item as you wish, provided you can acquire the necessary materials.",
+  "files": [
+   "gossip/fb0b4643eeabdd6f2099ee91ae1d3a43"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "acc83b53a118",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Daniel Stitchsong",
+  "quest": null,
+  "en": "Hello there! I've got the finest leathers this side of Stormwind. Interested?",
+  "files": [
+   "gossip/9a28543e4cf8f85738dd4d6ea476e189"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8f1dd8399193",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Danitha Morr",
+  "quest": null,
+  "en": "Welcome to Bandarion Keep, adventurer.",
+  "files": [
+   "gossip/846fd249367f33b3cb9ae7fea5eb647c"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "28490c716ba6",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Darrowshire Spirit",
+  "quest": null,
+  "en": "At last, my soul is free!",
+  "files": [
+   "gossip/564b4c2f337c2199f444b5155ea4d428"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "17d7b8f039e7",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Darrowshire Spirit",
+  "quest": null,
+  "en": "Thank you! You freed me!",
+  "files": [
+   "gossip/7f54e67830fe9b610107dcc6ef833396"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3cdc551117bc",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Darrowshire Spirit",
+  "quest": null,
+  "en": "Thank you! The battle for Darrowshire doomed me, but you have set me free!",
+  "files": [
+   "gossip/f2c5356ea5dc812ceaca823c305a9fb8"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "064fef8f9f56",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Darrowshire Spirit",
+  "quest": null,
+  "en": "Oh, thank you! I have been trapped in this nightmare for so long...",
+  "files": [
+   "gossip/f480a00fa10e5310e4267f26515d167f"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b48484e62b1b",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Darrowshire Spirit",
+  "quest": null,
+  "en": "Ah! Please, if you see a survivor of Darrowshire, tell them I am free!",
+  "files": [
+   "gossip/fed623f87b4b87634f238ffb546b2df7"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "86e2d7e40b74",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Davil Crokford",
+  "quest": null,
+  "en": "The battle is over, and the people of Darrowshire are saved.\n\nThey are saved, adventurer, because of you. You are truly a hero of Darrowshire.",
+  "files": [
+   "gossip/80b02e86f5960caaa7b74c0bed1f6bcf"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9d3adceca24a",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dead Cultist",
+  "quest": null,
+  "en": "<This cultist is dead. Upon close inspection, you notice that he seems to be clutching something to his chest, almost as if he was protecting it.>",
+  "files": [
+   "gossip/f825bec665a2c6605041e74d3fdd0614"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f6ecf794a2cd",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathguard Billmuth",
+  "quest": null,
+  "en": "<Deathguard Billmuth absentmindedly fidgets as he looks around nervously. He is clearly very uncomfortable being here.>",
+  "files": [
+   "gossip/365a0499e71f667c0dd903f45be52d6c"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "10aebddcc302",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathstalker Adamant",
+  "quest": null,
+  "en": "At last! Someone to free me from this cell!\n\nHigh Executor Hadrec sent us to gather information on the Keep so that a plan could be formulated to overthrow Arugal once and for all.\n\nBut the old wizard has many tricks up his sleeve and we were detected by a magical ward. I was thrown in this prison. Vincent was not so lucky.\n\nI must return to Hadrec to debrief him at once. But first I will pick the lock to the courtyard door for you. Perhaps you can try your luck against the foes that lurk beyond.",
+  "files": [
+   "gossip/bff5412197743f568f0b45a1bc5c5f04"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "06ffad3e467b",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Demar Brant",
+  "quest": null,
+  "en": "Ah, it's been some time since we've had adventurers roam these halls. Welcome to Farholde Keep. Enjoy these comforts while you can. I'm sure you've seen the conditions we're forced to keep.\n\nIt seems every day we lose more of our home to the ever-growing infestation of Horde mongrels and Light-forsaken Twilight's Hammer cultists. With those cowards in Stormwind hiding behind their walls, we are forced to bring order to these beasts ourselves.\n\nPerhaps you'd like to put some of those adventurer talents to use?",
+  "files": [
+   "gossip/33e8c666ed101cab4854850bdf30dafa"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "801389815475",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Denaaris Tempestrella",
+  "quest": null,
+  "en": "Wind's greetings, friend. I've been authorized to offer fellow Skyborne quick passage to the city of Stormwind. Please feel free to utilize this portal at your leisure.",
+  "files": [
+   "gossip/9d279b0794dd38e052e655b98e7128b9"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1bec89be5242",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Dianne Softstep",
+  "quest": null,
+  "en": "Ah, I am afraid you and I have no business at this time.\n\nIf you end up fulfilling some contracts with the trade authority then perhaps we will have something to discuss later.",
+  "files": [
+   "gossip/408848680cafcd42c3a3c3ad7853f0cc"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "49c4b10bb11e",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Disciple of Naralex",
+  "quest": null,
+  "en": "Naralex sleeps again!\n\nLong ago, Naralex journeyed to this cavern with the honorable goal of entering the Emerald Dream and regrowing the Barrens into a lush forest. His focus waned and his thoughts became tainted by serpentine visions.\n\nNow, reptilian beasts seep from his dreams to the land. He must be awoken from the nightmare or he will be forever lost, and a great evil unleashed.\n\nOnly after his corrupted servants, the Fanglords, have been slain can I perform the awakening ritual.",
+  "files": [
+   "gossip/a81c0f51674289d2ce942b92e5a47dfd"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "61c78dc62b0d",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Dokimi",
+  "quest": null,
+  "en": "We've had trouble with shipments going missing across Azeroth. If you find any, I'd appreciate if you could return them to me.",
+  "files": [
+   "gossip/e39680d923c6cd43526ea8b854f1b4a1"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3b4647d75b5d",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Donaal Downbreeze",
+  "quest": null,
+  "en": "Welcome to the Calmbreeze Inn, traveler. Would you like some refreshment?",
+  "files": [
+   "gossip/92f5764071224797e5f9ed7dc4b1a23e"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "370bfc98b88e",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Doom'rel",
+  "quest": null,
+  "en": "Our fate is the doom of all who face the Great Fire.",
+  "files": [
+   "gossip/f0457cce2f9f2f1bd8cea54c70a5306c"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "33e1991ccbbe",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Dope'rel",
+  "quest": null,
+  "en": "Our punishment is also our blessing.",
+  "files": [
+   "gossip/b402e32cb7eddbc1a8b5f35a4ed01673"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "72cc8b01436b",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Dorii Brightwhisper",
+  "quest": null,
+  "en": "The followers of the old Highborne ways have never been more hungry for knowledge and to reclaim what we've lost. If you would seek to wield the power of the arcane and have the aptitude, I can help you take your next steps.",
+  "files": [
+   "gossip/bab8e84e709e8d4f74f6a3356360b4ee"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9aa7953c5251",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Dughal Stormwing",
+  "quest": null,
+  "en": "HELP!!!!",
+  "files": [
+   "gossip/205640ebbf618a0e2d0dc454a288eec9"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4b25a21a38cf",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ealaane Nimbuswalker",
+  "quest": null,
+  "en": "All of the skyborne islands became destabilized and began to move apart a few years ago. If that wasn't bad enough, now large pieces of Zephras are beginning to fall away. It's hard to imagine your home falling into the sky, but that is my reality now.",
+  "files": [
+   "gossip/0b31b9f39f80394c757cec12b82b7267"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0bd3808f8988",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Earthseer Farsen",
+  "quest": null,
+  "en": "On a clear day, you can even see Blackrock Mountain from here. It's both beautiful and terrifying at the same time.",
+  "files": [
+   "gossip/feda7a707c2a24a91121f428edf5aaf0"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "389acc566eb7",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Eaysaa Brightgust <Enchanter>",
+  "quest": null,
+  "en": "Welcome to my shop, it's good to see another Enchanter here in Valanaar. Are you here for a lesson perhaps?",
+  "files": [
+   "gossip/4b59b3cd3a82a7131c8ae337133ed215"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2484e5cea45d",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elaadrin Evengale",
+  "quest": null,
+  "en": "The Windshapers are almost wholly to blame for everything that has happened. Their refusal to change has damaged our ability to save ourselves from our current peril. They speak in absolutes and treat assumptions and superstitious hope as fact.\n\nDo you know who else deals only absolutes? The Al'Aketh.\n\nI for one do not intend to let blind adherence to dangerous beliefs doom our people. If it weren't for the threat of the cult, I'd march our mages over to the other side of Valnaar and wipe the Windshapers out.",
+  "files": [
+   "gossip/4a18e7758e95405d46c2889920261ea0"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "334117486a1e",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elaadrin Evengale",
+  "quest": null,
+  "en": "Greetings, I am Elaadrin Evengale, the current Supreme Magister of the High Order. How can I help you?",
+  "files": [
+   "gossip/ef98e16f5fd760579d7587066fb80776"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8c1fd7081fbb",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elaadrin Evengale",
+  "quest": null,
+  "en": "I see. This seems dangerous in the extreme, but the situation seems to demand that risks be taken.\n\nVery well, the High Order will provide aid. Please inform Valennia that she can count on us for this fight.",
+  "files": [
+   "gossip/fba3c6f9c54dc37aab94803f5566bb00"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "80b3acc4ec9d",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elaadrin Evengale <Supreme Magister of The High Order>",
+  "quest": null,
+  "en": "Lorthuna is performing some sort of ritual up there. She may be trying to bring down the wards!\n\nThe help we sent for has not yet arrived, but we'll just have to manage with what we have. When you are ready, let me know and we'll go confront her.",
+  "files": [
+   "gossip/e831e57f2a91f4a3da2d84a806dd13e5"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a8676e6a120d",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Elaine Compton",
+  "quest": null,
+  "en": "Not every order goes according to plan. While we strive to ensure that each delivery arrives intact and efficiently, a recent rise of beasts, bandits, and even Horde attacks, unfortunately cause some unavoidable loss of goods.\n\nShould you find any lost shipments and are feeling particularly helpful, you can take a look over the label and identify its expected contents. It is not your responsibility to deal with our shortcomings of course, but if you completed the shipment, you will be rewarded in kind.\n\nMs. Baker near the crates will handle your compensation, and we will take care of the logistics from there.",
+  "files": [
+   "gossip/0335dc67b30df364fb6d1d9105d0ebfe"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a6d9c4999416",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Elaine Compton",
+  "quest": null,
+  "en": "We have rapidly expanded our business in recent months, but we are still developing the means to ensure swift communication between clients across all corners of the world. As such, we have to keep our eyes out for opportunities to keep our craftsmen's hands busy. We depend on couriers or other brave souls to bring crafting orders directly to us.\n\nYou can probably imagine that business model brings about challenges. In the meantime, we strongly encourage our crafters to satisfy these orders and deliver the goods directly to the customers themselves, wherever they may currently be. Fret not friend, you will be fairly compensated for your troubles and earn our respect!",
+  "files": [
+   "gossip/3aff892eea39f1caf5fce9847007d929"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "125d282dae5c",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Elaine Compton",
+  "quest": null,
+  "en": "Oh goodness, you snuck up on me! Glad to see you, Adventurer, the Azeroth Commerce Authority is always in need of new contractors.\n\nIf you are the sort to enjoy a stroll through the forest gathering useful materials or possess the skills to craft something from scratch, well, you have found yourself right at home!\n\nPlease let me know if you have any questions.",
+  "files": [
+   "gossip/8ee51604a955a9ecb35d813d6fa2b31e"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "11d9c81f3213",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Elaine Compton",
+  "quest": null,
+  "en": "Of course we trade in gold! It is a universal currency, after all.\n\nHowever, we have our own system for exchanges made amongst ourselves. It is known as Merchant's Favor, and it effectively abstracts away the ever-fluctuating value of gold and silver. This ensures consistent, fair, and equitable trade between members of the Azeroth Commerce Authority. Before you ask, no, it cannot be liquidated into gold.\n\nWe still use gold for simple trades such as basic threads or alchemy vials, you know - everyday crafts. Otherwise we rely on Merchant's Favor.\n\nThe more you help with our lost shipments and influx of crafting orders, the more Favor you will earn!",
+  "files": [
+   "gossip/f5afdd9bef92dc95e8ac32b5a701c683"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e3371651ac0b",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elder Farwhisper",
+  "quest": null,
+  "en": "Elder Windrun resides in the Crown Guard Tower in the Eastern Plaguelands.",
+  "files": [
+   "gossip/1ed762f32a032b13b97651c2963039d0"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "599ed8238678",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Splitrock",
+  "quest": null,
+  "en": "Elder Mistwalker enjoys watching the struggles at the Maul in Feralas.",
+  "files": [
+   "gossip/318ed0e744f88da539e3c51bc4697212"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6fd89b2ff578",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Splitrock",
+  "quest": null,
+  "en": "You'll find Elder Grimtotem at the Lariss Pavilion in Feralas.",
+  "files": [
+   "gossip/63b174e10f467641f0509f5e8838c7e0"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "699df3cba66c",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Starsong",
+  "quest": null,
+  "en": "Winterhoof? I hear he's living it up in Booty Bay.",
+  "files": [
+   "gossip/19094708788f5fed06d218ff02fd6667"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f39a1131e5ee",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Starsong",
+  "quest": null,
+  "en": "You'll find Elder Starglade outside the gates to Zul'Gurub in Stranglethorn Vale.",
+  "files": [
+   "gossip/27b8f654652ad82e2851a6f65a59a249"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6afffdf8d609",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Starsong",
+  "quest": null,
+  "en": "Elder Stormbrow is most likely at the village of Goldshire in Elwynn Forest.",
+  "files": [
+   "gossip/df16e66c1abbe9296b2ef2e88c9f058d"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7f80eb28e524",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Starsong",
+  "quest": null,
+  "en": "Elder Skychaser looks out over Westfall from atop Sentinel Hill.",
+  "files": [
+   "gossip/e4df6119c6dc9b263031c3e4a1d5887c"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "45a721768856",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Starsong",
+  "quest": null,
+  "en": "Elder Bellowrage watches over the Dark Portal from a ridge in the Blasted Lands.",
+  "files": [
+   "gossip/e54d615b2246a6dfec80ccd2ca1f6512"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1209a290ac6a",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Wildmane",
+  "quest": null,
+  "en": "Elder Ragetotem spends her days at the Valley of the Watchers in Tanaris Desert.",
+  "files": [
+   "gossip/8ec72be6672e0046bf655f2b192a781e"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "fccb2b1849ec",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Eldrun Stormbreaker",
+  "quest": null,
+  "en": "If you desire, in addition to training, I have it within my power to erase the knowledge of your talents from your mind. Be warned that every time you undergo this procedure the more difficult it is to perform, and therefore the more expensive it becomes.",
+  "files": [
+   "gossip/4145716fbb2d791ea5392285fe65f1b1"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "863be6026570",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Eldrun Stormbreaker",
+  "quest": null,
+  "en": "The spirits have guided you to me. How may I be of service?",
+  "files": [
+   "gossip/b2302e24c21151f089da09b386cec376"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b3bb137edb22",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Eleanor Shackleton",
+  "quest": null,
+  "en": "Greetings, traveler.",
+  "files": [
+   "gossip/c06f809139a8fb0583142df2083a555d"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3cb53ddfe4b7",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Elisa Steelhand",
+  "quest": null,
+  "en": "How can I help you, friend?",
+  "files": [
+   "gossip/c38c9acf758ba5130fc98aae0cefab18"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8dad52716569",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Ember Bladewhisper",
+  "quest": null,
+  "en": "Better to be prepared than to be dead.",
+  "files": [
+   "gossip/39381adb96ef26fc200fede2ee440da1"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b8cf99c1887f",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Emerii Ráfaga Alta",
+  "quest": null,
+  "en": "Do you seek training as a leatherworker?",
+  "files": [
+   "gossip/b22a34b79a44415e03b8e9492f084662"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "24a1d6386699",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Ephram Barbaro",
+  "quest": null,
+  "en": "Oi, what do you want?",
+  "files": [
+   "gossip/9fe2776bd19934cc228cfea8d9138518"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c60900913481",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Fairbanks Transformed",
+  "quest": null,
+  "en": "It was not enough.\n\n\nA thousand came and a thousand died. By the Light! By the might of Mograine! He would smite them down as fast as they could come. Through the chaos, I noticed that the lesser Mograine was still there, off in the distance. I called to him, \"Help us, Renault! Help your father, boy!\"",
+  "files": [
+   "gossip/0b956b0314a9b7ebc97b96dcc57c0bcb"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f8b0bb27aa01",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Fairbanks Transformed",
+  "quest": null,
+  "en": "The boy had picked up the Ashbringer and driven it through his father's heart as his back was turned. His last words will haunt me forever: \"What have you done, Renault? Why would you do this?\"",
+  "files": [
+   "gossip/0bf4d357057413dcf37deed59af81109"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1a363d391152",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Fairbanks Transformed",
+  "quest": null,
+  "en": "It was all I could do to feign death as the corpses of the Scourge piled upon me. There was darkness and only the muffled sounds of the battle above me. The clashing of iron, the gnashing and grinding... gruesome, terrible sounds. And then there was silence. He called to me! \"Fairbanks! Fairbanks where are you? Talk to me Fairbanks!\" And then came the sound of incredulousness. The bite of betrayal, traveler...",
+  "files": [
+   "gossip/158d60b9203e43bccb639a79ecf4f2e3"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6d0a6cb3e3d2",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Fairbanks Transformed",
+  "quest": null,
+  "en": "Because I was there... I was the Highlord's most trusted advisor. I should have known... I felt that something was amiss yet I allowed it to happen. Would you believe that there were a thousand or more Scourge?",
+  "files": [
+   "gossip/24440986d066c412e745cb3c6ce760e7"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0c1c686f085e",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Fairbanks Transformed",
+  "quest": null,
+  "en": "The Highlord was the lynchpin of the Crusade. Aye, Mograine was called the Ashbringer because of his exploits versus the armies of the Lich King. With only blade and faith, Mograine would walk into whole battalions of undead and emerge unscathed - the ashes of his foes being the only indication that he had been there at all. Do you not understand? The very face of death feared him! It trembled in his presence!",
+  "files": [
+   "gossip/34d834195951120718233ac59ca051bb"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c69d093d892c",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Fairbanks Transformed",
+  "quest": null,
+  "en": "Aye, the Highlord Mograine: A founder of the original order of the Scarlet Crusade. A knight of unwavering faith and purity; Mograine would be betrayed by his own son and slain by Kel'Thuzad's forces inside Stratholme. It is how I ended up here...",
+  "files": [
+   "gossip/4e974e3350b6c509820ed806a61f8cec"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "03d48852eca5",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Fairbanks Transformed",
+  "quest": null,
+  "en": "At last, the curse is lifted. Thank you, hero.",
+  "files": [
+   "gossip/60139c1e8304893e783a877f2adadf63"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2047fac0c867",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Fairbanks Transformed",
+  "quest": null,
+  "en": "Aye, I did. Much to the dismay of the lesser Mograine, I made my way back to the Scarlet Monastery. I shouted and screamed. I told the tale to any that would listen. And I would be murdered in cold blood for my actions, dragged to this chamber - the dark secret of the order. But some did listen... some heard my words. Thus was born the Argent Dawn...",
+  "files": [
+   "gossip/6cb2125ca53137b1fd6250d4a478ed69"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3ffcef6218db",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Fairbanks Transformed",
+  "quest": null,
+  "en": "This was the Ashbringer, fool! As the Scourge began to materialize around us, Mograine's blade began to glow... to hum... the younger Mograine would take that as a sign to make his escape. They descended upon us with a hunger the likes of which I had never seen. Yet...",
+  "files": [
+   "gossip/86cb1182381c2163a7c4ab7156155f5c"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a8eb2f7a5cb1",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Fairbanks Transformed",
+  "quest": null,
+  "en": "No... He stood in the background, watching as the legion of undead descended upon us. Soon after, my powers were exhausted. I was the first to fall... Surely they would tear me limb from limb as I lay there unconscious; but they ignored me completely, focusing all of their attention on the Highlord.",
+  "files": [
+   "gossip/8d7b4c056646c2832e1e7a746024ce6e"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "02f0598001c8",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Fairbanks Transformed",
+  "quest": null,
+  "en": "You mean, you don't know? The sword that you carry on your back - it is known as Ashbringer; named after its original owner.",
+  "files": [
+   "gossip/aff37574b814f55f881169f5208b9e95"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6e5438b7c29b",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Fairbanks Transformed",
+  "quest": null,
+  "en": "The blade and Mograine were a singular entity. Do you understand? This act corrupted the blade and lead to Mograine's own corruption as a death knight of Kel'Thuzad. I swore that if I lived, I would expose the perpetrators of this heinous crime. For two days I remained under the rot and contagion of Scourge - gathering as much strength as possible to escape the razed city.",
+  "files": [
+   "gossip/c33b8942ece004a1babd96520d730a93"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1f1147efb1a1",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Fairbanks Transformed",
+  "quest": null,
+  "en": "I'm afraid that the blade which you hold in your hands is beyond saving. The hatred runs too deep. But do not lose hope, adventurer. Where one chapter has ended, a new one begins.\n\nFind his son - a more devout and pious man you may never meet. It is rumored that he is able to build the Ashbringer anew, without requiring the old, tainted blade.",
+  "files": [
+   "gossip/cc78ae5837cb3e1bcfbafd68c4b35542"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3c6ed475c82a",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Fairbanks Transformed",
+  "quest": null,
+  "en": "No, traveler; only one of his sons is dead. The other lives...\n\n\nThe Outland... Find him there...",
+  "files": [
+   "gossip/ce325ed39a2037717fc38eab2e26d0c2"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "75e6d7cc35ef",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Fairbanks Transformed",
+  "quest": null,
+  "en": "It was High General Abbendis, High Inquisitor Isillien, and Highlord Mograine that formed the Crusade. In its infancy, the Crusade was a noble order. The madness and insane zealotry that you see now did not exist. It was not until the one known as the Grand Crusader appeared that the wheels of corruption were set in motion.",
+  "files": [
+   "gossip/d0c148b2bcf78858f8c4f040c24d57a9"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ab19aa30037f",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Fairbanks Transformed",
+  "quest": null,
+  "en": "Aye, the lesser Mograine, the one known as the Scarlet Commander, through - what I suspect - the dealings of the Grand Crusader. He led his father to the ambush like a lamb to the slaughter.",
+  "files": [
+   "gossip/e63237fcdb254837bb237bc6825c17a5"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9e164785f602",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Fairbanks Transformed",
+  "quest": null,
+  "en": "The only way a hero can die, traveler: Through tragedy. The Grand Crusader struck a deal with Kel'Thuzad himself! An ambush would be staged that would result in the death of Mograine. The type of betrayal that could only be a result of the actions of one's most trusted and loved companions.",
+  "files": [
+   "gossip/e76f6d578d1d69badcdc2108981f62c6"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f71f689b6b25",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Faladriaal Pluma Cayente",
+  "quest": null,
+  "en": "Welcome to the guild registrar of Valanaar. How may I assist you today?",
+  "files": [
+   "gossip/34d79e8ae95363092d6c7a4c7b28f67c"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "bd3abc60bc0c",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Falfaan Halfwind <Artisan Weapon Crafter>",
+  "quest": null,
+  "en": "Greetings, adventurer. Are you in need of arms?\n\nI was trained by Antarion of Ban'aethal, using secrets handed down from the ancient master magesmiths of Kalimdor.\n\nYou'll find no finer weapons on Zephras Isle than mine.",
+  "files": [
+   "gossip/ee9be0e55455d0a3cd04d112b77f9b62"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a8a0c3a8430d",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Falorne Fallwind",
+  "quest": null,
+  "en": "Zephras is in great danger. The elemental wind spirits that brought us here to Skywall so many thousands of years ago have abandoned us, leaving us vulnerable in this unstable realm. Our once-robust society spanned multiple island sanctuaries in our corner of Skywall, but now we are not even sure if any other shen'dorei remain outside of this small island.\n\nThings are dire, but the High Order is committed to rising to this challenge.",
+  "files": [
+   "gossip/0ad0b46c05f2db722e3b617913228055"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "627b5eaf44b5",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Falorne Fallwind",
+  "quest": null,
+  "en": "Magic can accomplish almost anything, but stagnation and inaction have caused us to lose so much of ourselves in the thousands of years since we left Kalimdor. The High Order seeks to reclaim the Highborne heritage that we've left behind and become the masters of our own destiny once again.\n\nThe Windshapers think we are simply reckless and arrogant. Hypocrisy at its finest, if you ask me. The Windshapers will entertain no ideas but their own when it comes to this crisis. Who, I wonder, is truly arrogant?",
+  "files": [
+   "gossip/dadcb63a8ca0a60db74bbb61c6c34baa"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5ffece64e330",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Falorne Fallwind",
+  "quest": null,
+  "en": "Greetings to you, fellow High Order initiate.",
+  "files": [
+   "gossip/e3b1e80443822ef0533f362d56abf362"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b1e458e0fd2f",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Falorne Fallwind",
+  "quest": null,
+  "en": "Greetings... Windshaper.\n\nThose that call themselves members of the Windshapers find little common cause with most members of the High Order, as I'm sure you are aware. Outside the relative harmony of Thendal Grove, you may find that these divisions run deep indeed and rivalry can give way to outright violence, in some cases.\n\nI'll say nothing more on this, save that you should mind your own business and do not interfere with the High Order's goals once you leave the grove. This is likely the only warning you'll recieve.",
+  "files": [
+   "gossip/e92bd52f3ae7548eabe276343a888e25"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "939b54871a94",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Falrin Treeshaper",
+  "quest": null,
+  "en": "What now? Can't you see I'm rather busy?",
+  "files": [
+   "gossip/360a69edd614799c733b1184cf582009"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "01534cf15fd7",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Fanorran Stilloak",
+  "quest": null,
+  "en": "How can I help you?",
+  "files": [
+   "gossip/de5edfa25096a2a517a954307d8a896e"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1ee31a7532b5",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Fenn Fairweather",
+  "quest": null,
+  "en": "Welcome to Shen'dar Village, some of the best fishing this side of the mountain range. If you are looking to catch fish, I can teach you, for a price.",
+  "files": [
+   "gossip/64ee7d7a9d001a2459bc7c8dbbffa0d1"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0d8d57975202",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Fenn Fairweather",
+  "quest": null,
+  "en": "Welcome to Shen'dar Village, some of the best fishing this side of the mountain range. If you are looking to catch fish I can teach you, for a price.",
+  "files": [
+   "gossip/cf0df3abde862d7c08f4f3d269d2bf2d"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a58001687156",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Field Marshal Chambers",
+  "quest": null,
+  "en": "So you're the riff-raff that assisted Didier in getting the supplies here in one piece? Where are the rest of you? I know there's gotta be more. Chickens like you generally roam in huge packs.\n\nBah, just give me the damned writ so I can sign off on it.",
+  "files": [
+   "gossip/51a682137b7a6db94a26971a20130651"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "151f0282fbf1",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Fillion Flamebreeze",
+  "quest": null,
+  "en": "<The Skyborne lying before you is unconscious.>",
+  "files": [
+   "gossip/641df5a5a62f4ab8dbb18c5a0b103a62"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c06cb240071a",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Finkle Einhorn",
+  "quest": null,
+  "en": "Well, maybe 'pay' isn't the best word to use. See, when I was stuck in the belly of that thing, I got to thinking:\n\nThis creature lives in hot, flaming magma and yet it doesn't take a lick of damage from the fire!\n\nIf only I could find a pristine hide from one of these beasts. I could take it back to my dear friend, Malyfous Darkhammer, in Everlook. If anyone could do anything with the hide of a beast like this, it would be him.",
+  "files": [
+   "gossip/12bce043b0d0ba91f429d223b8e97e54"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "cf86cb58e015",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Finkle Einhorn",
+  "quest": null,
+  "en": "Say, I sense a measure of disbelief in your voice - but yes, that's how it happened.",
+  "files": [
+   "gossip/1d5dcce8ac2f04731c454fbfd07ec7a4"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5a6585f2c12c",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Finkle Einhorn",
+  "quest": null,
+  "en": "So how about you deliver a message for me?",
+  "files": [
+   "gossip/22ee28d189fa3b49336e5fd6ae19e0a2"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6c8917b85406",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Finkle Einhorn",
+  "quest": null,
+  "en": "Whew... I need a smoke and the touch of a fine gnomish woman - not particularly in that order!\n\nI've been stuck inside the belly of that thing for months! What day is it anyway? Ah, nevermind. All that matters is that I'm finally out.\n\nWOOO HOOO!",
+  "files": [
+   "gossip/5f1f0e28e348cf72010f73f014cb9b70"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8dadfe1e3d08",
+  "zone": "other-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Finkle Einhorn",
+  "quest": null,
+  "en": "How?? Well, it's a long story.",
+  "files": [
+   "gossip/6e90d3077653ad699d905c6ebe2aaf4e"
+  ],
+  "uiMap": null
+ }
+]

@@ -1,0 +1,1108 @@
+[
+ {
+  "id": "d23f48d5e66e",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Gazlowe",
+  "quest": "Stolen Booty",
+  "en": "It's a relief to get all this stuff back, so thanks for your help, adventurer. You know, I could use a traveler like you to help out with my operation here. If you're ever looking for work, don't forget about how well Gazlowe pays for service!",
+  "files": [
+   "quests/888-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "0178eb6dd121",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gazrog",
+  "quest": "Stolen Silver",
+  "en": "You may have killed the raptors, but the silver they stole must be recovered! I have reports that the raptors have a large grouping of nests south of Ratchet, known as the Raptor Grounds. It is likely that they brought our stolen silver there.\n\nGo to this raptor haven and search for the stolen silver. When you find it, return it to me.",
+  "files": [
+   "quests/3281-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "2ad3eeefdf54",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gazrog",
+  "quest": "Stolen Silver",
+  "en": "Aha! So the raptors did hide the silver at their lair. It's hard to believe these beasts would have the desire for silver. Perhaps the stories of their intelligence are not as far from the mark as I thought!\n\nThank you, Adventurer. Take this as a reward for your service to us, and know that the guards of the crossroads owe their next month's pay to you.",
+  "files": [
+   "quests/3281-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "ee753b18eaad",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thork",
+  "quest": "Supplies for the Crossroads",
+  "en": "That attack on the caravan contained supplies we desperately needed.\n\nYou've been brave enough to take on the Razormane tribe so far, and I will ask you to do so again, but this time, I wonder if I could ask you to keep your eyes open for some of our lost supplies. You can probably find them throughout their camps, the quilboar getting fat off their dishonorable acts.\n\nThe people of the Crossroads would be in your debt.",
+  "files": [
+   "quests/5041-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "1602533c47aa",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thork",
+  "quest": "Supplies for the Crossroads",
+  "en": "Haha! Thank you, Adventurer! This will help us greatly. You're a boon to the Crossroads and to the Horde. If there is anything I can do for you, please, let me know.",
+  "files": [
+   "quests/5041-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "54778ff6fb16",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Ahanu",
+  "quest": "Tal the Wind Rider Master",
+  "en": "I have prepared leather goods for Jahan to sell at the Crossroads. Will you bring them to him?\n\nIf you have already been to the Crossroads and spoken to their wind rider master, then you can fly one of our Thunder Bluff wind riders back to him.\n\nTake the leather goods to Tal, our wind rider master in Thunder Bluff, and speak with him to arrange transport to the Crossroads.",
+  "files": [
+   "quests/6363-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "7721e15d0351",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tal",
+  "quest": "Tal the Wind Rider Master",
+  "en": "You need to take this to the Crossroads, eh? That's not a problem. If you've already been there and spoken to Devrak, then you can take one of my wind riders back to him.",
+  "files": [
+   "quests/6363-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "3b0a4750e01c",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Sergra Darkthorn",
+  "quest": "The Angry Scytheclaws",
+  "en": "Now, Adventurer, the hunt deepens. Now you must defeat your prey, and then find your way to its lair.\n\nHunt the sunscale raptors to the south. Slay them and remove the feathers they wear. Place the feathers on the scytheclaw nests southwest of the Stagnant Oasis. Show their brethren you do not fear them!",
+  "files": [
+   "quests/905-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "476215151f39",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Sergra Darkthorn",
+  "quest": "The Angry Scytheclaws",
+  "en": "So you've been to the nests and placed the feathers of your prey within them. That took a fair portion of courage, no doubt about it.\n\nDo you feel a little tougher, Adventurer? Because you look tougher now then when you first came here. I guess the Barrens is doing its job.",
+  "files": [
+   "quests/905-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "b0057cc0b299",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jorn Skyseer",
+  "quest": "The Ashenvale Hunt",
+  "en": "Your strength impresses me, adventurer. Your willingness to embrace the hunt gives me confidence that you could move on to bigger game... and bigger challenges.\n\nThe forests of Ashenvale represent a vast untamed wild that the Horde seeks to impose its own will upon, both politically and spiritually. If you seek to prove yourself in an unproven land, seek the guidance of Senani Thunderheart in Splintertree Post. The outpost is due north of the path leading from the Barrens.",
+  "files": [
+   "quests/6382-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "60c9084354ad",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Hamuul Runetotem",
+  "quest": "The Barrens Oases",
+  "en": "The druids of Thunder Bluff sense a strange power leaking into the Barrens, east of Mulgore.\n\nTonga Runetotem was sent to discover the source of this power, but we fear he will need aid.\n\nTravel to the Barrens and speak with Tonga. He will be at the Crossroads. To reach there, take the road east out of Bloodhoof village. Enter the Barrens, then turn north when the road forks. Continue north and you will find the Crossroads.\n\nAnd do not leave the road, Adventurer, for the Barrens is a harsh land.",
+  "files": [
+   "quests/886-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "22fd551c705b",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tonga Runetotem",
+  "quest": "The Barrens Oases",
+  "en": "My brethren in Thunder Bluff were wise to send you, young adventurer. For the mystery of the Barrens is one that I alone cannot unravel.\n\nWith your aid, let us hope we can find answers to our questions.",
+  "files": [
+   "quests/886-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "b984f72783cd",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Falfindel Waywarder",
+  "quest": "The Crone of the Kraul",
+  "en": "Poor Heralath! And this dwarf... Lonebrow. What a brave soul he was.\n\nWe must not let their valiance go for naught. This crone... Charlga Razorflank ... must be stopped.\n\nSurely, infiltrating the Kraul will be perilous. There isn't time to send word to Darnassus. adventurer, assemble a party to slay the crone.\n\nBring me Razorflank's Medallion as proof of demise.",
+  "files": [
+   "quests/1101-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "ee428aadc994",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Falfindel Waywarder",
+  "quest": "The Crone of the Kraul",
+  "en": "The crone has been laid to rest. This is fantastic news, Adventurer.\n\nIn these times of peril, it is refreshing to see one as brave as yourself.\n\nWith Razorflank's minions taken care of, our studies in the area can continue. Perhaps now we can gain further knowledge of exactly what happened to corrupt the resting place of Agamaggan.\n\nHowever, I fear the answer to that question lies in treachery as well...",
+  "files": [
+   "quests/1101-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "b6575f49e127",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ak'Zeloth",
+  "quest": "The Demon Seed",
+  "en": "Take a stone from the table, adventurer. You will need it for your quest.",
+  "files": [
+   "followup/1115-orc-male-shady"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "eaa976c8eca1",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ak'Zeloth",
+  "quest": "The Demon Seed",
+  "en": "The Demon Seed is a powerful tool for the Burning Legion. It rests in a cave on Dreadmist Peak, above a demonic altar of fire.\n\nI have prepared power stones that when placed near the Seed will disrupt its connection to the Legion.\n\nTake a stone from the table and bring it to the altar of fire atop Dreadmist Peak. Travel west, then north when the road forks. The Peak will be to your left. The safest climb to the top is on its northern face.\n\nAnd hurry--the stone's power will consume itself in time.",
+  "files": [
+   "quests/924-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "93feaae553df",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ak'Zeloth",
+  "quest": "The Demon Seed",
+  "en": "Your task is complete. You have destroyed the Demon Seed as Neeru bid. But this is not the end...\n\nThe destruction of the Demon Seed sent waves of power through the ether, waves of staggering force. I felt them, and I am sure other beings did as well. Others who will wonder why their toy was broken...\n\nBut regardless of future troubles, I have something for you. Neeru sent it as payment. And he bid me thank you.\n\nSo, thank you.",
+  "files": [
+   "quests/924-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "e30496df905e",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thork",
+  "quest": "The Disruption Ends",
+  "en": "One of my scouts witnessed an attack on a caravan from Durotar, Adventurer. The culprits are indeed the Razormane tribe of quilboars. One of the quilboars in particular is leading the raids: Kreenig Snarlsnout. He was seen northeast of here, just south of the road from Durotar. If the threat is to be ended, then Kreenig must die.\n\nTo be sure the attacks cease, though, I say we add insult to their injury. Kill Kreenig along with more of their tribe, and return to me when you have his tusk.",
+  "files": [
+   "quests/872-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "d430d190d2ea",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thork",
+  "quest": "The Disruption Ends",
+  "en": "Well done, Adventurer. With Kreenig's death, there will be a definite decline in the attacks on our caravans.\n\nYour people should be proud to count you among them.",
+  "files": [
+   "quests/872-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "cf9eca1dc6c3",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Sputtervalve",
+  "quest": "The Escape",
+  "en": "Hopefully we'll be able to get something of value from the wrecked shredder prototype... my time's running out! I'll dispatch a salvage team to Wizzlecrank's location on the double.\n\nOh, let me give you something for your trouble, too.",
+  "files": [
+   "quests/863-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "b2aff09e59a9",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wizzlecrank's Shredder",
+  "quest": "The Escape",
+  "en": "I suppose I'll learn as we go... Couldn't be too hard. Just some buttons here, and a lever or two... Well, are you ready to go?",
+  "files": [
+   "quests/863-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "3263ae53f69f",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tonga Runetotem",
+  "quest": "The Forgotten Pools",
+  "en": "Long ago, the Barrens was a lush place, teeming with life. But war and cataclysm raged across the land, scorching it and leaving a dry husk. Such is the way of things, and it saddens my heart.\n\nBut within the past few years, new oases have formed in the Barrens, and life stirs. And deep down, we druids sense a power leaking its way to the surface.\n\nWe must find its source. Travel to the Forgotten Pools, northwest of the Crossroads. Search its waters for a source of power, then return here.",
+  "files": [
+   "quests/870-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "404abab4b3a1",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tonga Runetotem",
+  "quest": "The Forgotten Pools",
+  "en": "You found a fissure in the earth, with gases bubbling from it? Strange. This may be an answer to our questions, but we cannot yet be sure.\n\nBut it is a clue. And I am grateful that you found it.",
+  "files": [
+   "quests/870-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "0db095c00614",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Falla Sagewind",
+  "quest": "The Glowing Shard",
+  "en": "Oh... I have never seen anything like this...",
+  "files": [
+   "quests/6981-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "0f68004e9b1a",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Glowing Shard",
+  "quest": "The Glowing Shard",
+  "en": "The shard is a brilliant green, and although solid, what looks like smoke swirls just below the surface. You can't help staring into the depths of the crystal; at the same time, you know there is something very disturbing about it.\n\nMaybe you should see if anyone in Ratchet can tell you more about this strange shard.",
+  "files": [
+   "quests/6981-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "5d1f8c5edcf9",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Captain Thalo'thas Brightsun",
+  "quest": "The Guns of Northwatch",
+  "en": "Yet another ship from my fleet has been lost to those overzealous humans at Northwatch Hold!\n\nThose bastards must be dealt with. Their paranoia has them in a state of frenzy. Trigger happy, reckless louts are shooting at anything in their sights.\n\nTravel south along the Merchant Coast to the Hold and lay siege to their forces. Bring me the medals of their soldiers as proof. And for the love of my fleet, slay Captain Fairmount and her overzealous cannoneers!",
+  "files": [
+   "quests/891-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "f6370b7c5eef",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Captain Thalo'thas Brightsun",
+  "quest": "The Guns of Northwatch",
+  "en": "Alas, the righteous Alliance guns have been silenced. You shall be rewarded for your aid, Adventurer.\n\nNow to tend to the grim task of recovering the bodies of the dead....",
+  "files": [
+   "quests/891-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "03185891a352",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Harvester's Head",
+  "quest": "The Harvester",
+  "en": "This strange, insect-like creature looks outside of the natural order, as though it does not belong in the Barrens.",
+  "files": [
+   "quests/897-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "362b4eb63d82",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jorn Skyseer",
+  "quest": "The Harvester",
+  "en": "I can tell nothing of the nature of this beast, for its spirit has fled. But as you guessed, it does not belong in the Barrens. I fear it may herald a grim future for our people...\n\nBut for now, prepare yourself, and let us hope that time unravels the mystery of this creature.",
+  "files": [
+   "quests/897-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "2f3b4b01f052",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Vrang Wildgore",
+  "quest": "The Hermit Tanner",
+  "en": "These hides are bound for a tanner who I often trade with. He is something of a hermit and he lives alone on the top of the ridge behind me. Climbing up a steep hillside isn't something I can manage easily right now so I'd be in your debt if you could make this delivery for me.\n\nOh, and about this tanner's... appearance. You need not be alarmed. In spite of his looks, he is no threat. I swear this is true.",
+  "files": [
+   "quests/95495-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "e7595e65a4ad",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Walton",
+  "quest": "The Hermit Tanner",
+  "en": "Vrang sent you then? Very well. I appreciate you delivering these hides to me. It's unfortunate that Vrang couldn't make the journey himself. There is a matter I wish to speak with him about.",
+  "files": [
+   "quests/95495-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "4067bedbf228",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Gazlowe",
+  "quest": "The Missing Shipment",
+  "en": "I've been waiting forever for my last shipment of goods from Booty Bay! I'm pretty sure that it must have been stolen by the Freebooters, but just to make sure, will you go down to the dockside and ask Dizzywig if my goods were already put into my warehouse without my knowledge?\n\nHere, take my ledger down to Dizzywig and have him double check my inventory records against his logs.",
+  "files": [
+   "quests/890-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "ae3a34717ac2",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Gazlowe",
+  "quest": "The Missing Shipment",
+  "en": "No dice, eh? I guess it must have been the Freebooters then... Dizzywig's on the level, I'm sure he wouldn't cheat me like that. After all, he is on the payroll.\n\nLooks like I've got some goods to get back, adventurer. What do you say?",
+  "files": [
+   "quests/892-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "8bc957c033b4",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wharfmaster Dizzywig",
+  "quest": "The Missing Shipment",
+  "en": "Ah, Gazlowe sent you, did he? Just a moment, let me take a look here and check my own logs and make sure I didn't have Gazlowe's shipment sent to the wrong place.\n\nBet he's waiting for those boots from Drizzlek...",
+  "files": [
+   "quests/890-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "3950cfded4bd",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wharfmaster Dizzywig",
+  "quest": "The Missing Shipment",
+  "en": "Everything looks square from my records, adventurer. Go on back and tell Gazlowe he's out of luck. I wouldn't be surprised if it was the pirates that nabbed his goodies.\n\nNothing else I can do for him. Oh... though you could tell him that I've got some things from Undermine for him, when he has the time to come pick them up.",
+  "files": [
+   "quests/892-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "d439755b16b9",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kadrak",
+  "quest": "The Runed Scroll",
+  "en": "Well now... Where did you find this?",
+  "files": [
+   "quests/3513-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "e529381d2946",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Runed Scroll",
+  "quest": "The Runed Scroll",
+  "en": "The official-looking scroll is wrapped tightly with a silvery ribbon. You're sure someone would be interested in seeing this, but who?\n\nThere is an outpost close to the Ashenvale border to the north, and if the information on this scroll involves the night elves, this would be the place to take it.",
+  "files": [
+   "quests/3513-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "3e1bc44a6cab",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tonga Runetotem",
+  "quest": "The Stagnant Oasis",
+  "en": "Like the one you found at the Forgotten Pools, there may be fissures at the other oases in the Barrens. If so, then perhaps the fissures are the oases' source of life.\n\nWe must test this.\n\nHere, take these seeds. They are dead and infertile, but take them to the Stagnant Oasis to the southeast. If there is a fissure there, then place the seeds within it...and observe.",
+  "files": [
+   "quests/877-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "4f3dce8b4fbe",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tonga Runetotem",
+  "quest": "The Stagnant Oasis",
+  "en": "Your findings are amazing! The seeds I gave you were dried, and dead. Whatever rests under these oases can create life from nothing!\n\nWe must study this more...",
+  "files": [
+   "quests/877-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "5db49b3b7df2",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Belgrom Rockmaul",
+  "quest": "The Swarm Grows",
+  "en": "Ah, a note from Korran. He has been a loyal servant for some time now. I was wondering how his duties were going in the Crossroads.",
+  "files": [
+   "quests/1145-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "2f242cb48050",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Korran",
+  "quest": "The Swarm Grows",
+  "en": "Many travelers who've come through the Crossroads helped me gather eggs from the Field of Giants, and many of them have tales of how deadly the creatures are. I've heard enough to consider them insects a much larger threat than my masters first thought.\n\nI need a courier to travel to Orgrimmar to meet Belgrom Rockmaul. It be no simple matter, and someone who would take the task seriously should go.\n\nBelgrom usually be found outside the warriors' guild house.",
+  "files": [
+   "quests/1145-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "5305a1067d73",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Feegly the Exiled",
+  "quest": "The Tear of the Moons",
+  "en": "The power of the Tear of the Moons is mine! Mine I say!",
+  "files": [
+   "followup/1026-dwarf-male-grim"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "307b4bd20fe7",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Feegly the Exiled",
+  "quest": "The Tear of the Moons",
+  "en": "Power! Glorious power!",
+  "files": [
+   "followup/1028-dwarf-male-grim"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "a5a3b29252d8",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Feegly the Exiled",
+  "quest": "The Tear of the Moons",
+  "en": "The power was mine! In my very hands! And I want it back! Back I say!\n\nThose dirty excavators uncovered it... so beautiful it was. Deemed the Tear of the Moons, it was the first great discovery we made at Bael Modan.\n\nIt should have been mine! Mine I say!\n\nGeneral Twinbraid grew jealous of the power it gave me. He locked it away in the Keep. Called it cursed, he did! The fool!\n\nOthers wanted it and they had to be stopped! That bastard Twinbraid drove me off.\n\nNow I want it back. Back I say!",
+  "files": [
+   "quests/857-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "16507fdf1c12",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Feegly the Exiled",
+  "quest": "The Tear of the Moons",
+  "en": "At last, the power is mine again! Mine I say!",
+  "files": [
+   "quests/857-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "e94681987637",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kadrak",
+  "quest": "The Warsong Reports",
+  "en": "I recently deployed a few scouts into Ashenvale and I need a runner to take them their orders, and bring me back a report of what they have observed.\n\nYour first stop should be the Zoram'gar Outpost, along the coast to the west, at the Zoram Strand, to locate the first runner. You also need to stop at Splintertree Post, to the north, and along the road to the east, near Azshara. You will find a scout and an outrider there.\n\nGive them each a report, and from them, get an update on their findings.",
+  "files": [
+   "quests/6543-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "a3397308bf19",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kadrak",
+  "quest": "The Warsong Reports",
+  "en": "I can see that you are one that can be counted on. These updates are crucial to our plans to further our presence in Ashenvale. We can now plan our next move.",
+  "files": [
+   "quests/6543-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "04006408ca5b",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Sergra Darkthorn",
+  "quest": "The Zhevra",
+  "en": "The zhevra, although not the fiercest beast in the Barrens, are a shade tougher than the plainstriders. Don't worry -- we'll send you against bigger prey in good time, but for now your teeth could use a little more cutting.\n\nHunt the zhevra to the north and south, and collect their hooves. Bring them to me and perhaps we'll next send you against something tougher.",
+  "files": [
+   "quests/845-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "aacf684510f4",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Sergra Darkthorn",
+  "quest": "The Zhevra",
+  "en": "Not bad, Adventurer. Those zhevra hold a lot of strength in their legs. A sharp kick from them can knock even a tauren on its haunches!\n\nIt looks like you have some strength in you too. Are you ready for a real challenge?",
+  "files": [
+   "quests/845-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "6ebfbf511427",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Crane Operator Bigglefuzz",
+  "quest": "Trouble at the Docks",
+  "en": "Oops!\n\nHad a little mishap, as you can see! The morning cargo shipment from Booty Bay was huge. Huge I say! Never seen so many crates. Well, I was trying to expedite things so I started unloading a bit more than I could handle. That's when everything came tumbling down.\n\nBefore I knew what was going on, I saw that menace, Mad Magglish, go running off with a bottle of 99-year-old port. Chased him all the way to Wailing Caverns. No way I was going in there.\n\nMaybe you're brave enough to find him?",
+  "files": [
+   "quests/959-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "3e0f6a6cee6d",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Crane Operator Bigglefuzz",
+  "quest": "Trouble at the Docks",
+  "en": "Superb! And just as I was about to lose my job too! I will see to it that Gazlowe gets this gift immediately.\n\nThank you, adventurer. Nicely done, I say!",
+  "files": [
+   "quests/959-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "b92b02fe64ad",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Walton",
+  "quest": "Trouble in the Valley",
+  "en": "This morning I spotted a group of humans searching for something in the valley below. I managed to use my rifle's scope for a better look, and it was clear that they were soldiers sporting the livery of Kul Tiras.\n\nIf you'd be willing to take work from me, travel to where these soldiers made camp near the wrecked caravan to the south. Kill any you find and try to learn why they are here.",
+  "files": [
+   "quests/95621-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "642766d2cd20",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Walton",
+  "quest": "Trouble in the Valley",
+  "en": "So they are looking for a deserter... Well, it seems that the past has finally caught up to me.",
+  "files": [
+   "quests/95621-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "4e8088f64f4c",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Walton",
+  "quest": "Unwelcome Guests",
+  "en": "Yes, I used to be a member of the Kul Tiras navy. After Lord Admiral took Theramore and started his campaign in Durotar, I had... \"objections\" to his methods. Particularly the methods involving executing civilians.\n\nThere's more to the story but... wait... what's that?\n\nThere's a group of men coming up the ridge!",
+  "files": [
+   "quests/95508-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "5f5923121ae8",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Walton",
+  "quest": "Unwelcome Guests",
+  "en": "Well, looks like we are all alive. I... knew that someday that would catch up to me. I'm in your debt for your help here today.\n\nPlease, take this. It's not much, but its the least I can do.\n\nSafe travels, adventurer.",
+  "files": [
+   "quests/95508-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "be5046dc13cd",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathstalker Masoj",
+  "quest": "Valuable Vantages",
+  "en": "Our high command inserts strategic troops using bat riders. Key points around the foothills have lost their signaling beacons.\n\nTake these vials. Uncork them in three locations: the hills bordering Dun Garok, the plateau overlooking Dunholde Keep, and the last on the ridge of the Headland above the town of Hillsbrad. The vapors that emanate will be like a potent tuning rod to the senses of the bat, drawing them to the desired drop-off points once more.\n\nLook for crushed empty vials and renew our marks.",
+  "files": [
+   "quests/98095-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "d874f6be58a6",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathstalker Masoj",
+  "quest": "Valuable Vantages",
+  "en": "Good work. We advance the plans.\n\nDeathstalkers dare.\n\nLet purpose guide your strikes, Adventurer.",
+  "files": [
+   "quests/98095-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "f3441b7630ad",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Regthar Deathgate",
+  "quest": "Verog the Dervish",
+  "en": "The centaur Verog the Dervish wanders the Barrens, and will be difficult to find. But he is based at the centaur command tent at the Stagnant Oasis to the southeast. It may be possible to draw him to you.\n\nTravel to the Stagnant Oasis to the southeast and attack centaur near the command tent. It will be dangerous, but if you can kill enough centaur then they should raise an alarm. And Verog will come.\n\nBring me his head and I will place it with Barak Kodobane's.",
+  "files": [
+   "quests/851-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "de1bf3f0cbbc",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Regthar Deathgate",
+  "quest": "Verog the Dervish",
+  "en": "Very good. You must have really stirred up those centaur -- our guards spotted activity down near the Stagnant Oasis, which was probably you.\n\nYou should be proud of your deed, Adventurer. There is much bravery in you.",
+  "files": [
+   "quests/851-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "773311a0b55a",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Vrang Wildgore",
+  "quest": "Vrang's Game",
+  "en": "While you are out there, it would be of great help to me if you could check on my traps for me. I've got them strewn all over the valley.\n\nBring back any small game that I've caught. Keep your eye out for the other wildlife, though. This area can be dangerous if you aren't paying attention.",
+  "files": [
+   "quests/95507-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "91f4dd070ac1",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Vrang Wildgore",
+  "quest": "Vrang's Game",
+  "en": "Thank you for your aid, adventurer. I was starting to wonder if I'd have to go to bed hungry tonight because this cursed wound on my leg.",
+  "files": [
+   "quests/95507-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "13b754d4bf8b",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Gazlowe",
+  "quest": "WANTED: Baron Longshore",
+  "en": "Ahhhh! That sort of business. You know, I saw the Heedless once on the open seas. Fearsome ship, or was that boat... those sailors are so particular!\n\nAnyways, watching her glide across the water was quite a sight to see. I'm glad her infamous captain will trouble my ships no longer.",
+  "files": [
+   "quests/895-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "cd5509d18bb9",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "WANTED",
+  "quest": "WANTED: Baron Longshore",
+  "en": "WANTED!\n\nBaron Longshore, Captain of the Heedless\n\nCaptain Longshore of Gilneas leads vessels of the Southsea Freebooters, and is wanted on charges of piracy. Remains must be in identifiable condition!\n\n-- Gazlowe",
+  "files": [
+   "quests/895-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "95a6fcaa579b",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Gazlowe",
+  "quest": "WANTED: Bruuz",
+  "en": "Finally, somebody killed that thing! Do you know how hard it is to get a crew in the water when everyone in town's crying \"Shark!\"all the time?\n\nI might just put that monster's fin into a soup for dinner tonight, just to have the last laugh.",
+  "files": [
+   "quests/92706-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "14945311e39f",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "WANTED",
+  "quest": "WANTED: Bruuz",
+  "en": "Calling all anglers!\n\nA giant shark has been circling the waters near the shipping dock, attacking sailors and small boats. Dockworkers have given it the nickname \"Bruuz\". A hefty reward will be given to whoever brings me its fin!\n\n-- Gazlowe",
+  "files": [
+   "quests/92706-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "73c56385551a",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Jorn Skyseer",
+  "quest": "Washte Pawne",
+  "en": "The thunderhawk is a rare beast of the Barrens, and its death can portend great fortune, or great doom.\n\nBut Washte Pawne, called \"Spirit Biter\" in Taurahe, can bring neither... or both.\n\nThe pain you felt from hunting Spirit Biter is the pang all feel who make great gains at great costs. The sting you felt is the pain of regret.\n\nBut I can see you have conquered this. You have learned that regret turns to wisdom, and that through pain one gains strength.\n\nYou have learned much, Adventurer.",
+  "files": [
+   "quests/885-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "da2a17351b2d",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Washte Pawne's Feather",
+  "quest": "Washte Pawne",
+  "en": "The feather of Washte Pawne is painful to the touch.",
+  "files": [
+   "quests/885-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "982f4ef39005",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Tatternack Steelforge",
+  "quest": "Weapons of Choice",
+  "en": "The Razormane quilboars to the south, beyond the Field of Giants, have no skilled blacksmiths from what I am told, but they've apparently started to develop sturdier weapons. I'd like to get my hands on a few different types to learn their techniques if possible.\n\nIf you wish to help bring honor to the Horde, then bring me examples of their weapons. Find me a dagger from their stalkers, a wand from their seers, and a shield from their warfrenzy. That should do nicely!",
+  "files": [
+   "quests/893-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "a3523b33e8b6",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Tatternack Steelforge",
+  "quest": "Weapons of Choice",
+  "en": "Excellent, excellent specimens indeed.\n\nThe quilboar are further along than I had expected.\n\nHere, adventurer, take this and get out of my way. I'd better take a closer look at these weapons. We may have underestimated our enemy, and that's the kind of mistake we can't afford to make.",
+  "files": [
+   "quests/893-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "95d891c86bfc",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Sputtervalve",
+  "quest": "Wenikee Boltbucket",
+  "en": "I think I might have broken that Samophlange. That's not good, because I already told some colleagues in Undermine about it and they were very intrigued. We must find a way to fix it!\n\nTake the broken samophlange to Wenikee Boltbucket, just south of Mor'shan Rampart, the horde outpost between the Barrens and Ashenvale. She is very clever and inquisitive. If you show her the samophlange I bet she'd jump at the chance to fix it.",
+  "files": [
+   "quests/3921-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "e84bd6c2ee32",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Wenikee Boltbucket",
+  "quest": "Wenikee Boltbucket",
+  "en": "Oh, what's this? A samophlange, you say? What's a samophlange??\n\nAh... but look at the way it moves when you handle it. And there's the sound of intricate gears inside. Oh my! I want to fix it and see what it does, don't you??",
+  "files": [
+   "quests/3921-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "dde5c5c8d86d",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Helbrim",
+  "quest": "Wharfmaster Dizzywig",
+  "en": "I have need to send a crate of potions, reagents and other items to my associates in the Old World. Little time I have to actually see them to the dock at Ratchet, and the last caravan has already left.\n\nIf you could, please take this to Wharfmaster Dizzywig. He will ensure that it is placed on the next boat to Blackwater Cove.",
+  "files": [
+   "quests/1492-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "79edf47659c3",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wharfmaster Dizzywig",
+  "quest": "Wharfmaster Dizzywig",
+  "en": "A small enough crate. Yes, I should be able to find room for this aboard the ship. It sails with the next tide, I trust this is soon enough? Excellent. Let me just enter it into my ledger.\n\nAll taken care of! Good day to you, adventurer.",
+  "files": [
+   "quests/1492-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "0a648f47ac2d",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Willix the Importer",
+  "quest": "Willix the Importer",
+  "en": "At last, help has arrived!\n\nYou have no clue how long I've been held prisoner here. I can't remember the last time I saw the outside of this place.\n\nYou see, I am an entrepreneur. Always out for a copper, as they say. I caught wind that Mebok Mizzyrix was paying well for Redleaf Tuber from this here pig pen. I figured it would be an easy in, easy out kind of affair. As you can see, I was a bit wrong!\n\nAnyway, if you'd be so kind as to help me get out of here, I'll make it worth your while.",
+  "files": [
+   "quests/1144-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "a7930857e5c7",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Willix the Importer",
+  "quest": "Willix the Importer",
+  "en": "Thanks again, friend! I told you I'd make it worth your while.",
+  "files": [
+   "quests/1144-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "f90ae6dbfd58",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Grunt Logmar",
+  "quest": "Wrongly Blamed, Justly Corrected",
+  "en": "Traveler, have you plans to head toward Dustwallow Marsh? I have heard mutterings that a few human soldiers have taken a stand at its border and are toppling the landmarks left behind by our tauren pathfinders.\n\nRumor has it that a favored tavern has burned to the ground, and in typical Alliance fashion, they immediately cast their blame onto the Horde! I cannot know whether there is any truth to their claim, but their incursion onto OUR land must not stand.\n\nKill first, investigate later!",
+  "files": [
+   "quests/97250-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "7556038e10ae",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Grunt Logmar",
+  "quest": "Wrongly Blamed, Justly Corrected",
+  "en": "So the rumors were true! I expected as much, tensions have been rising along the eastern coast for some time. I knew it would only be a matter of time before conflict crept into our territory.\n\nHowever, I am skeptical that we played a role in the tavern's destruction. Too many Horde civilians rely on that route for trade and travel. Perhaps you could investigate further if you find the time.\n\nIn any case, today's deed is a victory for the Horde, and a stern warning to the Alliance!",
+  "files": [
+   "quests/97250-complete"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "229e077fb46c",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Sputtervalve",
+  "quest": "Ziz Fizziks",
+  "en": "The Venture Company stole many of the best goblin minds, but from time to time, we get the opportunity to steal some back.\n\nA while ago, the Venture Company outfit in the Stonetalon Mountains hired Gerenzo Wrenchwhistle--a gnome! Their other engineer, Ziz Fizziks, was so taken aback by this, he pleaded with me to find him new employment with the Tinkers' Union. I set him on a few tasks, but he might need help.\n\nMaybe you could look in on him for me? He's stationed at the western edge of Windshear Crag.",
+  "files": [
+   "quests/1483-accept"
+  ],
+  "uiMap": 1413
+ },
+ {
+  "id": "d47bc56a36ff",
+  "zone": "the-barrens-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Ziz Fizziks",
+  "quest": "Ziz Fizziks",
+  "en": "I thought those Venture Company higher-ups were slave drivers, but then I met Sputtervalve, the cruelest of them all!\n\nHa! Though it's better than being out of a job, I suppose... Or worse, working with that Gerenzo. If you're here to help, I've got something for you to do.",
+  "files": [
+   "quests/1483-complete"
+  ],
+  "uiMap": 1413
+ }
+]

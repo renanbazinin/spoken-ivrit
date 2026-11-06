@@ -1,0 +1,296 @@
+[
+ {
+  "id": "00aad3d42c82",
+  "zone": "loch-modan-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Brock Stoneseeker",
+  "quest": null,
+  "en": "The best miner has a firm grip on his pick, a stout heart in his chest, and thick, black dust in his hair.",
+  "files": [
+   "gossip/m-8b98ed3895e46abfab305a7b3fe85366"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "f4560a886ff8",
+  "zone": "loch-modan-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Claude Erksine",
+  "quest": null,
+  "en": "Ah friend, I only help hunters and their pets.",
+  "files": [
+   "gossip/043d1db9fcbabde933fe81bd22b51be2"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "a6d69a94fc6d",
+  "zone": "loch-modan-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Claude Erksine",
+  "quest": null,
+  "en": "You've come for training in order to pass it on to your pets?",
+  "files": [
+   "gossip/1566d430b06beb690f54132cef76af32"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "030c7bb18bb5",
+  "zone": "loch-modan-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Deek Fizzlebizz",
+  "quest": null,
+  "en": "Your current aptitude exceeds my instructional capabilities. You should enquire further with my fellow Gnome Trixie Quickswitch in Ironforge!",
+  "files": [
+   "gossip/880b2c6f5cafdcebe50a0e9724a61989"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "f44336344c19",
+  "zone": "loch-modan-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Deek Fizzlebizz",
+  "quest": null,
+  "en": "I would be delighted to aid you in the commencement of your pursuit! Let me grab my spinner and we'll get started...",
+  "files": [
+   "gossip/f0c3fcd8e5d2ce42560cdd3636e4af9e"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "0f5acd7f0375",
+  "zone": "loch-modan-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Deek Fizzlebizz",
+  "quest": null,
+  "en": "Where's my spinner? I just had it here somewhere...",
+  "files": [
+   "gossip/ff094e8310f036af29e617cb2745e696"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "2945ecf37695",
+  "zone": "loch-modan-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ghak Healtouch",
+  "quest": null,
+  "en": "I don't suppose you're here to talk about my lovely Kali. Fine, then. Potions it is. Anyone ever tell ye you've got a one-track mind?",
+  "files": [
+   "gossip/888d5259091b04afd7e726170db3465b"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "7931f7bfa246",
+  "zone": "loch-modan-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ghak Healtouch",
+  "quest": null,
+  "en": "Ye're beyond my skill to teach, adventurer. Go pester Tally Berryfizz; she's a gnome living in Tinker Town of Ironforge. Oh, and since you're headed up anyway, give Kali my love.",
+  "files": [
+   "gossip/921a3d184477e407e62200c891fd94f3"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "fe9e6dc89fab",
+  "zone": "loch-modan-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ghak Healtouch",
+  "quest": null,
+  "en": "Did my sweet lass Kali send you down to me? The apple of my eye, she is.",
+  "files": [
+   "gossip/ec7c4633bc5f4374a2102940fcd7c5fe"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "2a1a966eee57",
+  "zone": "loch-modan-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Huldar",
+  "quest": null,
+  "en": "Delivering these barrels to the excavation site is hard work, but there are so many depending on us to get the blast powder there.\n\nWe must do what we can against the Dark Irons!",
+  "files": [
+   "gossip/65d84d1a977f1466a206d43dfb49680f"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "0c761af96357",
+  "zone": "loch-modan-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Jern Hornhelm",
+  "quest": null,
+  "en": "You know, I always wanted to be a Prospector, but I was born with a head for numbers and the Guild decided I would be best suited to keep the books! Studying, studying, every day of my youth...",
+  "files": [
+   "gossip/2224ccf915581b20ff86f4df54a1c6e3"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "e66733c0fc82",
+  "zone": "loch-modan-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Bluntnose",
+  "quest": null,
+  "en": "Well hello there, citizen. The name's Bluntnose, Magistrate Bluntnose, to be precise. I'm charged with overseeing the well-being of Thelsamar, and believe you me, we could always use another strong set of arms around here!",
+  "files": [
+   "gossip/1603eccbffa38c44d4f3bf8a2cfcd29e"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "92714fc6a07c",
+  "zone": "loch-modan-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Marek Ironheart",
+  "quest": null,
+  "en": "You've become quite the hunter, adventurer! Not only have you proven your skills, you also bested Daryl, which gets you extra points in my book!\n\nYou're welcome here any time.",
+  "files": [
+   "gossip/f5c3b81ff7aa2cea4c40a37dadb0f053"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "7330dfbd8459",
+  "zone": "loch-modan-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Marek Ironheart",
+  "quest": null,
+  "en": "Here at the Farstrider lodge, we prize hunting skills above all else. Wish to gain my approval? You'll have to earn it.\n\nYou look up to the challenge, lad!",
+  "files": [
+   "gossip/m-b9a009c23ae18be4d2beb4d5b487dd08"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "2429515a5f01",
+  "zone": "loch-modan-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Kadrell",
+  "quest": null,
+  "en": "Hello, adventurer. Welcome to Thelsamar, and while you're here don't forget to visit our local brewery!",
+  "files": [
+   "gossip/185744ecb6ab01130a75f717debfc573"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "3698c1a7b432",
+  "zone": "loch-modan-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Kadrell",
+  "quest": null,
+  "en": "Welcome to Thelsamar, your home away from home in Loch Modan!\n\nThelsamar is a nice place, but it's not all beer and salted meat for those who answer the call to duty! If you're willing to face danger in the name of the Alliance, then read the poster outside the Thelsamar branch of the Explorers' League.",
+  "files": [
+   "gossip/84a74f16eb6fad3d9b9ac64cef383cac"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "d1a8ac032764",
+  "zone": "loch-modan-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Stormpike",
+  "quest": null,
+  "en": "Well, if it isn't a young, bristling adventurer, no doubt drawn here by talk of my exploits in fields of battle!\n\nNo time for stories now, for there are great, important deeds that need doing! So if you're looking for glory, then luck shines on you today...",
+  "files": [
+   "gossip/00b3b47131e9a134bb4efc84fb347fae"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "8db30218b977",
+  "zone": "loch-modan-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Ironband",
+  "quest": null,
+  "en": "Although we're trudging through a slow period at these ruins, I'm confident it won't last long. But in the meantime, I could use someone like you. Would you like to aid the Dwarven Explorers' Guild?",
+  "files": [
+   "gossip/e14b1eee986793dffd591b7baff79d65"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "d35e315ff973",
+  "zone": "loch-modan-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thorgrum Borrelson",
+  "quest": null,
+  "en": "Mark my words! You won't find faster gryphons anywhere in the Eastern Kingdoms than the ones right here in Thelsamar!",
+  "files": [
+   "gossip/d8898d865fab410aca206ba2a1411338"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "4c1ddcd2bb71",
+  "zone": "loch-modan-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Vyrin Swiftwind",
+  "quest": null,
+  "en": "Get that head and it's sure to give Daryl a fright. Not that he doesn't deserve it, the bloody arrogant bastard. But ha! I can't wait to see the look on his face when you show it to him.",
+  "files": [
+   "gossip/675474e0619645670f8ac5fe9a9fadbf"
+  ],
+  "uiMap": 1432
+ },
+ {
+  "id": "2b939a3bf640",
+  "zone": "loch-modan-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Vyrin Swiftwind",
+  "quest": null,
+  "en": "Welcome to the Farstrider Lodge, Adventurer!",
+  "files": [
+   "gossip/acbe16ea3d149deb13ccd9048db985c9"
+  ],
+  "uiMap": 1432
+ }
+]

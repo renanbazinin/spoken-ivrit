@@ -1,0 +1,2802 @@
+[
+ {
+  "id": "050030fef0ac",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Argent Dawn Initiate",
+  "quest": null,
+  "en": "The first steps of our fight against the Scourge go well. We have had some successes, and hopefully my assistance can aid you in bringing future success to the battle.",
+  "files": [
+   "gossip/0973188afdf5745ee7a53c42da926c63"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "d47a6f8d238c",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Argent Dawn Initiate",
+  "quest": null,
+  "en": "The battle goes well. The Scourge forces seem weakened. I believe it will only be a matter of time before we drive them from our shores. I will turn my magics to you, to aid in this struggle.",
+  "files": [
+   "gossip/4d4e9052d3c36392e6211cb442ea3b1e"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "eeaa7a3eded7",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Argent Dawn Initiate",
+  "quest": null,
+  "en": "The battle is won. For the time being, the Scourge threat has been pushed back. Our resources can be channeled into aiding you, in thanks and preparation for the future.",
+  "files": [
+   "gossip/ebde1b78097e360ae80271b45ac8ec9b"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "6b448ad06e36",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Arnok",
+  "quest": null,
+  "en": "I am an orc of medicine, traveler. If you have come here to learn, I shall do my best to teach.",
+  "files": [
+   "gossip/8e7239601de1c8f6d5c6553a819d76ab"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "79bc352ba4a2",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Belgrom Rockmaul",
+  "quest": null,
+  "en": "The days grow long, and still no end to the conflicts of these lands can be seen. It takes no spell caster to know that much. Take up a blade while you can, adventurer. War can come to our doors at any time, and if I'm not mistaken, you look to be one who revels in it.",
+  "files": [
+   "gossip/74be06b90b3afba138bbbe44aad5dc8a"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "5a7245d74341",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Borgosh Corebender",
+  "quest": null,
+  "en": "Hail, adventurer!",
+  "files": [
+   "gossip/fd41c7dea4e93768079bd2529e97c608"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "0070c612deac",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Brakgul Deathbringer",
+  "quest": null,
+  "en": "Throm'ka adventurer! Are you ready to fight for the Horde at Warsong Gulch?",
+  "files": [
+   "gossip/5987c628587039b5c0dac5e0a629f7c6"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "f24a6e861513",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Cazul",
+  "quest": null,
+  "en": "I am crippled by age, and blinded by things I would rather not discuss. Surely an old orc like me has no business with you, adventurer.",
+  "files": [
+   "gossip/0a94f2885b2a49ea9c78ac7aa069fb90"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "f73da0d752ee",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Cazul",
+  "quest": null,
+  "en": "Few have the ambition to seek true power. Fewer still have the resolve to do what is necessary to claim it. Power belongs to those who are willing to pay its price, adventurer.",
+  "files": [
+   "gossip/f6b2e3463ce17071d26f211344b68327"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "ecc8bf380c9e",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Commander Stronghammer",
+  "quest": null,
+  "en": "We are united in cause, traveler. An ancient evil threatens to extinguish all life on Kalimdor and consume the world with its depravity... Its hatred of all things born of the great Shapers: The eternal Titans.\n\nWe are the first and the last lines of defense against the armies of C'Thun. If we do not rise up and strike at our enemy, our enemy will surely destroy us.\n\nThe war effort needs you!",
+  "files": [
+   "gossip/ea8c9e4b80c9fb807cffa1aa88bd86b7"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "a39f05aff853",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Commander Stronghammer",
+  "quest": null,
+  "en": "Greetings, traveler adventurer. I am Commander Stronghammer, the ambassador representing the Alliance here. If you have any questions concerning the status of Alliance collections for the Ahn'Qiraj war effort, lad, don't hesitate to ask.",
+  "files": [
+   "gossip/m-f07f5e6d40044eae745e47cfd0b2ac14"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "3c888b40fd08",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Defilers Emissary",
+  "quest": null,
+  "en": "Our need for assistance in Arathi Basin is greater than one might imagine, adventurer. So too is the honor and reputation one might acquire there in this time of need, however. I implore you to seek out the Arathi Basin battlemaster in this city.",
+  "files": [
+   "gossip/36449905f0bb8e68d581301b2d6574fb"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "01388b311155",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Defilers Emissary",
+  "quest": null,
+  "en": "You are not yet powerful enough, adventurer. Move along.",
+  "files": [
+   "gossip/4976af9b251b6de3b310c96fc5968bd8"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "625f5a3d2de8",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deze Snowbane",
+  "quest": null,
+  "en": "I am sorry adventurer, but you need to be more powerful before I can allow you to enter Arathi Basin.",
+  "files": [
+   "gossip/1bd3c817720e43bbc720fa8704b7cdfe"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "e2fdf978e937",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deze Snowbane",
+  "quest": null,
+  "en": "The humans and their so-called League of Arathor think to push us out of Arathi Basin. I think not adventurer! Are you ready to be sent there and demonstrate that it is they, and not The Defilers, that will be leaving soon?",
+  "files": [
+   "gossip/a5e0148cc17209a693ca01b5dc0f9844"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "d43c30823b91",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Doras",
+  "quest": null,
+  "en": "You haven't lived until you've looked down on the world from the back of a wind rider.",
+  "files": [
+   "gossip/f7834eaebb9cc6ecebe0cae418cf5f59"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "61c73bda39ce",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Dran Droffers",
+  "quest": null,
+  "en": "My name is Dran Droffers, and this over here is my dummy son Malton. If you need salvage, or are looking to sell salvage, then we're who you need to be talking to!",
+  "files": [
+   "gossip/25be4228a28d4417541a04c7aff0d0e6"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "8b892689a0c3",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Eitrigg",
+  "quest": null,
+  "en": "Rend, son of Blackhand: Impotent chieftain of the Blackrock clan. A more stubborn bastard does not exist.\n\nAt the end of the second War, Rend and his brother, Maim, fled to find sanctuary within the mountainous stronghold of Blackrock Spire. It was there that Rend declared himself Warchief of the weakened Blackrock clan.",
+  "files": [
+   "gossip/135df692a98ed33e9a1d293d6f787ec3"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "1413800e6e39",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Eitrigg",
+  "quest": null,
+  "en": "I left. I would not remain with the Blackrock. No, the deaths of my children would not be in vain. I would not serve under an inept, power hungry maniac such as Rend.\n\nI took shelter in the woods of Lordaeron, living as a hermit near Hearthglen.",
+  "files": [
+   "gossip/1d803963294928c2845b06bc6528c6a8"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "74f1a24b37f2",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Eitrigg",
+  "quest": null,
+  "en": "Yes, young one, you need not convince me of such things, the Warchief and I have much history. Your dedication, however, is noted.\n\nAs I was saying, Rend had found a new home for his people, and I was among those who would wearily follow.\n\nFrom one conflict arose others... countless others. It was in those battles for Blackrock Spire between the Blackrock clan and the Dark Iron dwarves that my sons were both slain. It was then that I realized my time among the Blackrock clan had come to an end.",
+  "files": [
+   "gossip/1f202d29690acd4df3f48c1e0c19c225"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "b5932b0cd0ac",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Eitrigg",
+  "quest": null,
+  "en": "Indeed. Nefarian, brood of Deathwing, rules the Spire now. Rend is under the command of the dragon.\n\nIf only you could somehow manage to pass through the Halls of Ascension.\n\n\nAlas, only those deemed worthy by the black flight earn privilege to ascend.",
+  "files": [
+   "gossip/4351f340dd37cf3042c3470df13089b3"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "a57abedfe8da",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Eitrigg",
+  "quest": null,
+  "en": "I'm certain you will. Perhaps one day you could deliver a message to an old friend of mine. I hear he still wanders those woods.\n\n\nSo Rend, yes... Rend and his brother Maim ruled the Spire, in constant conflict with the Dark Iron dwarves. They managed to displace the dwarves in the upper portion of the city, but only after the dragons came and only after the death of Maim.",
+  "files": [
+   "gossip/6c5944288c88bc17770c52dcfebe4503"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "329e581e20fd",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Eitrigg",
+  "quest": null,
+  "en": "Perhaps. Go now, young one. Seek council with the Warchief. He will surely wish to know of your discovery.",
+  "files": [
+   "gossip/6e2fb94314a29ef6b19356b5b26a6a8e"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "1005a31dd6e0",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Eitrigg",
+  "quest": null,
+  "en": "Greetings, young adventurer.",
+  "files": [
+   "gossip/7c980a9713ee9148bd335d78781ea63e"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "b4e47d83d23c",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Eitrigg",
+  "quest": null,
+  "en": "Young one, the world has not always been in such disarray. It was a time before the Scourge had sacked the land. Before those parts of Lordaeron were known as the Plaguelands.\n\nIt was there that Thrall rescued me from death and it was then that I joined the new Horde... but I digress. This is a story for another time. Yes, another time... Perhaps...",
+  "files": [
+   "gossip/d1d468798ae21889e9e8e4d685954dd3"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "8275da20922c",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Darkhorn",
+  "quest": null,
+  "en": "Elder Darkcore can be found in the Undercity.",
+  "files": [
+   "gossip/1edb23ae696280b43d7c1f2583a94ebe"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "48087bc9e1b4",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Darkhorn",
+  "quest": null,
+  "en": "Elder Ironband lives in Blackchar Cave in Searing Gorge.",
+  "files": [
+   "gossip/389fa83afd42cd3ff798e777d0a76129"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "87818152a6db",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Festival Talespinner",
+  "quest": null,
+  "en": "Enjoying the festival, adventurer?\n\nWhile the Flamekeeper tends to the fires of the present, I am more of a historian, keeping close the festivals past. I'm also, of course, documenting this year's festivities. Things are going well thus far, don't you think?\n\nYou know, adventurer, there is power inherent in all festival fires burning throughout the holiday. We're taking care of ours, but I'm certain there are sacred flames burning deep within our enemy's cities...",
+  "files": [
+   "gossip/0b4060988eee47f0f6a9f5aadfb007a3"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "fc6d28f823bc",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gest",
+  "quest": null,
+  "en": "I got something for you, adventurer. Looks important.",
+  "files": [
+   "gossip/be71e303387ffea0be60a35c3c78e8d3"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "b573603f448c",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Godan",
+  "quest": null,
+  "en": "Well done! You have that spark in your eye... I know it well, it's the same spark I had when I was but a pup! Now, let's see if I can't teach you something.",
+  "files": [
+   "gossip/0535431e80accd3492c256c1ceb98fe1"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "a5c6af4e79a6",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Godan",
+  "quest": null,
+  "en": "Some adventurers think enchanting doesn't work. I find that when I challenge them to battle they change their tune!",
+  "files": [
+   "gossip/3c96e38d8275bcb879a7e7eb43dca519"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "5267d6afead2",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Godan",
+  "quest": null,
+  "en": "Your skills are out of my league, stranger.Talk to Hgarth at the Sun Rock Retreat in the Stonetalon Mountains. He will provide you with more knowledge than I can.",
+  "files": [
+   "gossip/b763ebb2808596a973203acbe4b2c81b"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "10231700df3d",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Godan",
+  "quest": null,
+  "en": "You may have what it takes. Let's find out!",
+  "files": [
+   "gossip/b93a6715900dab13a0c551fe5830b1c0"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "c625a4f0e1a4",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Godan",
+  "quest": null,
+  "en": "You are unfit to train with me, stranger. Spend some time with my assistant Jhag over there.",
+  "files": [
+   "gossip/e5af5d1c3def492a1f23240e2763be98"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "43f4dcca3f89",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Great-father Winter",
+  "quest": null,
+  "en": "I have a pretty good idea what ol' Greatfather Winter's gonna be doing when this shift is over. I got a bottle of Winter Veil cheer right here in my bag, and I intend to get to the bottom of it.",
+  "files": [
+   "gossip/0a5fc9eb27704fbbe32ca289b8ccbc8c"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "bc09539e4e9c",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Great-father Winter",
+  "quest": null,
+  "en": "Yeah, sure, go ahead and tell ol' Greatfather Winter what you'd like for this Winter's Veil.\n\nHo ho hurry up.",
+  "files": [
+   "gossip/27687c305eeec6bfe1d1872f537fa192"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "8373e55b9575",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Great-father Winter",
+  "quest": null,
+  "en": "No... you can't sit on my lap.",
+  "files": [
+   "gossip/66f90f5438555127b635f6c18ceba9ca"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "976fde9573fa",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Great-father Winter",
+  "quest": null,
+  "en": "A wondrous Winter's Veil to you... uh... little boy. Good children get special, um, discounts at any local Smokywood Pastures vendor. Yum.",
+  "files": [
+   "gossip/m-565d707d3fae5619e5efa2bca426483b"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "db7697185d3b",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Grinkle",
+  "quest": null,
+  "en": "Hey Hey Hey! I am here to promote a fabulous fishing tournament in Stranglethorn but you need to be tough enough to survive there and have enough skill in fishing to fish those waters.\n\n Come back later when you are more qualified!",
+  "files": [
+   "gossip/06c7b60c6b427e9bed25fe5bb168ab7a"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "fc6540603824",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Grinkle",
+  "quest": null,
+  "en": "Heya Heya Heya! If you want to test your fishing skills then I have just the place for you! This Sunday we have a fishing tournament in Stranglethorn!",
+  "files": [
+   "gossip/99cd56092bd54c1d0a5b2852b38b9e5a"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "44b671dfee07",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Hanashi",
+  "quest": null,
+  "en": "Ansekhwa, da tauren weapon master, is on da Thunder Bluff lower rise. He teach one and two-handed maces, staves and guns.\n\nArchibald, da undead weapon master in da War Quarter of da Undercity, train good with crossbows, daggers, one and two-handed swords and polearms.\n\nSayoc, da ugly orc right here, can teach da ways of bows, daggers, fist weapons, one and two-handed axes and thrown weapons mon.",
+  "files": [
+   "gossip/00786fcaef5b82cb1cc4964e5ab1ea1a"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "dc330c53b6f4",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Hanashi",
+  "quest": null,
+  "en": "Heya mon. You come right place learn how ta wield a new weapon.",
+  "files": [
+   "gossip/cc3e350a79b20307088a569e80902909"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "e6110779298d",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "High Overlord Saurfang",
+  "quest": null,
+  "en": "Look to this fallen dragon, traveler. The might of the Horde is unquestionable!",
+  "files": [
+   "gossip/5d36ebec7ba87ea72d8bc75fa1708950"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "f916b08d8768",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "High Overlord Saurfang",
+  "quest": null,
+  "en": "I am he that watches they. I am the fist of retribution. That which does quell the recalcitrant. Dare you defy the Warchief? Dare you face my merciless judgement?",
+  "files": [
+   "gossip/ed0691b342e85f8155b2545fa09aff4c"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "5e8c1976aa61",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Located in Dun Morogh, Gnomeregan has been the gnomes' capital city for generations, though it was recently infested by mutant troggs. In a desperate attempt to retaliate, High Tinker Mekkatorque ordered the emergency venting of the city's radioactive waste tanks. Though the troggs became irradiated, their siege continued unabated and the gnomes were forced to seek refuge in the dwarven city of Ironforge, where the High Tinker now enlists brave souls to help his people reclaim their beloved city.",
+  "files": [
+   "gossip/0276ff49074261ee804b38342793bf84"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "967be8cfd7f5",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Once the jewel of northern Lordaeron, the city of Stratholme is where Prince Arthas turned against his mentor, Uther Lightbringer, and slaughtered hundreds of his own subjects who were believed to have contracted the plague of undeath. Arthas' surrender to the Lich King soon followed. The broken city is now inhabited by the undead Scourge - led by the powerful lich, Kel'Thuzad, and a contingent of Scarlet Crusaders, led by Grand Crusader Dathrohan. The two sides are locked in constant, violent combat.",
+  "files": [
+   "gossip/04642b49605c1905f8c4ec074ed814b2"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "d217f3c596ae",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "If you put on cologne or perfume, then you'll see who is amorous. Those are the ones who accept love tokens... and offer a gift in return.\n\nBut remember: to give someone a love token, you have to smell just right! Men like the scent of perfume, while women prefer cologne.",
+  "files": [
+   "gossip/11667b0ff9532331158f6482eeb8d71d"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "43648ea048a6",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "The mighty fortress carved within the fiery bowels of Blackrock Mountain was held by the sinister Dark Iron dwarves for centuries until Nefarian - the cunning son of the dragon, Deathwing - took control of the upper Spire and made war on the dwarves' holdings in the mountain's volcanic depths. Realizing that the dwarves were led by the mighty fire elemental, Ragnaros - Nefarian vowed to crush his enemies and claim the whole of Blackrock mountain for himself.",
+  "files": [
+   "gossip/12696642ffca20488693f012a1332369"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "0a7bb7a30d81",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Frustrated by the Dalaran wizards' lack of progress against the undead during the Third War, the Archmage Arugal elected to summon the extra-dimensional worgen to bolster his side's diminishing ranks. The wolf-men slaughtered the Scourge, then quickly turned on the wizards themselves and laid siege to the keep of the noble, Baron Silverlaine. The fort quickly fell into shadow and ruin. Driven mad with guilt, Arugal adopted the worgen as his children and retreated to the newly dubbed 'Shadowfang Keep'.",
+  "files": [
+   "gossip/12f0b7117e82d1920705e38b1acbd4d3"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "f3b3ad87bbfd",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "This sun-blasted city is home to the Sandfury trolls, known for their particular ruthlessness and dark mysticism. Troll legends tell of a powerful sword called Sul'thraze the Lasher, a weapon capable of instilling fear and weakness in even the most formidable of foes. Long ago, the weapon was split in half. However, rumors have circulated that the two halves may be found somewhere within Zul'Farrak's walls.",
+  "files": [
+   "gossip/1362d50a99d5220c57eabff16d1c603a"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "9d0534e661fb",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Shadowfang Keep is in southern Silverpine just north of Pyrewood Village.",
+  "files": [
+   "gossip/149d727e2252ad2d21626074d67ae0be"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "24f220fec1f2",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Once the capital city of the Dark Iron dwarves, this volcanic labyrinth now serves as the seat of power for Ragnaros the Firelord. Ragnaros has uncovered the secret to creating life from stone and plans to build an army of unstoppable golems to aid him in conquering the whole of Blackrock Mountain. Obsessed with defeating Nefarian and his draconic minions, Ragnaros will go to any extreme to achieve final victory.",
+  "files": [
+   "gossip/1a4b0ce90f4422503651666ac7f00711"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "ecdcb1e3ce83",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "The Scholomance is housed in crypts beneath the Caer Darrow keep. Once owned by the noble Barov family, the keep fell to ruin after the Second War. As the wizard Kel'Thuzad enlisted followers for his Cult of the Damned, he often promised immortality for those who served his Lich King. The Barovs fell to his influence and donated their keep, but the cultists killed the family and turned the crypts into a school of necromancy. Though Kel'Thuzad no longer resides there, cultists and instructors still remain.",
+  "files": [
+   "gossip/210c73367be3bd7fff9c76683b08beeb"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "9e06ea640773",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Razorfen Kraul can be found on the very southern tip of the Barrens on the west side of the road.",
+  "files": [
+   "gossip/22e76f151640be474a52357149eab9fa"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "f6e4436f87fb",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Gnomeregan can be found in western Dun Morogh.",
+  "files": [
+   "gossip/2a62241f7676852d758c2bff35cb1c86"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "c83928287be9",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Blackfathom Deeps can be found at the north end of Zoram Strand along the coast of Ashenvale.",
+  "files": [
+   "gossip/31b8782bafa771a039b08f6726b827a8"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "98580913761f",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Scarlet Monastery lies in the hills northeast of Tirisfal Glades.",
+  "files": [
+   "gossip/3549cdf0ffdc4b960c88a13a92c251c5"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "d4e768b03cde",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Over a thousand years ago a group of troll priests known as the Atal'ai attempted to bring back an ancient blood god named Hakkar the Soulflayer. After the resulting civil war the priests were defeated and exiled to the Swamp of Sorrows. There they erected a temple to Hakkar to prepare for his arrival into the physical world. The dragon Aspect Ysera soon learned of the Atal'ai's plans and smashed the temple beneath the marshes. To this day, the temple's ruins are guarded by the mighty green dragons.",
+  "files": [
+   "gossip/356949e6616d911ef559b61355e02894"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "7c0101083549",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "The Stockades are a high-security prison complex, hidden beneath the canal district of Stormwind city. Presided over by Warden Thelwater, the Stockades are home to petty crooks, political insurgents, murderers and a score of the most dangerous criminals in the land. Recently, a prisoner-led revolt has resulted in a state of pandemonium within the Stockades - where the guards have been driven out and the convicts roam free.",
+  "files": [
+   "gossip/39d92fa9357e241705910cea426d1baf"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "63cf062f9d8a",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Once the greatest gold production center in the human lands, the Dead Mines are now inhabited by the Defias Brotherhood, who have turned the dark tunnels into their private sanctum. It is rumored that the thieves have conscripted the clever goblins to help them build something terrible at the bottom of the mines - but what that may be is still uncertain. Rumor has it that the way into the Deadmines lies through the quiet, unassuming village of Moonbrook.",
+  "files": [
+   "gossip/3ea6a13fe8e0d78eb57bd98488901e1a"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "deed8ab69b84",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Blackrock Mountain lies between Searing Gorge in the north and Burning Steppes in the south.",
+  "files": [
+   "gossip/42c37076d3ae3863acfdd2d0f5533f7a"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "7c8529b2b0d5",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "The Deadmines can be found beneath Moonbrook in the south of Westfall.",
+  "files": [
+   "gossip/45dbe29f976fe7758380dadfd1b0d5ec"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "0dde8abb7950",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Ragefire Chasm consists of a network of volcanic caverns below the orcs' new capital city of Orgrimmar. Recently, rumors have spread that a cult loyal to the demonic Shadow Council has taken up residence within the Chasm's fiery depths. This cult, known as the Burning Blade, threatens the very sovereignty of Durotar. Many believe that the orc Warchief Thrall is aware of the Blade's existence and has chosen not to destroy it in the hopes that its members might lead him straight to the Shadow Council.",
+  "files": [
+   "gossip/470d4f471ff0e0a695c417d93294115b"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "70f2e6355d7b",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "The ruined city of Stratholme lies in the Eastern Plaguelands to the north of the Plaguewood.",
+  "files": [
+   "gossip/50d79c7aeabf3cffea9b701bf10738f2"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "df1b1f78217d",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Uldaman is an ancient Titan vault that has laid buried within the earth since the world's creation. Dwarven excavations of the city have recently released the Titans' first failed creations: the troggs. Legends say that when the Titans deemed the trogg experiment a failure they tried again, resulting in the creation of the dwarven race. These secrets are recorded on the fabled Discs of Norgannon - massive artifacts that lie at the bottom of the ancient city, protected by giant constructs of living stone.",
+  "files": [
+   "gossip/533b295b436d39d2d08b9a0010da7943"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "784227bc44f5",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Bolvar, Magni, or Tyrande.",
+  "files": [
+   "gossip/598c9e84f0150f5804083fb81cddb144"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "da6b5a1c7e3b",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "The ruins of Dire Maul stand in central Ferelas.",
+  "files": [
+   "gossip/59afccdff32f76ae9879d7192bc79e60"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "3a5af8836aa6",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "The Stormwind Stockades are found near the mage quarter in Stormwind.",
+  "files": [
+   "gossip/5a680486b1eed5318ac671810b927e65"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "b6c482d76934",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Razorfen Downs can be found on the very southern tip of the Barrens on the east side of the road.",
+  "files": [
+   "gossip/5bb22872b7638f5085ca2059018cc5ff"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "7aa3745d9114",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "No, I'm not, but lots of others are looking for love. You should buy my love tokens, put on some cologne or perfume, and then pass them around!",
+  "files": [
+   "gossip/608e80af556ec1f3d3baef7e57f6be28"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "1357d0fa2ca7",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Love tokens are small messages of affection you can give to amorous town and city folk. Such people will reward you with a gift of adoration.\n\nOr, if you are already adored by another, then at the least they'll give you a gift of friendship.",
+  "files": [
+   "gossip/65a26145712718ab736d0dff25b7ea3a"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "a492760058e0",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Cairne, Sylvanas and Thrall.",
+  "files": [
+   "gossip/661c2fbcff67197ca647909d6eff45c0"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "2943db33cd5a",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Uldaman can be found at the very northern end of the Badlands.",
+  "files": [
+   "gossip/72fd07384c9cf3d35d09b60e74ac757b"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "2f7d4bf1a590",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "The Wailing Caverns has its entrance at the Lushwater Oasis southwest of Crossroads in the Barrens.",
+  "files": [
+   "gossip/73249f674e33dc5e663d9bf0dc9c96b6"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "f945d16255d3",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Maraudon is one of the most sacred sites within Desolace. The great temple/cavern is the burial place of Zaetar, one of two immortal sons born to the demigod, Cenarius. Legend holds that Zaetar and the earth elemental princess, Theradras, sired the misbegotten centaur race. It is said that upon their emergence, the barbaric centaur turned on their father and killed him. Some believe that Theradras, in her grief, trapped Zaetar's spirit within the winding cavern - used its energies for some malign purpose.",
+  "files": [
+   "gossip/73717c12f946e4832d3760a4ce017d6e"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "9562c5830617",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Situated along the Zoram Strand of Ashenvale, Blackfathom Deeps was once a glorious temple dedicated to the night elves' moon-goddess Elune. However, the great Sundering shattered the temple - sinking it beneath the waves of the Veiled Sea. There it remained untouched - until, drawn by its ancient power - the naga and satyr emerged to plumb its secrets. Legends hold that the ancient beast, Aku'mai, has taken up residence within the temple's ruins.",
+  "files": [
+   "gossip/799c250c21ae02bcb1dbb537a38580f9"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "56fba57d457f",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "The Sunken Temple can be found in the center of a great lake in eastern Swamp of Sorrows.",
+  "files": [
+   "gossip/839365eaa1b7bc650b1f66d477413bef"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "a0122e733dc5",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "If we are to make these new lands ours then we must have places to rest our battle weary bodies. Lay your axe by the fire and share the stories of your mighty battles.",
+  "files": [
+   "gossip/99898ce989e2387123a310f8e8bb7094"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "580a92e578e3",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "The monastery was once a center for learning and enlightenment. With the rise of the undead Scourge during the Third War, the peaceful Monastery was converted into a stronghold of the fanatical Scarlet Crusade. The Crusaders are intolerant of all non-human races, regardless of alliance or affiliation. They believe that any and all outsiders are potential carriers of the undead plague - and must be destroyed.",
+  "files": [
+   "gossip/b4ca0c190cfd0a68f67e69a9ad1ec76b"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "d1cc5d2e102f",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Ragefire Chasm can be found beneath the Shadow Cleft in the center of Orgrimmar.",
+  "files": [
+   "gossip/b589ee74b06baa0850c27cb5b2dced61"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "632f16c8c1a4",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Maraudon is located in the middle of the western coast of Desolace, in the Valley of Spears.",
+  "files": [
+   "gossip/ba011425ec6ef2499c76a0df8538827b"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "bdb722ba83c9",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "The ruins of Zul'Farrak are located in the northwestern corner of the Tanaris Desert.",
+  "files": [
+   "gossip/bac84ba209bd32f334399053e2f4b16f"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "ce52f304c441",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Built twelve thousand years ago by a covert sect of night elf sorcerers, the ancient city of Eldre'Thalas was used to protect Queen Azshara's most prized arcane secrets. Though it was ravaged by the Great Sundering of the world, much of the wondrous city still stands as the imposing Dire Maul. The ruins' three distinct districts have been overrun by all manner of creatures - especially the spectral highborne, foul satyr and brutish ogres.",
+  "files": [
+   "gossip/c2a3a1e19674bf1fea64aea4440edb67"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "c9a69fbfcd86",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Recently, a night elf druid named Naralex discovered a network of underground caverns within the heart of the Barrens. Believing he could use the caverns' springs to restore lushness to the Barrens, the druid began siphoning the energies of the fabled Emerald Dream. His vision somehow became a nightmare, however, and soon the Wailing Caverns changed into a den of vicious, deadly predators. It is said that Naralex still resides somewhere inside the labyrinth, trapped beyond the edges of the Emerald Dream.",
+  "files": [
+   "gossip/c5bb28585e4ec2284a09cc538e5ea938"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "94c39f90b75f",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Crafted from the same vines as Razorfen Kraul, Razorfen Downs is the traditional capital city of the quilboar race. The sprawling, thorn-ridden labyrinth houses a veritable army of loyal quilboar as well as their high priests - the Death's Head tribe. Recently, however, a looming shadow has fallen over the crude den. Agents of the undead Scourge - led by the lich, Amnennar the Coldbringer - have taken control over the quilboar race and turned the maze of thorns into a bastion of undead might.",
+  "files": [
+   "gossip/d204a8a00341a429174e0dbb644ab882"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "8f83aeaa5b41",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "The School for Necromancy known as Scholomance is on the ruined island of Caer Darrow in the Western Plaguelands.",
+  "files": [
+   "gossip/e68483a569e848b8cb7bca2cf17765d1"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "5a10927cce8e",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "Are you interested in exploring one of these dungeons?",
+  "files": [
+   "gossip/f3aba6e9ee464fd9569a3498cd66780a"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "f2079fdb83ff",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": null,
+  "en": "During the War of the Ancients, the demigod Agamaggan came forth to battle the Burning Legion. The colossal boar was defeated, and over time in the areas where his blood fell, massive thorn-ridden vines sprouted to life. The quilboar came to occupy these regions and hold them sacred. The heart of these massive thorn-colonies is the Razorfen. Razorfen Kraul was conquered by the crone, Charlga Razorflank, who some speculate has been negotiating with agents of the Scourge for some insidious purpose.",
+  "files": [
+   "gossip/f92aaab1f1d5835cf040d33a901f8ac6"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "6d453ade0006",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jes'rimon",
+  "quest": null,
+  "en": "I give you warm greetin's, adventurer, as does the Shattered Hand.\n\nDo not look so surprised, adventurer. There be shadows even on the highest perches of Orgrimmar--somethin' must hide there. The Shattered Hand take that role willingly. Thrall, even in his good heart, acknowledge that the Hand be necessary to ensure orc and troll safety.\n\nBut you not here to talk 'bout my business, you here for somethin' else.",
+  "files": [
+   "gossip/300f5696e7561e85ca08484375c77012"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "0d5330684697",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jes'rimon",
+  "quest": null,
+  "en": "Un'Goro Crater be far to the south of Kalimdor. Beyond the Thousand Needles in Tanaris. Look for the large floating stones... they mark the entrance to the Crater. But be careful... it is no easy path. The raptors are not far from the entrance.",
+  "files": [
+   "gossip/396471ddf6b6b14abe39c3cd741bf23e"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "6c513dc9c38e",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Jhag",
+  "quest": null,
+  "en": "Throm-ka! What you looking for, stranger?",
+  "files": [
+   "gossip/2da316ac003f21ca893f1a240bf23d23"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "7f6aad9c5e57",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Jhag",
+  "quest": null,
+  "en": "To die in battle is glorious! But, with what I teach you, maybe you not die so quickly, hm?",
+  "files": [
+   "gossip/4e6679b868c39b4cf04876157b3c3a99"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "fdd2dc014e6e",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Jhag",
+  "quest": null,
+  "en": "You come to wrong place. Talk to the expert Godan over there. You learn more from him.",
+  "files": [
+   "gossip/f3fe4e0fa8ddc09f54cc1056650576fe"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "b893c3915ca7",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Kamari",
+  "quest": null,
+  "en": "I have nothing more to teach you. Talk to Karolek if you wish to further your leatherworking skills.",
+  "files": [
+   "gossip/38c783dc2352b2d8d5042712e96d1d86"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "0a2843cfe0ad",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Kamari",
+  "quest": null,
+  "en": "You like the rug? I killed and skinned the beast myself. May all the centaur fall as easily.",
+  "files": [
+   "gossip/de5e533462b3caa525719d3b51ff261a"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "e0773be99fbd",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Kamari",
+  "quest": null,
+  "en": "Too bad we can't skin the humans and their allies. All that skin is just going to waste. Still, who'd want to wear the flimsy leather you could make out of it?",
+  "files": [
+   "gossip/ea11622aa82fe0ab5d9eee0166720404"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "009c6f262659",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Karolek",
+  "quest": null,
+  "en": "You won't learn anything new from me; you know too much already. If you want more training, talk to the tauren Una in the northwestern shops of Thunder Bluff's central plateau. Send her my regards, eh?",
+  "files": [
+   "gossip/27197dd40c94aa0130b97cc1d108ba6a"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "f2ac8c337fd3",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Karolek",
+  "quest": null,
+  "en": "You can't study my techniques until you've learned the basics. Speak with Kamari if you are interested in training.",
+  "files": [
+   "gossip/2fd61c589f9bb1577b01643f5801f516"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "f8420ecfe006",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Karolek",
+  "quest": null,
+  "en": "Am I busy? What's that supposed to mean? Do you think I just stand here all day, twiddling my thumbs? If you're here to buy something, talk to Handor.",
+  "files": [
+   "gossip/5dc27cf243a0b86654eea241255fe527"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "e310cb9134d8",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Karolek",
+  "quest": null,
+  "en": "The twists and turns of Orgrimmar are designed to thwart invaders. Can you imagine how quickly one of those puny gnomes would get lost in here? Ha! If it was lucky, I'd track it down and keep it as a pet.",
+  "files": [
+   "gossip/f1a951b15107960a9c72aa1be0135f4d"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "5acd6f6f38c2",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Kartra Bloodsnarl",
+  "quest": null,
+  "en": "I am sorry adventurer, but you need to be more experienced before you can survive in Alterac Valley.",
+  "files": [
+   "gossip/6f8cf301e3f0ef7063dfca782d98b50f"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "cdee29dc2b92",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Kartra Bloodsnarl",
+  "quest": null,
+  "en": "Lok'tar adventurer! We have need of your services in Alterac Valley. Shall I add you to the lists?",
+  "files": [
+   "gossip/dab0c064dd61d01fde511ec075b693a7"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "514e257f27ed",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Kaymard Copperpinch",
+  "quest": null,
+  "en": "Fresh from our farm to your plate - it's Smokywood Pastures wholesome goodness!",
+  "files": [
+   "gossip/33f7fa4705c0138ea7a4c54342903154"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "9c31ae070086",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Kaymard Copperpinch",
+  "quest": null,
+  "en": "'Tis the season for great bargains! Fah la la la la!",
+  "files": [
+   "gossip/3fabe072e57d6a47c2f6ca2b9c8134a7"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "5d3d8d176240",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Kaymard Copperpinch",
+  "quest": null,
+  "en": "Don't forget to stock up on wrapping paper this holiday season! Nothing says \"Wondrous Winter Veil\" like wrapped armors and weapons for your friends and family.",
+  "files": [
+   "gossip/41e918ce5d8b5a41ff38961622d0549a"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "d710d389870e",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Kaymard Copperpinch",
+  "quest": null,
+  "en": "Season's savings to you and yours!",
+  "files": [
+   "gossip/6c6b13e6f0ac323bc0364cf61cf53234"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "36f682cc0876",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Kaymard Copperpinch",
+  "quest": null,
+  "en": "Have a wondrous Feast of Winter Veil! Start it off right with treats from Smokywood Pastures!",
+  "files": [
+   "gossip/9e130ea2841a0a72d792c96c8e646148"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "cd5bbd9d907d",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Kaymard Copperpinch",
+  "quest": null,
+  "en": "If I had some chestnuts, you'd better believe I'd have them roasting over an open fire. Mmmm!",
+  "files": [
+   "gossip/b6dafafd31fc1556e3a2a4d282f57535"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "0c865187e71d",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Kaymard Copperpinch",
+  "quest": null,
+  "en": "Don't let the jingle of the bells take away from the jingle in your pocket! Buy Smokywood Pastures treats for your Winter Veil festivities!",
+  "files": [
+   "gossip/ba70cc90cf6fed160c19534755c94deb"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "611d3bd5580e",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Kaymard Copperpinch",
+  "quest": null,
+  "en": "Be sure to tell Greatfather Winter what secret surprise you'd like to get this Winter Veil!",
+  "files": [
+   "gossip/cc87a307413254d64af804bd33e37001"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "400414b10bfa",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kelgruk Bloodaxe",
+  "quest": null,
+  "en": "What is it? Can't you see I'm busy?",
+  "files": [
+   "gossip/9bcd5c13bc9092dc86335cce9a910f76"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "ed6ab7a2f233",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kildar",
+  "quest": null,
+  "en": "You need to be exalted with the orcs of Orgrimmar before I will teach you a riding skill, adventurer.",
+  "files": [
+   "gossip/0ad48a7977bee1530dd7069a59b4a0f0"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "678f5c8e38ae",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kildar",
+  "quest": null,
+  "en": "I can teach you the finer points of Wolf Riding, provided you have enough gold to cover the lesson!",
+  "files": [
+   "gossip/c5b64d59481d597745eaaada6e211af8"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "a446391a4cb7",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Krathok Moltenfist",
+  "quest": null,
+  "en": "I am Krathok, overseer of these craftsmen.",
+  "files": [
+   "gossip/7e9d679addb34d3d0807c78bae52c702"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "aa92e4411208",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Krathok Moltenfist",
+  "quest": null,
+  "en": "When the work of a blacksmith reaches your level of expert craftsmanship, I present them with a choice.\n\nWhile you are not required to make a choice, it is recommended that you do - after all, do you want to be a neophyte forever? It is the artisan armorsmiths and weaponsmiths that supply our armies, win our wars and garner acclaim!\n\nBe warned, adventurer. Once a choice is made and the tasks required completed - there is no going back. One can only walk down one path.",
+  "files": [
+   "gossip/96173540913b1a1b1f52b21095a0971e"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "b88ead2f9cb3",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kruban Darkblade",
+  "quest": null,
+  "en": "The Darkmoon Faire is right now located in Elwynn Forest, just south of Goldshire. Don't miss it!",
+  "files": [
+   "gossip/08d752ff31f6bfde58fc1f526e124ab1"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "45d75af14b06",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kruban Darkblade",
+  "quest": null,
+  "en": "When the Darkmoon Faire opens, it will be located in Mulgore. We'll be pitching our tents just southwest of Thunder Bluff!",
+  "files": [
+   "gossip/1a25e293039b93cebbb2befb5b4159a9"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "c024da898f1b",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kruban Darkblade",
+  "quest": null,
+  "en": "Be sure to catch all the amazing sights and wonders of the Darkmoon Faire when it comes to town!",
+  "files": [
+   "gossip/2d62b0fff2691d1f7dd1c29f59793a31"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "a82684181270",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kruban Darkblade",
+  "quest": null,
+  "en": "It's here! The Darkmoon Faire is now open for business! Be sure to see the most exciting show on all of Azeroth!",
+  "files": [
+   "gossip/31b94b6dc8a5caae5e1dbc1f7df95f70"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "02ebae52bc32",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kruban Darkblade",
+  "quest": null,
+  "en": "Step right up and hear about the most amazing spectacle in all of Azeroth - the Darkmoon Faire! Huzzah!",
+  "files": [
+   "gossip/5a260aa92b38ae89795e971a54fac630"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "23579b2ef589",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kruban Darkblade",
+  "quest": null,
+  "en": "The Darkmoon Faire is coming to town! Don't miss it!",
+  "files": [
+   "gossip/64ed669f2c530fdee40a973f494727e3"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "2bc4b53f2bdb",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kruban Darkblade",
+  "quest": null,
+  "en": "When the Darkmoon Faire is open, it will be located in Elwynn Forest. We'll be pitching our tents just south of Goldshire!",
+  "files": [
+   "gossip/6846798e3704084cbf990bb534e12271"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "5f76925d7b21",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kruban Darkblade",
+  "quest": null,
+  "en": "The Darkmoon Faire has come to town! Be sure to experience the most thrilling show you'll ever see!",
+  "files": [
+   "gossip/970860b74643126c14b1fc1d64669290"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "58e5d5f3b64d",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kruban Darkblade",
+  "quest": null,
+  "en": "The Darkmoon Faire is right now located in the golden plains of Mulgore, just southwest of Thunder Bluff. Don't miss it!",
+  "files": [
+   "gossip/9de69159b963036fce4d96021d77e77c"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "b270079f6690",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kruban Darkblade",
+  "quest": null,
+  "en": "Boys and girls - children of all ages - the Darkmoon Faire has arrived! Huzzah!",
+  "files": [
+   "gossip/a61a6fccbff7a04c5809455eb91308ce"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "b90c2f2a6d46",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kruban Darkblade",
+  "quest": null,
+  "en": "The Darkmoon Faire is coming! There is fun for children of ALL ages! Come one, come all!",
+  "files": [
+   "gossip/f55a4bb137f50ce95546335186980a53"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "01988ab11833",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kruban Darkblade",
+  "quest": null,
+  "en": "The Darkmoon Faire will only be live for a short time before the curtains are drawn closed. Be sure to visit it today!",
+  "files": [
+   "gossip/fc119632bedc0d61db36da2ac955a910"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "c70c18ba9e69",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Lumak",
+  "quest": null,
+  "en": "Yap, I can teach ye to fish.",
+  "files": [
+   "gossip/081b59701643fc144f37758247997960"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "9ed8dc2ea8eb",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Lumak",
+  "quest": null,
+  "en": "Your skill exceeds mine, though I've heard that Old Man Heming in Booty Bay has copies of \"The Bass and You\". That is sure to help you increase your skill.",
+  "files": [
+   "gossip/0b512be0e7d51bb900e38c95885108fe"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "f60823830c6d",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Lumak",
+  "quest": null,
+  "en": "You will need to find Nat Pagle in Dustwallow Marsh to get any better than you are currently.",
+  "files": [
+   "gossip/665bbb3772dc4ca6c973b2ba079bf837"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "a1bb982cf741",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Lumak",
+  "quest": null,
+  "en": "Fish so delicious. You come learn fish? Eat fish? Mmmmm...",
+  "files": [
+   "gossip/a92b422f060c1d7ccb871bbb1aeede31"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "6171c06fff81",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Lunar Festival Harbinger",
+  "quest": null,
+  "en": "Greetings, adventurer. We've travelled from Moonglade to spread the spirit of the Lunar Festival far and wide.\n\nWon't you join us in our celebration?",
+  "files": [
+   "gossip/aa03e1f2960fa0bfc11594e3485ca65b"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "5660e5a32457",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Magar",
+  "quest": null,
+  "en": "You need to learn from someone who knows more than I do. Go talk to Josef Gregorian in Undercity. Well, what are you still doing here?",
+  "files": [
+   "gossip/251c4b189af8f0c50a129485f212f8d2"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "86a0d58c8f04",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Magar",
+  "quest": null,
+  "en": "What? Why are you bothering me? Why, I bet you can't even create a high quality robe! Go talk to Snang and come back when you're worthy of my talents!",
+  "files": [
+   "gossip/3d2ea831ad1620f66cc7300a9bfe1240"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "2ea291975951",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Magar",
+  "quest": null,
+  "en": "About time you showed me some results! Now I'll show you results!",
+  "files": [
+   "gossip/97a07a6619bced8dc7c9433b4974c6de"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "33619756027b",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Magar",
+  "quest": null,
+  "en": "I made a lot of the things you see in the store. What do you think? Answer carefully, your life may depend on it.",
+  "files": [
+   "gossip/d6420130e1b1b2f317ac78e25124b3bc"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "bc9432836387",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Mirket",
+  "quest": null,
+  "en": "You know enough to be dangerous, but you still look like you need training to me adventurer.",
+  "files": [
+   "gossip/8dca5bea4ae2a0b9ce008425ae8ac006"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "a1495797864c",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Mirket",
+  "quest": null,
+  "en": "Your will is not strong enough to manipulate the forces we control adventurer.",
+  "files": [
+   "gossip/d02c9efbf965f15cf354f957643c58a4"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "423a408f22be",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mokvar",
+  "quest": null,
+  "en": "Thrall has shown great kindness in granting me sanctuary within his domain. I do not wish to overstay my welcome, at any rate. It would be a great dishonor if I brought any trouble to our leader.",
+  "files": [
+   "gossip/b9ca2ade5c180a21e305ffe165d2771c"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "e4e18956c958",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Nazgrel",
+  "quest": null,
+  "en": "Mind yourself in the presence of the Warchief, adventurer. The Kor'kron will suffer no insolence or insult here.",
+  "files": [
+   "gossip/eabb3d8595fc1c78bdf3d9e41ce55e53"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "c35e3906c29e",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Neeru Fireblade",
+  "quest": null,
+  "en": "I will make it known to you. You are obviously already proving yourself in our ranks to become a lieutenant so quickly. Perhaps you can return to me later and I will have tasks for you. The council adores those skilled in the arcane, but servants of all kinds are always welcome, no matter their profession.",
+  "files": [
+   "gossip/3ab46d5a9682d81751ca9dfa2e99a0bc"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "2ad7f964a814",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Neeru Fireblade",
+  "quest": null,
+  "en": "Haha! Save for their leaders--the satyr, Bazzalan, and the warlock Jergosh--yes, all of them. That is why I constantly send Thrall's worshippers at them. It gives Thrall the impression that I am weeding out the evil in the bowels of his great city. The victory is in reality two-fold: kill Thrall's faithful and test the strength of those in the Searing Blade to see if they are truly worthy of joining me.",
+  "files": [
+   "gossip/928454d2578950fa6fb82aada645bbc0"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "56d64e43d351",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Neeru Fireblade",
+  "quest": null,
+  "en": "Naive fool. The Burning Blade IS the Shadow Council! There are many cults and organizations under the Council's rule, but all of them are just extensions of their will. I may lead the Burning Blade, but I am still just as much a pawn to the Council as you are to me!\n\nLook at the Searing Blade--most of them think they are becoming the next rising group of powerful warlocks that they will replace the Shadow Council.",
+  "files": [
+   "gossip/9d30b90a514baebe7e41278776ffc316"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "cd1236184c3e",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Neeru Fireblade",
+  "quest": null,
+  "en": "Listen closely to what you are told and do not quickly trust, or distrust. For even friends serve their own ends, adventurer.\n\nOur great Warchief knows this, and to prove that there are warlocks within the Horde who do not wish to destroy it from within or gain control over it, I have volunteered to aid our young leader in anyway I can.",
+  "files": [
+   "gossip/b4db7422b050ec4c88d959b16d7d2d02"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "240ad8660f24",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Neeru Fireblade",
+  "quest": null,
+  "en": "Ah, one of our own. It is good to see our numbers are growing so rapidly that I can no longer keep track of the faces of our members.\n\nThat fool Thrall thinks I am working hard to cleanse the image of warlocks and prove we are his servants. Idiot! The Burning Legion will make ash of this entire world after it drains it completely.",
+  "files": [
+   "gossip/b8b755fa02767f4b1ab4edb5fb08b0d4"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "3cb90f2dd0d9",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Nogg",
+  "quest": null,
+  "en": "You have earned the privilege of training with a higher instructor. Go see my pal Roxxik there.",
+  "files": [
+   "gossip/00008c92982d394e12b610e2f162f1fb"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "3702f9a8ffde",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Nogg",
+  "quest": null,
+  "en": "If there were just a few more hours in a day...",
+  "files": [
+   "gossip/71545b2af437b8e180d49ce9b50338cd"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "cfec11af2f74",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Nogg",
+  "quest": null,
+  "en": "You have not yet earned the right to train with me. See Thund first, over by the table. Come back when he says you're ready!",
+  "files": [
+   "gossip/79a7ae7ace70459d2510259f506e19c4"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "8efbeecc8113",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Nogg",
+  "quest": null,
+  "en": "You have passed your test, well done! Your training may now continue.",
+  "files": [
+   "gossip/aebf8bffcdfdd4b408e4f5ba08fd3f15"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "8fde5ce72a5a",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Officer Redblade",
+  "quest": null,
+  "en": "Greetings, adventurer - I'm a Commendation Officer acting on behalf of Orgrimmar. It is my duty to assist adventurers who have received Horde Commendation Signets.\n\nI accept signets in different quantities, but the most beneficial exchange for you is to hand in a set of ten at once. I will enter your deeds into our records when you hand in your signets. As a result, you will earn recognition from Orgrimmar for your duty and service.",
+  "files": [
+   "gossip/949dfe6a8c87b40d13fd01262e2d4142"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "b0da44a1c601",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Officer Vu'Shalay",
+  "quest": null,
+  "en": "Greetings, adventurer - I'm a Commendation Officer acting on behalf of the Darkspear tribe. It is my duty to assist adventurers who have received Horde Commendation Signets.\n\nI accept signets in different quantities, but the most beneficial exchange for you is to hand in a set of ten at once. I will enter your deeds into our records when you hand in your signets. As a result, you will earn recognition from the Darkspear tribe for your duty and service.",
+  "files": [
+   "gossip/39dff0023660d86508c6db5afb6c0d8a"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "d5a488ab19e2",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ogunaro Wolfrunner",
+  "quest": null,
+  "en": "Zug zug, brave adventurer! I have the finest bred wolf mounts for you to peruse. You'll not find another animal with the level of endurance and survival instincts that the wolf has anywhere! Please, inspect them for yourself.",
+  "files": [
+   "gossip/45462d0bfb55988ee297f81dc43938d9"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "4e5462b61587",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ogunaro Wolfrunner",
+  "quest": null,
+  "en": "I only make my mounts available to those who are considered exalted to Orgrimmar and the Orcish race. Go prove yourself to us, and I'll make my mighty wolves available for your inspection.",
+  "files": [
+   "gossip/889004b6fde3d6412a91b1aff5e0f67c"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "e746ccd958e6",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Okothos Ironrager",
+  "quest": null,
+  "en": "What do you want?",
+  "files": [
+   "gossip/a9064d83aa3ba7a86a2ff7346ed99f64"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "623465e149de",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Commendation Officer",
+  "quest": null,
+  "en": "Greetings, adventurer - I'm a Commendation Officer acting on behalf of Orgrimmar. It is my duty to assist adventurers who have received Horde Commendation Signets.\n\nI accept signets in different quantities, but the most beneficial exchange for you is to hand in a set of ten at once. I will enter your deeds into our records when you hand in your signets. As a result, you will earn recognition from Orgrimmar for your duty and service.",
+  "files": [
+   "gossip/721bb9d7821f092647a0f590fef91922"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "26c8a55007d3",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Find Red Canyon Mining northeast of the lake in the Valley of Honor. Speak to Makaru there.",
+  "files": [
+   "gossip/03234dcd1c0db3655e7b003ee852c8fd"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "e3328afe8a0d",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Healing is for those who cannot endure pain. However if you must, seek out the Spirit Lodge on the lake in the Valley of Spirits, up and above the Valley of Strength to the west.",
+  "files": [
+   "gossip/03d023b4146dbfca47b38d4edcaa7764"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "0211e35ca669",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Where did you think the Wind Rider Master would be? Head to the top of The Sky Tower in the Valley of Strength!",
+  "files": [
+   "gossip/058360cd0cfb26d7fc00ef22bcb6d9f7"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "f2659ba93508",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "You seek Grol'dar and the Darkfire Enclave? Find them in the underground cavern called the Cleft of Shadow. There are two tunnels leading down into that cave, one just south of the Valley of Wisdom and the other from The Drag.",
+  "files": [
+   "gossip/0698ec224bc7a0fd621ac60e8efa1344"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "5b8a5bd87889",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "You can pick up your love letters outside the bank in the middle of the Valley of Strength.",
+  "files": [
+   "gossip/072bbffeb611bfaace92898c40fcf12c"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "d6f5e2458a77",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "You want Zamja at Borstan's Firepit on the upper level of The Drag. Go up the stairs on the left as you enter The Drag from the Valley of Strength.",
+  "files": [
+   "gossip/0a849e65bb54685b03424a28e2b4c13c"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "c1f614b426b4",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "The Bank of Orgrimmar is in the Valley of Strength. Look for it north of the main entrance to the city.",
+  "files": [
+   "gossip/0d0d3b2be6dc0e0448bd8ad0d1a6199b"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "12c69f3889c3",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Look for Sayoc and Hanashi at the Valley of Honor inside Arms of Legend. Watch your tongue around them or Sayoc may decide to give a piece of you as a snack to Grinning Dog.",
+  "files": [
+   "gossip/0e4181512160358580b16051647a2601"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "383267bf5992",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "If you are going to Alterac Valley then go speak to Kartra Bloodsnarl. You will find her inside the Hall of the Brave in the Valley of Honor.",
+  "files": [
+   "gossip/1012c1ecc8ed009687e7f7451230d860"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "dbd8d3d091be",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Can you enchant my axe? I'll want a permanent. Maybe later then. Find Godan's Runeworks on the west end of The Drag near the Valley of Wisdom.",
+  "files": [
+   "gossip/1280f9f183703298db351e358105cdc5"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "a57e42489198",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Your voice is hoarse from yelling huh? Find the Orgrimmar Auction House in the Valley of Strength.",
+  "files": [
+   "gossip/180f756a443773f9b08c470a7bf7efc5"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "d527c7c5efb3",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Look for Nogg's Machine Shop in the Valley of Honor northeast of Red Canyon Mining.",
+  "files": [
+   "gossip/1a123cd209d94b6100489b018fff1c1f"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "47a059215e76",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "You wish to help the Forsaken with their fight against the humans in Arathi Basin? Then go to the Hall of the Brave and speak with Deze Snowbane.",
+  "files": [
+   "gossip/23bbff30f9e429d824918493908635e8"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "11cf38c7fb6f",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Look for Innkeeper Grishka in the Valley of Strength. Her inn is on the east side, north of the main city gates.",
+  "files": [
+   "gossip/2bba707a81f7cb342da5648c95205a58"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "662f35f615a9",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Go to the Hunter's Hall in the Valley of Honor, west of the Coliseum. Talk to Ormak Grimshot there.",
+  "files": [
+   "gossip/2cf644ba2f510e7a4b8706d23090659a"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "de37619d5b00",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "What, you can't port there? Go to the Darkbriar Lodge next to the lake in the Valley of Spirits, up above and to the west of the Valley of Strength.",
+  "files": [
+   "gossip/2eae00e94c3eecdbf2462e9dfa78b8a4"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "1389d3213d4d",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Your search is almost completed. Seek your truth in the entrance room of Thrall's Fortress in the Valley of Wisdom.",
+  "files": [
+   "gossip/2fbfb318d5dc89b3a1d85305c71f4e19"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "9771e6beec29",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "You want the Hall of Legends. It's high above the Valley of Strength on the west side. If you're not an officer you can't get in, but you can still talk to Sergeant Ba'sha outside.",
+  "files": [
+   "gossip/30dd36a9611a5248ae78a22056a25043"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "e6590533747d",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "The Orgrimmar Auction House is in the Valley of Strength. Look for it on the east side next to Boomstick Imports.",
+  "files": [
+   "gossip/311c5f6a0a1dddef0371a0c113bb62ab"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "b61f503f8867",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Go to the Valley of Honor and seek out Xon'cha near the stables.",
+  "files": [
+   "gossip/3721283f14bf5a96478d4e27f054a4e2"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "78d1a745b43a",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Go to the Valley of Strength and look for the Bank of Orgrimmar to the south of the Sky Tower.",
+  "files": [
+   "gossip/3b2d3f4253346fe54a8af9329b9583ef"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "ead45000ce4b",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Look for the Zeppelin Landing Tower outside of the city to the southeast.",
+  "files": [
+   "gossip/3e4dab27994d3297fb026a55aa21667f"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "e71f8b6b1fa7",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "You'll want to learn from Zamja. Head to Borstan's Firepit on the upper level of The Drag by taking the stairs on the left as you enter from the Valley of Strength.",
+  "files": [
+   "gossip/431eb88bb07fa6381014c842373d0570"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "307db296fce1",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Don't let me catch you stealing anything! Look for Shenthul and his Shadowswift Brotherhood in the underground Cleft of Shadow. Find the tunnel leading down into it south of the Valley of Wisdom.",
+  "files": [
+   "gossip/453a8ae094156bcd4e2d1b85c9a3df31"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "164e2b15216a",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "You seek Kardris Dreamseeker. She and the other shaman are in the entrance room to Thrall's Fortress in the Valley of Wisdom.",
+  "files": [
+   "gossip/51a01677ab631a12e7d309b5687d3723"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "6b0eedf96236",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Shoot straight to the northwest section of the Valley of Honor. There you will find the Hunter's Hall.",
+  "files": [
+   "gossip/51c81b6b8b401941a5a80ec07d3cf189"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "5ef373d2c279",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Thuwd will show you how to skin your kills. Look for him at Kodohide Leatherworkers in The Drag.",
+  "files": [
+   "gossip/5d4bbbbb15b947844d18eda0fa01c581"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "4c4106028c7c",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Didn't we just break free of the Burning Legion, and here you are messing with demons again? Seek out the Darkfire Enclave in the underground cavern known as the Cleft of Shadow. You'll find a tunnel down into it from The Drag.",
+  "files": [
+   "gossip/65f8dda67d9c8c8f969b388ee0edf169"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "8e66d4e02eb0",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "I guess someone needs to bandage us warriors up after the fighting. Seek out Arnok at the Survival of the Fittest hut next to the Spirit Lodge in the Valley of Spirits. Look up above and to the west of the Valley of Strength for a lake. That's where he's at.",
+  "files": [
+   "gossip/6be79c4541f77d8d29acbf888f562299"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "c35ea2f7afa4",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Speak to Pephredo at the Darkbriar Lodge in the Valley of Spirits, up above and to the west of the Valley of Strength.",
+  "files": [
+   "gossip/716e7e4fb54f6b7f439717f8e1cb509c"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "7cc7ff68a95c",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "You're looking for Urtrun Clanbringer in the Horde Embassy. Find it on the west side of the Valley of Strength.",
+  "files": [
+   "gossip/71970291a3ab9199914f897241acc4b3"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "9e5ae273cca4",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Kodohide Leatherworkers is what you want. Find it in the middle of The Drag.",
+  "files": [
+   "gossip/739d876c38f19ef98b95c5ae9bb322ff"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "0296c5dec1d1",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Clothing!? That won't help you against good steel! Bah, if you're sure you want to be a tailor go find Magar's Cloth Goods in The Drag.",
+  "files": [
+   "gossip/770f29a21112974898d2bcf70bbdc410"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "77bd7e4c2a94",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Looking for Shenthul of the Shadowswift Brotherhood, huh? In The Drag across from Droffers and Son Salvage look for a tunnel leading down into the Cleft of Shadow.",
+  "files": [
+   "gossip/78c4d657469f59de32a6b3a9a4ebdc4e"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "cddc8a8907a6",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "The Silverwing Sentinels are hardly what I would call honorable opponents. But if you are intent upon their slaughter adventurer, then seek out Brakgul Deathbringer in the Hall of the Brave.",
+  "files": [
+   "gossip/79112947d6abd6ba4573faecea150b38"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "4142e82001be",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Godan's Runeworks is where you'll go. Look for it on the west end of The Drag, right next to the Valley of Wisdom.",
+  "files": [
+   "gossip/7c40c8dcef4c28192551a41a2dee01de"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "0dd0571ed50d",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "How I yearn to join you in glorious battle, but instead I am stuck here on duty. Go to the Hall of the Brave in Orgrimmar's Valley of Honor and speak to Kartra Bloodsnarl. She will help you get to Alterac Valley. Make us proud adventurer!",
+  "files": [
+   "gossip/85f1dfbc6635cf1f0129f8b498acbd11"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "7eb2f40ac01c",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "You'll find that goblin and his toy shop in the Valley of Honor.",
+  "files": [
+   "gossip/8cd6b270a77a323ae36771bf7b388624"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "a7108841610c",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Magar's Cloth Goods is in The Drag. Find him south of the huge tree next to the Kodohide Leatherworks.",
+  "files": [
+   "gossip/908c0040569523d5a3f6346f2a16f4ba"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "3f75f5325413",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "The Horde Embassy is in the Valley of Strength on the west side.",
+  "files": [
+   "gossip/96570b0e28f301933f76f87ab8b65194"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "e7ccb4ebdddc",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "We must eliminate the elves and their cowardly Alliance from Warsong Gulch. Go to the Hall of the Brave in the Valley of Honor and speak with Brakgul Deathbringer if you have what it takes to aid the Horde.",
+  "files": [
+   "gossip/970ddc32d4b7a525c189dc519ff7a728"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "a530b28718b9",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Makaru can be found day and night at Red Canyon Mining in the Valley of Honor, just off the lake.",
+  "files": [
+   "gossip/9735ac53d3d67045070581d0843fe26d"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "bfdb5c27b41b",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Find the Hall of the Brave in the Valley of Honor and speak to Grezz Ragefist. Let them know that I'll be reporting back in after my shift here.",
+  "files": [
+   "gossip/9d782b04ca119ec2bc56975d49b1e444"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "dca0ce2e0938",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Maybe Saru Steelfury will teach you to make an axe as good as mine some day. Find him at The Burning Anvil in the Valley of Honor down the path to the right past Red Canyon Mining.",
+  "files": [
+   "gossip/9da815f247cef1730191b3131d74d0b9"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "785cfd85c44a",
+  "zone": "orgrimmar-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Grunt",
+  "quest": null,
+  "en": "Look for Yelmak's Alchemy and Potions. Find it in the middle of The Drag, west of the huge tree.",
+  "files": [
+   "gossip/9e0185cc1cebabdbc4e8995462442fd6"
+  ],
+  "uiMap": 1454
+ }
+]

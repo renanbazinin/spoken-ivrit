@@ -1,0 +1,688 @@
+[
+ {
+  "id": "0dc7203b2f57",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Book \"Soothsaying for Dummies\"",
+  "quest": null,
+  "en": "The content on the pages of this tome appear to be in constant flux. You feel as if your thoughts are being bled from your mind and consumed by the book.",
+  "files": [
+   "gossip/91179f4a7cd672e7c6902020e8567c29"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "30affaf659af",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Caryssia Moonhunter",
+  "quest": null,
+  "en": "The forest told me of your presence, but not why you were here. So, speak and enlighten me.",
+  "files": [
+   "gossip/df2b761c9ca25bf3b7cf64efc2e5e6e8"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "2818d3d0f86e",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Cliffwatcher Longhorn",
+  "quest": null,
+  "en": "We cannot take care of all the threats in this area alone. We could use another fighting hand, adventurer.",
+  "files": [
+   "gossip/9d5ebc573e83f1874f84c7a03742d120"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "676781515c5f",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Decedra Willham",
+  "quest": null,
+  "en": "I do so enjoy sitting out here, listening to the sounds of the Great Sea. Oh, what? Yes, there is a ship that will take you to Menethil Harbor. It docks here from time to time.",
+  "files": [
+   "gossip/3999a32253abe70964154c372f32bc5f"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "7fcec6bf580b",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Morningdew",
+  "quest": null,
+  "en": "Elder Moonwarden is observing the Crossroads in the Barrens.",
+  "files": [
+   "gossip/059d8b9186048dadf841d25a762000e1"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "b3a81fdb1de4",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Morningdew",
+  "quest": null,
+  "en": "Go to the Freewind Post in Thousand Needles and you will find Elder Skyseer.",
+  "files": [
+   "gossip/22c7506a532d172a9420796a57c11527"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "bd45bf810a61",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Morningdew",
+  "quest": null,
+  "en": "Elder Windtotem is keeping company with the goblins of Ratchet on the coast of the Barrens.",
+  "files": [
+   "gossip/7ffa37f7afcb99046aea92405812e241"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "620eb8b6ba74",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Morningdew",
+  "quest": null,
+  "en": "You'll find Elder Grimtotem at the Lariss Pavilion in Feralas.",
+  "files": [
+   "gossip/c1ef4a72fc8109134de870a6424fe455"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "262917e9ae23",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Morningdew",
+  "quest": null,
+  "en": "Elder Mistwalker enjoys watching the struggles at the Maul in Feralas.",
+  "files": [
+   "gossip/c34d11a99ae287331b099aa7a49395db"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "82ce98d51755",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Morningdew",
+  "quest": null,
+  "en": "Elder High Mountain is at Camp Taurajo in the Barrens.",
+  "files": [
+   "gossip/c64b333fc882b9771fb973841b882f27"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "4faee57e0fb9",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder Skyseer",
+  "quest": null,
+  "en": "Elder Dreamseer resides in Gadgetzan in Tanaris Desert.",
+  "files": [
+   "gossip/7c74ace02c02b70e02a50828ebe02bd0"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "861d9bdcd23a",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Falfindel Waywarder",
+  "quest": null,
+  "en": "You look as though you have traveled from afar, traveler.",
+  "files": [
+   "gossip/c2ebb744c3d33308240218a94fcde5aa"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "cb4c7322db67",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Fizzle Brassbolts",
+  "quest": null,
+  "en": "Aha! Did you see that! I think this new auto-spanner is going to do just the trick for my new influx manifold design.",
+  "files": [
+   "gossip/284efd4d9c12e5b9b88d5e9b96aec75a"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "0a163b7eed1e",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Gnome Pit Crewman",
+  "quest": null,
+  "en": "Plucky? I heard race master Kronkrider up on the the tower knows where he is.",
+  "files": [
+   "gossip/288dfdbe6b0b08a6f2781e22dc5d8ce0"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "ca90c5cc47aa",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Gnome Pit Crewman",
+  "quest": null,
+  "en": "My Gizmotic Almanacotron says that we should beat the goblins by twenty seconds more than we did last time!",
+  "files": [
+   "gossip/29cb9f241b67a6bd58f46757f27f6f9e"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "0f0968ba1103",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Gnome Pit Crewman",
+  "quest": null,
+  "en": "Tirth's not himself these days, and neither is his assistant.",
+  "files": [
+   "gossip/329639fd7e8c50ac0b798afe6c0f563e"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "c304c14df879",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Gnome Pit Crewman",
+  "quest": null,
+  "en": "If it weren't for the goblins' inconceivable, dumb luck, they'd crash their car during every race!",
+  "files": [
+   "gossip/413ec8412f752d13ea7d3bc09e39592d"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "ffd03d1647c4",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Gnome Pit Crewman",
+  "quest": null,
+  "en": "My son could design a faster car than that clunky goblin junk heap!",
+  "files": [
+   "gossip/5a9bf6255acd34e980aebcd04a7a6def"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "a5d6d00d49a2",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Gnome Pit Crewman",
+  "quest": null,
+  "en": "Johnson? I think he's around here somewhere...",
+  "files": [
+   "gossip/5d227c61a514e3f0b41f912efe022c52"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "94a819abe427",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Gnome Pit Crewman",
+  "quest": null,
+  "en": "These races are a great opportunity to show our ingenuity!",
+  "files": [
+   "gossip/88d6d4700d0a9435deac731bbef17f8c"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "d42fdce61b5b",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Gnome Pit Crewman",
+  "quest": null,
+  "en": "I installed a new device in our car's matrix regulometer. That should increase its velocity quotient by a factor of no less than fifteen!",
+  "files": [
+   "gossip/bb2e2ac84fdaea93b4cb5f24ace4d539"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "5f5e7da92fcc",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Goblin Pit Crewman",
+  "quest": null,
+  "en": "I heard they were going to try to blow up the gnome's car in the next race! True or not, I'd stand clear of their pit area.",
+  "files": [
+   "gossip/0c2296859db21b24eb9910aa4b0c2053"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "316106b17465",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Goblin Pit Crewman",
+  "quest": null,
+  "en": "If it weren't for that cursed, gnomish luck, they'd never win a race!",
+  "files": [
+   "gossip/1707d93334e41f8adae340c8be1bc91a"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "711e874459fc",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Goblin Pit Crewman",
+  "quest": null,
+  "en": "Oh, you mean Johnson? I heard he's in hiding.",
+  "files": [
+   "gossip/38a01b6277bccedcf3bd8f0506a44706"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "37c1a6853322",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Goblin Pit Crewman",
+  "quest": null,
+  "en": "Hah! Tirth's been looking for him for days, but he doesn't want to be found. He's chicken!",
+  "files": [
+   "gossip/4cf39f0b48e67e4fb4e5d3538ae49f07"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "7d8d194521e4",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Goblin Pit Crewman",
+  "quest": null,
+  "en": "You looking for plucky? Well, you didn't hear me say this, but... maybe if you ask Kronkrider up in the tower, he'll tell you...",
+  "files": [
+   "gossip/6ca0e5f286f5115ccba86010cc9d19a7"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "2c24e32c8d13",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Goblin Pit Crewman",
+  "quest": null,
+  "en": "If I were you, I'd buy a goblin race voucher. Rooting for the other team is a waste of time.",
+  "files": [
+   "gossip/84067fc993444ce72a27b52f4f74bec4"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "0ac494f410e7",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Goblin Pit Crewman",
+  "quest": null,
+  "en": "My money's on the goblins! And if you have any sense then yours is too!",
+  "files": [
+   "gossip/8a6ae51d27ab952a233cd6f757870376"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "979c214e1e77",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Goblin Pit Crewman",
+  "quest": null,
+  "en": "If you ask me, I think the goblins are a shoe in. We have the tools, and we have the talent!",
+  "files": [
+   "gossip/ef38b09c14f46b5a8dcf5d782c630fd6"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "560ac25cbf27",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kravel Koalbeard",
+  "quest": null,
+  "en": "Come a little closer. We have important matters to discuss, you and I.\n\nAnd some of them we don't want everyone to hear...",
+  "files": [
+   "gossip/466cd9d6085fdd90727e343f27bacac1"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "49fb3d2c4161",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magus Tirth",
+  "quest": null,
+  "en": "Watch where you're stepping, adventurer, because I have a polymorph spell with your name on it...",
+  "files": [
+   "gossip/580054d04eb523be430e4750bc42907f"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "907ee15d033a",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Myriam Moonsinger",
+  "quest": null,
+  "en": "I mean you no harm. I am scouting the quilboar and taking notes of their activities. My people have noticed something odd--an emanation or darkness--coming from this area. I've come to investigate, and what I've found is very disturbing.\n\nThere seems to be an undead diplomat who is powerful in the ways of the arcane. I don't believe he's one of the Forsaken... I think it's worse.",
+  "files": [
+   "gossip/87ac0e81bb9a372fa977ea14e6844f6c"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "414c3c380523",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Narain Soothfancy",
+  "quest": null,
+  "en": "What is... Mmmm... Velvet!\n\nAm I right?",
+  "files": [
+   "gossip/225eafda96d1c24ae14477251f082c90"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "e4ed9b8de20c",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Narain Soothfancy",
+  "quest": null,
+  "en": "Narain Soothfancy, at your service! Retired engineer and master soothsayer! I can tell your future before it even happens!",
+  "files": [
+   "gossip/2494fd01fbbcaa3067f0f6bde8276ef1"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "c1ca877e71af",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Narain Soothfancy",
+  "quest": null,
+  "en": "Don't tell me! Shhh! You are here about the Ashbringer?!? Yes... Yes... No! My bad.\n\nWhat can I help you with, traveler?",
+  "files": [
+   "gossip/2e27a2e4cf3cdc84c5efe6482fb8f345"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "f75c07855ab9",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Narain Soothfancy",
+  "quest": null,
+  "en": "It... It's foggy, Adventurer. I can't see anything! Wait... Wait a minute. I see... I see Doctor Weavil's hideout. It... YES! I believe he is holding a chapter of the book!\n\nLet me see if I can zoom this thing out to get a better vantage point.\n\n\nAlcaz Island! That devious bastard is on Alcaz Island!",
+  "files": [
+   "gossip/fe83661210697890e5faa8788183a890"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "9fed17063b64",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Nat Pagle",
+  "quest": null,
+  "en": "Thanks again for returning my lucky measuring tape, adventurer. I swear it helps me catch bigger fish!",
+  "files": [
+   "gossip/4b8c6e9b9c6223f29c6ee50817bd5289"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "fac937454016",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Nat Pagle",
+  "quest": null,
+  "en": "If you ask me, the best part about fishing is its slow pace. It gives one time to think, to reflect on past events and to plan for future ones.\n\nOh, and it's also a great excuse to drink. Heavily.",
+  "files": [
+   "gossip/9d7745f7746667248f72319a9c4794ef"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "e239809a51c9",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Nat Pagle",
+  "quest": null,
+  "en": "To catch Gahz'ranka, you'll need a special Mudskunk lure. I make 'em myself!\n\nBut you need more than just the lure; you need some mudskunks too... you need to place them in the lure to give it a rank old smell!\n\nWhen you have the mudskunks, throw the lure off Pagle's Point in Zul'Gurub... and then grab a drink and wait... but not too long, because Gahz'ranka is sure to come a'stomping!",
+  "files": [
+   "gossip/bb7840ac1ccbf51d87e9a44ee1a98d48"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "0dad6433d028",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Nyse",
+  "quest": null,
+  "en": "Where would you like to fly to?",
+  "files": [
+   "gossip/26d3fb863cf374254276fad4c4fb1b43"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "7b5c1d96ca7c",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Pozzik",
+  "quest": null,
+  "en": "What a great day for racing! Oh, who am I kidding? Every day's a great day for racing!",
+  "files": [
+   "gossip/f80c9ed59fef3421a73483b0b7d8d3ce"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "2097767c8bad",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Race Master Kronkrider",
+  "quest": null,
+  "en": "Welcome to the races! Enjoy your stay, and don't bet all your money in one place!",
+  "files": [
+   "gossip/3fda9ba9ead86b9e29b7d1fc68875623"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "9f0133f7b057",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Race Master Kronkrider",
+  "quest": null,
+  "en": "Plucky doesn't want Tirth to know he's still in the Shimmering Flats, so he turned himself into a chicken!\n\nIf you find Plucky, beckon him to you. Maybe he'll come out of hiding.",
+  "files": [
+   "gossip/818428d85cc2451411dffed3878e6204"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "df01ffdae5e3",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Race Master Kronkrider",
+  "quest": null,
+  "en": "The goblin racer packs a lot of punch, but the gnomes hid a trick or two in their car...",
+  "files": [
+   "gossip/85279dcb34b8519c4aa585d439098471"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "42524b8463e5",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Race Master Kronkrider",
+  "quest": null,
+  "en": "Hello, adventurer! Welcome to the races at the Shimmering Flats!",
+  "files": [
+   "gossip/cf552d2d1ba02525e8fcd3e41003294d"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "dd6ff1adae67",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Race Master Kronkrider",
+  "quest": null,
+  "en": "Who has the fastest car? Who knows?!?",
+  "files": [
+   "gossip/f8abb3ccf31041b3183d41a1896f28e3"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "95d243e0b05a",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Rizzle's Guarded Plans",
+  "quest": null,
+  "en": "These papers are guarded. Speak with Zamek to create a distraction!",
+  "files": [
+   "gossip/041b549b37d0c103ea25eda0b9a0c1e5"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "974114d42097",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Tabetha",
+  "quest": null,
+  "en": "Your errand must mean much, adventurer, to draw you so deep into the marsh...",
+  "files": [
+   "gossip/92da45dc1acf7bf8b75facfe52c3b52c"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "a6b761121efe",
+  "zone": "thousand-needles-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Wizzle Brassbolts",
+  "quest": null,
+  "en": "Be careful where you put that foot of yours, mister. We're not all blessed with the lofty height of a traveler.",
+  "files": [
+   "gossip/m-ed696ee2d30dcd779b9c6fb4d84f9a38"
+  ],
+  "uiMap": 1441
+ }
+]

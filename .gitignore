@@ -1,0 +1,14 @@
+vendor/
+.venv/
+.env
+.env.*
+build/
+audio/
+review.html
+voices/clips/
+voices/sources/
+voices/check/
+__pycache__/
+*.pyc
+*.zip
+*.ttf

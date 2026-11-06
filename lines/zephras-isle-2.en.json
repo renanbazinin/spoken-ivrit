@@ -1,0 +1,142 @@
+[
+ {
+  "id": "7309e616d723",
+  "zone": "zephras-isle-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Danarii Bellowveil",
+  "quest": "WANTED: Vulgara the Insatiable",
+  "en": "If we didn't have enough on our plates between the cult and the highlands bandits, we don't need a giant vuldren terrorizing our citizens as well. You've done a great thing here today. As promised, here is your reward.",
+  "files": [
+   "quests/93318-complete"
+  ],
+  "uiMap": 2521
+ },
+ {
+  "id": "b4cfaedbcb42",
+  "zone": "zephras-isle-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Constable Aonda",
+  "quest": "Welcome to Shen'dar Village",
+  "en": "You've got that \"Windshaper\" air about you. Something about how I can feel a tiny bit of static on my skin when near someone spirit-touched that gives it away. Before I properly put you to work around here, you should check in with our resident Windshaper elder, Illaya Amberwind. She's just outside, near the center of town.\n\nOh, and check in with Coriella Calmbreeze as well, she runs the local inn and can provide lodging and supplies, should you need them.",
+  "files": [
+   "quests/92514-accept"
+  ],
+  "uiMap": 2521
+ },
+ {
+  "id": "4121611b1639",
+  "zone": "zephras-isle-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Constable Aonda",
+  "quest": "Welcome to Shen'dar Village",
+  "en": "Checked in with Illaya then? Great. Lots of tension between the High Order and the Windshapers these days, but they keep things civil here in Shen'dar. Everyone here is well aware that we've got bigger problems than their quibbles.\n\nNow that that's done, you look like someone who might be looking for something to do with their hands and I've got a bandit problem that I was hoping you could help me with.",
+  "files": [
+   "quests/92514-complete"
+  ],
+  "uiMap": 2521
+ },
+ {
+  "id": "aceeebce1770",
+  "zone": "zephras-isle-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Constable Aonda",
+  "quest": "Welcome to Shen'dar Village",
+  "en": "You've got that \"High Order\" look to you. Those with Highborne ancestry always seem to have a slight twinkle in their eyes that gives it away. Before I properly put you to work around here, you should check in with our resident High Order elder Rathiril Sunlance. You can find him here in the main lodge, just around the corner from me.\n\nOh, and check in with Coriella Calmbreeze as well, she runs the local inn and can provide lodging and supplies, should you need them.",
+  "files": [
+   "quests/93461-accept"
+  ],
+  "uiMap": 2521
+ },
+ {
+  "id": "617e5cb77efa",
+  "zone": "zephras-isle-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Constable Aonda",
+  "quest": "Welcome to Shen'dar Village",
+  "en": "Checked in with Rathiril then? Great. Lots of tension between the High Order and the Windshapers these days, but they keep things civil here in Shen'dar. Well, at least in the village anyway. What happens out in the wilds stays in the wilds.\n\nNow that that's done, you look like someone who might be looking for something to do with their hands. I've got a few things that need doing, if you are game for a bit of work?",
+  "files": [
+   "quests/93461-complete"
+  ],
+  "uiMap": 2521
+ },
+ {
+  "id": "72f327d62a4f",
+  "zone": "zephras-isle-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ayessa Dawnsinger",
+  "quest": "What Comes Next",
+  "en": "I'm pleased to hear that we have High Elder Shadowsong's blessing for our expedition. Now that the cult has been defeated and preparations have been made, I think it's finally time.\n\nMuln has worked diligently to help us get stable skycutter transport going between Zephras Isle and a place called Mulgore, where the Earthen Ring make their home. We've been doing test voyages and some of our people are already waiting on the other side.",
+  "files": [
+   "quests/93090-complete"
+  ],
+  "uiMap": 2521
+ },
+ {
+  "id": "e4de239e98af",
+  "zone": "zephras-isle-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elaadrin Evengale",
+  "quest": "What Comes Next",
+  "en": "It gladdens me to hear that we have High Elder Shadowsong's blessing for our expedition. Now that the cult has been defeated and preparations have been made, I think it's finally time.\n\nAnsirem has worked diligently to help us get stable skycutter transport going between the city of Dalaran and Zephras Isle. We've done as much testing as we can, and the time has come for our vanguard to depart.",
+  "files": [
+   "quests/93089-complete"
+  ],
+  "uiMap": 2521
+ },
+ {
+  "id": "a1ede249d78f",
+  "zone": "zephras-isle-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Talaanis Shadowsong",
+  "quest": "What Comes Next",
+  "en": "Please extend my thanks to Elaadrin for all that the High Order and your new friends from this \"Kirin Tor\" have done for Zephras Isle. I'm aware of the High Order's plans to leave the island, and your order has my blessing and well-wishes in this expedition.\n\nI can only hope that whatever arcane solution the High Order finds can truly provide us with the stability we've lacked these past years. If you plan to go with them... well, his mission will be all the stronger for it.\n\nWinds be with you, Adventurer.",
+  "files": [
+   "quests/93089-accept"
+  ],
+  "uiMap": 2521
+ },
+ {
+  "id": "32cfad30b3db",
+  "zone": "zephras-isle-2",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Talaanis Shadowsong",
+  "quest": "What Comes Next",
+  "en": "Please extend my thanks to Ayessa for all that the Windshapers and your new friends from this \"Earthen Ring\" have done for Zephras Isle. I'm aware of the plan to take the Windshapers shamans and leave the island, and your order has my blessing and well-wishes in this expedition.\n\nI can only hope that whatever solution the Windshapers find can truly provide us with the stability we've lacked these past years.\n\nWinds be with you, Adventurer.",
+  "files": [
+   "quests/93090-accept"
+  ],
+  "uiMap": 2521
+ },
+ {
+  "id": "6f34365765a3",
+  "zone": "zephras-isle-2",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aamelia Windfield",
+  "quest": "What Is My Purpose?",
+  "en": "The construct? It's been wandering around the fields for decades. Since the wind elementals left us, I think. Alvarion suspected that it used to haul harvests to market, or maybe tend to livestock back before this was an orchard. That could have been a thousand years ago though.\n\nIn the old days, the Windshapers used to maintain these constructs. We've talked about petitioning them to come and take a look at it, but it's never been a pressing concern to us. Mostly we just ignore it these days.",
+  "files": [
+   "quests/92698-complete"
+  ],
+  "uiMap": 2521
+ }
+]

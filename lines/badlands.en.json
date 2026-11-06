@@ -1,0 +1,2215 @@
+[
+ {
+  "id": "9902fceac350",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Ryedol",
+  "quest": "A Dwarf and His Tools",
+  "en": "Hey, Adventurer. Be careful 'round here. There be Dark Iron dwarves all around--looked like the Shadowforge clan.\n\nThey just attacked the excavation site I was workin' at--killed nearly everyone there, including my boss Hammertoe. I barely escaped with me life.\n\nThe site's just to the north of here, and I'm tryin' to plan a way to get some of our supplies back, especially me lucky pick.\n\nThink you'd be up to helpin' me out some? One of those damned Dark Iron must have my pick! Could be anyone of them.",
+  "files": [
+   "quests/719-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "7cb13dda93ae",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Ryedol",
+  "quest": "A Dwarf and His Tools",
+  "en": "Ye're me savior, adventurer. I'm glad someone could teach those Shadowforge a lesson or two. Thanks for yer help.",
+  "files": [
+   "quests/719-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "ea6d2ed476d9",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Crumpled Map",
+  "quest": "A Sign of Hope",
+  "en": "\"Ryedol, \nThey're taking me to Uldaman. Send help.\n-Hammertoe\"",
+  "files": [
+   "quests/720-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "16f16192ccd3",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Ryedol",
+  "quest": "A Sign of Hope",
+  "en": "Hammertoe's alive?! This is amazin', Adventurer!",
+  "files": [
+   "quests/720-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "79ffc980e274",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Ryedol",
+  "quest": "A Sign of Hope",
+  "en": "Adventurer, can ye find him? Can you find Hammertoe in Uldaman?\n\nIf those dirty Shadowforge are holdin' him hostage to figure out what he knows about the titan excavations, then all of Ironforge could be in huge trouble.\n\nFor a long time now those Dark Irons have been lookin' for magics to make more powerful golems. Hammertoe was doin' the same, of course, but only to stop them.\n\nThey're probably keepin' him alive until they learn what he knows.Ye've got to hurry if you're gonna save him!",
+  "files": [
+   "quests/721-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "0f5b974379df",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Ironband",
+  "quest": "Agmond's Fate",
+  "en": "The last report I received from Agmond is troubling, more so now that he's dead! He mentioned that his diggers uncovered \"ancient urns\" at the dig site outside Uldaman. I fear that the urns he found at that site incited the troggs, just as did the idols I found here.\n\nI need you to get those urns for our studies. Go to the Uldaman site, gather the urns, then return to me.",
+  "files": [
+   "quests/704-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "9f834f8fa7a4",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Ironband",
+  "quest": "Agmond's Fate",
+  "en": "Well done! With luck and diligence, we will find whatever link exists between the troggs and these ancient artifacts.\n\nYou have done a great deed for the Prospectors, Adventurer. Your efforts will not be forgotten. And neither will Agmond.",
+  "files": [
+   "quests/704-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "1aec076b43dd",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Advisor Belgrum",
+  "quest": "An Ambassador of Evil",
+  "en": "Adventurer, your dedication to Ironforge and to the dwarven people cannot be refuted. I thank you for your help in this matter.\n\nI shall send word to Historian Karnik informing him that you have succeeded, and I shall also have aid sent to the Badlands as soon as possible to help recover the excavation site. Thank you again.\n\nBefore you go, there is one more thing I would ask of you in the name of King Bronzebeard.",
+  "files": [
+   "quests/762-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "b24be4ad0755",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Historian Karnik",
+  "quest": "An Ambassador of Evil",
+  "en": "Ambassador Infernus was sent to Angor Fortress by Ragnaros himself to mind the Shadowforge seeking lost artifacts in Uldaman.\n\nIt has already meant tremendous casualties for our people, but it has obviously grown worse. I hesitate to guess how many artifacts they would be able to find and use against Ironforge.\n\nOur goal is simple, adventurer. Return to the Badlands and destroy Ambassador Infernus. Once the threat is eliminated, return to Advisor Belgrum with proof of your victory.\n\nIt is in your hands now.",
+  "files": [
+   "quests/762-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "fb6bd7c65bab",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Remains of a Paladin",
+  "quest": "Back to Uldaman",
+  "en": "Remains of a paladin: Reading the journal reveals that after much effort, the paladin had identified the location of all three missing gems:\n\nThe Shadowforge dwarves hid the ruby in their barricaded area as they battled the Troggs for control of Uldaman.\n\nThe troggs stashed the topaz in an urn located near some unusual inhabitants of Uldaman - Alliance dwarves!\n\nFinally, the trogg elder himself took the sapphire as his own.",
+  "files": [
+   "quests/2200-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "45bf8e589386",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Talvash del Kissel",
+  "quest": "Back to Uldaman",
+  "en": "A competitor of mine started a rumor that my necklace cursed the paladin. Needless to say, no one wants to buy cursed items from a jeweler.\n\nAdventurer, I'll make you a deal - find the gems and I'll reassemble the necklace, so long as you'll advertise that I do NOT make cursed items!\n\nTry looking for clues in Uldaman; maybe see if the paladin's body is down there, since he's the one who we know had it last! When you find the gems you should use this; it'll allow you to contact me here in Ironforge.",
+  "files": [
+   "quests/2200-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "68f662a5255c",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jarkal Mossmeld",
+  "quest": "Badlands Reagent Run",
+  "en": "Adventurer, I could use your aid if you're up for it. I am an alchemist of some note, and I seek your aid in acquiring some reagents found out in the Badlands.\n\nI need the following items to replenish my stocks: five buzzard gizzards, ten crag coyote fangs, and five rock elemental shards. Obviously, you can get them off of the beasties themselves; if you're not the fighting type, then find friends who are.\n\nAcquire these items for me, you'll get some coin out of the deal. Watcha wanna do?",
+  "files": [
+   "quests/2258-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "9b2d43ccca20",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jarkal Mossmeld",
+  "quest": "Badlands Reagent Run",
+  "en": "Ah, well done! These should last me for a little while, at least. Here is your pay as promised.\n\nIf you're interested, I have some more reagents I could use. These, however, are only found in the depths of the Uldaman excavation. They will not be easy to get, but I will make it worth your while if you are interested in helping me again.\n\nPerhaps something more than some shiny coins, yes?",
+  "files": [
+   "quests/2258-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "7364d60584ae",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jarkal Mossmeld",
+  "quest": "Badlands Reagent Run II",
+  "en": "You have been most helpful to me, adventurer. I would reward you with the very recipe for the brew I gave you earlier... but I would ask of you a task that is quite dangerous. Hear my request.\n\nThis lockbox contains three empty thaumaturgy vessels; they are imbued with an attunement aura that will drain the blood of a scorched guardian dragon. Using one on the beast will anger it greatly, so be warned. Once you have all three filled, bring them to me.\n\nDo this, and the recipe will be yours.",
+  "files": [
+   "quests/2203-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "d90915995408",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jarkal Mossmeld",
+  "quest": "Badlands Reagent Run II",
+  "en": "From one alchemist to another, I salute you. Here, take this recipe and commit it to your knowledge. May it bring you the success and rewards that it has brought me over the years.",
+  "files": [
+   "quests/2203-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "865cabe5c007",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Rigglefuzz",
+  "quest": "Barbecued Buzzard Wings",
+  "en": "Oh yes, my barbecued buzzard wings are a favorite! The sauce is rich and the meat is tangy. And the smell will bring the hungry running from miles away!\n\nI have everything I need to cook up a batch. Everything...except the buzzard wings!\n\nIf you want some then get me the buzzard wings. Bring me enough, and I might even share the recipe with you!",
+  "files": [
+   "quests/703-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "746fd6fca339",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Rigglefuzz",
+  "quest": "Barbecued Buzzard Wings",
+  "en": "Ah, I'll get started on those wings right away. I can almost taste them already!\n\nAnd here's the recipe in case you want to make them yourself!",
+  "files": [
+   "quests/703-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "cdaf0e2eaa65",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gorn",
+  "quest": "Broken Alliances",
+  "en": "From the Horde's alliance with the dragon Deathwing during the Second War, we know that two of his lieutenants, Blacklash and Hematus, were imprisoned within Lethlor Ravine far to the east. We must silence our depraved allies of old to restore honor to the Horde!\n\nWe hired Tho'grun and his band of ogre mercenaries to help us obtain the Sign of the Earth, a key needed to unlock the drakes' prison. Tho'grun betrayed us though, overwhelming us and taking it for himself. Go to Camp Boff and take it back!",
+  "files": [
+   "quests/782-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "f64a08dc4870",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gorn",
+  "quest": "Broken Alliances",
+  "en": "With Tho'grun dead, his corpse picked clean by the desert winds and scavenging buzzards, the ogres will be put into disarray. Though a small victory, this will lead to a much larger one\n\nThe Sign of the Earth is now in our possession, and we can open the black drakes' prison in Lethlor. We shall free them from endless imprisonment, albeit to their doom!",
+  "files": [
+   "quests/782-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "cb560ada886f",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gorn",
+  "quest": "Broken Alliances",
+  "en": "The Seal of the Earth is held by three runestones, held in the Pillars of Diamond, Opal, and Amethyst in Lethlor Ravine. Using the Sign of the Earth, you will be able to remove the runestones and unlock the Seal of the Earth.\n\nBe wary though, adventurer, the black drakes Blacklash and Hematus are not to be trifled with. See them dead and return their bindings to me.\n\nTo reach the ravine, travel to the far eastern part of the Badlands. Be careful though, for the ravine is home to countless drakes.",
+  "files": [
+   "quests/793-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "af8978e95a3b",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gorn",
+  "quest": "Broken Alliances",
+  "en": "The black dragonflight continues to ally with the renegade Blackrock orcs, and both must be brought into line, or removed. With Blacklash and Hematus dead, we can turn our attentions westwards, towards Blackrock Spire.",
+  "files": [
+   "quests/793-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "180cda49e7fe",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lotwil Veriatus",
+  "quest": "Coolant Heads Prevail",
+  "en": "Let me tell you something about Frost Oil: nothing can keep an engine or gears from overheating quite like it.\n\nIts cooling properties are extraordinary, and its longevity as a lubricant without equal. That's not all: it also aids in retaining enchantments on magical items.\n\nI need a vial of it to increase the magical capacity of my shackles and make them powerful enough to stop our summoned friend from killing us all.\n\nBro'kin, a goblin friend of mine, can teach you to make it. He's in Alterac.",
+  "files": [
+   "quests/713-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "fa203e3f394d",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lotwil Veriatus",
+  "quest": "Coolant Heads Prevail",
+  "en": "Stupendous! This should be the perfect coolant for my new bracers. If the enchantments don't last a century, then I'll give all my belongings to Servo.\n\nAll the mages of the Assembly will be in such awe after I finish this, Adventurer. You just wait and see.",
+  "files": [
+   "quests/713-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "7a91951dbd64",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Neeka Bloodscar",
+  "quest": "Coyote Thieves",
+  "en": "Have you spent many days in the Badlands, adventurer? Have you felt its heat? Have you faced the beasts that wander its dusty plains? It's time you did.\n\nCrag coyotes are a tough breed. Tough, and bold enough to creep into Kargath and steal from our food supplies. Help rid the outpost of these thieves!\n\nHunt crag coyotes, Adventurer. Hunt them and bring me their jawbones. Bring me enough, and maybe I'll believe it when you say you know the Badlands.",
+  "files": [
+   "quests/1419-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "4f4f58666bff",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Neeka Bloodscar",
+  "quest": "Coyote Thieves",
+  "en": "That's a nice collection of jawbones, Adventurer. Now those coyotes won't be tearing through our supplies for scraps.\n\nWell done. The coyotes of the Badlands aren't easy prey. Your deed shows me that you might just survive here.",
+  "files": [
+   "quests/1419-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "700fd26d8b70",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Dran Droffers",
+  "quest": "Deliver the Gems",
+  "en": "Now we just need to figure out how to get this thing working again.",
+  "files": [
+   "followup/3077-orc-male-standard"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "e03c557e8e58",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Dran Droffers",
+  "quest": "Deliver the Gems",
+  "en": "Boy, you couldn't fix a sandwich without someone tellin' ya how to do it.",
+  "files": [
+   "followup/3080-orc-male-standard"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "0bd8605e1777",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Dran Droffers",
+  "quest": "Deliver the Gems",
+  "en": "Malton, you dummy!",
+  "files": [
+   "followup/3081-orc-male-standard"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "3fd19ba50ac9",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Dran Droffers",
+  "quest": "Deliver the Gems",
+  "en": "Yep, it's all here. Say, mind if we keep the bag too? No? Thanks, appreciate it! Har!\n\nThis necklace will be our greatest haul yet! Don't feel too bad though; I'm sure the necklace wouldn't fit you anyway. Har again!\n\nA deal is a deal, so here's your fee for the salvage. Our business is done here for now; check back later to see if we have more work. Until then, beat it!",
+  "files": [
+   "quests/2340-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "422b335e9bfd",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jarkal Mossmeld",
+  "quest": "Deliver the Gems",
+  "en": "Any necklace setting and gem will work, so long as they are the same material. This power source, however, is what will bring the magic back to the necklace... I hope.\n\nI'll gladly supply the gems needed for your version of the necklace, so long as the power source actually works.\n\nHead to Orgrimmar and keep your end of the bargain with Droffers and Son Salvage. Just keep your mouth shut about our deal, and when you get back I might have a wonderful surprise for you.",
+  "files": [
+   "quests/2340-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "d689adedfb5e",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Malton Droffers",
+  "quest": "Deliver the Gems",
+  "en": "Maybe I can fix it, pop. Lemme take a look at it.",
+  "files": [
+   "followup/3078-orc-male-shady"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "bc55e95734e9",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Malton Droffers",
+  "quest": "Deliver the Gems",
+  "en": "Sandwich? What? You makin' a sandwich for me, pop?",
+  "files": [
+   "followup/3079-orc-male-shady"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "0cf876abaf0c",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Sha'ni Proudtusk",
+  "quest": "Dreadmaul Rock",
+  "en": "My poor Thal'trak.\n\nWe were planning on moving in with my mother and father in the Hinterlands after our tours were over. Now those plans are ruined!",
+  "files": [
+   "quests/3821-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "a8e829f11cc3",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Thal'trak Proudtusk",
+  "quest": "Dreadmaul Rock",
+  "en": "Sha'ni was sent to investigate reports of strange ritualistic activity coming from the Firegut ogres of the Burning Steppes over three weeks ago.\n\nGoretooth tells me that he hasn't heard from anyone in that platoon and that it's best that I move on and focus on the task at hand. Can you believe it? That's my wife!\n\nI can't leave my post, Adventurer, but I must know what became of Sha'ni. Travel to the Burning Steppes and search for her.",
+  "files": [
+   "quests/3821-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "ac5d46774561",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sigrun Ironhew",
+  "quest": "Fiery Blaze Enchantments",
+  "en": "As an apprentice to Feranor Steeltoe, I learned his special technique for imbuing weapons with fiery enchantments. Last I heard of him, he was working at a smithy with a hunting party up in Lordaeron.\n\nI can't tell you too many of the details about the process, but I can tell you it requires blood from a rare, still-beating black drake whelp's heart. I don't have much to do waiting for word from Ironforge. If you bring me a heart from the whelps in Lethlor Ravine, I'll show you my skill!",
+  "files": [
+   "quests/706-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "f01639c4cdad",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sigrun Ironhew",
+  "quest": "Fiery Blaze Enchantments",
+  "en": "Ah yes, this will do excellently. This will enable your weapons to strike with searing heat!",
+  "files": [
+   "quests/706-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "0b308894f9d6",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Battered Dwarven Skeleton",
+  "quest": "Find Agmond",
+  "en": "This skeleton must be the unfortunate remains of Agmond. His body is broken and battered, and his bones picked clean.",
+  "files": [
+   "quests/738-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "9d8dc56fb33f",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Ironband",
+  "quest": "Find Agmond",
+  "en": "Prospector Agmond was in charge of our excavation sites in the Badlands, to the southwest. I say \"was\" because...well, I haven't heard from him in weeks. I need you to find Agmond so I can get his report.\n\nLast I heard Agmond was at the southernmost dig site in the Badlands--a tiny operation past the Angor Fortress. I'd start your search for him there.",
+  "files": [
+   "quests/738-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "c30a3db04405",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Remains of a Paladin",
+  "quest": "Find the Gems",
+  "en": "The paladin's journal has provided perhaps the only clues that Uldaman will yield as to the location of the necklace's gems. If the paladin's scribing remains accurate, then the Shadowforge dwarves and the troggs that vie for control of the dig site will need to be dealt with.\n\nArmed with this knowledge, the search for the gems begins in earnest. When all the gems have been acquired, Talvash in Ironforge should be notified via the Phial of Scrying as per his instructions.",
+  "files": [
+   "quests/2201-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "ebea8b9cd539",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Talvash del Kissel",
+  "quest": "Find the Gems",
+  "en": "Yep, those indeed are the three gems. Good job! Unfortunately, your work isn't quite over just yet.\n\nNo, I'm not trying to pull a fast one here, silly Adventurer. This is about making magic jewelry - Talvash del Kissel quality-level jewelry! You need a strong power source to give it some oomph. Well, that necklace has no more oomph to give.",
+  "files": [
+   "quests/2201-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "7c8216d221be",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Talvash's Scrying Bowl",
+  "quest": "Find the Gems",
+  "en": "Yep, those indeed are the three gems. Good job! Unfortunately, your work isn't quite over just yet.\n\nNo, I'm not trying to pull a fast one here, silly Adventurer. This is about making magic jewelry - Talvash del Kissel quality-level jewelry! You need a strong power source to give it some oomph. Well, that necklace has no more oomph to give.",
+  "files": [
+   "quests/2201-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "ba953579c80f",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jarkal Mossmeld",
+  "quest": "Find the Gems and Power Source",
+  "en": "And now for a quick look at these gems.",
+  "files": [
+   "followup/3083-troll-male-shaman"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "0827c9461807",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jarkal Mossmeld",
+  "quest": "Find the Gems and Power Source",
+  "en": "Just as I thought, the gems and the necklace don't matter. It's all about the power source.",
+  "files": [
+   "followup/3091-troll-male-shaman"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "eeb74e620232",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jarkal Mossmeld",
+  "quest": "Find the Gems and Power Source",
+  "en": "Here is the journal, translated for you to read on your own. The crux of it says dwarves hid the ruby, the troggs hid the topaz, and a trogg named Grimlok has the sapphire.\n\nLook - you're going to need a power source to make the necklace work again. Dran Droffers doesn't know this. To find one, here's what I'd do: go as deep as you can in Uldaman and kill whatever construct there is the strongest. No doubt whatever that is would have it.\n\nWhen you have everything collected, come back here!",
+  "files": [
+   "quests/2339-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "619b49b3330b",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jarkal Mossmeld",
+  "quest": "Find the Gems and Power Source",
+  "en": "Very well done, adventurer. Now the fruits of our redirection will pay themselves out handsomely. I'm finished with the necklace itself, and I am confident I can duplicate the construction process consistently.\n\nBut first, I will use a specially prepared incantation to quickly analyze those gems before you take them and the necklace back to Orgrimmar. This will take just a brief moment to do.",
+  "files": [
+   "quests/2339-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "b364a7463bd7",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gerrig Bonegrip",
+  "quest": "Forbidden Knowledge",
+  "en": "I have the digest for you, Adventurer. I need not tell you to take great care with it. And to keep it far from unfriendly hands. \n\nThis book holds many truths...\n\n...And the truth can burn.",
+  "files": [
+   "quests/737-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "fd9d7b3ff5aa",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Keeper Bel'dugur",
+  "quest": "Forbidden Knowledge",
+  "en": "I have the digest for you, Adventurer. I need not tell you to take great care with it. And to keep it far from unfriendly hands. \n\nThis book holds many truths...\n\n...And the truth can burn.",
+  "files": [
+   "quests/737-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "9c9c37ba35ed",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Theldurin the Lost",
+  "quest": "Forbidden Knowledge",
+  "en": "Ow. Spicy.",
+  "files": [
+   "followup/934-dwarf-male-standard"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "47aa1be3badf",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Theldurin the Lost",
+  "quest": "Forbidden Knowledge",
+  "en": "You got it! Oh, hope glimmers!\n\nYour efforts may yet save us, Adventurer. A monument they should make of you! A shrine they should build! May your name be praised until your grandchildren have grandchildren!\n\nUnless...THEY are freed and rise to the surface. If that happens then you can forget about children.\n\nIf THEY are freed, then we're all worm food.",
+  "files": [
+   "quests/737-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "fe0b6bbd39a9",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lotwil Veriatus",
+  "quest": "Gyro... What?",
+  "en": "Adventurer, you've done your job well beyond all standards.\n\n\nIf we ever meet in Kharanos, feel free to come apply for work.\n\nWhoops! Quick, grab the... yes, that. Thanks.\n\nNow I just need one more thing. It's a small part, but rather crucial, I'm afraid: a gyrochronatom.\n\nIf you could just go grab one and bring it to me, I should be ready to complete this.",
+  "files": [
+   "quests/714-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "40a66920f44b",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lotwil Veriatus",
+  "quest": "Gyro... What?",
+  "en": "HA!\n\n\nPerfect... just about done. No, really. I AM almost done now. This project is my top priority... at the moment. Let me pop this into place, and you can see for yourself what you've helped me create. It'll just take me a few more minutes... maybe... possibly longer. Well, maybe a lot longer. We'll see...",
+  "files": [
+   "quests/714-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "c1f6ddf3ed77",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lucien Tosselwrench",
+  "quest": "Liquid Stone",
+  "en": "I'm thinking those items you acquired for Lotwil are going to be the least of our worries, Adventurer. On the other hand, you've proven more than adept at the sciences Lotwil holds sacred, so how about helping me out?\n\nI need an invisibility potion and a healing potion; both might come in handy real soon if he pulls this off.\n\nIn return, I'll give you this recipe for a potion I've been developing while learning from Lotwil. It's based on some of the research he's been doing here in the Badlands.",
+  "files": [
+   "quests/715-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "29c4987496c2",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lucien Tosselwrench",
+  "quest": "Liquid Stone",
+  "en": "YES!\n\nI mean, thank you, Adventurer. These will be helpful while traveling through the Badlands.",
+  "files": [
+   "quests/715-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "1dcaba679b87",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Talvash del Kissel",
+  "quest": "Lore for a Price",
+  "en": "I am a jeweler of great renown here in Ironforge! Well, former renown anyway... I have fallen onto hard times due to the chicanery of a competitor! A bad reputation in this business spells financial disaster. As a result, I find myself without a copper to my good-though-currently-sullied name.\n\nI want you to get me five silver bars to finish an order I received - the first in what seems like an eternity.\n\nYou get me those five silver bars, and I'll answer your questions on the necklace.",
+  "files": [
+   "quests/2199-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "2a66cd5a530c",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Talvash del Kissel",
+  "quest": "Lore for a Price",
+  "en": "You're all right in my book; I don't care what everyone else has been saying... I kid, I kid! Seriously, thank you my friend.\n\nNow, the necklace you have is one of my finest creations, but it is missing three gems that help bind magic power to it. I crafted it for a paladin some time ago. He was on a self-appointed quest to clear out the \"evil taint\" present at an excavation site in the Badlands called Uldaman.\n\nWell... that paladin died in Uldaman, and that was just the beginning of my woes.",
+  "files": [
+   "quests/2199-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "0833afcbc93b",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sigrun Ironhew",
+  "quest": "Mirages",
+  "en": "In our hurry to leave the Uldaman excavation site, we were forced to abandon many wagons and crates of supplies along the way. The local ogres from Camp Kosh have been on our abandoned equipment like vultures on a rotting corpse. Don't smell much better, either. Than the corpses, I mean.\n\nAnyways, they took the cart that was carrying all our weapons and such... so--well, this is a bit embarrassing--we haven't been able to get any food.\n\nWe're in a bit of a pickle here, suppose you could help us out?",
+  "files": [
+   "quests/718-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "26ab1d38154b",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sigrun Ironhew",
+  "quest": "Mirages",
+  "en": "Thanks so much, adventurer. While you were gone, I... er... swallowed a mouthful of sand. It...\n\nWell, enough of that, we'll go out and get some food tonight. Eat like kings!",
+  "files": [
+   "quests/718-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "e35db8ce48ef",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Battered Dwarven Skeleton",
+  "quest": "Murdaloc",
+  "en": "Agmond's tracks lead from the west. It is easy to tell from the bloody smears across rock and sand that the dwarf crawled some distance.\n\nAnd here he died.\n\nUpon close inspection, the word \"Murdaloc\" is roughly scrawled in a patch of Badlands sandstone.\n\nScrawled next to Agmond's dead hand.",
+  "files": [
+   "quests/739-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "4308fc13bd8c",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Ironband",
+  "quest": "Murdaloc",
+  "en": "This is sobering news, Adventurer. But Agmond had a strong arm and a fierce hammer-swing, and his skull was as thick as they come! Although he was killed by those cursed troggs I'm sure he took a lot of them down with him.",
+  "files": [
+   "quests/739-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "2e49837d9945",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Dran Droffers",
+  "quest": "Necklace Recovery",
+  "en": "We've got work for you, that is if you've got the guts to do it!\n\nDeep in the Badlands is the Uldaman dig site. We've heard a tale about some idiot paladin who died there recently. Why we even care is that he had a very valuable necklace on him. It's supposedly got three large gems: a ruby, a sapphire, and a topaz.\n\nThe shot: we want it, and we're payin' TOP SILVER to get it. It may be damaged, but that's neither here nor there; we'll fix whatever scratches are on it.",
+  "files": [
+   "quests/2283-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "6ddd5337fc48",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Dran Droffers",
+  "quest": "Necklace Recovery",
+  "en": "Mmmm salvage! I can smell the necklace from here. Now let's look at that beauty...\n\nHey, what do you think you're trying to do here? This necklace is missing the gems! You think we wouldn't notice? Even Malton could see that the gems are gone.\n\nWell, maybe you didn't steal them... but this necklace is worthless without those gems! Your job isn't done here yet, not by a long shot!",
+  "files": [
+   "quests/2283-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "98efc7121004",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Dran Droffers",
+  "quest": "Necklace Recovery, Take 2",
+  "en": "As sure as Malton is a dummy, those gems are still in Uldaman somewhere. You're going to have to go back there and look for them.\n\nLike I said before, if the information we have is correct then there's a ruby, a sapphire, and a topaz that go with the necklace. Find them and put them in the necklace.\n\nAs to where the gems are, who knows? Maybe you'll get lucky and find the corpse of the Paladin. If he's not been stripped clean already, then maybe he's got them on him still.",
+  "files": [
+   "quests/2284-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "9ccd000e6835",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Remains of a Paladin",
+  "quest": "Necklace Recovery, Take 2",
+  "en": "You seem to have found the remains of the paladin that Dran had mentioned from before. Searching the remains uncovers what would appear to be his journal. The book is in poor condition, as dried blood has stained most of the text in the book. What you can read, however, is gibberish; it is written in the native tongue of the humans, to the best of your knowledge.\n\nYou will need the book translated if you are to glean any knowledge from it.",
+  "files": [
+   "quests/2284-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "992d966344bd",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Dran Droffers",
+  "quest": "Necklace Recovery, Take 3",
+  "en": "As Dran and Malton Droffers begin to squabble over their new salvage, half of the deal is now complete. A trip to the Badlands is now in order to finish things up, as Jarkal Mossmeld in Kargath might have a special reward waiting for you there.",
+  "files": [
+   "quests/2341-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "b789191a1a84",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jarkal Mossmeld",
+  "quest": "Necklace Recovery, Take 3",
+  "en": "The power source you gave me exceeded every expectation I had for it. I was able to make both you and me a necklace, and I have enough left over to make at least three more. They will fetch quite the fee, with Droffers and Son Salvage none the wiser.\n\nHere you go, my friend. I give you my thanks on a splendid job... and something quite special for your trouble.",
+  "files": [
+   "quests/2341-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "34a4a2a17411",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Advisor Belgrum",
+  "quest": "Passing Word of a Threat",
+  "en": "Och, these are evil tidings.\n\nAdventurer, please return to Historian Karnik and tell him on the king's authority to act on this information swiftly and decisively. He must halt the Shadowforge's activities in the Badlands.",
+  "files": [
+   "quests/726-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "ed833f158973",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Historian Karnik",
+  "quest": "Passing Word of a Threat",
+  "en": "Adventurer, run and find Advisor Belgrum as quickly as you can. Tell him what you've witnessed and ask him how he wants us to proceed. This note will explain more to him.\n\nIn the meantime, I will take the time to speak to Hammertoe's spirit. Maybe he knows something that will help us put a stop to those Shadowforge cretins' activities in the Badlands. We can only pray.",
+  "files": [
+   "quests/725-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "b86f5268bb15",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Historian Karnik",
+  "quest": "Passing Word of a Threat",
+  "en": "You're treating this matter with an urgency I'd expect from the king himself, Adventurer.\n\nAll right, then. I know what'll bring the Shadowforge down.\n\nTheir presence in Uldaman can be slowed if we strike them at their base of operations: Angor Fortress.",
+  "files": [
+   "quests/726-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "cf223e7b1ee5",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Rigglefuzz",
+  "quest": "Pearl Diving",
+  "en": "Look out! We're under attack by a adventurer!",
+  "files": [
+   "followup/1022-goblin-male-gruff"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "ad6c2723be39",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Rigglefuzz",
+  "quest": "Pearl Diving",
+  "en": "There we are. A new batch of flash bombs!",
+  "files": [
+   "followup/1023-goblin-male-gruff"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "7921fde1a242",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Rigglefuzz",
+  "quest": "Pearl Diving",
+  "en": "Take that, beast!",
+  "files": [
+   "followup/1024-goblin-male-gruff"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "0a3a31a9e045",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Rigglefuzz",
+  "quest": "Pearl Diving",
+  "en": "The Badlands is a harsh place, filled with vicious predators and bold scavengers. Scary, especially for a short little goblin. To survive, I have to be tricky!\n\nI know the recipe for flash bombs. I use those to scare away wildlife. But I'm running low on one of the ingredients: crushed blue pearl powder. Get me some and I'll make it worth your efforts.\n\nHeh, and I hope you have good boots on. The Blue Pearls I need are found from clams at the Vile Reef.\n\nYep, the Vile Reef in Stranglethorn!",
+  "files": [
+   "quests/705-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "d127076144fa",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Rigglefuzz",
+  "quest": "Pearl Diving",
+  "en": "These will work great! I just need to smash them into powder...then mix them with a little of this and a little of that.\n\nWatch out, scavengers! Prepare to be flashed!",
+  "files": [
+   "quests/705-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "6f13045f4761",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Rigglefuzz",
+  "quest": "Power Stones",
+  "en": "A while ago, I had an incident with the Shadowforge Dwarves. They brought me to Angor Fortress to study two types of strange stones from Uldaman. I discovered that the stones were sustained, stable power sources if treated correctly. It's amazing the things one can find in that old dig site!\n\nAnyway, after I told them the secret of the stones they kicked me out of Angor Fortress and began digging for more in Uldaman.\n\nI want those stones for myself! Bring me both types and I'll pay you plenty!",
+  "files": [
+   "quests/2418-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "17df5dc9e43d",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Rigglefuzz",
+  "quest": "Power Stones",
+  "en": "That's great, you found some! Thanks a lot, Adventurer. You're the most dependable traveler I've met!\n\nI can't wait to try these on some devices I've been tinkering with. I bet that, under the right circumstances, devices powered with these stones will keep going, and going, and going...",
+  "files": [
+   "quests/2418-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "bfcdb55eef7f",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hammertoe Grez",
+  "quest": "Prospect of Faith",
+  "en": "Go with speed... Find... Ryedol...",
+  "files": [
+   "followup/957-dwarf-male-standard"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "cdb61565db5c",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hammertoe's Spirit",
+  "quest": "Prospect of Faith",
+  "en": "Karnik, me friend, I wish I could see you with me own eyes again, but we need'ta talk of Ragnaros. His influence is spreading.",
+  "files": [
+   "followup/916-dwarf-male-standard"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "19d0ad4e5f47",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hammertoe's Spirit",
+  "quest": "Prospect of Faith",
+  "en": "I'll tell you more, Karnik, in time. But first, send this traveler'ta Belgrum--there's more business'ta attend to.",
+  "files": [
+   "followup/918-dwarf-male-standard"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "c67cac2d99f8",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Historian Karnik",
+  "quest": "Prospect of Faith",
+  "en": "Hammertoe, you're as smart as you were stubborn in life and even in death. What can you tell me, ole friend?",
+  "files": [
+   "followup/917-dwarf-male-grim"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "926e7c0f63fe",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Historian Karnik",
+  "quest": "Prospect of Faith",
+  "en": "Ragnaros? Terrible news indeed...",
+  "files": [
+   "followup/956-dwarf-male-grim"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "66108e737e25",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Historian Karnik",
+  "quest": "Prospect of Faith",
+  "en": "You heard him, traveler. Speak to me again when you're ready to speak to Belgrum.",
+  "files": [
+   "followup/958-dwarf-male-grim"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "f8af64730808",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Historian Karnik",
+  "quest": "Prospect of Faith",
+  "en": "Oh! Well, this is a different matter entirely. You probably don't realize the gravity of this matter yet, do you?\n\nI care deeply about Hammertoe's demise, but if he sent you here with his amulet, then he understood what's at stake.\n\nWe will have to take time to mourn his death later.\n\nLet me show you one of the reasons this amulet is so valuable.",
+  "files": [
+   "quests/724-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "63775913c5f3",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Ryedol",
+  "quest": "Prospect of Faith",
+  "en": "Hammertoe's amulet? I think my spirits were higher when I thought he was dead. Knowin' fer sure only makes the pain worse. This amulet was his life's work. I can't let his death be in vain.",
+  "files": [
+   "quests/723-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "45d7ed53d1eb",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Ryedol",
+  "quest": "Prospect of Faith",
+  "en": "Okay, okay... who would know what to do?\n\nHistorian Karnik! That's it!\n\nHe's in Ironforge. He'll be able to help. He and Hammertoe were workin' together to find the lost artifacts in Uldaman.\n\nGuess the Shadowforge found out the two of them knew more than they were lettin' on.\n\nTell Karnik what's happened to Hammertoe and give him the amulet--he'll tell you what needs to be done next.",
+  "files": [
+   "quests/724-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "8d8b65619d34",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Krom Stoutarm",
+  "quest": "Reclaimed Treasures",
+  "en": "I had myself a fine job as a digger at the Uldaman excavation site in the Badlands... that is until those blasted troggs showed up. I escaped with my hide barely intact, and nothing else. In the chaos, I left my most treasured possession. It's safe from the troggs in my chest, sure, but it's right in the thick of 'em.\n\nI'd be in your debt, both in honor and coin, if you could fetch it for me! A chest with my name on it is at the end of the North Common Hall. That's the one you need to get in.",
+  "files": [
+   "quests/1360-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "b3f9e4a1c264",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Krom Stoutarm",
+  "quest": "Reclaimed Treasures",
+  "en": "Ah, I feel complete again - thank you kindly.\n\nSome dwarves may treasure the luster of metal, and some may treasure the glint of gems... but a Stoutarm without a treasured stein in hand is hardly a Stoutarm at all!",
+  "files": [
+   "quests/1360-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "55135df85e00",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Patrick Garrett",
+  "quest": "Reclaimed Treasures",
+  "en": "Sweeping the bat pens with this broom is not befitting a Garrett! I've earned a little coin from this accursed job, and I'm willing to spend it on you to better my station.\n\nThe Garrett family weapon of choice is locked away in our chest in the South Common Hall of Uldaman from when we Garretts toiled there as diggers. Without it, I will be stuck here forever - literally - sweeping up after these infernal bats.\n\nReclaim my family's treasure and bring it to me! Help me restore my birthright!",
+  "files": [
+   "quests/2342-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "1b04543188b2",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Patrick Garrett",
+  "quest": "Reclaimed Treasures",
+  "en": "At last - a broom worthy of a Garrett. You're bloody well worth every silver I spent on you, I say!\n\nDo you hear me, foul bats? I now wield the Garrett family weapon of choice! Tremble, bats, tremble!!",
+  "files": [
+   "quests/2342-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "b0866be07265",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Talvash del Kissel",
+  "quest": "Replacement Phial",
+  "en": "Um... you need another phial of scrying? You're kidding, right? What did you do with the first one?! We have a lot of work ahead of us here, traveler. Those phials don't grow on trees! Actually, I wish they did, because I'd go there and pick one off since I don't have another one!!\n\nin order to make you one, I need the following: a mana potion, a piece of coal, and some sweet nectar. Don't ask why, just bring me what I ask and I'll make you a new one.",
+  "files": [
+   "quests/3375-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "e311aa36b23f",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Talvash del Kissel",
+  "quest": "Replacement Phial",
+  "en": "The mighty adventurer delivers. Hooray for me. By the way, I lied - I had another phial. Ungh, take it.\n\nWell, what did you expect?! \"Oh, here, have another one! I'm just some goofball who has nothing better to do than hand out magical communication devices to adventurers!\" Rest assured though, what you have given to me will be enough make you another phial when you lose that too.\n\nPlease prove me wrong and don't lose the new one, okay?",
+  "files": [
+   "quests/3375-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "e4b2befa323b",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Helgrum the Swift",
+  "quest": "Report to Helgrum",
+  "en": "Thank you, Adventurer. From Neeka's report, I see the Alliance is not without its own problems. And we may find that some enemies are shared between us.",
+  "files": [
+   "quests/1420-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "4ef045cf539c",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Neeka Bloodscar",
+  "quest": "Report to Helgrum",
+  "en": "I wrote a fresh report for Helgrum in Stonard. Bring it to him.\n\nAnd if you consider yourself an outrunner, then don't lose your way. Or fall to an enemy.",
+  "files": [
+   "quests/1420-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "d5c0fd042b7e",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Talvash del Kissel",
+  "quest": "Restoring the Necklace",
+  "en": "Let me grab a spell focus from inside my home here, and then we'll get started!",
+  "files": [
+   "followup/3121-gnome-male-standard"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "9f345eeba034",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Talvash del Kissel",
+  "quest": "Restoring the Necklace",
+  "en": "Bah, it isn't here. Where did I have that blasted thing at last?",
+  "files": [
+   "followup/3122-gnome-male-standard"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "4dd8bee93c36",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Talvash del Kissel",
+  "quest": "Restoring the Necklace",
+  "en": "That's right, it's over by the bed. Heh, sorry about that!",
+  "files": [
+   "followup/3123-gnome-male-standard"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "e33f793102fe",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Talvash del Kissel",
+  "quest": "Restoring the Necklace",
+  "en": "Fantastic then! Let's get this thing fixed for you.",
+  "files": [
+   "followup/3124-gnome-male-standard"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "dc73a6e5b425",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Talvash del Kissel",
+  "quest": "Restoring the Necklace",
+  "en": "Success! Huzzah! The power source restored the necklace!",
+  "files": [
+   "followup/3125-gnome-male-standard"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "191aade9f368",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Talvash del Kissel",
+  "quest": "Restoring the Necklace",
+  "en": "You are going to need to find some \"oomph\" for the necklace, and Uldaman is probably the best place for it, actually. I guess there are a lot of constructs running around in there, yeah? Well, take out the biggest, baddest construct in that place and grab its power source! I am pretty sure I can fuse that source into the necklace.\n\nWithout that power source, fixing the necklace will be impossible. Come back to me here to Ironforge when you have it, and we'll get it all fixed up for you!",
+  "files": [
+   "quests/2204-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "edb42aac3456",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Talvash del Kissel",
+  "quest": "Restoring the Necklace",
+  "en": "Well I'll be - I sure am glad to see you and this power source in one piece. It will take me a moment to magically fuse the power source with the necklace now that the gems have been reunited with it. Once it is done, however, the necklace will be yours!\n\nYou're excited, aren't you? All tingly with anticipation? Now where did I put that spell focus at...",
+  "files": [
+   "quests/2204-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "c3a7b5a1bcc5",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Talvash del Kissel",
+  "quest": "Restoring the Necklace",
+  "en": "I gladly give you this necklace, mighty Adventurer. You have done me an invaluable service, and for that I thank you. Wear it with pride, and make sure you mention loudly and repeatedly who made it for you!\n\nAlso, if you could toss in the fact that it really isn't cursed, that would be great.",
+  "files": [
+   "quests/2361-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "78a595deb69a",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Talvash's Scrying Bowl",
+  "quest": "Restoring the Necklace",
+  "en": "You are going to need to find some \"oomph\" for the necklace, and Uldaman is probably the best place for it, actually. I guess there are a lot of constructs running around in there, yeah? Well, take out the biggest, baddest construct in that place and grab its power source! I am pretty sure I can fuse that source into the necklace.\n\nWithout that power source, fixing the necklace will be impossible. Come back to me here to Ironforge when you have it, and we'll get it all fixed up for you!",
+  "files": [
+   "quests/2204-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "b6017242d7dc",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sigrun Ironhew",
+  "quest": "Scrounging",
+  "en": "It's going to be tough going here if I can't manage to scrounge up some materials to construct some defenses and other necessities. I've noticed that the ogres in the area seem to be well equipped with scrap metal. Maybe the stories of siege engines in the Badlands weren't so far off after all...\n\nAnyways, the Prospector's been getting worried about the state of our little camp, so I'd like to get working soon if I can.\n\nThe main ogre camp is at Dustbelch Grotto, a good trek to the west of here.",
+  "files": [
+   "quests/733-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "23134e65808c",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sigrun Ironhew",
+  "quest": "Scrounging",
+  "en": "It's a start, adventurer, and it'll have to do until we hear word from Ironforge or the Explorers' League.\n\nNow, if only I could find some salt somewhere for my quenching barrel...",
+  "files": [
+   "quests/733-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "6f9c80327d28",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Seal of the Earth",
+  "quest": "Seal of the Earth",
+  "en": "As you place the Runestones into the matching recesses, a violent rumbling shakes the earth as the Seal is broken.",
+  "files": [
+   "quests/779-complete",
+   "quests/795-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "1940d36133b6",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Theldurin the Lost",
+  "quest": "Solution to Doom",
+  "en": "Aha! That's it!",
+  "files": [
+   "followup/915-dwarf-male-standard"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "e8cca822288e",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Theldurin the Lost",
+  "quest": "Solution to Doom",
+  "en": "Oh my! Oh my! There is a doom approaching. Mark me! A doom!\n\nNo, I cannot speak of it...cannot utter their names or they may hear me! But if we learn, yes, if we learn more of them...then maybe we can learn how to foil them!\n\nMaybe.\n\nGo into Uldaman. No! I said it! You must find...find the tablet of...Ryun'eh. Yes, find it! And don't make me speak that name again!\n\nIt is deep in that place, in an ancient chest. That's where it hides...in a chest crafted before the works of any dwarf.",
+  "files": [
+   "quests/709-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "8c6b57ceee16",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Theldurin the Lost",
+  "quest": "Solution to Doom",
+  "en": "Oh, fortune is with us! Thank you! We may yet be saved!",
+  "files": [
+   "quests/709-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "93d5da23c23b",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lucien Tosselwrench",
+  "quest": "Stone Is Better than Cloth",
+  "en": "I know how cheap Lotwil can be, Adventurer, so let me make you something for all your troubles. Maybe it'll even help protect you from the coming atrocity that is Lotwil's newest invention.\n\nI've been working with all the extra stones you collected for him, and I can make some nice bracers that you might want to use. They're enchanted, of course.\n\nI'll just need patterned bronze bracers crafted by a blacksmith so I can complete the bracers I'm making for you.",
+  "files": [
+   "quests/716-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "29bafe4fa5d5",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lucien Tosselwrench",
+  "quest": "Stone Is Better than Cloth",
+  "en": "Here you go, Adventurer. Try these on.",
+  "files": [
+   "quests/716-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "68e28cd8dc4d",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lotwil Veriatus",
+  "quest": "Study of the Elements: Rock",
+  "en": "Here in the Badlands I've stopped to work on my latest project: my shackles of elemental binding.\n\nWhen complete, they will allow mages to summon even more powerful elementals for use in even greater capacities. To start things off, I need small stone shards to test some of my newest offensive spells along with a few gizmos I've pieced together.\n\nThe shards are easily collected from the lesser rock elementals to the west of here. Could you bring me some?",
+  "files": [
+   "quests/710-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "363f545eae8a",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lotwil Veriatus",
+  "quest": "Study of the Elements: Rock",
+  "en": "Adventurer, you've already proven more able than all my apprentices combined.\n\nThe next parts I need require a little more strength. Large stone slabs can be found on rock elementals if you're careful enough. Their bodies are stronger and larger, and therefore more prone to having pieces large enough for my tests. You can find them further west of here or southeast along the mountains' edges.\n\nTake your time; I'll need a while to test these smaller pieces you brought me.",
+  "files": [
+   "quests/711-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "ca092f20e637",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lotwil Veriatus",
+  "quest": "Study of the Elements: Rock",
+  "en": "Adventurer, simply amazing! I would have thought it'd take half a dozen tauren to bring all these to me.",
+  "files": [
+   "quests/711-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "44dae3812742",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lotwil Veriatus",
+  "quest": "Study of the Elements: Rock",
+  "en": "Adventurer, there's one more part I need from the elementals here in the Badlands: the bracers of rock binding from the greater rock elementals. By my calculations, those bracers should be enough to gauge the strength of my own shackles.\n\nMy attempts at scrying the greater rock elementals showed a group of them southwest of here, near some ogres if I recall.\n\nBring me 5 of their bracers just so I have extras. Servo's notorious for misplacing my reagents and research.",
+  "files": [
+   "quests/712-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "bdff198cdb74",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lotwil Veriatus",
+  "quest": "Study of the Elements: Rock",
+  "en": "Adventurer, have you ever considered becoming a research assistant? No? I'm not sure what I'll do without your abilities here. Intelligence, curiosity, and strength--all combined into one package.",
+  "files": [
+   "quests/712-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "7250673ed79c",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Baelog",
+  "quest": "The Hidden Chamber",
+  "en": "Now for the task at hand.\n\nThere is a secret chamber, the Chamber of Khaz'mul, that must be explored. The problem is that the chamber's behind a huge, locked door! It's a lucky thing I know how to open it.\n\nI've described everything in my journal, here on the table. My band and I are stuck here for now... so you, Adventurer, must find the chamber of Khaz'mul for us!\n\nRead my journal, explore the chamber, then report to Prospector Stormpike at the Explorers' League in Ironforge.",
+  "files": [
+   "quests/2240-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "f6b0e9b6ccc4",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Stormpike",
+  "quest": "The Hidden Chamber",
+  "en": "You have seen the Chamber of Khaz'mul? Amazing! Baelog was sure it existed, but I must admit that I had my doubts.\n\nThank you, Adventurer. With luck your finding will incite our leaders to renew their efforts to retake Uldaman. And if it is ever again under Ironforge control, then the secrets of the Chamber of Khaz'mul will be ours!",
+  "files": [
+   "quests/2240-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "fb1a11a37e4d",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Baelog",
+  "quest": "The Lost Dwarves",
+  "en": "It's about time you showed up! I was in danger of losing a bet with Olaf!\n\nHe wagered that his beard would grow to his knees before he saw another living traveler. Well here you are, and as you can see Olaf's beard has a few more inches to go.\n\nThanks, Adventurer. I'll split the winnings with you.",
+  "files": [
+   "quests/2398-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "77037679ec31",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Stormpike",
+  "quest": "The Lost Dwarves",
+  "en": "The dig site at Uldaman wasn't always overrun. We Ironforge dwarves used to control the area, but... that was before the troggs came. They came so fast and in such numbers that not even dwarven might could stop them!\n\nIn fact, their attack was so sudden that I fear some of our people may be trapped behind enemy lines.\n\nMy friend Baelog led a small band of dwarves deep within the site just before the troggs showed up. If he and his company live, then I want you to find them.",
+  "files": [
+   "quests/2398-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "007c1bc30548",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Theldurin the Lost",
+  "quest": "The Lost Fragments",
+  "en": "Those thieving elementals are up the path, this way. Good luck, adventurer.",
+  "files": [
+   "followup/3004-dwarf-male-standard"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "21dc75d12477",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Theldurin the Lost",
+  "quest": "The Lost Fragments",
+  "en": "Ah! There is my ratchet! Now let's re-attach these scroll fragments.",
+  "files": [
+   "followup/871-dwarf-male-standard"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "c67f9aa8a144",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Theldurin the Lost",
+  "quest": "The Lost Fragments",
+  "en": "There we are, adventurer. The Scroll is fixed! Hooray!",
+  "files": [
+   "followup/872-dwarf-male-standard"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "38716ae12d21",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Theldurin the Lost",
+  "quest": "The Lost Fragments",
+  "en": "The Scroll of Myzrael...the Scroll of Myzrael?! You don't want that! Its magic can pull Myzrael to the surface world and if you do that, we are in trouble!\n\nOr...maybe it's too late. Maybe she already is free. Maybe she's just gathering strength before unleashing herself upon us. If so, then you'll NEED the scroll!\n\n...too bad it's destroyed. Enraged elementals stole it and tore it up and now fight over the fragments.\n\nBut if you can gather those fragments, maybe we can fix it...",
+  "files": [
+   "quests/692-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "74bbc962ecd7",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Theldurin the Lost",
+  "quest": "The Lost Fragments",
+  "en": "Ah, you found them! Good work, Adventurer! These might be the only chance we have against the evil of Myzrael!\n\nJust let me find my scrap-ratchet and see if I can re-attach these fragments...",
+  "files": [
+   "quests/692-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "3c7e8b522179",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Advisor Belgrum",
+  "quest": "The Lost Tablets of Will",
+  "en": "We've slowed the Shadowforge clan by cutting them off from Blackrock Spire, but Hammertoe's quest is still unfulfilled. His death must not be in vain. He dreamt of finding the Tablet of Will: a stone shard inscribed with magic by the titans themselves to help imbue their creations with life--making them have a will of their own, or so the legends say.\n\nWe must still recover the Tablet before the Shadowforge clan finds it.\n\nReturn to Uldaman, find the tablet, and return here immediately.",
+  "files": [
+   "quests/1139-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "b2078a15b189",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Advisor Belgrum",
+  "quest": "The Lost Tablets of Will",
+  "en": "Adventurer, this is amazing. I shall have this brought to the king's mages as soon as possible. They will want to study it to find out if the legends are true. But that is a discussion for another time: you have aided our people more than I would have ever expected--thank you.",
+  "files": [
+   "quests/1139-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "137e3984ac52",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "High Explorer Magellas",
+  "quest": "The Platinum Discs",
+  "en": "What do you have there... oh my. You found this where?\n\nNo, really?\n\nYou spoke to whom about what?\n\nNO, REALLY?!\n\nMy fine adventurer, you may have just made the archaeological find of the year! By the Gods who am I kidding, the find of the century! If these discs are what I think them to be, then this could be the very key we have been looking for! This may well prove outright once and for all the legitimacy of the Dwarves' enchanted creation!",
+  "files": [
+   "quests/2279-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "6d5b37a79a57",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Sage Truthseeker",
+  "quest": "The Platinum Discs",
+  "en": "What are these here then?\n\nImpressive, young one! These discs, in them I sense secrets that the earth has held on to tightly for many years. You were very wise to bring them here to me.",
+  "files": [
+   "quests/2280-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "9278a99b1ac1",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "The Discs of Norgannon",
+  "quest": "The Platinum Discs",
+  "en": "The centerpieces of this treasure chamber are four huge platinum discs, each adorned with numerous sigils of an unknown origin. Touching them makes your hand tingle. Just after touching the discs, the visage of a large stone watcher springs forth.\n\n\"Salutations. I am a keeper of knowledge. The Creators' synthesis of the Earthen has been chronicled and stored here for this world in the Discs of Norgannon.\"\n\nYou have uncovered a wealth of previously undiscovered worldly lore!",
+  "files": [
+   "quests/2278-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "cd52fc6c72de",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "The Discs of Norgannon",
+  "quest": "The Platinum Discs",
+  "en": "Following the instructions of the stone watcher, you once again access the Discs of Norgannon now that you have learned about the history of the Earthen, the troggs, and the dwarves. A faint, brief hum is heard from within the discs. The stone watcher then speaks:\n\n\"The discs have now been synthesized. Access the Discs of Norgannon once more to receive your personal copy.\"",
+  "files": [
+   "quests/2278-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "9ed5cd86d36d",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "The Discs of Norgannon",
+  "quest": "The Platinum Discs",
+  "en": "Touching the Discs of Norgannon once again makes your hand tingle. This time, however, a strange grinding noise is heard from inside the discs.\n\nYour backpack suddenly becomes heavier than it was before. Inside, you discover a miniature version of the discs!\n\nNo doubt, an item of this sort would be invaluable for someone interested in the ancient history of Azeroth. The Explorers' League in Ironforge is such a group, known throughout the Alliance; perhaps they can make good use of it.",
+  "files": [
+   "quests/2279-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "1ffe02955519",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "The Discs of Norgannon",
+  "quest": "The Platinum Discs",
+  "en": "Touching the Discs of Norgannon once again makes your hand tingle. This time, however, a strange grinding noise is heard from inside the discs.\n\nYour backpack suddenly becomes heavier than it was before. Inside, you discover a miniature version of the discs!\n\nNo doubt, an item of this sort would be invaluable for someone interested in the ancient history of Azeroth. The sages of Thunder Bluff are such historians, known throughout the Horde; perhaps they can make good use of it.",
+  "files": [
+   "quests/2280-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "b8e6f244e5d6",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Hierophant Theodora Mulvadania",
+  "quest": "The Rise of the Machines",
+  "en": "G.L.A.\n\nThose are the 'initials' imprinted on the elemental shards. Below the initials are a rank marking of some sort. The machinations you destroyed in the Burning Steppes were of 'Rank IV.' I assume that this is a lowly rank.\n\nTake this shard sample to Lotwil Veriatus in the camp to the east. He is a scholar of some renown in the field of elemental sciences. He may be able to assist us in our search.",
+  "files": [
+   "quests/4062-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "26388396773b",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lotwil Veriatus",
+  "quest": "The Rise of the Machines",
+  "en": "I... I know these markings.",
+  "files": [
+   "quests/4062-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "9a88c1c08c60",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Shattered Necklace",
+  "quest": "The Shattered Necklace",
+  "en": "You have found a tarnished necklace, though the tarnish belies intricate and magical craftsmanship. The necklace has been shattered, as its setting appears to be missing three gems. On the underside of the necklace is the faint imprint of the city seal for Ironforge. Below the seal are three tiny, engraved letters: \"TdK\".\n\nIf there is anything to be gleaned from the necklace, you will need to learn about its origins. Perhaps the seal and the initials are a start...",
+  "files": [
+   "quests/2198-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "9f276c33af3e",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Talvash del Kissel",
+  "quest": "The Shattered Necklace",
+  "en": "Yes... I am the jeweler who made this necklace. I also am not in the business of handing out information as though it were free. Information is never free, friend. If I am going to help you out, you need to help ME out first.",
+  "files": [
+   "quests/2198-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "354e27175dd3",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gerrig Bonegrip",
+  "quest": "The Star, the Hand and the Heart",
+  "en": "I thank you, adventurer. My associates who will do great things with these...",
+  "files": [
+   "followup/920-dwarf-male-grim"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "0cf14110e70c",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gerrig Bonegrip",
+  "quest": "The Star, the Hand and the Heart",
+  "en": "Yagyin's Digest, eh? Are you starting a new chapter of us, somewhere? Never mind, it is not my place to ask.\n\nI will help you, for I have an extra copy. We must aid each other, yes? That is how we flourish.\n\nI require three items of power. Bring them to me and I will give you the digest.\n\nI will not speak their names. Ears may be on us. But here, I will write them down.",
+  "files": [
+   "quests/735-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "34d4e901cff8",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gerrig Bonegrip",
+  "quest": "The Star, the Hand and the Heart",
+  "en": "You are resourceful, adventurer. If it truly is your charge to begin a new chapter of our order, then I believe you will run it well.",
+  "files": [
+   "quests/735-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "9071767cb8aa",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lotwil Veriatus",
+  "quest": "This Is Going to Be Hard",
+  "en": "Wonderful, wonderful.\n\n\nGo speak to Lucien, Adventurer. I need a cog #5. Bring it to me, will you?",
+  "files": [
+   "quests/734-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "bfaca7e1ac3b",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lotwil Veriatus",
+  "quest": "This Is Going to Be Hard",
+  "en": "Haha! Done! The shackles are done!\n\nIt's time, Lucien. It's time, Servo!\n\nAre you ready to bear witness to the perfect blend of alchemy, engineering, and the arcane, Adventurer?\n\nI shall summon forth a powerful elemental now. This is a groundbreaking day for all of us.",
+  "files": [
+   "quests/778-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "eaf7219b6bee",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lotwil Veriatus",
+  "quest": "This Is Going to Be Hard",
+  "en": "Thank you, Adventurer. That was quite an ordeal, wasn't it?\n\nI'm not sure what could have gone wrong. It was a good thing my magics were here to help send the creature back to its home plane.\n\nPerhaps a little token of appreciation for all your hard work...",
+  "files": [
+   "quests/778-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "0ab87ff2adcb",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lucien Tosselwrench",
+  "quest": "This Is Going to Be Hard",
+  "en": "Cog #5, huh? Yeah, this isn't going to be good.",
+  "files": [
+   "quests/734-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "5dd399dcfaa6",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lucien Tosselwrench",
+  "quest": "This Is Going to Be Hard",
+  "en": "Okay, here you go.\n\nI'm going to be over here... behind cover.\n\nFeel free to join me.",
+  "files": [
+   "quests/777-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "74391c93d14f",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gerrig Bonegrip",
+  "quest": "To Ironforge for Yagyin's Digest",
+  "en": "Oh. Greetings, brother.\n\nAnd praise to the dwellers beneath.",
+  "files": [
+   "quests/m-727-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "a8bc1c001bce",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Theldurin the Lost",
+  "quest": "To Ironforge for Yagyin's Digest",
+  "en": "The Tablet tells much. But not enough! Not nearly enough!\n\nThere is a book, a digest that Yagyin wrote in ages past. The ... people I fled ... they keep this book in many places. And their most learned study it. It holds vast knowledge. Knowledge to protect us!\n\nGo to Gerrig Bonegrip. He is in a shop in Ironforge, in the Forlorn Cavern. Show him this sigil and he'll think you one of them. Ask him for Yagyin's Digest ... and bring it to me!",
+  "files": [
+   "quests/727-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "ee5ab4be4610",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Keeper Bel'dugur",
+  "quest": "To the Undercity for Yagyin's Digest",
+  "en": "Be discrete with your signs, adventurer. There are those who do not believe the righteousness of our pledge.\n\nAnd there are those who would see us fail if they knew of us.\n\nWe must always be careful. And watchful. And patient.",
+  "files": [
+   "quests/728-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "6c7d74c5e1a4",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Theldurin the Lost",
+  "quest": "To the Undercity for Yagyin's Digest",
+  "en": "The tablet tells much. But not enough! Not nearly enough!\n\nThere is a book, a digest that Yagyin wrote in ages past. The... people I fled from... they keep this book in many places. And their most learned study it. It holds vast knowledge. Knowledge to protect us!\n\nGo to Keeper Bel'dugur in the Undercity of Lordaeron. Show him this sigil and he'll think you one of them. Ask him for Yagin's Digest...and bring it to me!",
+  "files": [
+   "quests/728-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "99cf84b7fbd5",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jarkal Mossmeld",
+  "quest": "Translating the Journal",
+  "en": "Allow me to get some water for the inking reagent.",
+  "files": [
+   "followup/3082-troll-male-shaman"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "44fcf87dfb32",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jarkal Mossmeld",
+  "quest": "Translating the Journal",
+  "en": "This will do nicely. Now to the task at hand!",
+  "files": [
+   "followup/3084-troll-male-shaman"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "a584088a71fb",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jarkal Mossmeld",
+  "quest": "Translating the Journal",
+  "en": "There we go, all finished. The journal has been translated for you.",
+  "files": [
+   "followup/3085-troll-male-shaman"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "50d4f193a485",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jarkal Mossmeld",
+  "quest": "Translating the Journal",
+  "en": "Mighty adventurer, I know what you are doing out here in the Badlands. I know you seek my gift of tongues. You're after the parts to that necklace you found in Uldaman.\n\nSurprised? Don't be - it's my job to know such things. Instead, let's discuss what you're going to do for a translated journal. Trust me - I'm the only one you'll find that can translate it.\n\nBetter still, let me make you a better offer than Dran Droffers is, and it'll let you still complete your deal with them. Interested now, yes?",
+  "files": [
+   "quests/2318-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "450ef4c10c93",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jarkal Mossmeld",
+  "quest": "Translating the Journal",
+  "en": "Droffers and Son Salvage aren't smart enough to restore the magic in the necklace, but I am. All I want to do is study the necklace so I can learn to make them myself. To do that, I will need your necklace. Let me borrow it, and in exchange for the time I get to study it I will translate the journal for you. While you are searching for the gems, I should have enough time to learn what I need to.\n\nIt's a simple deal, and no one else will be the wiser. Whatcha wanna do?",
+  "files": [
+   "quests/2338-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "55c4cd90f1e6",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jarkal Mossmeld",
+  "quest": "Translating the Journal",
+  "en": "You know a good deal when you see one - I knew I could count on you.\n\nIt will be just a moment while I cast a spell to quickly translate the human tongue into a form you will understand. I am a troll of my word; ask anyone in the Horde about Jarkal Mossmeld. Now, let's get this started...",
+  "files": [
+   "quests/2338-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "3d75513810c0",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Remains of a Paladin",
+  "quest": "Translating the Journal",
+  "en": "At an impasse of sorts, you know that you will need the book translated into a language you can understand. There certainly are a number of people in the world who could do it; the closest location that might have someone who could, however, is the Kargath outpost in the Badlands. Perhaps that is a good place to start.",
+  "files": [
+   "quests/2318-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "88ef691c2c4e",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ghak Healtouch",
+  "quest": "Uldaman Reagent Run",
+  "en": "I've heard about a newly discovered plant called the magenta fungus caps. They grow in clusters, deep in the Uldaman dig site; they may be elsewhere, but for now that's the only place I know they're at. I want to study their potential use in alchemy, and that's where you come in.\n\nFind the magenta cap clusters and bring me a dozen caps. Be warned, the clusters may spew out poison spores if jostled.\n\nDo this for me, and I'll whip up a batch of one of my famous restorative elixirs for you!",
+  "files": [
+   "quests/17-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "d056ccb2e671",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Ghak Healtouch",
+  "quest": "Uldaman Reagent Run",
+  "en": "Well done Adventurer, you've proven your worth once again! The caps will be an interesting study, yon verily!\n\nAnd now, as promised, enjoy a taste of one of my more potent restorative brews from my personal stock...\n\nIf you are a skilled alchemist, then perhaps we might have some additional business to conduct. Regardless, I thank you for your assistance!",
+  "files": [
+   "quests/17-complete"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "f19680a51fac",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jarkal Mossmeld",
+  "quest": "Uldaman Reagent Run",
+  "en": "I've heard about a newly discovered plant called the magenta fungus caps. They grow in clusters, deep in the Uldaman dig site; they may be elsewhere, but for now that's the only place I know they're at. I want to study their potential use in alchemy, and that's where you come in.\n\nFind the magenta cap clusters and bring me a dozen caps. Be warned, the clusters may spew out poison spores if jostled.\n\nDo this for me, and I'll whip up a batch of one of my famous restorative elixirs for you!",
+  "files": [
+   "quests/2202-accept"
+  ],
+  "uiMap": 1418
+ },
+ {
+  "id": "18414bb9d1a9",
+  "zone": "badlands",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jarkal Mossmeld",
+  "quest": "Uldaman Reagent Run",
+  "en": "Well done Adventurer, you've proven your worth once again! The caps will be an interesting study, you betcha.\n\nAnd now, as promised, enjoy a taste of one of my more potent restorative brews from my personal stock...\n\nIf you are a skilled alchemist, then perhaps we might have some additional business to conduct. Regardless, I thank you for your assistance!",
+  "files": [
+   "quests/2202-complete"
+  ],
+  "uiMap": 1418
+ }
+]

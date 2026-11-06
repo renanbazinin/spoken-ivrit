@@ -1,0 +1,226 @@
+[
+ {
+  "id": "9810f435f6e3",
+  "zone": "burning-steppes-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Borgus Stoutarm",
+  "quest": null,
+  "en": "Where would you like to fly to?",
+  "files": [
+   "gossip/646a52da6f00e2b6b680741da2aab13f"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "f6a15aa50716",
+  "zone": "burning-steppes-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Rumblerock",
+  "quest": null,
+  "en": "Winterhoof? I hear he's living it up in Booty Bay.",
+  "files": [
+   "gossip/37a1c67b2928272c30a2e3b3821eadc1"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "5a6d6c989729",
+  "zone": "burning-steppes-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Rumblerock",
+  "quest": null,
+  "en": "Elder Dawnstrider can be found at Flame Crest on the Burning Steppes.",
+  "files": [
+   "gossip/a82acbf9cc59e1d9b14eec0cc0cef377"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "ad097ba20779",
+  "zone": "burning-steppes-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Franclorn Forgewright",
+  "quest": null,
+  "en": "I had no choice, or so I thought. I would endure the destruction of Thaurissan and stand by the side of my king and his people.\n\nUnder the control of Ragnaros, King Dagran Thaurissan tore out the heart of this mountain and erected Blackrock Spire. We worked tirelessly to build a dwarven city mightier than any city or fortress that came before... or would come after.",
+  "files": [
+   "gossip/17e21be1e50dc9c08937a3456cfb470b"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "7d56ea65d69d",
+  "zone": "burning-steppes-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Franclorn Forgewright",
+  "quest": null,
+  "en": "My great hammer, Ironfel, was handed down to the new chief architect, Fineous Darkvire: A man of despicable motive and little talent.\n\nThis is where you come in, adventurer. I want him stopped. He is too inept to harness the true power of Ironfel, but should one come after him with the aptitude to use Ironfel to its full potential, the destruction they could cause with their creations would be disastrous to this world.",
+  "files": [
+   "gossip/2c2818dcbcbdbda227ed1e41d7b52a77"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "00e4939aaa11",
+  "zone": "burning-steppes-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Franclorn Forgewright",
+  "quest": null,
+  "en": "I stood by and watched the corruption of Ragnaros seep through the hearts and minds of the Dark Iron nation. This once honorable race, driven to madness... to evil.\n\nWhen the construction of the Spire was complete, my will to live amongst my people gave way. I passed as a hero of the new nation of Dark Iron. This tomb was placed here - at the entrance to the city I planned and built - in honor of my efforts.",
+  "files": [
+   "gossip/42970ea1c51bac4df67fd4dc66fc91bf"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "c6ac82144a1e",
+  "zone": "burning-steppes-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Franclorn Forgewright",
+  "quest": null,
+  "en": "Greetings, traveler. I am Franclorn Forgewright. Are you here to learn of the Spire and of Dark Iron?",
+  "files": [
+   "gossip/ee11d419f725f323959cf1466840e61b"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "44941cd1d202",
+  "zone": "burning-steppes-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Gorzeeki Wildeyes",
+  "quest": null,
+  "en": "Do you have any spiders or beetles, adventurer? They scurry fast, but if you're faster then you'll find them quite a treat!",
+  "files": [
+   "gossip/767f180e80a535e7f390f3d311039337"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "b030c5f9ec90",
+  "zone": "burning-steppes-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Helendis Riverhorn",
+  "quest": null,
+  "en": "Greetings, Traveler.",
+  "files": [
+   "gossip/0793fb444e9e3f6785a013caab465dd1"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "efae4e6c9f48",
+  "zone": "burning-steppes-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mor'zul Bloodbringer",
+  "quest": null,
+  "en": "There comes a time when the life we know falls short. We are trapped and look for answers, and we find hope burning in dark places.\n\nOnly then, adventurer, do we take our first steps to freedom.",
+  "files": [
+   "gossip/5842c6675f139b38423a41749960a522"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "cba657ea89b2",
+  "zone": "burning-steppes-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Oralius",
+  "quest": null,
+  "en": "Stand at attention, soldier!\n\nWINKY! SOUND OFF!",
+  "files": [
+   "gossip/3bc7e8bfa9c3867d6b13dd7d383c1acd"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "f4e7c88c641c",
+  "zone": "burning-steppes-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Orb of Command",
+  "quest": null,
+  "en": "A large humanoid hand print is embedded on the surface of the orb. Despite what appears to be constant manipulation and handling, the orb remains unmarred.",
+  "files": [
+   "gossip/0f22270c02f48a29cf9c86a0b391518f"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "7e6b188e8ece",
+  "zone": "burning-steppes-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Orb of Command",
+  "quest": null,
+  "en": "The orb's markings match the brand on your hand.",
+  "files": [
+   "gossip/bac94d7200b614200b87cee2f536db9b"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "a2f80b65a7bb",
+  "zone": "burning-steppes-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Sha'ni Proudtusk's Remains",
+  "quest": null,
+  "en": "The remains are covered in flies and maggots.",
+  "files": [
+   "gossip/2f784284d20f290e01140cc7e43f3bbc"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "5fbb61c1e083",
+  "zone": "burning-steppes-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Tablet of the Seven",
+  "quest": null,
+  "en": "The symbols on the tablet are carefully transcribed...",
+  "files": [
+   "gossip/1441f593f536c438e86c832a3994399f"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "b703005dbe71",
+  "zone": "burning-steppes-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Tablet of the Seven",
+  "quest": null,
+  "en": "Burning Steppes - Tablet of the Seven",
+  "files": [
+   "gossip/d53d78383a00e34fee253b35f4822f53"
+  ],
+  "uiMap": 1428
+ }
+]

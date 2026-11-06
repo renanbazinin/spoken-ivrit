@@ -1,0 +1,1715 @@
+[
+ {
+  "id": "e3e40b183047",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Rashona Straglash",
+  "quest": "A Donation of Runecloth",
+  "en": "Adventurer, you've been a tremendous contributor to our cloth drive. As we work hard to replenish our reserves, I must impart news upon you the most severe of our deficiencies - runecloth. We are in absolutely dire need of runecloth, and we hope that you will be able to help us as you have in the past.\nIf you are willing, please bring me what runecloth you can spare. We'll initially accept a single donation of sixty, and then we'll go from there.",
+  "files": [
+   "quests/7824-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "370a145343ed",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Rashona Straglash",
+  "quest": "A Donation of Runecloth",
+  "en": "With all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future. Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!",
+  "files": [
+   "quests/7824-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "22e8ee23746f",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Rashona Straglash",
+  "quest": "A Donation of Runecloth",
+  "en": "Fantastic - these will go right to use, I assure you. Thank you again for your assistance! We'd certainly be lost without you.\n\nWith all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future. Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!",
+  "files": [
+   "quests/7824-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "cffb8f80b826",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Vehena",
+  "quest": "A Donation of Runecloth",
+  "en": "Adventurer, you've been a tremendous contributor to our cloth drive. As we work hard to replenish our reserves, I must impart news upon you the most severe of our deficiencies - runecloth. We are in absolutely dire need of runecloth, and we hope that you will be able to help us as you have in the past.\nIf you are willing, please bring me what runecloth you can spare. We'll initially accept a single donation of sixty, and then we'll go from there.",
+  "files": [
+   "quests/7836-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "0d55a2f22b2e",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Vehena",
+  "quest": "A Donation of Runecloth",
+  "en": "With all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future. Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!",
+  "files": [
+   "quests/7836-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "0064c9ae3961",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Vehena",
+  "quest": "A Donation of Runecloth",
+  "en": "Fantastic - these will go right to use, I assure you. Thank you again for your assistance! We'd certainly be lost without you.\n\nWith all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future. Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!",
+  "files": [
+   "quests/7836-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "f3558606d933",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Rashona Straglash",
+  "quest": "A Donation of Wool",
+  "en": "Wonderful! We thank you for your generous donation, Adventurer!",
+  "files": [
+   "quests/7826-complete",
+   "quests/7827-complete",
+   "quests/7831-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "2e008c4781a5",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Vehena",
+  "quest": "A Donation of Wool",
+  "en": "Wonderful! We thank you for your generous donation, Adventurer!",
+  "files": [
+   "quests/7833-complete",
+   "quests/7834-complete",
+   "quests/7835-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "ccaebfd74fa9",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bounty Hunter Kolark",
+  "quest": "A Fair Trade",
+  "en": "Excellent! I am a Tauren of my word, traveler. The arrows are yours.",
+  "files": [
+   "quests/7341-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "4130798ce92b",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Belgrom Rockmaul",
+  "quest": "A Threat in Feralas",
+  "en": "Feralas is an ideal location for an accomplished adventurer to prove himself. A tribe of ogres called the Gordunni are the dominant military force there, and their numbers are growing. They must be stopped before they threaten our presence in Feralas.\n\nA warrior I know of named Rok Orhan resides at Camp Mojache in Feralas; go to her. She will tell you more of the situation when you arrive.",
+  "files": [
+   "quests/m-2981-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "5686eb0bd337",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Rok Orhan",
+  "quest": "A Threat in Feralas",
+  "en": "So, Belgrom sent you. You are just in time, traveler.\n\nLet me explain the situation, and then you can decide if you are up to the challenge... But if Belgrom sent you, I am sure your courage is unquestionable.",
+  "files": [
+   "quests/2981-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "abe27c11e299",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Rashona Straglash",
+  "quest": "Additional Runecloth",
+  "en": "Adventurer - without heroes like you working on behalf of the tribe, we'd surely suffer. Thank you for your continued efforts!",
+  "files": [
+   "quests/7832-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "400fc2376b33",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Vehena",
+  "quest": "Additional Runecloth",
+  "en": "Adventurer - without heroes like you working on behalf of the tribe, we'd surely suffer. Thank you for your continued efforts!",
+  "files": [
+   "quests/7837-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "2668208b6f3b",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Craven Drok",
+  "quest": "Alliance Relations",
+  "en": "Be still, adventurer, and allow me to share with you something important to our people, but far from obvious.\n\nWe are a proud race, and the war with the humans tried even Thrall's great patience. You see, our Warchief is wise and prudent, and he continues to put his people first. Ultimately, he is a diplomat, and in his time with the humans he learned much of their ways.\n\nIf the tale I've started piques your interest, then find Keldran near the western exit of the city. His hovel is there.",
+  "files": [
+   "quests/1431-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "7555ff5d5626",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Keldran",
+  "quest": "Alliance Relations",
+  "en": "Putanni, noble adventurer. I am Keldran, student of magic... and other mystical arts.\n\nThe business Craven sent you here to speak to me about requires a touch more subtlety than you've previously needed, but that does not mean you can not still aid our cause.\n\nPlease, make yourself comfortable, and I shall tell you why the Warchief has need of my aid... and yours.\n\nIt starts with appearances, Adventurer. How the Horde sees itself. How our allies see us. And most importantly, how our enemies see us.",
+  "files": [
+   "quests/1431-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "6ae2a79a5b20",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Keldran",
+  "quest": "Alliance Relations",
+  "en": "As the Alliance progresses deeper and deeper into Kalimdor, incorrect conclusions may be drawn about the Horde making pacts with the Burning Legion. The Warchief cannot allow that to happen. And with his blessing, I am taking control of overseeing them removed.\n\nI have agents in the area of Desolace at the Ghost Walker Post north of the great Kodo Graveyard. Head south of the Charred Vale in the Stonetalon Mountains and you shall come across it. When you arrive, seek out Takata Steelblade.",
+  "files": [
+   "quests/1432-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "d05dc036162e",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Keldran",
+  "quest": "Alliance Relations",
+  "en": "You have returned from Desolace more than successful, Adventurer. Thank you.\n\nThank you for your efforts, your time, and your understanding to my plea. Thrall understands and desires peace between the Horde and Alliance, and by taking measures to insure our appearance is acceptable, we will not provoke any further threats of unnecessary violence.\n\nI am indebted to you.",
+  "files": [
+   "quests/1436-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "e8b876262cd2",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Maurin Bonesplitter",
+  "quest": "Alliance Relations",
+  "en": "Ah, yes. Aid from those loyal to the Warchief is always appreciated.\n\nMy name is Maurin. I am here at the behest of Keldran and the Warchief cub Thrall. It is my desire to aid the youngling leader against the evils that threaten his rule.\n\nCome, come closer, adventurer. I shall explain to you my plan for removing the festering boil that is the Burning Blade.",
+  "files": [
+   "quests/1433-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "9d1507d710f9",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Takata Steelblade",
+  "quest": "Alliance Relations",
+  "en": "Greetings, adventurer. You bring news from Orgrimmar; that is good.\n\nThe demon infestation overwhelms this area even more than the smell of centaur dung. The horse-men claim this land as their own, but clearly there are influences out of their control that will crush them if not kept in check.\n\nIt does not please me that we aid the centaur indirectly, but it is for the good of the Horde, so I do my duty for the Warchief, even if it means helping the warlocks within the Horde.",
+  "files": [
+   "quests/1432-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "7e1904bc9d07",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Takata Steelblade",
+  "quest": "Alliance Relations",
+  "en": "The Burning Blade have many agendas, but know that they are evil to their core, their spirits corrupted, and their destruction is the only way to thwart their objectives.\n\nKeldran sent Maurin with me because of his knowledge of the Blade and their warlock ways.\n\nHe has control of our plots against the Blade while I deal with the other demonic threats here in Desolace.\n\nSpeak to him, and he will guide you in his designs.",
+  "files": [
+   "quests/1433-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "0eaf06edc9e4",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Takata Steelblade",
+  "quest": "Alliance Relations",
+  "en": "The fight goes well, Adventurer. Perhaps the Warchief will allow us to return to our homes before the seasons change if we continue to make such great strides in our battle against the demons and their underlings.\n\nReturn to Keldran and let him know what we have done. I am sure he will reward you for your efforts here. His cause is important to him, and he will take pride in knowing that the Warchief respects his concerns.",
+  "files": [
+   "quests/1436-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "d69c20a6c071",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mokvar",
+  "quest": "An Earnest Proposition",
+  "en": "Begone foul creatures! Go back to the void your master shaped you from!",
+  "files": [
+   "followup/11895-orc-male-standard"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "f40d11d91bb6",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mokvar",
+  "quest": "An Earnest Proposition",
+  "en": "Hail, adventurer! I can tell by your demeanor that you've seen and done much in this world. Yet I'm willing to wager you haven't seen a piece of armor like this.\n\nPerform a small favor for me and I'll be willing to trade it to you for an ordinary set of bracers.\n\nI'm in need of a sizeable sample of venom drawn from the spiders and scorpions that inhabit Silithus. Bring this to me along with a few gold coins and I'll perform the exchange.",
+  "files": [
+   "quests/8913-accept",
+   "quests/8914-accept",
+   "quests/8915-accept",
+   "quests/8916-accept",
+   "quests/8917-accept",
+   "quests/8918-accept",
+   "quests/8919-accept",
+   "quests/8920-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "94a94e778183",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mokvar",
+  "quest": "An Earnest Proposition",
+  "en": "Ah, yes. Mux will be quite happy with this.\n\nThose bracers were part of a larger armor set. If you're interested in providing me with further assistance, I'd be willing to consider parting with the rest of it.",
+  "files": [
+   "quests/8913-complete",
+   "quests/8915-complete",
+   "quests/8916-complete",
+   "quests/8917-complete",
+   "quests/8919-complete",
+   "quests/8920-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "c0d241cb3119",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mokvar",
+  "quest": "An Earnest Proposition",
+  "en": "Ah, yes. Mux will be quite happy with this.\n\nThose bindings were part of a larger armor set. If you're interested in providing me with further assistance, I'd be willing to consider parting with the rest of it.",
+  "files": [
+   "quests/8914-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "c1eec5c3f1f7",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mokvar",
+  "quest": "An Earnest Proposition",
+  "en": "Ah, yes. That old goblin shall be quite happy with this blood.\n\nThose bracers were part of a larger armor set. If you're interested in providing me with further assistance I'd be willing to consider parting with the rest of it.",
+  "files": [
+   "quests/8918-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "e10ec255112b",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Anthion Harmon",
+  "quest": "Anthion's Parting Words",
+  "en": "Valthalak's soul was stored in this amulet. In our greed we foolishly split it into three parts, not knowing the curse that would await us.\n\nThe only way to stop Valthalak's spell is to put the amulet back together. Return to Mokvar and tell him that Bodley is his only hope for finding the remaining pieces. Speak to him about any rewards you've arranged for.\n\nI, for once, shall rest in peace. I wish you the best of luck; you shall need every bit of it!",
+  "files": [
+   "quests/8957-accept",
+   "quests/9016-accept",
+   "quests/9017-accept",
+   "quests/9018-accept",
+   "quests/9019-accept",
+   "quests/9020-accept",
+   "quests/9021-accept",
+   "quests/9022-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "61bdcf9627d8",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mokvar",
+  "quest": "Anthion's Parting Words",
+  "en": "I can't believe our lives are all but forfeit all because of a stupid medallion! And you're sure Anthion mentioned Bodley?\n\nWell, you've done your job so let's get your reward out of the way.",
+  "files": [
+   "quests/8957-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "4513e7a386d9",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mokvar",
+  "quest": "Anthion's Parting Words",
+  "en": "This curse was bestowed upon us but for a mere medallion. Lord Valthalak certainly knows how to hold a grudge.\n\nWe'll endeavor to find the remaining pieces - hopefully before I meet an untimely demise. But before that, let us see about your reward.",
+  "files": [
+   "quests/9016-complete",
+   "quests/9017-complete",
+   "quests/9018-complete",
+   "quests/9019-complete",
+   "quests/9020-complete",
+   "quests/9021-complete",
+   "quests/9022-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "76d895b275cc",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Hamuul Runetotem",
+  "quest": "Assisting Arch Druid Runetotem",
+  "en": "Greetings, adventurer; I am glad you are interested in assisting our research. There is much to do, and I would be doing you a disservice if I informed you that the work this entails is not dangerous. Hopefully this will not scare you off... but from the looks of you, I take it that danger is something that you have dealt with before.",
+  "files": [
+   "quests/936-complete",
+   "quests/3762-complete",
+   "quests/3784-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "fe283b9b971f",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Gryshka",
+  "quest": "Assisting Arch Druid Runetotem",
+  "en": "Excuse me adventurer, but I'd like just a moment of your time if possible.\n\nThe Cenarion Circle in Thunder Bluff is most interested in seasoned adventurers such as yourself to lend them aid in a vital research project. While I do not know the specifics, I can inform you that none other than Hamuul Runetotem is spearheading this research.\n\nPlease - if you are interested, speak with him directly on the Elder Rise within Thunder Bluff proper.",
+  "files": [
+   "quests/936-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "c28bf590f854",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "Back to the Beginning",
+  "en": "I suppose that this is goodbye then, my friend. But, I'll always be here if you want to come back and talk with me from time to time. Probably while you're loitering around waiting for your buddies to join you for a raid on Blackrock Spire.\n\nGo, before I start to cry. Go back to Mokvar in Orgrimmar and tell him what's happened.",
+  "files": [
+   "quests/8998-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "a88519d956c2",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mokvar",
+  "quest": "Back to the Beginning",
+  "en": "I am pleased to see that you have survived, Adventurer. You look well, if not a bit more seasoned.\n\nCome, tell me of all that has transpired.",
+  "files": [
+   "quests/8998-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "5b1e112276df",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Takata Steelblade",
+  "quest": "Befouled by Satyr",
+  "en": "A demon infestation does not occur without other influences--something else allows evil to gain a foothold.\n\nIt may start with a weakened spirit, a needless desire for power; perhaps it's a thirst for revenge, or the appeal for final justice. When we are beset by pain, evil takes advantage of us--evil such as the satyr.\n\nTies have been made between them and the Burning Blade, and Thrall would have them slain. Seek them out to the northeast of here, and return to me when you've driven them back.",
+  "files": [
+   "quests/1434-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "6ef34f5948c8",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Takata Steelblade",
+  "quest": "Befouled by Satyr",
+  "en": "You have done well, adventurer. You have shown honor and dedication.\n\nWhen our campaign in Desolace is done, the Warchief will know that you aided us in our actions here, and that you helped make his will manifest.\n\nI thank you.",
+  "files": [
+   "quests/1434-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "cbe4521732bb",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ag'tor Bloodfist",
+  "quest": "Betrayed",
+  "en": "We've sent everything we had at her and her workers, but they are strong in battle. None have bothered to return. I'm assuming some have died, but I'm sure others simply ran... cowards.\n\nBut now that reinforcements have arrived, perhaps there's still something we can do. Perhaps we can still punish her for lying and betraying Belgrom.\n\nWhat do you say, are you in?",
+  "files": [
+   "quests/3504-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "dbdfa846fa89",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ag'tor Bloodfist",
+  "quest": "Betrayed",
+  "en": "I thought as much.\n\nWe start our crusade against her workers along the southern bluffs on the northern peninsula of Azshara. Kill them with bloody rage--let them know they've betrayed the wrong allies.\n\nDo not concern yourself with her yet--she spends most of her time with her bodyguards searching Azshara. It would be prudent after you've slain her workers to find her personal camp. Scouting out where we can attack her would be wise. Perhaps there is something there we can use to provoke her.",
+  "files": [
+   "quests/3505-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "a55487ea7c82",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ag'tor Bloodfist",
+  "quest": "Betrayed",
+  "en": "RAR!! Incredible!\n\nYou've done it! Belgrom will be pleased! Finally the spirits of dozens of our warriors can be at peace. Thank you, Adventurer.",
+  "files": [
+   "quests/3506-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "2f6a268720ce",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ag'tor Bloodfist",
+  "quest": "Betrayed",
+  "en": "Return to Belgrom in Orgrimmar. He will want to see her head for himself! We'll return there shortly.\n\nAh, this is indeed a good day. Thank you for your help, Adventurer.",
+  "files": [
+   "quests/3507-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "8cb880ffbc84",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Belgrom Rockmaul",
+  "quest": "Betrayed",
+  "en": "Betraying, thieving woman! That's what I call her--that's all she'll ever be!\n\nI may have made a grave mistake, Adventurer. I trusted a blood elf. What's worse, I trusted a woman!\n\nShe claimed Azshara would hold great riches... powerful items. I simply send some warriors with her to protect her and I would be rewarded. Well, look who's the fool--she's killed them all.\n\nI want vengeance, Adventurer, but I can't afford to send anyone else. Find Ag'tor at Valormok, north of the Haldarr Encampment. He'll tell you more.",
+  "files": [
+   "quests/3504-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "6baa60b5261b",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Belgrom Rockmaul",
+  "quest": "Betrayed",
+  "en": "HAHA! Look at you now, pathetic woman! I spit on your remains!\n\nThank you, Adventurer. Thank you from the bottom of my heart! This is indeed a great day!\n\nI would give you a kingdom if it were in my power! But perhaps you will settle for this.\n\n\nHaha! Stupid blood elf, look at you now... in a burlap sack and missing your body! You should never have betrayed Belgrom!",
+  "files": [
+   "quests/3507-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "e867e6ac491c",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Kaldorei Tome of Summoning",
+  "quest": "Betrayed",
+  "en": "You begin to skim some of the pages until you come to a page that's marked by a thin, black strip of silk cloth.\n\nAs you try to decipher the script, you see a diagram on the bottom of one of the pages. A quick look around at the scene before you and you realize that the crystals, the circle, and even some of the other components on the ground are set up in a similar pattern as the diagram.",
+  "files": [
+   "quests/3505-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "3fc86e71ed48",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Kaldorei Tome of Summoning",
+  "quest": "Betrayed",
+  "en": "A few more moments of thought brings a few ideas to mind, one of which brings a smile to your face: perhaps destroying the crystals would upset the blood elf responsible for the slaughter of so many orcs and the betrayal of Belgrom?\n\nYou continue to decipher more of the script and pictures and realize that one of the crystals is tied to the creator of the circle--the others are tied to something far more sinister.\n\nYou close the book and begin to decide which crystal to destroy.",
+  "files": [
+   "quests/3506-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "0d19b26ede28",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "Bodley's Unfortunate Fate",
+  "en": "I am so glad that you can see me. Finally someone to talk to!\n\nWill you help us, Adventurer? Help to undo the wrong that we perpetrated and put things to right? If its true that you already have the Top Piece of Lord Valthalaks Amulet, then I think I can point you in the right direction to acquire the other two parts, reunite them and put an end to all of this.\n\nOh, by the way, hello, my name is Bodley. Nice to meet you!",
+  "files": [
+   "quests/9032-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "dff325ac9a97",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mokvar",
+  "quest": "Bodley's Unfortunate Fate",
+  "en": "The medallion contained Valthalak's soul? It's no surprise it was guarded by such a powerful curse.\n\nLocating Bodley presents a bit of a problem. Last time I heard of him, he was preparing to venture back into Blackrock Spire. He was never heard of again.\n\nSeek him out in Blackrock Mountain, though I'm afraid to say he's probably dead by now. I suggest taking the goblin's device with you, friend.",
+  "files": [
+   "quests/9032-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "176044e99902",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jes'rimon",
+  "quest": "Bone-Bladed Weapons",
+  "en": "Hmm, maybe there be somethin' you can do for the Hand now that me think 'bout it. Yes, Jes'rimon could use your help for sure.\n\nIn Un'Goro Crater there be raptors with deadly claws. Some of those raptors sometimes have white claws instead of ones black like death. The Hand have... clients... that like weapons crafted from these claws. Bring me many of those white claws, and me pay you good coin. Do it fast enough, and maybe me help you in other ways.",
+  "files": [
+   "quests/4300-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "0332d66ef89e",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Jes'rimon",
+  "quest": "Bone-Bladed Weapons",
+  "en": "Ah, these do nicely. Thank you, Adventurer. An' you be here long before they needed... that be good.\n\nMaybe we have a weapon fashioned for you from the claws. What do you say?",
+  "files": [
+   "quests/4300-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "44ec17b74678",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Karus",
+  "quest": "Calm Before the Storm",
+  "en": "This bank voucher authorizes me to withdraw an item from Zilzibin Drumlore's account with us and present it to you. Congratulations would seem to be in order!",
+  "files": [
+   "quests/4511-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "99d63bb4000e",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zilzibin Drumlore",
+  "quest": "Calm Before the Storm",
+  "en": "Adventurer, we could not have gotten this far without you. The time will come soon, no doubt, when I'll ask for your help against the silithid once more. We must absorb what we have learned in Un'Goro; I fear that my assumptions that the silithid originated from Un'Goro are now wrong... that indeed there is a far stronger presence somewhere.\n\nTake this note to Karus at the bank. He'll give you something from my vault that should be viewed as a token of my gratitude. Thank you for your assistance, mighty adventurer.",
+  "files": [
+   "quests/4511-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "92a420eeca93",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warlord Goretooth",
+  "quest": "Eitrigg's Wisdom",
+  "en": "Rend lives?\n\nImpossible!\n\nIt had been thought that Rend was slain decades ago.\n\nSeek out the wisdom of Eitrigg, Adventurer. None know the workings of the Blackrock better than he and if what is written here bares truth, Eitrigg should be informed. No person should be denied the right of vengeance.\n\nYou will find him in Orgrimmar.\n\nOnce you have spoken with Eitrigg, confer with the Warchief to find out what he wishes to do about this problem.",
+  "files": [
+   "quests/4941-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "a10b897c6310",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "Exploring the Horde",
+  "en": "Azeroth is a large world, and the territory of the Horde is vast. The Undercity, Orgrimmar, and Thunder Bluff all have very unique people and culture.\n\nIf you are to be a guest of the horde here on Azeroth, it would do you good to visit each of our capital cities in turn. Speak with my advisor Nazgrel for directions.",
+  "files": [
+   "quests/93739-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "09c04e972031",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "Exploring the Horde",
+  "en": "So you have returned. I hope that you learned much in your journey.\n\nIt is my understanding that your people are still establishing themselves in Mulgore. While you wait for them, I'd encourage you to explore the territory around Orgrimmar. The Barrens in particular is always in need of eager adventurers like yourself.",
+  "files": [
+   "quests/93739-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "def2dbb85d82",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Borstan",
+  "quest": "Favorite Food",
+  "en": "Now that I know his parents worry about how much he's actually filling that belly, I've got an idea.\n\nThey made me promise not to pack the same meal every day, so Migi grows a taste for more than one thing. Still, whenever the smoker's full and we're making sweetglazed hog belly sandwiches, he always shows up for lunch. We've started crumbling the leftover crispy glazed bits as a topping--something we can add daily.\n\nTake this to him. Maybe he'll start showing up early and bringing friends!",
+  "files": [
+   "quests/97249-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "ca917f82118f",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Overlord Runthak",
+  "quest": "For All To See",
+  "en": "Choose your reward and let the celebration of your glorious victory begin.",
+  "files": [
+   "quests/7491-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "9744d590af6a",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "For All To See",
+  "en": "Overlord Runthak awaits your arrival in the Valley of Strength.\n\n\nDo not keep your public waiting, hero.",
+  "files": [
+   "quests/7491-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "cecf260264f5",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Neeru Fireblade",
+  "quest": "Hidden Enemies",
+  "en": "What is it?! Oh, you, adventurer... my apologies. My anger rivals that of a rabid kodo bull... but perhaps it is my own fault. In sending travelers into Ragefire Chasm, I should have seen the possibility that some harm would come from it. It seems both Bazzalan and Jergosh were taken unaware and slain by some of Thrall's do-gooders. A most inopportune time, but there is nothing that can be done about it now.",
+  "files": [
+   "quests/5729-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "3ecdf01ec57e",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Neeru Fireblade",
+  "quest": "Hidden Enemies",
+  "en": "You are one of my lieutenants! Prepare yourself, adventurer. I will call upon you soon.\n\nMy time spent on the Searing Blade may be all but wasted now, but that does not mean that the Shadow Council's schemes elsewhere must suffer. I will do what I can to minimize the damage here in Ragefire Chasm. In the meantime, I will have my agents in the Barrens and Ashenvale begin work on our newest agenda. Return to me soon.",
+  "files": [
+   "quests/5730-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "e5b1c97e5640",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "Hidden Enemies",
+  "en": "One thing I will not tolerate are traitors in our midst, Adventurer. But I would be a fool to play my hand so early--it would not sufficiently cut the corruption out of our lands and only cause the infection to grow worse.\n\nBut you, a young adventurer, could go places my agents could not... could learn the truth... could find the true head of the beast.\n\nIf you are brave enough, then enter Skull Rock to the east of Orgrimmar, find a lieutenant's insignia off one of the Burning Blade there, and return to me.",
+  "files": [
+   "quests/5726-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "067acf48eced",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "Hidden Enemies",
+  "en": "Good, Adventurer! The spirits be praised, perhaps you are the one who will finally put my greatest fears to rest! Who would suspect someone so young and so brave would rise up and champion our cause? You remind me of myself when I was younger. I will ensure that you are justly rewarded for your efforts if we both survive the coming storm.\n\nBut there is time for more praise later. You've not accomplished anything in comparison to what you will face... but this is a good start.",
+  "files": [
+   "quests/5726-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "601ddc831db5",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "Hidden Enemies",
+  "en": "Now let us see if this insignia you found is worth the effort.\n\nThere is a warlock within the city who believes he has my trust. He does not know that I realize where his true loyalties lie. He is in fact the leader of the Burning Blade. But do not rush off to do battle with him; he has a purpose, and we shall use him against our enemies.\n\nTake this insignia to him in the Cleft of Shadow here in Orgrimmar, speak to him and see if he believes you are one of his own, then return to me here.",
+  "files": [
+   "quests/5727-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "e33c47511ce9",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "Hidden Enemies",
+  "en": "Excellent! Most excellent, adventurer!\n\nWhat you have done this day is only the first step in a much broader foundation--a foundation that we will build the destruction of the Shadow Council on, once and for all.\n\nTell me all he said... and leave not one word out--it may be more important than you realize.",
+  "files": [
+   "quests/5727-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "c554f50ae060",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "Hidden Enemies",
+  "en": "I am glad you've returned, Adventurer. Some of those loyal to me brought word immediately that the caverns below Orgrimmar were in disarray now that their leaders have been slain. I even heard reports that Neeru was more than agitated. It seems we've put a dent in his armor. I can't say I'm displeased... even with such a minor victory.",
+  "files": [
+   "quests/5728-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "81cec59c8183",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "Hidden Enemies",
+  "en": "I think our next step should be to have you placed close to Neeru. If he is as agitated as reports suggest, then we may accomplish two things. One, you may be able to gain some greater knowledge about the Council or at least the Burning Blade, and two, he may just begin to trust you enough that he asks you to start to aid him. He may very well look at you as someone who can fill the void now that some of the leadership is in turmoil.\n\nReturn to the Cleft and speak to him again, but do not be too overt.",
+  "files": [
+   "quests/5729-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "5c880e6a7602",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "Hidden Enemies",
+  "en": "Ashenvale? Hmm, I had not heard of any presence of the Council or the Burning Blade in Ashenvale. My spies will investigate, Adventurer. You have done well.\n\nFor now, rest, and keep yourself occupied with other tasks. I will call upon you again soon.\n\nLok-Tar Ogar!",
+  "files": [
+   "quests/5730-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "418969e6427c",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "Hidden Enemies",
+  "en": "Hmm, leaders of the Searing Blade... this concerns me most. If they are the ones of value to Neeru, then those are who we must target first. This satyr... Bazzalan, and the other Neeru mentioned--what was he, a warlock?--must be slain.\n\nReturn to the Cleft of Shadow and enter Ragefire Chasm, Adventurer. Find these two leaders of the Searing Blade, and kill them. But be careful not to let Neeru know it was you who did this. You must retain your identity as one of his brothers in arms.",
+  "files": [
+   "quests/m-5728-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "6be50cbe9a5f",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mokvar",
+  "quest": "Just Compensation",
+  "en": "You've proven to be a very reliable individual, Adventurer. As much as I trust that you'll help me through this predicament, it would be wise of me to reward you according to your performance.\n\nFor now I will exchange your belt and gloves. If we both see this through I shall make the rest of the pieces available to you.",
+  "files": [
+   "quests/8927-accept",
+   "quests/8938-accept",
+   "quests/8939-accept",
+   "quests/8940-accept",
+   "quests/8941-accept",
+   "quests/8943-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "dbd7dd72fdbc",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mokvar",
+  "quest": "Just Compensation",
+  "en": "Our agreement remains in place. Just remember, this is but a taste of what awaits you. Free me of this cursed fate and I will reward you with items of truly great power.",
+  "files": [
+   "quests/8927-complete",
+   "quests/8938-complete",
+   "quests/8939-complete",
+   "quests/8940-complete",
+   "quests/8941-complete",
+   "quests/8942-complete",
+   "quests/8943-complete",
+   "quests/8944-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "2b7aee74480a",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mokvar",
+  "quest": "Just Compensation",
+  "en": "You've proven to be a very reliable individual, Adventurer. As much as I trust that you'll help me through this predicament, it would be wise of me to reward you according to your performance.\n\nFor now I will exchange your belt and gauntlets. If we both see this through I shall make the rest of the pieces available to you.",
+  "files": [
+   "quests/8942-accept",
+   "quests/8944-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "4228bcbd932b",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Pestlezugg",
+  "quest": "March of the Silithid",
+  "en": "Yes, I gathered that Zilzibin sent you to me. Your experience in fighting these beasties is priceless; no one to my knowledge has ever dealt with their kind before. As for Zil's idea that Un'Goro Crater is their heart... perhaps it is. Un'Goro is a mysterious and dangerous jungle to the west of here. Perhaps it is also one step closer to figuring out what the silithid are all about.",
+  "files": [
+   "quests/4494-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "667247053772",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zilzibin Drumlore",
+  "quest": "March of the Silithid",
+  "en": "It would seem that the silithid's intent, nay - reason for being, is to devour everything in their path that is not of their ecology. Their focus is singular, and it is for this reason they are a grave threat to all life on Azeroth.\n\nWhat we've seen to date is but the first stages. I suspect that their strength comes from deeper in Kalimdor: Un'Goro Crater. Go to Gadgetzan in the Tanaris desert and speak to Alchemist Pestlezugg. Tell him of my theory; he will surely aid us in fighting the silithid.",
+  "files": [
+   "quests/4494-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "7c1dadb2a6b9",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Borstan",
+  "quest": "Meal Appeal",
+  "en": "Of course. Migi's parents and I have an arrangement to give Migi a bagged lunch every day, but I can only ensure the boy gets his food if he actually comes in to pick it up.\n\nSometimes, he doesn't pick up his meal multiple times a week, and I wonder where he gets the energy to stay out and play.",
+  "files": [
+   "quests/97246-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "5f063b186816",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thatog",
+  "quest": "Meal Appeal",
+  "en": "My son, Migi, always takes off to play with his friends all day. I tell him to pick up a lunch at Borstan's, but I know he almost never does, because he comes home starving. These kids think their games are more important than their own bodies!\n\nPlease, stop at Borstan's Firepit and tell him you're there to deliver Migi's lunch. You can almost certainly find Migi behind Grommash Hold with the rest of his friends.\n\nDuties keep me here during the day and I can't watch over his every meal.",
+  "files": [
+   "quests/97246-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "a2b5adc37092",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Nogg",
+  "quest": "Nogg's Ring Redo",
+  "en": "No, no, no - I'm not all of the sudden saying that the ring is mine. I normally don't do this, but your information about the Dark Irons was very useful. I'll improve your ring for you, better than whomever made this simple little thing could have ever done. Probably some gnome...\n\nIf you bring me a bar of silver, a moss agate, and thirty silver coins for my trouble, I'll add a silver and agate lattice to the ring that will strengthen the magic inside of it. Interested?",
+  "files": [
+   "quests/2950-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "80b165ba6a45",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Nogg",
+  "quest": "Nogg's Ring Redo",
+  "en": "Here's your ring, better than before. Thanks again for the information about those Dark Iron dwarves. This seems like a reasonable lead as to how those gnomes suddenly were struck with goblin-like inspiration.",
+  "files": [
+   "quests/2950-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "19834c3112ac",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mokvar",
+  "quest": "Return to Mokvar",
+  "en": "You've returned with the device! I'm impressed by your dedication, Adventurer. Excellent work.",
+  "files": [
+   "quests/8978-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "ea18a2800eb0",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Maur Grimtotem",
+  "quest": "Returning the Lost Satchel",
+  "en": "You find a satchel under the body of the tauren. It is still gripped tightly in his arms as though he was trying to protect it while being attacked by the troggs.\n\nRemoving the satchel from his vice-like grip, you stow it with your own equipment and prepare to make your way out of the tunnels and back to Rahauro in Thunder Bluff.",
+  "files": [
+   "quests/5724-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "803fd0938297",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Rahauro",
+  "quest": "Returning the Lost Satchel",
+  "en": "Excellent, Adventurer. Thank you.\n\nMagatha told me that if you were successful in finding her clansman that you be given this. Please, take it in thanks.",
+  "files": [
+   "quests/5724-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "32a1be4be792",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Dran Droffers",
+  "quest": "Ripple Delivery",
+  "en": "Well, let's see what's in this barrel!\n\nYes, yes, it looks as though it is all here. Here's your fee for the package, good job on that. I stand to make five times that fee when I sell it to the tavern! Har har!\n\nThese extra bottles of Hinterlands Honey Ripple are going to be set for a special occasion. I think I'll drink some with champagne. I'll call it... champipple.",
+  "files": [
+   "quests/81-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "b25e5acf8119",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Gilveradin Sunchaser",
+  "quest": "Ripple Delivery",
+  "en": "I have taken the extra step of securing not only Dran's packaged ripple in the barrel, but also the extra bottles of ripple he is purloining. While I may not hold Dran very highly, there is nothing worse than jostled ripple. You're welcome.\n\nNow, deliver yon barrel to Dran Droffers in his salvage emporium in Orgrimmar. Pray tell, please extend my warmest greetings to Malton; let him know that should he ever thirst for fine drink and finer drinking companions, we would be honored with his visit.",
+  "files": [
+   "quests/81-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "180c01f06b1d",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Dran Droffers",
+  "quest": "Ripple Recovery",
+  "en": "I've got some salvage work for you, and if you're an aficionado of fine ripple like I am, then you'll love this task. Ripple!\n\nIt's a drink, you dummy.\n\nAn abandoned Horde outpost has a stash of Hinterlands Honey Ripple from when they were in business. You can't get fine ripple like that anymore! One of Malton's dummy associates knows the shot, so you'll go out there and bring me a case of packaged ripple, and two for my own collection! Talk to Malton, he'll fill you in on the details.",
+  "files": [
+   "quests/649-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "eebc0ef12b0d",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Gilveradin Sunchaser",
+  "quest": "Ripple Recovery",
+  "en": "Ah, so you know Malton? He is an old drinking companion of mine. You see, I have found something that transcends the boundaries of artificial treaties and alliances - alcohol. Were we all to slake our thirsts on its blissful qualities, we all would be in a much better place spiritually.\n\nAlas, something tells me that your visit here is not to learn of alcohol's redeeming values, now is it.",
+  "files": [
+   "quests/650-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "d3e78db1585a",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Malton Droffers",
+  "quest": "Ripple Recovery",
+  "en": "Oh yeah, about the ripple dad wants! He wants to sell the ripple to a tavern here in Orgrimmar, but we'll get more money if it is in its original packaging. I know someone who can do that, and he's in the Hinterlands where the ripple is. But he's, um, a high elf.\n\nWell, he's a good high elf, as he's not a part of the Alliance. Well, he's not so much a good high elf as he is a drunken high elf. He loves, and I mean LOVES the hooch.",
+  "files": [
+   "quests/649-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "f1d19d622922",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Malton Droffers",
+  "quest": "Ripple Recovery",
+  "en": "The elf you will need to talk to is Gilveradin Sunchaser. He can name any wine, vintage and all, just by smell alone! He can package up the ripple we need, so you'll need to talk with him. We need six bottles for packaging, two for dad, and how ever many he'll want... and believe me, he'll want some. When you've packaged the ripple and got dad's two bottles, come back here!\n\nGilveradin's camp is near some high elf lodge in the Hinterlands, and those high elves are not good. Trust me.",
+  "files": [
+   "quests/650-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "d47ee224baf0",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mokvar",
+  "quest": "Saving the Best for Last",
+  "en": "A truly amazing story, Adventurer! You have my thanks, and the heartfelt gratitude of all who were involved, I can assure you. Through your efforts we are delivered from the mistakes of our past.\n\nAs to your reward, I believe I have a few things that you have definitely earned and will truly enjoy.",
+  "files": [
+   "quests/9007-accept",
+   "quests/9008-accept",
+   "quests/9009-accept",
+   "quests/9010-accept",
+   "quests/9011-accept",
+   "quests/9012-accept",
+   "quests/9013-accept",
+   "quests/9014-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "5a5acf069f9e",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Mokvar",
+  "quest": "Saving the Best for Last",
+  "en": "I will truly miss you, Adventurer. There is a debt that I owe you, which I may never be able to repay.\n\nEnjoy your new head and chest armor. May it protect you for a long time to come, and help you to achieve even greater honor!",
+  "files": [
+   "quests/9007-complete",
+   "quests/9008-complete",
+   "quests/9009-complete",
+   "quests/9010-complete",
+   "quests/9011-complete",
+   "quests/9012-complete",
+   "quests/9013-complete",
+   "quests/9014-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "b1b995bf0127",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Maur Grimtotem",
+  "quest": "Searching for the Lost Satchel",
+  "en": "The body looks seriously beaten by clubs or fists, but most of the corpse's clothing and equipment still looks present. It seems the troggs do not overly care much for material wealth.\n\nYou begin to search the body for anything of interest that might help Magatha.",
+  "files": [
+   "quests/5722-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "fed0c955aa1d",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Rahauro",
+  "quest": "Searching for the Lost Satchel",
+  "en": "The troggs are not the only thing that interested Magatha in Ragefire Chasm. She has heard word that one of her servants, a Maur Grimtotem, found something peculiar while in the Chasm, but he never made it out to show her what. She'd like Maur's body found--if it still exists--and any signs of what he found while attempting to speak to the troggs.\n\nReturn to Magatha any items of interest, and I'm sure she would be very generous in her reward.\n\nAgain, seek the Chasm in the darkest areas of Orgrimmar.",
+  "files": [
+   "quests/5722-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "89b3e6681dce",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Neeru Fireblade",
+  "quest": "Slaying the Beast",
+  "en": "The primary task set upon me by our great Warchief is to root out the creatures responsible for infesting our lord's great city with demonic influence. The Burning Blade is one threat, but there are others; the Searing Blade for instance, who make their home in Ragefire Chasm, secretly attempting to subvert innocent members of the Horde.\n\nIf they are to be stopped, then their leader must be slain--a Felguard named Taragaman the Hungerer.\n\nKill him, and his heart will appease Thrall, of this I'm sure.",
+  "files": [
+   "quests/5761-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "003c30b8881a",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Neeru Fireblade",
+  "quest": "Slaying the Beast",
+  "en": "Ha! You've done it! Thrall will be so pleased.\n\nI will ensure this heart is taken care of properly.\n\nFor now though, you must celebrate your victory. I will inform Thrall of your success.\n\nThank you for your aid, adventurer.",
+  "files": [
+   "quests/5761-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "3f6902973ed5",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Cenarion Emissary Blackhoof",
+  "quest": "Taking Back Silithus",
+  "en": "Attention, champions of the Horde! There's a threat we've left unchallenged for too long. Tremors in the earth near silithid hives all around Azeroth have alerted us to large movements in their numbers as they prepare for expansion.\n\nCenarion Circle forces are gathering in Silithus to take the fight to the silithid before it's too late! No more shall they defile our lands!\n\nAll able-bodied combatants are to report to Windcaller Proudhorn at Cenarion Hold! The silithid shall be vanquished!",
+  "files": [
+   "quests/8276-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "c95e959e3b58",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Rahauro",
+  "quest": "Testing an Enemy's Strength",
+  "en": "Beneath the city of Orgrimmar, stout creatures known as troggs started coming to the surface from deep below the lava filled tunnels. In her ever-benevolence, Magatha sought to make peace with the creatures, but they turned on her diplomats, killing them. She will not allow such treatment of the tauren people and now consider the creatures a threat to all of the Horde.\n\nShe asks that you put an end to this trogg threat before it overwhelms the Horde from below. Find Ragefire Chasm and destroy them all.",
+  "files": [
+   "quests/5723-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "782a52e340ca",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Rahauro",
+  "quest": "Testing an Enemy's Strength",
+  "en": "I am glad to see you took Magatha's task seriously. Thank you, Adventurer. I'm sure the troggs will have a harder time coming to the surface with their numbers so greatly reduced.\n\nPerhaps in the future we can take time to figure out where such creatures came from, and what they really want.",
+  "files": [
+   "quests/5723-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "b91befb2a814",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Senani Thunderheart",
+  "quest": "The Ashenvale Hunt",
+  "en": "Welcome to the new frontier, Adventurer. Ashenvale is a land of opportunity, one where a young adventurer like yourself is able to find boundless chances to prove their mettle. Look around the outpost here, and be sure to travel out to the Zoram Strand, as the Horde has another outpost there as well.\n\nYour presence here tells me that you've come to learn more about the hunt. Listen close, and I will gladly share with you what you need to know.",
+  "files": [
+   "quests/235-complete",
+   "quests/742-complete",
+   "quests/6382-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "6570487abf39",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warcaller Gorlach",
+  "quest": "The Ashenvale Hunt",
+  "en": "Attention, young adventurers! The wilds of Ashenvale await you!\n\nThe Horde has established a strong presence in the lands north of the Barrens. Our two outposts - Splintertree Post and the Zoram Strand Outpost - strive to bring glory to the Horde! Those who would prove themselves should seek out guidance there. Of note: Senani Thunderheart in Splintertree Post, directly north of the Barrens, seeks adventurers willing to take part in a great hunt of Ashenvale!",
+  "files": [
+   "quests/235-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "06bb2f2e748d",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Maurin Bonesplitter",
+  "quest": "The Burning of Spirits",
+  "en": "Death is most desirable for those despicable creatures that turn their back on their liege for such selfish reasons. But death is not enough when dealing with those that have given themselves over to the darkness.\n\nTake this gem. When one of the Burning Blade's near death, activate its magic. The spell shall pull the corrupted spirit out of its victim, leaving an infused gem behind.\n\nBring me these infused gems so I may dispose of them properly.\n\nGo now, and may you elude death.",
+  "files": [
+   "quests/1435-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "19e1ae3efba2",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Maurin Bonesplitter",
+  "quest": "The Burning of Spirits",
+  "en": "Ah, you've returned successful. That is good. Give me the gems and I shall put them someplace safe....\n\nMy tasks for you are complete, adventurer. Speak to Takata when you are rested. He may have other tasks for you, or perhaps needs you to return to Orgrimmar to inform Keldran of our progress here in Desolace.",
+  "files": [
+   "quests/1435-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "707d77da3136",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "The Champion of the Horde",
+  "en": "I have received word from one of my champions that a way into the lair of the dragon may exist. You are to seek him out.\n\nRexxar wanders the desert wasteland of Desolace, traveling between Stonetalon and Feralas. He awaits your arrival.",
+  "files": [
+   "quests/6567-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "b64d4378b8fe",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Overlord Runthak",
+  "quest": "The Journey Has Just Begun",
+  "en": "A dragon slayer and a seasoned leatherworker? You do not cease to astonish, hero. I am humbled.\n\nPlease accept what I am about to teach you. This knowledge will prove to be invaluable if you are to destroy what remains of the Black Dragonflight.\n\nCreate the cloak from the scales of the brood mother. It will protect you and your allies against the incendiary breath of the Lord of Blackrock... Nefarian.",
+  "files": [
+   "quests/7493-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "121554bdca5c",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Head of Nefarian",
+  "quest": "The Lord of Blackrock",
+  "en": "The old feeling returns. The welcome pangs of victory reverberate throughout your being. Before you lies the monolithic, battle scarred head of Nefarian. Return it to your Warchief, champion.",
+  "files": [
+   "quests/7783-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "9384af44b973",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "High Overlord Saurfang",
+  "quest": "The Lord of Blackrock",
+  "en": "Choose your reward so that I may mount the head of the beast for all to see.",
+  "files": [
+   "quests/7784-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "2601f5cb7792",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "The Lord of Blackrock",
+  "en": "You have honored the Horde once more, Adventurer. The son of Deathwing lays dead. Surely, the evil one stirs.",
+  "files": [
+   "quests/7783-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "139957771b61",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "The Lord of Blackrock",
+  "en": "Seek out High Overlord Saurfang in the Valley of Strength.",
+  "files": [
+   "quests/7784-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "1bd56961534e",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warcaller Gorlach",
+  "quest": "The New Frontier",
+  "en": "Attention, heroes!\n\nThe Cenarion Circle seeks able bodied individuals to assist them in exploring the vast new frontiers of Kalimdor! A forbidden wasteland of unimaginable dangers lies far to the west of Tanaris and Gadgetzan, and the Circle needs willing and honorable proxies to act in their stead.\n\nAll interested individuals should seek audience with the Cenarion Circle. Speak with the Arch Druid Hamuul Runetotem on the Elder's Rise of Thunder Bluff for more information!",
+  "files": [
+   "quests/1018-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "0264f990e953",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Varimathras",
+  "quest": "The Power to Destroy...",
+  "en": "Many denizens of the Legion bestow gifts on their followers as you may well know. Some of these gifts the Dark Lady feels would be better off in her hands than in the hands of those with... lesser vision.\n\nA sect of the Shadow Council hidden in caverns below Orgrimmar known as the Searing Blade are a prime example. The Lady tells me that members of the Searing Blade have come into the possession of two powerful spell books--she would like to \"borrow\" these books from them. You will get them for her.",
+  "files": [
+   "quests/5725-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "9e47c6ad161e",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Varimathras",
+  "quest": "The Power to Destroy...",
+  "en": "Good, adventurer. You have done well in serving the Dark Lady. Your continued perseverance and ambition will be of great use to the Lady's subjects. Return to me again in the future. Perhaps I will have other tasks for you that will aid the Dark Lady in her attempts at overtaking the Lich King and completely freeing the Scourge.",
+  "files": [
+   "quests/5725-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "83161d978694",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Belgrom Rockmaul",
+  "quest": "The Swarm Grows",
+  "en": "So, Korran has come to a similar conclusion about these insects--they seem to be a larger threat than we assumed.\n\nA few days ago a hunter returned to me from Thousand Needles nearly dead. He was with a raiding party sent to drive a dwarven excavation team out of the Shimmering Flats. During the attack, more of these insects erupted from a cave in the dig site and nearly killed the party.\n\nThey were led by Moktar Krin, and they've taken refuge on the border of the Shimmering Flats. Bring him this note.",
+  "files": [
+   "quests/1146-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "d5bdb59c8c7f",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Moktar Krin",
+  "quest": "The Swarm Grows",
+  "en": "Don't mind the thundering echoes off the mountains' walls. The goblins and gnomes are out among the Flats racing one another in atrocities created by what they call science. There are bigger threats here in Thousand Needles, one of which killed more than half my war party.\n\nBut we remain here until we hear word from Belgrom in Orgrimmar. Until then, we hold our position here, and stay vigilant.",
+  "files": [
+   "quests/1146-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "627a05f3ea4f",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Head of Onyxia",
+  "quest": "Victory for the Horde",
+  "en": "You have accomplished the impossible. The brood mother of the Black Dragonflight lies dead at your feet. Take her head and present it to your Warchief.",
+  "files": [
+   "quests/7490-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "7360f5eaa329",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "Victory for the Horde",
+  "en": "This is a great victory for the Horde, Adventurer. So many times you have honored your Warchief. It is time for the Warchief to honor you.",
+  "files": [
+   "quests/7490-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "f0ceb63ff670",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Alaana Stormwalker",
+  "quest": "Welcome to Azeroth",
+  "en": "Its a big world down here, and our new allies are the key to our survival.\n\nThe Earthen Ring is a member of the \"Horde\", a proud collection of like-minded peoples. The nearby city of Thunder Bluff is a part of the horde, and further to the east lies the capital of Orgrimmar.\n\nSeek out the flight master in the center of Thunder Bluff. They will fly you to Orgrimmar where you will make contact with the horde warchief--Thrall, on behalf of the Windshapers. Winds guide you, Adventurer.",
+  "files": [
+   "quests/95350-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "61008e944a30",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "Welcome to Azeroth",
+  "en": "Lok-tar, adventurer. I am Thrall, Warchief of the Horde.\n\nAn Earthen Ring messenger told me to expect an emissary from the Windshapers, and here you are. I'd not have expected to see a high elf standing before me here in Orgrimmar, but the horde will welcome you as our guest all the same.\n\nYou have my blessing to travel through horde lands. Go with honor, Windshaper.",
+  "files": [
+   "quests/95350-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "a63eb903bff9",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "What the Wind Carries",
+  "en": "It is good to see you again, Adventurer. The wind carries with it news from the Eastern Kingdom.\n\nSit, listen.",
+  "files": [
+   "quests/6566-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "70e409a51eb2",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "What the Wind Carries",
+  "en": "Are you prepared to take on this task?",
+  "files": [
+   "quests/6566-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "bd69d6d712b2",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Whuut",
+  "quest": "Whuut's the Rush",
+  "en": "Grorru--whaa?\n\nYou say Yelmak made this potion from speargrass and cattail with no other reagents? I didn't know chemists had any real need for these common plants we see every day.\n\nMaybe he's right. There could be a lot I'm missing out on by skipping to the most rare and least-studied flora first.\n\nDrakath, take your pick from one of these potions I brewed earlier. I appreciate you taking the time to visit our shop.",
+  "files": [
+   "quests/97275-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "ffaa15f04187",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Yelmak",
+  "quest": "Whuut's the Rush",
+  "en": "Whuut is a prodigy. That much is true. But he doesn't yet have the experience, wisdom, and time on the stirring rod to know how to respect alchemical processes.\n\nHe is exhausting all of the rarest and most exotic reagents we have available without pausing to practice and refine his basic skills.\n\nGive him this potion I've brewed with a quick tonic method. He'll reconsider everything he's doing when he learns how local remedies and careful touch are the first true mastery.",
+  "files": [
+   "quests/97275-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "33a41e3b5647",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ogunaro Wolfrunner",
+  "quest": "Wolf Swapping - Arctic Wolf",
+  "en": "If you bring me your old fast wolf, I will trade it in for one from the new pack. The new wolf will be just as fast as your old one, but have a different look to it. You can look at the swift wolves we already have around the yard here to see what it will look like.",
+  "files": [
+   "quests/7660-complete",
+   "quests/7661-complete"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "06be826f81aa",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kor'geld",
+  "quest": "Yelmak's Medley",
+  "en": "Yelmak doesn't want his apprentice breaking anything. Well, anything more than he already has.\n\nHe told me the young mixer in training has too much pride to ask for help when he really needs it. Yelmak wants to give him a taste of a particular home-brewed recipe.\n\nGather a mix of cattail and speargrass cuttings taken from the plants growing around the water in the Valley of Honor. I'd get them myself, but if I left the shop, Whuut would surely know we're catering to his mood.",
+  "files": [
+   "quests/97242-accept"
+  ],
+  "uiMap": 1454
+ },
+ {
+  "id": "0118c8d08615",
+  "zone": "orgrimmar",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kor'geld",
+  "quest": "Yelmak's Medley",
+  "en": "This type of cattail and speargrass is unique to Orgrimmar. Drinking from Azshara mountain spring water, and nourished by the sweat and blood soaked mineral dust of our rocky land, these herbs contain potent powers locked within.\n\nI'll give these to Yelmak, who may be able to win back Whuut's ear with a hands-on lesson.",
+  "files": [
+   "quests/97242-complete"
+  ],
+  "uiMap": 1454
+ }
+]

@@ -1,0 +1,1502 @@
+[
+ {
+  "id": "eaea0f15050a",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Burned-Out Remains",
+  "quest": "... and that note you found",
+  "en": "<The faint radiance of the embers darkening, you stumble across the remnants of a recent fire.\n\nAmidst the scattered provisions, you discover a blistered note.>\n\n\"Not all that burns is lost. Find the twin land, find the place.\"",
+  "files": [
+   "quests/79008-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "49370cd978b3",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Sprite Jumpsprocket",
+  "quest": "A Dynamite Plan",
+  "en": "Industrial sabotage? You've got my attention!\nWe'll start with some dynamite...",
+  "files": [
+   "quests/92749-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "29727d59f803",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Sprite Jumpsprocket",
+  "quest": "A Dynamite Plan",
+  "en": "This is a great start! Now to tie it all together... and add a little extra zing...",
+  "files": [
+   "quests/92749-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "8cf96fa6e878",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Quartermaster Lewis",
+  "quest": "A Swift Message",
+  "en": "Although we don't get much aid from Stormwind directly, I do have a contact in the city who helps supply us with armor. His name is Osric Strang. His shop, Limited Immunity, is in the Old Town of Stormwind.\n\nOur supply of armor dwindles, and I must contact Osric for more. Can you take him this note?\n\nThe fastest way to Stormwind is through Thor, our gryphon master. He's just down the hill; bring him my note, and then take a gryphon to Stormwind.",
+  "files": [
+   "quests/6181-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "0022e5d4dead",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Thor",
+  "quest": "A Swift Message",
+  "en": "You have to get this note to Stormwind? That's not a problem, you can take one of my gryphons!",
+  "files": [
+   "quests/6181-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "6760e02b8f1c",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Broken Barrel",
+  "quest": "Captain Sander's Hidden Treasure",
+  "en": "Good work, treasure hunter!",
+  "files": [
+   "quests/138-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "7841d90a0496",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Broken Barrel",
+  "quest": "Captain Sander's Hidden Treasure",
+  "en": "Searching through the barrel you discover another piece of parchment. This one reads: Now from this here barrel, face ye North. Straight as the crow flies, keep ye walkin' till you see the empty jug next to the lone windmill on the sea bluffs. If ye poke around that jug, ye just might find what you're lookin' for.",
+  "files": [
+   "quests/139-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "d5080505d1e0",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Captain Sander's Treasure Map",
+  "quest": "Captain Sander's Hidden Treasure",
+  "en": "If ye be readin' this, it means that Ol' Captain Sanders is in a watery grave. So my treasure is yours now, ye jest need to follow the clues. \n\nFirst ye need to find me footlocker. It's probably half-buried in sand by now, along the Western Coast of Westfall near the shipwreck. There be lots of shipwrecks but only one rusty anchor on the coast. Find that anchor and you'll find me locker! Look in there for the next clue.",
+  "files": [
+   "quests/136-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "b8bee3a85a66",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Captain's Footlocker",
+  "quest": "Captain Sander's Hidden Treasure",
+  "en": "The footlocker slowly creaks open. Sand and water seem to be its only contents. But wait! A small crab scurries out with a clue to the treasure in his claws!",
+  "files": [
+   "quests/136-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "0b7be7babd12",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Captain's Footlocker",
+  "quest": "Captain Sander's Hidden Treasure",
+  "en": "The clue to the treasure reads: Good work, matey! Now ye need to head due east. East up the bluffs, east to the road. Look for the ol' chimney ruins near the side of the road. There you'll find an old barrel with your next clue.",
+  "files": [
+   "quests/138-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "e81abaf898c2",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Locked Chest",
+  "quest": "Captain Sander's Hidden Treasure",
+  "en": "The hinges on the old chest are rusty but they still work. You force the chest open and take the booty.\n\nCongratulations!",
+  "files": [
+   "quests/140-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "cd063172a8bc",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Old Jug",
+  "quest": "Captain Sander's Hidden Treasure",
+  "en": "You're on your way to the jackpot, treasure seeker!",
+  "files": [
+   "quests/139-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "1f956f3f14a4",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Old Jug",
+  "quest": "Captain Sander's Hidden Treasure",
+  "en": "Sure enough, deep within the Old Jug there is another clue to Sander's treasure. The ink has run in some places and the paper smells like whiskey but you can make out some of the text: Now that ye found me ol' whiskey jug, you're almost to the treasure! Just face West from the bottle and walk down to the shore. Once ye get to the water, keep going! Swim straight west till you find the island with me treasure chest!",
+  "files": [
+   "quests/140-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "e74deb5b0d3f",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Wilder Thistlenettle",
+  "quest": "Collecting Memories",
+  "en": "Many of my friends perished that horrible day when the mine tunnel caved in. If your adventures happen to bring you into that wing of the mine in Moonbrook, please keep an eye out for any sign which might identify them. If you come across any of their Miners' Union Cards, bring them back to me and I'll make sure their families get some resolution from this horrible accident.",
+  "files": [
+   "quests/168-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "087f519ab828",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Wilder Thistlenettle",
+  "quest": "Collecting Memories",
+  "en": "Thank you for collecting these, Adventurer. Your efforts will help bring peace to the dead in the wake of this tragedy. I will see to it that the families are notified.",
+  "files": [
+   "quests/168-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "15c3edffa4b6",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Osric Strang",
+  "quest": "Continue to Stormwind",
+  "en": "Ah, a note from Quartermaster Lewis? I'm not surprised he needs more gear. Sentinel Hill is far away, in a land Stormwind has all but forgotten.\n\nWell thank you, Adventurer. Here's some money to cover your travel costs.",
+  "files": [
+   "quests/6281-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "0a10b28ca4a7",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Thor",
+  "quest": "Continue to Stormwind",
+  "en": "For a small fee, you can take a gryphon to Stormwind, so you can deliver Lewis' note to Osric. You won't get there faster any other way.\n\nIf that sounds acceptable, then just speak to me again when you're ready for the ride. I'll charge you a little, but trust me; it'll be worth it!",
+  "files": [
+   "quests/6281-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "9075259d9aae",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Alba Fairmoon",
+  "quest": "Destruction in Deadmines",
+  "en": "The source of the poison is likely a large metallurgical forge of some kind. Find a way into the Deadmines and locate the forge, then place the explosives.\nI will wait for you in the hills behind Moonbrook. Once you return, we can detonate the explosives. Hopefully with the forge gone, the land can begin to heal.",
+  "files": [
+   "quests/92753-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "68df3909b667",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Alba Fairmoon",
+  "quest": "Destruction in Deadmines",
+  "en": "So you found the forge, and planted the bomb... only one thing remains to be done.",
+  "files": [
+   "quests/92753-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "fd0cf2498e71",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Alba Fairmoon",
+  "quest": "Destruction in Deadmines",
+  "en": "We are almost finished. Use the detonator, and end this.",
+  "files": [
+   "quests/92819-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "c521497cb302",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Alba Fairmoon",
+  "quest": "Destruction in Deadmines",
+  "en": "I don't know what to say, Samelyn. To think that Stormwind would put their military ambitions over the livelihood of their people...",
+  "files": [
+   "quests/92819-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "9e83d923b8b8",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Jasper Fel",
+  "quest": "Detonation at a Distance",
+  "en": "Hmm... Looking for something specific, are you?",
+  "files": [
+   "quests/92750-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "f424b5cd2562",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Jasper Fel",
+  "quest": "Detonation at a Distance",
+  "en": "You need something destroyed? Would this have anything to do with your activities in Moonbrook? Don't look surprised. SI:7 stays apprised of all that goes on in Stormwind's lands.\nIf you're planning to set off an explosion in the caves below Westfall, you'll want to be well outside beforehand. Take this remote detonator - it's a recent prototype from our own engineers.\nOh - and it would be best if you didn't mention my involvement to your elf friend.",
+  "files": [
+   "quests/92751-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "9148b75c9895",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Sprite Jumpsprocket",
+  "quest": "Detonation at a Distance",
+  "en": "I assume you want a \"controlled\" explosion? Not as much fun, but a good choice if you want to keep all your limbs.\nI'm afraid I don't have a remote detonator - why don't you go check with the sneaky folks down at Stormwind Intelligence? They should be able to find us something.",
+  "files": [
+   "quests/92750-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "e94eebe80ae8",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Sprite Jumpsprocket",
+  "quest": "Detonation at a Distance",
+  "en": "Great - that's the detonator we need!",
+  "files": [
+   "quests/92751-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "7c995bcc84c4",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Dungar Longdrink",
+  "quest": "Dungar Longdrink",
+  "en": "A crate for Westfall, eh? Have you been to Westfall before? If so, then it's no problem, my friend. I have plenty of gryphons trained to fly that route!",
+  "files": [
+   "quests/6261-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "f3a3090ab78d",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Osric Strang",
+  "quest": "Dungar Longdrink",
+  "en": "Adventurer, I gathered into this crate everything Lewis asked for. Can you take it to him?\n\nIf you've already spoken to Thor in Westfall, then you can take a gryphon back to him. Dungar Longdrink is our gryphon master, over in the trade district.\n\nSpeak with Dungar, then get this crate to Lewis as fast as you can. We don't want our fighting men and women in Westfall to go without fresh equipment!",
+  "files": [
+   "quests/6261-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "95ad204e1b96",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Alba Fairmoon",
+  "quest": "Explosive Consultation",
+  "en": "The supplies you found point to a massive industrial operation somewhere in the Deadmines. There's no question that this is the source of the toxins plaguing the farmland of Westfall. We need to stop it, quickly.\n\nWhatever's down there will be difficult to destroy. Go to the Dwarven District of Stormwind, and find an engineer who can supply us with some explosives.",
+  "files": [
+   "quests/92748-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "b079efcab378",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Alba Fairmoon",
+  "quest": "Explosive Consultation",
+  "en": "I'm glad you've returned, Busch.",
+  "files": [
+   "quests/92752-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "c081d401fe78",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Sprite Jumpsprocket",
+  "quest": "Explosive Consultation",
+  "en": "Need something blown up?",
+  "files": [
+   "quests/92748-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "83b58d135916",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Sprite Jumpsprocket",
+  "quest": "Explosive Consultation",
+  "en": "That's it - the bomb's ready to go! Careful with that detonator, now.",
+  "files": [
+   "quests/92752-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "771ec47f3b88",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Farmer Furlbrow",
+  "quest": "Furlbrow's Deed",
+  "en": "Loads of thanks, Adventurer! As I was saying, these parts aren't fit for honest folk anymore, but if things get better, then this deed will let us reclaim our land.\n\nI don't have much to offer you, but here -- take this.",
+  "files": [
+   "quests/184-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "96c3215d0be9",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Westfall Deed",
+  "quest": "Furlbrow's Deed",
+  "en": "This is the deed to an expanse of farmlands within Westfall. It is signed by a Theodore Furlbrow and cosigned by his wife, Verna. And on the back of the deed are hastily scrawled words:\n\n\"We leaned on Furlbrow and got his deed. Thought it might be handy if you wanted to forge one of these for your own place.\n\nThe Furlbrows won't give us trouble. Last I saw them they were on their way out of Westfall, stuck with a broken wagon.\"\n\nYou think the Furlbrows might want their deed back...",
+  "files": [
+   "quests/184-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "0befb16d3279",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Salma Saldean",
+  "quest": "Goretusk Liver Pie",
+  "en": "The onions are peeled. The garlic is minced. The rosemary is crushed. The crust has been baked. The dill weed is chopped. The gravy is simmering. Now all I need for my famous meat pie are 8 Goretusk Livers!",
+  "files": [
+   "quests/22-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "7b3583a7ca33",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Salma Saldean",
+  "quest": "Goretusk Liver Pie",
+  "en": "These are just perfect, adventurer! Thank you so much. Farmer Saldean and I are going to feast tonight. And here is a little something for you, for the hard work. You didn't think I was going to let a adventurer like you go hungry, did you?",
+  "files": [
+   "quests/22-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "317821cf38ca",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Ozwin Ironsprocket",
+  "quest": "Harvesting the Harvesters",
+  "en": "Oh no... I'm in for it now!\n\nI heard about the harvesters terrorizing the fields of Westfall, so I traveled all the way from Ironforge to see if I could recalibrate them. But they're far more aggressive than my calculations anticipated, and they chased me into this stable!\n\nIf I had some isosprings and gyrostabilizers from the harvesters, I could build a device to cover my escape. Could you gather the parts for me?",
+  "files": [
+   "quests/92909-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "17dae2f8344f",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Ozwin Ironsprocket",
+  "quest": "Harvesting the Harvesters",
+  "en": "Thanks a bunch! I'll get to work on an escape plan. In the meantime, take this!",
+  "files": [
+   "quests/92909-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "f834c3a22fee",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Ozwin Ironsprocket",
+  "quest": "Harvesting the Harvesters",
+  "en": "What's this?",
+  "files": [
+   "quests/92910-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "2ceefeb72412",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Ozwin Ironsprocket",
+  "quest": "Harvesting the Harvesters",
+  "en": "I see... this gives me some insight into what makes those monsters tick. I have an idea how we could override their systems, at least momentarily.\n\nI'll continue tinkering with the assembly you brought me. In the meantime, could you scrounge up some parts for the device?",
+  "files": [
+   "quests/92911-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "cbe437c95b6d",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Ozwin Ironsprocket",
+  "quest": "Harvesting the Harvesters",
+  "en": "Here it is, Raton! Should work great. Go give it a try!\n\n...Me? No, I'll stay here. It's starting to feel like home, anyway.",
+  "files": [
+   "quests/92911-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "02bdb9a863a4",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gryan Stoutmantle",
+  "quest": "Journey to Sentinel Hill",
+  "en": "I've been begging Stormwind for aid for months and he sends me a skinny elf? Well, beggars can't be choosers I suppose.\n\nWelcome to Westfall, adventurer. Let's see if we can't put you to work.",
+  "files": [
+   "quests/98021-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "3c0f75bb9bc0",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Bolvar Fordragon",
+  "quest": "Journey to Sentinel Hill",
+  "en": "If you'd like to get started doing some good in our world, I'd recommend reporting to a man named Gryan Stoutmantle in Westfall to the south, at the settlement known as Sentinel Hill. His people are in need of aid.\n\nAfter journeying here from another plane of existence, the problems our lands face may seem small. I assure you, the aid you provide to those impacted by such problems means everything to them, and you will grow stronger for your labors.\n\nGood luck out there, adventurer!",
+  "files": [
+   "quests/98021-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "09a8b39c6f30",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Alba Fairmoon",
+  "quest": "Moonbrook Espionage",
+  "en": "Strange - the poison does not seem to originate from the mines you investigated.\n\nI am told the Deadmines under the town of Moonbrook are the largest, deepest mines of Westfall, but they have been abandoned since the First War. Could the Deadmines be active again?\n\nPlease travel to Moonbrook, Adventurer, and look for evidence of mining or industrial activity. This is the last lead we have!",
+  "files": [
+   "quests/92747-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "711f38096d13",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Alba Fairmoon",
+  "quest": "Moonbrook Espionage",
+  "en": "What is all this?",
+  "files": [
+   "quests/92747-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "bd2045103af9",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Alba Fairmoon",
+  "quest": "Murloc Gills",
+  "en": "The corruption affecting Westfall's crops may have seeped into the ocean as well. If the local fish are affected too, it could doom Stormwind to famine.\nCollect gills from the murlocs along the shoreline and bring them to me. Murlocs are quite hardy, but their physiology is extremely sensitive to contaminants. Any toxins in the seawater will be readily apparent in the gills you find.",
+  "files": [
+   "quests/92744-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "2d6f53623b2c",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Alba Fairmoon",
+  "quest": "Murloc Gills",
+  "en": "I see... these gills appear to be healthy, for now. But we must not be complacent.",
+  "files": [
+   "quests/92744-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "7cb048b1776f",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hemet Nesingwary",
+  "quest": "Of Mice and Milk",
+  "en": "(PH) Thanks!",
+  "files": [
+   "quests/93928-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "f28d85cea403",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Wilder Thistlenettle",
+  "quest": "Oh Brother. . .",
+  "en": "We were deep in a vast mine in Westfall, hidden beneath a barn in Moonbrook. No clue where these stinkin' thieving types came from. Anyway, the mine tunnel collapsed on us. I got out but the others... well... the others haven't been heard from.\n\nYou look like you might have better luck in there. If you could look for my brother, I'd be thankful. He always carried his Explorers' League Badge. If you can't find him, that badge would at least give me some peace of mind.",
+  "files": [
+   "quests/167-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "a9785d5de63a",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Wilder Thistlenettle",
+  "quest": "Oh Brother. . .",
+  "en": "My suspicions were correct. My poor brother.... Well, thank you for bringing some conclusion to this mystery, even if the conclusion was grim.",
+  "files": [
+   "quests/167-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "61282217935e",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captain Danuvin",
+  "quest": "Patrolling Westfall",
+  "en": "Stormwind has abandoned us. A foul wind of depravity rustles through the plains of Westfall. This was my homeland and I will not turn my back on the citizens who choose to remain here. We, the former farmers, shall make our stand.\n\nYour task, should you choose to accept, is to patrol the grasslands of Westfall. Track down and slay the vile Gnolls that seem to be working in conjunction with the Deadmines thieves. Bring me eight Gnoll Paws and I will reward your bravery.",
+  "files": [
+   "quests/102-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "43e9343f2b7e",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captain Danuvin",
+  "quest": "Patrolling Westfall",
+  "en": "Well done, adventurer. With valiant adventurers such as yourself fighting alongside The People's Militia, Westfall just might return to the prosperous breadbasket it once was. Please accept this in recognition of your tireless efforts.",
+  "files": [
+   "quests/102-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "74e22b34d1d1",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Verna Furlbrow",
+  "quest": "Poor Old Blanchy",
+  "en": "Poor Old Blanchy! Such a tired beast after all the work we put her through. I fed her before we left the farm, but we weren't expecting the wagon to break on us. If you could bring her a few handfuls of oats from the fields, I'd be grateful.\n\nI bet you could find some around all of the farms in Westfall, if you can steer clear of those horrific machines that have taken over. There are several farms southwest of here.",
+  "files": [
+   "quests/151-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "0b40ecf7bc33",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Verna Furlbrow",
+  "quest": "Poor Old Blanchy",
+  "en": "Thank you so much, Adventurer! Poor Old Blanchy will be so happy!",
+  "files": [
+   "quests/151-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "b7d1a3834420",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Scout Galiaan",
+  "quest": "Red Leather Bandanas",
+  "en": "The Defias Front is constantly shifting. I've been following their movements for quite some time now. On a side note, I've ascertained that many members of the gang can be tracked by the Red Leather Bandanas they wear.\n\nBring me 15 of these Bandanas and I'll see to it you are rewarded.",
+  "files": [
+   "quests/153-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "958754126808",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Scout Galiaan",
+  "quest": "Red Leather Bandanas",
+  "en": "Nice work, traveler. Please accept one of these items as payment for all your hard work.",
+  "files": [
+   "quests/153-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "afb6731590b4",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Scout Riell",
+  "quest": "Red Silk Bandanas",
+  "en": "It's no secret that the trademark of the Defias Gang is their Red Bandanas. But we've learned that the material from which these bandanas are made signifies the member's rank.\n\nThat being said, I want you to eliminate as many high ranking Defias members as you can. The highest ranking members will undoubtedly be found in VanCleef's secret hideout. When you're done bring me 10 Red Silk Bandanas as proof of their deaths and I will reward you. Good luck, Adventurer.",
+  "files": [
+   "quests/214-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "987f9654c03c",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Scout Riell",
+  "quest": "Red Silk Bandanas",
+  "en": "Well done, Adventurer! On behalf of The People's Militia I salute you for your efforts. Soon we will return this land to the people with help from brave souls like you.",
+  "files": [
+   "quests/214-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "43036b14ce93",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Dungar Longdrink",
+  "quest": "Return to Lewis",
+  "en": "The gryphon master in Westfall is Thor. If you've spoken to him before, then you can take one of my gryphons to him.\n\nThat's a good lesson to know: gryphons are always trained to fly to their capital city, but they'll only take you to a remote gryphon master after you've already been there.\n\nYou've already been to Thor, so just speak with me again when you're ready to take a gryphon to Westfall. Once there, you can deliver Osric's Crate to Quartermaster Lewis.",
+  "files": [
+   "quests/6285-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "aaa601c84e7f",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Quartermaster Lewis",
+  "quest": "Return to Lewis",
+  "en": "Great, you brought the armor! We'll get this divvied to those who need it immediately.\n\nThank you, Adventurer. Your efforts have been a great help to us. And now that you're no stranger to gryphons, I hope you'll come and lend your aid to Sentinel Hill often!",
+  "files": [
+   "quests/6285-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "00eb89b17689",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grimbooze Thunderbrew",
+  "quest": "Sweet Amber",
+  "en": "In the land to the south where vines twist and creep\nLies a hidden well where the water runs deep\nPure as the Light's sacred Daughter\nBring to me now some Holy Spring Water.",
+  "files": [
+   "quests/48-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "36b86094434b",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grimbooze Thunderbrew",
+  "quest": "Sweet Amber",
+  "en": "Hiccup! Ho Ho!",
+  "files": [
+   "quests/48-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "a401a2864d64",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grimbooze Thunderbrew",
+  "quest": "Sweet Amber",
+  "en": "Amber is the hue of my life's longest love\nLike the last embers of dusk in the sky above\nRetrieve for me so that my love shall be born\nOne sack of each: barley, rye and corn.",
+  "files": [
+   "quests/49-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "abe2f5529064",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grimbooze Thunderbrew",
+  "quest": "Sweet Amber",
+  "en": "Hiccup! Ho ho!",
+  "files": [
+   "quests/49-complete",
+   "quests/50-complete",
+   "quests/51-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "3e77683cedad",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grimbooze Thunderbrew",
+  "quest": "Sweet Amber",
+  "en": "I'll mix and mix till we have a mash\nFor this will be our own private stash\nA still must be fashioned of metal strong\nBring me some Truesilver so I can finish this song.",
+  "files": [
+   "quests/50-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "a8cb6de5e83a",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grimbooze Thunderbrew",
+  "quest": "Sweet Amber",
+  "en": "Not yet filtered but freshly distilled\nLike unseeded land waiting there tilled.\nNext I will fashion our pile of charcoal\nDeliver a sycamore branch, that is your next goal.",
+  "files": [
+   "quests/51-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "4dc49888fa52",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grimbooze Thunderbrew",
+  "quest": "Sweet Amber",
+  "en": "Mellifluous liquid clear as a baby's tears\nTurns a lovely deep amber over the years\nBut before we proceed to get lit to the hilt\nA barrel of charred oak must be built.",
+  "files": [
+   "quests/53-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "8cac7c6e936a",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grimbooze Thunderbrew",
+  "quest": "Sweet Amber",
+  "en": "Aged in the barrel, filtered through coal\nIt passes your lips and right through your soul.\nSo lets us drink now, a toast to you\nAnd me while we're at it, Grimbooze Thunderbrew!",
+  "files": [
+   "quests/53-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "65bb36a4e1c8",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Alba Fairmoon",
+  "quest": "Testing the Wells",
+  "en": "We must determine the source and nature of the poison corrupting this land. Let us begin with the groundwater under the farms in the area.\n\nGo to the Jansen Stead in the north and the Molsen Farm northwest of here, and collect samples from the wells there.",
+  "files": [
+   "quests/92742-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "bb8a7460e88a",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Alba Fairmoon",
+  "quest": "Testing the Wells",
+  "en": "Thank you. Let me see...",
+  "files": [
+   "quests/92742-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "ce71b3ea57c2",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gryan Stoutmantle",
+  "quest": "The Defias Brotherhood",
+  "en": "All hail, adventurer! Defender of The People!",
+  "files": [
+   "followup/197-human-male-official"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "607e9df323c5",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gryan Stoutmantle",
+  "quest": "The Defias Brotherhood",
+  "en": "The People of Westfall salute adventurer, a brave and valiant defender of freedom.",
+  "files": [
+   "followup/198-human-male-official"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "918d99a3f0a5",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gryan Stoutmantle",
+  "quest": "The Defias Brotherhood",
+  "en": "Three cheers for adventurer! This land shall be ours once again!",
+  "files": [
+   "followup/199-human-male-official"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "ff0eeb4bb175",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gryan Stoutmantle",
+  "quest": "The Defias Brotherhood",
+  "en": "Bah! I should have let that scoundrel rot when I had the chance. But this information is crucial. Good work.",
+  "files": [
+   "quests/132-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "6bfba4af27f8",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gryan Stoutmantle",
+  "quest": "The Defias Brotherhood",
+  "en": "I wonder what Wiley meant when he mentioned the Stonemasons. Perhaps that was a slip of tongue. Could the Defias gang be related to the Stonemasons? Only one man would know for sure: Mathias Shaw, head of SI:7. Show him Wiley's Note and see if he has anything to add to this growing mystery. If you have trouble finding Shaw, check the Barracks in Old Town.",
+  "files": [
+   "quests/135-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "5b8380a428c9",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gryan Stoutmantle",
+  "quest": "The Defias Brotherhood",
+  "en": "Edwin VanCleef. . .I know the name well. To think that a man so industrious and talented could turn into such a scoundrel unnerves me. I'll need further proof before I believe this.",
+  "files": [
+   "quests/141-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "048bec59f05d",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gryan Stoutmantle",
+  "quest": "The Defias Brotherhood",
+  "en": "We need to discover the location of the Defias hideout. Adventurer, my scout reports that a Defias Messenger has been seen on the roads between Moonbrook, the Gold Coast Quarry and the Jangolode Mine. I want you to capture him. If he resists, kill him and bring me whatever he is carrying.",
+  "files": [
+   "quests/142-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "6483b84dd649",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gryan Stoutmantle",
+  "quest": "The Defias Brotherhood",
+  "en": "This is indeed firm proof that VanCleef is in charge. Now all we need to know is where the Defias gang is hiding out.\n\nWe've had a stroke of luck while you were gone. We captured a thief trying to steal Saldean's wagon. He has promised to lead us to the hideout in exchange for his life. I want you to defend the traitor so he can reveal the hideout. Return to me once you have uncovered the location.",
+  "files": [
+   "quests/142-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "6a431e7067d1",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gryan Stoutmantle",
+  "quest": "The Defias Brotherhood",
+  "en": "Most excellent, Adventurer! VanCleef is as good as ours now that we know where he is hiding.",
+  "files": [
+   "quests/155-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "26c74f7149e1",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gryan Stoutmantle",
+  "quest": "The Defias Brotherhood",
+  "en": "There is but one task left for you to complete. Edwin VanCleef must be assassinated. While it saddens me to condemn any man to a death sentence, it is for the greater good of the people of Westfall that VanCleef is laid to rest once and for all. Bring me the villain's head once the deed is done.",
+  "files": [
+   "quests/166-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "3deef248e25d",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gryan Stoutmantle",
+  "quest": "The Defias Brotherhood",
+  "en": "The band of wretches responsible for driving the good people of Westfall from the land call themselves The Defias Brotherhood. I need you to infiltrate this clan of thugs. We need to know who heads up the cartel and where they are hiding out. In Lakeshire, in the inn, there is a rogue by the name of Wiley who owes me a favor.\n\nTravel to Lakeshire in the Redridge Mountains, east of Elwynn, and find out what you can.",
+  "files": [
+   "quests/65-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "d52eaec5e713",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gryan Stoutmantle",
+  "quest": "The Defias Brotherhood",
+  "en": "Adventurer, your bravery is remarkable. The People's Militia thanks you for your service to the people of Westfall. With VanCleef dead, this marks the beginning of the end for the Defias Brotherhood. Hopefully some day soon peace will once again grace the plains of this fair land.\n\nI salute you, Sir!",
+  "files": [
+   "quests/m-166-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "f821ad50f1aa",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Master Mathias Shaw",
+  "quest": "The Defias Brotherhood",
+  "en": "This matter might be more complex than Stoutmantle realizes.",
+  "files": [
+   "quests/135-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "aefb4204c548",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Master Mathias Shaw",
+  "quest": "The Defias Brotherhood",
+  "en": "The Stonemasons' Guild was run by a man named Edwin VanCleef. VanCleef was responsible for rebuilding Stormwind after the orcs razed it in the First War. Apparently, VanCleef and his men were unhappy with their treatment by the King after the reconstruction was complete. That just might explain a thing or two.\n\nI have written a more detailed account for your Master in Westfall. Take this to him at once!",
+  "files": [
+   "quests/141-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "e501b4817680",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "The Defias Traitor",
+  "quest": "The Defias Brotherhood",
+  "en": "Follow me, adventurer. I'll take you to the Defias hideout. But you better protect me or I am as good as dead.",
+  "files": [
+   "followup/9-human-male-standard"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "a2b3a60bcead",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "The Defias Traitor",
+  "quest": "The Defias Brotherhood",
+  "en": "So Stoutmantle sends a scrawny traveler like you to protect me? Guess you'll have to do. Better bring some friends too. \n\nYou know the deal, right? You watch my back and I'll take you to the Defias hideout. But you better be close by my side. The Defias gang wants my head now. If they see me with you, they'll try to kill me.\n\nLet me know when you and any friends you can round up are ready to go.",
+  "files": [
+   "quests/155-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "1319a7ecbc1a",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Wiley the Black",
+  "quest": "The Defias Brotherhood",
+  "en": "What I am about to tell you could cost me my life. The Defias gang is up to something big. Last I heard they were working in conjunction with various gnolls, kobolds and even goblins.\n\nTake this note to Stoutmantle. It explains as much as I know on the subject.",
+  "files": [
+   "quests/132-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "0210e7774200",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Wiley the Black",
+  "quest": "The Defias Brotherhood",
+  "en": "So, Stoutmantle sent you? Well, I owe him.",
+  "files": [
+   "quests/65-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "9c099e058c6e",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Farmer Furlbrow",
+  "quest": "The Forgotten Heirloom",
+  "en": "It was horrible! Verna woke me when she heard a ruckus in the fields. The fields were full of hooligans. We left in a rush and I forgot to pack my pocket watch. Verna's pa gave me that watch on our wedding day and I feel just sick knowing those thieves have it. I left the pocket watch in the wardrobe at the farmhouse. Look for the field of pumpkins to the West -- you can't miss it. If you bring it back to me, I'd sure be grateful!",
+  "files": [
+   "quests/64-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "f409f4b2b0f2",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Farmer Furlbrow",
+  "quest": "The Forgotten Heirloom",
+  "en": "My watch! Thank you so much, kind sir! \n\nWe are but poor farmers and we have lost our land but please accept this reward as a token of our appreciation.",
+  "files": [
+   "quests/m-64-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "4660a7b09669",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Farmer Saldean",
+  "quest": "The Killing Fields",
+  "en": "Look at what has happened to this place! These lands were once occupied by good farm folk. But the damned thieves have driven them all off. Not me, though! But it seems some Harvest Watchers have taken over the fields.\n\nIf you're up for the work, I'd like you to go out and kill twenty of them. Come back when you're done for your pay. If you finish up with the ones in my field, clear them from the neighboring fields as well.",
+  "files": [
+   "quests/9-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "b2f7d3149b79",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Farmer Saldean",
+  "quest": "The Killing Fields",
+  "en": "Good work, friend. You have earned your pay well. Who knows, perhaps Westfall will prosper once again.",
+  "files": [
+   "quests/9-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "f7a0d7e882cc",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gryan Stoutmantle",
+  "quest": "The People's Militia",
+  "en": "The People's Militia has but one goal: To defend the lands of Westfall and return peace to our surroundings. Unfortunately, the price of peace is often blood. \n\nOne of my scouts has brought word of a band of Defias Trappers wreaking havoc nearby. I have reports of Defias Trapper sightings near the Jangolode Mine to the Northwest as well as at the Molsen Farm and Furlbrow's Pumpkin Farm. If you seek to join our ranks, slay 15 Defias Trappers and 15 Defias Smugglers then return to me.",
+  "files": [
+   "quests/12-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "6e3837eea754",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gryan Stoutmantle",
+  "quest": "The People's Militia",
+  "en": "Well done, adventurer. My scout witnessed your valiant acts. You are proving yourself quite well so far.",
+  "files": [
+   "quests/12-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "cc1335403a62",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gryan Stoutmantle",
+  "quest": "The People's Militia",
+  "en": "A band of vicious Defias Pillagers has been seen plundering the Gold Coast Quarry, Moonbrook and the Alexston Farmstead. The People's Militia will not stand for such behavior. Dispatch immediately, adventurer, and make the Light's presence known in Westfall.\n\nThe Gold Coast Quarry is near the shore, to the West of the tower. As the next step of your training, I want you to kill 15 of those foul Defias Pillagers and 15 Defias Looters.",
+  "files": [
+   "quests/13-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "5af4709cc5b1",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gryan Stoutmantle",
+  "quest": "The People's Militia",
+  "en": "Your worth to The People's Militia has been validated by your brave acts thus far.",
+  "files": [
+   "quests/13-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "6378230080eb",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gryan Stoutmantle",
+  "quest": "The People's Militia",
+  "en": "Some Defias have eluded us. My most trusted scout reports that these Defias have been looting and pillaging the countryside, all the way into Southern Westfall. We believe they are hiding out in the Dagger Hills, plotting their next move. Slay the wretches in the name of The People's Militia.",
+  "files": [
+   "quests/14-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "32f4fea35a86",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gryan Stoutmantle",
+  "quest": "The People's Militia",
+  "en": "When I left the tainted lands of Lordaeron I returned to a grim state of affairs here in my homeland. But there is hope for Westfall yet. As proven by your valor in battle, it is obvious to me that you serve our cause with honor. It is with great pride that I induct thee into The People's Militia. May the Light shine upon you.",
+  "files": [
+   "quests/14-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "5633fefd7063",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Alba Fairmoon",
+  "quest": "The State of the Mines",
+  "en": "The well samples you collected contain toxic metals! If we do not put an end to this corruption quickly, it will be decades before crops can grow in this soil again.\nThe Defias have seized the mines of Westfall and use creatures as labor to strip their resources. Disrupt them by slaying their miners in the Jangolode Mine to the north, and the Gold Coast Quarry to the west.",
+  "files": [
+   "quests/92745-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "b8551d83d73c",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Alba Fairmoon",
+  "quest": "The State of the Mines",
+  "en": "Well done, Xeph. But I fear the source of the poison may lie somewhere else...",
+  "files": [
+   "quests/92745-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "0b493ad2130b",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grimbooze Thunderbrew",
+  "quest": "Thunderbrew",
+  "en": "Hurry, my friend, move with haste \nIn order for our rich lager to taste \nMore like beer and less like stew, \nHops are needed to make the brew.",
+  "files": [
+   "quests/117-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "3c1157aac696",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grimbooze Thunderbrew",
+  "quest": "Thunderbrew",
+  "en": "Hops and Barley, yeast and malt \nThe taste-buds feel a virtual assault, \nNo need to plead, no need to beg \nFor Thunderbrew Lager comes in a keg!",
+  "files": [
+   "quests/117-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "9c930d4746eb",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Shoni the Shilent",
+  "quest": "Underground Assault",
+  "en": "Gnomeregan has fallen under the control of those dastardly troggs! The situation is grave but perhaps you can help, Adventurer.\n\nDeep in the Deadmines is a functional goblin shredder. Find that shredder and bring back the intact power supply. With the shredder's power supply, we can give our gyrodrillmatic excavationators the power they need to break through the rocky underground borders of Gnomeregan, opening the way for a gnomish assault!",
+  "files": [
+   "quests/2040-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "4550c8a97de7",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Shoni the Shilent",
+  "quest": "Underground Assault",
+  "en": "Well done, Adventurer. Thanks to you, Gnomeregan is one step closer to its day of liberation!",
+  "files": [
+   "quests/2040-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "12b577e070fc",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Salma Saldean",
+  "quest": "Westfall Stew",
+  "en": "That Verna was always such a sweet lass. We'll miss her here in Westfall but between you and me, she's a city girl at heart and Stormwind will suit her just fine. But enough gossip! Now we can make Westfall Stew!",
+  "files": [
+   "quests/36-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "b054e18e09f7",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Salma Saldean",
+  "quest": "Westfall Stew",
+  "en": "Help me make some Westfall Stew! Come back with the following ingredients: \n \n 3 Stringy Vulture Meat \n 3 Goretusk Snouts \n 3 Murloc Eyes \n 3 Okra",
+  "files": [
+   "quests/38-accept"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "3d30c3724192",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Salma Saldean",
+  "quest": "Westfall Stew",
+  "en": "That Okra will thicken up this broth nicely! Now we just add the Stringy Vulture Meat, a few Murloc Eyes and those delicious Goretusk Snouts. And we're done! For all your help, adventurer, I want you to take today's first batch of Westfall Stew!",
+  "files": [
+   "quests/38-complete"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "129b52a92399",
+  "zone": "westfall",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Verna Furlbrow",
+  "quest": "Westfall Stew",
+  "en": "I never thought the day would come when I'd leave the farm. But the fields are overrun with thieves and it's far too dangerous for us here now. As soon as Farmer Furlbrow gets the wagon fixed, we'll be on our way. \n \nMaybe you could do me a favor? Let me scribble down my recipe for Westfall stew. Please take it to Salma Saldean over on the farm yonder. The Saldean's farm is just beyond the fork in the road.",
+  "files": [
+   "quests/36-accept"
+  ],
+  "uiMap": 1436
+ }
+]

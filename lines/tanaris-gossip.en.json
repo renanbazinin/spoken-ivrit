@@ -1,0 +1,548 @@
+[
+ {
+  "id": "65b6b2f88500",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Pestlezugg",
+  "quest": null,
+  "en": "In need of some alchemy supplies, are we? Or do you have other business with me?",
+  "files": [
+   "gossip/53a7d87194caf01d2d8d40dc9e920aea"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "15decd7b22ae",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Bera Stonehammer",
+  "quest": null,
+  "en": "Where would you like to fly to?",
+  "files": [
+   "gossip/43540ff7458382b18eb66468d4ff2856"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "2fdb8460bd8c",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Buzzek Bracketswing",
+  "quest": null,
+  "en": "Show me what you got! You won't be sorry, I promise!",
+  "files": [
+   "gossip/65e704bf14c873956aafc6447de33e25"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "8ae6f93a9856",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Buzzek Bracketswing",
+  "quest": null,
+  "en": "I've been working on a way to transport oil underground between major cities, but everyone tells me it's a pipe dream.",
+  "files": [
+   "gossip/d607877befae4fc8560330345158b290"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "384abaa6d7a9",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Buzzek Bracketswing",
+  "quest": null,
+  "en": "I would never turn away someone who's ready to train with me. Unfortunately, you're not! You've still got a ways to go kid!",
+  "files": [
+   "gossip/d61a0a53b1b257362de2e3db7be1604d"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "ef2a31696304",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Bilgewhizzle",
+  "quest": null,
+  "en": "The name's Bilgewhizzle, and I am the chief engineer of the Gadgetzan Water Company. What can I assist you with?",
+  "files": [
+   "gossip/f94ad6c5b177a8f7172a8ec05456acf1"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "156ebb2b80a2",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Curgle Cranklehop",
+  "quest": null,
+  "en": "The Gordunni are a large ogre tribe that has control over considerable portions of forests in Feralas. Their dark magic seeps into the elements around them, damaging both the environment and the creatures that inhabit it.\n\nIf you do decide to travel to Feralas, please be mindful of these ogres -- they are quite nasty and many are able to wield powerful dark magic.",
+  "files": [
+   "gossip/0c6e66b796bf9729d8e0c65c441711d3"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "dc7f49b0f217",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Curgle Cranklehop",
+  "quest": null,
+  "en": "In a place called Feralas to the west of here, the hippogryphs, long-time companions of the night elves, are in danger.\n\nI need you to rescue an egg from the ruins of Isildien, to the south, there. The Super Egg-O-Matic can analyze any egg brought to it and judge if it is likely to hatch. I then send the eggs along to the druids, safe from the Gordunni ogres' dark magics.\n\nPlease know, adventurer, some of the rescued eggs are bad eggs, and will never hatch.",
+  "files": [
+   "gossip/49f43fc55d3582737bf410646dd05a11"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "4bce6f28470e",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Curgle Cranklehop",
+  "quest": null,
+  "en": "Hi there! I have a proposition for an adventure-seeker such as you, if you are up to the challenge!\n\nAlong with my invention, the Super Egg-O-Matic, I am hard at work aiding the druids with their campaign to save the hippogryphs. The birds are being affected by the evil effects of the Gordunni ogres inhabiting the ruins of Feralas, and their numbers are dwindling.\n\nI collect many different types of eggs. Will you help and find some for me?",
+  "files": [
+   "gossip/a275ba473c8cc813159847ce18ab05ae"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "9357c8fc88e3",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Derotain Mudsipper",
+  "quest": null,
+  "en": "These Mithril Order guys are sissies.",
+  "files": [
+   "gossip/982c195b04083c16fd16fe3cc2b648be"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "6655c69c7c1f",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Dirge Quikcleave",
+  "quest": null,
+  "en": "We may have been suffering a drought but there's no shortage of meat! Care to browse my goods?",
+  "files": [
+   "gossip/544365d47c60f2584b894bd2faf796b0"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "989ed90ae952",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder Dreamseer",
+  "quest": null,
+  "en": "Go to the Freewind Post in Thousand Needles and you will find Elder Skyseer.",
+  "files": [
+   "gossip/4b19e31f8fc3dbc6c44c3e07bb7f9133"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "abc4fc665fb1",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder Dreamseer",
+  "quest": null,
+  "en": "Zul'Farrak in Tanaris Desert is Elder Wildmane's home.",
+  "files": [
+   "gossip/6d5f0546d0055466badabfa5d044c5d5"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "fa0dbbf4e0d4",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder Dreamseer",
+  "quest": null,
+  "en": "Elder Ragetotem spends her days at the Valley of the Watchers in Tanaris Desert.",
+  "files": [
+   "gossip/776ff9192dbb5f83ff4d2cf2e1600b58"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "90c6fdb5ff87",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elder Dreamseer",
+  "quest": null,
+  "en": "For reasons I cannot understand, Elder Thunderhorn has gone to the Slithering Scar in Un'Goro Crater.",
+  "files": [
+   "gossip/fc394a78f9558e7ded090243c7fc17a3"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "b076b4d636dd",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Ragetotem",
+  "quest": null,
+  "en": "Zul'Farrak in Tanaris Desert is Elder Wildmane's home.",
+  "files": [
+   "gossip/1dbe9a31c7264f1f7d172736804501c8"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "835d538ca9f4",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Wildmane",
+  "quest": null,
+  "en": "For reasons I cannot understand, Elder Thunderhorn has gone to the Slithering Scar in Un'Goro Crater.",
+  "files": [
+   "gossip/41c39997e17628fab32f08ed25d5dc98"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "7d2644a37b86",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Wildmane",
+  "quest": null,
+  "en": "Elder Dreamseer resides in Gadgetzan in Tanaris Desert.",
+  "files": [
+   "gossip/8bf5bc359aff1ea9c01dd2c255fe0603"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "2def9a7d7041",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Wildmane",
+  "quest": null,
+  "en": "Go to the Freewind Post in Thousand Needles and you will find Elder Skyseer.",
+  "files": [
+   "gossip/9608fc543c2498f3c75fc1a9721e80cd"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "f7a0c8d827a8",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gaeriyan",
+  "quest": null,
+  "en": "Please, leave an old spirit in peace.",
+  "files": [
+   "gossip/75c7653932086fa3c6eb2d294f26bd7a"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "d1c7cd25b392",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gaeriyan",
+  "quest": null,
+  "en": "Very few seek me out... What may I do for you?",
+  "files": [
+   "gossip/dddedefbebc656d4bd061f2f18065149"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "53c0836ee066",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Fizzgrimble",
+  "quest": null,
+  "en": "Ah a visitor! Must be an adventurer, we don't get many tourists down this way. Grab a chair and a drink, make yourself comfortable. Say, you look like you have some meat on your bones. You thinkin about competing in the cage matches?",
+  "files": [
+   "gossip/74292ac4ab48ee5809d5e8f84bf11e28"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "82536185eaeb",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Jhordy Lapforge",
+  "quest": null,
+  "en": "With some of the technology that was recovered by bold gnomes venturing into Gnomeregan, I have managed to construct my greatest invention: The Matter Transporter! All I need now is a skilled Gnomish Engineer to build a powerful beacon attuned to the transporter.",
+  "files": [
+   "gossip/31e604263a5a40b23254a6b2433c24d0"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "dc605ccea07a",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Jhordy Lapforge",
+  "quest": null,
+  "en": "If you figure out any way to improve the device let me know!",
+  "files": [
+   "gossip/34aa769372e7eb86724070a5f14c6f0a"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "cb97a0cf9b6f",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Jhordy Lapforge",
+  "quest": null,
+  "en": "Once you have built the device, you simply activate the device to be whisked away to lovely Gadgetzan! Nearly everyone who has used the device has arrived on the pad here looking just the way they did when they began!\n\nThere have been some reported problems with transportees being replaced by their evil selves from an alternate universe, but I'm sure we will have that worked out soon...",
+  "files": [
+   "gossip/e8a1eedcacd3813cfc32fd8b1ec97266"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "6bdea80bc203",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Krinkle Goodsteel",
+  "quest": null,
+  "en": "Welcome to Tanaris, adventurer. How can I be of service to you today? You don't look like a blacksmith to me, but I know how looks can be deceiving.",
+  "files": [
+   "gossip/c6a4de2224006b677c95b27def90d917"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "9a830b48d1c5",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Marin Noggenfogger",
+  "quest": null,
+  "en": "Living out here in the desert is rough! I get so thirsty standing outside in this heat.",
+  "files": [
+   "gossip/1d3cd34903e040de6b0c73c1aa2fb0df"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "9b8f994faa01",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Marin Noggenfogger",
+  "quest": null,
+  "en": "Well, now that you mention it, yeah, I did see something I thought was a little strange yesterday afternoon!\n\nI was running past some old troll ruins southeast of here; well, I wasn't really running, more like hopping... The sand's so hot!\n\nAnyway, so I was hopping past the ruins, when I noticed a camp set up there. Seems like a funny place to set up camp, if you ask me... I would have poked around a little more but one of those crazy big vultures chased me off.",
+  "files": [
+   "gossip/2240dd2ff7335d7ff456813bd7964a8f"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "6e9825c29974",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Marvon Rivetseeker",
+  "quest": null,
+  "en": "I know, I know, I'm out here in the middle of nowhere!\n\nMy home is actually in Ratchet, but after crashing my zeppelin here, I thought I might as well start the research I came here to do!",
+  "files": [
+   "gossip/012cba0ea4f7f602188cc6eee3493caa"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "bd5dc58a117d",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mux Manascrambler",
+  "quest": null,
+  "en": "Greetings, friend! Can I interest you in some ectoplasmic capacitors? Or perhaps a nice omni-directional spectral assimilator?",
+  "files": [
+   "gossip/2ee56c2d70a0c3bb5d140a53ddd3fa45"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "5b14cb314ee1",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Nixx Sprocketspring",
+  "quest": null,
+  "en": "Let me break down a little math for you: \"goblin\" plus \"engineering\" equals KNOW HOW, baby. Anyone who tells you otherwise simply doesn't know how to add.",
+  "files": [
+   "gossip/cc919cf47bdafb636ea5a25ac2f0b460"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "feff9b7a5597",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Rumsen Fizzlebrack",
+  "quest": null,
+  "en": "What can I do for you? No, wait! What can you do for me?",
+  "files": [
+   "gossip/b89ae8e419d78a1676fef5d680e3b072"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "dc98dfa227ed",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Security Chief Bilgewhizzle",
+  "quest": null,
+  "en": "We're here to make a profit. And having our goods stolen is no way to make a profit.",
+  "files": [
+   "gossip/9a608f14db1e7dfee61fa3b4662f2a05"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "dcfec6f9d9cc",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Tran'rek",
+  "quest": null,
+  "en": "Some people wonder what we're doing out here in the desert. Well... if I told you, then you'd stay and try to make our profits!",
+  "files": [
+   "gossip/91cf1c9ed1ee232d72550fd38205c71a"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "bdbcd0458435",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Trenton Lighthammer",
+  "quest": null,
+  "en": "Split in two to form the one. The twin blades are bound to Zul'Farrak.\n\nSul'thraze reborn when the twins are found.",
+  "files": [
+   "gossip/eea29ec80661302d9837db9ce53a5f5a"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "8e78a2194e0c",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Vizzklick",
+  "quest": null,
+  "en": "If tailoring is your thing, Vizzklick will most definitely have your supplies. Take a look around, adventurer, and let me know if you wish to purchase something!",
+  "files": [
+   "gossip/910ba4b855e200d5675b3e6eabb50a83"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "0be53f07d104",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Vizzklick",
+  "quest": null,
+  "en": "Grab your things, adventurer! I've just gotten word from Nilith Lokrav in the Searing Gorge that the Undermarket has set up operations in the heart of the Cauldron. Find Nilith Lokrav in the Searing Gorge and get the low down!",
+  "files": [
+   "gossip/9b4127810f51260020b2c2688447edd5"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "9d7a50c97665",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Yeh'kinya",
+  "quest": null,
+  "en": "Through my studies, I see that defeating the god Hakkar's avatar has weakened him. But the bulk of his strength remains, lurking at the far end of the Nether.\n\nYou have defeated his avatar once, adventurer. Perhaps if you defeat it again you can further weaken the god so that, one day, we might face his true self.\n\nI have prepared a spell that you may use to again summon an avatar of Hakkar within the Sanctum of the Fallen God. Do you want to confront it once again?",
+  "files": [
+   "gossip/aa551472a784dfcc7f33fa069f619438"
+  ],
+  "uiMap": 1446
+ },
+ {
+  "id": "c8ef80c35edf",
+  "zone": "tanaris-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Yeh'kinya",
+  "quest": null,
+  "en": "Greetings, adventurer. Though time and drink have dulled my outer senses, my inner eyes remain strong.",
+  "files": [
+   "gossip/bfbfb8887e0db34733a0a6ad237b1e46"
+  ],
+  "uiMap": 1446
+ }
+]

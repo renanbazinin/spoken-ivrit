@@ -1,0 +1,436 @@
+[
+ {
+  "id": "d8848605eac0",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Tinkee Steamboil",
+  "quest": "Broodling Essence",
+  "en": "I have been studying the dragonkin of the Burning Steppes for weeks, and I think I've finally had a breakthrough! I created a device--I call it the Draco Incarcinatrix 900. It can capture the essence of dragon whelp broodlings!\n\nOr, at least I think it can.\n\nHere, take the device and zap a broodling in the Burning Steppes with it. While it's under the device's effects, defeat the broodling and its essence should be released.\n\nIf it is, then splendid! Bring me back samples so I can study them!",
+  "files": [
+   "quests/4726-accept"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "b7a0c3e02faf",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Tinkee Steamboil",
+  "quest": "Broodling Essence",
+  "en": "It worked! You got the essence! Well done, Adventurer! Well done!\n\nThis essence will be invaluable in my research. I hope to one day learn how to capture living dragons whelps, or perhaps capture their eggs. If I could find a way to do that, then I would be the envy of dragon scholars around the world!\n\nMy employer would also be happy, and as I said before, he's someone you want to keep happy...",
+  "files": [
+   "quests/4726-complete"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "6b275d33ef0c",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Helendis Riverhorn",
+  "quest": "Dragonkin Menace",
+  "en": "Life in the Burning Steppes is rife with conflict.\n\nJust look at this place! We know very little of what happened to these buildings, but we do know that at one time, before the great explosion, this was all part of the Redridge mountain range.\n\nEnough lamenting! We have a problem, Adventurer. You may have noticed the dragonkin below this ridge. We need assistance in pushing them back. Kill as many as you can and return to me. Succeed and perhaps we can talk of other things.",
+  "files": [
+   "quests/4182-accept"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "62e8be7c3a83",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Helendis Riverhorn",
+  "quest": "Dragonkin Menace",
+  "en": "Superb slaying, Adventurer. Now that we know you can handle yourself around dragonkin, we can talk of more pressing matters.",
+  "files": [
+   "quests/4182-complete"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "a417a5234764",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Oralius",
+  "quest": "Extinguish the Firegut",
+  "en": "We must strike at our enemies before they strike at us!\n\nI'll make this brief, soldier.\n\nThe Firegut ogres of the Burning Steppes are allies of the Blackrock orcs. They work closely with those vile orcs, keeping the mineral rich Dreadmaul Rock guarded and the supply lines open at all times.\n\nLeave your mark, Adventurer. Cripple their forces and return to me when the job is done.\n\n\nI WILL KILL YOU, WINKY!",
+  "files": [
+   "quests/3823-accept"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "5f4d235147ab",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Oralius",
+  "quest": "Extinguish the Firegut",
+  "en": "Outstanding, soldier! The orcs and ogres will be reeling from this blow for minutes, maybe even hours!",
+  "files": [
+   "quests/3823-complete"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "a8f49ba2e41a",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Oralius",
+  "quest": "FIFTY! YEP!",
+  "en": "I'm going to let you in on a little secret, soldier. Come a little closer.\n\nI'M THE ONLY SANE ONE HERE!\n\nLook at these people! Would you believe that they're all insane!? Well they are! NUTS! CRAZY!\n\n\nLet's just keep that between me, you, and my pal Captain Winky.\n\n\nAnyhooooo... I'm collecting badges to go along with my ogre ear collection. Orc is the flavor of the day. Fifty. GO!\n\n\nSHIP IT!",
+  "files": [
+   "quests/4283-accept"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "4f2eaafee24a",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Oralius",
+  "quest": "FIFTY! YEP!",
+  "en": "You've done it! Your reward is: RUB MY BELLY! GO ON! RUB IT!",
+  "files": [
+   "quests/4283-complete"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "864fb94d6823",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Felnok Steelspring",
+  "quest": "Felnok Steelspring",
+  "en": "That's no blanket! But what have we here? I letter from Tinkee? I wonder what she has to say...\n\nAh, she's studying in the Burning Steppes. That makes sense--that's a good source for dragonkin. Oh, but look! It says here that she needs some parts for a device she wants to build. I guess that's where I come in, eh?",
+  "files": [
+   "quests/4808-complete"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "ba181f197313",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Tinkee Steamboil",
+  "quest": "Felnok Steelspring",
+  "en": "I have another favor to ask of you.\n\nMy initial study of the essence you collected shows that it might be possible to freeze dragon whelp eggs and preserve them! I want to test this theory, but first I need specially made engineering components. My colleague, Felnok Steelspring, can make them.\n\nHere, take this letter to Felnok. It tells him what I need. You'll find Felnok in Winterspring, in the town of Everlook.",
+  "files": [
+   "quests/4808-accept"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "67ba2a388664",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Oralius",
+  "quest": "Gor'tesh the Brute Lord",
+  "en": "They're reeling I tell you! Our next strike must be decisive.\n\nThe brute lord, Gor'tesh, must be slain. More importantly, his head must be returned to me so that I may prepare the third phase of our attack on the Firegut ogres.\n\nBe warned, soldier, Gor'tesh rules not from Dreadmaul Rock but from a Blackrock orc structure to the west of Dreadmaul Rock.\n\nYour orders, then, are simple. Find Gor'tesh and chop off his fat head. Return to me when the job is done.\n\nSHUT UP, WINKY!",
+  "files": [
+   "quests/3824-accept"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "a8e29025bd90",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Sha'ni Proudtusk",
+  "quest": "Krom'Grul",
+  "en": "My whole platoon was captured, Adventurer. All were slain - except me.\n\nTheir leader, Krom'Grul, wanted to save me for some sort of ritual.\n\nI was chained to this altar and brutalized by the beast. My physical being ceased functioning after an hour of this torture. The beast then ripped my wedding nose-ring off of my face and stuck it on his finger. I had never seen such savagery!\n\nFind Krom'Grul and kill him! Take my ring back to Thal'trak.\n\nAnd Adventurer, tell him that we will meet again... in another life.",
+  "files": [
+   "quests/3822-accept"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "f6e76dfff938",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Thal'trak Proudtusk",
+  "quest": "Krom'Grul",
+  "en": "We were going to move to the Hinterlands. Did she tell you? This was going to be her last mission.\n\n\nI don't want it, Adventurer. Keep it, throw it away, I don't care! The ring means nothing to me now. Not without her...",
+  "files": [
+   "quests/3822-complete"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "ceeab7a225ca",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Leonid Barthalomew the Revered",
+  "quest": "Leonid Barthalomew",
+  "en": "Ah, very good. You do not know the evil power for whom you have labored, but now you will know the truth. And fear not--I am no servant of that master. I am Leonid Barthalomew, known as \"the Revered\" to my brethren in the Argent Dawn.\n\nI tricked Tinkee into sending you and the dragon eggs to me. And it is good that my trick was successful, for had these eggs reached their intended destination, a great power would have fallen into the hands of the enemy.",
+  "files": [
+   "quests/5522-complete"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "93725ebe22ab",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Tinkee Steamboil",
+  "quest": "Leonid Barthalomew",
+  "en": "I received a message from my master, Vectus. Well, the message wasn't really from Vectus...it was from someone named Leonid Barthalomew. I don't know Leonid, but he knew my master, and no one knows my master unless he allows it.\n\nLeonid says Vectus wants the dragon eggs. He wants you to deliver them to him at the Light's Hope Chapel in the Eastern Plaguelands.\n\nThat hurts! Why you? Doesn't Vectus trust me? Oh, never mind... just take the eggs and tell Leonid that I did what our master commanded.",
+  "files": [
+   "quests/5522-accept"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "be3b7051b18b",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Oralius",
+  "quest": "Ogre Head On A Stick = Party",
+  "en": "Outstanding work, soldier! Simply amazing! Oh I'll get the medal of bravery for this, er, I mean you'll be rewarded handsomely for this!",
+  "files": [
+   "quests/3825-complete"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "ce7a87cebe38",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Jalinda Sprig",
+  "quest": "Overmaster Pyron",
+  "en": "The last five of my mages that went snooping around in Blackrock Mountain came back extra crispy with a permanent orange gnomefro - or worse.\n\n\nOne nasty bugger in particular, Overmaster Pyron, seems to be causing quite a bit of trouble. We need that elemental terminated so that our expedition crew can make its way into Blackrock Depths!\n\nHe guards the entrance at the Blackrock Quarry.",
+  "files": [
+   "quests/4262-accept"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "b73cbcecca37",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Jalinda Sprig",
+  "quest": "Overmaster Pyron",
+  "en": "Incendius? Oh dear...",
+  "files": [
+   "quests/4262-complete"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "14db582bb4e1",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Maxwort Uberglint",
+  "quest": "Tablet of the Seven",
+  "en": "I came to the Burning Steppes, following the legends of the Seven. They were dwarves of great knowledge and power, and if you have knowledge and power, then wealth is sure to follow.\n\nThat's what I want. Wealth!\n\nIf we can learn more of the Seven, then maybe we can get rich together. The ruins of Thaurissan is rumored to keep the Tablet of the Seven, which holds knowledge of the ancient dwarves. Find this tablet, copy its text and bring it to me. Let's discover its secrets together!",
+  "files": [
+   "quests/4296-accept"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "a727d53e1819",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Maxwort Uberglint",
+  "quest": "Tablet of the Seven",
+  "en": "Ah, you found the tablet! And your transcription is superb! Are you sure you're a adventurer and not a scribe?\n\nHere you are, Adventurer. Here is the payment I promised.",
+  "files": [
+   "quests/4296-complete"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "c689e0273873",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Hierophant Theodora Mulvadania",
+  "quest": "The Rise of the Machines",
+  "en": "The machines made themselves known to us during our initial forays into the Searing Gorge. Upon further investigation we discovered that they were being imported from Burning Steppes, possibly Blackrock Depths. That is what we need you for, Adventurer.\n\nYour first task is to venture to the Burning Steppes and recover elemental shards from the rock automatons and lesser rock creations of the region. Once you have collected a sufficient amount, return to me and I shall determine their source of origin.",
+  "files": [
+   "quests/4061-accept"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "68aa77e7899a",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Hierophant Theodora Mulvadania",
+  "quest": "The Rise of the Machines",
+  "en": "Interesting. Etched into the structural foundation of each of these fragments are... initials.",
+  "files": [
+   "quests/4061-complete"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "e779b6c5a0fa",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Bolvar Fordragon",
+  "quest": "The True Masters",
+  "en": "Dragons? Impossible!",
+  "files": [
+   "quests/4184-complete"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "e0700381effd",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Bolvar Fordragon",
+  "quest": "The True Masters",
+  "en": "Solomon paints a dreary picture. Still, we cannot afford to send our thinly spread troops to the aid of Lakeshire on speculation. I will need proof of these claims before I can act.\n\nSpeak with Lady Prestor, Adventurer. She is a learned woman and knows much of dragons and dragonkin. She may be able to shed some light on this situation.",
+  "files": [
+   "quests/4185-accept"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "8b3f9f288514",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Bolvar Fordragon",
+  "quest": "The True Masters",
+  "en": "While I respect Lady Prestor's stance, I believe that there is a solution to this dilemma that may put all of our concerns to rest.",
+  "files": [
+   "quests/4185-complete"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "48a82ed3323f",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Bolvar Fordragon",
+  "quest": "The True Masters",
+  "en": "I am going to empower you as an acting deputy of Stormwind, Adventurer.\n\nReturn to Magistrate Solomon in Lakeshire and deliver this decree.",
+  "files": [
+   "quests/4186-accept"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "6b4bf1c3d3d3",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Solomon",
+  "quest": "The True Masters",
+  "en": "This is grim news, Adventurer. To discover that our mortal enemies are merely pawns of a much greater threat is disheartening. There is no possible way that Lakeshire could survive an attack from both the Blackrock orcs and the black dragonflight. Should Lakeshire fall to this menace, Darkshire would fall next, and then what? Goldshire? Stormwind itself?\n\nYou must take this information to Highlord Bolvar Fordragon in Stormwind at once! If this does not merit the aid of Stormwind, nothing will and all is lost.",
+  "files": [
+   "quests/4184-accept"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "089dac78b372",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Solomon",
+  "quest": "The True Masters",
+  "en": "It could have been worse, I suppose...\n\n\nIt appears as if the fate of Lakeshire rests squarely on your shoulders.",
+  "files": [
+   "quests/4186-complete"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "60338cbfd52f",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Solomon",
+  "quest": "The True Masters",
+  "en": "You must return to the Burning Steppes, Adventurer. As a deputy of Stormwind, you will be required to report to Marshal Maxwell. Good luck.",
+  "files": [
+   "quests/4223-accept"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "04b726c2eeaa",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Maxwell",
+  "quest": "The True Masters",
+  "en": "What? You thought you were the first? How many soldiers must we lose before Stormwind acts?\n\nWe had accumulated enormous amounts of intelligence pertaining to the Blackrock menace before we lost our commanding officer, Marshal Windsor. With Marshal Windsor went all of our precious information.\n\nWhat we need is that documentation. Speak with Ragged John, Adventurer. He was with Windsor when they were attacked by a Blackrock raiding party. He was last seen in a cave to the north.",
+  "files": [
+   "quests/4224-accept"
+  ],
+  "uiMap": 1428
+ },
+ {
+  "id": "86710b68f81f",
+  "zone": "burning-steppes",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal Maxwell",
+  "quest": "The True Masters",
+  "en": "I could have warned you, but what fun is that?",
+  "files": [
+   "quests/4224-complete"
+  ],
+  "uiMap": 1428
+ }
+]

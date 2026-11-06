@@ -1,0 +1,240 @@
+[
+ {
+  "id": "bceaa8a1bed7",
+  "zone": "swamp-of-sorrows-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Bloodmage Drazial",
+  "quest": null,
+  "en": "The beasts of these blasted lands exhibit preternatural attributes, heretofore unseen in nature.\n\nWe have theorized that the energy which was released upon the opening of the Dark Portal, infused into their physical being and forced the creatures to evolve into their current forms.\n\nFearsome beasts they are, no doubt, but we also believe that they could prove to be quite useful in our studies.\n\nPerhaps you would be interested in assisting us in the study of these beasts, adventurer?",
+  "files": [
+   "gossip/2c15e08c540b676fc549c879290f0597"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "f9e4a9669d4f",
+  "zone": "swamp-of-sorrows-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Dar",
+  "quest": null,
+  "en": "This sty's a little shy of comfy, but it has history, so Stonard must be important to someone. I'd gamble that's why we stay here. It sure ain't for the view--it don't even look like home.",
+  "files": [
+   "gossip/5c2dd5715d5a0125d0934c1f57a39e75"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "8907d1895711",
+  "zone": "swamp-of-sorrows-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": null,
+  "en": "My captors were cruel beyond measure, adventurer. They would alternate between Lieutenant Kirith and I, torturing one while the other watched. During a lull in the activity of an especially brutal day, Kirith told me what had happened to my men and a plan he had been formulating to free them from their masters.\n\nThey suffered a fate far worse than death, or even the pain Kirith and I endured.",
+  "files": [
+   "gossip/17112182a94dae91af72cf8bb58dde4b"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "5e1d94b5cd98",
+  "zone": "swamp-of-sorrows-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": null,
+  "en": "Thrall's Grasp they called us: Twenty of Thrall's most accomplished and honored soldiers.\n\nI had ordered the regiment to build an encampment here, on the border of the Blasted Lands, while we waited for our orders to arrive from Orgrimmar. Weeks passed without word from the warchief; the men grew restless.\n\nIt was a judgment call, adventurer. I was young and ambitious, afraid of nothing. The battalion would set forth into the Blasted Lands under my command.\n\nA decision I would later regret.",
+  "files": [
+   "gossip/246b857180cfb8d95954fa06f7183c80"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "6604910cb901",
+  "zone": "swamp-of-sorrows-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": null,
+  "en": "They are exactly what you need to destroy in order to free the regiment! As I had told you earlier, Kirith had a plan.\n\nEach of the servants does have a weakness. Punish their physical form in proximity of their stones until they are near the state of disintegration. It is at that point, and that point alone, that the stones of binding are vulnerable to attack. You must hurry to destroy the stones, however, as once the enslaved regain their composure, they will be invulnerable to harm once more.",
+  "files": [
+   "gossip/3a9fc293da7b2666f2755c04e234a703"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "ea22fd821c84",
+  "zone": "swamp-of-sorrows-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": null,
+  "en": "It's hard to imagine that so much death and despair could be confined to such a small area; yet beyond the swamp is a land plagued by chaos and destruction.\n\nWatch your step, adventurer. The Blasted Lands are the final resting place to far greater beings than you.",
+  "files": [
+   "gossip/3df1e6bc0bb085364a05607f4fcd932b"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "36047c64ffe5",
+  "zone": "swamp-of-sorrows-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": null,
+  "en": "I wish it were true, adventurer, but it will take more than you alone to overcome the forces of Razelikh and his subordinates.\n\nGather a suitable group of adventurers and would-be heroes and free my men of their eternal torture! Eighteen stones you must shatter.\n\nFight hard and die with honor, adventurer.",
+  "files": [
+   "gossip/5e971f209953fa012b86635a05f6932d"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "cf082e580eff",
+  "zone": "swamp-of-sorrows-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": null,
+  "en": "The archmage Allistarj of the Shadowsworn was granted three. Lady Sevine, warlock of the Shadowsworn was also granted three. The remaining three were given to Grol the Destroyer, lord of the Dreadmaul ogres of these blasted lands.\n\nYou see, adventurer, without a soul, the body cannot be killed. The remnants of my men are now indestructible fighting units. Thankfully, they are bound in how far they can travel by the stones of binding.",
+  "files": [
+   "gossip/7c2918df60afd41688a7500c519a965f"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "531fc1d5710e",
+  "zone": "swamp-of-sorrows-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": null,
+  "en": "Would you believe that in my darkest hour, at the apex of my being, I failed.\n\nAs I fled from the wanton destruction of the forces that overwhelmed us, the only sounds I could hear were the screams of my soldiers and the rapid beat of my own heart.\n\nA short while later, I returned to the Blasted Lands in hopes of rescuing my men and restoring my honor. Instead I was captured and beaten until dead.\n\nWhat I found out during my inquisition and subsequent torture was horrifying.",
+  "files": [
+   "gossip/7e860e6ffee6f60c2945a58e828890a1"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "18d2ec3bd8bc",
+  "zone": "swamp-of-sorrows-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": null,
+  "en": "Regret. It is all I have now. One bad decision resulting in several horrible outcomes. If only I had waited for those orders. Maybe they would have detailed the horrors that awaited us in those cursed lands! Maybe they were to redirect us to another detail? Ultimately, it was my fault. All of it was my fault.",
+  "files": [
+   "gossip/bde2d9c0c5ebfdc5d27951fa01622b41"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "b4d6d9b29a3e",
+  "zone": "swamp-of-sorrows-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Fallen Hero of the Horde",
+  "quest": null,
+  "en": "Neither you nor I could possibly imagine the pain an individual suffers when their soul is ripped from their body. They are not dead and by no means are they alive. Instead, they walk the land, servants of those that bind them to this world.\n\nLord Razelikh, demonic overlord of these lands, enslaved them all. Nine he took for his own, placing stones of binding near the Dark Portal. The remaining nine were divided up between his subordinates.",
+  "files": [
+   "gossip/e80fa3ad4ec81953dd42b32b58f4bb3d"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "f6c11d347889",
+  "zone": "swamp-of-sorrows-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ogromm",
+  "quest": null,
+  "en": "What?",
+  "files": [
+   "gossip/473178aa39ca6564bcadca7c21bbfead"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "9197728af5eb",
+  "zone": "swamp-of-sorrows-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ogromm",
+  "quest": null,
+  "en": "Don't waste my time.",
+  "files": [
+   "gossip/77d31ff418c404f97bed5fd865e38ebe"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "0481f269647d",
+  "zone": "swamp-of-sorrows-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Quartermaster Lungertz",
+  "quest": null,
+  "en": "Nethergarde keep always needs more supplies - supplies to help our mages in their research, and supplies to keep our defenders in top fighting shape.",
+  "files": [
+   "gossip/3013e35dbb11c13cc5f04bc40fcbd4de"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "579f93194dee",
+  "zone": "swamp-of-sorrows-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Rogvar",
+  "quest": null,
+  "en": "Warchief Thrall himself asked me to come out here. I was honored to obey, and it's no hardship. I couldn't have asked for a better posting than Stonard. Just about any herb I might need grows in the muck here.",
+  "files": [
+   "gossip/6ce2c0940d0dd65750b3907022d09eee"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "77cbb39b7525",
+  "zone": "swamp-of-sorrows-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Rogvar",
+  "quest": null,
+  "en": "Hmm, well, I can see that you have a little skill at making potions. Whether you're worthy to be my student remains to be seen, however. I have a job for you. Impress me.",
+  "files": [
+   "gossip/82de1081947db7e5efe700935903c696"
+  ],
+  "uiMap": 1435
+ },
+ {
+  "id": "8806adc6aa49",
+  "zone": "swamp-of-sorrows-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Rogvar",
+  "quest": null,
+  "en": "How dare you ask me for training, maggot? What were you hoping for, you slack-jawed yokel, a lecture on the proper uses of silverleaf? Out! You're lucky I don't thrash you senseless for wasting my time.",
+  "files": [
+   "gossip/ef707d4afe6c519b2111f0699c611d06"
+  ],
+  "uiMap": 1435
+ }
+]

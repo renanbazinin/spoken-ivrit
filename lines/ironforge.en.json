@@ -1,0 +1,1604 @@
+[
+ {
+  "id": "57e95e18d316",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Ashlam Valorfist",
+  "quest": "A Call to Arms: The Plaguelands!",
+  "en": "Welcome to the Plaguelands, hero. This is one of the most dangerous frontiers in Azeroth, especially with the looming threat of the Scourge to our north and northeast. I am glad to hear that the clarion call of duty and service to the greater good did not fall on deaf ears with you!\n\nIf you are ready to get your hands dirty, then there is plenty for willing and able heroes to do here on the edge of the Plaguelands.",
+  "files": [
+   "quests/5090-complete",
+   "quests/5091-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "4f00fae19030",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Courier Hammerfall",
+  "quest": "A Call to Arms: The Plaguelands!",
+  "en": "Hear ye, hear ye! All heroes are called upon to heed these words!\n\nA call to arms has been issued by the Kingdom of Stormwind! All able bodied individuals are entreated to take up arms against the dark threat of the Scourge in the northern lands of the Eastern Kingdoms! Rumors fly of new threats rising from the ruins of the Plaguelands!\n\nHeroes of the realm - seek out Commander Ashlam Valorfist who has set up his base camp in Chillwind Camp, north of the Alterac Mountains!",
+  "files": [
+   "quests/5090-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "517a52f3cde6",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bubulo Acerbus",
+  "quest": "A Donation of Runecloth",
+  "en": "Adventurer, you've been a tremendous contributor to our cloth drive. As we work hard to replenish our reserves, I must impart news upon you the most severe of our deficiencies - runecloth. We are in absolutely dire need of runecloth, and we hope that you will be able to help us as you have in the past.\nIf you are willing, please bring me what runecloth you can spare. We'll initially accept a single donation of sixty, and then we'll go from there.",
+  "files": [
+   "quests/7811-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "7f0e4113b98c",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bubulo Acerbus",
+  "quest": "A Donation of Runecloth",
+  "en": "With all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future. Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!",
+  "files": [
+   "quests/7811-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "f42ef8710bfd",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bubulo Acerbus",
+  "quest": "A Donation of Runecloth",
+  "en": "Fantastic - these will go right to use, I assure you. Thank you again for your assistance! We'd certainly be lost without you.\n\nWith all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future. Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!",
+  "files": [
+   "quests/7811-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "c74e05aaeaa9",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Mistina Steelshield",
+  "quest": "A Donation of Runecloth",
+  "en": "Adventurer, you've been a tremendous contributor to our cloth drive. As we work hard to replenish our reserves, I must impart news upon you the most severe of our deficiencies - runecloth. We are in absolutely dire need of runecloth, and we hope that you will be able to help us as you have in the past.\nIf you are willing, please bring me what runecloth you can spare. We'll initially accept a single donation of sixty, and then we'll go from there.",
+  "files": [
+   "quests/7805-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "f41a9df3449b",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Mistina Steelshield",
+  "quest": "A Donation of Runecloth",
+  "en": "With all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future. Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!",
+  "files": [
+   "quests/7805-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "da432d2f2807",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Mistina Steelshield",
+  "quest": "A Donation of Runecloth",
+  "en": "Fantastic - these will go right to use, I assure you. Thank you again for your assistance! We'd certainly be lost without you.\n\nWith all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future. Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!",
+  "files": [
+   "quests/7805-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "ea0febc1c1b8",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bubulo Acerbus",
+  "quest": "A Donation of Wool",
+  "en": "Wonderful! We thank you for your generous donation, Adventurer!",
+  "files": [
+   "quests/7807-complete",
+   "quests/7808-complete",
+   "quests/7809-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "080743526755",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Mistina Steelshield",
+  "quest": "A Donation of Wool",
+  "en": "Wonderful! We thank you for your generous donation, Adventurer!",
+  "files": [
+   "quests/7802-complete",
+   "quests/7803-complete",
+   "quests/7804-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "224cef766bd8",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "High Explorer Magellas",
+  "quest": "A Future Task",
+  "en": "We're all in agreement then - the best plan of attack is putting this on hold until we can narrow down the areas where these plates might lie hidden. You've brought us this far adventurer, and I hope you will be the one to head back in to the field to unlock Uldum for us all!\n\nAllow me to give you this honorarium in the meantime; this should cover any expenses you've encountered in assisting us, and a little something extra. Be sure to check back with us soon... Uldum beckons!",
+  "files": [
+   "quests/2964-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "60f85b486556",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Historian Karnik",
+  "quest": "A Future Task",
+  "en": "Well adventurer... we seem to be at a temporary dead end here. We know what we need - the Plates of Uldum - but we have no idea where they might be. We'll need to do quite a bit of research on this to come up with a solid plan of attack. I have a couple ideas where to start looking; I have high hopes that soon, we'll be asking you to head out and recover them.\n\nThe High Explorer needs to be informed on this, adventurer; no doubt, he also wants to thank you personally for once again aiding the League.",
+  "files": [
+   "quests/2964-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "b100a045ac83",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grand Mason Marblesten",
+  "quest": "A King's Tribute",
+  "en": "I'll get to work right away, adventurer!",
+  "files": [
+   "followup/3501-dwarf-male-guard"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "c16eddf10a3a",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grand Mason Marblesten",
+  "quest": "A King's Tribute",
+  "en": "There you have it! The King should be quite pleased, if I do say so myself.",
+  "files": [
+   "followup/3502-dwarf-male-guard"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "f6268fdd65aa",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grand Mason Marblesten",
+  "quest": "A King's Tribute",
+  "en": "The King's guards should be along shortly to pick up the Memorial. In the meantime, come join me upstairs and let's finish our little chat, adventurer.",
+  "files": [
+   "followup/3503-dwarf-male-guard"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "2efc998ea26d",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grand Mason Marblesten",
+  "quest": "A King's Tribute",
+  "en": "So King Magni Bronzebeard himself sent ye?\n\nMy, my! This must be important!",
+  "files": [
+   "quests/686-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "f2af0b77272c",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grand Mason Marblesten",
+  "quest": "A King's Tribute",
+  "en": "So our good King would like a memorial built in honor of a soldier named Sully Balloo? And you say the poor chap died during the Thandol Span tragedy?\n\nBah, will there ever be peace on Azeroth?\n\nNonetheless, any commission from the King is of utmost importance. To build a truly epic and lasting piece I want to work with one of the finest stones available. Travel to Darrow Hill in Hillsbrad and gather for me some Alterac Granite.",
+  "files": [
+   "quests/689-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "e1114d76c56e",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grand Mason Marblesten",
+  "quest": "A King's Tribute",
+  "en": "Perfect! Better than I could have imagined!\n\nAnd I have quite an imagination you know...",
+  "files": [
+   "quests/689-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "12a9a63a73d9",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grand Mason Marblesten",
+  "quest": "A King's Tribute",
+  "en": "Ah, such fine stone comes from Lordaeron. Such a shame the land is in such shambles.\n\nBut the Memorial came out quite well! I should think the King will be most pleased with it.\n\nNow if you will, please send word to His Majesty that the Memorial is complete as requested.",
+  "files": [
+   "quests/700-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "0d8cda683a3d",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "King Magni Bronzebeard",
+  "quest": "A King's Tribute",
+  "en": "I do not expect good dwarves like Mrs. Balloo to understand why the travesties of war must be endured for the greater good of our people. The loss of her husband, and the loss of every dwarf that fights in the name of the Alliance, weighs heavy on my soul.\n\nWhile I cannot bring her husband back from the Twisting Nether, I can pay tribute to him.\n\nI am going to commission a memorial to Sully Balloo to be built by Grand Mason Mablesten.\n\nSend word to him now, adventurer. You shall be custodian of my bidding.",
+  "files": [
+   "quests/686-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "51f185dd661e",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "King Magni Bronzebeard",
+  "quest": "A King's Tribute",
+  "en": "The granite seems but a small token compared to a great dwarf's life. But no dwarf shall last on this planet for eternity.\n\nLet us just hope that the memorial stands as a reminder to those who will trod the great Azeroth of the future. Lest we not forget it is for them that brave soldiers such as Sully Balloo so valiantly gave their lives.",
+  "files": [
+   "quests/700-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "36d696892db6",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Laris Geardawdle",
+  "quest": "A Little Slime Goes a Long Way",
+  "en": "Incredible! Amazing! I don't even know what this means!",
+  "files": [
+   "followup/5447-gnome-male-standard"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "700efa6bd606",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Laris Geardawdle",
+  "quest": "A Little Slime Goes a Long Way",
+  "en": "There must be someplace on Azeroth that we can find oozes uncorrupted by the Scourge or anything else. But where?!",
+  "files": [
+   "followup/5449-gnome-male-standard"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "01605c64970d",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Laris Geardawdle",
+  "quest": "A Little Slime Goes a Long Way",
+  "en": "But the thing I've studied most is ooze. I know it sounds odd, but they're all over!\n\nI helped a lady in Menethil find her bag not too long ago--it was eaten by oozes. I've seen members of the Royal Apothecary Society from Undercity collecting samples of the stuff. I want to know why! Where does it come from?\n\nI've heard of more in Felwood. What I need are samples of the oozes there so I can further my research. I'll give you containers, you use them to collect a sample from the deceased creatures.",
+  "files": [
+   "quests/4512-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "d52be41a53d1",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Laris Geardawdle",
+  "quest": "A Little Slime Goes a Long Way",
+  "en": "Amazing results, Adventurer! You got close enough to take a sample of the corrupted things, and managed to look no worse for wear! Thank you. Oh, these samples will be perfect. I can't wait to start testing on them.\n\nIf I'm right, I could be one of the Explorers' Leagues greatest scientists!\n\nThat'll prove to all the dwarves that it wasn't a mistake to allow us gnomes into Ironforge after the Gnomeregan incident.",
+  "files": [
+   "quests/4512-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "7ca7f575fccb",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Laris Geardawdle",
+  "quest": "A Little Slime Goes a Long Way",
+  "en": "I'm going to need more samples, Adventurer. But--and I don't know how to put this--they have to be pure samples. I know, I know. \"What does 'pure' mean, Laris?\" I'm not sure. I do know that these are corrupt... just like Felwood. Which is what makes my realization so important. The oozes seem to adapt... to take on the aspects of the area they're in. I'll need to find samples that haven't been polluted. But where? Where?!\n\nBah! Adventurer, take these containers just in case you find any on your own.",
+  "files": [
+   "quests/4513-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "c3d92d72ae9c",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Laris Geardawdle",
+  "quest": "A Little Slime Goes a Long Way",
+  "en": "You've found it? Adventurer, you are a treasure unto yourself. Your dedication and aid has been magnificent and I could not possibly thank you enough.\n\nPlease, take this for your troubles. I have some work to do, but I'm sure, if you come back at a later time, I'll have need of your services again.\n\nThank you. Thank you so much.",
+  "files": [
+   "quests/4513-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "a8d5dff30586",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bubulo Acerbus",
+  "quest": "Additional Runecloth",
+  "en": "Adventurer - without heroes like you working on behalf of the tribe, we'd surely suffer. Thank you for your continued efforts!",
+  "files": [
+   "quests/7812-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "e20e5360f0c5",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Mistina Steelshield",
+  "quest": "Additional Runecloth",
+  "en": "Adventurer - without heroes like you working on behalf of the tribe, we'd surely suffer. Thank you for your continued efforts!",
+  "files": [
+   "quests/7806-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "29e5dcc2842e",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Deliana",
+  "quest": "An Earnest Proposition",
+  "en": "You're never going to stop coming after me, are you? Fine, but you won't take me down without a fight!",
+  "files": [
+   "followup/11881-human-female-standard"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "73bc77d1b5c2",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Deliana",
+  "quest": "An Earnest Proposition",
+  "en": "Well met, adventurer. I've something that might interest you.\n\nI have in my possession a set of armor much like the one worn by those of your profession, but of much higher quality. I'd be willing to trade the bracers for ordinary ones in exchange for a small favor.\n\nThe blood of the frostsabers and bears that inhabit Winterspring has properties I'm in need of at the moment. Bring me a sizeable sample of it along with the bracers and a small amount of gold. You shall find the effort worth your while.",
+  "files": [
+   "quests/8905-accept",
+   "quests/8906-accept",
+   "quests/8907-accept",
+   "quests/8908-accept",
+   "quests/8909-accept",
+   "quests/8910-accept",
+   "quests/8911-accept",
+   "quests/8912-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "7b7ccb1451ce",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Deliana",
+  "quest": "An Earnest Proposition",
+  "en": "Excellent! Let's perform the trade then. It's hard to part with this excellent armor, but I'm afraid I won't be needing it any time soon.\n\nIf you're interested in performing more work for me, I might be willing to give up the rest of the pieces.",
+  "files": [
+   "quests/8905-complete",
+   "quests/8906-complete",
+   "quests/8907-complete",
+   "quests/8908-complete",
+   "quests/8909-complete",
+   "quests/8910-complete",
+   "quests/8911-complete",
+   "quests/8912-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "42d36d5f9d36",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mage Tymor",
+  "quest": "An Easy Pickup",
+  "en": "I want the rubbings delivered to my tower, but there's no need to have you go all the way there. I'll just have them air-lifted out of Azshara.\n\nXiggs Fuselighter owes me a favor or two and will be in the area soon--he's signed on to patrol the coast. Speak to him before you leave. He can give you a flare gun to signal him with. When you have the rubbings, just head to wherever he tells you and then give them to him so he can get them to my tower safely. He should be in the hangar in the Military Ward.",
+  "files": [
+   "quests/3450-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "7dfd42cc05a9",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Xiggs Fuselighter",
+  "quest": "An Easy Pickup",
+  "en": "What can I do for you, Adventurer? Kinda busy at the moment preparing my ship for a long trip. I just came over to see some of the tank pilots--I need some wendigo manes to line my cockpit and they usually have extra.\n\nI can give you a minute if you're brief... one of the boys just took off to Steelgrill's Depot to see if the pilots down there have extra manes for me.",
+  "files": [
+   "quests/3450-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "50624913534f",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Anthion Harmon",
+  "quest": "Anthion's Parting Words",
+  "en": "Valthalak's soul was stored in this amulet. In our greed we foolishly split it into three parts, not knowing the curse that would await us.\n\nThe only way to stop Valthalak's spell is to put the medallion back together. Return to Deliana and tell her that Bodley is her only hope for finding the remaining pieces. Speak to her about any rewards you've arranged for.\n\nI, for once, shall rest in peace. I wish you the best of luck; you shall need every bit of it!",
+  "files": [
+   "quests/8951-accept",
+   "quests/8952-accept",
+   "quests/8953-accept",
+   "quests/8954-accept",
+   "quests/8955-accept",
+   "quests/8956-accept",
+   "quests/8958-accept",
+   "quests/8959-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "4d6d3528d567",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Deliana",
+  "quest": "Anthion's Parting Words",
+  "en": "I can't believe our lives are all but forfeit all because of a stupid medallion! And you're sure Anthion mentioned Bodley?\n\nWell, you've done your job so let's get your reward out of the way.",
+  "files": [
+   "quests/8951-complete",
+   "quests/8952-complete",
+   "quests/8953-complete",
+   "quests/8954-complete",
+   "quests/8955-complete",
+   "quests/8956-complete",
+   "quests/8958-complete",
+   "quests/8959-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "210fa4c8f3b3",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mage Tymor",
+  "quest": "Arcane Runes",
+  "en": "Magic was once as revered as Elune herself to some elves. Some of their most powerful mages created runes and tablets citing rules of the arcane and insights into their findings. They would leave these for all to ponder in public places.\n\nI would very much like rubbings of these runes from the Ruins of Eldarath. I have a kit for you to make the rubbings with, but it will be up to you to find them. Be careful though, the Explorer's League isn't the only one interested in Eldarath.",
+  "files": [
+   "quests/3449-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "f59be7e82048",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Pilot Xiggs Fuselighter",
+  "quest": "Arcane Runes",
+  "en": "Good to see you safe and sound, Adventurer. I hope things weren't too tough for you.\n\nI'll get these to Tymor right away. He'll be thrilled to take a look at these things.\n\nGo ahead and toss the flare gun... probably won't be any good to you anymore anyway, and I already got a new one.",
+  "files": [
+   "quests/3449-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "abe6ee6c26c0",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Artilleryman Sheldonore",
+  "quest": "Arrows Are For Sissies",
+  "en": "A done deal if I ever saw one! The arrows are yours.",
+  "files": [
+   "quests/7342-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "4ad39e053e18",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Firebrew",
+  "quest": "Assisting Arch Druid Staghelm",
+  "en": "Excuse me adventurer, but I'd like just a moment of your time if possible.\n\nThe Cenarion Circle in Darnassus is looking for seasoned adventurers such as yourself to lend them aid in a vital research project. While I do not know the specifics, I can inform you that none other than Arch Druid Fandral Staghelm is spearheading this research.\n\nPlease - if you are interested, speak with him directly in the Cenarion Enclave within Darnassus proper.",
+  "files": [
+   "quests/3790-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "228fa4950ec4",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Curator Thorius",
+  "quest": "At Last!",
+  "en": "I can't believe Pebblebitty doubted the authenticity of the horn. Between you and me, I think she's just jealous. I know she really wanted to kill that beast herself, what with the 'incident' and all.\n\nSo you need a proof of deed? After the contribution you just made to the museum, it won't be a problem.\n\n\nThere we go! You can take that back to Pebblebitty.",
+  "files": [
+   "quests/3201-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "85f8e95d6e45",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Mountaineer Pebblebitty",
+  "quest": "At Last!",
+  "en": "I don't know how someone as weak as you overcame Margol, but a deal is a deal. Here is the key.\n\nIf anything happens to you after this, it will be your own fault.",
+  "files": [
+   "quests/3201-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "1cb6ee943a79",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "Back to the Beginning",
+  "en": "I suppose that this is goodbye then, my friend. But, I'll always be here if you want to come back and talk with me from time to time. Probably while you're loitering around waiting for your buddies to join you for a raid on Blackrock Spire.\n\nGo, before I start to cry. Go back to Deliana in Ironforge and tell her what's happened.",
+  "files": [
+   "quests/8997-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "6957a8da0b85",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Deliana",
+  "quest": "Back to the Beginning",
+  "en": "I am very happy to see you return to me safely, Adventurer. You look well, if not a bit worse for the wear.\n\nCome, tell me of all that has transpired.",
+  "files": [
+   "quests/8997-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "4dbb810d5c58",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "Bodley's Unfortunate Fate",
+  "en": "I am so glad that you can see me. Finally someone to talk to!\n\nWill you help us, Adventurer? Help to undo the wrong that we perpetrated and put things to right? If it's true that you already have the Top Piece of Lord Valthalak's Amulet, then I think I can point you in the right direction to acquire the other two parts, reunite them and put an end to all of this.\n\nOh, by the way, hello, my name is Bodley. Nice to meet you!",
+  "files": [
+   "quests/8960-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "3075d77e2b87",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Deliana",
+  "quest": "Bodley's Unfortunate Fate",
+  "en": "So we need to recover the rest of the medallion? Finding Bodley's going to be a bit of a headache. He went back to Blackrock Mountain to attempt to re-enter Blackrock Spire and never came back.\n\nI'd suggest taking the goblin's ghost revealing device with you, as I fear the worst might have happened.",
+  "files": [
+   "quests/8960-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "48f8e56e1172",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alliance Brigadier General",
+  "quest": "Concerted Efforts",
+  "en": "You live up to yer reputation, Adventurer. Without people like you, the Alliance wouldn't stand a chance against the savage forces of the Horde.",
+  "files": [
+   "quests/8385-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "f58d73b7ab01",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Monty",
+  "quest": "Deeprun Rat Roundup",
+  "en": "Into the box me pretties! Thas it. One by one ye go.",
+  "files": [
+   "followup/8465-gnome-male-zany"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "2cc49af5df3f",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Monty",
+  "quest": "Deeprun Rat Roundup",
+  "en": "Avast ye scallywag. Arrrr... Arrrr ye looking fer work? We gots a serious rat problem down here an' not enough hands on the poop deck.\n\nWhat do ye say? All ye needs to do is take this here rat catchin' flute and play the melody around the vermin. They'll follow ye to the ends of the world!\n\nJust capture five of the little buggers and bring em back here. We needs em alive.\n\nArrrrr...",
+  "files": [
+   "quests/6661-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "b1b969922a20",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Monty",
+  "quest": "Deeprun Rat Roundup",
+  "en": "These'll werk nicely, matey. Me brother needs em still tickin' and kickin,' else they go sour... Ye don't want to taste no sour rat kabob.",
+  "files": [
+   "quests/6661-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "7dbe7b8d25c9",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Squirrel Token",
+  "quest": "Deeprun Rat Roundup",
+  "en": "Avast ye scallywag. Arrrr... Arrrr ye looking fer work? We gots a serious rat problem down here an' not enough hands on the poop deck.\n\nWhat do ye say? All ye needs to do is take this here rat catchin' flute and play the melody around the vermin. They'll follow ye to the ends of the world!\n\nJust capture five of the little buggers and bring em back here. We needs em alive.\n\nArrrrr...",
+  "files": [
+   "quests/6661-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "1fcc458cee74",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Curator Thorius",
+  "quest": "Dwarven Justice",
+  "en": "There is an empty, vacuous hole, where my heart used to be, Adventurer. The loss of Dorius is not one that I will soon recover from. I must see his final wish through - the perpetrators of this cold blooded murder must be brought to justice.\n\nReturn to the Searing Gorge and fulfill his last request: Free his men.",
+  "files": [
+   "quests/3371-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "f3bf5981fdd3",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Dying Archaeologist",
+  "quest": "Dwarven Justice",
+  "en": "Forget about me, help the others.",
+  "files": [
+   "quests/3371-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "50a1dfc249c6",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bingles Blastenheimer",
+  "quest": "Find Bingles",
+  "en": "So Gnoarn doesn't trust my reconnaissance abilities? I wonder why...\n\nNevermind that, I need your assistance! Nay! The movement needs your assistance!",
+  "files": [
+   "quests/2039-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "e12ed5c3a6c0",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gnoarn",
+  "quest": "Find Bingles",
+  "en": "We've lost contact with Bingles! He was sent on a reconnaissance mission over Gnomeregan and hasn't reported back in over a week. I just know he's gone and blown himself up.\n\nHe was last seen flying over the Loch. Perhaps you can investigate, Adventurer.",
+  "files": [
+   "quests/2039-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "64ba4b04c382",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Talvash del Kissel",
+  "quest": "Gnome Improvement",
+  "en": "Listen adventurer, that ring is yours, sure... but I can make you a better one! That design, like I said, is really simple. I am a lot more skilled now, and for the mere fee of thirty silver coins I'll spruce it up for you! Well, a little more than thirty, actually...\n\nI'm in a tight spot right now; all my material stock is all dried up. If you bring me a bar of silver and a moss agate, I'll add a silver and agate lattice to the ring that will give it a little more pizzazz!\n\nTrust me!",
+  "files": [
+   "quests/2948-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "2a27d93a51ba",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Talvash del Kissel",
+  "quest": "Gnome Improvement",
+  "en": "Ah, exactly what I needed! Someday, when I find myself out of this hole that I am unjustly in, I will make for you, for EVERYONE the finest trinkets in all of Azeroth! Until then, thanks for being a sport about the reagents. I'd normally charge ten times what I have charged you for a ring of this quality...\n\nSpeaking of rings, here's your new one!",
+  "files": [
+   "quests/2948-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "ae48582e2df8",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Thom Filch",
+  "quest": "Important Heirlooms",
+  "en": "You there, adventurer... I could really use your aid.\n\nI was sneaking--uh... 'patrolling' in the vaults when a force of Dark Iron dwarves emerged from the depths in mole machines! I don't know what they are here for, but there is priceless loot--uh or, rather... I mean, 'important cultural heirlooms' down there! Please, recover any such relics you see and return them here.\n\nI assure you that anything you recover will be catalogued and returned to its proper place of honor.",
+  "files": [
+   "quests/96403-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "2d651cb068ab",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Thom Filch",
+  "quest": "Important Heirlooms",
+  "en": "Look at you, as brave as you are enterprising! I'm a gnome of my word, and your reward is well earned!\n\nNow, let me take a look at the haul--uh, I mean... the recovered heirlooms. I need to get started appraising--excuse me, 'cataloging' them so that they can be put back in their proper places as quickly as possible.",
+  "files": [
+   "quests/96403-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "a52001e86ade",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Ironband",
+  "quest": "Ironband Wants You!",
+  "en": "So Stormpike sent you, did he? Good.\n\nI have a big task for you...",
+  "files": [
+   "quests/707-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "ae8a2e039db3",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Stormpike",
+  "quest": "Ironband Wants You!",
+  "en": "Adventurer. I received reports from Prospector Ironband at his excavation site in Loch Modan--he needs some legwork done concerning another of our excavations.\n\nI don't have more details than that, but if you want to stretch your legs then go speak with Ironband.",
+  "files": [
+   "quests/707-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "e1c14b3bb06a",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Deliana",
+  "quest": "Just Compensation",
+  "en": "You kept your word and brought the device built by Mux. I believe a reward is in order if I'm to keep you interested in saving my skin. Bring me the belt and set of gloves that you wish to upgrade. I promise the ones I give you in return will be far superior.",
+  "files": [
+   "quests/8926-accept",
+   "quests/8934-accept",
+   "quests/8935-accept",
+   "quests/8936-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "bc6815da5552",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Deliana",
+  "quest": "Just Compensation",
+  "en": "You've kept your end of the bargain, I shall keep mine.\n\nJust remember that I'm holding on to the best pieces until your work is finished.",
+  "files": [
+   "quests/8926-complete",
+   "quests/8931-complete",
+   "quests/8932-complete",
+   "quests/8933-complete",
+   "quests/8934-complete",
+   "quests/8935-complete",
+   "quests/8936-complete",
+   "quests/8937-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "d6fb806e7f33",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Deliana",
+  "quest": "Just Compensation",
+  "en": "You kept your word and brought the device built by Mux. I believe a reward is in order if I'm to keep you interested in saving my skin. Bring me an ordinary belt and a set of gloves that you wish to upgrade.",
+  "files": [
+   "quests/8931-accept",
+   "quests/8932-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "ecf645e13da9",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Deliana",
+  "quest": "Just Compensation",
+  "en": "You kept your word and brought the device built by Mux. I believe a reward is in order if I'm to keep you interested in saving my skin. Bring me the belt and set of gauntlets that you wish to upgrade. I promise the ones I give you in return will be far superior.",
+  "files": [
+   "quests/8933-accept",
+   "quests/8937-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "050529b478ca",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Monty",
+  "quest": "Me Brother, Nipsy",
+  "en": "Me brother, Nipsy, runs a rat kabob operation on the other side of Deeprun. Ye needs to take this here crate o' rats to him before they go bad. Get a move on!\n\nYe have ridden a tram before, aye? It's easy. Just step aboard when she arrives and enjoy the ride. An' keep yer arms and legs inside durin' the ride, lest ye be peglegged fer life.",
+  "files": [
+   "quests/6662-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "c8a0beb495c2",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Nipsy",
+  "quest": "Me Brother, Nipsy",
+  "en": "Poor Monty. Ever since the Gnomeregan incident, he hasn't been the same. That boy has never seen an ocean in his life, let alone being some kind of pirate.\n\n\nAt least he keeps the flow of twitching critters coming.",
+  "files": [
+   "quests/6662-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "752297c9f6b9",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Squirrel Token",
+  "quest": "Me Brother, Nipsy",
+  "en": "Me brother, Nipsy, runs a rat kabob operation on the other side of Deeprun. Ye needs to take this here crate o' rats to him before they go bad. Get a move on!\n\nYe have ridden a tram before, aye? It's easy. Just step aboard when she arrives and enjoy the ride. An' keep yer arms and legs inside durin' the ride, lest ye be peglegged fer life.",
+  "files": [
+   "quests/6662-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "05f751a88edf",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Earthseer Farsen",
+  "quest": "Old Ironforge Incursion",
+  "en": "Gather some allies and head down into the caverns beneath Old Ironforge. Enter the Hall of Thanes there and push to the lower vaults.\n\nMy Dark Iron is a bit rusty, but I can make out a name--one Durgen Dirgehammer. It's likely that he's the commander. Take his head and deliver it to King Magni Bronzebeard.\n\nOh, and when you do, tell him his old friend Farsen sends his regards!",
+  "files": [
+   "quests/96393-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "5de10af47252",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "King Magni Bronzebeard",
+  "quest": "Old Ironforge Incursion",
+  "en": "A Dark Iron incursion--right beneath our feet? Well, I'm relieved to hear that the Dark Iron commander has been dispatched.\n\nThe guards will head in and clean up the rest of the rabble. We'll see to it that the breaches are sealed and the lower levels reinforced to ensure that no further incursions are possible.\n\nThank ye for yer service to Ironforge,adventurer. Take this as a small token of my gratitude. Oh, and if ye see that old Wildhammer rockhugger Farsen again, tell 'em to pay me a proper visit.",
+  "files": [
+   "quests/96393-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "ad812c38646f",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Historian Karnik",
+  "quest": "Passing the Burden",
+  "en": "I've recently been handed the responsibility of investigating Azshara--a once beautiful area the elves called home. This would be back when they practiced magic. It's now a more dangerous place than it is beautiful, but that doesn't stop us from turning over every stone for answers to our past.\n\nA companion of mine named Tymor offered to help me investigate the area since he takes a particular interest in such things.\n\nHe owns a small place to the right of the Hall of Mysteries here in the city.",
+  "files": [
+   "quests/3448-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "5b3dde2854ac",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mage Tymor",
+  "quest": "Passing the Burden",
+  "en": "Oh, adventurer, wait a minute! There's one more thing! Come back!",
+  "files": [
+   "followup/4451-dwarf-male-standard"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "bb4f63991ea3",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mage Tymor",
+  "quest": "Passing the Burden",
+  "en": "Ah, Karnik sent you, did he? I expected to hear from him soon. I've discovered such wonderful things about Azshara.. I know night elves have incredible life spans, but everyone forgets some of the more... unfortunate events in their lives sometimes. That's not meant as a criticism, just an observation.\n\nLong ago, there were cities created by the elves filled with knowledge about magic and other lost arts. Being a student of such things, I started my investigation. What I found was quite thrilling.",
+  "files": [
+   "quests/3448-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "479aae08bd99",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "High Explorer Magellas",
+  "quest": "Portents of Uldum",
+  "en": "Greetings once again, adventurer! Your discovery inside Uldaman has set the Explorers' League abuzz with excitement. The League has been working to unlock the secrets of the miniature platinum discs you found. Your fortuitous arrival here in the Hall allows me to share with you that we are quite possibly on to something!\n\nHistorian Karnik has uncovered some important clues as to the true origins of the Valley of the Watchers in the Tanaris desert. He would like to speak with you as soon as possible!",
+  "files": [
+   "quests/2963-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "18a8ad83021c",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Historian Karnik",
+  "quest": "Portents of Uldum",
+  "en": "I am glad you're maintaining your interest in exploration, adventurer! With your natural talent and moxie, we could crack open secrets that we never thought were possible!\n\nThe Discs of Norgannon in Uldaman were a repository of vast information; you were only permitted to access the top layers, as it were, of the information stored there. The Creators were rumored to have more repositories located throughout Azeroth. This now brings us to Uldum...",
+  "files": [
+   "quests/2963-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "ceb2fc774be6",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kreldig Ungor",
+  "quest": "Reclaimers' Business in Desolace",
+  "en": "Glad to see the Reclaimers aren't in short supply of work, or adventurers willing to help out.\n\nI'm Kreldig, Adventurer. You've made a smart move helpin' out the Reclaimers. Everyone needs something these days: they've lost a family heirloom, a magic item, a loved one. You never can tell. But with the Reclaimers around, there's no reason, for the right price, everyone can't find what they've lost.",
+  "files": [
+   "quests/1453-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "60bb7b731b5e",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Roetten Stonehammer",
+  "quest": "Reclaimers' Business in Desolace",
+  "en": "There's work to be done in Desolace, Adventurer. It's an atrocious place, befouled by centaur and other nasties. But if you're looking for a good week's honest work, then head there, meet with Kreldig Ungor, and tell him I sentcha.\n\nYou can find him holed up at Nijel's Point--it's a little cozy camp hidden in the mountains of northern Desolace. Just head east if you enter from the Stonetalon Mountains. It's easy to miss, so be on the lookout.",
+  "files": [
+   "quests/1453-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "75b0d8e24496",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Deliana",
+  "quest": "Return to Deliana",
+  "en": "Excellent! You've done well, Adventurer. I'm not sure I trust the goblin's craftsmanship, but I'm left with no other choice.",
+  "files": [
+   "quests/8977-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "5c0dfe36f797",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mux Manascrambler",
+  "quest": "Return to Deliana",
+  "en": "It's been great working with you, Adventurer. Here is the finished product.\n\nI hope it helps you in your current endeavors. And hey, if you don't mind, help spread the word. I wouldn't mind having more customers!",
+  "files": [
+   "quests/8977-accept",
+   "quests/8978-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "c93431b7f043",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Historian Karnik",
+  "quest": "Return to Ironforge",
+  "en": "You were missing some discs? Interestingly enough, it seems that the discs of Norgannon are only parts of the complete set - like keys on a key ring, if you will.\n\nIf we can find the Plates of Uldum, then we could actually access the Uldum complex itself! Imagine actually exploring the place where the Creators worked without having to bring a huge shovel!\n\nNot that there's anything wrong with shovels... or digging...",
+  "files": [
+   "quests/2977-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "c37332204958",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Uldum Pedestal",
+  "quest": "Return to Ironforge",
+  "en": "You access the pedestal again; the platinum discs suddenly appear once more in your backpack.\n\nWith the knowledge of the stone watcher learned and the discs returned to your possession, the time has come to return to Ironforge and inform the Explorers' League of your discovery.",
+  "files": [
+   "quests/2977-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "02e9da9869c5",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mage Tymor",
+  "quest": "Return to Tymor",
+  "en": "Wonderful! I'm so glad to hear it.\n\nI'm really excited to get to my tower and go over those rubbings. I'm so envious of you... going to a place like Azshara. That's any student of the arcane's dream, I would guess.\n\nWell, we never spoke about any kind of reward since you were just working for the Explorer's League, but you deserve something.",
+  "files": [
+   "quests/3461-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "2d86b311f654",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Pilot Xiggs Fuselighter",
+  "quest": "Return to Tymor",
+  "en": "Tymor didn't give me anything to pay you with, so I suggest you take it up with him when you get back to Ironforge. I'm sure he'll still be in his place in the Mystic Ward. Just go knockin' and make sure he pays you good. This place ain't no picnic... that's for sure.\n\nThanks again for helping him out though, and good luck.\n\nOh, and I don't need the drawing kit. Why don't you just bring it back to Tymor when you go to see him?",
+  "files": [
+   "quests/3461-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "09186e92d4ee",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "King Magni Bronzebeard",
+  "quest": "Sara Balloo's Plea",
+  "en": "It will take but a moment for me to peruse this letter...",
+  "files": [
+   "quests/683-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "2e6699983dbb",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Sara Balloo",
+  "quest": "Sara Balloo's Plea",
+  "en": "adventurer, I have but a small request to ask of you.\n\nTake this note I have prepared to our great monarch of Ironforge, King Magni Bronzebeard. 'Tis a small task to ask of one such as yourself, someone who has shown great valor to the cause of the Alliance thus far.\n\nFor me to go before the King in my grief-ridden state would not serve the purpose of my cause. Surely you understand.",
+  "files": [
+   "quests/683-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "06ac197e21dd",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Deliana",
+  "quest": "Saving the Best for Last",
+  "en": "That's an amazing story, Adventurer! You have my thanks, and the heartfelt gratitude of all who were involved. Now maybe I'll be able to sleep at night with both eyes shut.\n\nAs to your reward, I believe I have a few things that you'll really enjoy.",
+  "files": [
+   "quests/8999-accept",
+   "quests/9000-accept",
+   "quests/9001-accept",
+   "quests/9002-accept",
+   "quests/9003-accept",
+   "quests/9004-accept",
+   "quests/9005-accept",
+   "quests/9006-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "5e52d2950bf2",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Deliana",
+  "quest": "Saving the Best for Last",
+  "en": "I'm going to miss you, Adventurer. I owe you such a debt of gratitude; I think I'll never be able to repay it.\n\nI hope that you enjoy your new head and chest armor, and that it protects you for a long time to come.",
+  "files": [
+   "quests/8999-complete",
+   "quests/9000-complete",
+   "quests/9001-complete",
+   "quests/9002-complete",
+   "quests/9003-complete",
+   "quests/9004-complete",
+   "quests/9005-complete",
+   "quests/9006-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "a7f3bd0c3f97",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Historian Karnik",
+  "quest": "Seeing What Happens",
+  "en": "We want you to take the miniature discs you found to the sealed gates of Uldum. We... we aren't sure what will happen when you do this.\n\nThis sounds risky, sure, we acknowledge that. It might, however, do nothing. You might need to use the discs on something. Perhaps the doors unlock when you have the discs in your possession. Be open to try anything, and be ready for anything to happen.\n\nWhen you've found out what happens, return to Ironforge. We'll have a lot to analyze when you're done!",
+  "files": [
+   "quests/2946-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "5de0ad2a9031",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Uldum Pedestal",
+  "quest": "Seeing What Happens",
+  "en": "As you touch the pedestal, the miniature discs from Uldaman hum and glow in your backpack. A familiar feeling tingle washes over your hands, as the image of another Stone Watcher springs to life in front of the gates of Uldum.\n\n\"Salutations. I am a guardian of entry. The discs that have been used for access are missing the correct entry discs, the Plates of Uldum. Please incorporate these plates with the disc structure and repeat your access sequencing. Thank you.\"",
+  "files": [
+   "quests/2946-complete",
+   "quests/2966-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "1ce1aeedfd65",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Xiggs Fuselighter",
+  "quest": "Signal for Pickup",
+  "en": "Ah, so Tymor sent you, huh? Yeah, I owe him a favor or two. What's that? Why, that little devil. Yeah, I can help him out with that. So you'll need a flare gun and a location... easy enough.\n\nThere's a small island off the southern peninsula of Azshara that we've made a landing pad on. You take this flare gun, and use it there. I'll see your signal and come by to pick up this... whatever it is he wants.",
+  "files": [
+   "quests/3451-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "4567edee6507",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Xiggs Fuselighter",
+  "quest": "Signal for Pickup",
+  "en": "Here's my standard issue flare gun, and be patient after you fire off the gun--there are only a couple charges in one of these, and it might take me a minute to get to you depending on how far out to sea I am. Just look out to sea after you fire off the flare.",
+  "files": [
+   "quests/3451-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "6ccc64c58f87",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Xiggs Fuselighter",
+  "quest": "Signal for Pickup",
+  "en": "Ah, another flare gun, huh? That I can do.\n\nAnd don't forget, southern tip of Azshara. It's a small little island that's been turned into a landing pad. You can't miss it if you're in the right spot.",
+  "files": [
+   "quests/3483-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "03e0e2a5b85e",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gnoarn",
+  "quest": "Speak with Shoni",
+  "en": "Perhaps... Perhaps you can help us in the battle for Gnomeregan.\n\nIn Stormwind you will find the commander of our underground assault crew, Shoni the Shilent. Shoni needs assistance with her gyrodrillmatic excavationators.\n\nYou will probably find her amongst the dwarves in Stormwind.\n\nGood luck, Adventurer.",
+  "files": [
+   "quests/2041-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "8a003860b493",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Shoni the Shilent",
+  "quest": "Speak with Shoni",
+  "en": "Do you bring word from central command?",
+  "files": [
+   "quests/2041-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "62891b988b51",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Sara Balloo",
+  "quest": "Sully Balloo's Letter",
+  "en": "This isn't fair! My dearest Sully! Come back to me! No, adventurer! Why did you bring me such news!",
+  "files": [
+   "followup/793-dwarf-female-guard"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "fc865f49877e",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Sara Balloo",
+  "quest": "Sully Balloo's Letter",
+  "en": "You say you saw my Sully pinned beneath the icy waters? Say it isn't so!\n\nLet me read what he wrote....",
+  "files": [
+   "quests/637-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "83ea42731124",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Waterlogged Envelope",
+  "quest": "Sully Balloo's Letter",
+  "en": "The waterlogged and war-torn envelope dissolves in your hands, leaving you with a few pages of a letter in your grasp, written with painstaking care.\n\nThe letter is addressed to a Mrs. Sara Balloo of Ironforge and begins, \"My dear Sara....\"",
+  "files": [
+   "quests/637-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "d550311cdf2b",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Cenarion Emissary Jademoon",
+  "quest": "Taking Back Silithus",
+  "en": "Attention, heroes of the Alliance! The silithid menace has been left unchecked for too long. Unfettered by any real opposition, they've been preparing all this time for a large-scale expansion. \n\nCenarion Circle forces are gathering in Silithus to take the fight to these wretched creatures and all able-bodied adventurers are hereby called to join us!\n\nDon't wait until it's too late! Aid us in the defense of Azeroth! Report to Windcaller Proudhorn at Cenarion Hold for specific instructions!",
+  "files": [
+   "quests/8275-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "b811941d3277",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Windcaller Proudhorn",
+  "quest": "Taking Back Silithus",
+  "en": "Excellent, a new recruit answering the call to arms against the silithid. Welcome to Cenarion Hold, Adventurer. I am pleased to see the words of our emissaries are reaching heroes of your caliber. You will find no shortage of opportunities to help us in our efforts here and I expect you'll quickly prove to be a valuable ally to our cause.",
+  "files": [
+   "quests/8275-complete",
+   "quests/8276-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "37149cd27422",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dazalar",
+  "quest": "The Hunter's Path",
+  "en": "Yes, it is time, Adventurer.",
+  "files": [
+   "quests/6721-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "b3c959222c12",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Courier Hammerfall",
+  "quest": "The New Frontier",
+  "en": "Attention, heroes!\n\nThe Cenarion Circle seeks able bodied individuals to assist them in exploring the vast new frontiers of Kalimdor! A forbidden wasteland of unimaginable dangers lies far to the west of Tanaris and Gadgetzan, and the Circle needs willing and honorable proxies to act in their stead.\n\nAll interested individuals should seek audience with the Cenarion Circle. Speak with the Arch Druid in Darnassus, Fandral Staghelm, for more information!",
+  "files": [
+   "quests/1019-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "653dbb01be0b",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Dinita Stonemantle",
+  "quest": "The Platinum Discs",
+  "en": "As yes, a voucher from the Explorers' League... and quite the valuable one, might I add.\n\nThe Explorers' League lends me the authority to offer you a choice in your compensation directly from their vault. You are to receive this item, and you may choose between five superior healing potions or five greater mana potions as your reward.",
+  "files": [
+   "quests/2439-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "d139bc1c384e",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "High Explorer Magellas",
+  "quest": "The Platinum Discs",
+  "en": "This object is an incredible find. The ancient Titans, or the Creators as these discs refer to them as, are the link to our enchanted creation, if the lore stored in here is correct! We'll need to invest as much research time into this as possible.\n\nAs for you, heroic adventurer, take this voucher to Dinita Stonemantle at the vault. It grants you what I think is a fitting for such a tremendous find!\n\nReturn to me directly when you are ready; there is much more to do for the Explorers' League!",
+  "files": [
+   "quests/2439-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "3013674095ca",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Afadra Dunwall",
+  "quest": "The Restless Dead",
+  "en": "Something has disturbed the tombs down in the Hall of Thanes, and strange noises have been heard coming from deep within the vaults. The spirits of the dead are light sleepers, and whatever is going on down there seems to have startled them.\n\nHead down there and see what you can do about that for us. If any of the dead are awake--well, put them back down!",
+  "files": [
+   "quests/96394-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "ada1d5a9c60a",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Afadra Dunwall",
+  "quest": "The Restless Dead",
+  "en": "Ah good, its done then. I can't have the other keepers refusing to enter the hall to do their duties on account of \"ghosts\" and \"angry dead\", can I?",
+  "files": [
+   "quests/96394-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "bca8ce891599",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Royal Historian Archesonus",
+  "quest": "The Smoldering Ruins of Thaurissan",
+  "en": "Venture to the smoldering ruins of Thaurissan in the Burning Steppes and gather as much information as possible.\n\nIt is said that mysterious relics litter the ruins. Perhaps you should start your search there, Adventurer. Beware the Thaurissan guardians: Assassins that guard the ruins, keeping whatever secrets may still be buried there protected.",
+  "files": [
+   "quests/3701-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "5d2d008540f2",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Royal Historian Archesonus",
+  "quest": "The Smoldering Ruins of Thaurissan",
+  "en": "Oh my! This information explains quite a lot about Thaurissan.\n\nThere is much more to learn!",
+  "files": [
+   "quests/3701-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "0af433a0cdb5",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Royal Historian Archesonus",
+  "quest": "The Smoldering Ruins of Thaurissan",
+  "en": "Would you like to hear a brief history of the Dark Iron dwarves?",
+  "files": [
+   "quests/3702-accept"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "884b384a1d6c",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Royal Historian Archesonus",
+  "quest": "The Smoldering Ruins of Thaurissan",
+  "en": "Shall we proceed?",
+  "files": [
+   "quests/3702-complete"
+  ],
+  "uiMap": 1455
+ },
+ {
+  "id": "51aa1d8158ad",
+  "zone": "ironforge",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Eldrun Stormbreaker",
+  "quest": "Your Package Has Arrived",
+  "en": "What! I've been going to the mailbox by the bank every day looking for this package! This city needs to figure out its layout. Not easy to navigate like Aerie Peak!\n\nLet's see what I've got... totem carving tools... spare axe... some kind of goblin device? I didn't order that! Ah, I'll just send it back.\n\nEr, uh... I mean... thank you for bringing all of this to me. Here's a little something for your trouble.",
+  "files": [
+   "quests/97263-complete"
+  ],
+  "uiMap": 1455
+ }
+]

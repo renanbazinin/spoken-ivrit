@@ -1,0 +1,1458 @@
+[
+ {
+  "id": "e725154e84f3",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Dithers",
+  "quest": null,
+  "en": "Based on the sample of the toxin you provided for us, we think you will need the following: an arcane quickener, six osseous agitators, and four pieces of runecloth. With the vitreous focuser in tow, acquire the agitators from skeletal undead here in the Plaguelands!\n\nOnce you have these items, you should be able to load the counter agent into that cauldron.",
+  "files": [
+   "gossip/4aeb94df07f39cf3ca98b1e6d3fecb8e"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "b28603d6c24a",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Dithers",
+  "quest": null,
+  "en": "A fierce wind is coming - I can tell by the ache in my exposed knee. I just hope we don't get caught up in it.",
+  "files": [
+   "gossip/59f242ffa4d6ec58e93b6c528f93c8b6"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "ad88c8b6dcb3",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Dithers",
+  "quest": null,
+  "en": "Well now adventurer, let's get to work on those cauldrons! If you're going to collect the components we need, then get a vitreous focuser from me. You'll need to have it on you to identify the necessary resources found on the Scourge that will turn those cauldrons.\n\nYou'll also need a dose of arcane quickener for the cauldrons. It's not cheap, nor is it stable. Once you have it, you'll only have thirty minutes to use it before it expires on you; be smart about buying it.",
+  "files": [
+   "gossip/81092dc339c3d0ea4e5820ba963ada18"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "dd890f580967",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Dithers",
+  "quest": null,
+  "en": "Based on the sample of the toxin you provided for us, we think you will need the following: an arcane quickener, four ectoplasmic resonators, and four pieces of runecloth. With the vitreous focuser in tow, acquire the resonators from wraith and ghostly undead here in the Plaguelands!\n\nOnce you have these items, you should be able to load the counter agent into that cauldron.",
+  "files": [
+   "gossip/8d39568ba38ddd9cb3af31818419ca9e"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "8514c167cad5",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Dithers",
+  "quest": null,
+  "en": "Based on the sample of the toxin you provided for us, we think you will need the following: an arcane quickener, five somatic intensifiers, and and four pieces of runecloth. With the vitreous focuser in tow, acquire the intensifiers from zombie or ghoul undead here in the Plaguelands!\n\nOnce you have these items, you should be able to load the counter agent into that cauldron.",
+  "files": [
+   "gossip/e1e7ab73ecacefd961be671612257673"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "403e76bf2949",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Johaan",
+  "quest": null,
+  "en": "The Dark Lady has put forth the challenge. It is up to us to meet it.",
+  "files": [
+   "gossip/c5b04fd79cba403ef8b68039eca6c350"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "57263c738846",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Argent Officer Garush",
+  "quest": null,
+  "en": "Well met, friend. I am Officer Garush, and I am a proud member of a world-wide organization known as the Argent Dawn. Our cause is to fight swiftly and mercilessly against any element of evil that surfaces in Azeroth. We are not a political body, nor do we ever wish to become one. Our cause is singular, and to that end we call both the Horde and Alliance as friends - friends in the cause of stamping out evil!\n\nFor the Dawn, my brother!",
+  "files": [
+   "gossip/m-571e467e9d1b4d0f258ad53d2287f355"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "ff01822db5fd",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Argent Quartermaster Hasana",
+  "quest": null,
+  "en": "The Argent Dawn salutes you, adventurer. I am Hasana - one of but a few authorized equipment and materiel quartermasters for the Dawn.\n\nAs you fight evil under our commission - all the while earning our respect and trust - you'll earn valor tokens from Officer Garush. Tokens serve two purposes: use them to gain increased standing within our ranks, or use them as tender in acquiring special items.\n\nAs you improve your standing with the Dawn, you'll discover that more items will be made available to you.",
+  "files": [
+   "gossip/8374ed6b128278940b30ec8fc660dbff"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "30858421c2e3",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bardu Sharpeye",
+  "quest": null,
+  "en": "Hello, adventurer. I've set up camp here at the Bulwark to make my preparations for my journey into the Plaguelands. I've heard rumor that a great human wizard took up residency in Hearthglen not terribly long ago. He was commissioned by the Scarlet Crusade to fashion their warriors and hunters new bows and guns. It's said that he completed a remarkable weapon before the Crusade killed him.\n\nI guess their mistrust of the arcane has grown.",
+  "files": [
+   "gossip/bfa0aecd4815be32da4962b7c6f07ffe"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "689ec2cecf45",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Carolai Anise",
+  "quest": null,
+  "en": "Nice to see a friendly face. I don't get much chitchat from Apothecary Johaan unless he wants something. He's been out of the grave too long. Someday I'll be like that, I hear. Creepy. Maybe by then I won't care.",
+  "files": [
+   "gossip/62828f581202bf71fe7f31d089e549df"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "1ad5b4fec49d",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Carolai Anise",
+  "quest": null,
+  "en": "I appreciate the company, but let's face it: you have more experience with potions than I do. Talk to Doctor Marsh instead if you want training. He's a Forsaken in the Apothecarium of the Undercity.",
+  "files": [
+   "gossip/6ef22daba019cddea954f20b7e491d93"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "0763020426b3",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Carolai Anise",
+  "quest": null,
+  "en": "Here to learn about potions? I've got plenty to teach you. I might be dead, but I haven't lost my brains. Yet.",
+  "files": [
+   "gossip/e00a650b93c5cb187a919fea9c0b6b04"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "823af3cbe2aa",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Coleman Farthing",
+  "quest": null,
+  "en": "I hope you're well, all things considered.\n\nSit for a spell, and hear my tale. It's a tragedy, of course, but one I hope will end in revenge!",
+  "files": [
+   "gossip/95177d9156152c39a369dae7212d6f81"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "e3ed88f54bbf",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Linnea",
+  "quest": null,
+  "en": "Greetings, Adventurer. Be wary as you travel east toward The Bulwark. Recent surveillance reports indicate increased Scourge activity in that area, so exercise caution.",
+  "files": [
+   "gossip/78680d02636bef7138731e32926120d6"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "bcf1d9a3090f",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Rupert Boch is his name. I hear that he's upstairs in one of the rooms at the Gallows' End Tavern on the southeast end of town.",
+  "files": [
+   "gossip/01124c3b711e07151142abc5f95268f2"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "65eaebd1a24c",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Actually I prefer traditional medicines... leeches, maggots, bonesaws... that sort of thing. Well to each their own. You can find the our local Herbalism Trainer, Faruza, standing out front near the stables in Brill.",
+  "files": [
+   "gossip/0939bad12351da20cc3b8d4e77a7fee8"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "a6e5a2e08ca1",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "At the southeast edge of town is the Gallows' End Tavern. Go there and head upstairs, and you'll find Dark Cleric Beryl inside the reading room.",
+  "files": [
+   "gossip/0c7b458308be384d96d85e82cd05977f"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "3fad7ca4f323",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Nothing quite like the feel of something dead rubbing up against you. You can find Shelene Rhobart by heading southeast on the road out of town, and then going east at the intersection. She's at a small camp there not too far along the road.",
+  "files": [
+   "gossip/103bf72df1b5fce49d05a3edff6ff22e"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "5224340af992",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Sorry friend, we don't have one of those here in Brill. You'll have to head to the Undercity for that. The Undercity is underneath the Ruins of Lordaeron to the south of Brill. From the back of the ruins take the elevator down and then speak to one of the Undercity Guardians to find your way further.",
+  "files": [
+   "gossip/1139c3ddc8af6aee008200acb0687a4d"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "947bd3a52986",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "I guess your first exercise is going to be to mine your way down to the Undercity. Heh, get it? Mine... nevermind. To get to the Undercity go to the rear of the Ruins of Lordaeron south of Brill, and take the elevator down. Ask one of the Undercity Guardians there for further assistance.",
+  "files": [
+   "gossip/15ea84887025f02a521a2456a5bf77a9"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "ec69de2d1e2f",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Not too clever are you? Hmm, if I were a stable master perhaps I might be in the vicinity of say, the stable? Look for Morganus over there.",
+  "files": [
+   "gossip/172651bdd26f58b06745eb92d746a013"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "6408ab68565c",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Now if I were Innkeeper Renee where might I be? Hmmm? Oh, perhaps inside the Gallows' End Tavern. Yes, that's it, I'm sure of it. Try the southeast end of Brill... think you can find that?",
+  "files": [
+   "gossip/1911d77dc4307cbbb8ac8bfe3905aa2a"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "b1deb21bf456",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "You'll find the Mage Trainer, Cain Firesong, upstairs on the landing at the Gallows' End Tavern, which is on the southeast end of Brill. I guess he checked in too late to get a room.",
+  "files": [
+   "gossip/1e5f1737a1701a50722b2b5518364863"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "ec4ad793639c",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "You'll find Innkeeper Renee inside the Gallows' End Tavern at the southeast end of the street running through town.",
+  "files": [
+   "gossip/2557195bf3e59ed32c3d8e138273a3aa"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "8683d3f58eda",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "What are you looking for?",
+  "files": [
+   "gossip/2cce376a7f0e367a39a45e26216ab5f2"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "d96aaf6efe4e",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Butcher you say? Oh, First Aid Trainer! Same thing. When you see Nurse Neela standing just inside the Gallows' End Tavern on the southeast side of town you'll know why.",
+  "files": [
+   "gossip/2efa1bcf49300d8f807523fd6673df71"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "c55da90f1f64",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Our Alchemist's name is Carolai Anise. You'll find her in a house at the northwest end of Brill.",
+  "files": [
+   "gossip/3866411706250b90fd5b8f8e06a403fb"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "6ec8c1c4de2d",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "The Rogue Trainer's name is Marion Call. You can find her upstairs in the reading room at the Gallows' End Tavern at the town's southeast edge.",
+  "files": [
+   "gossip/3ee5a4b825abc707bb4630a9bbad2bf3"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "e055aa598b71",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "You aiming to be a taxidermist? I don't like people who think they can stuff and mount me because they think I'm dead. No? Good! Look for Rand Rhobart at a camp to the southeast of town. To get to him take the road southeast out of Brill and hang a left at the intersection.",
+  "files": [
+   "gossip/3f5cc117ebd220215e10fa35e0a1dce8"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "3cc133dae77c",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Marion Call is keeping Dark Cleric Beryl company in the reading room upstairs at the Gallows' End Tavern on the southeast edge of Brill. I'm just dying to see who wins that staring contest.",
+  "files": [
+   "gossip/401d08a40d2bbc1996b8b3974f466abc"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "4c8e8cc63b4e",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "That's Rupert Boch you're looking for. He and his entourage have a room upstairs at the Gallows' End Tavern on the southeast end of Brill.",
+  "files": [
+   "gossip/51f8b17d8b9488e0ccd4bd533aa062d3"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "81bb82120b5f",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Which trainer do you seek?",
+  "files": [
+   "gossip/59f12cd78c4d26b8aee81e68100d276a"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "d6989f8cfdb8",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Clyde Kellen, the local bass master, has his favorite fishing spot just east of Brill at Brightwater Lake.",
+  "files": [
+   "gossip/5ba96289663e59e56f3ab679b5ca74e1"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "c1ed0112069a",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Look inside the Gallows' End Tavern's main dining room for Austil de Mon. The tavern is on the southeast edge of Brill.",
+  "files": [
+   "gossip/616358afa775aba892d936fda890ea34"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "605f466a57df",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Fancy yourself a chef? Head to the Undercity south of town for your training. You can catch the elevators heading down at the back of the Ruins of Lordaeron. Talk to one of those lumbering Undercity Guardians for further assistance once you arrive.",
+  "files": [
+   "gossip/6f3dc341f1c868637188480b03d81828"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "e285c9c91b71",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "What could you possibly need a bank for? Very well, you'll need to go through the Ruins of Lordaeron to the south of Brill. In the back are a set of elevators leading down into the Undercity. When you get there stop any of those lumbering Abominations they like to call an Undercity Guardian and ask it for better directions.",
+  "files": [
+   "gossip/7184e5ed6132309035e3eec452e87a4d"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "c2ff45156e42",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Morganus the stable master can be found out in front of the stables strangely enough.",
+  "files": [
+   "gossip/7e077ea3795c4616340d79cc24a4a758"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "d2f834348b07",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "It is Bowen Brisboise that you seek then. You'll find him inside his house southwest of Brill just on the other side of the bridge at Cold Hearth Manor.",
+  "files": [
+   "gossip/7fd1483462d52d9cdaa86c1b708ae95f"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "770da23b0b9e",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Why cook when everything tastes like ashes in your mouth? If you have one still that is. Very well, head to the Undercity south of Brill and ask an Undercity Guardian there for further directions to their Cooking Trainer. To get there you can take the elevators down from the rear of the Ruins of Lordaeron.",
+  "files": [
+   "gossip/8313213d75e6f7833f8797c2bdbcf6b2"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "0031135e4e8b",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Ah, you seek Dark Cleric Beryl. He's upstairs in the reading room at the Gallows' End Tavern. Reading, praying, who knows what he's up to, and who would dare to ask?",
+  "files": [
+   "gossip/88eb979b8293db04958ffc41229df9da"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "5f903f6b7de2",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Yeah, that would be Austil de Mon. He's always hanging out in the tavern at the southeast end of town. It's called the Gallows' End Tavern, you can't miss it.",
+  "files": [
+   "gossip/8a3263760d4d0df6c2f50cf4266a0ae5"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "b3d6f4cde4e3",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Which profession?",
+  "files": [
+   "gossip/8d09546b60b6d39bda2ac4ec0471ced5"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "ad7c39d732fb",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "There's a Bat Handler inside the Undercity. Head south down the road out of Brill, then west at the T-intersection. The Ruins of Lordaeron will be on your left. Go into them and then down into the Undercity. You can ask an Undercity Guardian there for further assistance.",
+  "files": [
+   "gossip/8e6d351e4b5ed5b89d136ecabc40dd4d"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "751ef318503d",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Black, grey and dark purple are the prescribed colors. See to it that you don't stray onto the wrong side of fashion street friend. Bowen Brisboise can help to see that you don't. You'll find him inside Cold Hearth Manor on the other side of the bridge to the southwest of town.",
+  "files": [
+   "gossip/9189817d90eaaf387d6f475085c6270b"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "696f402ad637",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Do I look to you like I cast spells? Well, I did hear that Cain Firesong was hanging out on the upstairs landing of the Gallows' End Tavern at the southeast end of town. Odd how he just stands there outside of Gretchen's room like that.",
+  "files": [
+   "gossip/943f78c6d91bc1ea400acfcaec5316bd"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "8c82ac5c1422",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Look for Faruza. Last I saw she was standing out front between the stables and the house on the northwest end of town.",
+  "files": [
+   "gossip/977af039ec3c7a44b7db0d8dff2bd8d9"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "603abf03fbac",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Rand Rhobart is fairly good at skinning felbats and the like. You can find him at a camp along the road to the southeast of Brill. Take the road southeast out of town and then head east at the intersection.",
+  "files": [
+   "gossip/a25fe9ad1bdfb172b3a2dd3d0ef51db1"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "141ef687fd61",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "We don't have a bank here in Brill, you'll have to go to the Undercity for that. At the back of the Ruins of Lordaeron to the south are elevators that will take you down into the Undercity. Once there ask one of the Undercity Guardians for more precise directions.",
+  "files": [
+   "gossip/a2e87b02900fb5026e9da78b0a6b3a10"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "1fdaa7c2f542",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "That would be Shelene Rhobart. Take the road southeast out of Brill then head east at the intersection. She's at a camp along the side of the road.",
+  "files": [
+   "gossip/a5c7a15cdd9cd24c0896986897aa6257"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "46bcf3ef34b3",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "You'll find Carolai Anise trying to blow up her house at the northwest end of town. Why don't you go see if you can help her?",
+  "files": [
+   "gossip/a7fa537c7b0432b939cd07a8db5249bb"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "e7d3283d655a",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "I hear that they have a Mining Trainer in the Undercity. All you have to do to get there is head south out of town and go to the back of the Ruins of Lordaeron. Then take the elevator down into the Undercity itself and ask an Undercity Guardian for further directions.",
+  "files": [
+   "gossip/b880e21a58d9603b16f9e2ef471c8aab"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "87cb218641a2",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "While there's no Engineering Trainer in Brill, there is one down in the Undercity. To get there head to the back of the Ruins of Lordaeron to the south of town and take the elevator down. Once you get there ask an Undercity Guardian for more specific directions.",
+  "files": [
+   "gossip/b9c7c0e581d2907d5cd3e5f622b7ca2d"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "9d78b00a0af5",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Yeah, you'll always find Clyde Kellen fishing on the bank of Brightwater Lake just east of Brill. Just watch out for psychos wearing masks while you're out there. We had to shut down the kids' summer camp last year.",
+  "files": [
+   "gossip/bec655628b2ba6a6a8f247919f4f203d"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "2d10fda33d25",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Word is that Vance Undergloom has taken a permanent room upstairs at the Gallows' End Tavern at the southeast end of town. I think he's just off the reading room.",
+  "files": [
+   "gossip/c60120c8d889359d6ad321e0d26aeeb2"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "3d9fba77223d",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Blacksmith? Nope, our last one turned back into one of those mindless Scourge. There's one in the Undercity though to the south of town though. Undercity is underneath the Ruins of Lordaeron, clever name, huh? Just take the elevators down at the back of the ruins and then you can talk to one of the Undercity Guardians. They should be able to point you in the right direction.",
+  "files": [
+   "gossip/cf043be13d65871775db5915c930b85b"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "4d7a203fce71",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Somewhere to fly to? You'll need to go to the Undercity for that! Go south on the road out of town, then southwest to the Ruins of Lordaeron. You can catch the elevator down to the Undercity from the back of the ruins and once there ask an Undercity Guardian for more specific directions.",
+  "files": [
+   "gossip/dcc002025bab5d42756438e0222ade8d"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "082451185253",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Rifles, dynamite, bombs, exploding sheep... what's not to love? To learn how to make these and many other exciting tools of the trade head to the Undercity, under the Ruins of Lordaeron to the south of Brill. Take the elevators down at the back of the ruins. Once you arrive speak to one of the Undercity Guardians about where the trainer is exactly.",
+  "files": [
+   "gossip/e409c34e00dbc45b47e8c9dbf314a4dc"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "032a28eccae3",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "Nurse Neela greets all of her future customers as they enter the Gallows' End Tavern at the southeast end of town.",
+  "files": [
+   "gossip/ecc77cd6a30b13bcf17021722aa5919f"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "a38f1a279c21",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathguard Royann",
+  "quest": null,
+  "en": "You can find Vance Undergloom upstairs in a room at the Gallows' End Tavern on the southeast side of Brill.",
+  "files": [
+   "gossip/f3fcdf2085aaeddd3fb4d9eb72210d18"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "58bdeb69a8aa",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Graveborn",
+  "quest": null,
+  "en": "Elder Darkcore can be found in the Undercity.",
+  "files": [
+   "gossip/65ed32ee792501359c944e9da3ef350e"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "4f811ac66c47",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Graveborn",
+  "quest": null,
+  "en": "I last saw Elder Meadowrun at the Weeping Cave in the Western Plaguelands.",
+  "files": [
+   "gossip/9561bb678055b9a1834b829d760f2648"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "88258f3a384a",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Graveborn",
+  "quest": null,
+  "en": "Elder Snowcrown can be found in Light's Hope Chapel in the Eastern Plaguelands.",
+  "files": [
+   "gossip/bf0af2b6af7877a4f548bcb871c346c0"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "a59504321034",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Graveborn",
+  "quest": null,
+  "en": "Elder Obsidian wanders near the Sepulcher in Silverpine Forest.",
+  "files": [
+   "gossip/e40d8fcf94b620d5636ca4ae4cd0c713"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "9bbc6ad62ee5",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Executor Zygand",
+  "quest": null,
+  "en": "The Scarlet Crusade is encroaching on our homeland. The foolish zealots do not realize that the loyal servants of The Dark Lady shall see to their demise.",
+  "files": [
+   "gossip/b660ffd22b62efea664b5310018d4256"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "36e2e04113b7",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "High Executor Derrington",
+  "quest": null,
+  "en": "Welcome to the front lines, adventurer. While politicians may connive and scheme amongst themselves, they'll find no such luxury afforded to them here. This is the Bulwark, and we fight for our continued survival on a daily basis here.\n\nIf you've come here looking for a chance to prove yourself as a hero, then you'll find plenty of opportunities to do so... especially as we push towards Andorhal and whatever malign force that controls the Scourge there.",
+  "files": [
+   "gossip/4ac4718c375b9ac2eb798b72c74e2c6a"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "b431e36c98d4",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Hin Denburg",
+  "quest": null,
+  "en": "This here is the finest, most state of the art mode of transportation money can build. What? Deeprun Tram? Gnomes? Listen pal, If you believe that garbage then I've got a statue down in Stranglethorn to sell ya. Now, are you walking to Grom'Gol or are you gonna ride in style in this fine flying machine? Your choice.",
+  "files": [
+   "gossip/e3996fa2197a021a95b58d4b134537dd"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "39a96932e845",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Renee",
+  "quest": null,
+  "en": "Love tokens are small messages of affection you can give to amorous town and city folk. Such people will reward you with a gift of adoration.\n\nOr, if you are already adored by another, then at the least they'll give you a gift of friendship.",
+  "files": [
+   "gossip/240c63d8033882c54046217b1dcf7cb3"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "d95240e3c783",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Renee",
+  "quest": null,
+  "en": "Rest your weary bones for a spell.",
+  "files": [
+   "gossip/3635a5161bd5b767b73b867eec07fe53"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "d16b7bcc60ed",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Renee",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Bolvar, Magni, or Tyrande.",
+  "files": [
+   "gossip/3b6543a01c89085033a5b5129456612c"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "f5c3bd74574b",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Renee",
+  "quest": null,
+  "en": "If you put on cologne or perfume, then you'll see who is amorous. Those are the ones who accept love tokens... and offer a gift in return.\n\nBut remember: to give someone a love token, you have to smell just right! Men like the scent of perfume, while women prefer cologne.",
+  "files": [
+   "gossip/4fe52fae8f46e665765e0b797aa65922"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "527c635162e0",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Renee",
+  "quest": null,
+  "en": "No, I'm not, but lots of others are looking for love. You should buy my love tokens, put on some cologne or perfume, and then pass them around!",
+  "files": [
+   "gossip/7735145a14283c0cad0e2e27f6b290bd"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "7ffd0a8f358b",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Renee",
+  "quest": null,
+  "en": "What can you do at an inn?\n\nWell when you stay at an inn, you rest very comfortably. Because of this, you will become \"well rested\" much more quickly than you would in the wilderness. When you are well rested, you learn more from experience.\n\nYou may also speak with any innkeeper to get a hearthstone, and can later use the hearthstone in order to quickly return to that inn.",
+  "files": [
+   "gossip/c17a6563275f6e34e947050643bad24a"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "6a71edd6f75b",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Renee",
+  "quest": null,
+  "en": "When you give love tokens to townsfolk, you'll receive different gifts in return. Some of those you'll want to keep and use, but others can be bundled together and given to your favorite hero! Visit Kwee Q. Peddlefeet to turn them in.\n\nKwee can be found near Cairne, Sylvanas and Thrall.",
+  "files": [
+   "gossip/e04b2f5c4dbf929a0538d93ae06e8a52"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "e6ab4eaac58f",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Janice Felstone",
+  "quest": null,
+  "en": "Time is running out for me... for us all...",
+  "files": [
+   "gossip/05b52a89d74994808cbdc88b48f34216"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "82fb79773b80",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Janice Felstone",
+  "quest": null,
+  "en": "What is happening to everyone? I feel... cold...",
+  "files": [
+   "gossip/691a1b43d1fe9daf4969e06a4e0f3a05"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "f8fc03e5691c",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Janice Felstone",
+  "quest": null,
+  "en": "John, honey, where are you?",
+  "files": [
+   "gossip/8af79abbc20fb247ba4adbcf556582a3"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "0aabef379d4c",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Janice Felstone",
+  "quest": null,
+  "en": "I have so much to do... so much before the plague comes...",
+  "files": [
+   "gossip/97cae01d2b74c64090dbea405e8078cc"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "4a97d6db23ec",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Janice Felstone",
+  "quest": null,
+  "en": "Shhh... do you smell something?",
+  "files": [
+   "gossip/bd316b134b1553f8c2812e88e1ed7879"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "00ce03204d80",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Janice Felstone",
+  "quest": null,
+  "en": "The spirit looks upon you with a sense of completeness and cognizance that had not been present before.\n\n\"I feel as though a great burden has been lifted from my soul. Soon I will rest forever in peace. I now know this, and I await this time patiently.\n\nThank you, stranger.\"",
+  "files": [
+   "gossip/c662992bcd429b04031c68f128e25b7f"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "28fb35f31781",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Kirsta Deepshadow",
+  "quest": null,
+  "en": "He... hello, adventurer. Sorry, I'm recovering from my wounds.\n\nThose Scarlet Crusaders are tougher than I had given them credit for. They almost did me in.\n\nYou should be careful too. I'd hate to see them get the jump on you.",
+  "files": [
+   "gossip/5255d112e3f4d77633395a63b892be9f"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "5e6476b2b24c",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Magistrate Sevren",
+  "quest": null,
+  "en": "Ah, you there! I have tasks to give, and I need not waste time explaining their crucial nature. Listen close.",
+  "files": [
+   "gossip/faf26ed4f800bc0be653132a83c71b5b"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "3c7257503eef",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Mrs. Dalson's Diary",
+  "quest": null,
+  "en": "The title of this book reads with a handwritten flourish: Maureen Dalson's Diary.",
+  "files": [
+   "gossip/7ee3700cb7019901b220464a5ab94655"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "c281edd3b0b0",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mulgris Deepriver",
+  "quest": null,
+  "en": "\"...\"\n\nThe body of the tauren druid lies still and unmoving. It would seem as though he has finally passed from this world to his promised great beyond.",
+  "files": [
+   "gossip/08f10ccaf3a2c6de55534ebff038dd0f"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "8277365941b9",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mulgris Deepriver",
+  "quest": null,
+  "en": "Yes, I speak a language you understand traveler. We are not animals, yet most of your kind continues to treat us as such! Our differences though pale to the tragedy that has befallen this land. Please, put aside your differences with my kind and hear my dying plea.\n\nI came to this land to mend what I could, and now that will be for naught unless you can aid me. I ask for such aid with my last breaths of life.",
+  "files": [
+   "gossip/fc72657a0b7757c758fbe98a28b4863d"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "aad7ee825167",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mulgris Deepriver",
+  "quest": null,
+  "en": "Please, help me brother...\n\nI will soon pass from this world, and though I suffer I know I shall not any more once I pass. The wildlife though, my brother... the wildlife suffers too, and it knows no release. I ask for your aid with my last breaths of life.",
+  "files": [
+   "gossip/m-67169b2421921ed2ab7e41cf84226c3c"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "510396e74cd2",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Northridge Lumber Mill Crate",
+  "quest": null,
+  "en": "The sturdy crate sits in the middle of the lumber mill surrounded by debris and very zealous followers of the Scarlet Crusade.",
+  "files": [
+   "gossip/c6e0746701f75c4143389544cdc0709b"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "61c9072d5959",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadow Priestess Vandis",
+  "quest": null,
+  "en": "We have begun to turn the Scourge's plague against them, but our hold is tenuous at best! Be sure to aid the cause by subverting their cauldrons!",
+  "files": [
+   "gossip/6af5c07f82dbfe714f7cc1dce270aea0"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "ee21127cf3a8",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadow Priestess Vandis",
+  "quest": null,
+  "en": "We are dominating the Scourge - the effects of the altered plague will affect them for at least another full day! We need to stay on top of it though, so be sure to sabotage a cauldron when you can.",
+  "files": [
+   "gossip/8d077777e6b7bc9aa577494538df1334"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "09930757a4d4",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadow Priestess Vandis",
+  "quest": null,
+  "en": "With the cauldrons breeched, we are now able to introduce the counter agent into the environment. This should give the scourge a taste of their own medicine, as it were!\n\nCheck with Apothecary Dithers on information regarding the reagents needed to use in the cauldrons. I will be handling all information reports on how we are doing overall in turning the plague against the Scourge!",
+  "files": [
+   "gossip/8e9bed9d1ef172b3688e72d1279f5695"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "d5bd37761d77",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadow Priestess Vandis",
+  "quest": null,
+  "en": "The Scourge's plague is almost to the turning point; a handful more cauldron subversions will push us over the top! Be sure to do your part to help out!",
+  "files": [
+   "gossip/9db7de5508eaac9e5611e0a7f2fbf9bc"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "a1fe85ca2874",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadow Priestess Vandis",
+  "quest": null,
+  "en": "The Scourge's plague still dominates the zone, and we have a long way to go before the plague will be altered enough to affect them. Collect the necessary resources and help out the war effort!",
+  "files": [
+   "gossip/ce824b41cf0a6db8b1c15559f577b9fb"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "7f6cb7064d8e",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadow Priestess Vandis",
+  "quest": null,
+  "en": "The time has come, my brother in arms, to take back the night from the Scourge!",
+  "files": [
+   "gossip/m-1ad4fc3d07a7873ab9512c5aa3f5ce4f"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "45784a713ff7",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shelene Rhobart",
+  "quest": null,
+  "en": "You've got the hang of it. I can't teach you any more, but talk to Arthur Moore, a Forsaken who works in the Rogues' Quarter of the Undercity. Tell him I sent you.",
+  "files": [
+   "gossip/151ec51becd067dfa6e36901ab1189a4"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "17b29032bd00",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shelene Rhobart",
+  "quest": null,
+  "en": "Skin, glorious skin. It holds your insides... in. You might've noticed my skin's not doing so well. To think I used to worry about my pores. Hardly any skin left to worry about these days. In a way, it's very freeing.",
+  "files": [
+   "gossip/21c1a4ade87cbd580ae80aa7f1f7ae8d"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "3babc5dd7935",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shelene Rhobart",
+  "quest": null,
+  "en": "Before the plague came, I knew nothing about leather. Now I know enough to teach others. Death's left me with a lot of time on my hands.",
+  "files": [
+   "gossip/d626b39784157d5421d92e7ddf077906"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "e73210aeace5",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Vance Undergloom",
+  "quest": null,
+  "en": "Even I have my limitations! Go talk to Lavinia Crowe in Undercity if you wish to further your training.",
+  "files": [
+   "gossip/147f7781bcfc14024f4c4c8fae38a676"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "0092855fe0d7",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Vance Undergloom",
+  "quest": null,
+  "en": "Greetings, traveler! Care to delve into the mysteries of the arcane? Hm?",
+  "files": [
+   "gossip/70cedd46427b60803ef6cb69ad0be4cb"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "2fab6be9334c",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Vance Undergloom",
+  "quest": null,
+  "en": "Not bad... I suppose training you is not out of the question. Very well! Let's begin...",
+  "files": [
+   "gossip/8e93c72122e45dcdc82ece99e2656405"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "4336d8fd9c1c",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Velma Warnam",
+  "quest": null,
+  "en": "I can teach you the finer points of Skeletal Horse Riding, provided you have enough gold to cover the lesson!",
+  "files": [
+   "gossip/2e65eb1fa48fb06278bb020f60a84d34"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "3e3c35c3d96d",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Velma Warnam",
+  "quest": null,
+  "en": "I am unable to teach a Tauren to ride a Skeletal Mount. I am sorry but there is nothing I can do for you.",
+  "files": [
+   "gossip/cfd3dc91c0e2de59b41ea2ec7cabbeff"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "8c10de149b01",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Velma Warnam",
+  "quest": null,
+  "en": "You need to be exalted with the Forsaken of the Undercity before I will teach you a riding skill, adventurer.",
+  "files": [
+   "gossip/dcd0a28a88596d37aad3b937bda5ab9f"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "816737c7c273",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Zachariah Post",
+  "quest": null,
+  "en": "The Royal Apothecary Society has little patience for fools, as do I. Perhaps the next time you and I speak of my steeds, you will be considered exalted by the Undercity. Until then...",
+  "files": [
+   "gossip/eef6f7f6fd25d10d8ba7e4fca44b8d27"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "144aeb993f7c",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Zachariah Post",
+  "quest": null,
+  "en": "On behalf of the Royal Apothecary Society, I am pleased to offer you the finest steeds available for the Forsaken. These beasts have endured trials and tribulations as we all have, and now they too have emerged stronger and more resilient than mere mortal flesh would have had them destined to be! Please, inspect them for yourself and see.",
+  "files": [
+   "gossip/f167e87b57a2b94049d4b806ea806d69"
+  ],
+  "uiMap": 1422
+ },
+ {
+  "id": "be736b20ca1a",
+  "zone": "western-plaguelands-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Zapetta",
+  "quest": null,
+  "en": "My brother said we could make great money with this trade route, but he didn't tell me I would be the one living on this side. If you come back this way on the Zeppelin, could you bring me something to eat? They sell some of the finest meat in Orgrimmar, and I sure could use something that didn't die weeks before it stopped moving.",
+  "files": [
+   "gossip/29ab1815cf6aff3f41bd5f69c7535753"
+  ],
+  "uiMap": 1422
+ }
+]

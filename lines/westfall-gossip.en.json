@@ -1,0 +1,128 @@
+[
+ {
+  "id": "63df61097018",
+  "zone": "westfall-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Barnil Stonepot",
+  "quest": null,
+  "en": "Master Nesingwary has a big hunt ahead of him. I find helping him prepare for a day in the jungle is much more relaxing than helping him ready for combat. Although I do miss some of those glorious moments on the battlefield.",
+  "files": [
+   "gossip/e3a348a35882a9d1e3d9c86ff56b6bbe"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "85ec5872feae",
+  "zone": "westfall-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Skychaser",
+  "quest": null,
+  "en": "Elder Stormbrow is most likely at the village of Goldshire in Elwynn Forest.",
+  "files": [
+   "gossip/61d833a8673a067ef9c0bd2ca6cb51d8"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "9c7285ae4a2e",
+  "zone": "westfall-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Skychaser",
+  "quest": null,
+  "en": "Winterhoof? I hear he's living it up in Booty Bay.",
+  "files": [
+   "gossip/6220036f3a5217b3a9e38a14a501ae82"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "f8c7e18d5cc4",
+  "zone": "westfall-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Skychaser",
+  "quest": null,
+  "en": "Last I knew, Elder Starsong was in the Sunken Temple of the Swamp of Sorrows.",
+  "files": [
+   "gossip/bb1f573853925f0a6e40c79130754165"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "c952dcae9022",
+  "zone": "westfall-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Grimbooze Thunderbrew",
+  "quest": null,
+  "en": "Adventure from lands far and near \nMeeting with folks both odd and queer \nBut if of me a question you ask \nYou must first complete a simple task!",
+  "files": [
+   "gossip/a1d52eb492cdf995ec86b759ea732fcb"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "d33d77451a93",
+  "zone": "westfall-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gryan Stoutmantle",
+  "quest": null,
+  "en": "A foul corruption has crept into Westfall. While I was upholding my duty on the battlefields of Lordaeron these honest farms were overrun and made into hide-outs for thugs and murderers. The People's Militia needs your help.",
+  "files": [
+   "gossip/bf0787ecbd6400134f7c68d96b745095"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "83b0a5127bb0",
+  "zone": "westfall-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hemet Nesingwary",
+  "quest": null,
+  "en": "Another fine day in the jungle! It's going to be quite a hunt, I can feel it. Once Barnil is done cleaning the guns, I'm taking the hunting party deep into the twisting vines. Not such a bad way for an old war vet to spend his retirement, eh?",
+  "files": [
+   "gossip/b4f3331c89b3d2062ca281510ee317ad"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "a5f3639209f7",
+  "zone": "westfall-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Quartermaster Lewis",
+  "quest": null,
+  "en": "I try to keep Sentinel Hill stocked, and that's not easy with all the action we see.",
+  "files": [
+   "gossip/f25d9eb86b1a32dfb1649beab901ef4c"
+  ],
+  "uiMap": 1436
+ },
+ {
+  "id": "364605fe8fb1",
+  "zone": "westfall-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Thor",
+  "quest": null,
+  "en": "Where are you going? Well if you're looking to get there quickly, then look no further!",
+  "files": [
+   "gossip/a8c3fee28c1869e9b77707e11b8cd0a2"
+  ],
+  "uiMap": 1436
+ }
+]

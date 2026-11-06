@@ -1,0 +1,254 @@
+[
+ {
+  "id": "7f1195b3c15c",
+  "zone": "arathi-highlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Apprentice Kryten",
+  "quest": null,
+  "en": "Don't mind Skuerto, adventurer. He doesn't mean to be rude, he's just terribly busy. While we wait for him to finish scouting, why don't we work on something more productive?",
+  "files": [
+   "gossip/2a934c9aeb08dec90a0d0e7b99a9e8d0"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "ffeb00f644ed",
+  "zone": "arathi-highlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Apprentice Kryten",
+  "quest": null,
+  "en": "Hello, adventurer. Welcome to Refuge Pointe.",
+  "files": [
+   "gossip/9c5dca74ac7c977fa3de9d8d739f8773"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "8ec6df8ace97",
+  "zone": "arathi-highlands-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Atal'ai Exile",
+  "quest": null,
+  "en": "What do you ask of me?",
+  "files": [
+   "gossip/50a7d3d633d3c3c49b0644e320fb4902"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "87d150760300",
+  "zone": "arathi-highlands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Captain Nials",
+  "quest": null,
+  "en": "We at Refuge Pointe hold one of the few remaining patches of Stromgarde territory in the Arathi Highlands. And we're losing ground...\n\nIf you have words for me, then I hope they are good tidings.",
+  "files": [
+   "gossip/35885c6440abfadbf78a865c29a8a140"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "8288afba21a5",
+  "zone": "arathi-highlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Cedrik Prose",
+  "quest": null,
+  "en": "Where would you like to fly to?",
+  "files": [
+   "gossip/65b6f5b0f34f015f60d92c6c8d6e3d71"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "47822d30ee28",
+  "zone": "arathi-highlands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Deathmaster Dwire",
+  "quest": null,
+  "en": "We must not allow the Alliance to expand their power base in Arathi! Even their miniscule Refuge Pointe may one day grow to threaten us.",
+  "files": [
+   "gossip/a0cdf795929fa807da0b88c05e1206cd"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "3eacc2964325",
+  "zone": "arathi-highlands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Deathstalker Mortis",
+  "quest": null,
+  "en": "The battle for Arathi Basin is a battle for resources. Lumber, ore, food... all these are needed in order to wage a good war.\n\nDenying our enemies of their supplies is as good as killing them on the battlefield.",
+  "files": [
+   "gossip/903cc7768c784eb239105149e250dee2"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "c56881da81ad",
+  "zone": "arathi-highlands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Doctor Gregory Victor",
+  "quest": null,
+  "en": "Greetings, adventurer. I am Doctor Gregory Victor, head trauma surgeon of Horde Trauma.",
+  "files": [
+   "gossip/2638fdc24fed03d3d2affc64eca0bf76"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "fd4b37083420",
+  "zone": "arathi-highlands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Doctor Gregory Victor",
+  "quest": null,
+  "en": "You have learned all that I am able to teach you at this time, Doctor adventurer. Return to me when your practice has expanded and I shall train you in the ways of the more advanced medicinal arts.",
+  "files": [
+   "gossip/283509ff38d5fe49b3dd45d5e0947aad"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "f3f984efdbd0",
+  "zone": "arathi-highlands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Doctor Gregory Victor",
+  "quest": null,
+  "en": "It is good to see you again, Doctor adventurer. I have been following your progress and I dare say that it is time you learned some of the more advanced bandaging techniques.\n\nReturn to me from time to time, as your skill advances, and I shall teach you all that I know.",
+  "files": [
+   "gossip/adcbd8c041c99ea585dd49cda036f459"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "d1b78ec9a1f6",
+  "zone": "arathi-highlands-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Elder Torntusk",
+  "quest": null,
+  "en": "Get the key and unlock these chains! Hitah'ya the Keeper holds it... back of cave...",
+  "files": [
+   "gossip/927544d8493b455ed768889c4e29afa3"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "ca002812d827",
+  "zone": "arathi-highlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Field Marshal Oslight",
+  "quest": null,
+  "en": "The League of Arathor has sworn to retake Arathi for humans of Stromgarde and the Alliance. It is a battle hard fought, but a battle worth fighting.",
+  "files": [
+   "gossip/8f58e6676f208553898ca627001b851f"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "535fe694cccb",
+  "zone": "arathi-highlands-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Rutherford Twing",
+  "quest": null,
+  "en": "I am Rutherford Twing, the main supplier for the Defilers posted here at Arathi Basin. As you improve your standing with us, I will make available to you a fine selection of goods that you might find useful. Should you find yourself in need of item repair, I also provide those services.",
+  "files": [
+   "gossip/8240b8eb0361e85e9da92de68294dca1"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "eb122c60f206",
+  "zone": "arathi-highlands-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Samuel Hawke",
+  "quest": null,
+  "en": "I am Samuel Hawke, the main supplier for the League of Arathor posted here at Arathi Basin. As you improve your standing with us, I will make available to you a fine selection of goods that you might find useful. Should you find yourself in need of item repair, I also provide those services.",
+  "files": [
+   "gossip/2b18d0f222c8e7658616bae3c1e5d0a2"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "729755891f81",
+  "zone": "arathi-highlands-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Sergeant Maclear",
+  "quest": null,
+  "en": "To win this war, we can't sit idle and let the tides sweep us over. We must strike, hard and fast, or Arathi will never again be ours.",
+  "files": [
+   "gossip/2d10a0bf75c6c86698196a262967b949"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "1ea85464c54f",
+  "zone": "arathi-highlands-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Shards of Myzrael",
+  "quest": null,
+  "en": "These shards glint with an unnatural sheen. It is clear that they hide a deep power within.",
+  "files": [
+   "gossip/0bb4ea429a6648cd1a3a092485b0d1df"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "757679f1ff46",
+  "zone": "arathi-highlands-gossip",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Tor'gan",
+  "quest": null,
+  "en": "Thanks to the Warchief, even here in the ruins of our former prison, some hope remains, and the Horde rises anew.",
+  "files": [
+   "gossip/62f25048cff79799b91776151d213cfe"
+  ],
+  "uiMap": 1417
+ },
+ {
+  "id": "95265b188b8d",
+  "zone": "arathi-highlands-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wanted Board",
+  "quest": null,
+  "en": "This wooden board holds roughly-made wanted posters.",
+  "files": [
+   "gossip/579f81628d1a733b0ce65a03da79fa94"
+  ],
+  "uiMap": 1417
+ }
+]

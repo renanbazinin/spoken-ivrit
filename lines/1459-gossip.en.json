@@ -1,0 +1,86 @@
+[
+ {
+  "id": "77459b96b3c1",
+  "zone": "1459-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Karl Philips",
+  "quest": null,
+  "en": "You have come to learn of battles won and lost on this field? There are no winners here...",
+  "files": [
+   "gossip/1b77224af068edacdc86b986bb6acf01"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "a2901a902c1f",
+  "zone": "1459-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Corporal Noreg Stormpike",
+  "quest": null,
+  "en": "adventurer, it's good to see veterans like you in the field! I'm sorry to report that our supplies are currently too low to launch any large ground assaults against the Horde.\n\nSpeak with our quartermaster; he has supply missions available.",
+  "files": [
+   "gossip/be7b74ece350a6df351c868dce888f81"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "5fb6bd5027dc",
+  "zone": "1459-gossip",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Frostwolf Stable Master",
+  "quest": null,
+  "en": "Well done, soldier. A few more and our stables will be overflowing with mounts for the cavalry to ride into combat!",
+  "files": [
+   "gossip/28607f3a0d29a8585b7a800ababa8406"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "74c7c3854879",
+  "zone": "1459-gossip",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Frostwolf Stable Master",
+  "quest": null,
+  "en": "Greetings, soldier. Are you here to help the cause?",
+  "files": [
+   "gossip/b39eb5c882dee150f724b5b3066bf272"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "259c752b3a7c",
+  "zone": "1459-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Stormpike Stable Master",
+  "quest": null,
+  "en": "The indigenous rams of Alterac are vital to the functionality of our cavalry!",
+  "files": [
+   "gossip/089e884fad1004ecb78852e5b6c1ed36"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "d73802ca1526",
+  "zone": "1459-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Stormpike Stable Master",
+  "quest": null,
+  "en": "Just a few more and our stables will be overflowing with mounts. Release it into my custody, soldier. I'll take it from here.",
+  "files": [
+   "gossip/6f240a341cad715c1ce2f4322f7f0c15"
+  ],
+  "uiMap": 1459
+ }
+]

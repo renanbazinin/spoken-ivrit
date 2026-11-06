@@ -1,0 +1,1292 @@
+[
+ {
+  "id": "cf25f7f58214",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Morgan Stern",
+  "quest": "... and Bugs",
+  "en": "Another component of my new recipe is the shelled leg of a giant crab. And the crabs they have in Dustwallow -- Muckshells they call them -- just won't do! I'm afraid the only suitable crabs live far away, in the Swamp of Sorrows.\n\nThe shell of the crab leg is a key element of the dish's presentation so I need pristine, unscarred legs. An adult crab might only have one or two such legs, and I need a lot in order to research my dish.\n\nSo, Adventurer... are you willing to travel?",
+  "files": [
+   "quests/1258-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "a65fc7dafec3",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Morgan Stern",
+  "quest": "... and Bugs",
+  "en": "These are wonderful specimens, Adventurer! The shells are in perfect condition, and the meat is pink and tender. The blood of a chef is in your veins, I'm sure of it!",
+  "files": [
+   "quests/1258-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "94839a9a2804",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Rexxar",
+  "quest": "Ascension...",
+  "en": "It is merely dragon-talk, Adventurer - more hot air than actual substantive information. Pompous, aggressive behavior is to be expected from their kind.",
+  "files": [
+   "quests/6601-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "2896e193db49",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captain Garran Vimes",
+  "quest": "Captain Vimes",
+  "en": "By the Light! This cursed spy was a good one! I'm glad he's dead.",
+  "files": [
+   "followup/1672-human-male-official"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "33789ade8318",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captain Garran Vimes",
+  "quest": "Captain Vimes",
+  "en": "Thank you for this report, adventurer. It is now clear that we must tighten our patrols near Theramore.",
+  "files": [
+   "followup/1673-human-male-official"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "c9f47456f5b4",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captain Garran Vimes",
+  "quest": "Captain Vimes",
+  "en": "A report from an orc spy! How did you find this? No matter -- let's see what it says...",
+  "files": [
+   "quests/1220-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "60a9d369f586",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Theramore Lieutenant",
+  "quest": "Captain Vimes",
+  "en": "Captain Vimes should see the orc report you found, Adventurer. He knows the orcish language better than most. And he should know that there are Horde spies near Theramore!\n\nThe captain is in the barracks, on the northeastern side of Theramore Isle.",
+  "files": [
+   "quests/1220-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "fe55e252739b",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Adjutant Tesoran",
+  "quest": "Daelin's Men",
+  "en": "Reddon... Redpath... Ah, here it is! Lieutenant Paval Reethe.\n\nJoined the Theramore guard along with most of the recruits that came across the sea with Lady Proudmoore. Enlisted with the marines of Kul Tiras at the age of sixteen. Distinguished service, promotions...\n\nListed as missing.",
+  "files": [
+   "quests/1285-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "753abe2437d5",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captain Garran Vimes",
+  "quest": "Daelin's Men",
+  "en": "Missing? That would be Tesoran's kind way of saying traitor.\n\nNo doubt he's one of those fools so blindly loyal to Admiral Daelin that he turned traitor. Isn't that a delicious irony? The deserters accuse us of betraying the Alliance.",
+  "files": [
+   "quests/1285-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "bb78936017a4",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Melor Stonehoof",
+  "quest": "Deadmire",
+  "en": "Deadmire is an ancient crocolisk in Dustwallow marsh. And it is his time to die.\n\nOld bones grind as he pulls his huge body through the swamp, and although he still moves with the strength and speed of youth, his aging body tortures the great spirit within it, a spirit whose flame will not waver.\n\nYet now he lives in constant, maddening pain. You must end the life of this noble creature, Adventurer. You must lead Deadmire to peace.",
+  "files": [
+   "quests/1205-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "f13fcbe0ee9f",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Melor Stonehoof",
+  "quest": "Deadmire",
+  "en": "Very good, Adventurer.\n\nI am sure the hunt was not easy, but it is good to know the beast's pain has finally ended.",
+  "files": [
+   "quests/1205-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "5dffed0e6c3a",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Myranda the Hag",
+  "quest": "Emberstrife",
+  "en": "I have attuned this medallion with the magic necessary to create and maintain an illusion within the bounds of the den of Emberstrife.\n\nEmberstrife is an ancient drake; an old gatekeeper of Nefarian, burdened with the duty to test those dragonspawn that would ascend to the rank of elite guard to Onyxia.\n\nTravel to the Wyrmbog of Dustwallow Marsh and enter the lair of Emberstrife. Once there, put on the amulet and follow where your destiny may lead!",
+  "files": [
+   "quests/6570-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "5bd5c0a1e92c",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Angus Stern",
+  "quest": "Feast at the Blue Recluse",
+  "en": "All hail adventurer, a adventurer of worth!",
+  "files": [
+   "followup/1718-human-male-standard"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "3d168fd752c0",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Angus Stern",
+  "quest": "Feast at the Blue Recluse",
+  "en": "Behold! The Blue Recluse holds a feast in his honor!",
+  "files": [
+   "followup/m-1719-human-male-standard"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "35a2667b7e4e",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Angus Stern",
+  "quest": "Feast at the Blue Recluse",
+  "en": "My nephew said you aided him with his research in Dustwallow, and that you helped his associate out of a tight spot. Well, we Sterns stick together and we don't ignore our friends!\n\nSo wash your hands, Adventurer, because we're about to throw a party in your honor!",
+  "files": [
+   "quests/1271-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "c3e2261b821e",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Joachim Brenlow",
+  "quest": "Feast at the Blue Recluse",
+  "en": "Hooray, adventurer!",
+  "files": [
+   "followup/1733-human-male-standard"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "eb39b3e242ce",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Steven Lohan",
+  "quest": "Feast at the Blue Recluse",
+  "en": "Long live adventurer!",
+  "files": [
+   "followup/1736-human-male-standard"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "ba5fc06d29ab",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Fiora Longears",
+  "quest": "Highperch Venom",
+  "en": "As you may know, wyverns are often tamed by orcs for use as mounts. But what is less known is that the venom of a wyvern, in some circles, is more valuable than the beast itself. So if you're not afraid to do a little wyvern hunting, then... I have a job for you.\n\nThere is a place called Highperch in the land of a Thousand Needles, west of here. The Highperch wyverns have a potent venom. Potent, and valuable.",
+  "files": [
+   "quests/1135-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "47619703846d",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Fiora Longears",
+  "quest": "Highperch Venom",
+  "en": "Ah, most of these are nearly bursting with venom, Adventurer. Such are normally only gathered from young wyverns, or fertile females. It must have been quite a slaughter up there in Highperch!",
+  "files": [
+   "quests/1135-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "59d3083f404f",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "I See Alcaz Island In Your Future...",
+  "en": "As I was saying, adventurer, in my living years I flirted with becoming a diviner. But, there really wasn't as much profit in it as you might imagine, mostly because it's dangerous and the reagents are rare and expensive. However, I do know enough to be able to pinpoint the final piece of the amulet, and the spirit of my former comrade along with it.\n\nThis is where you come in, Adventurer. I need you to go to Alcaz Island off the coast of Dustwallow Marsh and collect Bloodkelp from the Strashaz naga that live there.",
+  "files": [
+   "quests/8970-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "e735f0928691",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "I See Alcaz Island In Your Future...",
+  "en": "To be honest, Adventurer, I'm surprised you made it back in one piece. Then again, I guess Alcaz Island is the least of your worries right now.\n\nOk, give me a moment here... divination isn't something that you can just snap your fingers and expect accurate answers from.",
+  "files": [
+   "quests/8970-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "ba076783c330",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "\"Swamp Eye\" Jarl",
+  "quest": "Jarl Needs Eyes",
+  "en": "Eye juice is good juice for drinking. Too bad most critters only have two eyes.\n\nBut spiders have lots of eyes. Lots and lots. And Darkmist eye juice is tasty. Smooth and salty! Unpopped spider eyes... I taste them already.\n\nDarkmist spiders are west of here, in the Darkmist Cavern. You figure the spiders are named after the cave... or is it the other way around?",
+  "files": [
+   "quests/1206-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "027c415bd7b9",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "\"Swamp Eye\" Jarl",
+  "quest": "Jarl Needs Eyes",
+  "en": "You got the eyes! You got the eyes! Tasty, tasty spider eyes!\n\nSome eyes... when you stare at them they stare back. Eat those last. They keep you company... out in the swamp.\n\nHello, little spider eyes. Hello! You taste like chicken. Gooey, salty chicken!\n\nMmmh.",
+  "files": [
+   "quests/1206-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "86593938fa7d",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "\"Swamp Eye\" Jarl",
+  "quest": "Jarl Needs a Blade",
+  "en": "I have cutting to do. I can't tell you what I'm going to cut, but... I need myself a blade. A certain blade...\n\nSome people call it a moonsteel broadsword. I call it a swing blade.\n\nYou help me? Maybe you find it in town, maybe you talk to a blacksmith and he'll make it special.\n\nBut don't sleep on this. What I'm cutting won't keep forever...",
+  "files": [
+   "quests/1203-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "196fd1392dfd",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "\"Swamp Eye\" Jarl",
+  "quest": "Jarl Needs a Blade",
+  "en": "That's a good blade. It has a good swing. It's a good swing blade. Thank you. Thank you, thank you, thank you!!! Now I want to try it....\n\nLater. I'll try it later. But like I was saying... thanks.",
+  "files": [
+   "quests/1203-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "6ef697651fc2",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Fiora Longears",
+  "quest": "Journey to Astranaar",
+  "en": "If you're fresh off the boat from Menethil, then the first thing you should do is... go to Astranaar. I'm sure an eager member of the Alliance such as you can do some real good there. Speak with Shindrell Swiftfire and offer your services.\n\nBut don't bother mentioning who sent you. Shindrell does not know me...",
+  "files": [
+   "quests/1133-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "0a6408908744",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Shindrell Swiftfire",
+  "quest": "Journey to Astranaar",
+  "en": "You are here to offer your services to the Alliance, Adventurer? We welcome the aid, for although its beauty remains... Ashenvale Forest is not the peaceful place it once was.",
+  "files": [
+   "quests/1133-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "ce0fa09aca58",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Adjutant Tesoran",
+  "quest": "Lieutenant Paval Reethe",
+  "en": "Hello, adventurer. You'd like information about a specific member of the Theramore guard? Reethe, was it?\n\nJust give me a moment to find the right book.",
+  "files": [
+   "quests/1259-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "99fe0d7773c2",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captain Garran Vimes",
+  "quest": "Lieutenant Paval Reethe",
+  "en": "It's never good news when a guard's badge is brought to me.\n\nSometimes it's a man or woman who's fallen in battle, and I'm left to bring the news to the grieving family. Other times we never find out what happened to them. And other times it's even worse than that.",
+  "files": [
+   "quests/1252-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "1478fc8d808e",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captain Garran Vimes",
+  "quest": "Lieutenant Paval Reethe",
+  "en": "I don't recognize the name of Lieutenant Paval Reethe. Your best bet would be to check with Adjutant Tesoran. He keeps track of all the records for the Theramore guard, from personnel to their equipment.\n\nHe should be able to tell you who this Reethe is with a quick check of his books.",
+  "files": [
+   "quests/1259-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "9f78a20bd67e",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Krog",
+  "quest": "Lieutenant Paval Reethe",
+  "en": "I know this human, Paval Reethe. Pathetic, even for his kind. He deserted his fellow soldiers and is now hiding out in the woods.\n\nI sent Ogron out to track him down. Some of the others suspect he's been stealing from our supplies. I think I saw Ogron heading off to the southeast.",
+  "files": [
+   "quests/1269-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "ade6e3198f65",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Theramore Guard Badge",
+  "quest": "Lieutenant Paval Reethe",
+  "en": "A glint of light on the ground catches your eye from underneath the rubble. Brushing away debris and ash caked onto the object reveals the insignia of a gold anchor on white enameled on the surface: the sign of Theramore.\n\nUnderneath the anchor is embossed the name \"Lieutenant Paval Reethe\".",
+  "files": [
+   "quests/1252-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "313b039d66f5",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Theramore Guard Badge",
+  "quest": "Lieutenant Paval Reethe",
+  "en": "A glint of light on the ground catches your eye from underneath the rubble. Brushing debris and ash caked onto the object reveals the insignia of a gold anchor on white, enameled on the surface: the sign of Theramore.\n\nUnderneath the anchor is embossed the name \"Lieutenant Paval Reethe\".",
+  "files": [
+   "quests/1269-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "b7f759bbd3cf",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Bubbling Cauldron",
+  "quest": "Marg Speaks",
+  "en": "Cursed muckshell! You can't kill Marg! Ah, but I am dead. So it must have slain me...\n\nBut my mission! My mission! You, Adventurer, must complete it.\n\nWhile near Theramore, I spied a group of Alliance soldiers camped on the beach. And one soldier wore a pendant... a pendant laden with more gems than any soldier could afford!\n\nThat night I snuck into their camp and stole the pendant, but on my return to base a muckshell crab-man killed me!\n\nAdventurer, you must find that muckshell and recover the pendant!",
+  "files": [
+   "quests/1261-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "b5944cc60728",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Nazeer Bloodpike",
+  "quest": "Marg Speaks",
+  "en": "This pendant was worn by a soldier of Stormwind??\n\nThank you, Adventurer. You have revealed the secret of Marg's death. But this pendant is a new mystery to solve, one that may have dire effects on the Alliance, and the Horde.",
+  "files": [
+   "quests/1261-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "98a42545d3fd",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Angus Stern",
+  "quest": "Morgan Stern",
+  "en": "I'm developing a new menu for the restaurant. It will be filled with rural dishes with a \"bayou\" theme. I think my clientele at the Blue Recluse will love them!\n\nI sent my nephew Morgan to Theramore, a city on the edge of the Dustwallow Marsh. He's there gathering recipes from the locals, and I must know what he found so far.\n\nThe trip to Theramore is long. Too long for me. But I bet a young adventurer like yourself would jump at the chance to travel, yes?",
+  "files": [
+   "quests/1260-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "945a18b91410",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Morgan Stern",
+  "quest": "Morgan Stern",
+  "en": "Oh, my uncle sent you, did he?\n\nWell I've been researching recipes and I have some leads, but I need help.\n\nHelp from someone willing to get his feet wet.",
+  "files": [
+   "quests/1260-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "42030a683c27",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Morgan Stern",
+  "quest": "Mudrock Soup and Bugs",
+  "en": "I'm working on a dish I call \"Mudrock Soup and Bugs.\" I still need the major ingredients, and... well, I don't think I'd last long trudging through Dustwallow Marsh!\n\nSo, Adventurer, can you do some hunting for me? First, I need the tongues of Mudrock turtles. You can find Mudrocks along the coast, mostly around the bay.\n\nBut I don't want just any tongues! I hear that the tongues of some Mudrocks are forked...\n\nThey say the forked tongues have a distinct flavor, and I want that flavor in my dish...",
+  "files": [
+   "quests/1204-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "df52efa9d859",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Morgan Stern",
+  "quest": "Mudrock Soup and Bugs",
+  "en": "These will do fine! Thank you, Adventurer!\n\nNow I'll try different cooking techniques on these tongues to find the best way to bring out their flavor.\n\nEventually I'll have a dish worthy of serving at the Blue Recluse in Stormwind!",
+  "files": [
+   "quests/1204-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "60bb1c6a5ffe",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Krog",
+  "quest": "Questioning Reethe",
+  "en": "Hmph. It is good that Reethe will no longer be lurking around the swamp, but it is a shame that humans are built so frail that he could not recover from a little arrow wound.\n\nIt seems that this thread of the mystery has led nowhere, and we must look elsewhere.",
+  "files": [
+   "quests/1273-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "5f408ed1a03c",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Nazeer Bloodpike",
+  "quest": "Report to Zor",
+  "en": "It is strange that the pendant Marg stole was in the hands of common soldiers. Perhaps its owner was in disguise, or perhaps the soldiers themselves stole it!\n\nRegardless of which is true, this is a noble's pendant and we must discover its true owner if we are to unravel its mystery.\n\nTake the pendant to Zor Lonetree in Orgrimmar. He is well schooled in Alliance politics, and will know if this pendant has a history among the nobles of Stormwind.",
+  "files": [
+   "quests/1262-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "d9ef5935d4cc",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Zor Lonetree",
+  "quest": "Report to Zor",
+  "en": "This pendant was crafted with great skill and precision, Adventurer. No orc would covet such a jewel...\n\nBut many humans would.\n\nI will have this pendant studied. In time let us hope that its mysteries will be revealed to us.",
+  "files": [
+   "quests/1262-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "cbcf50119544",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Zor Lonetree",
+  "quest": "Service to the Horde",
+  "en": "It will take time for our scholars to study the pendant you brought us. But for your service to the Horde I would like to offer you a small token.\n\nThank you, Adventurer. Your acts bring honor to you, and to us.",
+  "files": [
+   "quests/7541-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "9696bd44ebcc",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "\"Swamp Eye\" Jarl",
+  "quest": "Soothing Spices",
+  "en": "I like cooking. Good swamp cooking. Fried green frog legs and the like.\n\nAnd for cooking, I need spice. Soothing spice. Then I'll make a stew and stew it up and suck it down and give you some too.\n\nDo you like stew?",
+  "files": [
+   "quests/1218-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "7e9e16cb5c89",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "\"Swamp Eye\" Jarl",
+  "quest": "Soothing Spices",
+  "en": "Ah, that's the spice! Now here's some swampy good stew.",
+  "files": [
+   "quests/1218-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "4896b340beb7",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "\"Stinky\" Ignatz",
+  "quest": "Stinky's Escape",
+  "en": "Great, finally something that doesn't want to eat me!\n\nI need help handling the critters around here, and you fit the mold, buddy.\n\nThe cook Morgan Stern is researching a new recipe, and he sent me out here to gather bogbean leaves. I guess he thinks they're tasty.\n\nAnyway, while looking for a bogbean plant... I got myself surrounded! Can you help me out of here, and watch my back as I look for the bogbean?",
+  "files": [
+   "quests/m-1222-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "8f6a12fea4e6",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "\"Stinky\" Ignatz",
+  "quest": "Stinky's Escape",
+  "en": "Great, finally something that doesn't want to eat me!!\n\nI need help handling the critters around here, and you fit the mold, buddy.\n\nA goblin from Ratchet named Mebok Mizzyrix needs some bogbean leaves for a potion, or something... I honestly don't care why -- his money was good and I know this swamp, so here I am.\n\nToo bad I got myself surrounded before I found the bogbean! Can you help me out of here, and watch my back as I look for Mebok's plant?",
+  "files": [
+   "quests/m-1270-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "d8e36e14bd75",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mebok Mizzyrix",
+  "quest": "Stinky's Escape",
+  "en": "Stinky was here with the herbs I ask of him, and he told me you helped him out of a bind. Good work! A friend of Stinky's is a friend of mine!\n\nHe asked me to give you this if I ever saw you, right before he walked back south toward the marsh.",
+  "files": [
+   "quests/1270-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "e316a1367285",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Morgan Stern",
+  "quest": "Stinky's Escape",
+  "en": "Mr. Ignatz was just here with the bogbean leaves, and he told me you helped him out of some real trouble.\n\nThank you, Adventurer. I will ask my uncle to treat you to a feast the next time you visit the Blue Recluse in Stormwind.",
+  "files": [
+   "quests/1222-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "4a8e4c496d7e",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Adjutant Tesoran",
+  "quest": "Suspicious Hoofprints",
+  "en": "Right away, sir.",
+  "files": [
+   "followup/1754-human-male-warrior"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "17fe7c19e67b",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captain Garran Vimes",
+  "quest": "Suspicious Hoofprints",
+  "en": "Tesoran! I need someone--Falgran Hastil, preferably--to take care of adventurer's lead on the prints near the Shady Rest Inn.",
+  "files": [
+   "followup/1753-human-male-official"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "ddca647183f3",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captain Garran Vimes",
+  "quest": "Suspicious Hoofprints",
+  "en": "Hoofprints, eh? It is true that there is an extraordinary amount of centaur activity in the lands near the Dustwallow Marsh. In brief excursions into the Barrens, we found their camps and holdings dotting the area.\n\nI'll send out Falgran Hastil, one of our trackers, to see if he can find where the tracks lead.",
+  "files": [
+   "quests/1284-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "7208101aaee8",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Falgran Hastil",
+  "quest": "Suspicious Hoofprints",
+  "en": "Falgran Hastil reporting, sir. I will find where the hoofprints lead and report back to you.",
+  "files": [
+   "followup/1752-human-male-warrior"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "f77b696fc5d8",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Hoofprints",
+  "quest": "Suspicious Hoofprints",
+  "en": "Rows of hoofprints lead away from the still-smoking skeleton of the Shady Rest Inn. There are at least a few visible impressions, with more rows of prints almost imperceptible in the soft mud of the marsh.",
+  "files": [
+   "quests/1268-accept",
+   "quests/1284-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "47a3f47b0226",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Krog",
+  "quest": "Suspicious Hoofprints",
+  "en": "Kagoro, I require your presence!",
+  "files": [
+   "followup/1755-orc-male-standard"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "fb7ce1ee1231",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Krog",
+  "quest": "Suspicious Hoofprints",
+  "en": "Hoofprints... It could have been the quilboar, I suppose. Or maybe even the centaur. Their presence in the Barrens is not insignificant, and I would not think it a stretch to commit such an act.\n\nDid I tell you? It wasn't just that the inn was burned down... The owner's woman and pup were killed. Bad business, that.\n\nNonetheless, I will send Kagoro to find where the tracks lead.",
+  "files": [
+   "quests/1268-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "b06f8e677b6b",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captain Garran Vimes",
+  "quest": "The Black Shield",
+  "en": "Hm, I'm no expert with the construction of arms and armor. Their use, yes, but not their making.\n\nThis shield seems as ordinary as any, excepting the damage from the fire that engulfed the inn.",
+  "files": [
+   "quests/1253-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "20d5c2c552f6",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captain Garran Vimes",
+  "quest": "The Black Shield",
+  "en": "I'm sorry I can't be of much help, adventurer, but I can refer you to someone who would be. Caz Twosprocket, one of our best blacksmiths, works the forge at the smithy.\n\nTake the shield to him, and see what he can tell you.",
+  "files": [
+   "quests/1319-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "c5e1faf756bb",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captain Garran Vimes",
+  "quest": "The Black Shield",
+  "en": "That's not much information to work on, but we'll have to keep it in mind. Hopefully some of the other pieces of this mystery will fall into place, and paint a more helpful picture of what happened.",
+  "files": [
+   "quests/1320-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "d7deec3ba3a2",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Caz Twosprocket",
+  "quest": "The Black Shield",
+  "en": "Hm... interesting piece of iron you have here. Definitely not made by any of the blacksmiths I know over on this side of the sea, and it's certainly not my work.",
+  "files": [
+   "quests/1319-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "5008984a70b8",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Caz Twosprocket",
+  "quest": "The Black Shield",
+  "en": "Ah, I almost missed this... The leather strap on the back must have burned off, but it seems like it was made to fit a large person. I'd guess a tauren, actually.\n\nThat's about all I can tell you. Tell Captain Vimes I'm sorry I couldn't be of more help.",
+  "files": [
+   "quests/1320-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "cc93fbac6da1",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Krog",
+  "quest": "The Black Shield",
+  "en": "Ah, I remember now! Mosarn is a well-respected blacksmith in Thunder Bluff. I knew I had heard his name somewhere, before.\n\nIn thanks, the Earthen Ring awarded me with a set of armor crafted by Mosarn. Very good work.\n\nPerhaps he can tell you more about the shield he crafted.\n\nIt's not much of a lead, but since we didn't get anything useful out of Reethe, it's all we have.",
+  "files": [
+   "quests/1276-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "66537f50980a",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Krog",
+  "quest": "The Black Shield",
+  "en": "Hmm... I don't see anything out of the ordinary with this shield. We should have Do'gol, the blacksmith, take a look at it, and see if he can tell us more about it, but I wouldn't hold out hope...",
+  "files": [
+   "quests/1321-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "d3172d253025",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Krog",
+  "quest": "The Black Shield",
+  "en": "Mosarn? Sounds familiar... I can't put my finger on it. Maybe it'll come to me later.\n\nIt probably isn't important. A shield can come from anywhere and not mean anything...",
+  "files": [
+   "quests/1323-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "a709d2636980",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mosarn",
+  "quest": "The Black Shield",
+  "en": "Yes, you are certainly correct. This is a shield that I made.\n\nI'm afraid there's not much more I can tell you though, adventurer. I craft so many different shields and sets of armor, I can't keep track of them all.",
+  "files": [
+   "quests/1276-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "cad11ca3bb44",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Black Shield",
+  "quest": "The Black Shield ",
+  "en": "An iron shield, blackened by the fire that raged through the inn, is affixed to the crumbling chimney, one of the few remaining parts of the structure that once made up the Shady Rest Inn.\n\nThe shield can be removed from the brick of the chimney.",
+  "files": [
+   "quests/1251-accept",
+   "quests/1253-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "f23488b6dd3f",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Krog",
+  "quest": "The Black Shield ",
+  "en": "I grant that humans have strange decorating tastes, but would they use a plain iron shield to adorn their fireplace? Perhaps this shield was placed there by the ones who burned the inn.\n\nA warning? A threat?",
+  "files": [
+   "quests/1251-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "a13f2b361546",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Balos Jacken",
+  "quest": "The Deserters",
+  "en": "Did Vimes send you? Couldn't do his dirty work himself, could he...",
+  "files": [
+   "quests/1286-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "b965bfd407f0",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Balos Jacken",
+  "quest": "The Deserters",
+  "en": "Reethe? That coward?\n\nWe threw him out of camp because he insisted on raiding the supplies of the ogres up at Brackenwall Village. We're not so many in number that we could stand up to those mindless brutes.\n\nHe crossed the line one too many times, so we left him to fend for himself.\n\nNow, I helped you out... So, why don't you help us out and forget you bumped into us?",
+  "files": [
+   "quests/1287-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "ba298e431e08",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captain Garran Vimes",
+  "quest": "The Deserters",
+  "en": "It has been a struggle maintaining a presence in the marsh, but through strength of our resolve, we have been able to maintain several defensive watchtowers throughout the area.\n\nThe latest information and scouting reports I have received indicate that a group of deserters has squatted in our abandoned tower at Lost Point, southeast of the inn.\n\nThe deserters' leader is a man named Jacken. See if you can get some information out of him.\n\nBe warned, adventurer. He may be a tough nut to crack.",
+  "files": [
+   "quests/1286-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "467e0cefa1d5",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captain Garran Vimes",
+  "quest": "The Deserters",
+  "en": "I will send Lieutenant Caldwell to deal with the deserters at Lost Point. In addition, I will instruct him to find Reethe. The marsh is not so big and trackless that he should be unable to find him.",
+  "files": [
+   "quests/1287-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "d9dd96896f06",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Lorekeeper Lydros",
+  "quest": "The Forging of Quel'Serrar",
+  "en": "Take the unfired ancient blade to the lair of Onyxia and engage her in battle.\n\nSome trickery must be utilized for the heating of the blade. While in combat, she will surely try to incinerate you with her fiery breath. You must plant the unfired ancient blade nearby and hope that the fiery breath heats the blade. If you live beyond this, pick up the now heated ancient blade and finish off the dragon.\n\nPlunge the heated ancient blade into her smoldering corpse to fashion the treated ancient blade.",
+  "files": [
+   "quests/7509-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "7b824e98e0e5",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Lorekeeper Lydros",
+  "quest": "The Forging of Quel'Serrar",
+  "en": "As promised, Adventurer, the blade of Quel'Serrar.",
+  "files": [
+   "quests/7509-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "bdc27f5bd206",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Loose Dirt",
+  "quest": "The Lost Report",
+  "en": "Sifting through the loose dirt, the severed hand of an orc is found. And clutched in the hand is a bone-carved tube. And in the tube is a dirt-stained parchment.\n\nThe parchment is a report made by an orc who spent weeks spying on the city of Theramore.\n\nAfter scanning the parchment, it is clear that it must be brought to the orc spymaster in Brackenwall Village.",
+  "files": [
+   "quests/1238-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "eedf256d6eb8",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Nazeer Bloodpike",
+  "quest": "The Lost Report",
+  "en": "Good work, Adventurer. Our agent, Marg Nighteye, was stationed outside Theramore. He was charged to spy on the city. \n\nThis is his latest report, and it may be his last -- from your testimony, I fear that Marg met his end in the swamp...",
+  "files": [
+   "quests/1238-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "cac4a6a01824",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Loose Dirt",
+  "quest": "The Orc Report",
+  "en": "Sifting through the loose dirt, the severed hand of an orc is found. And clutched in the hand is a bone-carved tube. And in the tube is a dirt-stained parchment.\n\nThe parchment is written in orcish... and it looks important.",
+  "files": [
+   "quests/1219-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "da6ea8f305e1",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Theramore Lieutenant",
+  "quest": "The Orc Report",
+  "en": "Hm... I can't read orcish very well, but this looks like a report... written by an orc spy!",
+  "files": [
+   "quests/1219-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "a801d0cb1090",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Loose Dirt",
+  "quest": "The Severed Head",
+  "en": "Vigorous digging reveals the head of a male orc, raggedly severed at the neck. His lips are frozen in a snarl, and its dark eyes stare defiantly.",
+  "files": [
+   "quests/1239-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "948bb6eabb78",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Nazeer Bloodpike",
+  "quest": "The Severed Head",
+  "en": "This is the head of Marg Nighteye! As I feared, he is dead.\n\nLook at the wound on his neck! Could a weapon have made that ragged cut, or did some beast slay our agent?\n\nThis is a mystery we must solve, Adventurer. We must discover if Marg's death was at the hands of the Alliance!",
+  "files": [
+   "quests/1239-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "862807c47e6d",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Nazeer Bloodpike",
+  "quest": "The Theramore Docks",
+  "en": "Adventurer, two of our spies were sent to steal documents from a ship at the Theramore docks. They gained the papers but were discovered, and were forced to throw the documents into the sea.\n\nOne spy later escaped, but was unable to recover the prize. He reported his failure to me, and I now charge the task to you.\n\nThe documents are in a footlocker, in the waters somewhere beneath the Theramore docks. Find those documents, Adventurer, and bring them to me.",
+  "files": [
+   "quests/1202-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "69ba7da408f8",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Nazeer Bloodpike",
+  "quest": "The Theramore Docks",
+  "en": "I commend you, Adventurer. This was not an easy mission. But the documents you gained are valued greatly by our superiors.",
+  "files": [
+   "quests/1202-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "8d5d3a26b789",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Kin'weelay",
+  "quest": "The Troll Witchdoctor",
+  "en": "I am eager to hear what so angry an orc has to say...",
+  "files": [
+   "followup/1664-troll-male-shaman"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "e4df916dc040",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Kin'weelay",
+  "quest": "The Troll Witchdoctor",
+  "en": "Peer into the cauldron, adventurer. Marg wishes to speak...",
+  "files": [
+   "followup/1666-troll-male-shaman"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "16add63708fd",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Kin'weelay",
+  "quest": "The Troll Witchdoctor",
+  "en": "Ah, I now see. The spirit of this orc is bound in our world, boiling with rage from a task yet undone.\n\nWell, let us have words with this angry orc...",
+  "files": [
+   "quests/1240-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "63a49a937fdf",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Nazeer Bloodpike",
+  "quest": "The Troll Witchdoctor",
+  "en": "We must know the events surrounding Marg's death! And the only way to do that, Adventurer, is through the witch-magic of trolls.\n\nBring Marg's head to Kin'weelay in Stranglethorn Vale, at the Grom'gol Base Camp.\n\nKin'weelay is the most powerful witchdoctor of the Darkspear trolls. If anyone can speak to Marg Nighteye's spirit, it is he.",
+  "files": [
+   "quests/1240-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "4652c8217f78",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Nazeer Bloodpike",
+  "quest": "Theramore Spies",
+  "en": "The Horde and Alliance hold an uneasy truce. Outlying skirmishes and covert actions are taken by one side against the other, and it is our duty to ensure the Horde is on top!\n\nNow is the chance to do just that.\n\nAlliance infiltrators have taken positions east of Brackenwall Village. They spy on the village and report our movements to Theramore, which we cannot allow.\n\nHunt down the infiltrators and slay them. Send a clear message to their superiors that we will not tolerate their spies' presence!",
+  "files": [
+   "quests/1201-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "b33a4c90428a",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Nazeer Bloodpike",
+  "quest": "Theramore Spies",
+  "en": "Good work. Their infiltrators are skilled, but they're not good enough to escape the watchful eye of the Horde!",
+  "files": [
+   "quests/1201-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "62ce2a3bb052",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captain Garran Vimes",
+  "quest": "They Call Him Smiling Jim",
+  "en": "James Hyal's his real name. He opened an inn at the edge of the Barrens. Wanted to make a nice place for travelers to stop over...\n\nMight be he was thinking too big, but the inn did do well for a while. Then we lost control of the roads in the marsh, and the ogres took over.\n\nJames was too stubborn to give up his dream for safety within our walls, and the Shady Rest Inn was burnt to the ground. We're investigating, but haven't had much luck. If you want to help out, see what you can find in the rubble.",
+  "files": [
+   "quests/1282-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "729d7bd12d64",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Guard Byron",
+  "quest": "They Call Him Smiling Jim",
+  "en": "I can't help it if I feel sorry for ol' Jim there. He wasn't always like that. Ran an inn out in the marsh for a while, wonderful place.\n\nLook, I don't really want to talk about it. Bring it up with Captain Vimes if you really have to.",
+  "files": [
+   "quests/1282-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "7fcddcd13821",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Captain Garran Vimes",
+  "quest": "Vimes's Report",
+  "en": "You've done some good work, adventurer, best I've seen from an amateur.\n\nLady Proudmoore asked that I keep her apprised of this delicate situation, and I haven't spoken to her for some time now.\n\nI was going to deliver my report to her later, but it seems more fitting that you should be the one to speak with her about it. You can probably answer her questions better than I could.",
+  "files": [
+   "quests/1288-accept"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "b85d980c8262",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Lady Jaina Proudmoore",
+  "quest": "Vimes's Report",
+  "en": "Well, judging from Captain Vimes's report, you've been a huge help to his investigation, and for that I thank you.\n\nI can put my mind more at ease knowing that the matter is in such capable hands. If you would, I would request that you return to Captain Vimes and help him in getting to the bottom of this mystery.",
+  "files": [
+   "quests/1288-complete"
+  ],
+  "uiMap": 1445
+ },
+ {
+  "id": "ca7d40adb779",
+  "zone": "dustwallow-marsh",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Vimes's Report",
+  "quest": "Vimes's Report",
+  "en": "You've done some good work, adventurer, best I've seen from an amateur.\n\nLady Proudmoore asked that I keep her apprised of this delicate situation, and I haven't spoken to her for some time now.\n\nI was going to deliver my report to her later, but it seems more fitting that you should be the one to speak with her about it. You can probably answer her questions better than I could.",
+  "files": [
+   "quests/1288-accept"
+  ],
+  "uiMap": 1445
+ }
+]

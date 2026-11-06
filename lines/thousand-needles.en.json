@@ -1,0 +1,2060 @@
+[
+ {
+  "id": "580ae415ad5b",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Trackmaster Zherin",
+  "quest": "A Bump in the Road",
+  "en": "After the big crash with the goblins' Red Thunder racer and a basilisk, Kronkrider hired me on to take care of the track. I don't know what all the animals out on the flats are feeding on to grow so big, but we have to be careful to thin them out so they won't wander onto the track when a race is going on.\n\nTell you what. If you want to go out and make a little profit, go out and remove the basilisks from the area.",
+  "files": [
+   "quests/1175-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "80d87a99ce6a",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Trackmaster Zherin",
+  "quest": "A Bump in the Road",
+  "en": "I hope you didn't kill any of the basilisks on the tracks themselves! It takes a long time for the carcasses to decay in the sun, and I'd rather not have to take a shovel out to clean up.",
+  "files": [
+   "quests/1175-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "784e0d96af92",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Hagar Lightninghoof",
+  "quest": "Alien Egg",
+  "en": "A rumor has surfaced about an alien egg here in Thousand Needles. Those that report seeing this egg have failed to even get close enough to examine it in detail. Serpents guard the egg as if it's one of their own.\n\nI want you to seek out this alien egg and bring it to me so that I may examine it. Reports say the egg is located within a serpent den, but there are several serpent dens along the base of the cliff walls south and northeast of Freewind Post.",
+  "files": [
+   "quests/4821-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "27c434e4b661",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Hagar Lightninghoof",
+  "quest": "Alien Egg",
+  "en": "Yes, finally... the mysterious egg has finally been delivered to me. Now, let me take a closer look at this... What..! What is this..?",
+  "files": [
+   "quests/4821-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "229bd226fe89",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Magatha Grimtotem",
+  "quest": "Arikara",
+  "en": "Take this refined and purified Incendia powder to Thousand Needles and toss it on the sacred fire of life. It is located in the Darkcloud Pinnacle on an isolated needle where they bury their dead.\n\nThe enchantment that I have weaved into the Incendia powder will summon Arikara to you, Adventurer.\n\nI fear she may be stalking Cairne Bloodhoof; too much Tauren lore has changed, and I fear this has angered Arikara. Move quickly before all is lost, adventurer!",
+  "files": [
+   "quests/5088-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "73e159fe6600",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Motega Firemane",
+  "quest": "Arikara",
+  "en": "This does not make sense. Why would Arikara be after Cairne Bloodhoof? Magatha could not be wrong, she is our most powerful shaman.\n\n\nRegardless, your great deed to the Horde shall not go unnoticed - please, choose one of these as a reward for your aid.",
+  "files": [
+   "quests/5088-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "9cd28aba5c51",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Assassination Note",
+  "quest": "Assassination Plot",
+  "en": "The Tauren, Kanati Greycloud is bold to set up a hunting camp in Thousand Needles. We must kill him to rid this hunting camp and all who may follow him. We will converge at the small post Southwest of the Great Lift.",
+  "files": [
+   "quests/4881-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "770b0b1f54b2",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Kanati Greycloud",
+  "quest": "Assassination Plot",
+  "en": "They come to kill me? I will show them how a Tauren fights!",
+  "files": [
+   "quests/4881-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "32faeae05ab8",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Crank Fizzlebub",
+  "quest": "Back to Booty Bay",
+  "en": "Hm... if you're looking to adle wits, adventurer, then the secret behind Zanzil's zombies might just do the trick!",
+  "files": [
+   "followup/1468-goblin-male-zany"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "e61d60095cb8",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Crank Fizzlebub",
+  "quest": "Back to Booty Bay",
+  "en": "I see. Kravel has a big scheme planned. He has a sinister mind -- I like that about him.\n\nSo you'll need something to addle wits, eh? Something powerful...\n\nI wonder if the mixture Zanzil feeds his zombies could be used...",
+  "files": [
+   "quests/1118-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "0320eef3077e",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kravel Koalbeard",
+  "quest": "Back to Booty Bay",
+  "en": "Adventurer, you're a adventurer I can trust, both to get the job done and to keep your mouth shut while doing it.\n\nI've been brewing up a new scheme. It's risky, but if it works then we could both make a bundle! And I think you're just the person to see it through.\n\nTo start, you must go back to Booty Bay. I apologize, good Adventurer. I know my last task took you there. But this time, speak with Crank Fizzlebub.\n\nGive him this letter. And if he requires aid, do your best to help him. It will be worth the effort.",
+  "files": [
+   "quests/1118-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "60985cf93c7e",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Fizzle Brassbolts",
+  "quest": "Delivery to the Gnomes",
+  "en": "There they are! My hydro ratchets and repeater bolts! These will do just fine. Thank you!",
+  "files": [
+   "quests/1114-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "e17212f0b68a",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kravel Koalbeard",
+  "quest": "Delivery to the Gnomes",
+  "en": "Now that I have what I need, give these parts to Fizzle Brassbolts. He's been waiting a long time for them -- I'm sure he won't miss the little piece I removed from his order...\n\nAnd I wouldn't bother mentioning it to him. It was small and worthless.\n\nTrust me.",
+  "files": [
+   "quests/1114-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "4ead275b869c",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Krazek",
+  "quest": "Dream Dust in the Swamp",
+  "en": "ACHOO!",
+  "files": [
+   "followup/1550-goblin-male-zany"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "4a0d53fe81e0",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Krazek",
+  "quest": "Dream Dust in the Swamp",
+  "en": "Wow! adventurer, that dream dust is powerful stuff!",
+  "files": [
+   "followup/1551-goblin-male-zany"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "b670404cd8f3",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Krazek",
+  "quest": "Dream Dust in the Swamp",
+  "en": "Getting the information on Nazz is quite a favor, Adventurer. Yes, quite a favor. But you've come all the way from the Shimmering Flats to get it... are you willing to travel some more?\n\nWhile I contact my sources, why don't you gather something for me, eh?\n\nHm... what will it be? How about dream dust, from the dragon whelps of the Swamp of Sorrows. Yes, I'd love some dream dust for my snuff pouch!\n\nGet it for me, Adventurer, and I'll give you the information you seek.",
+  "files": [
+   "quests/1116-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "7f94d1c7c725",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Krazek",
+  "quest": "Dream Dust in the Swamp",
+  "en": "Well, look at that. You found the dream dust!\n\nAnd how did you like the swamp, Adventurer? It's not easy to get a hot meal there, is it?",
+  "files": [
+   "quests/1116-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "f18d4db3b85d",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Wizzle Brassbolts",
+  "quest": "Encrusted Tail Fins",
+  "en": "Our rocket car is the fastest thing on the flats! So fast that ... I'm afraid friction is going to tear it apart!\n\nTo prevent that I need to create a composite to coat the car's moving parts. It must be hard but not brittle, and must be resistant to salt corrosion, or time spent on the Shimmering Flats will eat it away.\n\nHave you heard of the Vile Reef, Adventurer? It's off the coast of Stranglethorn Vale. Saltscale murlocs live there, and their tail fins are a crucial ingredient of my composite.",
+  "files": [
+   "quests/1107-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "15682afac598",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Wizzle Brassbolts",
+  "quest": "Encrusted Tail Fins",
+  "en": "Thank you, Adventurer! After I grind these down and fuse them with a few other ingredients, the composite will be ready. And after that, the car will be safe from its own speed.\n\nSafe, as long as it doesn't hit anything...",
+  "files": [
+   "quests/1107-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "c00db06fc41f",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Cliffwatcher Longhorn",
+  "quest": "Family Tree",
+  "en": "My brother Nataka is stationed at Ghost Walker Post over in Desolace. I'd like to ask you... could you give this report to him for me? A year has passed since the last time I wrote, there has been unusual centaur activity since then and he should be informed.\n\nJourney to Stonetalon Mountain north of the Crossroads, and then head west into Charred Vale. From there, head south into Desolace; there you will find a road going south to Ghost Walker Post.",
+  "files": [
+   "quests/5361-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "cfaffeef31d5",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Nataka Longhorn",
+  "quest": "Family Tree",
+  "en": "I know not what connection you have with my brother but it would seem he has trust with you, Adventurer.\n\nI am Nataka Longhorn and would like to welcome you to Ghost Walker Post, we have many needs of a Adventurer! Talk with others, perhaps there is need of you here.",
+  "files": [
+   "quests/5361-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "fe0a5319f3d4",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Dorn Plainstalker",
+  "quest": "Final Passage",
+  "en": "Ah, Adventurer. It has been a long time since you have last stepped into my home. It seems like many moons have passed since you took your first leap that set you upon your path.\n\nAnd now you return to me stronger than you once were... more enlightened. This pleases me. And you should be justly rewarded for seeing my tests to the end.",
+  "files": [
+   "quests/1394-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "49ef419aa75d",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Parqual Fintallas",
+  "quest": "Final Passage",
+  "en": "You have done well, Adventurer. You have passed my test, and the tests before mine. Return to Dorn in Thousand Needles. He will sense the change within you, and see that your mind, body and spirit are strong enough that you should be rewarded for your efforts.\n\nStay true to the balance you've shown throughout these trials, Adventurer. Dorn will test you again in the future if you do.",
+  "files": [
+   "quests/1394-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "a32bab149e85",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Lakota Windsong",
+  "quest": "Free at Last",
+  "en": "Arnak thinks we're going to be married... but after I declined his offer he came back that night and kidnapped me. My brother tried to stop him, but Arnak was too strong. He... he slew my brother and then brought me here. My poor brother...\n\nAdventurer, could you escort me out of the Darkcloud Pinnacle? Please... I need to get back to Thalia! She must be worried sick about me.",
+  "files": [
+   "quests/4904-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "fa4f87ab9e6a",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Thalia Amberhide",
+  "quest": "Free at Last",
+  "en": "Thank you, Adventurer. Deep in my bones I knew that she would find her way back to me. She told me of your bravery and how you helped her escape. These items belonged to her brother. I know she would want you to have them.",
+  "files": [
+   "quests/4904-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "bc4a0134d5ad",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gnome Pit Boss",
+  "quest": "Get the Gnomes Drunk",
+  "en": "Look at what adventurer brought us! Let's drink up!",
+  "files": [
+   "followup/8242-gnome-male-standard"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "b90aea347131",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gnome Pit Boss",
+  "quest": "Get the Gnomes Drunk",
+  "en": "Stout? How considerate! Thank you!\n\nWe shouldn't be drinking with the race coming up, but... maybe my boys could do with just a little. Besides, it can't be that strong, can it?",
+  "files": [
+   "quests/1120-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "09779e313317",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kravel Koalbeard",
+  "quest": "Get the Gnomes Drunk",
+  "en": "We need to try the Fool's Stout on one of the pit crews. If you want to try it on the gnomes, then here -- take the stout and give it to the gnome pit boss.\n\nAnd don't wait too long. This stout will go bad eventually.",
+  "files": [
+   "quests/1120-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "2f14d1e5df28",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Goblin Pit Boss",
+  "quest": "Get the Goblins Drunk",
+  "en": "adventurer brought us booze! Let's party!",
+  "files": [
+   "followup/8244-goblin-male-gruff"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "bec2d4ffd6ee",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Goblin Pit Boss",
+  "quest": "Get the Goblins Drunk",
+  "en": "What do we have here? Booze, eh?\n\nWell, I don't mind if we have just a little...",
+  "files": [
+   "quests/1121-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "91a6f3d13723",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kravel Koalbeard",
+  "quest": "Get the Goblins Drunk",
+  "en": "We need to try the Fool's Stout on one of the pit crews. If you want to try it on the goblins, then here -- take the stout and give it to the goblin pit boss.\n\nAnd don't wait too long. This stout will go bad eventually.",
+  "files": [
+   "quests/1121-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "ddcdccaf5f0c",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Baron Revilgaz",
+  "quest": "Goblin Sponsorship",
+  "en": "Oh, sure of course I know what you're talking about. Nope, can't help you though. Some of my men were supposed to go track down the blueprints for the fuel regulator, but they came back empty-handed.",
+  "files": [
+   "quests/1181-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "cbad9d58d007",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Baron Revilgaz",
+  "quest": "Goblin Sponsorship",
+  "en": "See, the Venture Company shredders out in Lake Nazferiti (in northern Stranglethorn) have been equipped with a new model fuel regulator. I was thinking that Pozzik would be able to take advantage of it, if he could get some details. Unfortunately, Cozzle, the foreman out there, appears to be a little more clever than I gave him credit for.\n\nYou seem like you might have more luck finding the blueprints though. I know he keeps them in his house, but they're almost certainly under lock and key.",
+  "files": [
+   "quests/1182-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "90b46673715c",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Baron Revilgaz",
+  "quest": "Goblin Sponsorship",
+  "en": "Now, let me just get a copy of these blueprints for my own notes and you can bring these straight to Pozzik. Wouldn't want him to think that one of his sponsors was abandoning him.",
+  "files": [
+   "quests/1182-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "58214d6c3cb5",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Baron Revilgaz",
+  "quest": "Goblin Sponsorship",
+  "en": "You should be all set to go. Give Pozzik my regards and tell him that if he ever needs anything, not to hesitate to ask. I'll be waiting for the news that he breaks the track record soon!",
+  "files": [
+   "quests/1183-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "cba8f3176ec5",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Gazlowe",
+  "quest": "Goblin Sponsorship",
+  "en": "Pozzik sent you, huh? You know, Pozzik was one of the most respected tinkerers in Undermine before he retired to start working on the racers.\n\nThe first thing he did when he joined the team was develop the two engine model racers. Could be that the businesses will suffer without him working with the Tinkers' Union, but who cares, right? There's nothing like the races!",
+  "files": [
+   "quests/1178-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "c7f23054f6f1",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Gazlowe",
+  "quest": "Goblin Sponsorship",
+  "en": "Back to what you came here about. I know I promised Pozzik that I'd deliver a new fuel regulator for him, but I still haven't received it yet. Revilgaz over in Booty Bay said he'd have it shipped over, but it might be it slipped through the cracks somehow.\n\nIf that's true, there's not much we can do about it. We can at least find out if it was dispatched from Booty Bay.\n\nCheck in with Wharfmaster Lozgil over there, he should be able to check the cargo records.",
+  "files": [
+   "quests/1180-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "d788c41c7122",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Pozzik",
+  "quest": "Goblin Sponsorship",
+  "en": "Our racing team is the pride of goblins everywhere. You'd be surprised at some of the people who contribute in one way or another to our team.\n\nYou know Gazlowe? He tracks down parts from around the world for us. He even came down to work on one of our rigs once!\n\nA few weeks ago, he said he'd send us a new prototype fuel regulator but it hasn't come yet. He's usually very prompt... Maybe you wouldn't mind going to Ratchet to ask him about it? I wouldn't be so pushy, but the gnomes are gaining on us!",
+  "files": [
+   "quests/1178-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "015972054a3f",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Pozzik",
+  "quest": "Goblin Sponsorship",
+  "en": "I was hoping that it would be already assembled, but this does present the unique opportunity to improve on the design from the ground up. Thanks, adventurer. I'll be able to sketch up some improved schematics, build the thing, and have it installed real soon.",
+  "files": [
+   "quests/1183-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "5944a8f02db9",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wharfmaster Lozgil",
+  "quest": "Goblin Sponsorship",
+  "en": "Shipments to Ratchet? Let me just check the logbooks...\n\nNo, the most recent shipment I have on record of going out to Ratchet were boots from Drizzlik. Hasn't been much else, other than building supplies and tools. Definitely no race parts.",
+  "files": [
+   "quests/1180-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "757de6cb9bf1",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wharfmaster Lozgil",
+  "quest": "Goblin Sponsorship",
+  "en": "I'm afraid I can't be of much more help to you, adventurer. If you'd like to follow up on it more, I'd suggest you go hit up the Baron himself. If there's anyone who knows Revilgaz's business, it's Revilgaz.\n\nYou'll find him at the tavern across the harbor, top floor.",
+  "files": [
+   "quests/1181-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "db685c3a9ec2",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Cliffwatcher Longhorn",
+  "quest": "Grimtotem Spying",
+  "en": "Adventurer, you have served us well in the past, so I now entrust to you an important mission. The Grimtotem Clan is up to something secretive. Three agents of unknown origin were seen visiting the Grimtotem over the recent weeks. We discovered that separate chests in Darkcloud Pinnacle hold these guarded messages.\n\nAdventurer, if you succeed in this dangerous mission, I will reward you in kind.",
+  "files": [
+   "quests/5064-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "83bca70a5f3f",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Cliffwatcher Longhorn",
+  "quest": "Grimtotem Spying",
+  "en": "Great Spirit Totem! This is dire news indeed. I must begin to plan for whatever may come.\n\nAdventurer, as promised, here is your reward for your brave service.",
+  "files": [
+   "quests/5064-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "c7ada6dbe0e3",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Wizzle Brassbolts",
+  "quest": "Hardened Shells",
+  "en": "My brother is working on a new fuel for his rocket car. He's brilliant, he really is. So brilliant that... I think that new fuel he's designing is strong enough to eat right through the car's chassis!\n\nI want to reinforce its fuel tanks before that happens.\n\nThe tortoises out on the flats have very hard shells. I want to use them to create new tanks for our rocket car. Tanks that can hold my brother's new fuel.\n\nYou look responsible enough. Will you get me those shells?",
+  "files": [
+   "quests/1105-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "0cf98669ae6a",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Wizzle Brassbolts",
+  "quest": "Hardened Shells",
+  "en": "You got them! Thanks, Adventurer!\n\nWow, these shells are harder than I thought! Heh, when I work with them I'll probably bend a whole box full of tools!",
+  "files": [
+   "quests/1105-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "f3ea9e431801",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hemet Nesingwary",
+  "quest": "Hemet Nesingwary",
+  "en": "Great, my package from Koalbeard! Thank you Adventurer. This crate holds special-gauge ammunition, and it'll serve us well out in the jungle!\n\nHere's your pay, and tell me, how is crusty old Kravel these days? Still up to no good I'd wager...",
+  "files": [
+   "quests/5762-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "f7a9fecea0ac",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kravel Koalbeard",
+  "quest": "Hemet Nesingwary",
+  "en": "I have a package for an old customer of mine, a dwarf named Hemet Nesingwary. The package took weeks to arrive, and Hemet's long gone by now. He said he was going to Stranglethorn to hunt the beasts there, but he left me some money to send his delivery when I could. \n\nHemet's a rich dwarf and it's a good idea to keep up relations with the rich ones, yeah? So... you want to deliver the package for me?\n\nI heard Hemet has a camp in Stranglethorn, north of Grom'gol.",
+  "files": [
+   "quests/5762-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "59f5dd880975",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Motega Firemane",
+  "quest": "Homeward Bound",
+  "en": "What!? If I knew that Pao'ka Swiftmountain was going to snoop around Highperch, I would have chained him to a totem! His father was reluctant allowing him to come with me to Thousand Needles. We came here to study the different creatures that inhabit these beautiful lands.\n\nI appreciate the help you have shown Pao'ka. I hope this covers any misfortunes this deed has cost you.",
+  "files": [
+   "quests/4770-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "c4c56c8228d0",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Pao'ka Swiftmountain",
+  "quest": "Homeward Bound",
+  "en": "Please help me, adventurer! I've been hiding here in Highperch for some time now and it's been days since I've seen a friendly face. I came here to study the wyvern and I think I got a little too close. After being chased away from one of the nests I got lost.\n\nI need to get back to Whitereach Post! Motega does not know that I am missing and will be furious to know that I ventured into Highperch by myself.\n\nWhitereach Post is just east of here... please take me there!",
+  "files": [
+   "quests/4770-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "4273ca3dc1d1",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wizlo Bearingshiner",
+  "quest": "Hypercapacitor Gizmo",
+  "en": "I am the only survivor from our caravan attack by the centaur! A rare yet mighty panther is guarding my best gizmo, which is around his neck. Hah! Even the centaur tremble in the presence of this ferocious beast!\n\nHere is the key to the cage. They took everything there, but left him alone. Slay this beast and bring back my hypercapacitor, and I shall reward you.\n\nThe wrecked caravan is just north of here.",
+  "files": [
+   "quests/5151-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "e38279eafe97",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wizlo Bearingshiner",
+  "quest": "Hypercapacitor Gizmo",
+  "en": "My hypercapacitor! This will keep me busy for a while until I can figure out what it does...",
+  "files": [
+   "quests/5151-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "d0f21a3f7cce",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Martek the Exiled",
+  "quest": "Indurium",
+  "en": "Now let's heat up these flakes...",
+  "files": [
+   "followup/1501-orc-male-standard"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "ca0668771117",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Martek the Exiled",
+  "quest": "Indurium",
+  "en": "So far they're holding. Let's turn up the heat...",
+  "files": [
+   "followup/1502-orc-male-standard"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "81b8455fffb2",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Martek the Exiled",
+  "quest": "Indurium",
+  "en": "By Orgrim! This indurium can withstand massive heat!",
+  "files": [
+   "followup/1503-orc-male-standard"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "e82eb7ee95af",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Martek the Exiled",
+  "quest": "Indurium",
+  "en": "A successful test! adventurer, this indurium is some amazing stuff.",
+  "files": [
+   "followup/1504-orc-male-standard"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "5527e907b9f6",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Martek the Exiled",
+  "quest": "Indurium",
+  "en": "I'm not out here just to stay away from people. There is a wealth of metal in the Badlands, Adventurer, if you have the guts to get it.\n\nThe metal's called indurium and as luck would have it, it is rumored to possess high resistance to heat and stress. It might work for Fizzle's car.\n\nBut let's make sure. Get me samples of indurium and I'll test its properties.\n\nTrue indurium ore lies deep in Uldaman, but the Stonevault troggs of the Badlands sometimes have flakes of it on them. Bring me those flakes.",
+  "files": [
+   "quests/1108-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "77d2f14b103f",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Martek the Exiled",
+  "quest": "Indurium",
+  "en": "Ah yes, these will do fine. Now let's put them in some heat and see how they fare...",
+  "files": [
+   "quests/1108-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "5059ecd4b91a",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Pozzik",
+  "quest": "Indurium Ore",
+  "en": "Excellent! I'll get the crew to work right away on the parts we'll need for the next race.",
+  "files": [
+   "quests/1192-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "464aa400fbc0",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Pozzik",
+  "quest": "Keeping Pace",
+  "en": "The Brassbolts brothers have discovered a new building material, that's the only explanation that makes sense. Their cars have been operating faster than before, but their designs, and all the other data we've gathered from their runs is identical.\n\nWhat we do know, is that Rizzle Brassbolts has been focused on the plans for this new discovery almost constantly.\n\nZamek can create a diversion for you, so that you can steal those plans from them.",
+  "files": [
+   "quests/1190-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "122d792d97d1",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Rizzle's Unguarded Plans",
+  "quest": "Keeping Pace",
+  "en": "Scribbled in a hasty, hurried hand, a scroll of notes and designs for the refinement of some raw material.",
+  "files": [
+   "quests/1190-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "5d92278a1f7e",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Pozzik",
+  "quest": "Load Lightening",
+  "en": "Okay, crew. Get to work on getting these bones installed.",
+  "files": [
+   "followup/1526-goblin-male-zany"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "e258add9a42b",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Pozzik",
+  "quest": "Load Lightening",
+  "en": "When it comes to racing, every bit counts! Whether it's a minor tweaking on the power output, a slight slackening on the tension coils, or lightening the weight of the frame, you have to take everything into account.\n\nWe use vulture bones for a lot of the minor structural tweaks we make to our racers, which offer the perfect balance of strength and weight. Even better, it's easy for us to get more, as the salt flats are littered with vultures.\n\nBring me some and I'll give you a good price on them.",
+  "files": [
+   "quests/1176-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "a55ed6234b73",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Pozzik",
+  "quest": "Load Lightening",
+  "en": "Great! I can get the crew working on this right away. Thanks, adventurer!",
+  "files": [
+   "quests/1176-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "2a1f092e8a88",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Falfindel Waywarder",
+  "quest": "Lonebrow's Journal",
+  "en": "You say you found this journal on a deceased dwarf? Give me but a moment to peruse the pages...",
+  "files": [
+   "quests/1100-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "8bd474fb0ade",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Henrig Lonebrow's Journal",
+  "quest": "Lonebrow's Journal",
+  "en": "You slowly open the weathered journal of Henrig Lonebrow....",
+  "files": [
+   "quests/1100-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "010305bbb211",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Fizzle Brassbolts",
+  "quest": "Martek the Exiled",
+  "en": "I'm developing a new engine that'll make the car go so fast! Fast enough to fly, I know it! I just need to make pistons that can handle very very heavy stress. All my trials have failed because I can't make pistons hard enough!\n\nBut there is someone who might know how.\n\nHis name is Martek the Exiled. He is a great smith and knows more about metal than anyone. Take him this letter, I know he can help!\n\nBut he's far far away -- in Azeroth, in the Badlands, in a camp, with a goblin!\n\nFind him!",
+  "files": [
+   "quests/1106-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "9c68667177ff",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Martek the Exiled",
+  "quest": "Martek the Exiled",
+  "en": "Fizzle sent you? Well that changes things! Of course I'll help you. Fizzle and his brother are two of the few people who don't want me dead!\n\nSo Fizzle wants to make pistons, eh? Pistons strong enough to take whatever stresses he has planned, and if I know Fizzle, then this new car of his is a volcano on wheels!",
+  "files": [
+   "quests/1106-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "aced36b5d2a2",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Brave Moonhorn",
+  "quest": "Message to Freewind Post",
+  "en": "Brave traveler, the centaurs have increased their attacks in this area. Freewind Post must know about this renewed harassment immediately! Seek Cliffwatcher Longhorn at Freewind Post to the southeast and give him this urgent message.\n\nBe warned, avoid the Grimtotem Clan nearby... they have been acting strange toward us lately.",
+  "files": [
+   "quests/4542-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "01ce07ce84a8",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Cliffwatcher Longhorn",
+  "quest": "Message to Freewind Post",
+  "en": "More bad news! These centaurs have gone too far! They raided one of my supply caravans and slaughtered the whole party. This is an outrage, and it will not go unpunished!",
+  "files": [
+   "quests/4542-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "cae77da7db15",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Fizzle Brassbolts",
+  "quest": "News for Fizzle",
+  "en": "Astounding! So then indurium is the key!",
+  "files": [
+   "followup/1496-gnome-male-young"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "8f5ccdbb82f8",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Fizzle Brassbolts",
+  "quest": "News for Fizzle",
+  "en": "Adventurer, you're back! You found Martek? You spoke with him? What did he say? Can he help??\n\nTell me, tell me, tell me!!",
+  "files": [
+   "quests/1137-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "6681c8bdf2fc",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Martek the Exiled",
+  "quest": "News for Fizzle",
+  "en": "Indurium has an amazing resistance to heat! I'm sure it will work for Fizzle's pistons. But he'll need true indurium ore, not just the flakes.\n\nTo get the ore, it must be mined from deep within Uldaman, on the northern borders of the Badlands. That is the true source of indurium.\n\nSend Fizzle Brassbolts my regards, and tell him what I told you.\n\nSafe travels, Adventurer. And it won't surprise me if we meet again -- once Fizzle learns of indurium he'll probably send you to Uldaman to acquire it!",
+  "files": [
+   "quests/1137-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "2f1b431e3a2e",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Cliffwatcher Longhorn",
+  "quest": "Pacify the Centaur",
+  "en": "Adventurer, I entreat you to hunt these centaur down. They shall feel the wrath of our revenge. Attack the centaur camp to the north of Freewind Post! Let wrath guide your hand!",
+  "files": [
+   "quests/4841-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "819925ef8062",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Cliffwatcher Longhorn",
+  "quest": "Pacify the Centaur",
+  "en": "For my gratitude, this is for you, adventurer.",
+  "files": [
+   "quests/4841-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "e4c9dd48365c",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Kimberly Grant",
+  "quest": "Packaged Pristine Pelts",
+  "en": "This is from our sister? We hadn't heard from her in some time. I hope she is doing well.\n\nMy, these pelts have such a beautiful color of fur! Kelly and I will make sure we put these to good use.\n\nThank you for making the long journey. It is good to know Kristy is still doing well and is thinking of us.",
+  "files": [
+   "quests/98156-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "93f8b930f81d",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Kristy Grant",
+  "quest": "Packaged Pristine Pelts",
+  "en": "Adventurer, you have been so helpful to me I hate to ask for yet another favor. It will be some time until I am able to return home to Stormwind. I was wondering if you would mind delivering these pelts to my sisters in my stead?\n\nI am sure you are more likely to return there before I am able to. Please deliver these pelts to my sisters Kelly and Kimberly in Stormwind. They can usually be found in the Park.",
+  "files": [
+   "quests/98156-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "60e8aa954d58",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kravel Koalbeard",
+  "quest": "Parts for Kravel",
+  "en": "There, that should do it...",
+  "files": [
+   "followup/1478-dwarf-male-grim"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "b3ff45277e85",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kravel Koalbeard",
+  "quest": "Parts for Kravel",
+  "en": "Great, you got them! Now we need to get them to the gnomes. But first...\n\nLet's take out one small item...",
+  "files": [
+   "quests/1112-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "6dd14af84063",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wharfmaster Dizzywig",
+  "quest": "Parts for Kravel",
+  "en": "Here's Kravel's package, Adventurer. And when you deliver it, tell him... if he wants more special orders, then he'll have to pay his tab!",
+  "files": [
+   "quests/1112-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "62a014016656",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Belgrom Rockmaul",
+  "quest": "Parts of the Swarm",
+  "en": "I'm appreciative of your efforts, adventurer. The warchief will enjoy hearing how tenacious you have been in your duties.\n\nOh, of course I will mention your name to him. He speaks to me often and values my opinions greatly.\n\nGo now, I have much to do. And if you speak to Korran soon, and he has news of these creatures, then return to me--I would think they are a threat that must be taken seriously.",
+  "files": [
+   "quests/1184-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "1d62e584638c",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Cracked Silithid Carapace",
+  "quest": "Parts of the Swarm",
+  "en": "You inspect the carapace carefully. As you turn it over in your hands you realize that the chitinous plating is interlaced in such a way that makes it incredibly strong. It's unlike anything you've ever seen. You inspect the rest of the corpse further and realize that these creatures are very powerful and highly evolved.\n\nLooking down at the carapace again, you think that Korran would enjoy studying more of these creatures. It could help him figure out what these creatures are, and where they come from.",
+  "files": [
+   "quests/1148-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "01a2f3eda4b4",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Korran",
+  "quest": "Parts of the Swarm",
+  "en": "Ahh, you've seen Moktar recently? He always be lookin' out for me. I'm sorry to hear he spends his time watching over his little war band instead of seeing battle, but I'm sure he be takin' great joy in killing members of the Explorers' League.\n\nYou be smart to bring me these specimens, Adventurer. Along with the eggs we be findin' in the Field of Giants, these should give me a good start in figuring out what these insects are, and what they be wantin'.",
+  "files": [
+   "quests/1148-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "3313e3aab481",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Korran",
+  "quest": "Parts of the Swarm",
+  "en": "Head back to Belgrom in Orgrimmar and tell him Moktar be doing his bidding well out in the Thousand Needles. Tell him also, that me studies progress, and I hope to be havin' learned more soon. That should please him greatly.",
+  "files": [
+   "quests/1184-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "d55dcec51779",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Kristy Grant",
+  "quest": "Pristine Pesterhide Pelts",
+  "en": "Thank you, Adventurer! These hides are in perfect condition. I can't imagine it was easy to get so many, but I am very grateful to you for your work.",
+  "files": [
+   "quests/98155-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "129c6f9bde84",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Kanati Greycloud",
+  "quest": "Protect Kanati Greycloud",
+  "en": "Here they come! Defend yourselves!",
+  "files": [
+   "followup/6149-tauren-male-elder"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "091b324c86ea",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Kanati Greycloud",
+  "quest": "Protect Kanati Greycloud",
+  "en": "But, there may be more centaur than I thought, I ask you, adventurer, to fight with me against these vile assassins.",
+  "files": [
+   "quests/4966-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "078d53145932",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Kanati Greycloud",
+  "quest": "Protect Kanati Greycloud",
+  "en": "Thank you for your help, adventurer. I couldn't have held them off without you.",
+  "files": [
+   "quests/4966-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "562a8a7a8bbf",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Razzeric",
+  "quest": "Razzeric's Tweaking",
+  "en": "Pozzik's a great mechanic, I know that, but he's afraid to just load on the firepower and grab on for the ride. Not me, though.\n\nAfter Pozzik finishes with a racer, I take a little time to put my own modifications on--you know, loosening up the controls, removing parts of the frame, and adding more juice!\n\nI ordered a seaforium booster from Shreev at the Gizmorium in Gadgetzan, but apparently the zeppelin it was being sent on crashed in Dustwallow Marsh! I gotta have it, adventurer!",
+  "files": [
+   "quests/1187-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "a8962c038890",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Razzeric",
+  "quest": "Razzeric's Tweaking",
+  "en": "Just take a look at this beauty! Fifteen pounds of solid seaforium power! Once I get this strapped on to the side of my racer, I'll be around the track so fast I'll beat the gnomes twice!",
+  "files": [
+   "quests/1187-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "edcae96e1128",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Crank Fizzlebub",
+  "quest": "Report Back to Fizzlebub",
+  "en": "It says here that the fool's stout was a success. That's good news!\n\nIf you ever want more of the stuff, then let me know and I'll have you gather more of Zanzil's Mixture.",
+  "files": [
+   "quests/1122-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "2c8bd24874aa",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kravel Koalbeard",
+  "quest": "Report Back to Fizzlebub",
+  "en": "That Fool's Stout worked great! I placed a bet on the next race, and... let's hope the crew you got drunk did a number on their car!\n\nThere's only one more task for you -- take this note back to Crank Fizzlebub in Booty Bay. He'll want to know of the successful test.\n\nAnd hopefully we can get more of that Fool's Stout for future races!",
+  "files": [
+   "quests/1122-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "17d566f96899",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Pozzik",
+  "quest": "Rizzle's Schematics",
+  "en": "Indurium? Interesting... If it is capable of resisting heat to the degree that you say, it would explain the performance increase the gnomes have displayed of late.\n\nThis sample you've brought to me will be invaluable, also. I will be able to perform some tests on this, but I'll need more for this to actually be of any use to us.",
+  "files": [
+   "quests/1194-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "1832bbb1c417",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Rizzle's Unguarded Plans",
+  "quest": "Rizzle's Schematics",
+  "en": "Rizzle's schematics describe the process of the refinement of indurium ore. From his scrawls, it is apparent that indurium ore is being obtained from the dwarven excavation site of Uldaman in the Badlands.\n\nMuch of the other notes relate to the heat resistant properties.\n\nUsed as a paperweight for the plans is a hunk of what appears to be unrefined indurium ore.",
+  "files": [
+   "quests/1194-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "62cc7e5e5c8c",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kravel Koalbeard",
+  "quest": "Rocket Car Parts",
+  "en": "Heh heh, with all the races they're running here, it's no surprise that a few mishaps happen along the way. If you look around the Shimmering Flats then you'll see evidence of past crashes -- scraps of rocket car parts are littered everywhere!\n\nAnd those parts are worth money to the gnomes and goblins. They're always looking for more contraptions to slap onto their cars.\n\nSo go out and get me parts. Bring me a heap and I'll pay you well.",
+  "files": [
+   "quests/1110-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "a0e219c6a2a7",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kravel Koalbeard",
+  "quest": "Rocket Car Parts",
+  "en": "Whoa, look at all that! There's some good stuff in that heap of junk. I'm sure I can pawn it off for a hefty sum.\n\nAnd... is that an ear I see squashed between those two sheets of metal?? Ouch! Heh, I sure wouldn't want to be that pilot!\n\nThanks, Adventurer. Here's your pay. And here's some advice, free of charge...\n\nIf you look hard enough, you can always find profit in someone else's tragedy.",
+  "files": [
+   "quests/1110-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "ec4826a8b8b5",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kravel Koalbeard",
+  "quest": "Rumors for Kravel",
+  "en": "Hahah! adventurer, you make quite a partner!",
+  "files": [
+   "followup/1481-dwarf-male-grim"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "9293c8f19a05",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kravel Koalbeard",
+  "quest": "Rumors for Kravel",
+  "en": "Well well! This is interesting... very interesting. Heh, perhaps I should bow to the goblin pilot the next time I see him.\n\nThis is worth plenty, Adventurer. I'm sure Nazz will pay a small fortune to keep his secret... a secret.",
+  "files": [
+   "quests/1117-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "91a90a9e6d89",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Krazek",
+  "quest": "Rumors for Kravel",
+  "en": "I had to use some of my favors, and gave away a rare bottle of elven wine, and did some heavy deducing myself! But I found the information you seek.\n\nHere, I wrote a letter with some very interesting bits on our friend, Nazz Steamboil. Do with it what you will -- it's too dangerous for me to use.\n\nJust don't tell anyone where you got it!",
+  "files": [
+   "quests/1117-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "49257c7b857e",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Motega Firemane",
+  "quest": "Sacred Fire",
+  "en": "Arikara is a deadly creature that must be dealt with swiftly. In order to hunt her down you will need to light the sacred fire of life - this will summon Arikara.\n\nGo now and harvest the rare Incendia agave plant. Once you have harvested enough agave, seek council with Magatha Grimtotem on Elder Rise in Thunder Bluff. She is a powerful shaman that can enchant the agave plant to create a powder that will light the fire.\n\nTravel northeast to the Boiling Pool and gather Incendia Agave.",
+  "files": [
+   "quests/5062-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "09d6f0bd1035",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Razzeric",
+  "quest": "Safety First",
+  "en": "But wait, what's this? Shreev left the safety on. That will limit the amount of power I can draw from the booster at any time. I told him I wanted it off! This is no good.\n\nYou have to take this to the Gadgetzan Gizmorium in the Tanaris Desert and have Shreev remove this.",
+  "files": [
+   "quests/1188-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "91d8a81ab38c",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Razzeric",
+  "quest": "Safety First",
+  "en": "Now that's more like it! I wish I could see the look on the gnomes' eyes when they see me set this baby off.\n\nToo bad I'll be too busy pulling off a new course record!",
+  "files": [
+   "quests/1189-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "7f97e2396705",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Shreev",
+  "quest": "Safety First",
+  "en": "Only Razzeric would take a look at this and say that I'd somehow put some sort of safety lock on it. This booster is almost completely seaforium explosives. I already modified it so that more of its payload would be delivered upon use, but Razzeric is never content unless he goes to eleven!",
+  "files": [
+   "quests/1188-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "c12417c3d597",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Shreev",
+  "quest": "Safety First",
+  "en": "There, I did what Razzeric wanted. Just tell him to be careful when he sets this off. If he makes the slightest mistake, he won't be moving forward, he'll just be a burnt spot on the track.\n\nWould be a shame, too, if that happened. Who knows if our nineteenth driver would be any good?",
+  "files": [
+   "quests/1189-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "cbb54e15f806",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Fizzle Brassbolts",
+  "quest": "Salt Flat Venom",
+  "en": "I have so many designs for our rocket car! So many! And I must try them all!!\n\nI'm working on a new type of fuel. One that burns really really really hot!! I haven't gotten the mixture perfect, but I think I know what I need...\n\nThe scorpids who wander the Shimmering Flats have a venom with lots and lots of salt in it. It's very unique! And it's just what I need!\n\nBring me venom and trust me -- our car will fly!!",
+  "files": [
+   "quests/1104-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "f372eb50410d",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Fizzle Brassbolts",
+  "quest": "Salt Flat Venom",
+  "en": "All right! This venom is going to work great! Thanks, Adventurer!\n\nNow I just need to boil it down, apply skipper-otomer, add a nega-catalyst, and... Drat! Where are my notes!?",
+  "files": [
+   "quests/1104-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "c1499bcf25d0",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Hagar Lightninghoof",
+  "quest": "Serpent Wild",
+  "en": "If I did not see that with my own eyes I would never have believed it to be true. Vengeance has come to Thousand Needles!\n\n\nAdventurer, you must act quickly! Go now and seek out Motega Firemane; he is located at Whitereach Post just northwest of Freewind Post along the road. He will know what to do!",
+  "files": [
+   "quests/4865-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "e7073f12fb9d",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Motega Firemane",
+  "quest": "Serpent Wild",
+  "en": "Vengeance! So, the legend of Arikara is true. Indeed, this is a problem that must be resolved immediately.",
+  "files": [
+   "quests/4865-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "60d85c379902",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Dorn Plainstalker",
+  "quest": "Test of Endurance",
+  "en": "I'm pleased to see your courage remains steadfast in light of what you've already done. Since your faith is intact, the time has come to test your body.\n\nFirst is a test of endurance. Go with friends to the Roguefeather Den west of Freewind Post. Make your way to the depths of their lair and destroy their foodstuffs. By then you should have provoked their fury, and if you are able to survive long enough, Grenka Bloodscreech herself will come for you--kill her and bring me her claw to complete your test.",
+  "files": [
+   "quests/1150-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "84cd10e7e5d1",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Dorn Plainstalker",
+  "quest": "Test of Endurance",
+  "en": "Grenka was powerful, even by traveler standards. You should be proud of your accomplishment this day.\n\nDuring your test of faith you displayed strength of spirit, and now you have shown endurance in battle by taking on the Roguefeather harpies, but the time has come for a new test.",
+  "files": [
+   "quests/1150-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "4423e2f2c3fc",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Dorn Plainstalker",
+  "quest": "Test of Faith",
+  "en": "Until we meet again, brave one.",
+  "files": [
+   "followup/1589-tauren-male-shaman"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "79b6136e9e12",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Dorn Plainstalker",
+  "quest": "Test of Faith",
+  "en": "So, you have sought me out, or perhaps destiny brings you to me? No matter. You are here now, and so your journey will begin anew.\n\nMany facets make up a being: the spirit, the body, the mind. Some of these can be measured by a culture's traditions. Others we can only hope exist within ourselves. If you agree, I shall test some of the facets within you.\n\nIf you pass, then you shall become stronger. If you fail, then you will realize the vastness of the Nether.\n\nThe first is a Test of Faith.",
+  "files": [
+   "quests/1149-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "7d84c2699fdb",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Dorn Plainstalker",
+  "quest": "Test of Faith",
+  "en": "It is not until faced with unforeseen adversity that we begin to see how strong our spirits are. You took the leap of faith even though you had no guarantees that you would survive. Your mind is open, and your spirit is prepared for what is to come.\n\nIf you are willing, then the next of your tests is ready.",
+  "files": [
+   "quests/1149-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "ad9d4eddf970",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Braug Dimspirit",
+  "quest": "Test of Lore",
+  "en": "The days and nights grow colder throughout the world as goblins rape the land, and the night elves point fingers at the younger races. The Forsaken and orcs are not the only ones to blame for the hardships found throughout Kalimdor and Lordaeron. Many of the intelligent races have contributed to the world's pain. Dorn knows this, and he has sent you to me because you have shown the attributes necessary to realize it also.\n\nNow you stand before Braug.",
+  "files": [
+   "quests/1152-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "13bce2d5857b",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Braug Dimspirit",
+  "quest": "Test of Lore",
+  "en": "You have passed Dorn's tests, and now you seek to pass your next trial. Very good. But up until now, your challenges have been childish. It is easy to test your body--your mind is another matter completely.\n\nI shall explain it simply: find the book I name, study it, and answer my question about its contents.\n\nWhat book, you must be asking? The Legacy of the Aspects. It can be found at the bottom of Dor'danil in southern Ashenvale, protected by the dead druids and their slayers.",
+  "files": [
+   "quests/1154-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "4e1e785819a6",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Braug Dimspirit",
+  "quest": "Test of Lore",
+  "en": "This is the book I named. There is hope you will answer my question correctly then... unless you've forgotten to study its contents.\n\nWhen you are prepared, speak to me again and I shall ask a question of you.",
+  "files": [
+   "quests/1154-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "d199e1deee4a",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Braug Dimspirit",
+  "quest": "Test of Lore",
+  "en": "Well done, Adventurer. You have passed the first portion of the Test of Lore, but there is still another question to be answered. But that question is not mine to ask.\n\nSeek out Parqual Fintallas in Lordaeron City. He was a great historian for the humans before the Plague overtook him. Now he continues to seek enlightenment, but of a different nature.\n\nHe will have another requirement of you before he asks you anything, but you have done masterfully thus far--I'm sure you will overcome his obstacle.",
+  "files": [
+   "quests/1159-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "f29e4cdfaaef",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Braug Dimspirit",
+  "quest": "Test of Lore",
+  "en": "You have brought me the book, and now it is time for your question. Are you ready?\n\nTime is not an issue, adventurer, so do not feel pressured. You may take as long as you like to answer.",
+  "files": [
+   "quests/6627-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "33f8f0c91432",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Braug Dimspirit",
+  "quest": "Test of Lore",
+  "en": "Well done, adventurer. You have studied the text I asked you to, and now you have passed another of our tests.",
+  "files": [
+   "quests/6627-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "23c4db573dd7",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Dorn Plainstalker",
+  "quest": "Test of Lore",
+  "en": "Your time with me is just about finished. I am knowledgeable, but the Test of Lore is not mine to give. There are lessons to be learned and places to visit that others claim domain over.\n\nIf you are prepared, then seek out Braug Dimspirit--he is a shaman of great wisdom. He will test you further, so heed his words, Adventurer.\n\nWhen you are ready, find the tunnel that connects the Stonetalon Mountains with Ashenvale: Braug dwells near there. And be careful, Adventurer, the night elves may wish to impede your test.",
+  "files": [
+   "quests/1152-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "b101ef512082",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Parqual Fintallas",
+  "quest": "Test of Lore",
+  "en": "Braug sent you? Impossible.\n\n\nBraved Dor'Danil, took a leap of faith, fought and overpowered a powerful elemental? Bah! You're probably a farce; some adventurer that overheard talk in a tavern. And now you think you have what it takes to pass my test. So be it... adventurer.",
+  "files": [
+   "quests/1159-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "2bc8cef42ceb",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Parqual Fintallas",
+  "quest": "Test of Lore",
+  "en": "So the time is once again upon us. As a student of lore, you have shown great tenacity by undertaking my task.\n\nAnd so now I offer you your question. If you are ready, speak to me again, and take all the time you need, Adventurer--there is no pressure to answer quickly.",
+  "files": [
+   "quests/6628-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "5c8cd167f62a",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Parqual Fintallas",
+  "quest": "Test of Lore",
+  "en": "Well done, Adventurer. I had my doubts if you studied the text I asked you to get, but you've answered correctly.",
+  "files": [
+   "quests/6628-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "1d1bfa99591b",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Dorn Plainstalker",
+  "quest": "Test of Strength",
+  "en": "During the time of the Old Gods, elementals inhabited much of this world. They worshipped the Old Gods, and the Gods, through their power, kept the elementals bound to this world. When the Old Gods were banished, the elementals faded from our world and now only return at the bidding of powerful mages.\n\nThere are exceptions though. Some elementals were powerful enough to remain here on their own. One such elemental is Rok'Alim.\n\nTo test your strength, find Rok'Alim in Thousand Needles and slay him.",
+  "files": [
+   "quests/1151-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "01847b51f51b",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Dorn Plainstalker",
+  "quest": "Test of Strength",
+  "en": "The Test of Strength is done. You have shown strength and bravery, and you are now prepared for the final test before these rites are completed.",
+  "files": [
+   "quests/1151-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "316fd2ac9a0a",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Klockmort Spannerspan",
+  "quest": "The Brassbolts Brothers",
+  "en": "Have you met the Brassbolts brothers? They're over in the Shimmering Flats, in Kalimdor, racing their rocket car against the goblins. They usually win which is no surprise--the goblin car blows up so much it barely ever crosses the finish line!\n\nBut even then, the Brassbolts brothers are always looking for new ways to make their car go faster, and Wizzle told me he needs a very rare component for his next experiment.\n\nHe probably needs help getting that part. Speak to him and find out.",
+  "files": [
+   "quests/2769-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "ec95f93653f4",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Pilot Longbeard",
+  "quest": "The Brassbolts Brothers",
+  "en": "You ever heard of the Shimmering Flats? It's a stretch of salt flats way over in Kalimdor, just south of the Thousand Needles canyon. It's a great place for racing because, well, it's so flat!\n\nA couple of gnome brothers are out there, friends of mine, trying out their new rocket car, and from what I hear it's fast! Heh, so fast that their pilots keep crashing. Giving themselves concussions.\n\nSo they asked me for some Siege Engine helmets, but I have duties here. I can't make the trip!\n\nCan you?",
+  "files": [
+   "quests/1179-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "4371751a7cbb",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Wizzle Brassbolts",
+  "quest": "The Brassbolts Brothers",
+  "en": "Thanks for the helmets, adventurer. These will really reduce our medical bills...",
+  "files": [
+   "followup/1527-gnome-male-zany"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "0dcec5b8d26a",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Wizzle Brassbolts",
+  "quest": "The Brassbolts Brothers",
+  "en": "Ah! Longbeard sent you with a load of helmets! Hooray!\n\nNow maybe we can talk a pilot into driving our car...",
+  "files": [
+   "quests/1179-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "0cb2b6f0ac9e",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Wizzle Brassbolts",
+  "quest": "The Brassbolts Brothers",
+  "en": "Ah, you want to help me? Great!\n\nThere's a part I want for an experiment I'm working on, and I need a brave adventurer like you to help me get it!",
+  "files": [
+   "quests/2769-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "97e0e9e605a8",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Pozzik",
+  "quest": "The Eighteenth Pilot",
+  "en": "I'm going to be busy with working on integrating this new fuel regulator to our racer designs, but if you'd like to help out the team some more, talk to Razzeric. He's our pilot--well, our eighteenth pilot, to be exact--and he likes to add his own little modifications to the racers.\n\nHe's a little off his rocker, though, so try not to act too surprised.",
+  "files": [
+   "quests/1186-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "1e8aea28548f",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Razzeric",
+  "quest": "The Eighteenth Pilot",
+  "en": "You're the traveler that's been helping Pozzik out, right? I was like you once, running around the pit area, helping with whatever work the mechanics would let me do.\n\nNow look at me! The goblin racing team's pilot extraordinaire!",
+  "files": [
+   "quests/1186-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "8ad76dc4491b",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kravel Koalbeard",
+  "quest": "The Rumormonger",
+  "en": "Now that we've done a service for the gnomes, it's time to do the goblins a favor! \n\nI hear that the goblin racer pilot, Nazz Steamboil, didn't always use that name. I wonder why he changed it. I wonder if it's a secret, and... I wonder if he values that secret.\n\nIf anyone knows the truth, then it's Krazek of Booty Bay, on the southern tip of Stranglethorn. Speak with Krazek and ask him about our goblin pilot.\n\nIf you can get useful information from him, then we might just turn a profit from it.",
+  "files": [
+   "quests/1115-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "f219f04ba31f",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Krazek",
+  "quest": "The Rumormonger",
+  "en": "You want to know about Nazz Steamboil? He's a racer pilot out in the Shimmering Flats, isn't he?\n\nYeah, I might be able to find something out about him... but it won't be easy. Or fast.\n\nOr cheap.",
+  "files": [
+   "quests/1115-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "b977a2418cdd",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Moktar Krin",
+  "quest": "The Swarm Grows",
+  "en": "Hmm. Seems Belgrom thinks those monsters are a threat. He wants them pushed back into whatever depths they crawled up out of.\n\nI guess killing the dwarves sent by the Explorers' League wasn't enough--now I have to send a half-dead war party into another battle. We won't be able to do it ourselves; not while we're in this condition. The dig site's to the south of here. There shouldn't be anymore dwarves to deal with. Feel up to wielding a blade or staff and doing your part to aid us?",
+  "files": [
+   "quests/1147-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "e63a568b6002",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Moktar Krin",
+  "quest": "The Swarm Grows",
+  "en": "Ha! That ichor you're covered in actually makes you prettier, Adventurer! It certainly does make you reek at the same time though. Don't stand too close to the kodo; you'll either start a stampede or cause them to go into heat.\n\nI think my companions would agree that your smell alone is proof you've done your part to help us against those insect creatures. Thank you, Adventurer.",
+  "files": [
+   "quests/1147-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "ab7c0bae51a0",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Cliffwatcher Longhorn",
+  "quest": "Wanted - Arnak Grimtotem",
+  "en": "Hah! Well, this is excellent news! I was starting to think that he would never be brought to justice!\n\nHere you are, Adventurer... and thanks. News of Arnak's foul deeds boiled my blood!",
+  "files": [
+   "quests/5147-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "463409e0a19b",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wanted Poster - Arnak Grimtotem",
+  "quest": "Wanted - Arnak Grimtotem",
+  "en": "Wanted: Arnak Grimtotem\n\nArnak the outcast is wanted for the heinous crimes of murder and kidnapping. Handsome rewards will be given to those brave enough to bring this criminal to justice.\n\nArnak was last seen on the cliffs near the Darkcloud Pinnacle. Show the proof of your deed to Cliffwatcher Longhorn in Freewind Post in order to claim the reward.",
+  "files": [
+   "quests/5147-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "f8917b90bfc5",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kravel Koalbeard",
+  "quest": "Wharfmaster Dizzywig",
+  "en": "I make it my job to get people what they need, and the gnomes over there need a parts order filled. Their parts were shipped to Ratchet a week ago, but I haven't been able to make the trip.\n\nSo, are you ready for some legwork? Go to Ratchet and give this parts order to Wharfmaster Dizzywig -- he'll probably be at the docks.\n\nDo this for me, and I'll have more jobs for you.\n\nJobs, my friend, with serious profit potential...",
+  "files": [
+   "quests/1111-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "53a8807c6565",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wharfmaster Dizzywig",
+  "quest": "Wharfmaster Dizzywig",
+  "en": "Oh yes. Parts for Kravel. I'm glad you're here. These things have been sitting out here for days, and I was afraid they'd rust!",
+  "files": [
+   "quests/1111-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "51d76038c597",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elu",
+  "quest": "Wind Rider",
+  "en": "I've been tasked to recruit more wyverns for the master wind riders. Their numbers are growing and I myself hope to become a wind rider one day. However, we cannot train enough wyverns to keep up with the demand. Perhaps you can help me, Adventurer.\n\nI need you to travel to Highperch to gather some wyvern eggs. From here, head northwest along the canyon walls to a ramp that will lead you into Highperch. Be careful, wyverns are very protective over their eggs and they will not be kind to intruders.",
+  "files": [
+   "quests/4767-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "14c8dcffeec1",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Elu",
+  "quest": "Wind Rider",
+  "en": "Perfect! With these eggs I hope to take the next step to become a wind rider. Here is a token of my appreciation; may good hunting always shine upon you, Adventurer.",
+  "files": [
+   "quests/4767-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "2ad263a6575b",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Zamek",
+  "quest": "Zamek's Distraction",
+  "en": "Let's go!",
+  "files": [
+   "quests/1191-complete"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "995aaa6cac27",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Crank Fizzlebub",
+  "quest": "Zanzil's Mixture and a Fool's Stout",
+  "en": "I figured out how to use Zanzil's mixture with stout to make a powerful libation. A Fool's Stout. I think it'll be just what Kravel needs, but try it out and let me know how it works.\n\nAnd Adventurer, don't keep this stuff too long without using it. Zanzil's mixture has a weird effect on the stout's yeast, kicking it into high gear. So it won't stay fresh forever.",
+  "files": [
+   "quests/1119-accept"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "509bc7ded882",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kravel Koalbeard",
+  "quest": "Zanzil's Mixture and a Fool's Stout",
+  "en": "This stout sure smells strong!",
+  "files": [
+   "followup/1489-dwarf-male-grim"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "2fa6d36fb305",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kravel Koalbeard",
+  "quest": "Zanzil's Mixture and a Fool's Stout",
+  "en": "Let's have just a small taste...",
+  "files": [
+   "followup/1491-dwarf-male-grim"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "f0e5c3131ae3",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kravel Koalbeard",
+  "quest": "Zanzil's Mixture and a Fool's Stout",
+  "en": "Wait! What am I thinking! We have a job to do with this stuff.",
+  "files": [
+   "followup/1492-dwarf-male-grim"
+  ],
+  "uiMap": 1441
+ },
+ {
+  "id": "ea8c5ad0298c",
+  "zone": "thousand-needles",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Kravel Koalbeard",
+  "quest": "Zanzil's Mixture and a Fool's Stout",
+  "en": "Wonderful! Fizzlebub came through! I'll remember that next time I see him.\n\nAnd thank you, Adventurer. You're doing a great job, and we both stand to make a lot of money from this...",
+  "files": [
+   "quests/1119-complete"
+  ],
+  "uiMap": 1441
+ }
+]

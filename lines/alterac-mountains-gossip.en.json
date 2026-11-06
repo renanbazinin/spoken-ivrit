@@ -1,0 +1,828 @@
+[
+ {
+  "id": "40f02878532e",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Arbington",
+  "quest": null,
+  "en": "Well now adventurer, let's get to work on those cauldrons! If you're going to collect the components we need, then get a vitreous focuser from me. You'll need to have it on you to identify the necessary resources found on the Scourge that will turn those cauldrons.\n\nYou'll also need a dose of arcane quickener for the cauldrons. It's not cheap, nor is it stable. Once you have it, you'll only have thirty minutes to use it before it expires on you; be smart about buying it.",
+  "files": [
+   "gossip/43c03850150a3e4e888a3fe9f7573555"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "6e4ebd27ff05",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Arbington",
+  "quest": null,
+  "en": "Based on the sample of the toxin you provided for us, we think you will need the following: an arcane quickener, six osseous agitators, and four pieces of runecloth. With the vitreous focuser in tow, acquire the agitators from skeletal undead here in the Plaguelands!\n\nOnce you have these items, you should be able to load the counter agent into that cauldron.",
+  "files": [
+   "gossip/723e3c269896ab473c0e0fd6cc82fc87"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "6cc9cd3c60e0",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Arbington",
+  "quest": null,
+  "en": "This job is definitely not worth sixteen-five a year.",
+  "files": [
+   "gossip/9f10ddfe7f58036336e7a82a8fa46da3"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "c244276a2cf7",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Arbington",
+  "quest": null,
+  "en": "Based on the sample of the toxin you provided for us, we think you will need the following: an arcane quickener, four ectoplasmic resonators, and four pieces of runecloth. With the vitreous focuser in tow, acquire the resonators from wraith and ghostly undead here in the Plaguelands!\n\nOnce you have these items, you should be able to load the counter agent into that cauldron.",
+  "files": [
+   "gossip/abd3fe4179f9ea234823347956f30f4a"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "41b75e801018",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Arbington",
+  "quest": null,
+  "en": "Based on the sample of the toxin you provided for us, we think you will need the following: an arcane quickener, five somatic intensifiers, and and four pieces of runecloth. With the vitreous focuser in tow, acquire the intensifiers from zombie or ghoul undead here in the Plaguelands!\n\nOnce you have these items, you should be able to load the counter agent into that cauldron.",
+  "files": [
+   "gossip/d3820c153c571b0cfaad41a0a05ec90b"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "2bef71464e30",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Alexia Ironknife",
+  "quest": null,
+  "en": "Greetings, adventurer. Don't have too much time to talk--I'm just using Chillwind as a camp to get some rest before heading to Hearthglen. I've heard word that before they went crazy, the Scarlet Crusade had a mage working for them who was trying to create powerful bows and guns for their soldiers. I'm not sure if he succeeded or not... the Crusade killed him before any of his finished product made it out. Maybe they killed him to keep it a secret... or maybe they distrust the arcane that much.",
+  "files": [
+   "gossip/ce388452c2e07ab97505e895497f397f"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "4bbb5438e0d4",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Lydon",
+  "quest": null,
+  "en": "We are but so close to developing the New Plague that our Dark Lady desires with such fervor.",
+  "files": [
+   "gossip/b0fb7d099f84ef48fe38ad143b5ea191"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "80bb1e6f6710",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Archmage Ansirem Runeweaver",
+  "quest": null,
+  "en": "Take care while in our city, adventurer. We are ever wary of strangers since the city was destroyed, and any untoward behavior while within this place will not be tolerated.",
+  "files": [
+   "gossip/e3ef6ffdb41ea71e7cea35307498acbf"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "87cbebf11daf",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Archmage Ansirem Runeweaver",
+  "quest": null,
+  "en": "As a member of the High Order of shen'dorei, you are most welcome here in our city, adventurer.\n\nYour leader, Elaadrin Evengale and I have had quite the correspondence these recent months. I feel that the Kirin Tor and the High Order are cut from the same cloth, always in search of answers to the greater mysteries of the world. Now more than ever, seeking said answers is vital to all of our survival.\n\nJust as you have experienced an interruption in your way of life on Zephras, the flow of magic on Azeroth has been chaotic as well. Disturbed, somehow... as if a rock has been dropped into still water, causing ripples to surge across the surface.\n\nAh, but talk of such troubles can wait for another time. For now, welcome to Azeroth.",
+  "files": [
+   "gossip/e4653f8dde9b7999a32274cf9a390b3e"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "33dcf0ec8441",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Argent Officer Pureheart",
+  "quest": null,
+  "en": "Well met, friend. I am Officer Pureheart, and I am a proud member of a world-wide organization known as the Argent Dawn. Our cause is simple - fight swifty and mercilessly against any element of evil that surfaces in Azeroth. We are not a political body, nor do we ever wish to become one. To that end we call both the Alliance and the Horde both as friends - friends in the cause of stamping out evil!\n\nFor the Dawn, my brother!",
+  "files": [
+   "gossip/m-416f0c810cb85e70c452b0f0339d2874"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "857c5eff498b",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Argent Quartermaster Lightspark",
+  "quest": null,
+  "en": "The Argent Dawn salutes you, adventurer! The name's Lightspark, and I'm an authorized equipment and materiel quartermaster for the Dawn.\n\nAs you fight evil under our commission - all the while earning our respect and trust - you'll earn valor tokens from Officer Pureheart. Tokens serve two purposes: use them to gain increased standing within our ranks, or use them as tender in acquiring special items.\n\nAs you improve your standing with the Dawn, you'll discover that more items will be made available to you.",
+  "files": [
+   "gossip/d2e97bc13412a95addc1ab18ef657784"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "2f8c86c7e682",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bibilfaz Featherwhistle",
+  "quest": null,
+  "en": "Where would you like to fly to?",
+  "files": [
+   "gossip/4a4d46597b846228dbd070932127a575"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "c13693522094",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Catalogue of the Wayward",
+  "quest": null,
+  "en": "The book tells of dragons uniting against another, more powerful dragon, named Deathwing. From what you can make out, the chromatic dragonflight had almost been unleashed upon the world. The Aspects were prepared.",
+  "files": [
+   "gossip/a39f45feb88e61fcb589760afd9818ef"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "3d5ee036f0be",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Christoph Jeffcoat",
+  "quest": null,
+  "en": "Can I show you what I have for sale?",
+  "files": [
+   "gossip/4dac483e83b8c86599de11ca55258b2c"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "93f24aa78b97",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Chromie",
+  "quest": null,
+  "en": "Hello there, Adventurer. I am known as Chronormu, but you may call me Chromie. I am comfortable with such familiarity.\n\nNow - how did I know your name, you ask? I am one of the bronze dragonflight, forever attuned to the ebb and flow of time. You could say that we have met before. To that end, we shall also meet again.\n\nI hope that my choice of visual demeanor does not disturb you; while I might be charged to be a sentry of sorrowful places, I choose not to drown in the sorrow of the locale.",
+  "files": [
+   "gossip/5fbeeb1ccae7f0a6c91aa94af815dd14"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "fa0a4bd4ac53",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Chromie",
+  "quest": null,
+  "en": "Hello once again, adventurer. I sense that the flow of time remains threatened by forces that are quite powerful indeed. Your continued assistance is always welcomed by the bronze dragonflight.\n\nWhile the past is set in its ways, the future is always changing. The decisions you make in the here and now help guide that change.",
+  "files": [
+   "gossip/a1aab080f67d3f1164b33c4dc1a8628b"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "a945044e0c4a",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Ashlam Valorfist",
+  "quest": null,
+  "en": "Welcome to the front lines, adventurer. The Kingdom of Stormwind, with the aid of its allies, has sent me here to counter the growing threat of the Scourge. Here at Chillwind Point, we fight for our continued survival on a daily basis.\n\nIf you've come here looking for a chance to prove yourself as a hero, then you'll find plenty of opportunities to do so... especially as we push towards Andorhal and whatever malign force that controls the Scourge there.",
+  "files": [
+   "gossip/7204425271757ed24a2756a3d1593f28"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "a07781bfbe7e",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Corporal Teeka Bloodsnarl",
+  "quest": null,
+  "en": "Come to learn, eh? Well I just might have some work for you, scrub.",
+  "files": [
+   "gossip/832d7cd84aaed062179a1a03bf687405"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "2ce8f08710c4",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Daryl Stack",
+  "quest": null,
+  "en": "The place is a bit drafty... but what do I care? I'm dead.",
+  "files": [
+   "gossip/63cdedde8533ba7dc21f076eea1338a3"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "f2843b2f2dfb",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Daryl Stack",
+  "quest": null,
+  "en": "Who sent you here? You're not ready for my instruction yet! You'll be told when you're ready.",
+  "files": [
+   "gossip/6628421bf475ed47d8d51a305f80ce4b"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "db02959528d5",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Daryl Stack",
+  "quest": null,
+  "en": "You're doing very well in the art of tailoring, I must admit. Now, let's see how good you REALLY are...",
+  "files": [
+   "gossip/a76e41885008445eb4f1436b07ccf3ee"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "b6923962f55c",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Fahrad",
+  "quest": null,
+  "en": "Do I look like a adventurer to you? Now run along before I feel the need to oil my blade... in your blood.",
+  "files": [
+   "gossip/398d385a4c5ff3a4608c1d2ae16a7833"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "16af3284b28b",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Fahrad",
+  "quest": null,
+  "en": "Come to learn from the master eh?",
+  "files": [
+   "gossip/ebd6fd62c633a7ae3b195e93921fd027"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "d3a9bb7824f6",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gryphon Master Talonaxe",
+  "quest": null,
+  "en": "What do you want? I'd be a whole lot happier up in the skies than grounded and yapping with a traveler right now.\n\nGuess we can't all get what we want.",
+  "files": [
+   "gossip/110a618aa8a6af2a1ccead234dc47357"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "e73a0f9db491",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "High Executor Darthalia",
+  "quest": null,
+  "en": "In order to serve the Dark Lady and Varimathras we need to advance the front on the Human Infestation.",
+  "files": [
+   "gossip/981d973c642e05e6577ae07a20a77254"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "3d9124235216",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "High Priestess MacDonnell",
+  "quest": null,
+  "en": "We are dominating the Scourge - the effects of the altered plague will affect them for at least another full day! We need to stay on top of it though, so be sure to sabotage a cauldron when you can.",
+  "files": [
+   "gossip/335dcfc9ba7e7b8a587e1d82f288ba64"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "2433acbf0113",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "High Priestess MacDonnell",
+  "quest": null,
+  "en": "The Scourge's plague still dominates the zone, and we have a long way to go before the plague will be altered enough to affect them. Collect the necessary resources and help out the war effort!",
+  "files": [
+   "gossip/58b0554b4eb137e72abec05c73e93452"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "662adb87bbfc",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "High Priestess MacDonnell",
+  "quest": null,
+  "en": "We have begun to turn the Scourge's plague against them, but our hold is tenuous at best! Be sure to aid the cause by subverting their cauldrons!",
+  "files": [
+   "gossip/a26eb8b0ce0bb0171f1b4303aac09ecc"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "b9d9c4c1837f",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "High Priestess MacDonnell",
+  "quest": null,
+  "en": "With the cauldrons breeched, we are now able to introduce the counter agent into the environment. This should give the scourge a taste of their own medicine, as it were!\n\nCheck with Alchemist Arbington on information regarding the reagents needed to use in the cauldrons. I will be handling all information reports on how we are doing overall in turning the plague against the Scourge!",
+  "files": [
+   "gossip/a399af1c21d429a0c89525c83777d4d9"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "9a3869273778",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "High Priestess MacDonnell",
+  "quest": null,
+  "en": "The Scourge's plague is almost to the turning point; a handful more cauldron subversions will push us over the top! Be sure to do your part to help out!",
+  "files": [
+   "gossip/cdbc784d0f00f4659ccee11833a3128b"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "3799a1380ee6",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "High Priestess MacDonnell",
+  "quest": null,
+  "en": "The time has come, my brother in arms, to take back the night from the Scourge!",
+  "files": [
+   "gossip/m-89e1bb2564e68691fb9f0db64f2c6d96"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "c2a4345bd7e1",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Krusk",
+  "quest": null,
+  "en": "To think, the place the Warchief was born and raised lies so close.",
+  "files": [
+   "gossip/bbea2b4b60846152a063448b58c3cfec"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "05bb9294d231",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Lieutenant Haggerdin",
+  "quest": null,
+  "en": "Hail, traveler! I am Lieutenant Haggerdin, officer in charge of recruitment for the Stormpike Guard.\n\nAs you gain prestige and notoriety among the Stormpike, return to me and I shall see about upgrading your insignia. Also, should you ever lose your insignia, I am able to supply a replacement.",
+  "files": [
+   "gossip/3df9d5b384b97d45f30cd9ba4c8d25a8"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "5126005464a2",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Myranda the Hag",
+  "quest": null,
+  "en": "Do you require an illusion?\n\nShould your illusion falter in the midst of your quest, return to me and I shall reapply the guise.\n\nShould you fail in your endeavors, do not give up! Return to me. I shall assist you until you have completed your objectives.",
+  "files": [
+   "gossip/326d109a3f8c03ee97228b860a23d901"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "2dd90e26456a",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Myranda the Hag",
+  "quest": null,
+  "en": "These are dangerous times, adventurer. Walk lightly.",
+  "files": [
+   "gossip/6010e5908eacadb88d4696fee457da3a"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "4d806069e253",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Nathaniel Dumah",
+  "quest": null,
+  "en": "Long ago, before the last great war, my father ran the Northridge Lumber Mill. It was his life, and he was committed to it. Then the war came, and as much as it pained him, we had to flee to Stormwind.\n\nWe lost a number of friends and family in the those days, and it pains me to know that the Scarlet Crusade has taken the mill for their own ends.\n\nThat's why I've returned.",
+  "files": [
+   "gossip/09280c8a100dbf6ab274fcbdf0803b69"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "5ed8e2386fd3",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Ravenholdt Assassin",
+  "quest": null,
+  "en": "Marvelous. Simply marvelous. You are an inspiration to us all, adventurer.",
+  "files": [
+   "gossip/043d2239097f1a9dd04f652e7f01f075"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "f1fed32c8474",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Ravenholdt Assassin",
+  "quest": null,
+  "en": "You dare set foot inside Ravenholdt Manor, worm?",
+  "files": [
+   "gossip/356d2f6aeda9087735082d9d27eccbf0"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "cc3048f28274",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Ravenholdt Assassin",
+  "quest": null,
+  "en": "You should talk to Winstone. I hear he's looking for thieves with your skill.",
+  "files": [
+   "gossip/6c7ad021c0414bbc450d1003829fa86b"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "225068dd6dc9",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Ravenholdt Assassin",
+  "quest": null,
+  "en": "Making it out of here without a blade in your back or poison in your veins would be an accomplishment.",
+  "files": [
+   "gossip/b56f7d7e17228c7846fd0614b535f631"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "e9348a4a3a42",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Ravenholdt Assassin",
+  "quest": null,
+  "en": "I really envy you, adventurer. You do amazing work.",
+  "files": [
+   "gossip/d6853e06cead9ccc1834d2216de22df7"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "745a437ad205",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Ravenholdt Assassin",
+  "quest": null,
+  "en": "You're shaping up nicely, adventurer. I've heard good things...",
+  "files": [
+   "gossip/e5da524ba41d32170463455cafed48e5"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "616835bf1772",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Ravenholdt Guard",
+  "quest": null,
+  "en": "An honor to see you again, adventurer.",
+  "files": [
+   "gossip/0554addc6a4f76eb2e7ded959562d585"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "0a00fdafd0ca",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Ravenholdt Guard",
+  "quest": null,
+  "en": "You have truly grown more cunning, adventurer.",
+  "files": [
+   "gossip/21bb13a7f298a61dbf47d64106d4e6ac"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "5faede6a416a",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Ravenholdt Guard",
+  "quest": null,
+  "en": "The Syndicate is made up of a bunch of hacks - disorganized, unskilled, and lazy...",
+  "files": [
+   "gossip/2d46251ef009b85c2f7a0d08c926ed85"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "292cd20cf2cc",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Ravenholdt Guard",
+  "quest": null,
+  "en": "Greetings, adventurer. Have you spoken with Fahrad yet?",
+  "files": [
+   "gossip/5fc8a171cfb31942883d032ece558b20"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "9bc927f4bff6",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Ravenholdt Guard",
+  "quest": null,
+  "en": "Brash. Master Ravenholdt does not like brash.",
+  "files": [
+   "gossip/7c18a505d74d7f81d3aa7e4a1fdefca5"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "c3ed3f822b51",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Ravenholdt Guard",
+  "quest": null,
+  "en": "Watch your back, stranger.",
+  "files": [
+   "gossip/81d62566a55e8b5a5e0eb06e933d7a75"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "927bfa2be12a",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Ravenholdt Guard",
+  "quest": null,
+  "en": "I believe Simone was looking for you earlier, adventurer. Have you spoken with her yet?",
+  "files": [
+   "gossip/d519fc238c0d5762c8390aa9c05d3188"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "67737683c0c7",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Ravenholdt Guard",
+  "quest": null,
+  "en": "Ravenholdt Manor does not recognize you, adventurer.",
+  "files": [
+   "gossip/e414479d7e112a24e4ee47c568f2914a"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "476409b5758b",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Ravenholdt Guard",
+  "quest": null,
+  "en": "It is good to see you again, adventurer.",
+  "files": [
+   "gossip/f425284ed646293e04e52dadcab348c5"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "7043b3436660",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Serge Hinott",
+  "quest": null,
+  "en": "Another interruption. How am I supposed to get any work done like this? Don't answer that; do I look as if I care what you have to say? Why don't you go bother Mr. High-And-Mighty instead?",
+  "files": [
+   "gossip/24a9f0ae55336ce04597528b79ab3c41"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "f8dae43d67a5",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Serge Hinott",
+  "quest": null,
+  "en": "Another student. Wonderful. This is why Lydon belongs to the Royal Society of Snobs and gets to do research, and I'm stuck being an instructor. If I win another teaching award, I'll never live it down!",
+  "files": [
+   "gossip/47491c60fb41002c8b53ee55a847cbc9"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "4ec1d7c3ce5e",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Serge Hinott",
+  "quest": null,
+  "en": "Me, train you? Come on--we both know I can't. It's this teaching, you see. My own skills suffer. You want training, go to Doctor Herbert Halsey, a Forsaken in the Apothecarium of the Undercity.",
+  "files": [
+   "gossip/5b3ba56ab8ce8049d84d48d66345c69c"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "d96ae0fb98b5",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Serge Hinott",
+  "quest": null,
+  "en": "Don't waste my time. I have research projects older than you. Go talk to Doctor Martin Felben in the Apothecarium of the Undercity. He's a Forsaken who can probably manage to teach you the basics.",
+  "files": [
+   "gossip/edb3fbffc27addc3693160ddb35ad2b3"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "2cf768e9cc0f",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sergeant Durgen Stormpike",
+  "quest": null,
+  "en": "Name, rank, and serial number, soldier! That's the only bit of information you'll ever give those dirty Frostwolf dogs!",
+  "files": [
+   "gossip/91ec0e39bf7d8d69df78d4e9d0d5607c"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "54d3a5796ff3",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Syndicate Documents",
+  "quest": null,
+  "en": "This collection of scrolls contains various logistic and strategic information, as well as coded correspondences.",
+  "files": [
+   "gossip/123d940c52a3286b7fe6e73378e8284c"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "aecb51a0d802",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warmaster Laggrond",
+  "quest": null,
+  "en": "I am in charge of recruitment for the Frostwolf Clan. As a soldier of Frostwolf, it is your responsibility to check in with me as your rank among the clan rises.\n\nHonor and respect are earned on this frigid field.",
+  "files": [
+   "gossip/ce047d2a3dd6d9e301b393ee2954c796"
+  ],
+  "uiMap": 1416
+ },
+ {
+  "id": "58ab37237eed",
+  "zone": "alterac-mountains-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Zarise",
+  "quest": null,
+  "en": "Where would you like to fly to?",
+  "files": [
+   "gossip/99afa7bbff40b3ecca37eb15b8c29387"
+  ],
+  "uiMap": 1416
+ }
+]

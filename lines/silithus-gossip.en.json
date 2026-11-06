@@ -1,0 +1,1192 @@
+[
+ {
+  "id": "a0c87dc662ef",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Aurel Goldleaf",
+  "quest": null,
+  "en": "The Cenarion Circle is wise, and has delved into many of earth's secrets. Craftsmen would do well to heed the words of these druids.",
+  "files": [
+   "gossip/43c3056caad01325e42ca64695ace0f9"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "f33142c1aef8",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Baristolth of the Shifting Sands",
+  "quest": null,
+  "en": "Look behind you, traveler. The hive stirs as the land that surrounds us shudders and shakes.\n\nThe time has come for me to fulfill a promise I made a thousand years past. The sands shift once more as the Qiraji plan for war.",
+  "files": [
+   "gossip/07d02c622457ae7e03cc05e5aefbc6e6"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "e030e24db431",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Bor Wildmane",
+  "quest": null,
+  "en": "We have more than one enemy in Silithus, Adventurer.\n\nWhile everyone's attention is focused on the silithid, my big brother and I have been keeping a close eye on the Twilight's Hammer crazies.",
+  "files": [
+   "gossip/811433ddcfe17faa04dd7e7c06eddfcb"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "9a142f7317ce",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Calandrath",
+  "quest": null,
+  "en": "Greetings, traveler. As long as you remain within the walls of the Cenarion Hold, you will be safe from harm.\n\nBe wary when leaving the protection of the Hold as the silithid have been swarming as of late.",
+  "files": [
+   "gossip/aa4d909db480c4f692905dd5b95a455a"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "55d45e45b82b",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Calandrath",
+  "quest": null,
+  "en": "You're a leatherworker by trade, aren't you? It's that faint smell of cured hides, I'd recognize it anywhere.\n\nMy father used to talk about a famous artisan who lived in Southwind Village centuries ago. It's a shame the place is in ruins now.",
+  "files": [
+   "gossip/ad265e60289c8468af0f3ee773f50f34"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "aa924e0fc81d",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Cenarion Scout Landion",
+  "quest": null,
+  "en": "Soon we shall rid Azeroth of the silithids' abominable presence. Their potential for destruction is much greater than what you've seen firsthand, adventurer. Greater, darker powers are behind their activities.",
+  "files": [
+   "gossip/c6416a9b2460c2bc035acaa57091b218"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "c4026b59ba99",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Colossus Researcher Eazel",
+  "quest": null,
+  "en": "We've gotta find out what the Qiraji are feeding those monsters! Look at the size of 'em!",
+  "files": [
+   "gossip/392d38d469784b0930ac72d8954f8d8e"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "5772cf70b503",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Colossus Researcher Nestor",
+  "quest": null,
+  "en": "Studying and understanding the Colossus will give us a needed advantage over the Qiraji.",
+  "files": [
+   "gossip/ca9c2a76280fa526355a744dfbdacd34"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "d203f24d7686",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Colossus Researcher Sophia",
+  "quest": null,
+  "en": "The secrets behind the power of the Colossus could lead to all sorts of innovations in science!",
+  "files": [
+   "gossip/789dcc606ef711b511ee12ddff2c8186"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "a63625c94336",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Commander Mar'alith",
+  "quest": null,
+  "en": "Why now, traveler? I just do not understand it. So much work to be done...",
+  "files": [
+   "gossip/45ecbb32f065f665b991c1a4db9e7395"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "0b246e3296a1",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Dirk Thunderwood",
+  "quest": null,
+  "en": "Greetings and salutations from the manor Ravenholdt, adventurer.",
+  "files": [
+   "gossip/a71a88515d6fa1bcf5501c0265097b6d"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "180858fd7893",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Bladesing",
+  "quest": null,
+  "en": "For reasons I cannot understand, Elder Thunderhorn has gone to the Slithering Scar in Un'Goro Crater.",
+  "files": [
+   "gossip/3a8cccdfe0f009532579bbefb9798f5a"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "f06996499db5",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elder Bladesing",
+  "quest": null,
+  "en": "Elder Primestone has spent many years in the Crystal Vale in Silithus.",
+  "files": [
+   "gossip/5f2a99904e0acad8a1bf88561f300f61"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "60528b14d7d4",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Primestone",
+  "quest": null,
+  "en": "If you travel to Cenarion Hold in Silithus, you will find Elder Bladesing.",
+  "files": [
+   "gossip/803c8ecb73eec2056dde8e33f84c9105"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "810d3d97149d",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Primestone",
+  "quest": null,
+  "en": "For reasons I cannot understand, Elder Thunderhorn has gone to the Slithering Scar in Un'Goro Crater.",
+  "files": [
+   "gossip/ec66e93d5033de66fd54fb9f825190c5"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "566361e509a2",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Frankal Stonebridge",
+  "quest": null,
+  "en": "Right then! So the Mistress had come back for a second go at the hives but Brann was having none of that nonsense! Before the melee began, she started talking to something or someone. Crazier still, she started chanting in a language none of us had ever heard.",
+  "files": [
+   "gossip/385c489f30a4498700047ccea1cf59cc"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "dbed8bc80e51",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Frankal Stonebridge",
+  "quest": null,
+  "en": "What's there to ask? He's a monkey you crazy fool. Anyhow, so yea, the monkey went into a frenzy after seein' ol' Brann flop into the sand face first. Nothin' the night elf could do was stopping Glibb here from poundin' on her noggin.",
+  "files": [
+   "gossip/4419b499451d23fb555f4bbd5d1f3c98"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "68ae5b3d42c7",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Frankal Stonebridge",
+  "quest": null,
+  "en": "You're telling me! It's even stranger considering between Brann, Rutgar, me and the monkey, we know 38 different languages including a touch of Titan - both Vanir and Aesir.\n\nSo anyway, whatever she was click clacking about, it definitely wasn't with anyone \"present.\" She then nodded and went on the offensive! Attacked us outright!",
+  "files": [
+   "gossip/86d25b257a6e22384810cb2de77de42a"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "a875b481e619",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Frankal Stonebridge",
+  "quest": null,
+  "en": "Look up to the heavens, adventurer. The Dragonflights have not been seen in this area for a thousand years! Those Qiraji are up to something, I just know it!",
+  "files": [
+   "gossip/af0fd13734bbd749a52d7d45abe934d3"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "94433e4f9c18",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Frankal Stonebridge",
+  "quest": null,
+  "en": "Yep.",
+  "files": [
+   "gossip/bdd49ea534b3881187f934c773214283"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "f5232c605cae",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Frankal Stonebridge",
+  "quest": null,
+  "en": "I'll tell you 'then what.' She went runnin' straight for the hive. And you know what's crazier? Not a single damned bug got in her way or tried to stop her. She ran through them all as if she'd been best friends with 'em for centuries.",
+  "files": [
+   "gossip/c0ef1cc2e7bf63b3d68034c42fac68b9"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "2b21b89fbca6",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Frankal Stonebridge",
+  "quest": null,
+  "en": "Listen sonny, I'll have you know that whatever attacked us was no priestess of nothin'! Her eyes were aglow with something evil and she was genuinely frothing at the mouth! She came in, did some kind of crazy scream that sent us all runnin' in separate directions then started flayin' our minds one by one. I'd be hearin' shadowy words in my head, watchin' the other's periodically black out here and there. It was madness! We would have been done for if not for the damned monkey.",
+  "files": [
+   "gossip/m-0c9010e208fa0e5318f1df6b031376d3"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "2267c979d18b",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Frankal Stonebridge",
+  "quest": null,
+  "en": "Oh brother, not this again... Have a seat sonny.\n\nI'm sure Rutgar has told you some of this story already so I'll spare you the boring details and get right down to the nitty gritty.",
+  "files": [
+   "gossip/m-8b65201c7f8e4fca254e87dde37a2d5b"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "015b9c46d06f",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Garon Hutchins",
+  "quest": null,
+  "en": "Be careful out in the desert, adventurer.",
+  "files": [
+   "gossip/ba66fca13d25f11aec60b7a40abc3055"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "f20825013e96",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Garon Hutchins",
+  "quest": null,
+  "en": "Ah, you're the one who found the letter. Thank you for the... news, I suppose, about my family. You're welcome to what food and drink I can offer.",
+  "files": [
+   "gossip/db0fd82a2e87168de7f37ba74147a476"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "e12775a6f41e",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Geologist Larksbane",
+  "quest": null,
+  "en": "Can ye hear it, stranger? The humming is gettin' louder with each passing day. These crystals must be what's driving these bugs crazy.",
+  "files": [
+   "gossip/923b9f247d112d5c467bec4f859d29b2"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "aad337ad2f49",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Greater Wind Stone",
+  "quest": null,
+  "en": "A thunderous voice bellows from the stone...\n\nWhat is this? I sense a little cultist scurrying about! Run along, vermin, or face the wrath of the lords of the Council!",
+  "files": [
+   "gossip/5fb610919b3f9ee9e77b9a37bbabaaea"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "c9e9d4ccb59b",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Greater Wind Stone",
+  "quest": null,
+  "en": "A thunderous voice bellows from the stone...\n\nGreetings, commander. What news of Silithus do you bring the Lords of the Council?",
+  "files": [
+   "gossip/9e096eb8c378bcc66b01591b1b44e830"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "75123a156baf",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Greater Wind Stone",
+  "quest": null,
+  "en": "What bug comes before the lords of the Council? A bug, no doubt, wishing to be squashed!",
+  "files": [
+   "gossip/9f2e8057a4162af2cc00fd83ab0ece74"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "be1ecd7c7dbd",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Greater Wind Stone",
+  "quest": null,
+  "en": "A thunderous voice bellows from the stone...\n\nI sense your Medallion of Station, cultist, but you have no ring of lordship? Are you truly a commander of the Twilight's Hammer, or do you merely run errands for your betters?",
+  "files": [
+   "gossip/e9af3f58bfcd009f6ff72f930ea3882f"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "1efa0e5e9d96",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Hermit Ortell",
+  "quest": null,
+  "en": "You're back already! What can I do for you now?",
+  "files": [
+   "gossip/48165a36b82154ca1c0e0b8bcd69e4a2"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "279b8d4dccfe",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Hermit Ortell",
+  "quest": null,
+  "en": "Leave at once, stranger! I have no business with you.",
+  "files": [
+   "gossip/e79d5d1fab3e655e71f596369ca816fa"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "9891befb8ba7",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Demitrian",
+  "quest": null,
+  "en": "I hold the vessel of his rebirth. Should you be prepared to take on this task, you will be required to fortify the vessel and ultimately, break the hold of Ragnaros himself!",
+  "files": [
+   "gossip/0ba174f63cc2f24d23e0cfd845eb7767"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "8d47feb2325c",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Demitrian",
+  "quest": null,
+  "en": "The corporeal form of Ragnaros must be destroyed. From the remnants, his essence shall emerge. In this weakened state, Ragnaros' grip on the prison of Thunderaan is loosed. The essence itself acting as a key...",
+  "files": [
+   "gossip/367f05e456b6a76006091647e119a824"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "41c39bb63e85",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Demitrian",
+  "quest": null,
+  "en": "It was during the Elemental Sundering that the Firelord, Ragnaros, would seek to consume my Lord, Thunderaan, Prince of Air.\n\n\nSpeak his name and I shall decorate this ravaged camp with your entrails. Be silent and listen.",
+  "files": [
+   "gossip/3c68b84890ff85616d98587fcb79722c"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "6e989c17dffa",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Demitrian",
+  "quest": null,
+  "en": "I know much, listen and be educated, traveler.",
+  "files": [
+   "gossip/7624b1b9032ec89ab17724443dfdadf7"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "7fd56fce9f9b",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Demitrian",
+  "quest": null,
+  "en": "What little remained of Thunderaan's essence was stored within a talisman of elemental binding. Ragnaros then shattered the talisman in two flawless pieces. The pieces assigned to his Lieutenants...",
+  "files": [
+   "gossip/7c45d7a2e7d8583c1a973293c5feecd4"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "b6dbcefcacd4",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Demitrian",
+  "quest": null,
+  "en": "It was the Lieutenants of Ragnaros, Geddon and Garr, who would perpetrate the betrayal against my Lord. Thunderaan was caught unaware.",
+  "files": [
+   "gossip/95a34dbc84fe0dbe175240f3ab72667f"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "b806d4cd8760",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Demitrian",
+  "quest": null,
+  "en": "In the time before time, what the usurpers would later call the First Age of Creation, my master and his siblings ruled over this world. It was they, the Old Gods, who created all.\n\nAnd it was they who would ultimately be cast down by those that would call themselves Shapers.",
+  "files": [
+   "gossip/c09678227a9af6c89356887b10213442"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "1384a794e07c",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Demitrian",
+  "quest": null,
+  "en": "Look to this ravaged field and know the power that the elements hold, traveler.",
+  "files": [
+   "gossip/c249a2eaed40f813e602ee17f9452029"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "80de08abe143",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Demitrian",
+  "quest": null,
+  "en": "Their manifest forms weak from eons of battle, imprisoned beneath the world - the world that they themselves created - the corruption of the Titan Shapers would permeate through the surface and befoul the Old Gods.\n\nIt was then and there that the brothers did turn. For five millennia a battle was fought at the core of this world.",
+  "files": [
+   "gossip/c3df5cd0dcec466f8c0f5df4b18f5778"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "25dfee9ffc1d",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Demitrian",
+  "quest": null,
+  "en": "Your reward is a quick and painful death, fool!",
+  "files": [
+   "gossip/c6c892dcc9a95f0b111608dfcf84c37b"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "c2ce869745c7",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Demitrian",
+  "quest": null,
+  "en": "You have recovered my Master's eternal prison!\n\nOh long have I waited for this day and finally, it is realized.\n\nHe must be released!",
+  "files": [
+   "gossip/c7d0d5f0497c7bbd94f17ecb262de67c"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "8843aa6deaaa",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Demitrian",
+  "quest": null,
+  "en": "The vessel of rebirth must be fortified with elementium. I know of only one source of the mineral: the elemental planes, at the core of our world.\n\nThere is one, an Earthshaper, who may know more than I about the acquisition of such things. You must find this Earthshaper!",
+  "files": [
+   "gossip/df4e9cd871fca0c53d2e4b158280e34f"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "3da9da8818ff",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Demitrian",
+  "quest": null,
+  "en": "The Firelord's advances were wholly unknown to Thunderaan. Before my Lord could react, Sulfuras, legendary hammer of Ragnaros, would strike an unmerciful blow. Thunderaan fell, utterly defeated.\n\nThe Firelord feasted upon the essence of my Lord, but was unable to consume him entirely.",
+  "files": [
+   "gossip/e102fa0f9aa47c2f42746046e41a2b68"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "8042f2564883",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Huum Wildmane",
+  "quest": null,
+  "en": "The spirits of Silithus call out to us, adventurer. The land weeps, for it has a woeful story to tell...",
+  "files": [
+   "gossip/81fa3f4ee4a97d65004b878d5bb8a931"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "711780e23050",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Janela Stouthammer",
+  "quest": null,
+  "en": "Hail, adventurer. The Ironforge Brigade is stationed here to keep an eye on Hive'Zora. The Cenarion Circle druids have been monitoring silithid movement and they're anticipating something major in this area.",
+  "files": [
+   "gossip/cea4e3e3ab05b82e1f49619ce41d48d8"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "99b6a091a0b5",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Keyl Swiftclaw",
+  "quest": null,
+  "en": "This war's not over, it's only just begun! We have brave men and women fighting our enemy inside Ahn'Qiraj day and night, adventurer. It won't be long before the Qiraji city falls.",
+  "files": [
+   "gossip/814445cc1ab4e2c8f95a5e1a409c5970"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "e9c2a3dbcb51",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Khur Hornstriker",
+  "quest": null,
+  "en": "I supply the Hold with various relics required for spellcasting as well as other alchemical reagents.",
+  "files": [
+   "gossip/3407714a9aac3f0bbd78877a9a9f2f09"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "99490ee687ab",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Layo Starstrike",
+  "quest": null,
+  "en": "The past lives in these wastes, adventurer. We must be careful to not awaken it.",
+  "files": [
+   "gossip/72d9e590ddf6bf219b208c8b157ddb5c"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "d20dc1d1aa58",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Lesser Wind Stone",
+  "quest": null,
+  "en": "Be gone, infidel! May the power of the Abyss smite you down!",
+  "files": [
+   "gossip/01594454427de3b4452e20be980b7818"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "be9eaddba7c7",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Lesser Wind Stone",
+  "quest": null,
+  "en": "A faint whisper is heard from within the stone...\n\nGreetings, little one. Do you have news for the Templar?",
+  "files": [
+   "gossip/66471c117f9a9c8fb2c8bcbff27683fb"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "7cbacc423f80",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Merok Longstride",
+  "quest": null,
+  "en": "As deadly as the silithid seem, they are but tame creatures compared to their Qiraji overlords.",
+  "files": [
+   "gossip/d1ec54aff7b3d41b9cf78637de55db9c"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "822cad48d102",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Mishta",
+  "quest": null,
+  "en": "Oh dear, I am running dangerously low on supplies! What is taking that blasted goblin so long?",
+  "files": [
+   "gossip/adf109156d6688b93880917b0f179b65"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "7cf2c5ba942e",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Nelson the Nice",
+  "quest": null,
+  "en": "I come to Silithus every year around this time. The weather is phenomenal for my bunions.\n\nYou should take a stroll with me, friend. Enjoy the sights and what not.",
+  "files": [
+   "gossip/5e0b696d989d9f556038cd140846f661"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "45a167e07045",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Noggle Ficklespragg",
+  "quest": null,
+  "en": "Hey! Thanks for saving my hide! I think I'll be lying down for a while until I recover my strength.",
+  "files": [
+   "gossip/0e9b47815086b6b0100592326be61808"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "623c5118fd9d",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Noggle Ficklespragg",
+  "quest": null,
+  "en": "Who are you? Where am I? I feel... so weak...",
+  "files": [
+   "gossip/4769fa7dbee7d466df239c3fdc15ce4d"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "a8713d8f63e2",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Priestess of the Moon",
+  "quest": null,
+  "en": "The High Priestess could not leave Darnassus. Fandral is in a very foul mood.",
+  "files": [
+   "gossip/0f9c37eaa94c5a6409966d96d4a92fe8"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "4d8d7c54bece",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Priestess of the Moon",
+  "quest": null,
+  "en": "Tyrande sends her prayers. The Mother Moon blesses us all.",
+  "files": [
+   "gossip/48d8bbdc83acab937796721b3e4db3ab"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "15b76e498583",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ralo'shan the Eternal Watcher",
+  "quest": null,
+  "en": "I have been slain a hundred times. I always wake here, alive. Some say I am cursed and others...",
+  "files": [
+   "gossip/06b81739f0bafcfd039de7bee1020205"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "9e048ad5d563",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ralo'shan the Eternal Watcher",
+  "quest": null,
+  "en": "Greetings, traveler. It was here, nearly 1,000 years past, that the Qiraji began their march of destruction across Kalimdor.\n\nThousands of lives were lost during the war, most in this cursed desert during the initial invasion.\n\nI am one of only a few that remain, chained to both the past and the present. I know not why I am to remain stationed here but I know that I must.",
+  "files": [
+   "gossip/0b0c533904f5ec72051ce930ebe18a3a"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "0fcc852d944f",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ralo'shan the Eternal Watcher",
+  "quest": null,
+  "en": "They say that I am blessed: A herald to harken in a new age.",
+  "files": [
+   "gossip/2e00e741fec447902b6e157a134f4866"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "4406c04a0aa1",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Ralo'shan the Eternal Watcher",
+  "quest": null,
+  "en": "Ancient forces stir - forces that have not been seen or felt for thousands of years. The world weeps, traveler. Perhaps a new sundering comes. A sickness born from within...\n\nThe foulness has begun to seep into our lands. From the Dream come nightmares. Nightmares to befoul us in our waking hours...",
+  "files": [
+   "gossip/b046831149354fece411cd5757825f3a"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "bd4ea7e32f99",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rutgar Glyphshaper",
+  "quest": null,
+  "en": "Are you daft? Who else would I be talking about? Yes, the girl - Mistress Mar'alith. Anyhow, she was back and not in too good of a mood. That's when the demands started flowing.",
+  "files": [
+   "gossip/226398c6e0111e0a06eca54612ddddec"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "333f3d28c9d4",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rutgar Glyphshaper",
+  "quest": null,
+  "en": "Bronzebeard's gone missing again! That dwarf sure didn't get any of his brother's good senses.",
+  "files": [
+   "gossip/2e9da6b3338a01eeae4e67b707bbd7e8"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "69ff66e5c8c6",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rutgar Glyphshaper",
+  "quest": null,
+  "en": "You best have a seat then, this is gonna be a long one.\n\nWhen we initially arrived in Silithus, Mistress Mar'alith was the first of the night elves from Cenarion Hold to join the expedition. Our routine was nothing out of the ordinary: Form a party to venture into the various hives and search for lost artifacts.",
+  "files": [
+   "gossip/443b87cdae07e4c1b2c9da0ebeb77760"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "b454b18be9ca",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rutgar Glyphshaper",
+  "quest": null,
+  "en": "She demanded that we immediately head back to Hive'Regal! Brann would have none of that sass. He told her that there's no way we would go back into those hives without an army backing us up. It had gotten far too dangerous. The number of those stinking insects seemed to have tripled from when we first ventured into 'em.\n\nThat's when Natalia lost it!",
+  "files": [
+   "gossip/4a04ba2b3a44d86c49e14414d314fd81"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "f5a2e3614313",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rutgar Glyphshaper",
+  "quest": null,
+  "en": "It sure is! Those hives were abuzz with various silithid that were none too happy to see us.\n\nEverything was going fine until we came across a glyphed crystal in Hive'Regal. She was drawn to it like a moth to a flame! She put her pretty little cheek up against the crystal and instantly entered a trance-like state. Naturally, this worried my crew. We picked her up and carried her out of there with a quickness!",
+  "files": [
+   "gossip/81794f3c4756bdfd389fa69ab46e362c"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "f5ab1af4106e",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rutgar Glyphshaper",
+  "quest": null,
+  "en": "What do you mean what do I mean? She went nutso! The girl went straight crazy on us. Now ordinarily I don't hit girls but after I recovered from the blackout, I was pretty damned angry. Brann, Rutgar, me and the monkey went positively orc on her! It's a miracle we were able to fend her off. She seemed almost possessed!",
+  "files": [
+   "gossip/9192ce03c16bdad9e3e38652c3d3ce23"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "4bffd8e302d2",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rutgar Glyphshaper",
+  "quest": null,
+  "en": "We took her to the Commander with hopes that the druids of the Circle could fix her up. Sure enough, they were able to wake her up. We figured our business with the Circle was done and we could get back to work.\n\nA few weeks passed and everything was going fine. Brann was still around back then so we had a bit of order in our work structure. Then one day, out of the blue, she appeared back at our camp.",
+  "files": [
+   "gossip/9e37db370c5a046827955e725e64bdd6"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "f8a070968937",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Rutgar Glyphshaper",
+  "quest": null,
+  "en": "Who knows? Anyhow, that was the last I saw of her. Maybe Frankal can give you better information.\n\nNot to steer off topic here as I'm sure the work you're doing for the Commander is important, but we're onto something huge here. HUGE! Our requests to Ironforge for an army have so far fallen on deaf ears. Apparently we're stretched too thin in protecting the realm or some such nonsense. Once you take your report back to the Commander, come back down here with some friends. We need your help!",
+  "files": [
+   "gossip/dea537ea78bde91b9c77ce8d552d9bb7"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "6ee00deff7f1",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Sergeant Carnes",
+  "quest": null,
+  "en": "\"Great job collecting resources for the war,\" they said, \"Have a promotion,\" they said. What they really meant is \"You're stationed outside a bughive in Silithus with a bunch of sweaty dwarves, Carnes!\"\n\nThanks for the promotion, Captain!",
+  "files": [
+   "gossip/668e49c17df4b9aa59370244f97c3f6a"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "3ff567a46460",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Squire Leoren Mal'derath",
+  "quest": null,
+  "en": "Greetings, adventurer. I am Leoren, stable master of Cenarion Hold.",
+  "files": [
+   "gossip/872c292ead04a6156c67f8c254e7c307"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "a06ed93fa2f8",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Vargus",
+  "quest": null,
+  "en": "A great evil stirs, traveler. Can you feel it?\n\nBah! Of course you cannot. Hand me your armor and weapons and I shall renew their vigor.",
+  "files": [
+   "gossip/8df70dd608a3c4cf651cb64b15114023"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "51a9d121dd23",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Vish Kozus",
+  "quest": null,
+  "en": "You're hunting Deathclasp, adventurer? Color me impressed. I lost two of my men to her this week alone. Let's hope your luck is better than theirs.",
+  "files": [
+   "gossip/a8ee595039d5f688ef88300a94ae9a8a"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "a0f937d72c1e",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Vish Kozus",
+  "quest": null,
+  "en": "The Commander has not been himself as of late. His mistress disappeared while on an archaeological dig in the southern desert - vanished without a trace! Very strange, indeed.\n\nI suppose you're looking for work? Do I need to bash you in the head with a clue?",
+  "files": [
+   "gossip/b60ac134e16be202debcce1733994a3f"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "f087e9bd38a2",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Warden Haro",
+  "quest": null,
+  "en": "I, like many others, came to aid my fellow druids when the war started.\n\nNow that the Gates of Ahn'Qiraj are open, I've realized that much work still remains to be done. I've decided to stay in Silithus and do my best to help the cause, adventurer.",
+  "files": [
+   "gossip/5ad93a4745aa099f6c0236880ca96ae9"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "283772e93aed",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Western Crystal Pylon",
+  "quest": null,
+  "en": "A closer inspection of the pylon leads you to find a small table containing red, blue, and green crystals arranged in what seems like a specific formation.\n\nA large red circle of crystals is flanked on either side by a smaller circle of blue crystals and another of green crystals.\n\nYou carefully take note of the colors of the crystals, knowing that J.D. would be very interested in hearing about what you have found.",
+  "files": [
+   "gossip/5c6602e9f23f886ebab0f831c71cbfba"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "c6d708d663b2",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wind Stone",
+  "quest": null,
+  "en": "A clear voice rises from within the stone...\n\nYou come to us with title and so we will listen, but do not try our patience, adventurer. The council has no time for idle gossip from one such as you.",
+  "files": [
+   "gossip/37d313298adafe97bca139d3d41d6c87"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "aa38f79e804a",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wind Stone",
+  "quest": null,
+  "en": "How dare you commune with a Duke of the Council, worm!",
+  "files": [
+   "gossip/d39f90b279f06892c664f53d9d8191a0"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "e53e2e384cde",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wind Stone",
+  "quest": null,
+  "en": "A clear voice rises from within the stone...\n\nWhere is your Medallion of Station, little one? You may not speak with a Duke without proof of title...",
+  "files": [
+   "gossip/ed63d78e311e71ef7884338ead2cb4d4"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "584f1c0c5d3f",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Windcaller Kaldon",
+  "quest": null,
+  "en": "Now that the war is in full swing, we've had no shortage of able-bodied combatants from the Horde and Alliance.\n\nIf only we could keep them off of each other's throats...",
+  "files": [
+   "gossip/d3444f4b56739837e99b8054c798a837"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "1388c96f7164",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Windcaller Proudhorn",
+  "quest": null,
+  "en": "Greetings, adventurer. Welcome to Cenarion Hold. From here we will strike against the silithid where they're at their strongest. I hope you've come to lend a hand.",
+  "files": [
+   "gossip/602ace4ed716eca72ea8d2e7882f4a76"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "9d8918fd17d9",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Windcaller Proudhorn",
+  "quest": null,
+  "en": "It's a pleasure to see you again, adventurer. Your aid has provided us with a considerable boost in the security of our supply lines. I hope you understand the importance of the logistics involved in large battle efforts such as this.",
+  "files": [
+   "gossip/83301b049e11b44cec8144e74a752623"
+  ],
+  "uiMap": 1451
+ },
+ {
+  "id": "f84d5463de64",
+  "zone": "silithus-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Windcaller Yessendra",
+  "quest": null,
+  "en": "Our steady progress in our fight against the Qiraji can be attributed to the diverse help we received from nearly every corner of Kalimdor.\n\nYou need more than just soldiers to fight a war, adventurer. Many of the war's unsung heroes are the traders and craftsmen that keep our forces supplied with the resources they need.",
+  "files": [
+   "gossip/b3799b82bc9ff1942e4ac19ba2d4c105"
+  ],
+  "uiMap": 1451
+ }
+]

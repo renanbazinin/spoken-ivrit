@@ -1,0 +1,1594 @@
+[
+ {
+  "id": "bd93bd218bfa",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Ravak Grimtotem",
+  "quest": "Ally of the Tauren",
+  "en": "The Elder Crone has sent me to this warzone to research the other races. More specifically, I am to collect gnome samples. Magatha is primarily interested in their survivability. Aye, the gnomes - while pitifully weak and miniscule - exude great resilience both in and out of combat.\n\nFortunately for you, I am looking for ruffians to do Magatha's bidding. Return to me with tufts of gnome hair and you shall be known to the tauren as an ally.",
+  "files": [
+   "quests/7362-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "3f563defb115",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Ravak Grimtotem",
+  "quest": "Ally of the Tauren",
+  "en": "Aye, this is definitely gnome. Well done, Traveler, but there is more work to be done.",
+  "files": [
+   "quests/7362-complete",
+   "quests/7422-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "329b10bc6f59",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sergeant Durgen Stormpike",
+  "quest": "Alterac Valley Graveyards",
+  "en": "The graveyards in Alterac Valley are prized territories. Both the Horde and the Alliance fight savagely for these sacred grounds. Are you, Adventurer, ready to join that fight?\n\nI want you to assault an enemy graveyard. Find a graveyard with a Horde banner in its midst, and pull it from the ground! Do that, and your task will be complete....\n\nBut if you can also hold the graveyard for a few minutes, then our troops will soon come to relieve you.",
+  "files": [
+   "quests/7081-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "17c6e562218e",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sergeant Durgen Stormpike",
+  "quest": "Alterac Valley Graveyards",
+  "en": "Well done! Graveyards are vital to our control of Alterac Valley. When you capture one, you help ensure the Alliance's sovereignty here.\n\nGo now, Adventurer. Reenter the battle, and if you see a graveyard under the Horde's control... you know what to do!",
+  "files": [
+   "quests/7081-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "06dc0b2a10bb",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Murgot Deepforge",
+  "quest": "Armor Scraps",
+  "en": "Battles rage constantly in Alterac Valley, and the supplies we get from Ironforge are not enough to outfit our experienced troops.\n\nIf you find armor scraps from the battlefield, aid the war effort and bring those scraps to me!",
+  "files": [
+   "quests/7223-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "a49e7aff4bcb",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Field Marshal Teravaine",
+  "quest": "Begin the Attack!",
+  "en": "Ah, the orders! They say I'm to assault at will, and my will says... now!",
+  "files": [
+   "quests/6846-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "24a6a20af03a",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Karl Philips",
+  "quest": "Brotherly Love",
+  "en": "He must be put out of his misery, soldier! He knows not what he does. He has become a mindless servant of the dreaded Banshee Queen.\n\nVenture forth, across the Field of Strife, to the depths of Frostwolf territory. Find my brother and destroy him. His torment must come to an end.",
+  "files": [
+   "quests/7282-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "c989f02e1881",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Karl Philips",
+  "quest": "Brotherly Love",
+  "en": "You did remember to burn the corpse, didn't you?",
+  "files": [
+   "quests/7282-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "eca8f7f92c40",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Commander Louis Philips",
+  "quest": "Brotherly Love",
+  "en": "Tragic... My brother faces me on the field of battle: A commander for the Stormpike.\n\nOf the four Stormpike Commanders, he is undoubtedly the most dangerous. Perhaps if he is slain, the Banshee Queen could turn him as she did me - show him the error of his ways...\n\nDeep within enemy territory you will find my brother. Slay him and return to me. I trust that you are capable of completing this mission, soldier.\n\nAnd soldier, do not go alone.",
+  "files": [
+   "quests/7281-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "78757ea37efc",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Commander Louis Philips",
+  "quest": "Brotherly Love",
+  "en": "Your heroics will not go unnoticed, Adventurer.\n\nI must waste no time if he is to be saved. Sylvanas must be contacted!",
+  "files": [
+   "quests/7281-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "685a6cd6dcf7",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Wing Commander Guse",
+  "quest": "Call of Air - Guse's Fleet",
+  "en": "The fleet feeds on their flesh. It consumes the enemy.\n\nFlight is imminent!",
+  "files": [
+   "quests/6825-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "cae9dde8f393",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Wing Commander Ichman",
+  "quest": "Call of Air - Ichman's Fleet",
+  "en": "Can you see it? Look at them, soldier! They're coming around... Soon, Ichman's flight will once again strike at the heart of the valley! Stormpike will rule the skies!",
+  "files": [
+   "quests/6943-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "dd9ea4ef6b9c",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Wing Commander Jeztor",
+  "quest": "Call of Air - Jeztor's Fleet",
+  "en": "More! More! Bring more for they are soon to be ready!",
+  "files": [
+   "quests/6826-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "b2bc19d6cfb3",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Wing Commander Mulverick",
+  "quest": "Call of Air - Mulverick's Fleet",
+  "en": "Not enough! I would expect this level of work from an initiate, but you, Adventurer? Come on, soldier! HUSTLE! More flesh is needed!",
+  "files": [
+   "quests/6827-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "62d5d613c8d6",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Wing Commander Slidore",
+  "quest": "Call of Air - Slidore's Fleet",
+  "en": "Keep em coming, soldier! The Aerie gryphons will be ready to strike in no time at all!",
+  "files": [
+   "quests/6942-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "d6a105b5192b",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Wing Commander Vipore",
+  "quest": "Call of Air - Vipore's Fleet",
+  "en": "The flight will be ready soon. Continue your efforts!",
+  "files": [
+   "quests/6941-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "e18754416ace",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Corporal Teeka Bloodsnarl",
+  "quest": "Capture a Mine",
+  "en": "As battle rages over the landscape of Alterac Valley, so too does it rage through the Coldtooth and Irondeep mines. Both are rich sources of minerals and both are used to store supplies; it's no wonder they are so highly valued!\n\nHelp our war effort, Adventurer! Capture one of the mines for the Horde! To capture a mine, enter one that we do not control and kill its leader. When that is done, the mine will be ours and we'll send troops to protect it!",
+  "files": [
+   "quests/7124-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "83455076b38a",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sergeant Durgen Stormpike",
+  "quest": "Capture a Mine",
+  "en": "The mines in Alterac Valley hold more than just minerals. Both the Frostwolf and Stormpike have cached excess supplies in the Irondeep and Coldtooth mines... that's not a bad idea, if we could only maintain control of them!\n\nCapture a mine, then return to me. To capture a mine, enter one that we do not control and kill its leader. When you do that, the mine will be ours, and we'll send troops to protect it!",
+  "files": [
+   "quests/7122-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "95362a583e61",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sergeant Durgen Stormpike",
+  "quest": "Capture a Mine",
+  "en": "You did it! Well done, Adventurer!\n\nWhen we control a mine and have troops stationed there, it's much easier to gather minerals and supplies from it.",
+  "files": [
+   "quests/7122-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "489086adef85",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Frostwolf Quartermaster",
+  "quest": "Coldtooth Supplies",
+  "en": "The Coldtooth mine to the north was once an ideal place to store extra supplies, but now that the fighting with the Stormpikes grows fierce, we do not always have the spare warriors to station at the mine and protect it. And so, control of the mine often falls to the Alliance, or to underground denizens...\n\nBut we still need our supplies, Adventurer! Go to the Coldtooth mine and bring me a load of them. And be wary of enemies as you go; the tides of battle shift quickly in that place...",
+  "files": [
+   "quests/5893-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "a3c2955f8cab",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Frostwolf Quartermaster",
+  "quest": "Coldtooth Supplies",
+  "en": "Ah, you got them. Good work, Adventurer! These supplies are a little musty from sitting in that dark mine for so long, but we'll make use of them nonetheless.\n\nThank you, Adventurer. Your deeds are vital to the maintenance of our fighting forces.",
+  "files": [
+   "quests/5893-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "e70b17137e6e",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Stormpike Quartermaster",
+  "quest": "Coldtooth Supplies",
+  "en": "The Coldtooth mine is a storage depot for the Horde. I can't stomach the food they give their troops, and the state of their arms and armor is atrocious! But... in times like these when supplies are so important, we can use what they have.\n\nEnter the Coldtooth mine and bring me back their supplies. That will help keep the Alliance in fighting shape, and remove much needed equipment from the Horde's warriors.\n\nGood luck, Adventurer. The mine is to the distant south, deep in Horde territory.",
+  "files": [
+   "quests/6982-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "67a3c06869ff",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Stormpike Quartermaster",
+  "quest": "Coldtooth Supplies",
+  "en": "Ah, you got them. Good work, Adventurer! These supplies are a little musty from sitting in that dark mine for so long, but we'll make use of them nonetheless.\n\nThank you, Adventurer. Your deeds are vital to the maintenance of our fighting forces.",
+  "files": [
+   "quests/6982-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "f4a145a0d0a6",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alliance Brigadier General",
+  "quest": "Concerted Efforts",
+  "en": "You're not one to disappoint, Adventurer! What you've learned goes beyond petty medals and commendations. What you've learned is what can only come with experience and the hardening of one's temper in the field of battle.\n\nYou've done well, adventurer. You're a true hero of the Alliance!",
+  "files": [
+   "quests/8371-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "96a769e6ab2e",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alliance Brigadier General",
+  "quest": "Concerted Efforts",
+  "en": "We're not fighting isolated battles against the Horde anymore, lad.\n\nVictory in one front means denying the Horde resources they'd use against us in a different battle. By the same token, losing any given battle could give the advantage to our opponent somewhere else around the world.\n\nThe Alliance is in need of more combatants with this sort of worldly understanding... truly seasoned veterans! Adventurer, come back to me after you've served against the Horde at all of our active battlegrounds.",
+  "files": [
+   "quests/m-8371-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "238781a8108e",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Arch Druid Renferal",
+  "quest": "Crystal Cluster",
+  "en": "Well done, Adventurer. I will use the power of these charms to augment the magic that has already been gathered. When enough power has been amassed, I shall focus the collected energies and call upon the Forest Lord to aid our cause.",
+  "files": [
+   "quests/7386-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "6b74d18afa78",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Frostwolf Explosives Expert",
+  "quest": "Defusing the Threat",
+  "en": "I know all about landmines. I'm the one that lays all the mines on the front lines here, after all.\n\nIf you want to defuse the Stormpike mine fields, all you have to do is kill their explosives expert. That dwarven coward is no doubt hiding in the first tower on the Field of Strife. Take him out and those landmines won't come back after they've been disarmed.\n\nIf you do happen to kill him, come back here and let me know. No good deed should go unrewarded.",
+  "files": [
+   "quests/7368-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "68b7bebe9c14",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Stormpike Explosives Expert",
+  "quest": "Defusing the Threat",
+  "en": "The Frostwolf have their front lines and bases booby trapped, adventurer. You have to watch your step when invading enemy territory.\n\nIf you want to make a solid strike against them, you must destroy their source of anti personnel munitions - I'm talking about their explosives expert. If you kill him, you are safe to disarm the mines. As long as he is kept down, the mines will also stay down.\n\nYou will probably find him in a tower near the Iceblood Garrison. Good luck!",
+  "files": [
+   "quests/7367-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "830bd29a9eee",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Lieutenant Haggerdin",
+  "quest": "Earned Reverence",
+  "en": "When we first met, I would have never guessed that a hero was in the making. Carry on, soldier!",
+  "files": [
+   "quests/7170-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "f1fead474f80",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warmaster Laggrond",
+  "quest": "Earned Reverence",
+  "en": "They have already begun telling tales of your deeds, soldier. The Stormpike shakes in fear when your name is uttered. Carry on!",
+  "files": [
+   "quests/7165-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "cb0b92b61f7c",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Frostwolf Stable Master",
+  "quest": "Empty Stables",
+  "en": "The war in the valley has taken its toll on our soldiers. We must revitalize our forces!\n\nIf we can fill up the stables, the Wolf Riders will once more be able to ride out into the field of battle.\n\nTake this muzzle and track down the frostwolves that inhabit the nearby forest. Once you find a wolf, use the muzzle to tame the beast. Bring the tamed beast back to me so that I may place it in the stable.\n\nWhen we have enough wolves stabled, the Wolf Riders will rejoin their patrol on our front lines.",
+  "files": [
+   "quests/7001-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "6477f3f4caae",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Frostwolf Stable Master",
+  "quest": "Empty Stables",
+  "en": "I can only hope that those charged with collecting ram hides are as determined as you, Adventurer.\n\nAt this rate, we will have the stables full in a matter of hours!",
+  "files": [
+   "quests/7001-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "a5703cea5d3d",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Stormpike Stable Master",
+  "quest": "Empty Stables",
+  "en": "Just look at the stables, Adventurer! Empty! The Stormpike Brigade has no rams to ride - the cavalry is defunct.\n\nYou must help us, soldier. Take this training collar and enter the wilds of this valley. Locate the Alterac rams that roam throughout the area and use the collar to snare one. When you have captured a ram, return it to me and I shall place it in our stable.\n\nWhen we have enough rams, the ram rider commander will be notifed. With your help, the cavalry will be reborn!",
+  "files": [
+   "quests/7027-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "03a77dbce279",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Stormpike Stable Master",
+  "quest": "Empty Stables",
+  "en": "The stables will be full in no time at all. Keep up the good work!",
+  "files": [
+   "quests/7027-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "0bd0fd54f930",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Smith Regzar",
+  "quest": "Enemy Booty",
+  "en": "When you fight the enemy, gather the scraps of their armor and bring them to me. I'll use those scraps to make armor for our own troops!",
+  "files": [
+   "quests/7224-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "b9d59c7d1c95",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Smith Regzar",
+  "quest": "Enemy Booty",
+  "en": "These will do nicely. I'll melt them down and patch them up and you'll never know they came from those Stormpike cowards!\n\nThanks, Adventurer. And let me polish up that armor of yours...",
+  "files": [
+   "quests/7224-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "4da3bcb44ee8",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Commander Duffy",
+  "quest": "Fallen Sky Lords",
+  "en": "We got them held prisoner, traveler. I'm talking about their Wing Commanders. It was a furious battle in the skies but they finally fell! Unfortunately, our best pilots were shot down in a counterattack against Frostwolf Keep. You gotta find out what happened to them.\n\nSearch Tower Point West and Frostwolf Keep. These were their last known locations. Search these areas thoroughly.",
+  "files": [
+   "quests/7301-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "fc4fec3bf957",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Commander Duffy",
+  "quest": "Fallen Sky Lords",
+  "en": "Unbelievable! You did free them, right? Right??? Well at the very least we know where they were held.",
+  "files": [
+   "quests/7301-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "124c88a708b8",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Commander Mulfort",
+  "quest": "Fallen Sky Lords",
+  "en": "Our air support is in shambles, Adventurer. The Wing Commanders were shot down over enemy territory. You must find out what became of them so that we can attempt a rescue!\n\nGuse was last seen flying over the Icewing Bunker. Jeztor's War Rider was spotted near the Stormpike lumber mill. Mulverick... that reckless fool was seen crashing near the Dun'Baldar North Bunker.\n\nThat's all the information I have. Move out! Search through the areas thoroughly.",
+  "files": [
+   "quests/7302-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "ea3a3ff957e2",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Commander Mulfort",
+  "quest": "Fallen Sky Lords",
+  "en": "Well done! The information you recovered will be invaluable to our cause.",
+  "files": [
+   "quests/7302-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "f044dd1615d5",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Najak Hexxen",
+  "quest": "Favor Amongst the Darkspear",
+  "en": "Before the night elves existed there was troll. It was from troll that the night elves came.\n\nTheir mutinous attacks against my people will not be tolerated. Staghelm seeks to wipe us out - to leave no trace of those that bore him and his ilk. It will not happen!\n\nFor every night elf that you slay and decapitate, Najak will grant you favor amongst the Darkspear. Word of your deeds will be spread across Kalimdor and the Eastern Kingdoms. Go now and serve the Darkspear!",
+  "files": [
+   "quests/7361-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "8752208276f2",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Najak Hexxen",
+  "quest": "Favor Amongst the Darkspear",
+  "en": "Adventurer, it is but one of thousands. A job well done nonetheless.",
+  "files": [
+   "quests/7361-complete",
+   "quests/7421-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "e7ee2ea2e0b1",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Horde Warbringer",
+  "quest": "For Great Honor",
+  "en": "Serving the Horde in one of the great battles against the Alliance is a source of great honor! The few however, that have served the Horde in ALL of our active battlefronts are our truly great fighters. We shall vanquish our opponents, not by fighting isolated skirmishes, but by waging a well-coordinated war.\n\nGo forth and crush the Alliance in Arathi Basin, Alterac Valley and Warsong Gulch! For Honor! For the Horde!",
+  "files": [
+   "quests/8367-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "1b3ef278a87d",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Horde Warbringer",
+  "quest": "For Great Honor",
+  "en": "Your trials have not been easy, but your courage did not escape you and your strength did not fail. Part with past tokens of victory, adventurer. None shall need them as a reminder of your worth. Stand up straight, Adventurer. Today you will walk with great pride for you are a hero!",
+  "files": [
+   "quests/8367-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "ec1fbca72ed1",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Horde Warbringer",
+  "quest": "For Great Honor",
+  "en": "You continue to honor the Horde, Adventurer. I'm glad to see you haven't turned soft.",
+  "files": [
+   "quests/8388-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "f50c471e74d6",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Dirk Swindle",
+  "quest": "Gnomeregan Bounty",
+  "en": "The High Tinkerer himself has sent me to this field of battle to defend my gnomish brothers and sisters. We have received word that the tauren are singling out and slaying gnomes. Worst of all, they are removing tufts of glorious gnome hair from the corpses of the fallen. These atrocities must be stopped. We must reciprocate!\n\nI want them de-hoofed, adventurer. Bring me their hooves! Show yourself as an ally of the gnomes.",
+  "files": [
+   "quests/7364-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "7c1cc566f0f5",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Dirk Swindle",
+  "quest": "Gnomeregan Bounty",
+  "en": "*Dirk throws the hoof in a pile behind him.*",
+  "files": [
+   "quests/7364-complete",
+   "quests/7424-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "3801def7bf57",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Voggah Deathgrip",
+  "quest": "Hero of the Frostwolf",
+  "en": "How does it feel, Adventurer? How does it feel to crush your enemies and watch their lines break apart? It feels good, doesn't it?\n\nYou should be rewarded for this heroic deed, soldier.",
+  "files": [
+   "quests/8272-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "21c1bf87823a",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Prospector Stonehewer",
+  "quest": "Hero of the Stormpike",
+  "en": "As a hero of the Stormpike, you may choose one item from these recently plun... er, recovered treasures.",
+  "files": [
+   "quests/8271-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "681e843c5de7",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warmaster Laggrond",
+  "quest": "Honored Amongst the Clan",
+  "en": "Go, Adventurer! Continue your defense of the Frostwolf. This war must be won! For Drek'Thar! For the Warchief!",
+  "files": [
+   "quests/7164-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "5bd4d8efd664",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Lieutenant Haggerdin",
+  "quest": "Honored Amongst the Guard",
+  "en": "The king has been made aware of your battlefront heroics, adventurer. Continue in your stalwart defense of the Stormpike Guard!",
+  "files": [
+   "quests/7169-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "d62ceece608f",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Frostwolf Ambassador Rokhstrom",
+  "quest": "In Defense of Frostwolf",
+  "en": "The drums of war sound off in a distant land, adventurer. The favored clan of your Warchief is under attack from the nefarious Stormpike Guard of Ironforge.\n\nBy the looks of you, I can discern that you are indeed battle hardy and prepared to take on the cause of the Frostwolf.\n\nIt is you who must now take the next step in your evolution.\n\nNorth of Tarren Mill, in Alterac, you will find the entrance to Alterac Valley. It is there that you will find Warmaster Laggrond. Hurry adventurer, for the battle is upon us!",
+  "files": [
+   "quests/7241-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "542da9f5a22d",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warmaster Laggrond",
+  "quest": "In Defense of Frostwolf",
+  "en": "To become a soldier of Frostwolf, one must first be tested...",
+  "files": [
+   "quests/7241-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "435dab7dbd13",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Horde Warbringer",
+  "quest": "Invaders of Alterac Valley",
+  "en": "Listen up, Adventurer. No matter what you might have heard about the battle raging in Alterac Valley, one thing remains true: the Stormpike Expedition invaded Frostwolf Territory. The day we allow the Alliance to invade Horde lands without a forceful response is the day I hang up my axe and live the rest of my life in shame. Go forth and expel the invaders!",
+  "files": [
+   "quests/8369-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "37b87301f65b",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Horde Warbringer",
+  "quest": "Invaders of Alterac Valley",
+  "en": "You've shown great bravery in protecting our lands in Alterac Valley! I will tell my superiors of your deeds.",
+  "files": [
+   "quests/8369-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "29e3e155afbf",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Horde Warbringer",
+  "quest": "Invaders of Alterac Valley",
+  "en": "Good work, Adventurer! You should be proud of yourself. The Alliance invaders must be expelled from Alterac!",
+  "files": [
+   "quests/8387-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "2c3d3c506c70",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Frostwolf Quartermaster",
+  "quest": "Irondeep Supplies",
+  "en": "The Stormpike dwarves are using the Irondeep mine as a storage depot. I want you to raid that mine and bring me its supplies. This will curtail the Stormpikes' efforts in Alterac Valley, and will provide us with needed equipment!\n\nBe wary, Adventurer. The Irondeep mine is deep in Alliance territory, and control of the mine is as shifting as the snows of Alterac.",
+  "files": [
+   "quests/6985-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "c1f6b2a8ec11",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Frostwolf Quartermaster",
+  "quest": "Irondeep Supplies",
+  "en": "You got them! Nicely done, Adventurer! And I hope you saw a few dwarves during your raid, and shed their blood for the Frostwolves!",
+  "files": [
+   "quests/6985-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "7669613548a2",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Stormpike Quartermaster",
+  "quest": "Irondeep Supplies",
+  "en": "Before the fighting started, we stored supplies for Dun Baldar in the Irondeep mine. The troggs that surfaced there weren't much of a problem when we had spare troops to guard the mine, but now that we're fighting with the Horde we can't maintain control of Irondeep.\n\nWe need the supplies in Irondeep, Adventurer. Enter the mine and bring me a load of them.",
+  "files": [
+   "quests/5892-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "f6a7504e8a29",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Stormpike Quartermaster",
+  "quest": "Irondeep Supplies",
+  "en": "Well done! I'll put these supplies to good use! Thanks, Adventurer!",
+  "files": [
+   "quests/5892-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "b26348d4adff",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Arch Druid Renferal",
+  "quest": "Ivus the Forest Lord",
+  "en": "Well done, Adventurer. I will use the power of this charm to augment the magic that has already been gathered. When enough power has been amassed, I shall focus the collected energies and call upon the Forest Lord to aid our cause.",
+  "files": [
+   "quests/6881-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "8ebdf3199570",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Lieutenant Haggerdin",
+  "quest": "Korrak the Bloodrager",
+  "en": "The indigenous Winterax trolls of the region are ruthless savages that would love nothing more than to have our bones added to their foul stew.\n\nWe must show them our might!\n\nWe have recovered tomes from their caves that detail their leadership hierarchy. The artifacts indicate that their leader, Korrak the Bloodrager, tends to remain hidden until given a reason to make his presence known.\n\nDeath to Korrak would mean death to Winterax Clan! Slay him and return.",
+  "files": [
+   "quests/7202-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "e5a9d83e68f5",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Lieutenant Haggerdin",
+  "quest": "Korrak the Everliving",
+  "en": "There's something not quite right about all of this... Did anybody think to burn Korrak's corpse? Those trolls will stop at nothing to revive their fallen leader - as blue skinned pagan man-beasts often do.\n\nJust keep your eyes out, Adventurer. Don't be alarmed if Korrak makes a surprise appearance; and if he does, I want him executed - his corpse burned to ashes.\n\nFor good measure, lop off his head and bring me his skull before you ignite the lifeless mass.",
+  "files": [
+   "quests/7382-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "b8d99ddc8eed",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Lieutenant Haggerdin",
+  "quest": "Korrak the Everliving",
+  "en": "Well done, adventurer. Even the mightiest magic couldn't revive Korrak now. You have exterminated a major threat from Alterac Valley, soldier.",
+  "files": [
+   "quests/7382-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "a552e3df506c",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warmaster Garrick",
+  "quest": "Launch the Attack!",
+  "en": "It's about time! Now we can show the Alliance their folly in coming to Alterac Valley!",
+  "files": [
+   "quests/6901-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "153b320884c2",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Lieutenant Haggerdin",
+  "quest": "Legendary Heroes",
+  "en": "Surely it will be you who carries the Eye of Command!",
+  "files": [
+   "quests/7171-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "3ac2bd22283d",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warmaster Laggrond",
+  "quest": "Legendary Heroes",
+  "en": "Soon, all on the field of battle will be under your watchful eye. Command of the Valley and its troops will be yours!",
+  "files": [
+   "quests/7166-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "27f661c8b91a",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Primalist Thurloga",
+  "quest": "Lokholar the Ice Lord",
+  "en": "The blood of our enemies has been shed. I shall mix this blood with the rest that has been gathered. Once the offering is complete, the Ice Lord shall show these Stormpike dogs the full wrath of the Frostwolf Clan!",
+  "files": [
+   "quests/6801-complete",
+   "quests/7385-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "2cb8f3591299",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Murgot Deepforge",
+  "quest": "More Armor Scraps",
+  "en": "These are some good pieces, Adventurer. I can use them to fashion new equipment for our troops.\n\nIf my supply level gets high enough, then maybe our seasoned fighting units will enter the field!",
+  "files": [
+   "quests/6781-complete",
+   "quests/7223-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "911d346184c7",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Smith Regzar",
+  "quest": "More Booty!",
+  "en": "Thanks again, Adventurer. You do the Horde proud...",
+  "files": [
+   "quests/6741-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "5a27b43331bb",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Lieutenant Haggerdin",
+  "quest": "Proving Grounds",
+  "en": "You've arrived just in time, adventurer. These Frostwolf savages just won't give up! We must show them the might of the Stormpike. They must bow to our superiority.\n\nBefore you make your way to the field of battle, you will want to join the rank of Stormpike.\n\nSouthwest of Dun Baldar, you will find the Icewing Caverns. Planted deep within the caverns is a Stormpike Banner. Venture forth and recover that banner. Return it to me, and you will have earned a Stormpike initiate's insignia.",
+  "files": [
+   "quests/7162-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "1d18932936cb",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Lieutenant Haggerdin",
+  "quest": "Proving Grounds",
+  "en": "Take and wear this insignia with pride, Adventurer. As your rank among the Stormpike grows, so too will the insignia. Return to me as you gain honor with Stormpike, and I shall replace your insignia with other, more powerful insignias.\n\nPerhaps someday you will grow to be a legend on this field of battle. Should that day ever come, you will be granted the Eye of Command.",
+  "files": [
+   "quests/7162-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "7499488eda34",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warmaster Laggrond",
+  "quest": "Proving Grounds",
+  "en": "Hail, adventurer. It has been a long time since we have had the chance to answer the call of battle. The old feelings are slow to rise but once awakened, the blood does rush. The battle rage returns...\n\nAll newcomers to the Valley must first complete the rite of battle.\n\nDeep within the Wildpaw gnoll cave is a banner of the Frostwolf. Venture forth and recover the banner. Return it to me and I shall grant you the Frostwolf initiate's insignia.",
+  "files": [
+   "quests/7161-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "17f1bf65073f",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warmaster Laggrond",
+  "quest": "Proving Grounds",
+  "en": "That burning sensation you feel is your soul being awakened. Your spirit has accepted the call to arms.\n\nYou are now one of the Frostwolf, Adventurer. Congratulations.\n\nCarry this insignia with you at all times. As you advance among the ranks of Frostwolf, I will replace the insignia with other, more powerful insignias.\n\nPerhaps someday you will be exalted among the Frostwolf Clan. Should that day ever come, you will be granted the Eye of Command.",
+  "files": [
+   "quests/7161-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "ed7d14fb3b2e",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Frostwolf Wolf Rider Commander",
+  "quest": "Ram Hide Harnesses",
+  "en": "Well done, soldier. I will notify you when I have stockpiled enough of the hides.\n\nCarry on!",
+  "files": [
+   "quests/7002-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "bc60e948e6d9",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Stormpike Ram Rider Commander",
+  "quest": "Ram Riding Harnesses",
+  "en": "Well done, soldier. I will notify you when I have stockpiled enough of the hides.\n\nCarry on!",
+  "files": [
+   "quests/7026-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "7808e1c6795e",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alliance Brigadier General",
+  "quest": "Remember Alterac Valley!",
+  "en": "Make no mistake about it, Adventurer. The Horde is quite right when they say Alterac Valley is Frostwolf Territory.\n\nYou see, the Stormpike Expedition arrived as peaceful visitors to the area in search of ore and relics. The Frostwolves reacted with the most brutal and uncivilized act of aggression the Alliance has experienced.\n\nLet us never forget the brave dwarves that perished in that cowardly unannounced attack. Go now, adventurer, do your part in the battle for Alterac Valley. For the Alliance!",
+  "files": [
+   "quests/8375-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "eccdefb15c23",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alliance Brigadier General",
+  "quest": "Remember Alterac Valley!",
+  "en": "You've done your part, Adventurer. The Alliance cannot let the Horde's uncivilized acts to go unchallenged!",
+  "files": [
+   "quests/8375-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "14ea04907312",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Alliance Brigadier General",
+  "quest": "Remember Alterac Valley!",
+  "en": "You continue to honor the Alliance, Adventurer. The Horde will be crushed before long if we keep our efforts up.",
+  "files": [
+   "quests/8383-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "a2dd03d4a6c6",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Lieutenant Haggerdin",
+  "quest": "Rise and Be Recognized",
+  "en": "Let our enemies see that a soldier of rank has struck them down! Fight for the glory of Stormpike!",
+  "files": [
+   "quests/7168-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "6ebce775281d",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warmaster Laggrond",
+  "quest": "Rise and Be Recognized",
+  "en": "This new insignia reflects your rank amongst the Frostwolf. Keep it on you at all times.\n\nAnd adventurer... Die with honor!",
+  "files": [
+   "quests/7163-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "518e11cbefeb",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Frostwolf Quartermaster",
+  "quest": "Speak with our Quartermaster",
+  "en": "Hail, Adventurer! It is good to see a adventurer like yourself, eager to do his part for the Horde. Speak with me again, for I have vital tasks for you...",
+  "files": [
+   "quests/m-7123-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "aa6dd311e6fe",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Jotek",
+  "quest": "Speak with our Quartermaster",
+  "en": "Adventurer, the Frostwolf Quartermaster is looking for recruits, for tasks that lead into the mines of Alterac Valley. Speak with him; he will tell you more.\n\nFollow the road west into the bunker, then take the west exit and you'll find our quartermaster.",
+  "files": [
+   "quests/7123-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "eff5541cc9fe",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Athramanis",
+  "quest": "Staghelm's Requiem",
+  "en": "Staghelm has given the order. All trolls on the field of battle must be exterminated. Their preposterous claims of birthing night elves must be met with force and due prejudice.\n\nSlay them and return to me with their mojo. To reiterate: I want you to steal their mojo.",
+  "files": [
+   "quests/7365-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "17f3728fdc8d",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Athramanis",
+  "quest": "Staghelm's Requiem",
+  "en": "Thank you, Adventurer. The air is a little more pure.",
+  "files": [
+   "quests/7365-complete",
+   "quests/7425-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "5d0c645b640c",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Karl Philips",
+  "quest": "The Archbishop's Mercy",
+  "en": "The Archbishop is as kind as he is wise. For a man to look mercifully on such a wretched lot...\n\n\nToo kind... Just too kind.\n\nThe Archbishop asks that we take pity on the undead and grant them swift and permanent deaths. For this grand display of mercy, we merely require their black, disease ridden hearts.\n\nBring me the hearts of the Forsaken so that they may be ceremoniously incinerated at the Cathedral of Light. Make haste, Adventurer!",
+  "files": [
+   "quests/7366-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "f6cb9998b9fb",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Karl Philips",
+  "quest": "The Archbishop's Mercy",
+  "en": "Praise be to Benedictus! Another lost soul, soon to be saved by the white hot flames of the Light!\n\nGo ye, oh soldier of Light! More must be saved!",
+  "files": [
+   "quests/7366-complete",
+   "quests/7426-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "0f2394bdc1d6",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Voggah Deathgrip",
+  "quest": "The Battle for Alterac",
+  "en": "The Stormpike dwarves and their allies have invaded Alterac Valley, and we must drive them out! To win the battle for Alterac, we must defeat their general, Vanndar Stormpike!\n\nYou will find Vanndar in Dun Baldar, in the north of Alterac Valley.\n\nDestroy him, Adventurer, and then return to me.",
+  "files": [
+   "quests/7142-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "039a7f47103d",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Voggah Deathgrip",
+  "quest": "The Battle for Alterac",
+  "en": "Well done, Adventurer! Stormpikes have no hope in this foolish invasion.\n\nHah! So far, all they've done is get their general killed!",
+  "files": [
+   "quests/7142-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "d6923df349e9",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Prospector Stonehewer",
+  "quest": "The Battle of Alterac",
+  "en": "The Explorers' League believes there are artifacts in Alterac Valley, but the Frostwolf orcs won't let us explore. We can't allow the Horde to stop our scholarly pursuits! Defeat the Frostwolf general, Drek'Thar. With him dead, the orcs will lose their edge.\n\nDrek'Thar is in Frostwolf Keep, in the south of Alterac Valley. Vanquish him, and then return to me.",
+  "files": [
+   "quests/7141-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "7d2db4517cae",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Prospector Stonehewer",
+  "quest": "The Battle of Alterac",
+  "en": "Well done, Adventurer! With the Horde's nose bloodied after the death of their general, we'll have the breathing room we need to explore!",
+  "files": [
+   "quests/7141-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "f0d3aabc526a",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Lieutenant Haggerdin",
+  "quest": "The Eye of Command",
+  "en": "It is you who must lead our troops to victory, Commander! The soldiers are under your command. They will follow your direct orders. Lead them.... Crush the Frostwolf.",
+  "files": [
+   "quests/7172-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "3094bade1272",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warmaster Laggrond",
+  "quest": "The Eye of Command",
+  "en": "Channel the power of the insignia. Let the enemy hear your words. The might of the Horde is unquestionable!",
+  "files": [
+   "quests/7167-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "0b3dcc9df36e",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Corporal Teeka Bloodsnarl",
+  "quest": "The Graveyards of Alterac",
+  "en": "The battle lines of Alterac Valley are ever shifting. Territories swing back and forth as we meet our opponents in deadly combat. And graveyards, Adventurer, are where battles rage most fierce.\n\nI want you to attack an Alliance held graveyard! Find a graveyard with an Alliance banner in its midst and pull it from the ground.\n\nDo that and your task for me will be complete, but... if you hold the graveyard for a few minutes, then it will be ours and troops will come and relieve you.",
+  "files": [
+   "quests/7082-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "2a38e481e34c",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Corporal Teeka Bloodsnarl",
+  "quest": "The Graveyards of Alterac",
+  "en": "Well done, Adventurer! With each graveyard under our control, the spirits of our enemies will wander more lost and aimless.",
+  "files": [
+   "quests/7082-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "8bbdd04b3bbe",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Commander Louis Philips",
+  "quest": "The Human Condition",
+  "en": "Humans are so utterly detestable.\n\n\nWhile it is true that I am a soldier of Frostwolf, I remain a servant of Sylvanas.\n\nDuring my tour of duty, I do extra work on the side for the Dark Apothecaries of the Undercity.\n\nI have been tasked with collecting human bone chips that are to be used in curing the human condition.\n\nI am authorized to pass that task on to my subordinates.\n\nFind them. Kill them. Return their bone chips to me.",
+  "files": [
+   "quests/7363-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "b9d46291d7b1",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Commander Louis Philips",
+  "quest": "The Human Condition",
+  "en": "It would be easier if they just accepted their illness and gave in to your healing touch. It would also probably be less fun. Carry on! We'll cure them, one way or another.",
+  "files": [
+   "quests/7363-complete",
+   "quests/7423-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "a8a99034cdf2",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warmaster Laggrond",
+  "quest": "The Legend of Korrak",
+  "en": "The invading Stormpike are not the only threat in the region, soldier. The war in the Valley is waged on two fronts. The cannibal Winterax trolls also vie for power.\n\nThey are lead by Korrak the Bloodrager - a cruel and cunning beast.\n\nA strike against Korrak could prove to be a crushing blow to the Winterax clan. Slay the beast and be rewarded!",
+  "files": [
+   "quests/7181-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "2b42fbeb9fe8",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Mountaineer Boombellow",
+  "quest": "The Quartermaster",
+  "en": "Adventurer, our quartermaster charged me to direct new recruits to him. He needs supplies from caches stored in the mines of Alterac, and he'll probably send you to get them.\n\nFollow the road. You'll find our quartermaster to the west.",
+  "files": [
+   "quests/7121-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "b178c9001c2d",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Stormpike Quartermaster",
+  "quest": "The Quartermaster",
+  "en": "It's good to see fresh troops here, Adventurer, but with a little luck you'll get into some action and won't be fresh for long!\n\nSpeak with me again. I have tasks I must discuss with you....",
+  "files": [
+   "quests/7121-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "c970ef82a433",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Warmaster Laggrond",
+  "quest": "The Return of Korrak",
+  "en": "While it is true that Korrak has been slain, one question remains: Will he remain dead? Trolls are notorious for their other-worldly tribal magics. I would not be surprised if the fallen leader was raised from the dead to once more rule over his clan.\n\nYou know what to do should this ever occur.\n\n\nAnd this time, I want his skull. Just keep your eyes peeled, soldier.\n\nDismissed!",
+  "files": [
+   "quests/7381-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "2b0daeef5d02",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Lieutenant Haggerdin",
+  "quest": "The Sovereign Imperative",
+  "en": "Let's get to work!",
+  "files": [
+   "quests/7261-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "0959221327cb",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Lieutenant Rotimer",
+  "quest": "The Sovereign Imperative",
+  "en": "We are fighting a brutal battle in the valleys of Alterac. The cannibalistic Winterax trolls attack us from one side and the savage Frostwolf Clan from the other. Both must be exterminated in the name of King Magni Bronzebeard! The taking, culling, and turning of that land is a sovereign and territorial imperative to the kingdom of Ironforge.\n\nAlas, soldiers do not grow on trees! Report to Lieutenant Haggerdin outside Alterac Valley to begin your tour of duty and honor amongst the Stormpike.",
+  "files": [
+   "quests/7261-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "45ec67bf46c9",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Corporal Teeka Bloodsnarl",
+  "quest": "Towers and Bunkers",
+  "en": "Towers and bunkers are important positions, and we must capture and hold them all! So to that end, I want you to attack a bunker that is controlled by the enemy.\n\nTo do that, enter one with an Alliance banner. You will see another banner inside. Pull out that banner, and a white Horde banner will appear in its place. Well done!\n\nAt that point your task for me will be complete, but if you hold the place long enough, and if the Alliance doesn't take it back, then it will be destroyed!",
+  "files": [
+   "quests/7101-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "296897d2f23b",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Corporal Teeka Bloodsnarl",
+  "quest": "Towers and Bunkers",
+  "en": "I heard of your mission's success! That pleases me...\n\nOur troops can now charge forward with impunity, and show the Alliance that Alterac Valley is no place for them!",
+  "files": [
+   "quests/7101-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "a868e45bae17",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sergeant Durgen Stormpike",
+  "quest": "Towers and Bunkers",
+  "en": "Towers and bunkers are key defensive positions, and so we must hold as many as possible! I want you to attack a tower or a bunker in Alterac Valley.\n\nTo do that, enter a tower with a Horde banner atop it. You will see another enemy banner inside. Pull out that banner, and a white Alliance banner will appear in its place. Well done!\n\nAt that point your mission for me will be complete, but hold the area long enough, and if the Horde doesn't take it back, then it will be destroyed!",
+  "files": [
+   "quests/7102-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "4671d010eefe",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sergeant Durgen Stormpike",
+  "quest": "Towers and Bunkers",
+  "en": "I received a field report stating you helped secure an enemy banner. Well done, Adventurer! With their ranged troops out of position we can move the line of battle forward!",
+  "files": [
+   "quests/7102-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "9a242d7748ef",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Sergeant Yazra Bloodsnarl",
+  "quest": "Wanted: DWARVES!",
+  "en": "You now have license to decimate dwarves by the dozen, Adventurer!\n\n\nYou never forget your first de-spining...",
+  "files": [
+   "quests/7401-complete",
+   "quests/7427-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "2498025835a8",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wanted: DWARVES!",
+  "quest": "Wanted: DWARVES!",
+  "en": "By order of Sergeant Yazra Bloodsnarl, all dwarves on the field of battle are to be killed on sight.\n\nShould you slay a dwarf in combat, rip out their spine, leaving a spineless heap of stink and rot to serve as a warning to any and all that dare oppose the might of the Frostwolf.\n\nReturn to Sergeant Yazra Bloodsnarl with proof of your heroics.",
+  "files": [
+   "quests/7401-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "92349b3d4294",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Corporal Noreg Stormpike",
+  "quest": "Wanted: ORCS!",
+  "en": "Good, Adventurer. I expect the little mice.",
+  "files": [
+   "quests/7402-complete",
+   "quests/7428-complete"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "63f1e01ad52d",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wanted: ORCS!",
+  "quest": "Wanted: ORCS!",
+  "en": "By order of Corporal Noreg Stormpike, all able bodied soldiers of Stormpike are required to slay any opposing orcs that they meet upon the field of battle.\n\nSoldiers are required to remove a tusk or tooth from the maw of the enemy and present said tooth as proof of their accomplishment.\n\nWear protective gloves.",
+  "files": [
+   "quests/7402-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "9a1615b8a739",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Master Engineer Zinfizzlex",
+  "quest": "Zinfizzlex's Portable Shredder Unit",
+  "en": "I'm as anxious as you are to try out my portable shredder unit, traveler, but before I can make the kit, I'm going to need materials - lots of materials!\n\nTo be exact, I'm going to need a mountain of thorium, mithril, and iron. I will also need one steamsaw per unit. You'll have to get those at the lumber mill.\n\nWhen I was nosing around in here (before my capture) I noticed a pile of steamsaws at the Stormpike lumber camp.",
+  "files": [
+   "quests/6861-accept"
+  ],
+  "uiMap": 1459
+ },
+ {
+  "id": "ef3d68659dce",
+  "zone": "1459",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Master Engineer Zinfizzlex",
+  "quest": "Zinfizzlex's Portable Shredder Unit",
+  "en": "I'm as anxious as you are to try out my portable shredder unit, traveler, but before I can make the kit, I'm going to need materials - lots of materials!\n\nTo be exact, I'm going to need a mountain of thorium, mithril, and iron. I will also need one steamsaw per unit. You'll have to get those at the lumber mill.\n\nWhen I was nosing around in here (before my capture) I noticed a pile of steamsaws at the Frostwolf lumber camp.",
+  "files": [
+   "quests/6862-accept"
+  ],
+  "uiMap": 1459
+ }
+]

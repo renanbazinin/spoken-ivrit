@@ -1,0 +1,366 @@
+[
+ {
+  "id": "379e1351023e",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kalaran Windblade",
+  "quest": "The Torch of Retribution",
+  "en": "It is done...",
+  "files": [
+   "followup/4450-human-male-official"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "a7a72a504397",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kalaran Windblade",
+  "quest": "The Torch of Retribution",
+  "en": "Give me a moment to combine the pieces and apply the necessary enchantments.",
+  "files": [
+   "quests/3453-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "71453d51c591",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kalaran Windblade",
+  "quest": "The Torch of Retribution",
+  "en": "There is one final task that you must complete.",
+  "files": [
+   "quests/3453-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "8fa8f030c213",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Kalaran Windblade",
+  "quest": "The Torch of Retribution",
+  "en": "The torch must now be bound to its owner. Pick up the torch, Adventurer.",
+  "files": [
+   "quests/3454-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "872d8112b89d",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Torch of Retribution",
+  "quest": "The Torch of Retribution",
+  "en": "You grab the torch with both hands; waves of hatred and anger pulse through your being.",
+  "files": [
+   "quests/3454-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "70bdcf0c1fc4",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "Three Kings of Flame",
+  "en": "In order to summon Lord Valthalak we're first going to need to gather the other two-thirds of the amulet. To do that we need to get a brazier and some special coals to burn in it.\n\nThere are three nobles of fire, Lord Incedius in Blackrock Depths, Pyroguard Emberseer in Blackrock Spire and The Duke of Cynders in Silithus, with what we need. Collect from each a piece of their remains, and then return to me with a Hallowed Brazier, which can be purchased from the Argent Dawn if you are honored by them.",
+  "files": [
+   "quests/8961-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "80f38bac4c14",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Bodley",
+  "quest": "Three Kings of Flame",
+  "en": "I'm impressed, Adventurer, but there's no time to lose. I will give you your next task, because you will still need to acquire a few more important components before we can proceed.\n\nSpeak to me again when you feel that you are ready for the challenge that lies ahead.",
+  "files": [
+   "quests/8961-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "281947a89634",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Felnok Steelspring",
+  "quest": "Tinkee Steamboil",
+  "en": "Hi, Adventurer. Remember Tinkee Steamboil? Well, she remembers you! She sent me a message to keep an eye out for you, because... she needs your help again. I think it has something to do with her studies on dragons.\n\nYou should speak to her in the Burning Steppes, at the Flame Crest.",
+  "files": [
+   "quests/4907-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "be84c3bac647",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Tinkee Steamboil",
+  "quest": "Tinkee Steamboil",
+  "en": "Felnok was right! I do need your help again, and this time... it's going to be really dangerous.\n\nAre you ready??",
+  "files": [
+   "quests/4907-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "85057c36d0cd",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Hoard of the Black Dragonflight",
+  "quest": "Trinkets...",
+  "en": "The chest appears locked.",
+  "files": [
+   "quests/3481-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "bb7859fb6035",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Hoard of the Black Dragonflight",
+  "quest": "Trinkets...",
+  "en": "The chest opens at your touch. How much cheese could possibly be in here? There is only one way to find out.",
+  "files": [
+   "quests/3481-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "e1f6e0cd28af",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Apothecary Zinge",
+  "quest": "Vivian Lagrave",
+  "en": "Shadowmaster Vivian Lagrave is in need of your services. She is in the Badlands, in the orcish outpost of Kargath, pursuing rumors of a certain brew made by the Dark Iron dwarves of Blackrock Depths.\n\nSpeak with Vivian. She awaits you.",
+  "files": [
+   "quests/4133-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "6d3ffd9de819",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadowmage Vivian Lagrave",
+  "quest": "Vivian Lagrave",
+  "en": "Thank you for coming, Adventurer. This place is not without a stark charm, but it lacks the amenities of the Apothecarium.\n\nEnough with the pleasantries. To business, yes?",
+  "files": [
+   "quests/4133-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "d0e3e65aef92",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Apothecary Zinge",
+  "quest": "Vivian Lagrave and the Darkstone Tablet",
+  "en": "Vivian Lagrave sent me word from Kargath, in the Badlands. Through her studies, she believes there is an ancient text within Blackrock Spire that would benefit our research. To confirm this, she will need someone to extract the text from the spire. No easy task.\n\nIf interested, then speak with Vivian in Kargath.",
+  "files": [
+   "quests/4769-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "521656e9a38c",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Shadowmage Vivian Lagrave",
+  "quest": "Vivian Lagrave and the Darkstone Tablet",
+  "en": "It is true. I believe there is a tablet held within Blackrock Spire, a tablet that contains old alchemical recipes. I am glad you are here, for I need help in retrieving the tablet.\n\nMake yourself comfortable, and I will explain further.",
+  "files": [
+   "quests/4769-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "b9f90bcbb29d",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Lookout Captain Lolo Longstriker",
+  "quest": "WANTED: Overseer Maltorius",
+  "en": "I never thunk I'd be lookin' at thish ugly mug again!\n\nHe acshually looksh better without the resht o' him attached.\n\nHere's yer reward *hic*, traveler.",
+  "files": [
+   "quests/7701-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "793261a11725",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wanted/Missing/Lost & Found",
+  "quest": "WANTED: Overseer Maltorius",
+  "en": "By order o' 'is eminence, Overseer Oilfist, the rogue Thorium Brotherhood agent an' newly hired commander o' the Dark Iron Slag Pit crew o' the Cauldron, Overseer Maltorius, is to be killed an' 'is head brung back as proof o' the deed.\n\nSee Lookout Captan Lolo Longstriker fer the reward on this bounty.",
+  "files": [
+   "quests/7701-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "f9b06cd337fc",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Warlord Goretooth's Command",
+  "quest": "Warlord's Command",
+  "en": "By order of Warlord Goretooth, the following inhabitants of Blackrock Spire must be destroyed:\n\nThe rotund menace, Highlord Omokk.\n\nThe cruel and ruthless troll, War Master Voone.\n\nOverlord Wyrmthalak, taskmaster of the lesser city.\n\nYou will also be required to return any important documents that you may find.\n\nSucceed and be honored.\n\nFail and be forgotten.",
+  "files": [
+   "quests/4903-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "491aae3e897b",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Commander Gor'shak",
+  "quest": "What Is Going On?",
+  "en": "I was sent here under the auspices of Thrall. Do you actually think these buffoons could capture me? I allowed myself to be captured so that I could gather intelligence.\n\n\nThe Princess of Ironforge has been kidnapped by Emperor Thaurissan. Princess Bronzebeard is in this very city! I bet old Magni's heart almost stopped when he heard that news.\n\n\nShhh! Do you hear that? Guards coming! DEFEND YOURSELF!",
+  "files": [
+   "quests/3982-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "f2cb96ed7650",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Commander Gor'shak",
+  "quest": "What Is Going On?",
+  "en": "That was a close call. They have been alerted to your presence... more will surely come.",
+  "files": [
+   "quests/3982-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "a5df3e19edf7",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Commander Gor'shak",
+  "quest": "What Is Going On?",
+  "en": "So far, my communication with the dwarf, Kharan, in the cell across the hall, has been limited. I have, however, managed to convince him that I, rather -we- mean him no harm.\n\nGo speak with him and gather as much information about the Princess and her captors as possible. Take that information back to the Warchief.\n\nThrall does not want the Princess harmed, but instead, has some grand plan laid out, which includes her being safely returned to Ironforge. Kharan already knows all of this... Go!",
+  "files": [
+   "quests/4001-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "ba174ed7948e",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thrall",
+  "quest": "What Is Going On?",
+  "en": "This is a chance for the Horde to change the political climate of our war torn world forever. Listen carefully, Adventurer.\n\nFailure of this mission is not an option.",
+  "files": [
+   "quests/4001-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "48ca8ff7dec8",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Master Smith Burninate",
+  "quest": "What the Flux?",
+  "en": "When that bastard, Maltorius, left our clan, he left with something more valuable than a pristine arcane crystal: Our recipe for fiery flux! I'd bet anything that the recipe was part of the deal in his new promotion amongst the Dark Irons.\n\nI want you to get our secret plans back, Adventurer. I'm sure they're somewhere near Maltorius, deep inside the Slag Pit.",
+  "files": [
+   "quests/7722-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "05f4c2044d9a",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Master Smith Burninate",
+  "quest": "What the Flux?",
+  "en": "I hope you kicked his teeth in too, Adventurer. Ragnaros knows, he deserved it.\n\nNow we can get down to business.",
+  "files": [
+   "quests/7722-complete"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "526890edddf4",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Yorba Screwspigot",
+  "quest": "Yuka Screwspigot",
+  "en": "Although my little brother Ribbly has been worthless his whole life, I think, finally, he has some value! But... we might need your help to capitalize on Ribbly's newfound worth.\n\nMy sister Yuka has been looking for him for weeks, and tracked him to the Burning Steppes. She sent word to me, asking for some hired hands.\n\nSo, what do you say? Want to help? If so, then speak with my sister. You'll find her holed up in Flame Crest, a cave northwest of Dreadmaul Rock.",
+  "files": [
+   "quests/4324-accept"
+  ],
+  "uiMap": 1427
+ },
+ {
+  "id": "0ad6fd65873c",
+  "zone": "searing-gorge-2",
+  "kind": "quest",
+  "voice": "goblin-female",
+  "speakerGender": "female",
+  "npc": "Yuka Screwspigot",
+  "quest": "Yuka Screwspigot",
+  "en": "Yes, I'm looking for my brother. We must find him and retrieve him, bless his heart.\n\nBut if we can't bring all of him... then his head will suffice.",
+  "files": [
+   "quests/4324-complete"
+  ],
+  "uiMap": 1427
+ }
+]

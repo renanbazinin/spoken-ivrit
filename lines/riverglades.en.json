@@ -1,0 +1,30 @@
+[
+ {
+  "id": "674bdf8e833d",
+  "zone": "riverglades",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Avette Fellwood",
+  "quest": "Remember That I Love You",
+  "en": "Oh no...\n\nIt's nice of you to bring this, but I don't think Jeremy is ready to see it. Matron Nightingale said my little Jeremy hasn't spoken since the attack on Lordaeron, and I don't intend to force him now. Showing him this will only cause him more pain.\n\nDon't look at me like that. I won't hide his past from him, but he needs time to heal. I'll give this to him when he's older. Thank you for stopping by, but I think it's time you should go.",
+  "files": [
+   "quests/95161-complete"
+  ],
+  "uiMap": 2548
+ },
+ {
+  "id": "2c5183c7a503",
+  "zone": "riverglades",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Orphan Matron Nightingale",
+  "quest": "Remember That I Love You",
+  "en": "If you're looking for Jeremy Heartweaver, your best bet is to talk to his newly adopted mother, Avette Fellwood out in Duskwood. Sweet woman. Likely needs another pair of hands for her work, but it beats staying in the orphanage.\n\nIf you see little Jeremy do be sure to tell him we're all thinking of him, won't you?",
+  "files": [
+   "quests/95161-accept"
+  ],
+  "uiMap": 2548
+ }
+]

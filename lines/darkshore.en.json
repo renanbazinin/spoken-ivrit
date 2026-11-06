@@ -1,0 +1,2523 @@
+[
+ {
+  "id": "fb711025644b",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Terenthis",
+  "quest": "A Lost Master",
+  "en": "I shall get started right away, adventurer.",
+  "files": [
+   "followup/1247-nightelf-male-official"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "fd1d78208aeb",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Terenthis",
+  "quest": "A Lost Master",
+  "en": "Now... where was my thread and needle. Ah! There it is...",
+  "files": [
+   "followup/1248-nightelf-male-official"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "b4116be00d93",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Terenthis",
+  "quest": "A Lost Master",
+  "en": "Go now, adventurer. Find Volcor... and remember, the magics protecting you will fail if you interact with anyone, save for talking.",
+  "files": [
+   "followup/1289-nightelf-male-official"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "7cfcb551f870",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Terenthis",
+  "quest": "A Lost Master",
+  "en": "Adventurer, your skills have already helped me in my endeavor. Could I impose on you again to help Grimclaw and his master Volcor? In addition, I can craft you a magical cloak that will allow you to walk unhindered by Darkshore's creatures while you look for him.\n\nTo create the cloak, I'll need five fine moonstalker pelts from a moonstalker sire or matriarch to have enough material. The cats can be found near Wildbend River to the south, or even farther south near Ashenvale.",
+  "files": [
+   "quests/986-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "1b613052c4e8",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Terenthis",
+  "quest": "A Lost Master",
+  "en": "These will do nicely, Adventurer. I shall set to work on the cloak immediately.\n\nGive me a few moments, then return to me.\n\nOh, one more thing: after you've used the enchantment on the cloak you'll be limited in your interactions with others. If you can help it, do no more than speak to others. Much more than that could dispel the illusion.",
+  "files": [
+   "quests/986-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "12a085292e81",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Terenthis",
+  "quest": "A Lost Master",
+  "en": "The cloak is complete, Adventurer. The time has come to find Volcor. I can only hope we are in time.\n\nThe cloak's magic, once invoked, will not last long; perhaps five minutes. It will be up to you to know when to use it: I would suggest waiting until you find Grimclaw.\n\nIf what he has told me is true, you will find his master in a cave south of here. Grimclaw will be alongside the road waiting for you. Signal to him by waving when you see him, and he'll point the way towards his master.",
+  "files": [
+   "quests/993-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "1345e0d5a154",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Volcor",
+  "quest": "A Lost Master",
+  "en": "Wonderful! Terenthis found someone to help me.\n\nAnd look, a moonstalker cloak...Oh... that hurts. Thank you, Adventurer.\n\nThe furbolgs wounded me before I managed to evade them. Give me a moment, and I should be fine to talk some more.",
+  "files": [
+   "quests/993-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "db6aa1b7f62e",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Mysterious Red Crystal",
+  "quest": "As Water Cascades",
+  "en": "You have made it once more to the mysterious crystal. Removing the stopper on the tube of moonwell water, you gingerly pour the contents out over the top of the crystal. As the water cascades down its lattices, you see the opaque surface turn transparent...",
+  "files": [
+   "quests/4812-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "fe1b2fc9046c",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Glynda Nal'Shea",
+  "quest": "As Water Cascades",
+  "en": "Use this empty vial and fill up on some moonwell water here in Auberdine. Such potent magic should provide a clue as to the composition of the crystal. To do that, you'll pour the liquid over the crystal; it should take care of the rest.\n\nWhile I don't anticipate anything bad happening to you, I still want you to be careful. Above us to the east is Felwood; if that crystal is tied to that place as I suspect it is, then it could prove to be very dangerous.",
+  "files": [
+   "quests/4812-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "5e6d81499472",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Asterion",
+  "quest": "Bashal'Aran",
+  "en": "Ahh... To what could I possibly owe the exceedingly special honor of a traveler such as yourself as company. Truly it says much of my current companions--with no offense to my hosts, the noble grells and satyrs--that your presence could be considered an improvement.\n\nBut please, do not let my uncivil tongue drive you from the place. It has indeed been many years, decades even, since I had civil accompaniment.",
+  "files": [
+   "quests/954-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "568411f6e9cb",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Asterion",
+  "quest": "Bashal'Aran",
+  "en": "If I were to relate the story of my life, I have no doubt it would surpass the limits of your patience. Let us say that mine has been a long and painful life, and this spectral form is perhaps the worst torment of all.\n\nI am held here by the means of magic. Though my words may seem disingenuous, I assure you I would be grateful beyond words if you would help me find the means of my imprisonment. A seal binds me, and by examining the earpieces of the sprites and grells, I may find a trace of it.",
+  "files": [
+   "quests/955-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "69b6d9a98f1e",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Asterion",
+  "quest": "Bashal'Aran",
+  "en": "Indeed... The grells of Bashal'Aran do not possess that which I am searching... however they have come into contact with it recently. Recently... I would reckon that by your time, not mine. Recent for me stretches into the veil of the past, almost another Age...",
+  "files": [
+   "quests/955-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "c9bfecd602ed",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Asterion",
+  "quest": "Bashal'Aran",
+  "en": "If the grells have come into close contact with the seal that binds my eternal prison, I suspect I know the cause. No doubt the seal has come into the possession of the satyr that lead them.\n\nI feel strongly that this must be true, adventurer. One of the satyr must surely possess it. If you can obtain it, you would bring me so close to passing the bars of my prison that tears would come to my eyes.",
+  "files": [
+   "quests/956-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "2f4d82d29946",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Asterion",
+  "quest": "Bashal'Aran",
+  "en": "It... it is hard for me to even believe that what I hold now is that which has held me for so long. Let us waste no time, adventurer. When the seal is destroyed, I might walk the forests of the earth freely again.",
+  "files": [
+   "quests/956-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "db3f934b3aff",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Asterion",
+  "quest": "Bashal'Aran",
+  "en": "It was the craft of one of the most powerful of the Highborne that created the seal that formed my prison. In Ameth'Aran, the ruins to the south that are twin to these, persists even today an ancient flame, blue in color. In this flame this seal could be destroyed.\n\nBe wary in the ruins, adventurer...",
+  "files": [
+   "quests/957-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "5241c948b505",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Asterion",
+  "quest": "Bashal'Aran",
+  "en": "I am freed, adventurer! I can now see with my own eyes the changes that have come to our world... Only bits and pieces have I known. To think that when I last walked freely, the Well still stood and the Highborne held court with Azshara, our beloved queen.\n\nI sense that my jailor, my former master, Athrikus, still lives... Already my feelings of hopelessness will give way into thoughts of vengeance.",
+  "files": [
+   "quests/957-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "b35633f022bf",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Thundris Windweaver",
+  "quest": "Bashal'Aran",
+  "en": "The ruins of Bashal'Aran to the east are overrun with demonic minions. The sprites and satyrs that have taken up residence in the area feed upon the magical energies of the area, their powers growing from continued exposure.\n\nEven with that, I have noticed that there is one shrine they will not approach. On the western side of the ruins, atop a small bluff, a strange blue aura permeates... There must be an explanation to the demons' reluctance.\n\nI would like you to investigate it.",
+  "files": [
+   "quests/954-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "787afb804718",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Beached Sea Creature",
+  "quest": "Beached Sea Creature",
+  "en": "The remains of a giant thresher - much larger than one you'd expect to find in Darkshore - lie beached on the coast of the Mist's Edge. How this creature came to be here is unknown; the group of murlocs that now feast off the carcass of it seem to be much too weak, even in large numbers, to have brought down the beast. \n\nWhile some of it has been picked clean, enough of it remains to take a sample for Gwennyth Bly'Leggonde in Auberdine to study.",
+  "files": [
+   "quests/4723-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "b621c1c0ead5",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Beached Sea Creature",
+  "quest": "Beached Sea Creature",
+  "en": "The corpse of what appears to be some sort of giant sea mammal lies partially gutted on the beach. A wheelbarrow and various tools lie abandoned by this enormous beached sea creature, as though an attempt to study it had been made previously. Though murlocs have scavenged this beast, enough of it remains to gather a suitable sample for Gwennyth Bly'Leggonde in Auberdine.",
+  "files": [
+   "quests/4728-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "33affbc5eb62",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Beached Sea Creature",
+  "quest": "Beached Sea Creature",
+  "en": "The half-devoured corpse of what might have been a giant sea mammal lies on the beach. A band of murlocs, stronger than those found closer to Auberdine, have taken up residence around the fallen creature. Enough of the creature remains that a suitable sample of its bones could be delivered to Gwennyth Bly'Leggonde in Auberdine.",
+  "files": [
+   "quests/4730-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "ffe78eaad469",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Beached Sea Creature",
+  "quest": "Beached Sea Creature",
+  "en": "The remains of what appear to be a giant thresher have washed ashore on the rocky inlet of the Twilight Shore. The thresher is several times larger than any of the other threshers spotted in these parts. Wherever it came from, this creature would not seem to have been native to Darkshore.\n\nThough the creature has been picked apart in places, enough of it remains to gather a suitable sample for Gwennyth Bly'Leggonde in Auberdine.",
+  "files": [
+   "quests/4733-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "093d50672bad",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Gwennyth Bly'Leggonde",
+  "quest": "Beached Sea Creature",
+  "en": "Another discovery - well done Adventurer! These remains will be properly studied once they get to Darnassus. Please accept this small honorarium in exchange for the remains you have provided for our study.",
+  "files": [
+   "quests/4723-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "f210438f7c46",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Gwennyth Bly'Leggonde",
+  "quest": "Beached Sea Creature",
+  "en": "Ah, I believe you discovered one that was originally being examined by the Explorer's League. They have a presence here in Darkshore, and they had mentioned that they were studying one of the beached creatures until they were chased out by the murlocs. You appear to have succeeded where we both have not. Please - accept this honorarium on behalf of the Temple of the Moon.",
+  "files": [
+   "quests/4728-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "9fe734b7cecb",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Gwennyth Bly'Leggonde",
+  "quest": "Beached Sea Creature",
+  "en": "The bones you have are from gentle sea mammals that are known to inhabit the waters surrounding the base of Teldrassil. They had never been known to violently beach themselves like the threshers had been known to. Why would these creatures do this, I wonder? Well, perhaps the study of their remains will bear the fruits of knowledge that we seek.\n\nAgain, thank you for your aid. Please accept this honorarium from the Temple of the Moon.",
+  "files": [
+   "quests/4730-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "27cdc150291d",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Gwennyth Bly'Leggonde",
+  "quest": "Beached Sea Creature",
+  "en": "The dimensions of the thresher you mention are mind-boggling. Even the eldest of the threshers in this region grow to only a fraction of that size. While some larger ones were known to be close to Teldrassil, their numbers have declined steadily. I cannot help but wonder if these creatures beaching themselves here are somehow related to this.\n\nWhile we analyze the bones you have brought us, please accept this on behalf of the Temple of the Moon. Thank you, Adventurer.",
+  "files": [
+   "quests/4733-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "03c69b562793",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Beached Sea Turtle",
+  "quest": "Beached Sea Turtle",
+  "en": "You find a corpse of a sea turtle that had beached itself on the coast of Darkshore some time ago. It has been scavenged by the murlocs who have encamped themselves around the creature's remains. Still, there appear to be some suitable samples left on the creature's remains that Gwennyth Bly'Leggonde in Auberdine might be able to make use of.",
+  "files": [
+   "quests/4722-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "c2c315a361a1",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Beached Sea Turtle",
+  "quest": "Beached Sea Turtle",
+  "en": "More sea turtle remains lie beached along the coastline. This particular set has an abandoned carriage attached to the turtle's shell. Perhaps this creature was driven to the shoreline by unknown beings rather than beaching itself as some of the other remains suggested. Greymist murlocs now make the remains of this creature their home, feasting off the carrion.\n\nIn the carriage, you find a box with strange markings on it; perhaps Gwennyth Bly'Leggonde in Auberdine can make sense of it.",
+  "files": [
+   "quests/4725-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "a0ae219b8147",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Beached Sea Turtle",
+  "quest": "Beached Sea Turtle",
+  "en": "The skeletal remains of a sea turtle lie in the sand of the northern Darkshore beaches. The Greymist murlocs have either not found this carcass, or perhaps they have and are shying away from it for some unknown reason. Regardless, there is enough of the turtle left to take a sample back to Gwennyth Bly'Leggonde in Auberdine for the Temple of the Moon to study.",
+  "files": [
+   "quests/4727-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "8ccd11129508",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Beached Sea Turtle",
+  "quest": "Beached Sea Turtle",
+  "en": "Another set of sea turtle remains lie beached on the coastline. This set of remains has an abandoned carriage half buckled to the turtle's shell. Perhaps this creature was driven to the shoreline by unknown beings rather than beaching itself as some of the other remains suggested. Powerful Greymist murlocs have made the carcass of this creature their current home.\n\nIn the carriage, you find a box with strange markings on it; perhaps Gwennyth Bly'Leggonde in Auberdine can make sense of it.",
+  "files": [
+   "quests/4731-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "50f2355b54bf",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Beached Sea Turtle",
+  "quest": "Beached Sea Turtle",
+  "en": "You find a corpse of a sea turtle that had beached itself on the coast of Darkshore some time ago. It has been picked nearly clean by Greymist murlocs, the very ones who now have encamped themselves around the creature's remains. Still, there appear to be some suitable samples left on the creature's remains that Gwennyth Bly'Leggonde in Auberdine might be able to make use of.",
+  "files": [
+   "quests/4732-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "ca1bf9a1c30f",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Gwennyth Bly'Leggonde",
+  "quest": "Beached Sea Turtle",
+  "en": "Another discovery for us to research - well done Adventurer! These remains will be properly studied once they get to Darnassus. Please accept this small honorarium in exchange for the remains you have provided for our study.",
+  "files": [
+   "quests/4722-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "b64eac175cac",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Gwennyth Bly'Leggonde",
+  "quest": "Beached Sea Turtle",
+  "en": "I have heard of the kinds of carriages found on the back of the turtle you found. Those I do believe are naga carriages, used both in battle and in transportation of their supplies on to land. The markings on the box you found are of the naga; this would explain their invasive presence in far-northern Darkshore.\n\nI will send this box to Darnassus along with the rest of your discoveries. This is for you - thank you again for your assistance.",
+  "files": [
+   "quests/4725-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "2fd1efba7bc3",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Gwennyth Bly'Leggonde",
+  "quest": "Beached Sea Turtle",
+  "en": "It is interesting that the murlocs were not present at this site; we will keep this in mind as we study this creature's remains! Thank you for your effort, Adventurer; the Temple of the Moon would like for me to give you this, as compensation for your time.",
+  "files": [
+   "quests/4727-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "8ee556e75f53",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Gwennyth Bly'Leggonde",
+  "quest": "Beached Sea Turtle",
+  "en": "I have heard of the kinds of carriages found on the back of that turtle. Those I do believe are naga carriages, used both in battle and in transportation of their supplies on to land. The markings on the box you found are of the naga; perhaps the creature you discovered was killed as it was heading further south... to Ashenvale maybe?\n\nI will be sure to send this box to Darnassus with the rest of your discoveries. This is for you - thank you again for your assistance.",
+  "files": [
+   "quests/4731-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "581b5540d39d",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Gwennyth Bly'Leggonde",
+  "quest": "Beached Sea Turtle",
+  "en": "You've found even more beached creatures, Adventurer? Sea turtles were commonly found frolicking along the base of Nordrassil before it was destroyed. With the birth of Teldrassil, however, these creatures have been seen in ever decreasing numbers. Some, as we have discovered, end their lives here for some unknown reason.\n\nYour aid will perhaps unlock the mystery before us. Please accept this in exchange for the remains you have provided for our study.",
+  "files": [
+   "quests/4732-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "0d7af9a2aacb",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Borgus Steelhand",
+  "quest": "Business in Auberdine",
+  "en": "Pleasure to make yer acquaintance! Name's Borgus, of the one and only Steelhand family. You can always count on a Steelhand fer a fair deal!\n\nA few weeks back me brother Gorbold joined up with a merchant stall in Auberdine. Plenty of coin to be made supplyin' ships there, let me tell you! Lucky sod.\n\nI haven't heard from him since--mind checking on him if yer heading that way?\n\nThere's a new ship in the harbor that will take ye straight there. Head to the southern-most dock; can't miss it!",
+  "files": [
+   "quests/97894-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "4245408dee08",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gorbold Steelhand",
+  "quest": "Business in Auberdine",
+  "en": "Old Borgy sent you? Always looking out for me.\n\nWe could certainly use another set of hands around here. Business has all but stopped with the recent tragedy, and I think you could help set things right.",
+  "files": [
+   "quests/97894-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "49d8f5ebbb0d",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Buzzbox 323",
+  "quest": "Buzzbox 323",
+  "en": "The Buzzbox suddenly leaps into action, and you can hear the distinct sounds of teeth being ground to dust coming from within.\n\n\"Sho, ya made it! Thatsh exshellent newsh... Sho... Why doncha move along? Oh! Unless you want another job!\"",
+  "files": [
+   "quests/1002-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "37934ea1d31d",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Buzzbox 411",
+  "quest": "Buzzbox 323",
+  "en": "The Buzzbox gives a burst of static as you hear Wizbang begin to speak.\n\n\"The next Buzzbox is number 323. Ish north of Auberdine but... where's the ale? Wha? Oh, ish on the road sho ya shouldn't have trouble finding it near the bridge.\"\n\nWizbang mumbles something incoherent before you hear a loud gulping sound.\n\n\"Thish one needs Moonstalker Fangs... 6 of 'em.\"",
+  "files": [
+   "quests/1002-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "86e352b8c33b",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Buzzbox 411",
+  "quest": "Buzzbox 411",
+  "en": "The Buzzbox hums to life soon after you place the Thresher Eyes inside. There is a moment of static before you hear a familiar tiny voice call out.\n\n\"Crawler wine is the best...\" *hic*\n\n\"What? Oh, you fixed it already? Wow, you're a fasht one. Sho, would ya like to fix another?\"\n\nYou believe you hear a liquid being poured into a cup, followed by loud gulping sounds.",
+  "files": [
+   "quests/1001-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "8392737a657b",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Buzzbox 827",
+  "quest": "Buzzbox 411",
+  "en": "A tiny voice crackles from deep within the machine.\n\n\"Wizbang here! The next Buzzbox is north of Auberdine, on the beach\n\nSo, that Buzzbox is number 411 and it needs 3 Thresher Eyes for its repairs. They're just off the coast! The darkshore threshers... *Hic*... Sorry about that...\n\nJust like last time, when you give the Buzzbox the goods, it'll spit out your reward. *Hic*... What? No, I'm fine!\"",
+  "files": [
+   "quests/1001-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "7b663616ddf2",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Buzzbox 323",
+  "quest": "Buzzbox 525",
+  "en": "Over the boiling noises and dripping sounds coming from the machine, you hear Wizbang's wavering voice call out.\n\n\"Nexsht onesh far south down the road. Shouldn't be hard to find... jusht off to the shide... near a fensh. I think I hid it in shum bushesh... Bushessh. Hehehe... Yesh, Buzzbox 525 takes grizzled scalps from thoshe grizzled thistle bears. Boy thash a mouthful. Grizzshled... Hehehe...\"\n\nYou hear more gulping sounds as the machine cuts out. Then, suddenly, it bursts back to life.\n\n\"4!\"",
+  "files": [
+   "quests/1003-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "43b3d86b9ae5",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Buzzbox 525",
+  "quest": "Buzzbox 525",
+  "en": "\"Sho yash gotsh the scalps in? That'sh sho great... Wha? Well, yesh I shuppose ya have realized that I can speaksh to ya without the materials in the machine. But I was telling the truth when I shaid they were broken!\n\nSee, in addition to being communimacation toolsh, the Buzzboxes also brew and distill fine liquor. Shorry for any deceptshion, but the nightelves do not apprecimerate my liquor trade in their townsh. I put shomething special in thish box to show my gratitude for yer effortsh. Enjoy!\"",
+  "files": [
+   "quests/1003-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "2208e64fd9c4",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Buzzbox 827",
+  "quest": "Buzzbox 827",
+  "en": "As you place the Crawler Legs inside the machine, you hear gears begin to grind. Judging from the banging sounds coming from the Buzzbox, you believe the Crawler Legs are being put in their proper place. Soon the machine begins to hum, and you hear a tiny voice calling out from within.\n\n\"Hello? Uhh... Hello! You fixed it! This is Wizbang by the way! Thanks a lot... Hey, you wouldn't want to fix another one, would ya?\"",
+  "files": [
+   "quests/983-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "9b8ac83db1ee",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Wizbang Cranktoggle",
+  "quest": "Buzzbox 827",
+  "en": "Hey! Help me with my latest invention, the buzzbox. You can talk to people far away!\n\nMaybe you've already seen them, they're boxes with levers on them. The only problem is they need constant maintenance.\n\nEach one suffers from a different problem, but I made a really smart decision. I placed each one near creatures that have the proper parts to fix that particular machine. Right now Buzzbox 827 is on the fritz. It's just south of Auberdine, real close. It takes 6 Crawler Legs to fix it. I'll pay ya...",
+  "files": [
+   "quests/983-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "e60957e6559c",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Barithras Moonshade",
+  "quest": "Cave Mushrooms",
+  "en": "Cliffspring Falls lies along the mountains to the east and north.",
+  "files": [
+   "followup/1210-nightelf-male-official"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "0795e3f462d3",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Barithras Moonshade",
+  "quest": "Cave Mushrooms",
+  "en": "Thank you, adventurer. And luck to you.",
+  "files": [
+   "followup/1211-nightelf-male-official"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "273faaaa5454",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Barithras Moonshade",
+  "quest": "Cave Mushrooms",
+  "en": "I am devising a potion that requires rare mushrooms, mushrooms that grow only in a certain cave. The cave lies behind Cliffspring Falls, to the east and slightly north along the mountains.\n\nI would go there myself, but I was advised by the Grove of the Ancients to stay away from that place. Our venerable allies sense that the cave is the hiding place for a new evil in Darkshore.\n\nPlease, Adventurer, gather the mushrooms for me. And while doing so, scout the cave to confirm the Ancients' fears.",
+  "files": [
+   "quests/947-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "8454e9dc22b1",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Barithras Moonshade",
+  "quest": "Cave Mushrooms",
+  "en": "Many thanks, Adventurer. These mushrooms are fine specimens!\n\nAnd when you were at Cliffspring Falls, did you find anything to confirm the warnings of the Ancients?\n\nThe Ancients are wise, but I had hoped that, this time, they were wrong.",
+  "files": [
+   "quests/947-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "a5c0d0722051",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Tharnariun Treetender",
+  "quest": "Cleansing of the Infected",
+  "en": "As I had feared, the cure does not work.\n\nIt saddens me greatly to order the death of any of nature's beasts, but the sick and tainted thistle bears must be put down.\n\nReturn to the forest and destroy 20 rabid thistle bears, Adventurer. It will most certainly not put a stop to the plague but it will slow down the damage the animals are doing to our forest and its inhabitants for a short time.",
+  "files": [
+   "quests/2138-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "a683b1f328d2",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Tharnariun Treetender",
+  "quest": "Cleansing of the Infected",
+  "en": "You have done Auberdine a great service, Adventurer, but your task is not yet complete.\n\nReturn to me once you have rested.\n\n...and Adventurer, prepare your mind and soul for more bloodshed.",
+  "files": [
+   "quests/2138-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "42547ca83718",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gorbold Steelhand",
+  "quest": "Deep Ocean, Vast Sea",
+  "en": "Off the coast of Darkshore to our north are two wrecked ships - the Silver Dawning and the Mist Veil. Some time ago, both ships ran afoul of the blasted murlocs as they sailed across the vast sea into Auberdine. They now lie at the bottom of the ocean as trophies for those fiends.\n\nBoth captains didn't make it out that night, and their logs and other effects are still below in lockboxes. I'd like for you to recover them for us; it would mean a lot to the crew members still around these parts.",
+  "files": [
+   "quests/982-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "13bb4a55f2a1",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gorbold Steelhand",
+  "quest": "Deep Ocean, Vast Sea",
+  "en": "You've done us here in Auberdine a great service, lad. We'll make sure that their effects are properly taken care of.\n\nAs for you, please have this. It is the least I can do for someone with the bravery to set things right.",
+  "files": [
+   "quests/m-982-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "44260a7b280a",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Selarin",
+  "quest": "Escape Through Force",
+  "en": "Terenthis, Raene sent me to find you. The Sentinels are in need of help in Ashenvale.",
+  "files": [
+   "followup/1302-nightelf-female-sentinel"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "5bb406cfad94",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Selarin",
+  "quest": "Escape Through Force",
+  "en": "Thank you, Terenthis. I shall remain here for as long as I can.",
+  "files": [
+   "followup/1303-nightelf-female-sentinel"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "c428b462a4a9",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Selarin",
+  "quest": "Escape Through Force",
+  "en": "Hopefully I can send a worthy few to help Ashenvale and the Sentinels.",
+  "files": [
+   "followup/1304-nightelf-female-sentinel"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "008a7a6d14da",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Terenthis",
+  "quest": "Escape Through Force",
+  "en": "Hello, Selarin. I'm afraid I cannot help you at the moment, but perhaps some of the adventurers here in Auberdine can...",
+  "files": [
+   "followup/1305-nightelf-male-official"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "c592af76dd05",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Terenthis",
+  "quest": "Escape Through Force",
+  "en": "Adventurer! I'm pleased to see you've returned successfully. Your assistance to Volcor has given me faith that we can overcome the challenges facing us here in Darkshore and beyond.",
+  "files": [
+   "quests/994-complete",
+   "quests/995-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "17e28d178168",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Volcor",
+  "quest": "Escape Through Force",
+  "en": "All right, Adventurer, force it is. Let's get out of here as soon as you're ready. We'll fight our way down to the road--Grimclaw should still be there. Once there, we can part ways.\n\nTerenthis will want to hear your version of the story immediately, so head to Auberdine after we make it out of here.",
+  "files": [
+   "quests/994-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "3e56c52f1060",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Volcor",
+  "quest": "Escape Through Stealth",
+  "en": "All right then... if you're sure, we'll sneak out of here. Let us leave when you're ready.\n\nRemember, after you've escaped, meet Terenthis back in Auberdine. I'll head there on my own since I'll probably be moving faster than you.",
+  "files": [
+   "quests/995-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "99cf46e41f31",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Laird",
+  "quest": "Flight to Auberdine",
+  "en": "A package from Nessa? Thank you, Adventurer! She told me she would send me samples of the fish caught near Rut'theran village. She thinks they may be very different from the fish caught here...\n\nMy! This jawbone is nearly twice the size of the same fish found here. And these scales are as big as a closed fist! Amazing!",
+  "files": [
+   "quests/6342-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "a71d0ae84b29",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Vesprystus",
+  "quest": "Flight to Auberdine",
+  "en": "From Rut'theran, there are two methods of travel to Auberdine: by ferry and by hippogryph. Both are quick and reliable, but if you have not yet flown to Auberdine by hippogryph, then I suggest you do.\n\nIt is sound advice to speak with the hippogryph master in every town that has one. Once you speak to the master, you can then fly there from other towns.\n\nHere is Nessa's collection. Speak with me again when you are ready to fly to Auberdine and deliver Nessa's collection to Laird.",
+  "files": [
+   "quests/6342-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "318962a651cb",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Anaya",
+  "quest": "For Love Eternal",
+  "en": "The ages have been cruel to you and I, my love, but be assured, it is, and at long last we are reunited.",
+  "files": [
+   "followup/1279-nightelf-female-standard"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "57516a803b4d",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Anaya",
+  "quest": "For Love Eternal",
+  "en": "Let it not trouble your heart, beloved. You have freed me from slavery, and for that I love you all the more.",
+  "files": [
+   "followup/1282-nightelf-female-standard"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "a3799239eca4",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Anaya",
+  "quest": "For Love Eternal",
+  "en": "Sadly, even this must be cut short... The ties that bind me to this world weaken, and pull me away...",
+  "files": [
+   "followup/1283-nightelf-female-standard"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "efbd938828d1",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Anaya",
+  "quest": "For Love Eternal",
+  "en": "Farewell, Cerellean, until we are joined once again...",
+  "files": [
+   "followup/1284-nightelf-female-standard"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "b572a1f83d34",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Cerellean Whiteclaw",
+  "quest": "For Love Eternal",
+  "en": "Anaya...? Do my eyes deceive me? Is it really you?",
+  "files": [
+   "followup/1278-nightelf-male-standard"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "140a5d32d306",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Cerellean Whiteclaw",
+  "quest": "For Love Eternal",
+  "en": "That the fates should be so cruel as to permit us only this after a thousand years apart...",
+  "files": [
+   "followup/1280-nightelf-male-standard"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "a872fd6d166c",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Cerellean Whiteclaw",
+  "quest": "For Love Eternal",
+  "en": "Do you hate me, my love? That I was forced to destroy your living form, that your spirit be released from unhappy bondage.",
+  "files": [
+   "followup/1281-nightelf-male-standard"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "2a063aea9f3d",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Cerellean Whiteclaw",
+  "quest": "For Love Eternal",
+  "en": "No! Anaya... Anaya! Don't leave me! Please...",
+  "files": [
+   "followup/1286-nightelf-male-standard"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "dd7c04c55d19",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Cerellean Whiteclaw",
+  "quest": "For Love Eternal",
+  "en": "How, my love? How will I find the strength to face the ages of the world without you by my side...",
+  "files": [
+   "followup/1287-nightelf-male-standard"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "4681cbf4bb6e",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Cerellean Whiteclaw",
+  "quest": "For Love Eternal",
+  "en": "In the aftermath of the battles at the Well of Eternity, I heard that Ameth'Aran had been destroyed, its people dead, including my love, Anaya.\n\nI would never have thought, thousands of years later, that memories of Anaya would still haunt my dreams. Wandering the woods of Darkshore in a stupor, I found myself in the ruins of Ameth'Aran... where I saw the haunted spirit of my beloved.\n\nShe must be freed, but I lack the heart to do it. Her spirit must be destroyed.",
+  "files": [
+   "quests/963-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "351278cdbf61",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Cerellean Whiteclaw",
+  "quest": "For Love Eternal",
+  "en": "Thank you, adventurer. Perhaps it would have been better... if I had done it myself. But even after these thousands of years, I could not bear to raise my hand against my beloved.\n\nPlease, I would be alone with my grief...",
+  "files": [
+   "quests/963-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "601ee92613af",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gubber Blump",
+  "quest": "Fruit of the Sea",
+  "en": "I love crab. Crabs are the fruit of the sea! You can bake it, barbecue it, boil it, and broil it. They're pan fried, deep fried, and stir fried. There's crab salad, crab soup, crab stew, pepper crab, lemon crab, whipper root crab, and Ironforge surprise crab. That's... that's about it.\n\nI'm here fishing right now, so I can't get any fine crab chunks. You can pick them out of reef crawlers and encrusted tide crawlers. You can make a lot with it. You can bake it, barbecue it, boil it...",
+  "files": [
+   "quests/1138-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "25492f68fa06",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gubber Blump",
+  "quest": "Fruit of the Sea",
+  "en": "Wow, these fine crab chunks are what I need. Thanks Adventurer! I found this while I was fishing a while ago, and I have no use for it. Maybe you can do something with it. It sure don't make any good crab dishes.\n\nI told you all about crabs, right?",
+  "files": [
+   "quests/1138-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "34754399bf68",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Fandral Staghelm",
+  "quest": "Grove of the Ancients",
+  "en": "If you had enough time to run messages for the Oracle Tree, then I'm sure that I can press you into service to deliver a message to the Grove of the Ancients in Darkshore, due south of Auberdine.\n\nYou will most likely have to secure transport on a hippogryph, but I have faith enough in you that you can manage that. Take this to Onu, the Ancient of Lore. He has been awaiting word from me, even as I waited for news from the Oracle Glade.",
+  "files": [
+   "quests/952-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "0c4a0ec947da",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gelkak Gyromast",
+  "quest": "Gyromast's Retrieval",
+  "en": "A pirate's life ain't an easy one, landlubber. It ain't all about plunderin' and booze! Alas, me ship be sunk just off shore thanks to them pesky Threshadons.\n\nWhat I be needin' is me first mate back in workin' order!\n\nWhen I washed up'n shore, the key for me first mate broke on the rocks and was pilfered by the beasties of Darkshore. Out of the corner of me eyes I saw some of them Ragin' Crawlers, Ferocious Foreststrider, and murloc rummaging through the wreckage....",
+  "files": [
+   "quests/2098-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "1ccb39cd09c8",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gelkak Gyromast",
+  "quest": "Gyromast's Retrieval",
+  "en": "Avast ye scurvy sea dog! Ye did it! Soon me first mate be back in workin' order and them beasties won't know what hit em!\n\nHrm, have ye seen me first mate?",
+  "files": [
+   "quests/2098-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "c6bea4bc1796",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gelkak Gyromast",
+  "quest": "Gyromast's Revenge",
+  "en": "Landlubber, ye needs to find me first mate.\n\nTake this'n key, puts it in his gulliver an' bring him back here to serve the Cap'n.\n\nThem murlocs an' their chief ain't gonna be too happy once me first mate gets a hold of em!",
+  "files": [
+   "quests/2078-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "ac593fbc261a",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gelkak Gyromast",
+  "quest": "Gyromast's Revenge",
+  "en": "Yarrr... Ye be provin' yerself to be more than a yella sea dog, landlubber.\n\nThe Cap'n may promote ye to poop deck swabby if ye be keepin' this up...",
+  "files": [
+   "quests/2078-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "82e67479691c",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Gwennyth Bly'Leggonde",
+  "quest": "Holy Diver",
+  "en": "I have received word back from Darnassus, Adventurer!\n\nFrom the animal samples, we learned that the naga dominated these sea creatures to use as unwilling mounts and beasts of burden. The ones that were too obstinate, or too old or badly injured, they drove out for sport. Monstrous!\n\nIt is our sacred duty to put a stop to this!\n\nThe naga have forces in the Ruins of Mathystra, and they must be seizing threshers from off the shore. Find their beastmistress, slay her, and bring back her tools of domination!",
+  "files": [
+   "quests/87760-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "b31ccb1e5719",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Gwennyth Bly'Leggonde",
+  "quest": "Holy Diver",
+  "en": "This has been a long journey, Orangequake, but it was worth it.\n\nAt long last, you have wrested away the rod that the naga use to compel the sea creatures into their service. I will make sure it is destroyed, and the threshers and sea turtles can finally live in peace.\n\nThank you again. Your persistence has finally been rewarded, and I, personally, am grateful to you.",
+  "files": [
+   "quests/87760-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "a563b53ef35b",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Terenthis",
+  "quest": "How Big a Threat?",
+  "en": "Grimclaw?! Easy there, my friend... where is your master Volcor?",
+  "files": [
+   "followup/1227-nightelf-male-official"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "9625f7f1d163",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Terenthis",
+  "quest": "How Big a Threat?",
+  "en": "Whoa, whoa there, my friend. One moment...",
+  "files": [
+   "followup/1229-nightelf-male-official"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "4fe96908ee7d",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Terenthis",
+  "quest": "How Big a Threat?",
+  "en": "There... that should help. Now, tell me what's happened, Grimclaw.",
+  "files": [
+   "followup/1230-nightelf-male-official"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "81772eea6838",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Terenthis",
+  "quest": "How Big a Threat?",
+  "en": "I understand, my friend. I shall find someone to help your master. Go back to him now, or at least stay close.",
+  "files": [
+   "followup/1232-nightelf-male-official"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "24a5f49145d7",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Terenthis",
+  "quest": "How Big a Threat?",
+  "en": "What was that noise? It sounded like a roar.",
+  "files": [
+   "followup/1245-nightelf-male-official"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "3413c323f6cd",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Terenthis",
+  "quest": "How Big a Threat?",
+  "en": "If you have the time, Grimclaw and his master Volcor could use your help. If you're interested, speak with me further...",
+  "files": [
+   "followup/1384-nightelf-male-official"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "23d2fc78fe5e",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Terenthis",
+  "quest": "How Big a Threat?",
+  "en": "Some of my brethren were rescued from a corrupt furbolg in Teldrassil, and I've vowed to stop any more atrocities before more of our kind are injured... or worse.\n\nI have seen a couple hints of corruption in Darkshore already, but I have yet to find any widespread signs. I think it would be logical if the investigation continued with the furbolgs. Would you find one of their camps, and return to me if you see any signs of corruption?",
+  "files": [
+   "quests/984-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "5e7440d19d91",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Terenthis",
+  "quest": "How Big a Threat?",
+  "en": "This is terrible news indeed, Adventurer.\n\nWith the furbolgs this close to Auberdine, we will have to prepare ourselves for the inevitable.\n\nThank you, Adventurer.",
+  "files": [
+   "quests/984-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "1119a634b4ea",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Terenthis",
+  "quest": "How Big a Threat?",
+  "en": "You've already proven adept at scouting our enemy, Adventurer. Do you have what it takes to fight them as well?\n\nNot all adventurers prefer straightforward combat to the art of stealth and evasion.\n\nIf you think you're up for the task, then the furbolg camp south of Auberdine is currently the biggest threat to our people. You'll find some of the Blackwood tribe there. Kill 8 pathfinders and 5 windtalkers, and return to me here.",
+  "files": [
+   "quests/985-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "dfe10988a76f",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Terenthis",
+  "quest": "How Big a Threat?",
+  "en": "Wash the blood from your garments, Adventurer, and do not mourn what you had to do. Instead, give thanks. You have lessened the threat to our people here in Auberdine, even if Darkshore is still in jeopardy from the effects of fel moss.",
+  "files": [
+   "quests/985-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "c708ffff0c5b",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Thundris Windweaver",
+  "quest": "It's All Fun and Games Until...",
+  "en": "<Thundris does not speak for some time.>\n\nThis bears the mark of an ancient evil, adventurer. I will see it brought to Darnassus at once for further study.\n\nAnde'thoras-ethil.",
+  "files": [
+   "quests/98042-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "97c848f6b98b",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Twilight Tome",
+  "quest": "It's All Fun and Games Until...",
+  "en": "<As you tear away the single page from the Twilight Tome, a foreboding voice floods your mind, uninvited.>\n\nThey have failed.\n\nYou will be forgotten.\n\nThey will lose the eye they gained.",
+  "files": [
+   "quests/98042-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "fead7fd569e2",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Baros Alexston",
+  "quest": "Making Do",
+  "en": "I wish it was that easy to help, adventurer. I really do.\n\nShould you choose to spend more time in our lands, you will find that many are without. Stormwind's coffers are not what they once were, and what remains is spread thin.\n\nGive this reply to the elder the next time you see him. It's not what he's hoping for, but it's all I have to offer right now.",
+  "files": [
+   "quests/97926-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "95b304aad18c",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Thundris Windweaver",
+  "quest": "Making Do",
+  "en": "Sad news indeed. Still, I thank you for making the journey.\n\nWith neither Stormwind nor Darnassus coming to aid us, it seems that Auberdine's fate is our own to decide.",
+  "files": [
+   "quests/97926-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "d07b750ff785",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Aynasha",
+  "quest": "One Shot.  One Kill.",
+  "en": "I've run out of arrows! I'm afraid if any more come you will need to take them on by yourself my friend.",
+  "files": [
+   "followup/7199-nightelf-female-standard"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "c573d4186b7b",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Aynasha",
+  "quest": "One Shot.  One Kill.",
+  "en": "Wait... did you hear that? Something approaches from the west!",
+  "files": [
+   "followup/7200-nightelf-female-standard"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "3990ba6cb1d5",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Aynasha",
+  "quest": "One Shot.  One Kill.",
+  "en": "I was traveling to Auberdine with an important message when I was attacked by the furbolg Marosh and his trackers. During the attack I was poisoned, leaving me barely able to stand. I can make an antidote, but it will take time before it is ready.\n\nI would ask that you defend me until I can apply the antidote. I will aid you with my bow as best I can.\n\nShould we survive, I will be able deliver my message to Auberdine, while you speak with Onaeya at Maestra's Post to inform her of this incident.",
+  "files": [
+   "quests/5713-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "db33abf45c55",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Onaeya",
+  "quest": "One Shot.  One Kill.",
+  "en": "You bring most welcome news adventurer. It is good to hear that Aynasha is alive and well thanks to you. I would hope that you might accept a reward for your valor. May Elune watch over you and light your path.",
+  "files": [
+   "quests/5713-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "0f5b2850bed7",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Barithras Moonshade",
+  "quest": "Onu",
+  "en": "Onu, an Ancient of Lore at the Grove of the Ancients, knows of your journey to Cliffwater Falls and wishes to speak with you. The grove lies to the south, nestled near the mountains.\n\nThe Ancients are patient and wise, Adventurer. But if Onu seeks your counsel concerning what you saw in the falls, then I fear it is urgent.",
+  "files": [
+   "quests/948-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "e6ed4c8604f5",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Tharnariun Treetender",
+  "quest": "Plagued Lands",
+  "en": "Be cleansed!",
+  "files": [
+   "followup/5937-nightelf-male-standard"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "3920b632d250",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Tharnariun Treetender",
+  "quest": "Plagued Lands",
+  "en": "A sickness spreads across the Darkshore, gripping the minds and bodies of all it touches.\n\nThe Thistle Bears have been hit the hardest by this plague. The once noble beasts are now an instrument of destruction - rabid and frenzied. I may have a cure for this ailment.\n\nTake this trap to the forest and lay it on the ground. Any Rabid Thistle Bear that crosses the light shall become docile for a short time. Once the bear is docile, it shall follow you. Lead it back here, Adventurer.",
+  "files": [
+   "quests/2118-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "7f496a1ebc90",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Tharnariun Treetender",
+  "quest": "Plagued Lands",
+  "en": "Our work has only just begun, Adventurer. Are you prepared for your next task?",
+  "files": [
+   "quests/2118-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "41922035c9fd",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Laird",
+  "quest": "Return to Nessa",
+  "en": "I must send a response to Nessa. She'll be very interested to know how different the fish here are from those along Teldrassil's coastline. We can only guess the cause, but it is my suspicion that the world tree itself is affecting the wildlife around it!\n\nPlease, take this response to Nessa. If you wish to take a hippogryph back to Rut'theran then speak with the hippogryph master Caylais Moonfeather. If you wish to take the ferry, then one regularly departs from the dock to the northwest.",
+  "files": [
+   "quests/6343-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "252af9b035d6",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Nessa Shadowsong",
+  "quest": "Return to Nessa",
+  "en": "This is very interesting. The fish here are large, but I didn't think the difference in bounties between here and the mainland was so great. There must be a reason for this...\n\nWell thank you, Adventurer. I will discuss with the villagers the news you brought. Perhaps, one day, we will find the root of this oddity. But until then, we shall reap its benefits!",
+  "files": [
+   "quests/6343-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "92735081d694",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Twilight Tome",
+  "quest": "Return to Onu",
+  "en": "Peering into the Twilight Tome is maddening. Text begins to swim and dance after only a moment's glance, and once beautiful scrollwork twists into grotesque shapes.\n\nTearing away one page of insane scribbles is all that is possible before a swoon overtakes you.",
+  "files": [
+   "quests/950-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "79157454073a",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Tharnariun Treetender",
+  "quest": "Tharnariun's Hope",
+  "en": "The survival of our people and lands comes at unfortunate costs, Adventurer.\n\nYou have spilled the blood of nature's servants; many sick animals you have felled. The people of Auberdine are indebted to you, for the forest's pain is eased - even if only for a moment.\n\nI have one final task for you, but be warned, you will have to kill again. It is my hope that this will be the last time I call upon you, Adventurer.\n\nIn a cave to the northeast, near Bashal'Aran, resides the Den Mother. Slay her.",
+  "files": [
+   "quests/2139-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "3a545b852390",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Tharnariun Treetender",
+  "quest": "Tharnariun's Hope",
+  "en": "You have fought for Auberdine with bravery and honor, Adventurer. In our war torn lands, death and despair are common. Many will not rise to meet the challenge of life in our new home, choosing instead to hide in their homes or escape to the more fortified lands of the Alliance.\n\nThank you, Adventurer. Perhaps someday soon we shall fight along side as comrades versus another foe.",
+  "files": [
+   "quests/2139-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "35862395902d",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Archaeologist Flagongut",
+  "quest": "The Absent Minded Prospector",
+  "en": "By the stars! A spirit has been summoned!",
+  "files": [
+   "followup/1180-dwarf-male-guard"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "7ed4dc589a7e",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Archaeologist Flagongut",
+  "quest": "The Absent Minded Prospector",
+  "en": "It's a mystery of the past indeed! But a key to our future!",
+  "files": [
+   "followup/1181-dwarf-male-guard"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "2c32f5071ad8",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Archaeologist Flagongut",
+  "quest": "The Absent Minded Prospector",
+  "en": "Oh my! You say this came from the distant lands of Kalimdor?\n\nAmazing! Simply amazing!",
+  "files": [
+   "quests/942-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "5d34696674f8",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Archaeologist Flagongut",
+  "quest": "The Absent Minded Prospector",
+  "en": "Prospector Whelgar now holds the original fossil at his site in the Wetlands. When I discovered the Stone of Relu, I believed it to be the key to unlocking the mystery of the fossil.\n\nWhile I traveled on the road to meet Whelgar, I was attacked by raptors and the relic was lost. I don't know which one of the mottled beasts swallowed the relic but if you can retrieve it, I can unleash the power of these artifacts.\n\nBring me both the Stone of Relu, and the original fossil he holds.",
+  "files": [
+   "quests/943-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "d9b9be2916aa",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Archaeologist Flagongut",
+  "quest": "The Absent Minded Prospector",
+  "en": "Most excellent, adventurer!\n\nNow to see if I can use the stone to decipher the powers of the fossils.",
+  "files": [
+   "quests/943-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "025cd93eeaf5",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Archaeologist Hollee",
+  "quest": "The Absent Minded Prospector",
+  "en": "What an honor it was when Master Greywhisker assigned me to work under the guidance of the great Prospector Remtravel. At the academy in Ironforge everyone knew of Remtravel's great discoveries.\n\nBut the prospector is rather... um... oblivious ...to his surroundings.\n\nWe had uncovered evidence of a great society. Horrible golems sprang forth from the ground and overran the site. Remtravel never seemed to notice. I ran back to Auberdine for help.\n\nPlease travel south and see if the prospector is ok!",
+  "files": [
+   "quests/729-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "2fa217a3c164",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Archaeologist Hollee",
+  "quest": "The Absent Minded Prospector",
+  "en": "Thank the stars Prospector Remtravel is safe! I told you he was absent minded. I can't believe he insisted on staying there with all of those horrible creatures lurking about.",
+  "files": [
+   "quests/731-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "0d5ccbaf6eca",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Archaeologist Hollee",
+  "quest": "The Absent Minded Prospector",
+  "en": "So the prospector wants to send the mysterious fossil to the Explorers' League in Darnassus? I don't feel right leaving Darkshore without him.\n\nHere, adventurer, deliver the mysterious fossil to Chief Archaeologist Greywhisker in Darnassus.",
+  "files": [
+   "quests/741-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "70bd20cdfe45",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Chief Archaeologist Greywhisker",
+  "quest": "The Absent Minded Prospector",
+  "en": "Oh my! Leave it to Prospector Remtravel to discover such a find!",
+  "files": [
+   "quests/741-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "e35a5657845e",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Chief Archaeologist Greywhisker",
+  "quest": "The Absent Minded Prospector",
+  "en": "This fossil bears a striking resemblance to one I once saw in Ironforge. An archaeologist by the name of Flagongut brought it to our annual Explorers' League conference. He believed the fossil had a power which could be unlocked somehow.\n\nLast I heard Flagongut had holed up in the Deepwater Tavern in Menethil Harbor, awaiting escort to the Whelgar Excavation Site. Seek him out and show him Remtravel's fossil. Perhaps he can reveal the secrets of the past.\n\nThe ship to Menethil departs from Auberdine.",
+  "files": [
+   "quests/942-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "7b3935026c6c",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Remtravel",
+  "quest": "The Absent Minded Prospector",
+  "en": "Hollee, is that you? I need some help chiseling this stone. Hand me my stone brush, I think I see something.\n\nHey, you're not Hollee! Don't suppose you've seen my stone brush?\n\nNever mind that now! I promised the League I'd send the mysterious fossil I found. Where did Hollee go?\n\nSo much work to be done! Now where is that mysterious fossil... and my brush... and Hollee...\n\nAnd who are you... 'tis no matter, so long as you're here to help.\n\nLet me know when you're ready to start looking.",
+  "files": [
+   "quests/729-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "3d836313b1e7",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Prospector Remtravel",
+  "quest": "The Absent Minded Prospector",
+  "en": "So then, Hollee... oh that's right, you are not Hollee. Where's Hollee?\n\nBah, that's beside the point. We must find that stone brush... I mean the mysterious fossil! We must find that fossil. The Explorers' League in Darnassus will want some indication as to what I've been doing.\n\nLet me know when you are ready and we will hunt down that brush.... I mean fossil! We shall find something in writing to satisfy the League.\n\nSo are you ready yet?",
+  "files": [
+   "quests/731-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "12a55b157e8c",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Thundris Windweaver",
+  "quest": "The Blackwood Corrupted",
+  "en": "We've learned that a source of furbolg corruption is from the satyr. They hold sway via talismans that they channel magic through. If the furbolg have a chance at salvation, we must lure out the satyr corruptor and take that talisman!\n\nFill this bowl at our moonwell and take samples of the furbolgs' food from their northern camp. Mix them and place it near the bonfire by the river; any furbolgs who eat will be cleansed just long enough to lure out the satyr corruptor... who then you must slay!",
+  "files": [
+   "quests/4763-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "c5f6baf053c3",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Thundris Windweaver",
+  "quest": "The Blackwood Corrupted",
+  "en": "We have just begun this war to reclaim our forest from the forces of corruption, but a battle this day has been won! Adventurer, the people of Auberdine owe you a debt of gratitude that will never be easily repaid. Please accept this along with our thanks. What we have learned here today may one day free our furbolg friends from the shackles of torment permanently.",
+  "files": [
+   "quests/4763-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "4041ab7b592c",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Nessa Shadowsong",
+  "quest": "The Bounty of Teldrassil",
+  "en": "The fishermen of Rut'theran village do very well, for the fish here are extremely large and abundant. I would like to compare the bounty here with that of the mainland.\n\nI have a collection of fish bones and scales that I would like taken to a colleague of mine in Darkshore. His name is Laird, he is a fish vendor in the village of Auberdine.\n\nBring my collection to our hippogryph master, Vesprystus, and speak to him about traveling to Auberdine.",
+  "files": [
+   "quests/6341-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "77034525da97",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Vesprystus",
+  "quest": "The Bounty of Teldrassil",
+  "en": "Ah, you wish to get this to Auberdine? Very well...",
+  "files": [
+   "quests/6341-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "acae155a2f93",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Thundris Windweaver",
+  "quest": "The Cliffspring River",
+  "en": "The Cliffspring River has begun turning foul and corrupted. It empties into the Mist's Edge, and I fear the wash will affect Auberdine soon. I suspect the Blackwood furbolgs up-river are the cause of the taint, but I also suspect that they aren't the true root of it.\n\nTake this sampling tube and go to the mouth of the river to our north. Proceed inland to the first waterfall and draw a sample from the pool there. You'll see a bridge overhead. Once you have a sample, return to me in Auberdine.",
+  "files": [
+   "quests/4762-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "f6c4119f76eb",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Thundris Windweaver",
+  "quest": "The Cliffspring River",
+  "en": "It's no surprise how tainted this water is, but just look at how putrid it is becoming! It would seem that action is needed sooner than later, eh Adventurer?\n\nTo our east is Felwood; it is the real source of this corruption, one that I have seen in times past. I predict this sample will confirm this. We might be able to enact a cure for it here, but in order to even try we will need assistance. When that time comes Adventurer, I hope you will be able to give the aid we need.",
+  "files": [
+   "quests/4762-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "6cf2acb7a398",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Tysha Moonblade",
+  "quest": "The Fall of Ameth'Aran",
+  "en": "To the east you will find the ruins of Ameth'Aran. It is now inhabited by the restless spirits of the Highborne that once dwelt within its walls, but once it was a place where the servants of Azshara freely practiced their powerful magics.\n\nI was sent to explore the ruins and came across two large tablets, scrawled with the stories of Ameth'Aran and its fall. While I read the runes, I was accosted by the spirits, and fled.\n\nPlease, if you can, venture to the ruins and decipher the tablets in my place.",
+  "files": [
+   "quests/953-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "ce4605e1d9a2",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Tysha Moonblade",
+  "quest": "The Fall of Ameth'Aran",
+  "en": "We have few records from the time around the War of the Ancients, especially near the destruction of the Well of Eternity. Given the upheaval and cataclysmic events that were taking place, it is no big surprise.\n\nThank you, adventurer. With your help, my work here is finished, and I will be able to deliver a full report to the Circle.",
+  "files": [
+   "quests/953-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "95a8f513787c",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gubber Blump",
+  "quest": "The Family and the Fishing Pole",
+  "en": "I love fishing. The Blump family is known for fishing. My name is Gubber Blump; I fish.\n\nThere's a kind of fish I like to catch around these parts called Darkshore grouper. I used to go out on a boat to fish for grouper, but no boats have been going out since them mean ol' murlocs moved in. I bet they been eating up all the grouper too.\n\nSay, you wanna help me catch Darkshore grouper? I'd give you a bona fide Blump Family Fishing Pole if you did! It's a real good pole to catch fish with.",
+  "files": [
+   "quests/1141-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "07c363b6e5e6",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gubber Blump",
+  "quest": "The Family and the Fishing Pole",
+  "en": "Them's some real nice groupers, Adventurer! Thanks for helping me out!\n\nYou're at least as good of a fisherman as my cousin, Graun Blump. She also has a beard and she smells kinda funny, but that don't do nothing to stop her fishing. I reckon you have what it takes to use a Blump Family Fishing Pole.",
+  "files": [
+   "quests/1141-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "40d346762a7c",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Mysterious Red Crystal",
+  "quest": "The Fragments Within",
+  "en": "The moonwell water has revealed that embedded inside the crystal are a few small fragments of bone, as well as half of a jawbone. The jawbone appears to be from a humanoid, but it is unclear without breaking open the crystal - a feat that even the strongest of magic would find near impossible.\n\nWith the task at hand complete, all that remains is to report back to Sentinel Glynda Nal'Shea in Auberdine.",
+  "files": [
+   "quests/4813-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "e84b7772973d",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Glynda Nal'Shea",
+  "quest": "The Fragments Within",
+  "en": "Well, it would seem that even though we know more about this crystal, more unanswered questions are the result!\n\nI'll take the information you've uncovered to the council here in Auberdine. Perhaps they'll know a course of action to follow on this crystal. Well, that is if there is one to be taken; for now, the threat remains far enough to our east to be out of harm's way.\n\nAs for you, please have this. Consider it a reward for a job well done, Adventurer.",
+  "files": [
+   "quests/4813-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "16713499c323",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Scrying Bowl",
+  "quest": "The Master's Glaive",
+  "en": "The Twilight's Hammer is at the Master's Glaive?\n\nUnfortunate.\n\nThe old lord impaled by the glaive is long dead, but that does not mean slivers of his power do not still remain.\n\nThe Twilight's Hammer must be seeking this power.",
+  "files": [
+   "quests/944-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "99ff7cbe194c",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Book: The Powers Below",
+  "quest": "The Powers Below",
+  "en": "Although terribly worn and scratched, the title of this book can still be read upon its cover:\n\nThe Powers Below\n\nInside the book is a listing of unpronounceable names with foreboding titles, methods of worship, and preferred sacrifices...many of which include living, humanoid creatures.\n\nOn the inside cover of the book are the words: \"Bonegrip's Runes and Dooms, The Forlorn Cavern, Ironforge. Proprietor: Gerrig Bonegrip.\"\n\nIf Bonegrip sells books like this, perhaps he'll buy this one back.",
+  "files": [
+   "quests/968-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "4f57edff0442",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Gerrig Bonegrip",
+  "quest": "The Powers Below",
+  "en": "Ah, a copy of The Powers Below. An interesting text, this is. And some might find it useful...\n\nBut this one's in sad shape. And look here! There are notes in the margin of almost every page!\n\nHm...I know this copy. I sold it to Bolgar last year. Are you...a friend of his? Yes, I thought you were. You have that same fire behind your eyes!\n\nWell, by definition, a friend of Bolgar's is a friend of mine. And we take care of our own, yes?",
+  "files": [
+   "quests/968-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "aa0c09c9f4d9",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Glynda Nal'Shea",
+  "quest": "The Red Crystal",
+  "en": "Hostile moonkin roam in ever increasing numbers to our east. They once were thought to be gentle, almost mystical creatures. While some continue to hold reverence for them, the safety of Auberdine forces me to keep a more realistic view.\n\nI've received reports that moonkin are being drawn to a large red crystal along Darkshore's eastern mountain range. No one has any idea what that crystal is, or even if it really exists. I want you to locate it over there and report back to me what you find.",
+  "files": [
+   "quests/4811-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "b093552b9b7a",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Glynda Nal'Shea",
+  "quest": "The Red Crystal",
+  "en": "So the crystal exists, Adventurer? Fascinating... anyway, your task has been well executed; good work!\n\nWhat exactly is this crystal? This is but a single question in a sea of questions. Another question that comes to mind is why the moonkin would be drawn to this object? Is the crystal benign in nature, or does it hold a more sinister purpose?\n\nI have many more questions, but we're going to need to examine that crystal closely to get some answers.",
+  "files": [
+   "quests/4811-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "8356331bbf03",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Kerlonian Evershade",
+  "quest": "The Sleeper Has Awakened",
+  "en": "I was on my way to Maestra's Post to meet Liladris Moonriver, but I decided to stop here and take a short nap. Ever since I awoke from the emerald dream, I have been so sleepy...\n\n\nWould you mind showing me the way? I understand that Maestra's Post is south of here, along the road in Ashenvale. It can be dangerous, so I hope you have some friends that will join us.\n\nLastly, I may fall asleep so if you ever need to wake me, please use my horn. You'll find it in the chest here.",
+  "files": [
+   "quests/5321-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "7015683add6b",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Liladris Moonriver",
+  "quest": "The Sleeper Has Awakened",
+  "en": "Oh, I am so happy Kerlonian made it! And I'm sure I'll find him sleeping somewhere around here, won't I?\n\nThank you for showing him the way, Adventurer.",
+  "files": [
+   "quests/5321-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "19e2ddd0d5b0",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Balthule Shadowstrike",
+  "quest": "The Tower of Althalaxx",
+  "en": "I see. Well, if what you say is true, then now is the time to strike. I believe Athrikus resides at the top of the tower. Be careful though, he is surrounded by many powerful warlocks, much more deadly than the ones you faced before.",
+  "files": [
+   "quests/1143-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "73bcee55024b",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Balthule Shadowstrike",
+  "quest": "The Tower of Althalaxx",
+  "en": "With the death of Athrikus, I hope that the demonic forces in this area will be driven back. I have no doubt that they will regroup and return, but then we shall be even more prepared to meet their threat.",
+  "files": [
+   "quests/1143-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "034f76b3e75d",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Balthule Shadowstrike",
+  "quest": "The Tower of Althalaxx",
+  "en": "Ah, it's good to see you again, adventurer! The strangest things have been happening around here, I'm glad you showed up!\n\nIt was very strange, adventurer. Everything seemed normal--well, as normal as things get around here--and then suddenly there was a blinding flash of light from the upper room of the tower. Then came the screams. The cries split the air, and lightning struck the ground from time to time. What's going on?",
+  "files": [
+   "quests/1167-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "9a472d2fa4a4",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Balthule Shadowstrike",
+  "quest": "The Tower of Althalaxx",
+  "en": "Elissa sent you? Then it is good tidings you bring. I have troubling news to report to her, and had no means with which to deliver it.",
+  "files": [
+   "quests/965-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "bd013cd9d518",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Balthule Shadowstrike",
+  "quest": "The Tower of Althalaxx",
+  "en": "A group of warlocks has taken up residence around and inside the tower. I would have returned to Auberdine to report to Elissa earlier, but I was afraid that I might miss something while I was away.\n\nDelgren suspected such a company might be gathering at the tower, but did not know why.\n\nA few scraps of parchment that the warlocks carry have found their way to my hands, but I need more to complete the puzzle. I warn you not to venture into the tower, however, the warlocks there are much more powerful!",
+  "files": [
+   "quests/966-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "fff3ad6699c3",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Balthule Shadowstrike",
+  "quest": "The Tower of Althalaxx",
+  "en": "Many thanks, adventurer. This should shed some light on this warlocks' gathering...\n\nHmm... the Cult of the Dark Strand... I have never heard of this group before. Having no knowledge of their history, it is all but impossible to say what their plans must be.\n\nThere is no more time to delay. Warning must be delivered to Delgren immediately.",
+  "files": [
+   "quests/966-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "59281ac3594d",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Balthule Shadowstrike",
+  "quest": "The Tower of Althalaxx",
+  "en": "My master, Delgren the Purifier, is a paladin who has graciously offered his assistance in defending our forests from the forces of the demons and undead. He has taught me much about the Holy Light and the art of battle.\n\nDelgren must know of the cult's operations immediately.\n\nYou will find him far south of here at Maestra's Post in Ashenvale Forest. Be swift, I fear the Dark Strand's threat grows with each passing hour.",
+  "files": [
+   "quests/967-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "f06d53b50205",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Balthule Shadowstrike",
+  "quest": "The Tower of Althalaxx",
+  "en": "For all the work that you have done, you deserve to be well rewarded. Return to Delgren and tell him that Athrikus Narassin lies stilled by your hand, and the Cult of the Dark Strand is beaten and scattered.",
+  "files": [
+   "quests/981-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "96fb2db4b004",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Delgren the Purifier",
+  "quest": "The Tower of Althalaxx",
+  "en": "A simple enough task to break this soulstone!",
+  "files": [
+   "followup/1459-human-male-official"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "e2f9ab90e859",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Delgren the Purifier",
+  "quest": "The Tower of Althalaxx",
+  "en": "Then we must put an end to Athrikus Narassin. Tell me, spirit, where might we find the other soulgems, to undo his magic?",
+  "files": [
+   "followup/1473-human-male-official"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "1575402a9ab9",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Delgren the Purifier",
+  "quest": "The Tower of Althalaxx",
+  "en": "The writing of the orcs is little better than the scribblings of a child. Many of my order scoffed when I chose to learn their tongue, but I have found it beneficial to gain further understanding of my enemies.\n\nFrom Ilkrud's scribblings, it appears that Athrikus still possesses two soulgems, and they are being held in Night Run and Satyrnaar, satyr-held areas in northeast Ashenvale.\n\nBe careful out there, adventurer, the satyrs' blood-soaked temples can be unsettling even for a seasoned adventurer such as yourself.",
+  "files": [
+   "quests/1140-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "fffb9abda2f8",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Delgren the Purifier",
+  "quest": "The Tower of Althalaxx",
+  "en": "Perhaps the satyrs have been allowed to persist in the forest for too long. I will speak with Elissa about it when next I travel to Auberdine.\n\nNonetheless, with the soulgems destroyed, Athrikus' power will be greatly diminished. We must seize on this opportunity to eliminate him and his cult.",
+  "files": [
+   "quests/1140-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "e6dd47694730",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Delgren the Purifier",
+  "quest": "The Tower of Althalaxx",
+  "en": "Before confronting Athrikus, it would probably be wise for you to consult with Balthule. I have no doubt he has been vigilant in his watch of the Tower, and he may have information about recent developments.",
+  "files": [
+   "quests/1167-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "508573257ea5",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Delgren the Purifier",
+  "quest": "The Tower of Althalaxx",
+  "en": "If you don't mind my saying, you seem a bit well-equipped for a messenger, hm? I suppose Balthule wanted to be certain that his letter reached my hands. Let's see what he has to say...\n\nThis is disturbing news. When undead or demonic forces are found, I help the Sentinels destroy them.\n\nAt first I was unaccustomed to the manners of the night elves, but I have grown to respect them greatly as allies.",
+  "files": [
+   "quests/967-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "30056c75a068",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Delgren the Purifier",
+  "quest": "The Tower of Althalaxx",
+  "en": "Balthule's letter is dire. This Cult of the Dark Strand is a thorn in my side that must be removed. I have been dealing with some of the Dark Strand scum northeast of here at Ordil'Aran. One of their number possesses a soul gem that I believe holds the secret to the cult's power.\n\nBring it to me, and I will be able to decipher the secrets held within.",
+  "files": [
+   "quests/970-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "dde539d23dee",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Delgren the Purifier",
+  "quest": "The Tower of Althalaxx",
+  "en": "Hmm, some dark magic enchants this soulstone. Let's see what's trapped inside, shall we?",
+  "files": [
+   "quests/970-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "9af557a2e8f9",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Delgren the Purifier",
+  "quest": "The Tower of Althalaxx",
+  "en": "Ilkrud Magthrull. Yes, I have knowledge of him. He is a powerful orc warlock that makes his residence at the Fire Scar Shrine, a place of great evil in southwestern Ashenvale.\n\nHe had been little more than an annoyance until now, and I had not dealt with him, but it seems that his time has come.",
+  "files": [
+   "quests/973-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "6bafd60d9123",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Delgren the Purifier",
+  "quest": "The Tower of Althalaxx",
+  "en": "It was a grand thing you did today, adventurer. You should be quite proud of yourself for having faced down a warlock of such power.\n\nNow, let's see what we can learn from Ilkrud's writings.",
+  "files": [
+   "quests/973-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "e1192f9fc616",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Delgren the Purifier",
+  "quest": "The Tower of Althalaxx",
+  "en": "I knew you would be up to the task, adventurer.\n\nI sense great deeds before you, and that you will right many of the wrongs that plague our lands. Bear my blessings, adventurer, as well as this gift.",
+  "files": [
+   "quests/981-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "717e39a53ae1",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Sargath",
+  "quest": "The Tower of Althalaxx",
+  "en": "In the throes of the Sundering, Ameth'Aran was at the whim of the terror that gripped the land. There was little hope for survival.",
+  "files": [
+   "followup/1471-nightelf-male-warrior"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "02517e90d25f",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Sargath",
+  "quest": "The Tower of Althalaxx",
+  "en": "Athrikus came to us. He told us that he could save us from harm. He cast a spell upon us to protect us from harm.",
+  "files": [
+   "followup/1472-nightelf-male-warrior"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "6a32237e9551",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Sargath",
+  "quest": "The Tower of Althalaxx",
+  "en": "When the shaking stopped, his true motives were revealed. We were trapped, and he was slowly draining our powers.",
+  "files": [
+   "followup/1474-nightelf-male-warrior"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "9a8f3ecb8732",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Sargath",
+  "quest": "The Tower of Althalaxx",
+  "en": "His lieutenant, Ilkrud Magthrull possesses a tome which might indicate the location of the remaining soulgems.",
+  "files": [
+   "followup/1475-nightelf-male-warrior"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "45db5c422bde",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Sargath",
+  "quest": "The Tower of Althalaxx",
+  "en": "There were hundreds imprisoned by his spell. Now only a few remain in their prisons. He would speak to us sometimes.",
+  "files": [
+   "followup/1497-nightelf-male-warrior"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "e73b84661319",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Sargath",
+  "quest": "The Tower of Althalaxx",
+  "en": "He worried that his power weakened, that soon even we last of his precious soulgems would fade and die.",
+  "files": [
+   "followup/1498-nightelf-male-warrior"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "b9fcf883e083",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Elissa Starbreeze",
+  "quest": "The Tower of Althalaxx",
+  "en": "Hail, young traveler. I am Elissa Starbreeze, and it is my charge to protect Auberdine from harm.\n\nTo this end, I sent Balthule Shadowstrike to observe the strange happenings around the Tower of Althalaxx to the northeast.\n\nIt is past time that he should have returned. I worry that he has encountered some unforeseen danger in the forest. I would be most appreciative if you would find him and see that he is doing well.",
+  "files": [
+   "quests/965-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "3dc0ede6d52e",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Scrying Bowl",
+  "quest": "The Twilight Camp",
+  "en": "The Twilight's Hammer's purpose at the Master's Glaive is not known. But it must be dark.\n\nSearch through their camp at the Glaive... Search for some thing that may teach us their intentions.\n\nFor we must learn their intentions before a plan is made.",
+  "files": [
+   "quests/949-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "1aaefecb035f",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Twilight Tome",
+  "quest": "The Twilight Camp",
+  "en": "This book is hand printed in an ancient language, and illustrated by a master artist.",
+  "files": [
+   "quests/949-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "097117c342c5",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Terenthis",
+  "quest": "Thundris Windweaver",
+  "en": "Your scouting of the furbolg camp is information that Thundris Windweaver should be made aware of. He graciously serves as the elder of Auberdine, offering sage and just stewardship of the day to day affairs of the village. Please - share with him your findings to date on the furbolg situation.\n\nI believe he has some ideas of his own on the reasons behind their corruption. Perhaps you can work with him to enact a plan to restore the balance of nature here!",
+  "files": [
+   "quests/4761-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "9a03a253e5d1",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Thundris Windweaver",
+  "quest": "Thundris Windweaver",
+  "en": "Well met, adventurer. Your scouting of the furbolg situation comes at a fortuitous time for us in Auberdine. For some time we have dealt with not only forest dwellers who are now openly hostile to our presence, but also the outright corruption of the forest itself. Hopefully you might be able to lend Auberdine aid during these troubling times.",
+  "files": [
+   "quests/4761-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "ff8ab3667ec7",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Thundris Windweaver",
+  "quest": "Tools of the Highborne",
+  "en": "Adventurer. A task I would ask of you.\n\nHave you seen the ruins of Ameth'Aran? If not, you will find them on the eastern side of the main road, some ways to the south. Once they were the home of many powerful Highborne, now they are a testament to the destruction their dabblings produced.\n\nI have been told by the Sentinels that the spirits of the Highborne persist, and that they wield their ancient magical implements. Those relics must be appropriated, so that we might destroy them.",
+  "files": [
+   "quests/958-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "b2ef3b7a2bdb",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Thundris Windweaver",
+  "quest": "Tools of the Highborne",
+  "en": "Though it is surely a figment of my imagination, I feel as though I can almost feel the taint of foul Highborne magic upon them. I will have these destroyed, so that their long dormant evil might never be released again.",
+  "files": [
+   "quests/958-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "67d041f27440",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Glynda Nal'Shea",
+  "quest": "WANTED: Jai'vhanel",
+  "en": "It is good to know that issue has been taken care of, but it saddens me that we could not find another way. Jai'vhanel had been somewhat of a guardian of this area for quite some time, and I am not sure what could have caused her decent into madness.\n\nRegardless, thank you for your service today, adventurer. The roads to Auberdine are safe for travel once again.",
+  "files": [
+   "quests/98025-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "73356393791d",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "WANTED: Murkdeep!",
+  "quest": "WANTED: Jai'vhanel",
+  "en": "Attention!\n\nA reward is being offered for the death of the owl \"Jai'vhanel\" also know as \"Swordfeather\".\n\nUnfortunately this owl has gone mad and has begun to attack travelers as they journey along the road near Auberdine.\n\nJai'vhanel was last seen north of the Ameth'Aran ruins near the mountain base. Bring back one of her jet black feathers as proof of her death.\n\nReward claims for this bounty should be claimed with Sentinel Glynda Nal'Shea in Auberdine.\n\nThe Auberdine Village Council",
+  "files": [
+   "quests/98025-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "efeab33149aa",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Glynda Nal'Shea",
+  "quest": "WANTED: Murkdeep!",
+  "en": "Well, looks like you're here to more than just inquire! The citizens will be delighted to know that tonight they will sleep a little bit more soundly and safer.\n\nYou've acted as the executioner of justice for the people of Auberdine today, Adventurer. For that, I would like to offer you this as a suitable reward... for a true hero of the Auberdine people.",
+  "files": [
+   "quests/4740-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "6e19f07fa5ed",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "WANTED: Murkdeep!",
+  "quest": "WANTED: Murkdeep!",
+  "en": "Attention!\n\nA reward is being offered for the death of the murloc \"Murkdeep\". This foul beast is known to be responsible for the death of at least one Sentinel, and is suspected of causing the sinking of at least two cargo vessels in the waters off Darkshore!\n\nMurkdeep was last spotted at a hutted murloc camp south of Auberdine, and is thought to be protecting the huts there. Reward claims for this bounty should be claimed with Sentinel Glynda Nal'Shea in Auberdine.\n\nThe Auberdine Village Council",
+  "files": [
+   "quests/4740-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "e432d15ad911",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Gwennyth Bly'Leggonde",
+  "quest": "Washed Ashore",
+  "en": "Majestic sea creatures are known to launch themselves at the Darkshore coastline, beached there until they die. Lately, these beasts have been washing ashore in ever-increasing numbers. I've been sent here by the Temple of the Moon to investigate, but the presence of murlocs along the water has made my research difficult.\n\nThere is a giant creature washed ashore just south of Auberdine that is ringed by the foul Greymist murlocs. Could you go there and retrieve bones from the creature for our study?",
+  "files": [
+   "quests/3524-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "e0b09ee93987",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Gwennyth Bly'Leggonde",
+  "quest": "Washed Ashore",
+  "en": "I hope the murloc did not give you much trouble in collecting this for us! I will be sure to get this on the next hippogryph to Darnassus. The Temple of the Moon has given me some funds to hand out for assistance; please have some with our thanks.\n\nYour success here emboldens me to offer you a chance to aid the Temple of the Moon further, if you are interested...",
+  "files": [
+   "quests/3524-complete"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "9c25c341c265",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Gwennyth Bly'Leggonde",
+  "quest": "Washed Ashore",
+  "en": "That beached creature is not an isolated incident here in Darkshore. There are more along the coastline and even in the water. I would like for you to investigate another one that we know of; this one was reported to be in the water due west of Auberdine, close to a sunken vessel. Return to me with anything that you may recover that would aid our research.\n\nAlso, in your travels you may find other creatures. By all means, if you should discover anything then please bring it to our attention!",
+  "files": [
+   "quests/4681-accept"
+  ],
+  "uiMap": 1439
+ },
+ {
+  "id": "dbcc92aa7824",
+  "zone": "darkshore",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Gwennyth Bly'Leggonde",
+  "quest": "Washed Ashore",
+  "en": "You've been a tremendous help here today; we now have a solid chance at unlocking the mystery of why these creatures choose to beach themselves on the coast of Darkshore. The idea that they might be fleeing the area around Teldrassil is disturbing. Should you come across others in your travels, please let me know. Our research here is but in its infancy.\n\nOn behalf of the Temple of the Moon, please accept this as thanks for the effort you have given. Thank you, Adventurer!",
+  "files": [
+   "quests/4681-complete"
+  ],
+  "uiMap": 1439
+ }
+]

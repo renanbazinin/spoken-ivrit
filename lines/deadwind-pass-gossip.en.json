@@ -1,0 +1,240 @@
+[
+ {
+  "id": "428bc355f9d2",
+  "zone": "deadwind-pass-gossip",
+  "kind": "gossip",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Blind Mary",
+  "quest": null,
+  "en": "The memory of my beauty makes its loss unbearable!",
+  "files": [
+   "gossip/66081d5a22267a4265ca488ad5730683"
+  ],
+  "uiMap": 1430
+ },
+ {
+  "id": "08c51704eb3f",
+  "zone": "deadwind-pass-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Calor",
+  "quest": null,
+  "en": "The Carevin family fights for victory under the Light. My duty under the Light is to give my life in their battle against against the undead. Master Carevin has tasked me with the extermination of the vile worgen in Duskwood. Perhaps you would assit me?",
+  "files": [
+   "gossip/156025502b69aa6671e92d41cf6d601c"
+  ],
+  "uiMap": 1430
+ },
+ {
+  "id": "cb568aded593",
+  "zone": "deadwind-pass-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Chef Grual",
+  "quest": null,
+  "en": "Hello, hello! Welcome to my kitchen, sir! This is where all of the Scarlet Raven Tavern's finest delicacies are made. Ah, just smell the wonderful aroma!",
+  "files": [
+   "gossip/m-8d1d7ec8e88045e7ac9d23a49fb86f88"
+  ],
+  "uiMap": 1430
+ },
+ {
+  "id": "62d24be97e6e",
+  "zone": "deadwind-pass-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Clarise Gnarltree",
+  "quest": null,
+  "en": "Don't come out of the shadows like that. Next time give a girl some warning.",
+  "files": [
+   "gossip/1fe2c17c84497dfe5eedaab4db4f4385"
+  ],
+  "uiMap": 1430
+ },
+ {
+  "id": "ce0d4846bd3c",
+  "zone": "deadwind-pass-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Clarise Gnarltree",
+  "quest": null,
+  "en": "Ever since the shadows claimed Duskwood I haven't been able to sleep. I am kept awake by the ghostly sounds of screaming on the breeze. It sounds almost like lambs screaming, and they won't stop.",
+  "files": [
+   "gossip/87e8317d1f6872386f47da8545ea8768"
+  ],
+  "uiMap": 1430
+ },
+ {
+  "id": "6f19fa0ed44b",
+  "zone": "deadwind-pass-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Clerk Daltry",
+  "quest": null,
+  "en": "Welcome to the town of Darkshire. Clerk Daltry at your service. Can I be of some assistance?",
+  "files": [
+   "gossip/d61bc8d45a3d7848d3f2554737fea5fb"
+  ],
+  "uiMap": 1430
+ },
+ {
+  "id": "ff6b72c998bb",
+  "zone": "deadwind-pass-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Commander Althea Ebonlocke",
+  "quest": null,
+  "en": "At ease, Adventurer. If you are just passing though I suggest you stick to the roads and only travel by day. If your business is here in Darkshire, consider lending your abilities to The Night Watch. Our skill is unquestionable but our numbers are small.",
+  "files": [
+   "gossip/fbd9667fbb9137567adcccc4c43bed10"
+  ],
+  "uiMap": 1430
+ },
+ {
+  "id": "9c64d13cc26d",
+  "zone": "deadwind-pass-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Elaine Carevin",
+  "quest": null,
+  "en": "It's dark times that have come, adventurer... All too soon will we lose everything... When the Light will forsake all but those who truly walk under the Light.",
+  "files": [
+   "gossip/93332ee7844ac28745ab9d0a9255f21e"
+  ],
+  "uiMap": 1430
+ },
+ {
+  "id": "0b2fd45f89b4",
+  "zone": "deadwind-pass-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Finbus Geargrind",
+  "quest": null,
+  "en": "Fantastic! Aren't you the industrious one? Well, let's get started, shall we?",
+  "files": [
+   "gossip/25a871b4543c5397d1451590a62e502d"
+  ],
+  "uiMap": 1430
+ },
+ {
+  "id": "114cb0b5deb7",
+  "zone": "deadwind-pass-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Finbus Geargrind",
+  "quest": null,
+  "en": "You're working your way up... higher than me, at this point! You should talk to Springspindle Fizzlegear in Ironforge! (He'll? She'll?) show you more than I ever could!",
+  "files": [
+   "gossip/3be14b269e4a2e88daaa7b79a48ea9d8"
+  ],
+  "uiMap": 1430
+ },
+ {
+  "id": "3bc2f881b0a9",
+  "zone": "deadwind-pass-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Finbus Geargrind",
+  "quest": null,
+  "en": "Hmm... well, I can't help you quite yet! You have to learn the basics first. Why don't you go see Sprite Jumpsprocket in Stormwind!",
+  "files": [
+   "gossip/53a615c56f1bceea727ec102f86c7525"
+  ],
+  "uiMap": 1430
+ },
+ {
+  "id": "bc35097b491c",
+  "zone": "deadwind-pass-gossip",
+  "kind": "gossip",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Finbus Geargrind",
+  "quest": null,
+  "en": "I'm never too busy to speak to a stranger! Almost never, anyway...",
+  "files": [
+   "gossip/6fa11f689cf6d10432a1f4a482d4c9d4"
+  ],
+  "uiMap": 1430
+ },
+ {
+  "id": "64dc7095e28f",
+  "zone": "deadwind-pass-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Jonathan Carevin",
+  "quest": null,
+  "en": "Greetings. What business have you with the Carevin family? Do you seek to assist the Carevins in their battle against the undead?",
+  "files": [
+   "gossip/021f194b990d2f773bafd579b1aa4e70"
+  ],
+  "uiMap": 1430
+ },
+ {
+  "id": "761d0f918a42",
+  "zone": "deadwind-pass-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Madame Eva",
+  "quest": null,
+  "en": "I have sensed your coming for quite some time, adventurer. It was written in the pattern of the stars.",
+  "files": [
+   "gossip/337e6a87fdbc0c0c10c32e2618e1d78e"
+  ],
+  "uiMap": 1430
+ },
+ {
+  "id": "f47b635829b6",
+  "zone": "deadwind-pass-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Sirra Von'Indi",
+  "quest": null,
+  "en": "Greetings, adventurer! I have but one goal: the cataloging and recording of all knowledge related to the history of Duskwood and Darkshire. Perhaps you could help me in my endeavor?",
+  "files": [
+   "gossip/03f838d0fd8d62823c7de29bd2556505"
+  ],
+  "uiMap": 1430
+ },
+ {
+  "id": "fde18c4d89ee",
+  "zone": "deadwind-pass-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Tavernkeep Smitts",
+  "quest": null,
+  "en": "Keep the door closed, Adventurer. Never know when the Dark Riders will be passing through again.",
+  "files": [
+   "gossip/8682df03cf89f55d63077ee4506fd321"
+  ],
+  "uiMap": 1430
+ },
+ {
+  "id": "a19e866c1601",
+  "zone": "deadwind-pass-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Watcher Brownell",
+  "quest": null,
+  "en": "Have you seen Watcher Backus? So brave...\n\nI think he's the toughest of all the Night Watch. I wonder if he even notices I'm around....",
+  "files": [
+   "gossip/dfbe088859a137835afb8337482b93f2"
+  ],
+  "uiMap": 1430
+ }
+]

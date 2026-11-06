@@ -1,0 +1,2823 @@
+[
+ {
+  "id": "53ff27c17381",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Jennea Cannon",
+  "quest": "Mirror Lake",
+  "en": "This world has been victim to massive mystic struggles, which tore magic currents from once stable channels. We struggle to determine the effects these changes have caused, and some of us fear the worst!\n\nBut I will reveal more of this later. Right now, we need you to gather information.\n\nHere, take this flask. Go to the base of the waterfall at Mirror Lake, southwest of the Stormwind gates, and retrieve a sample of the water there. Return it to me so that I might test it for magical taints.",
+  "files": [
+   "quests/1861-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "77c5ece5b19c",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Jennea Cannon",
+  "quest": "Mirror Lake",
+  "en": "Thank you, Adventurer. I will test this water for magical properties. Let us hope that it contains none, or we may find that those who drink from Mirror Lake for too long will be adversely affected.\n\nHere, Adventurer. Take this orb or staff as a token of your service. May it serve you well.",
+  "files": [
+   "quests/1861-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "11fbb07f4133",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Shenthul",
+  "quest": "Mission: Possible But Not Probable",
+  "en": "Poor Fizzule, he was a good agent -- one of our best. Alas, it is the price we pay, Adventurer. Being a field agent of the Shattered Hand is dangerous work.\n\nYou have performed your duty well, adventurer. It would be a shame if you did not live to serve us again.",
+  "files": [
+   "quests/2478-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b3af44b3a91d",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Taskmaster Fizzule",
+  "quest": "Mission: Possible But Not Probable",
+  "en": "You will need to steal the tower key from Foreman Silixiz, Adventurer. Once you've got the key in your possession, hold on to it - I may need it later.\n\nRemember, the poison has weakened everything in this tower. Use your abilities to bring chaos and destruction to its inhabitants. Slay them all -- show no mercy!\n\nOnce everything inside lays in a bloodied heap, pick Gallywix's lockbox and steal the cache of Zanzil's mixture held inside. Take both the head of Gallywix and the mixture to Shenthul in Orgrimmar.",
+  "files": [
+   "quests/2478-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8458b0cee085",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Elder Mistwalker",
+  "quest": "Mistwalker the Elder",
+  "en": "Your spirit burns with life, young adventurer. I accept the homage you pay, and offer in return this token...",
+  "files": [
+   "quests/8685-complete",
+   "quests/8683-complete",
+   "quests/8680-complete",
+   "quests/8677-complete",
+   "quests/8676-complete",
+   "quests/8675-complete",
+   "quests/8671-complete",
+   "quests/8670-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a7b57284b029",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dendrite Starblaze",
+  "quest": "Moonglade",
+  "en": "\"And so it begins, Father Cenarius. And so it begins.\"\n\nDendrite makes a quick, invisible gesture in the air above him. A slight aura of power falls over him.\n\n\"The first perspective of nature you must adapt to is that of the bear. I will put you on the path to understanding this aspect of druidic life, but it is you that must embrace it and propagate it - now and forever!\"",
+  "files": [
+   "quests/5921-complete",
+   "quests/5922-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8d129f657a6b",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dendrite Starblaze",
+  "quest": "Moonglade",
+  "en": "Ah I see that you have already mastered the form of the Bear. Good, good. You are well on your way, young adventurer.",
+  "files": [
+   "quests/94914-complete",
+   "quests/94913-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "73ce9f09e583",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mathrengyl Bearwalker",
+  "quest": "Moonglade",
+  "en": "All druids are welcome in the sacred lands of Moonglade, regardless of the current tensions in the Cenarion Circle between Arch Druid Staghelm and Keeper Remulos - Moonglade's guardian. Now that you're learning the ways of the Claw, I'll teach you the spell that lets you transport yourself there. Cast it whenever you seek Moonglade's knowledge or solace.\n\nAs for your first lesson, travel to Moonglade and speak with Dendrite Starblaze in Nighthaven about the path you're now on. Good luck, young druid.",
+  "files": [
+   "quests/5921-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "697a8b0912f1",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Sheldras Moontree",
+  "quest": "Moonglade",
+  "en": "All druids are welcomed to the sacred lands of Moonglade. Keeper Remulos - Moonglade's guardian - keeps watch over all druids who hibernate there. I'll teach you the spell that lets you transport yourself there. Cast it whenever you seek Moonglade's knowledge or solace.\n\nAs for your first lesson here on Azeroth, travel to Moonglade and speak with Dendrite Starblaze in Nighthaven about the path you're now on. Good luck, young druid.",
+  "files": [
+   "quests/94914-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "253cc43bfea6",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Turak Runetotem",
+  "quest": "Moonglade",
+  "en": "All druids are welcomed to the sacred lands of Moonglade, tauren and night elf alike. Keeper Remulos - Moonglade's guardian - keeps watch over all druids who hibernate there. Now that you're learning the ways of the Claw, I'll teach you the spell that lets you transport yourself there. Cast it whenever you seek Moonglade's knowledge or solace.\n\nAs for your first lesson, travel to Moonglade and speak with Dendrite Starblaze in Nighthaven about the path you're now on. Good luck, young druid.",
+  "files": [
+   "quests/5922-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5491225277c4",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Turak Runetotem",
+  "quest": "Moonglade",
+  "en": "All druids are welcomed to the sacred lands of Moonglade. Keeper Remulos - Moonglade's guardian - keeps watch over all druids who hibernate there. I'll teach you the spell that lets you transport yourself there. Cast it whenever you seek Moonglade's knowledge or solace.\n\nAs for your first lesson here on Azeroth, travel to Moonglade and speak with Dendrite Starblaze in Nighthaven about the path you're now on. Good luck, young druid.",
+  "files": [
+   "quests/94913-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9dce74c5654c",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lotherias",
+  "quest": "Moonglow Vest",
+  "en": "We in Darnassus, especially we craftsman, are quite busy. Young adventurers are eager to test themselves in the wilderness, and are in constant need of supplies.\n\nIf you can help me fill my orders of leather goods, then perhaps I can teach you an advanced leatherworking technique.",
+  "files": [
+   "quests/1582-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "cc6ec2eb4d43",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lotherias",
+  "quest": "Moonglow Vest",
+  "en": "Yes, these are good pieces. You have a skilled hand and an eye for detail. Your future as a leatherworker is promising.\n\nHere, Adventurer. Let me show you the pattern to make the Moonglow Vest.",
+  "files": [
+   "quests/1582-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c28df9afaca7",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Jubahl Corpseseeker",
+  "quest": "Mor'zul Bloodbringer",
+  "en": "Adventurer, your delvings into the dark arts are deep. Your mastery over otherworldly denizens has grown so strong... perhaps you are ready to bind to you one of the infamous dreadsteeds.\n\nThe ritual to summon the beast from its home requires great power and resources, but if you desire to dominate that epic mount, then speak with Mor'zul Bloodbringer. He is camped near the Altar of Storms in the Burning Steppes.\n\nGo, Adventurer. This quest will be perilous, but a Warlock of your stature does not shy from danger!",
+  "files": [
+   "quests/7562-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "cd7768178305",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Kurgul",
+  "quest": "Mor'zul Bloodbringer",
+  "en": "Adventurer, your delvings into the dark arts are deep. Your mastery over otherworldly denizens has grown so strong... perhaps you are ready to bind to you one of the infamous dreadsteeds.\n\nThe ritual to summon the beast from its home requires great power and resources, but if you desire to dominate that epic mount, then speak with Mor'zul Bloodbringer. He is camped near the Altar of Storms in the Burning Steppes.\n\nGo, Adventurer. This quest will be perilous, but a Warlock of your stature does not shy from danger!",
+  "files": [
+   "quests/7562-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "05a29cc7735e",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Martha Strain",
+  "quest": "Mor'zul Bloodbringer",
+  "en": "Adventurer, your delvings into the dark arts are deep. Your mastery over otherworldly denizens has grown so strong... perhaps you are ready to bind to you one of the infamous dreadsteeds.\n\nThe ritual to summon the beast from its home requires great power and resources, but if you desire to dominate that epic mount, then speak with Mor'zul Bloodbringer. He is camped near the Altar of Storms in the Burning Steppes.\n\nGo, Adventurer. This quest will be perilous, but a Warlock of your stature does not shy from danger!",
+  "files": [
+   "quests/7562-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3f499fa06728",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mor'zul Bloodbringer",
+  "quest": "Mor'zul Bloodbringer",
+  "en": "Greetings, Adventurer, and welcome. Are you here to study near the Altar of Storms as I am, perhaps to harness its energy for some hidden purpose...\n\nOr... are you here to speak with me? Yes, I believe you are.\n\nYou want to master a dreadsteed? Such is no easy task. It will cost you no small amounts of blood, sweat... and of course gold. But a dreadsteed of Xoroth is a prize well worth winning so if interested, listen on...",
+  "files": [
+   "quests/7562-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "87eb1d930e63",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Spackle Thornberry",
+  "quest": "Mor'zul Bloodbringer",
+  "en": "Adventurer, your delvings into the dark arts are deep. Your mastery over otherworldly denizens has grown so strong... perhaps you are ready to bind to you one of the infamous dreadsteeds.\n\nThe ritual to summon the beast from its home requires great power and resources, but if you desire to dominate that epic mount, then speak with Mor'zul Bloodbringer. He is camped near the Altar of Storms in the Burning Steppes.\n\nGo, Adventurer. This quest will be perilous, but a Warlock of your stature does not shy from danger!",
+  "files": [
+   "quests/7562-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d529ce85d2fd",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Chronos",
+  "quest": "More Armor Kits",
+  "en": "There you are, Adventurer. A fair trade. Enjoy.",
+  "files": [
+   "quests/7941-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2f6f6928d545",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Yebb Neblegear",
+  "quest": "More Bat Eyes",
+  "en": "Thanks again, Adventurer. Here are your tickets!",
+  "files": [
+   "quests/7943-complete",
+   "quests/8223-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0892e6a6d6c5",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Kerri Hicks",
+  "quest": "More Dense Grinding Stones",
+  "en": "Thanks much, Adventurer. Here's your Darkmoon Faire tickets!",
+  "files": [
+   "quests/7939-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "95652821bc6f",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Rinling",
+  "quest": "More Thorium Widgets",
+  "en": "Here you are, Adventurer. Here are Darkmoon Faire tickets for your enjoyment. Do not, as they say, spend them all in one place!",
+  "files": [
+   "quests/7942-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e6983afff81c",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Aristan Mottar",
+  "quest": "Morgan's Discovery",
+  "en": "While I thought this would be the case, finding out that my suspicions were correct is still unsettling. We must carefully consider our next move.\n\nHere, to repay you for the purchase of the cologne and perfume.",
+  "files": [
+   "quests/9025-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "844b45eede7d",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Morgan Pestle",
+  "quest": "Morgan's Discovery",
+  "en": "Well, I'll be. It looks like Aristan might be on to something after all. I found traces of substances used in love potions and insidious mind-altering draughts.\n\nIt isn't unheard of for perfumes to have some of them, but a few of the ingredients I detected... Smells funny.",
+  "files": [
+   "quests/9025-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5b2a7f4292d9",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Granis Swiftaxe",
+  "quest": "Muren Stormpike",
+  "en": "Hello, warrior! You show a lot of promise, but you still need to learn some tricks and Muren Stormpike is just the dwarf to teach you.\n\nYou can find Muren at the Hall of Arms in the Military Ward of Ironforge. Talk to him when you're ready to learn what it is to be a warrior.",
+  "files": [
+   "quests/1679-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "65ba23d0cc70",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Muren Stormpike",
+  "quest": "Muren Stormpike",
+  "en": "Ah, Adventurer. I heard the warriors of Dun Morogh bouncing your name around. I hope you haven't spent all your time in the breweries!",
+  "files": [
+   "quests/1679-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ef5484291f7a",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Breton Samuels",
+  "quest": "Murlocs at the Gates",
+  "en": "Normally we'd show our newcomers a bit more hospitality, but we've got a bit of a murloc problem at the moment.\n\nA tribe of murlocs used to use the keep as their spawning grounds. They've been a problem since we moved in and kicked them out, but now it's starting to get out of hand. You look like you've seen some action. Do you think you could help us drive back some of these pests? You'll find them lurking in the bluffs along the road to the east, and in the camps around the lake to the west.",
+  "files": [
+   "quests/91285-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8051041e2c67",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Breton Samuels",
+  "quest": "Murlocs at the Gates",
+  "en": "We appreciate the assistance. I'm sure this won't stop the attacks entirely, but it'll hopefully slow them down a bit. It's hard enough rebuilding this place without a murloc trying to stab you in the back with a spear.",
+  "files": [
+   "quests/91285-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5afd3304995c",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Nat Pagle",
+  "quest": "Nat Pagle, Angler Extreme",
+  "en": "Can't say I really enjoy fishin' much. Figure I been at it for a good 20 or 30 years now.\n\nI reckon people are driven to do what they do for different reasons.\n\nNow, I'm not saying you need to fish for 30 years or catch every fish in the sea to become a master fisherman. I reckon you just need to be determined - determined enough to sit on your duff for hours at a time, doin' nothin'.\n\nI'll tell you what, catch me a few rare fish and I'll teach you a thing or two. Here's a list:",
+  "files": [
+   "quests/6607-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3e908431864c",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Nat Pagle",
+  "quest": "Nat Pagle, Angler Extreme",
+  "en": "Now that's a fine catch!\n\nCome over here, lemme show you how to set a few lines.",
+  "files": [
+   "quests/6607-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1a5740a546c3",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Kil'hala",
+  "quest": "Nether-lace Garment",
+  "en": "Here is your nether-lace, Adventurer. It is both comfortable and durable, and holds the magic of the laughing sisters' hair.\n\nEnjoy, and if you find it amenable, please mention so to Deino. She is a mage on whose good side I wish to stay...",
+  "files": [
+   "quests/1946-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b9d03ae978fc",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Allison",
+  "quest": "New Year Celebrations!",
+  "en": "Oh, my Smokywood supplies! Splendid! I'll need these to feed all the people in town for the celebration!\n\nThank you, Adventurer. Please take this as payment, and don't forget to drink and dance with the revelers outside!",
+  "files": [
+   "quests/8860-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5c204bf51008",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Pala",
+  "quest": "New Year Celebrations!",
+  "en": "Oh, very good! These supplies will help feed all our people, here to celebrate the new year!\n\nI thank you, Adventurer. You are in my debt. Please, take these coins... and heed my advice - drink heartily from the kegs outside, and join our revelers in a dance of celebration!",
+  "files": [
+   "quests/8861-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ccc35c5166e2",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wonderform Operator",
+  "quest": "New Year Celebrations!",
+  "en": "Stormwind is holding a celebration for the new year! All day long today you can get free booze, and at night they'll put on a firework show! It should be pretty nice... but Booty Bay is also having a party today; I bet it'll be even better!\n\nWell anyway, Innkeeper Allison in Stormwind needs a supply of Smoky Wood Pasture fare to help feed all the party goers. Can you do me a favor and deliver it!\n\nThanks, Adventurer! Innkeeper Allison is in the Gilded Rose, in the Trade District of Stormwind.",
+  "files": [
+   "quests/8860-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d425d3cba7af",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wonderform Operator",
+  "quest": "New Year Celebrations!",
+  "en": "Thunder Bluff is holding a celebration for the new year! All day you'll find free booze there, and at night they'll put on a firework show!\n\nIt should be pretty nice... but Booty Bay is also having a party today; I bet it'll be even better!\n\nWell anyway, Innkeeper Pala in Thunder Bluff needs a supply of Smoky Wood Pasture fare to help feed all the party goers. Can you do me a favor and deliver it!\n\nThanks, Adventurer! Innkeeper Pala is in the inn near the bridge to Hunter's Rise.",
+  "files": [
+   "quests/8861-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "189a36880d9c",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gazrog",
+  "quest": "News of Dogran",
+  "en": "Zankaja? That's Dogran's mate, right?\n\nYeah, I've heard from him, but it's not the sort of news we should let get back to her...\n\nNo, he's not dead. But he is injured and a prisoner of the quilboar.",
+  "files": [
+   "quests/1509-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "653d03d4d4e8",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gazrog",
+  "quest": "News of Dogran",
+  "en": "He was stationed at Camp Taurajo, where we've been trying to weed out the quilboar. He led a few grunts to one of their camps, where he was hurt bad. The others made it back and tried to rescue him. He was in bad shape, his wounds festered, so they were afraid to move him without patching him up first.\n\nThey sent a message here, requesting a healing draught from the trolls at the Malaka'jin at the base of the Stonetalon Mountains. We sent someone to get it, but they haven't returned yet.",
+  "files": [
+   "quests/1510-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1c81e1312a82",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Ken'zigla",
+  "quest": "News of Dogran",
+  "en": "Another orc, eh? I hope you haven't come for the other. He didn't make it. Those goblins did him in good.\n\nHe said he needed a healing draught, but not much else.",
+  "files": [
+   "quests/1510-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3462c48f05b4",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Zankaja",
+  "quest": "News of Dogran",
+  "en": "My mate, Dogran, was recently sent to the Crossroads for duty. It was a promotion, and he was very proud.\n\nI was sad, of course, but I didn't let him know that. And worried, too. The Barrens is a more dangerous place than Orgrimmar, and I feared the worst.\n\nNow it's been a week after he should have returned, and I have received no word from him...\n\nPerhaps you could go to the Crossroads and see if they have any news? He worked with Gazrog, who should still be stationed there.",
+  "files": [
+   "quests/1509-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "387e8cd21814",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lumina Windsinger",
+  "quest": "Old Fire-Eye",
+  "en": "I see that you have your weapon now, adventurer. I pray that it will not fail you.\n\nThe locals tell me that Old Fire-Eye hunts in a large area south of here and you can generally find him near the gates to Gilneas. Find him, and use your new blade to end him. When it is done, return and you will have the gratitude of the Windshapers.",
+  "files": [
+   "quests/95140-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "fe9b07c7442d",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lumina Windsinger",
+  "quest": "Old Fire-Eye",
+  "en": "Thank you, Quantum. Banon may now rest in peace.\n\nIf you would be willing to allow it, I believe that I can impart some magic upon your freshly blooded blade to infuse it with a small measure of the magic of my people.\n\n<Lumina Windsinger's eyes begin to glow a vibrant blue as she touches the bloodstained blade in your hand.>\n\nIt is done. It's a small thing, and I could scarcely improve such a magnificent blade. Regardless, I will pray to the winds that it serves you well, adventurer.",
+  "files": [
+   "quests/95140-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "85a544e1e26b",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orokk Omosh",
+  "quest": "On Iron Pauldrons",
+  "en": "Orokk sees the eagerness in your eyes, Adventurer. Like a sponge you soak in the wisdom of the Omosh.\n\nThree lessons I shall teach!\n\nReturn to the anvil, soak in the heat of the forge, create for Orokk four bronze battleaxes and four bronze warhammers. Only then will you learn of the iron pauldron.",
+  "files": [
+   "quests/2752-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e723b28c4b43",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orokk Omosh",
+  "quest": "On Iron Pauldrons",
+  "en": "You do Orokk proud, Adventurer. Read, learn of iron shoulders!",
+  "files": [
+   "quests/2752-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d8453bc32414",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Darkspear Commendation Officer",
+  "quest": "One Commendation Signet",
+  "en": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, Adventurer.\n\nIf you have any more signets to hand in, then I am able to assist you further in that regard.",
+  "files": [
+   "quests/8844-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f8c9019dca8f",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Darnassus Commendation Officer",
+  "quest": "One Commendation Signet",
+  "en": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, adventurer.\n\nIf you have any more signets to hand in, then I am able to assist you further in that regard.",
+  "files": [
+   "quests/8830-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "62ac80485e21",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Officer Gothena",
+  "quest": "One Commendation Signet",
+  "en": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, adventurer.\n\nIf you have any more signets to hand in, then I am able to assist you further in that regard.",
+  "files": [
+   "quests/8817-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8993650227a8",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Officer Ironbeard",
+  "quest": "One Commendation Signet",
+  "en": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, adventurer.\n\nIf you have any more signets to hand in, then I am able to assist you further in that regard.",
+  "files": [
+   "quests/8813-complete",
+   "quests/8834-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "12af6c4d9743",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Officer Lunalight",
+  "quest": "One Commendation Signet",
+  "en": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, adventurer.\n\nIf you have any more signets to hand in, then I am able to assist you further in that regard.",
+  "files": [
+   "quests/8811-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4da0f9072223",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Officer Maloof",
+  "quest": "One Commendation Signet",
+  "en": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, adventurer.\n\nIf you have any more signets to hand in, then I am able to assist you further in that regard.",
+  "files": [
+   "quests/8814-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8bf9e30abfeb",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Officer Porterhouse",
+  "quest": "One Commendation Signet",
+  "en": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, adventurer.\n\nIf you have any more signets to hand in, then I am able to assist you further in that regard.",
+  "files": [
+   "quests/8812-complete",
+   "quests/8838-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e674a361a52b",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Officer Redblade",
+  "quest": "One Commendation Signet",
+  "en": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, adventurer.\n\nIf you have any more signets to hand in, then I am able to assist you further in that regard.",
+  "files": [
+   "quests/8815-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8c11f08b1043",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Officer Thunderstrider",
+  "quest": "One Commendation Signet",
+  "en": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, adventurer.\n\nIf you have any more signets to hand in, then I am able to assist you further in that regard.",
+  "files": [
+   "quests/8818-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "950d4747bba4",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Officer Vu'Shalay",
+  "quest": "One Commendation Signet",
+  "en": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, adventurer.\n\nIf you have any more signets to hand in, then I am able to assist you further in that regard.",
+  "files": [
+   "quests/8816-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "26cb462b4cd0",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Orgrimmar Commendation Officer",
+  "quest": "One Commendation Signet",
+  "en": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, Adventurer.\n\nIf you have any more signets to hand in, then I am able to assist you further in that regard.",
+  "files": [
+   "quests/8840-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "93cd3e34c18a",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Stormwind Commendation Officer",
+  "quest": "One Commendation Signet",
+  "en": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, Adventurer.\n\nIf you have any more signets to hand in, then I am able to assist you further in that regard.",
+  "files": [
+   "quests/8836-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e009574f45c1",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Thunder Bluff Commendation Officer",
+  "quest": "One Commendation Signet",
+  "en": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, adventurer.\n\nIf you have any more signets to hand in, then I am able to assist you further in that regard.",
+  "files": [
+   "quests/8842-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a4f6b3068e74",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Undercity Commendation Officer",
+  "quest": "One Commendation Signet",
+  "en": "Very well - your deeds have been entered into the records, and you are duly recognized for your efforts. Keep up the good work, adventurer.\n\nIf you have any more signets to hand in, then I am able to assist you further in that regard.",
+  "files": [
+   "quests/8832-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8a920ff025d5",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hulfdan Blackbeard",
+  "quest": "Onin's Report",
+  "en": "Long route? In the name o' me own beard!\n\nYe done good, Adventurer. Take this dagger and be gone with ye. The Circle will call upon ye again when step three be ready to be set into motion.\n\nWhat's step three? It comes right after step two - me putting me boot up yer backside.\n\nInterested?",
+  "files": [
+   "quests/2239-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4ce76a67434a",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Onin MacHammar",
+  "quest": "Onin's Report",
+  "en": "The Quarry? Yap, I see those monstrous armored steam tanks come by this post near every day.\n\nMy contacts to the east tell me that the tank starts off at Ironforge, makes a pickup at the Gol'Bolar Quarry, stops over at Kharanos to refuel and then for some blasted reason, it takes the long way around past Gnomeregan, before reaching Ironforge to drop off the shipment.\n\nIt's all in the report, traveler. Take it back to Hulfdan so he can plan the next step.",
+  "files": [
+   "quests/2239-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "008566211e7e",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Orm Stonehoof",
+  "quest": "Orm Stonehoof and the Brutal Helm",
+  "en": "Greetings, Adventurer. I am Orm, and Thun'grim tells me you wish a helm made?",
+  "files": [
+   "quests/1840-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "aa9f0dd6292f",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Thun'grim Firegaze",
+  "quest": "Orm Stonehoof and the Brutal Helm",
+  "en": "Orm Stonehoof is respected greatly for his skill. He will make for you the brutal helm.\n\nSeek him out in Thunder Bluff, near the pool by the city's great, central totem.",
+  "files": [
+   "quests/1840-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "37f440a730cd",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ott",
+  "quest": "Ott's Masterwork",
+  "en": "These are some truly fine materials, adventurer. You honor me by allowing me to forge this blade for you and I only hope that I can live up to your expectations.\n\nPlease, stand back so that I may begin the forging process.",
+  "files": [
+   "quests/95125-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c89719314db9",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ott",
+  "quest": "Ott's Masterwork",
+  "en": "This blade is my finest work and I hope it serves you well in your travels. Thank you again for this opportunity.\n\nAka'Magosh, friend.",
+  "files": [
+   "quests/95125-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "21adb5b0d198",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Uzzek",
+  "quest": "Path of Defense",
+  "en": "As a warrior, one of our most crucial tasks is... protection. We are the shield of the Horde, and we keep our weaker brethren safe. If you are to join in our ranks, then you must prove your mettle to me.\n\nGo to Thunder Ridge in Durotar, where live the lightning hides and thunder lizards. Hunt the beasts! Show me you are tougher than they! Brave their assaults and bring me a stack of their singed scales as proof.\n\nDo this, and then I will teach you.",
+  "files": [
+   "quests/1498-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b1eecd273692",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Uzzek",
+  "quest": "Path of Defense",
+  "en": "Ah. I see you have defeated the thunder lizards, which proves you are tough. Now I will show you how tough skin and shrewd movements can combine to form an impenetrable wall of defense.\n\nLearn your lesson well, Adventurer. And be ready for future instruction.",
+  "files": [
+   "quests/1498-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "046badff1b03",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Venya Marthand",
+  "quest": "Piercing the Veil",
+  "en": "Greetings, child. I can see that you are still young in the ways of the warlock, power still eluding your grasp. I can sense your eagerness to learn.\n\nAnd you will learn.\n\nThere is no strength in ignorance. Knowledge is our greatest power. Through its application, we can control the chaotic magics and beings of the void, bending them to our will.\n\nI will show you how to bind a servant to your will, but first you must bring me three skulls of the rattlecage skeletons near the abandoned smithy.",
+  "files": [
+   "quests/1470-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "dcd9d857323f",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Venya Marthand",
+  "quest": "Piercing the Veil",
+  "en": "Though you are still untested and young in your learning, you have proven that you possess sufficient ability to master the summoning and binding of an imp. Do not be deceived by an imp's size. Though it lacks physical strength, it possesses powers and a cleverness that will serve you well.\n\nAttend me carefully, adventurer, for I will not repeat this lesson, and I will leave its mastery to you.",
+  "files": [
+   "quests/1470-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9dbb1622d68c",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wrenix the Wretched",
+  "quest": "Plundering the Plunderers",
+  "en": "Make sure to visit the Gizmotronic Apparatus to grab a lockpick and an E.C.A.C. You will definitely need both to complete your mission!",
+  "files": [
+   "followup/3171-goblin-male-gruff"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "32b05e5e1109",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wrenix the Wretched",
+  "quest": "Plundering the Plunderers",
+  "en": "I don't mean to scare you, Adventurer, but the last five thieves I sent to steal the southsea treasure came back to me in pieces.\n\nSouth along the coast you'll find Tide Razor, the southsea freebooter's ship. Nestled in the hold is the payoff - the southsea treasure. On the second level of that ship is the pirate's den, a place where they train all of their thieves.\n\nBoard that ship, steal the treasure, and bring it back to me. Use the pirate's den if you need to practice your thievery, but be careful!",
+  "files": [
+   "quests/2381-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "aa615378ae2e",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Wrenix the Wretched",
+  "quest": "Plundering the Plunderers",
+  "en": "Incredible! Improbable! Simply amazing! You've got talent, Adventurer. Either that or you're the luckiest man alive!\n\nHere's your cut of the action. I'm sure you would make better use of this stuff than I could.",
+  "files": [
+   "quests/m-2381-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "fb237fc85d99",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Tabetha",
+  "quest": "Power in Uldaman",
+  "en": "Now that the demon has been removed, we must gain a power source. Unfortunately, the best power sources are usually the oldest and the hardest to get. It's neat how fate likes to take a bite out of you sometimes, isn't it?\n\nSo you're going to need to go to Uldaman and defeat the obsidian sentinel there. He's big, he's tough, and his power source packs a punch!\n\nI wish you the best of luck, Adventurer. And if you don't get lucky then, well... it was nice knowing you.",
+  "files": [
+   "quests/1956-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d8eb9f9f77dd",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Tabetha",
+  "quest": "Power in Uldaman",
+  "en": "You did it? Well done!\n\nI was chatting with some of my colleagues and when your name came up they said, \"You know that Adventurer sure works well under stress!\"\n\nBut when I told them I sent you to Uldaman against the obsidian sentinel, they said I was crazy! They said, \"Tabetha, you're crazy! There's no way Adventurer could take on that sentinel!\"\n\nAnd I said, \"We'll see,\" and then they said \"Yeah, we'll see...\"\n\nWell we sure showed them, didn't we!",
+  "files": [
+   "quests/1956-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d6ca5c4153b6",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dendrite Starblaze",
+  "quest": "Power over Poison",
+  "en": "You've learned what it means to cure poison without the benefit of spiritual aid. Remember what others must endure in fighting poisonous afflictions as you soon embrace your newfound power over poison.\n\nYou should now return to Mathrengyl Bearwalker in Darnassus, Adventurer. He, no doubt, has a very important spell to teach you now that the student understands the lesson given unto him.\n\nFarewell, young druid. We shall speak again.",
+  "files": [
+   "quests/m-6125-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f2e4215a1783",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Dendrite Starblaze",
+  "quest": "Power over Poison",
+  "en": "You've learned what it means to cure poison without the benefit of spiritual aid. Remember what others must endure in fighting poisonous afflictions as you soon embrace your newfound power over poison.\n\nYou should now return to Turak Runetotem in Thunder Bluff, Adventurer. He, no doubt, has a very important spell to teach you now that the student understands the lesson given unto him.\n\nFarewell, young druid. We shall speak again.",
+  "files": [
+   "quests/m-6130-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "53b5abb880ab",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mathrengyl Bearwalker",
+  "quest": "Power over Poison",
+  "en": "Welcome back - I've been following your progress on this lesson since you left, and I must admit I was surprised to learn about the situation in Auberdine. This does bear some further investigation, as the introduction of such poisons into the environment is most upsetting to the balance.\n\nYou handled yourself with grace under pressure. For that, I can find no better way to reward you than with permanent power over poison. Use it well, Adventurer... use it well.",
+  "files": [
+   "quests/6125-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3fca78421d79",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Turak Runetotem",
+  "quest": "Power over Poison",
+  "en": "Welcome back - I've been following your progress on this lesson since you left, and I must admit I was surprised to learn about the situation at the Crossroads. This does bear some further investigation, as the introduction of such poisons into the environment is most upsetting to the balance.\n\nYou handled yourself with grace under pressure. For that, I can find no better way to reward you than with permanent power over poison. Use it well, Adventurer... use it well.",
+  "files": [
+   "quests/6130-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "73258d88ce44",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "High Sorcerer Andromath",
+  "quest": "Pristine Spider Silk",
+  "en": "Your service has been unwavering, Adventurer. I think, perhaps, it is time you had a finer garment, one more suiting your station as an adept mage. If you gather the needed materials, then we will arrange the robe made.\n\nYou must enter Duskwood and hunt carrion recluse spiders. Extract their silk, but only the finest, most pristine silk will do. When you have enough, take it to Wynne Larson, here in the mage district at the Larson Clothiers. She will craft your robe.",
+  "files": [
+   "quests/1940-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "548e4d26a3b2",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Wynne Larson",
+  "quest": "Pristine Spider Silk",
+  "en": "Ok, let's get to work!",
+  "files": [
+   "followup/2649-human-female-official"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5165b99a6ec5",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Wynne Larson",
+  "quest": "Pristine Spider Silk",
+  "en": "Aha! There it is.",
+  "files": [
+   "followup/2650-human-female-official"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8a83a3293625",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Wynne Larson",
+  "quest": "Pristine Spider Silk",
+  "en": "Now where did I put that silver spool...",
+  "files": [
+   "followup/2651-human-female-official"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "caa276f0e459",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Wynne Larson",
+  "quest": "Pristine Spider Silk",
+  "en": "Nice specimens, these. I'll get right to work!",
+  "files": [
+   "quests/1940-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1d3a97093544",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mor'zul Bloodbringer",
+  "quest": "Rage of Blood",
+  "en": "The dreadsteeds dwell on another world, on the fiery Plains of Xoroth, and to bind one of those famed beasts you must invoke powerful glyphs. I can scribe the glyphs on a parchment for you, but first I will need a special ink.\n\nIn distant Winterspring there dwells a race of owl beasts. Once pure creatures, they were turned mad by the demonic emanations of the Darkwhisper Gorge and now roam the snows in a frenzy.\n\nTheir blood is what I need to ink your parchment. Bring it to me.",
+  "files": [
+   "quests/7563-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4302ebde4e59",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Mor'zul Bloodbringer",
+  "quest": "Rage of Blood",
+  "en": "Ah, very good. I will have this blood distilled into an ink and use it for the parchment I promised you. And perhaps I will save just a little for myself, as I hear its taste is quite euphoric...",
+  "files": [
+   "quests/7563-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "394467e4a3c3",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Zarrin",
+  "quest": "Recipe of the Kaldorei",
+  "en": "Long ago, the night elves were called the kaldorei, a name that means \"children of the stars.\" Learning of the past is an important step in your path as a adventurer, Adventurer, so listen well to what I have to tell you.\n\nThe kaldorei have always taken much pride in their harmonious relationship with nature. This means that we only take from nature what is necessary, and that we return in kind. This balance has afforded us much, Adventurer.\n\nGo out and collect seven small spider legs -- no more than that, and return to me.",
+  "files": [
+   "quests/4161-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "26ab383969d6",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Zarrin",
+  "quest": "Recipe of the Kaldorei",
+  "en": "Always remember what I have shown you today, Adventurer. You are part of the balance that the night elves strive to keep intact, even during troublesome times.",
+  "files": [
+   "quests/4161-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d8d3f7404863",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Magistrix Erona",
+  "quest": "Reclaiming Sunstrider Isle",
+  "en": "The sooner you begin your education, Adventurer, the better for us all. There is little room for error, so listen closely.\n\nThe Burning Crystals - the green floating objects to the west of the Sunspire here - have long been used to power the isle's experimentations. The mana wyrms were their guardians, but the Scourge invasion of Quel'Thalas has driven them errant from our lack of magical control over them.\n\nThere is little choice but to thin their numbers for reclamation. Do this, then return to me.",
+  "files": [
+   "quests/8325-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5fe32a5214c0",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Aramis Hammerhand",
+  "quest": "Rediscovering the Light",
+  "en": "I am proud to welcome another newly risen adventurer to our ranks. As you begin to reconnect with the light you may notice that certain abilities that were once second nature to you may cause you considerable pain to use now, particularly those involving channeling the light to heal yourself or others.\n\nThe only way around this problem is--unfortunately--to go through it. Like any other muscle that has atrophied, you must push through the pain and exercise the flesh for it to return to full function.",
+  "files": [
+   "quests/90902-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a323918b481b",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Aramis Hammerhand",
+  "quest": "Rediscovering the Light",
+  "en": "Pain is nothing new to those who have endured death, and as such the Forsaken are particularly hardy to it. Pain has a purifying property as well that you should embrace as a badge of honor and evidence that you are, in fact, still a servant of the light despite your new circumstances.\n\nBe well and walk in the light once more, adventurer.",
+  "files": [
+   "quests/90902-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5360f07b6221",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Lucius",
+  "quest": "Redridge Rendezvous",
+  "en": "Ah, so your fingers are a little fat, eh? Don't worry, Adventurer, I've turned more useless thieves than you into accomplished rogues.",
+  "files": [
+   "quests/2281-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8e2c8f36311f",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Renzik \"The Shiv\"",
+  "quest": "Redridge Rendezvous",
+  "en": "Sending you out in the field now would be suicide. Renzik doesn't need another dead rogue on his hands. Don't fret, though, Adventurer - Renzik is going to get you up to speed.\n\nMake your way to the Redridge Mountains and speak with an associate of SI:7 named Lucius. You will find him hanging around the docks of Lakeshire with the other shady good-for-nothings.",
+  "files": [
+   "quests/2281-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7182f1f28257",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Anastasia Hartwell",
+  "quest": "Report to Anastasia",
+  "en": "It is true. A magical disturbance has been detected in our city. We are not yet sure of its origin, or whether it is malign or benign. We must first gather more information...\n\nAnd that, Adventurer, brings us to your task.",
+  "files": [
+   "quests/1959-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ac0567b72152",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Thurston Xane",
+  "quest": "Report to Anastasia",
+  "en": "The mages of the Undercity have noted a magical disturbance within the city, and have sent word for mages of the Horde to investigate.\n\nAnastasia Hartwell can tell you more. Speak with her in the Magic Quarter in the Undercity.",
+  "files": [
+   "quests/1959-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "35965dbcbadc",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Uthel'nay",
+  "quest": "Report to Anastasia",
+  "en": "The mages of the Undercity have noted a magical disturbance within the city, and have sent word for mages of the Horde to investigate.\n\nAnastasia Hartwell can tell you more. Speak with her in the Magic Quarter in the Undercity.",
+  "files": [
+   "quests/1959-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8e8d958cdffb",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Jennea Cannon",
+  "quest": "Report to Jennea",
+  "en": "Adventurer, I have a mission for you, here in the mage district. Listen closely, for there is no time to waste.",
+  "files": [
+   "quests/1919-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4ac629189967",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Magis Sparkmantle",
+  "quest": "Report to Jennea",
+  "en": "Your knowledge of the craft grows, young Adventurer. Are you now ready to begin your true lessons? Are you ready to take your place in the secret war we wage?\n\nIf so, then speak with Jennea Cannon, in the wizard's sanctum in the mage district of Stormwind. She has a task for you which will open your first window into the invisible world.",
+  "files": [
+   "quests/1919-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1cd28de1e4fb",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Zaldimar Wefhellt",
+  "quest": "Report to Jennea",
+  "en": "Your knowledge of the craft grows, young Adventurer. Are you now ready to begin your true lessons? Are you ready to take your place in the secret war we wage?\n\nIf so, then speak with Jennea Cannon, in the wizard's sanctum in the mage district of Stormwind. She has a task for you which will open your first window into the invisible world.",
+  "files": [
+   "quests/1919-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3492cb3a0217",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Owen Thadd",
+  "quest": "Research Access",
+  "en": "Your actions show you are one who respects knowledge. The library is open for use in your studies.",
+  "files": [
+   "quests/97286-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "37096d3721e8",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "gnome-female",
+  "speakerGender": "female",
+  "npc": "Bink",
+  "quest": "Return to the Marsh",
+  "en": "It is time, Adventurer, for you to speak with Tabetha... the hermit of Dustwallow Marsh. She will instruct you on the creation of a powerful mage's implement.\n\nTabetha's shack lies deep in Dustwallow Marsh, west of Theramore.",
+  "files": [
+   "quests/1953-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "49f0f166072d",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Deino",
+  "quest": "Return to the Marsh",
+  "en": "It is time, Adventurer, for you to speak with Tabetha... the hermit of Dustwallow Marsh. She will instruct you on the creation of a powerful mage's implement.\n\nTabetha's shack lies deep in Dustwallow Marsh, west of Theramore.",
+  "files": [
+   "quests/1953-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "304704d8bbd9",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Jennea Cannon",
+  "quest": "Return to the Marsh",
+  "en": "It is time, Adventurer, for you to speak with Tabetha... the hermit of Dustwallow Marsh. She will instruct you on the creation of a powerful mage's implement.\n\nTabetha's shack lies deep in Dustwallow Marsh, west of Theramore.",
+  "files": [
+   "quests/1953-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "06102567e2a2",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Tabetha",
+  "quest": "Return to the Marsh",
+  "en": "Ah, yes. You are here for an orb or a staff, Adventurer? Very well. I will aid you in its construction.\n\nBut be forewarned--the process is a perilous one and could mean your death.\n\nOr my death. Definitely someone's death... \n\nBut let's hope it's someone else's death, eh?",
+  "files": [
+   "quests/1953-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5f3d1b5c28e0",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Ursyn Ghull",
+  "quest": "Return to the Marsh",
+  "en": "It is time, Adventurer, for you to speak with Tabetha... the hermit of Dustwallow Marsh. She will instruct you on the creation of a powerful mage's implement.\n\nTabetha's shack lies deep in Dustwallow Marsh, west of Theramore.",
+  "files": [
+   "quests/1953-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3304a9121d56",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Braenna Flintcrag",
+  "quest": "Returning Home",
+  "en": "Greetings, laddy. Good to see you here in our great halls. A blessing be on you and your kind.\n\nWhile you were traveling through our lands, a priestess of your temple came here seeking you. She said that you were to return to the Temple of the Moon as soon as possible. I'm sorry I can't tell you more, but it did sound important. When you get to the temple, speak to a Priestess Alathea.",
+  "files": [
+   "quests/m-5633-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "009d646da6d0",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Brother Joshua",
+  "quest": "Returning Home",
+  "en": "A priestess recently visited our halls seeking you out, young traveler. She said that she was on a mission to find you and that you should return to the Temple of the Moon in Darnassus as soon as possible. When you arrive, seek out a Priestess Alathea--she will tell you more.\n\nThe Light be with you, Adventurer.",
+  "files": [
+   "quests/5631-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0096386d013d",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Laurna Morninglight",
+  "quest": "Returning Home",
+  "en": "Hello again, Adventurer. I know you've been busy aiding our people, but you must take some time for yourself also. Priestess Alathea sent someone here looking for you. It seems that you've caught the attention of our elders and they feel you are prepared for greater things. Head to the Temple of the Moon in Darnassus and look for Alathea there. She will be waiting. Good luck, and may Elune be with you.",
+  "files": [
+   "quests/5629-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d581b5514257",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Maxan Anvol",
+  "quest": "Returning Home",
+  "en": "Hello there, laddy. Good to see you travelin' far and wide to distant lands. No offense meant, but a lot o' your kind don't take well to these cold climates usually. Glad to see you're made of tougher stuff.\n\nNot too long ago one of your priestesses was in here lookin' for you--said somethin' about you finding a Priestess Alathea in the Temple of the Moon back in Darnassus. Said it was important and you should head back there soon.",
+  "files": [
+   "quests/m-5630-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "18434a4c6659",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Nara Meideros",
+  "quest": "Returning Home",
+  "en": "Oh, yes, of course. Hello, Adventurer. A messenger from our order was here not too long ago looking for you. She mentioned something important happening back in Darnassus and that you should return to the Temple of the Moon as soon as you can. When you arrive, speak to Priestess Alathea. I believe it has something to do with your progressing so well in our ways.\n\nAgain, return to Darnassus when you can.",
+  "files": [
+   "quests/5632-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e4359c58b0c8",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Priestess Alathea",
+  "quest": "Returning Home",
+  "en": "Wonderful, you've returned home, Adventurer. It always pleases Tyrande and myself when those we've trained go out into the world and return to us safely. How have things been with you? Does Elune still bless your travels? Perhaps after we speak more about the business at hand, you could tell me more of your travels.",
+  "files": [
+   "quests/5628-complete",
+   "quests/5631-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "289e30e28c5d",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Priestess Alathea",
+  "quest": "Returning Home",
+  "en": "Wonderful, you've returned, Adventurer. It always pleases Tyrande and myself when those we've trained go out into the world and return to us safely. How have things been with you? Does Elune still bless your travels? Perhaps after we speak more about the business at hand, you could tell me more of your travels.",
+  "files": [
+   "quests/5629-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6b90534976d6",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Priestess Alathea",
+  "quest": "Returning Home",
+  "en": "Wonderful, you've returned home, adventurer. It always pleases Tyrande and myself when those we've trained go out into the world and return to us safely. How have things been with you? Does Elune still bless your travels? Perhaps after we speak more about the business at hand, you could tell me more of your travels.",
+  "files": [
+   "quests/5630-complete",
+   "quests/5632-complete",
+   "quests/5633-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6e7c55beaada",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Priestess Josetta",
+  "quest": "Returning Home",
+  "en": "Ah, yes, hello, Adventurer? I'm glad you stopped to talk for a moment. You are a far way from home at such a young age--I admire such ambition. I wish when I was younger I could have mustered the courage to travel the world.\n\nThere was a priestess of your order here looking for you not too long ago. She said it was very urgent you returned to the Temple of the Moon in Darnassus and speak to Priestess Alathea--it had something to do with your training. I wouldn't dally too long if you can help it.",
+  "files": [
+   "quests/5628-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a5acb02e326c",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Menara Voidrender",
+  "quest": "Returning the Cleansed Orb",
+  "en": "Well done, Adventurer. This will do nicely.\n\nThe only thing left for you to do is to decide on which demon you want me to imprison within the cleansed orb. Do that, and you will have a magnificent new item to wield.",
+  "files": [
+   "quests/4976-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "809760c3ae5d",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Tabetha",
+  "quest": "Returning the Cleansed Orb",
+  "en": "Take the cleansed orb back to Menara in Ratchet, Adventurer. Give her my regards and be safe. I truly hope you are able to withstand the temptation and corruption that is sure to come as you follow your path.\n\nGood luck.",
+  "files": [
+   "quests/4976-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "dc4e4350a42b",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Dormant Wind Kissed Blade",
+  "quest": "Rise, Thunderfury!",
+  "en": "You have defeated the Wind Seeker. Take the dormant blade and force the lying wretch, Demitrian, to use the materials you provided for his betrayal to wake Thunderfury.",
+  "files": [
+   "quests/7787-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0dd92cc45199",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Highlord Demitrian",
+  "quest": "Rise, Thunderfury!",
+  "en": "Please do not harm me! Take it! Take the blade! Leave Demitrian to reshape his pathetic life!",
+  "files": [
+   "quests/7787-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9cab752432ea",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Magus Tirth",
+  "quest": "Rituals of Power",
+  "en": "Hm... now that I think about it, I don't have my book! You see, I had some gambling debts and to pay them off I sold the last copy of Rituals of Power to a member of the clergy....\n\nA member of the Scarlet Brotherhood. He must have taken it to their library in the Scarlet Monastery in Tirisfal Glades!\n\nIf you want that book, then you'll have to go to the monastery to find it. And sorry about all the trouble. I'm not myself these days...",
+  "files": [
+   "quests/1951-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "1683e2424f28",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Tabetha",
+  "quest": "Rituals of Power",
+  "en": "That's it! It's just what I need to prepare for the ritual to create your wand! I hope it wasn't too much trouble to find...",
+  "files": [
+   "quests/1951-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0e767c891cd4",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Kerri Hicks",
+  "quest": "Rituals of Strength",
+  "en": "Thank you, Adventurer. I will use these stones in a strength-gaining ritual I learned from an ancient tablet in the deepest jungles of Stranglethorn.\n\nIt is said that she who performs this sacred rite correctly will have the strength and endurance of ten Tauren!",
+  "files": [
+   "quests/7893-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c9b781492c75",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hogral Bakkan",
+  "quest": "Road to Salvation",
+  "en": "Another lost soul looking for guidance, eh? I suppose you want to find a purpose - your purpose. I've seen it a thousand times, another hero looking for work.\n\nWell, today's your lucky day, friend. Hogral's got the cure for your ailment.\n\nHere's what you do: Take this road here up to Ironforge and make your way to the Forlorn Cavern. Once there, locate the thieves' guild and speak with Hulfdan Blackbeard. He'll put you on the road to salvation.",
+  "files": [
+   "quests/2218-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "39e1c77ae03c",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hulfdan Blackbeard",
+  "quest": "Road to Salvation",
+  "en": "So ye think yer a right scoundrel? Destined to be one o' Blackbeard's chosen few - an officer o' the Hidden Circle?\n\nOnly a good fer nothin' scallywag would think so highly o' hisself.\n\nThat's exactly what we be lookin' fer! Welcome aboard, Adventurer!",
+  "files": [
+   "quests/2218-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "df9e71628be9",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mebok Mizzyrix",
+  "quest": "Root Samples",
+  "en": "The herbs of the Barrens are not quite like herbs in other lands. Their properties are mostly the same, but the oasis water here alters the plants; they are just slightly different.\n\nI want to study those differences... to see if they're exploitable!\n\nIf you are skilled in herbalism, then gather root samples off the herbs you find in the Barrens. Bring back these samples so that I may compare them with herbs from other regions.",
+  "files": [
+   "quests/866-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9f77b696278a",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Mebok Mizzyrix",
+  "quest": "Root Samples",
+  "en": "Yes yes, these are very nice! I will grow specimens from these roots and study them. I hope to find new properties from them. Hidden, valuable properties...!\n\nAnd don't worry -- if I do then you'll be the first to know. Because I'll need someone to gather more!",
+  "files": [
+   "quests/866-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "9355fb071653",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Beer Keg",
+  "quest": "Rotten Eggs",
+  "en": "Having successfully fought your way inside the inn, you now place the eggs inside the keg. You can smell the foul odor permeating the air...",
+  "files": [
+   "quests/8322-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e5319131cc0d",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Darkcaller Yanka",
+  "quest": "Rotten Eggs",
+  "en": "The humans of Southshore love their ale, and as such they prize the ale served at the Southshore Inn. With the chaos of Hallow's End now upon them, we can use it to ruin their latest batch of beverages for weeks - if not months to come!\n\nTake these rotten eggs and place them in the main brew keg inside the Southshore Inn. Your presence alone will cause strife, so be prepared to defend yourself!\n\nOnce you've given Southshore a taste they'll not soon forget, return to me here at the festival!",
+  "files": [
+   "quests/8322-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8c12452b7fca",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Beer Keg",
+  "quest": "Ruined Kegs",
+  "en": "The rotten eggs have been successfully placed inside the keg. Future batches of ale from the Southshore Inn are sure to be ruined!\n\nYou should now report back to Darkcaller Yanka at the Wickerman Festival in Tirisfal Glade and report your success.",
+  "files": [
+   "quests/8409-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "fd6213e6f79b",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Darkcaller Yanka",
+  "quest": "Ruined Kegs",
+  "en": "Ah, success! You've shown true Hallow's End spirit - FORSAKEN spirit, I should say!\n\n\nI revel in the fact that Southshore must now feast on bad ale or go without! As for you, take these treats. I believe you will find good use for them!",
+  "files": [
+   "quests/8409-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d60cfac594d8",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Elder Rumblerock",
+  "quest": "Rumblerock the Elder",
+  "en": "The stuff of life is doomed to die and return to the earth, but the stuff of spirit lives eternal. I bid you well, Adventurer, and offer you this token...",
+  "files": [
+   "quests/8636-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e07289de2641",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Grull Hawkwind",
+  "quest": "Rune-Inscribed Note",
+  "en": "Just a moment ago a messenger was looking for you, Adventurer. I believe she was sent by the shaman trainer Meela. If this note is from Meela, I wouldn't take long in reading it's contents.",
+  "files": [
+   "quests/3093-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7e0d060d2f75",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Meela Dawnstrider",
+  "quest": "Rune-Inscribed Note",
+  "en": "We will meet many times in the days to come. Each time you will hopefully leave my company a little more powerful... a little more prepared. Like the Eternal Flame, your spirit will burn bright and hot.\n\nGo now, Adventurer. Go and test yourself. I will be here for you when you need.",
+  "files": [
+   "quests/3093-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5f377c656986",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gornek",
+  "quest": "Rune-Inscribed Parchment",
+  "en": "Ah, while you were gone a parchment came for you, Adventurer.\n\nRead it when you have time. If I'm not mistaken, it came from the shaman trainer Shikrik. She would have words with you when you're ready.",
+  "files": [
+   "quests/3089-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7aaa2b11c13a",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Shikrik",
+  "quest": "Rune-Inscribed Parchment",
+  "en": "You will be the conduit in which our ancestors communicate. You will have the power of the elements at your beck and call. Sundering your enemies will be child's play; healing your allies as easy as breathing. Keep these things in mind as you face new challenges, and come back to me as often as you'd like. I will remain here to teach you new spells and set you on the correct path when you are ready.",
+  "files": [
+   "quests/3089-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "de1476a03ba8",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gornek",
+  "quest": "Rune-Inscribed Tablet",
+  "en": "Ah, while you were gone a tablet came for you, Adventurer.\n\nRead it when you have time. If I'm not mistaken, it came from the shaman trainer Shikrik. She would have words with you when you're ready.",
+  "files": [
+   "quests/3084-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ff6c51201498",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Shikrik",
+  "quest": "Rune-Inscribed Tablet",
+  "en": "As you probably know, the elements give us our power. Fire, earth, water and air--these are our tools.\n\nOur strength comes from the spirits of our ancestors. We are the leaders of our people. Like Thrall is to the Horde, so shall we be to the villages and towns we visit. They will look to us for wisdom and protection. To be better prepared, you must train often. When you feel you've gained more power, come to me and I shall teach you what I can.",
+  "files": [
+   "quests/3084-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "386700e6a4ea",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Keryn Sylvius",
+  "quest": "SI:7",
+  "en": "Renzik was looking for you, fish.\n\nI wouldn't keep Mathias's second in command waiting if I were you.",
+  "files": [
+   "quests/2300-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "107f6e439c13",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Renzik \"The Shiv\"",
+  "quest": "SI:7",
+  "en": "Are you ready to get to work or do you need to take a nap before we get started?",
+  "files": [
+   "quests/2300-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a008094f9a74",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Ula'elek",
+  "quest": "Satyr Hooves",
+  "en": "I am done. Your armor is ready, adventurer.",
+  "files": [
+   "followup/2646-troll-male-shaman"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4a9276dd9299",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Ula'elek",
+  "quest": "Satyr Hooves",
+  "en": "I can make you a pair of brutal gauntlets, and great magic will they hold. But first, you must collect this magic and bring it to me.\n\nThe satyrs dwell in northeastern Ashenvale because of the forest's power. They feed off its purity, leeching and corrupting. You can tell which satyrs have drawn the most of Ashenvale's magic by their swollen, uncloven hooves.\n\nThese hooves hold great power. I will need them for your gauntlets' crafting.",
+  "files": [
+   "quests/1842-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "416a88bb1671",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Ula'elek",
+  "quest": "Satyr Hooves",
+  "en": "Ah, you have them! Now, just as the Satyrs leeched the strength of Ashenvale, I will leech the power held within these hooves and harness it into my crafting...",
+  "files": [
+   "quests/1842-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "58c19e1773e8",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Archmage Xylem",
+  "quest": "Sealed Azure Bag",
+  "en": "I see you have Lord Ravenholdt's bag. Why didn't you say so, boy?",
+  "files": [
+   "quests/m-8234-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0ddd062c7ce2",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Lord Jorach Ravenholdt",
+  "quest": "Sealed Azure Bag",
+  "en": "First things first. What I've lost is a small blue bag, the contents of which are a private matter.\n\nDon't bother going after the thieves, because they are already dead. What we do know is the fools couldn't get the bag open. so they sold it to some timbermaw shaman in Azshara as a holy relic. Clever.\n\nI need you to travel to Azshara and retrieve it from the shaman through subtlety... or force. Better luck with the first method, I'd wager. Once acquired, take it to Archmage Xylem.",
+  "files": [
+   "quests/8234-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6266d4c9f511",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Keryn Sylvius",
+  "quest": "Seek out SI: 7",
+  "en": "The badge? Oh, it's nothing, fish - nothing you could handle anyhow. By the looks of you, I'd say Mathias is likely to mistake you for the cheese delivery boy instead of a proper rogue. Regardless, I've been assigned a job and I've made a promise to deliver on that job.\n\nSpeaking of which, deliver this package to Mathias and he may give you a small task or two.\n\nGet cracking.",
+  "files": [
+   "quests/m-2205-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "39da5354efe1",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Master Mathias Shaw",
+  "quest": "Seek out SI: 7",
+  "en": "You found me - and by looking at you, I'd say the run and subsequent search may have been a great strain on your system, both mentally and physically.\n\nWould you like Renzik to show you the way to an inn or are you ready for some work?",
+  "files": [
+   "quests/2205-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b206c91805fd",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Carendin Halgar",
+  "quest": "Seeking Strahad",
+  "en": "I have taught you skills in the past, but the time has come for another to teach you. He is in Ratchet, and his name is Strahad. He is human, but do not let that fool you into thinking he is weak, nor is he your enemy... at least for now. He is powerful and should be respected. He can teach you about greater summonings, summonings I feel you are prepared for. Go to him now.\n\nYou can find him in Ratchet... above the port town next to the tower there.",
+  "files": [
+   "quests/3001-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c7cf82e6be24",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Gakin the Darkbinder",
+  "quest": "Seeking Strahad",
+  "en": "It is time you learned the felhunter summoning, adventurer. I do not have the reagents and items necessary to teach you here, so you will have to seek out another, Strahad Farsan, another of our inner circle.\n\nHe makes his residence in the goblin port of Ratchet. I will send word ahead of you to inform him of your coming.",
+  "files": [
+   "quests/1798-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3ae836897335",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gan'rul Bloodeye",
+  "quest": "Seeking Strahad",
+  "en": "I have taught you skills in the past, but the time has come for another to teach you. He is in Ratchet, and his name is Strahad. He is human, but do not let that fool you into thinking he is weak. He is powerful even though he may be small. He can teach you about more powerful summonings--I feel you are ready. Go to him now. He is in Ratchet... above the port town next to his tower.",
+  "files": [
+   "quests/2996-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "db0d5eb97b75",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Strahad Farsan",
+  "quest": "Seeking Strahad",
+  "en": "adventurer? Ah, of course. Our latest prodigy. The real thing can't live up to the legend, I'm afraid.\n\nNo matter, you've come here to learn, not to hear me make jokes to myself.",
+  "files": [
+   "quests/1798-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6e2a6483704e",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Strahad Farsan",
+  "quest": "Seeking Strahad",
+  "en": "A busy day in Ratchet, isn't it? How I enjoy watching the toil of a port city. So much mystery, so much adventure... so much ignorance.\n\nIs that hatred I see in your eyes, Adventurer? Good, we will put that to good use.",
+  "files": [
+   "quests/2996-complete",
+   "quests/3001-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "17c12e87b92f",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Thundris Windweaver",
+  "quest": "Seeking the Kor Gem",
+  "en": "Greetings, Adventurer. What can I do for one who follows a holy path?\n\nAh, yes, Stilwell, the blacksmith... from long ago. I remember him well, though, I have not heard his name in some time.\n\nHe never struck me as an impudent man, so I can only assume his desire for a Kor gem is noble.\n\nIf you truly wish for one of the gems, then you must head to the northwest of Ashenvale. You will find Blackfathom Deeps there within some ancient ruins. The naga who still use the gems are down below. Do not go alone, adventurer.",
+  "files": [
+   "quests/1442-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "251b1d763904",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Thundris Windweaver",
+  "quest": "Seeking the Kor Gem",
+  "en": "This is indeed the gem Stilwell desires, but before I can allow you to bring it to him, it must be purified of corruption--the naga wenches imbue the gems with power, that much is true, but of their own, evil kind.\n\nLet Stilwell know that its power is intact, and it should work well for whatever ritual he wishes it to be part of.\n\nI hope you know what you're doing, Adventurer, this is no simple item you possess.",
+  "files": [
+   "quests/1442-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "fcdc8a4509fe",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Ulric Frostveil",
+  "quest": "Seeking the Kor Gem",
+  "en": "A Forsaken paladin... here in Ashenvale? Amusing.\n\nSo you seek a Kor Gem? Unsurprising as these are sometimes employed to empower magical weapons and implements by the paladins of the alliance. Why should a fallen paladin like you be any different?\n\nIf you truly desire one of the gems, then you must head north to the ruins known as Blackfathom Deeps. The naga who still use the gems are down below. Do not go alone, adventurer.",
+  "files": [
+   "quests/95042-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d351072b0632",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Ulric Frostveil",
+  "quest": "Seeking the Kor Gem",
+  "en": "You'll no doubt notice the corruption that permeates this gem. For your purposes, The magic needed to dispel the evil that the naga witches have infused into the gem is rather simple. A shame really, there's much one could learn from such powers.\n\nI don't suppose you'd be willing to abandon whatever quest caused you seek this gem, and sell it to me instead? It could prove valuable to my... academic pursuits.",
+  "files": [
+   "quests/95042-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2fc4ffaf4058",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Nilith Lokrav",
+  "quest": "Shadoweaver",
+  "en": "The spiders of the Searing Gorge are an invaluable source of shadow silk. As you know, shadow silk is highly sought after by the artisans of our trade.\n\nRecently, a group of poachers has encroached upon these lands, carelessly slaying spiders en masse without so much as a thought as to the long term effect of their actions. The first task I ask of you, then, is a simple one: Find them... and end them.\n\nBegin your search to the north.\n\nIf you require assistance, speak with Raze.",
+  "files": [
+   "quests/3379-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "36463c2d18f4",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Nilith Lokrav",
+  "quest": "Shadoweaver",
+  "en": "Excellent work, Adventurer.\n\nI am sure that this is a piece of shadoweave that you have not yet seen.",
+  "files": [
+   "quests/3379-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0c1f16a3bf30",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Aelthalyste",
+  "quest": "Shadowguard",
+  "en": "Like many of our own priests, your own tribe puts you through rites of passage. These rites often teach priests special abilities that are vital to their survival. I sense that time is upon you even as we speak. You must return to the Valley of Spirits in Orgrimmar and speak to Ur'kyo. What he teaches you might be very important for the future.",
+  "files": [
+   "quests/5643-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "da856cf8467f",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Miles Welsh",
+  "quest": "Shadowguard",
+  "en": "Something important is up in Orgrimmar, Adventurer.\n\nThe normal messengers that come through here looking for troll priests usually are very casual. This time, they seemed to be in much more a hurry. Don't dally too long in Thunder Bluff. I'd return to the Valley of Spirits as soon as possible.",
+  "files": [
+   "quests/5642-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "dff689f52361",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Ur'kyo",
+  "quest": "Shadowguard",
+  "en": "Your rites will come soon enough. For now, I teach you a spell that will be of great use to you when you do battle with your enemies.",
+  "files": [
+   "quests/5642-complete",
+   "quests/5643-complete",
+   "quests/5680-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d2e70c3e4851",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Thomas Helleran",
+  "quest": "Shadows of Doom",
+  "en": "After you bring down the defenses of the Scourge summoning circles that have appeared in the zones under attack, you will be able to confront the acolytes who protect them.\n\nIn truth, these are not men. They are shadows, some of the Lich King's most frightening creatures. They can be revealed using the necrotic runes they carry, and then destroyed with magic or strength of arms.",
+  "files": [
+   "quests/9085-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "e1c2383d0692",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Commander Thomas Helleran",
+  "quest": "Shadows of Doom",
+  "en": "Excellent work, adventurer. With the shadows destroyed, it can only be a matter of time before the Lich King decides to recall his necropolises and leave us in peace.",
+  "files": [
+   "quests/9085-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "af07ca26b2e8",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Acolyte Wytula",
+  "quest": "Shard of a Felhound",
+  "en": "So, you have chosen to capture the soul of a felhound, good.\n\nTake this ruby--with it, you will be able to capture the creature's soul. It works very similar to spells you already know: when the creature is close to dying, use the gem and it should do the rest of the work for you.\n\nI would suggest going to Desolace and trying your hand at any of the felhounds there. Those should do nicely.\n\nAfter you're successful, take both the captured spirit and your ruby to Menara.",
+  "files": [
+   "quests/4962-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a92540a527d7",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Menara Voidrender",
+  "quest": "Shard of a Felhound",
+  "en": "Ah, the spirit of a felhound. Well done, Adventurer.\n\nWhen I have both the spirit and the cleansed orb, I will merge the two for you, but not until then.",
+  "files": [
+   "quests/4962-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "ebfe78fc56e9",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Acolyte Magaz",
+  "quest": "Shard of an Infernal",
+  "en": "So, you have chosen to capture the soul of an infernal, good.\n\nTake this emerald--with it, you will be able to capture the creature's soul. It works very similar to spells you already know: when the creature is close to dying, use the gem and it should do the rest of the work for you.\n\nI would suggest going to Desolace and trying your hand at any of the infernals there. Those should do nicely.\n\nAfter you're successful, take both the captured spirit and your emerald to Menara.",
+  "files": [
+   "quests/4963-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "874f9039908c",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Menara Voidrender",
+  "quest": "Shard of an Infernal",
+  "en": "Ah, the spirit of an infernal. Well done, Adventurer.\n\nWhen I have both the spirit and the cleansed orb, I will merge the two for you, but not until then.",
+  "files": [
+   "quests/4963-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6ad878b3c70a",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Calandrath",
+  "quest": "Sharing the Knowledge",
+  "en": "Let's have a look at that...\n\nThis seems simple enough. They have their own names for some of the herbs, but those are simple enough to figure out. Here, let me show you!",
+  "files": [
+   "quests/8313-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d7b64e94cab6",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Sandy Cookbook",
+  "quest": "Sharing the Knowledge",
+  "en": "While the recipe for cooking sandworm meat is legible, it contains references to herbs and spices you've never heard of. Calandrath might have enough knowledge of the plants that grow in the desert to make sense of it.",
+  "files": [
+   "quests/8313-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "08acfc72db4c",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Nixx Sprocketspring",
+  "quest": "Show Your Work",
+  "en": "As your mentor, I want samples of your work. You're a skilled engineer; there is no question of this, Adventurer. What I hope to do though is analyze them for ways to emphasize goblin-oriented techniques in your future efforts. I need the following: twenty big iron bombs, twenty sticks of solid dynamite, and five explosive sheep - and keep the safeties armed!\n\nSubmit these items to me and I will issue you your own Goblin Engineer Membership Card; it is required for access to all goblin engineering trainers!",
+  "files": [
+   "quests/3639-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "80618952bf5e",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Nixx Sprocketspring",
+  "quest": "Show Your Work",
+  "en": "Here is your first Goblin Engineer Membership Card!\n\nThis card has its dues paid for in advance for fourteen days; all cards expire after two weeks of activity. When it does, pay your next set of dues to any goblin engineer trainer in order to get another card; without the card, your membership will temporarily lapse and you cannot access new schemata.\n\nThis never affects what you already know; once a goblin engineer, always a goblin engineer.",
+  "files": [
+   "quests/3639-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "7ecb45623a1d",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Oglethorpe Obnoticus",
+  "quest": "Show Your Work",
+  "en": "As your mentor, I want some samples of your work. You're a skilled engineer; there is no question of this, Adventurer. What I hope to do though is to analyze your work for ways to emphasize gnome-oriented techniques in your future efforts. I need the following samples: six mithril tubes, an accurate scope, and two advanced target dummies.\n\nSubmit these items to me and I will issue you your own Gnome Engineer Membership Card; it is required for access to all gnome engineering trainers!",
+  "files": [
+   "quests/3643-accept",
+   "quests/3641-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5ab0513c3f16",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Oglethorpe Obnoticus",
+  "quest": "Show Your Work",
+  "en": "Here is your first Gnome Engineer Membership Card!\n\nThis card has its dues paid for in advance for fourteen days; all cards expire after two weeks of activity. When it does, pay your next set of dues to any gnome engineer trainer in order to get another card; without the card, your membership will temporarily lapse and you cannot access new schemata.\n\nThis never affects what you already know; once a gnome engineer, always a gnome engineer.",
+  "files": [
+   "quests/3643-complete",
+   "quests/3641-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "b74b627a174c",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Llane Beshere",
+  "quest": "Simple Letter",
+  "en": "Get yourself squared away, learn the layout of the land, and come back to me whenever you need training. I'll be here night or day.\n\nThe Knights of the Silver Hand have done well in making this place fairly safe, but as you meet the other citizens, I think you'll find they all have problems they could use some help with - help a Adventurer can give them. Good luck.",
+  "files": [
+   "quests/3100-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "49df4ed8b2d2",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Marshal McBride",
+  "quest": "Simple Letter",
+  "en": "I was asked to bring this to your attention as soon as you returned from the kobold camps, Adventurer. It appears to be a letter sealed with the insignia of Llane, our local warrior trainer. I wouldn't hesitate to read it before you go about any other business here in the Abbey.",
+  "files": [
+   "quests/3100-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5f850c82bbe8",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sten Stoutarm",
+  "quest": "Simple Memorandum",
+  "en": "While you were helping me out, this memorandum was given to me to pass on to you. Take some time to read it when you have a chance. I'm thinkin' it came from the warrior trainer Thran. Take a gander at it and go find him inside Anvilmar when you've a chance.",
+  "files": [
+   "quests/3112-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2da263697eb0",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thran Khorman",
+  "quest": "Simple Memorandum",
+  "en": "Well, seein' how this is your prime directive, or whatever yer callin' it these days, I gave my word I'd do whatever I can to make sure you and yours were ready to take back your home... and that's just what I'm gonna do.\n\nAny time you feel yer ready, come back to good ol' Thran and I'll be happy to share my knowledge wit ya. There's some cost to me trainin' ya, but it won't be too expensive. Good luck.",
+  "files": [
+   "quests/3112-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "56fbb8b3946f",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Grull Hawkwind",
+  "quest": "Simple Note",
+  "en": "Just a moment ago a messenger was looking for you, Adventurer. I believe she was sent by the warrior trainer Harutt. If this note is from Harutt, I wouldn't take long in reading it's contents.",
+  "files": [
+   "quests/3091-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "04e0e119ff9a",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Harutt Thunderhorn",
+  "quest": "Simple Note",
+  "en": "Each of us plays a role in our tribe. Each of us must also go through all the same rites. Do not ever let your pride tell you otherwise.\n\nI remain here to train new warriors that seek the glory of battle and who follow the ways of our oldest ancestors. When you feel ready, come back to me and I will do what I can to train you further. Go with the tribe's blessing, Adventurer.",
+  "files": [
+   "quests/3091-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "aa924fbbf191",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Frang",
+  "quest": "Simple Parchment",
+  "en": "Ah, that's my parchment. I heard you'd be coming to the Valley, Adventurer. I'm glad to see you made it--let's hope you survive the trials ahead. Like I said, as you gain in power, come to me--I will do what I can to train you in the ways of the Adventurer.\n\nGood luck, Adventurer, and return to me whenever you feel ready.",
+  "files": [
+   "quests/2383-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "0c39478cb160",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Gornek",
+  "quest": "Simple Parchment",
+  "en": "Ah, while you were gone a parchment came for you, Adventurer.\n\nRead it when you have time. If I'm not mistaken, it came from the warrior trainer Frang. He would have words with you when you're ready. You'll find him outside the Den, taking cover in the shade.",
+  "files": [
+   "quests/2383-accept",
+   "quests/3065-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "5924001bfc0c",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Sten Stoutarm",
+  "quest": "Simple Rune",
+  "en": "While you were helping me out, this rune was given to me to pass on to you. Take some time to read it when you have a chance. I'm thinkin' it came from the warrior trainer Thran. Take a gander at it and go find him inside Anvilmar when you've a chance.",
+  "files": [
+   "quests/3106-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "fc40cf705286",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Thran Khorman",
+  "quest": "Simple Rune",
+  "en": "Other things you'll probably see too, just so yer in the know: dwarves usin' magic in a fight 'stead of a rifle. Some of us takin' to worshippin' the Holy Light like some of the humans, and, last but not least, troggs. You'll learn more 'bout them later, but What you need to know now is that I'm here to help ya.\n\nI be here to teach ya how to be a real Adventurer. Anytime ya think ya need more trainin', come back to me and I'll see what I can do.",
+  "files": [
+   "quests/3106-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3e097b996fee",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Dannal Stern",
+  "quest": "Simple Scroll",
+  "en": "I will be here to train you as you grow in experience... find me as often as you like. I charge a minimal fee, but you'll find everything I can teach you to be worthwhile.\n\nGo now and test your skill. Many more things will become known to you as you gain experience, some of which I am unable to discuss with you here. Just know that Sylvanas will need warriors with your type of strength in the future. You will be the backbone of our salvation. Do not forget it.",
+  "files": [
+   "quests/3095-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "cc1930830f7b",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Shadow Priest Sarvis",
+  "quest": "Simple Scroll",
+  "en": "Ah, while you were off dealing with the mindless Scourge, this scroll arrived for you. I would think it's some matter of importance as it seems it bears the seal of the warrior trainer Dannal. I would take some time to read it before heading out again.",
+  "files": [
+   "quests/3095-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d9af481d39eb",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Alyissia",
+  "quest": "Simple Sigil",
+  "en": "Soon you will see others from different races in the boughs of our home--do not let it cause any prejudice within you. They are welcome. They will aid us when they can. Not all of them will be altruistic, but they should be granted some amount of trust.\n\nBut none of this matters now. Now we must focus on you, and how you can aid our people. I am here for that very purpose. I will train you in the ways of a Adventurer as you become stronger. Return to me whenever you wish and I will do what I can to aid you.",
+  "files": [
+   "quests/3116-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "d18e0f982317",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Conservator Ilthalaine",
+  "quest": "Simple Sigil",
+  "en": "This sigil was given to me by a messenger from our warrior trainer, Alyissia. It seems Alyissia would have words with you when you have a moment. Read it and bring it to her afterwards.",
+  "files": [
+   "quests/3116-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "a3878995d4ae",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Hulfdan Blackbeard",
+  "quest": "Simple Subterfugin'",
+  "en": "Ye see, the King be strip mining the quarry fer ore and gems. More riches than any one dwarf should see in ten lifetimes.\n\nThe Hidden Circle has values, Adventurer. We value valuables. Can ye understand?\n\nNow we feels the King should be sharing some of that booty, but we don't want ol' 'Stinkbeard' to know he's sharin' - if ye catch me drift.\n\nWe needs ye to speak with Onin MacHammar over by Gnomeregan and bring back a report. The crafty dwarf has hidden hisself amongst the lepers. Be careful.",
+  "files": [
+   "quests/2238-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "dfc92d936e8b",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Onin MacHammar",
+  "quest": "Simple Subterfugin'",
+  "en": "Shhhh! Keep it down you daft fool. They'll hear us.",
+  "files": [
+   "quests/2238-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "2dd4658c3325",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Frang",
+  "quest": "Simple Tablet",
+  "en": "You'll find this place fitting as you continue to train in the Adventurer ways. If you have any questions, feel free to ask anyone around, and when you feel you're ready, come back to me for training. I've mastered as much as any Adventurer here in the Valley and can pass that knowledge on to you... for a price.",
+  "files": [
+   "quests/3065-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "3a2691285f4a",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Yebb Neblegear",
+  "quest": "Small Furry Paws",
+  "en": "Great, you got them! We can use these to make toys and baubles, and those will attract more people to the Faire!\n\nHere's your ticket, Adventurer. You earned it!",
+  "files": [
+   "quests/7899-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "70bf1af4517f",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Fariel Starsong",
+  "quest": "Small Rockets",
+  "en": "Ah, very well. Here are your recipes, adventurer, and my Elune bless you.",
+  "files": [
+   "quests/8876-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c6f027d65c07",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Galvan the Ancient",
+  "quest": "Smelt On, Smelt Off",
+  "en": "Many blacksmiths believe that mining and smithing are separate, independent jobs; but can there be blacksmithing without mining? Ah ha -- it is an impossibility! The accomplished blacksmith must also be an accomplished miner.\n\nShow Galvan that you are capable, Adventurer. Bring me forty bars of iron and forty bars of mithril. For this, Galvan will teach you the ways of the ornate mithril pants!",
+  "files": [
+   "quests/2761-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c02fa10a1127",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Galvan the Ancient",
+  "quest": "Smelt On, Smelt Off",
+  "en": "Your work ethic is impeccable, Adventurer! You are starting to understand the ways of Galvan mineralogy! Take this and learn from it all that you can.",
+  "files": [
+   "quests/2761-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "31a8235b265b",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Elanaria",
+  "quest": "Smith Mathiel",
+  "en": "I have placed the elunite you gathered into a case. Take it to the blacksmith Mathiel, and he will craft for you an elunite weapon.\n\nMathiel is to the south, on the other side of this building.",
+  "files": [
+   "quests/1692-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "aa77d066a68d",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mathiel",
+  "quest": "Smith Mathiel",
+  "en": "It is done. I have your weapon, adventurer.",
+  "files": [
+   "followup/2307-nightelf-male-standard"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "4b10af397d7f",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mathiel",
+  "quest": "Smith Mathiel",
+  "en": "Ah, elunite ore. This is a fine metal to work with, for it is blessed by the goddess Elune herself. It would be an honor to craft weapons with it.\n\nPlease wait while I work...",
+  "files": [
+   "quests/1692-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "8c7c24c0c437",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Kilram",
+  "quest": "Snakestone of the Shadow Huntress",
+  "en": "Don't let her beauty fool you, adventurer. The shadow huntress, Vosh'gajin is deadly and deranged.\n\n\nAye, she gave me that - a love tap, she called it.\n\nThe time for vengeance has finally come.\n\nYou can find Vosh'gajin in Blackrock Spire. Slay her and return to me with her snakestone. Do this and I will teach you the ways of the axesmith.",
+  "files": [
+   "quests/5306-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "f7c157f90dab",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Kilram",
+  "quest": "Snakestone of the Shadow Huntress",
+  "en": "Knowledge is power!",
+  "files": [
+   "quests/5306-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "974bfedaa101",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Master Mathias Shaw",
+  "quest": "Snatch and Grab",
+  "en": "Our operatives in the field are reporting heavy Defias activity south of Goldshire. The reports indicate that the Defias have taken over Jerod's Landing and are now using it as a way to smuggle large quantities of contraband from Redridge to Westfall.\n\nI need you to infiltrate the dock house and get me that shipping schedule, Adventurer. You will probably find it buried deep in the pockets of the Dockmaster.\n\n...and Adventurer, should you be discovered, SI:7 will disavow all knowledge of your existence.",
+  "files": [
+   "quests/2206-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "78b26e2c79ec",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Master Mathias Shaw",
+  "quest": "Snatch and Grab",
+  "en": "I am astonished... Astonished that Keryn finally found a recruit that could possibly have the makings of a proper rogue. Take this blade, Adventurer. A day will come when you will be called upon again to serve the SI:7. Hone your skills, keep your eyes open and that blade sharp.\n\nYou won't see us coming but you'll feel it when we get there...",
+  "files": [
+   "quests/2206-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "c69b5b2fbfc2",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Yebb Neblegear",
+  "quest": "Soft Bushy Tails",
+  "en": "Well done, Adventurer! These tails will make great prizes for our visitors, and that means happy visitors... who talk to their friends and bring more visitors!\n\nHere are your tickets! Have a good time at the Darkmoon Faire... and don't forget to tell your friends about us!",
+  "files": [
+   "quests/7901-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "6248eb9d9d73",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Christoph Jeffcoat",
+  "quest": "Soothing Turtle Bisque",
+  "en": "Who says that the undead don't know anything about cooking? Take my secret recipe for Turtle Bisque, for example. I've known folks that would come back from the dead just to enjoy a bowl! Heh, heh...\n\nSpeaking of which, I haven't been able to make any lately. I used to head over to Lake Lordamere myself to hunt snapjaws, the nasty things, but I can't pull myself away from my work here.\n\nIf you bring me some Turtle Meat from the snapjaws and soothing spices, I'll show you how it's done!",
+  "files": [
+   "quests/7321-accept"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "bc1b542971c2",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Christoph Jeffcoat",
+  "quest": "Soothing Turtle Bisque",
+  "en": "My soothing turtle bisque will keep you warm on a cold night... if you care about that kind of thing.",
+  "files": [
+   "quests/7321-complete"
+  ],
+  "uiMap": null
+ },
+ {
+  "id": "952742e8a38b",
+  "zone": "other-quests-6",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Morja",
+  "quest": "Spawn of Jubjub",
+  "en": "Thank you, Adventurer. Here is your egg! It won't be ready to hatch for a little while, but when it does you'll have a great pet!",
+  "files": [
+   "quests/7946-complete"
+  ],
+  "uiMap": null
+ }
+]

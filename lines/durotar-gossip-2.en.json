@@ -1,0 +1,72 @@
+[
+ {
+  "id": "568ad4a28ba4",
+  "zone": "durotar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Xar'Ti",
+  "quest": null,
+  "en": "I can teach you the finer points of Raptor Riding, provided you have enough gold to cover the lesson!",
+  "files": [
+   "gossip/3b10621402a461476ec028521e9fb4e0"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "b3c4f77102c3",
+  "zone": "durotar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Xar'Ti",
+  "quest": null,
+  "en": "I cannot be teachin' a Tauren to ride a Raptor.",
+  "files": [
+   "gossip/991e17bc5cedbda60de365b1ffa51bb6"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "9823a433ae28",
+  "zone": "durotar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-female",
+  "speakerGender": "female",
+  "npc": "Xar'Ti",
+  "quest": null,
+  "en": "You need to be exalted with the trolls of the Darkspear tribe before I will teach you a riding skill, adventurer.",
+  "files": [
+   "gossip/b3696ab9380b9a74f4dbfea7f6fda446"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "ecff863df7bb",
+  "zone": "durotar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zjolnir",
+  "quest": null,
+  "en": "And a good day to ya, brave adventurer. I know ya be lookin' for a fine steed. There's no finer steed than a raptor under your reigns, lemme tell you mon! Take a look at the ones I got to offer - bred from the fiercest stock anywhere.",
+  "files": [
+   "gossip/m-2429cd9dc5d70eefd9b0308799bd8d64"
+  ],
+  "uiMap": 1411
+ },
+ {
+  "id": "803a9a265a16",
+  "zone": "durotar-gossip-2",
+  "kind": "gossip",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Zjolnir",
+  "quest": null,
+  "en": "I'm sorry mon, but I won't be sellin' my raptors to someone who hasn't proven themselves to be exalted to the Darkspear tribe. When ya make a stand and show yourself to be no less than exalted to us, then I'll make my raptors available to ya.",
+  "files": [
+   "gossip/m-24ae77aab73cc857fb3bef8cc78e74d1"
+  ],
+  "uiMap": 1411
+ }
+]

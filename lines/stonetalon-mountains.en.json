@@ -1,0 +1,1360 @@
+[
+ {
+  "id": "303d761b48d5",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gaxim Rustfizzle",
+  "quest": "A Gnome's Respite",
+  "en": "You see, Adventurer, I'm a member of the Enlightened Assembly of Arcanology, Alchemy and Engineering Sciences, and it's my goal... nay, my DUTY! to show the night elves that a blend of magic, mixtures, and mechanisms can help save their forests.\n\nBut it's a hard fought war, and the goblins reproduce like rabbits it seems. I haven't even had time to build my newest inventions!\n\nI need some time to plan and organize. But to do that, I need your help keeping the goblins at bay in Windshear Crag to the east...",
+  "files": [
+   "quests/1071-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "0cc322cc0d95",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gaxim Rustfizzle",
+  "quest": "A Gnome's Respite",
+  "en": "Thanks so much for your help, Adventurer. You're actually back just in time.\n\nI think I've got a perfect plan... explosives. No, that's not the plan, but it's part of the plan.\n\nSee, I've been using high explosives--don't worry, they're not as dangerous as everyone thinks--to scare the goblins back a bit. I can herd 'em pretty good with a few key detonations along the mountains' edges, but I've been low on supplies now for a few days...",
+  "files": [
+   "quests/1071-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "2494772feff0",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Collin Mauren",
+  "quest": "A Scroll from Mauren",
+  "en": "Now, this spell you need; one that will allow you detonate explosives from a distance... hmmm.",
+  "files": [
+   "quests/1075-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "91b1841d6695",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gaxim Rustfizzle",
+  "quest": "A Scroll from Mauren",
+  "en": "Okay, now for the remote detonation part of my plan... oh, I haven't explained that yet, have I?\n\nOkay, so the short of it is this: with a little magic, I can make it so the explosives go off while you're not around. I'm putting together a device that'll allow you to push just one button and have the NG-5 explode when you're ready.\n\nBut I need a spell from a friend in Stormwind--Collin Mauren is his name. You can find him in the mage quarter there. He's human, so he shouldn't be hard to miss.",
+  "files": [
+   "quests/1075-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "3fccbd316cd3",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gaxim Rustfizzle",
+  "quest": "An Old Colleague",
+  "en": "The device I'm thinking about is my most advanced version to date. But we'll need a special potion if it's to work. I'm thinking we might as well get the good stuff since this mission could be your last.\n\nAnd for that, we're going to need some potent explosives: Nitromirglyceronium.\n\nThe only person who can make NG-5 is an old friend of mine: Lomac Gearstrip. Look for him in Tinker Town.\n\nYou talk him into making us some NG-5, I'll get to work on placement for my devices.",
+  "files": [
+   "quests/1072-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "2cbe7305b40b",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lomac Gearstrip",
+  "quest": "An Old Colleague",
+  "en": "Ahhh.... Gaxim sent you, huh? How do I know you're not lying to me?! Hmm? Hmm...?",
+  "files": [
+   "quests/1072-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "eda58b8b5624",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Maggran Earthbinder",
+  "quest": "Arachnophobia",
+  "en": "Good hunting, Adventurer! Besseleth is an old predator in these parts... I will miss her not. Take this reward as a token for being the forest champion.\n\n\nPerhaps now many more will travel to Sun Rock Retreat without fearing what lurks in the dark.",
+  "files": [
+   "quests/6284-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "980cea5e7c5b",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Wanted Poster: Besseleth",
+  "quest": "Arachnophobia",
+  "en": "Warning: Proceed into Sishir Canyon west of here at your own risk.\n\nBesseleth and her eight-legged children of the forest have claimed this canyon as their webbed lair.\n\nMaggran Earthbinder in Sun Rock Retreat has placed a bounty on Besseleth. Slay her and bring proof of your killing to Maggran; there you will receive your reward for disposing this eight-legged menace.",
+  "files": [
+   "quests/6284-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "b7c071935a53",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Makaba Flathoof",
+  "quest": "Avenge My Village",
+  "en": "The Grimtotem Clan raided my village and killed most everyone. I killed all I could, but barely escaped with my life.\n\nAdventurer, all I wish now is that more of them are dead. You will find them just to the west of here.",
+  "files": [
+   "quests/6548-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "3dbc30a703dd",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Makaba Flathoof",
+  "quest": "Avenge My Village",
+  "en": "Adventurer, I thank you... but I will never forget what the Grimtotem have done to my village.",
+  "files": [
+   "quests/6548-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "34e4649d46d2",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Xen'Zilla",
+  "quest": "Blood Feeders",
+  "en": "We Trolls here at Malaka'Jin have prospered from the land; Stonetalon Mountain offers great hunting for us to live on.\n\nLately, we have attracted the wrong dinner guests... the spiders in these mountains have been raiding our camps at night looking to steal our hunt.\n\nIf you were to help us kill off these ghastly beasts we at Malaka'Jin would be in your debt. Spiders are everywhere in Stonetalon - just head north from here and you will see what I am talking about.",
+  "files": [
+   "quests/6461-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "fb7d21cd59a2",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Xen'Zilla",
+  "quest": "Blood Feeders",
+  "en": "Sweet, mon! Good news, perhaps we will have fewer unwanted dinner guests tonight.\n\nMany thanks, Adventurer. We are forever in your debt.",
+  "files": [
+   "quests/6461-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "9e463e8d6497",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Maggran Earthbinder",
+  "quest": "Bloodfury Bloodline",
+  "en": "Limiting the number of Bloodfury Harpies will not be enough. The only true cure for their disease would be to slay their leader, Bloodfury Ripper!\n\nShe is all but a queen to those filthy creatures. Slay her and their numbers will surely diminish.\n\nGo back into the Charred Vale and you will find her along the western hills. She will not be easy to vanquish, but the reward will be great.",
+  "files": [
+   "quests/6283-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "e553c2b17755",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Maggran Earthbinder",
+  "quest": "Bloodfury Bloodline",
+  "en": "Already I feel the anger leave me. What will I do with my time? Knowing evil moves near my land kept my thoughts moving, though now they are silent. Perhaps this is a good thing... maybe now I can focus on the good, as all Tauren should.\n\nPlease accept this as a reward for your troubles.",
+  "files": [
+   "quests/6283-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "0cbb3b37e621",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Maggran Earthbinder",
+  "quest": "Bloodfury Trinkets",
+  "en": "In addition to spreading their filth across the Charred Vale, the Bloodfury harpies gather anything shiny that they can find. I'm told that they collect a variety of golden-yellow sunstones for decoration. I have no use for such trinkets, but Mor'rogal has mentioned using them before.\n\nWhile you're fighting the harpies of the Vale, keep your eye out for Glittering Sunstones. Bring any that you find to Mor'rogal, up on the hills above us.",
+  "files": [
+   "quests/86576-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "e6ccbbb5baa3",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mor'rogal",
+  "quest": "Bloodfury Trinkets",
+  "en": "Ah, you have brought sunstones that the harpies collect! The harpies love to gather objects that are shiny, but they do not know the true value of the stones. By capturing the dazzling light of the sun, these stones reflect its majesty and allow us to adorn our shrines and homes with tiny motes of light in its honor. The moon, too, illuminates them with its silver beauty at night.\n\nThese stones remind us of the connection we have to the lights of the skies.",
+  "files": [
+   "quests/86576-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "6899a97a3cd2",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mor'rogal",
+  "quest": "Boulderslide Ravine",
+  "en": "Something is amiss here in Stonetalon. Can you feel the tension in the air, Adventurer?\n\nSouth of here lies a deep cave in Boulderslide Ravine. The kobolds there are frantically mining a rare crystal called Resonite. I need you to bring back some ore samples so that I can understand what's happening in that cave. I also need you to investigate the depth of that cave.\n\nGo young adventurer, it's imperative I know what evil lurks under these mountains.",
+  "files": [
+   "quests/6421-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "d1b006f49df4",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mor'rogal",
+  "quest": "Boulderslide Ravine",
+  "en": "Something is amiss here in Stonetalon. Can you feel the tension in the air, Adventurer?\n\nSoutheast of here lies a deep cave in Boulderslide Ravine. The kobolds there are frantically mining a rare crystal called Resonite. I need you to bring back some ore samples so that I can understand what's happening in that cave. I also need you to investigate the depth of that cave.\n\nGo young adventurer, it's imperative I know what evil lurks under these mountains.",
+  "files": [
+   "quests/6421-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "628c3ac16f1b",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mor'rogal",
+  "quest": "Boulderslide Ravine",
+  "en": "Ah... Yes! That's it; the Resonite crystals have a trace of Earthen magic. The kobolds must have dug deep uncovering an Earthen.\n\nLegend states that the Earthen are creatures created by the Titans. They were used to create the land our feet walk on. This most definitely is a threat that cannot be ignored.\n\n\nPerhaps I can enchant these ore samples to use against this kobold plot.",
+  "files": [
+   "quests/6421-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "4fe6ef25e1cc",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Grish Longrunner",
+  "quest": "Calling in the Reserves",
+  "en": "This is great news; I have been sitting here guarding this hunk of wood for too long. Now I can spend some time with my family... Yippee!",
+  "files": [
+   "quests/5881-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "f4416c0203d5",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Maggran Earthbinder",
+  "quest": "Calling in the Reserves",
+  "en": "The Horde does well keeping our troops fresh... since the Great War we have been prosperous here in Kalimdor.\n\nI need you to do me a favor, I have a lad by the name of Grish Longrunner protecting the Great Lift in the southern barrens. Give him this letter; the letter will let him know that I have a reserve warrior coming to relieve him of duty so that he can visit his family. He requested this sometime ago and he would be happy to hear the news.",
+  "files": [
+   "quests/5881-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "c25b57c8b04b",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Braelyn Firehand",
+  "quest": "Cenarius' Legacy",
+  "en": "You cannot imagine the hatred I possess for this wretched land. The ilk of Cenarius and the kaldorei druids at the peak employ their pathetic powers to stifle the flow of magic, even so far south of their pathetic holdings... their beloved forests.\n\nWould that I could return to Jaedenar and exult in the flow of magic, but my master will not allow me to return until my work is done.\n\nI have no doubt you love the night elves and their allies as little as I. Aid me, and both our ends might be satisfied.",
+  "files": [
+   "quests/1087-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "8ed3de697f14",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Braelyn Firehand",
+  "quest": "Cenarius' Legacy",
+  "en": "Already I can feel it... yes... power so sweet... the rushing flood. The kaldorei are foolish to spurn the gifts of this world, to reject the coursing of magic as it flows singing through your veins.\n\nWhat a pale mockery life is without its burning embrace!",
+  "files": [
+   "quests/1087-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "d9b632cfbef5",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gaxim Rustfizzle",
+  "quest": "Covert Ops - Alpha",
+  "en": "This is it, Adventurer. Pay close attention. The devices are done, and ready to be used.\n\nTake these pages--they'll explain more about the detonators and explosives, and where you should place them.\n\nRemember, the success of your mission doesn't depend on how much destruction you cause. Plan Alpha's success depends on you bringing back the Venture Co.'s engineering plans from inside the lumber mill south of Cragpool Lake.",
+  "files": [
+   "quests/1079-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "3e06c9079c88",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gaxim Rustfizzle",
+  "quest": "Covert Ops - Alpha",
+  "en": "Truly amazing! This is a huge blow to the Venture Co.\n\nWe'll be able to find weaknesses in their machines and also incorporate their designs into our own creations. This is a wonderful day, indeed.",
+  "files": [
+   "quests/1079-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "0af20b0d236b",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gaxim Rustfizzle",
+  "quest": "Covert Ops - Beta",
+  "en": "Plan Beta's just like Plan Alpha, Adventurer.\n\nWe cause a distraction and then steal their precious letters.\n\nThe key is to get their letters... remember that.\n\nThe pages I gave you already will tell you where to plant the explosives. Just get back here alive and with those letters....",
+  "files": [
+   "quests/1080-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "ff3530c41750",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gaxim Rustfizzle",
+  "quest": "Covert Ops - Beta",
+  "en": "Incredible, Adventurer! Kaela and the Sentinels will be so happy. With your skill and my creations, we're unstoppable.",
+  "files": [
+   "quests/1080-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "2b9fbfe06f87",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Tammra Windfield",
+  "quest": "Cycle of Rebirth",
+  "en": "Industrial greed and continuous war have wrecked the lands of Stonetalon. Only the blessings of the Earthmother can cure such injury.\n\nAdventurer, I will require you to seek a special seed, the Gaea seed. They are only found here in Stonetalon Mountain, north of Sun Rock Retreat at Mirkfallon Lake, near the water's edge.\n\nOnce you bring me the seeds I will imbue them with shamanistic power to speed their growth.",
+  "files": [
+   "quests/6301-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "63d252aaf4f8",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Collin Mauren",
+  "quest": "Devils in Westfall",
+  "en": "This should only take a moment, adventurer.",
+  "files": [
+   "followup/1437-human-male-standard"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "33480f57bd77",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Collin Mauren",
+  "quest": "Devils in Westfall",
+  "en": "Ah, I think I have it. A messaging spell... I believe that's the effect he's looking for.\n\nI'll have to create a scroll with the spell impressed upon it. To do that I'll need debris from a dust devil.\n\nWhile I gather the rest of the components, why don't you head to Westfall and find one of the foul creatures? They are dangerous, but I'm sure it's nothing you can't handle if you're willing to subject yourself to one of Gaxim's experiments.\n\nI'll be here when you return.",
+  "files": [
+   "quests/1076-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "26547b5c2d8f",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Collin Mauren",
+  "quest": "Devils in Westfall",
+  "en": "Allow me just a few moments and I shall have your scroll ready for you.",
+  "files": [
+   "quests/1076-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "95b2e6c6e002",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mor'rogal",
+  "quest": "Earthen Arise",
+  "en": "You have uncovered a dark threat to the land, adventurer. The Resonite cask you have found in that cave houses a slumbering Earthen by the name of Goggeroc.\n\nI have changed the mixture of the Resonite crystals that you gathered with my shamanistic powers. Take the enchanted Resonite crystal and smash open the Resonite cask, which houses the Earthen.\n\nWhen awakened, Goggeroc will be weakened... Slay him, Adventurer!",
+  "files": [
+   "quests/6481-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "11aa3f7b50fa",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Mor'rogal",
+  "quest": "Earthen Arise",
+  "en": "You bear good news, Adventurer! I fear the possibilities of what an Earthen would mean to Kalimdor.\n\nSlaying Goggeroc was a task for no one less then a hero. You have done well; all of Stonetalon and Kalimdor are indebted to you, noble Adventurer.\n\nAccept this as your reward most honored one.",
+  "files": [
+   "quests/6481-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "e3975f90ad8e",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Kaela Shadowspear",
+  "quest": "Enraged Spirits",
+  "en": "I'm unsure what the Venture Co. did to the Vale, but it's obvious they were overpowered by the creatures there.\n\nThey set the forest aflame, and used their inventions of destruction to decimate as much of the Vale as possible.\n\nBut in their ignorance they also released something else: burning spirits, elementals of flame, stone and rage.\n\nThe land has no chance to see Elune's smile while these creatures roam free.\n\nBring me their smoldering embers to show you've reduced their numbers.",
+  "files": [
+   "quests/1083-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "25033cccd806",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Kaela Shadowspear",
+  "quest": "Enraged Spirits",
+  "en": "The remains of our enemy... your strength serves us well, Adventurer. Thank you.",
+  "files": [
+   "quests/1083-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "54f93618eb2b",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Sputtervalve",
+  "quest": "Further Instructions",
+  "en": "Fizziks, eh? Can't say I trust him, but this information seems good enough. What I wouldn't give to have the Venture Company out of my hair.\n\nThey do come up with some good machines though... I can't deny that we've benefited from using some of the improvements they've devised.",
+  "files": [
+   "quests/1094-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "9326f88dfed1",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Sputtervalve",
+  "quest": "Further Instructions",
+  "en": "The matter of this gnome that has been hired by the Venture Company has caused a bit of a stir in Undermine. The trade princes do not approve of Razdunk's consorting with this Gerenzo.\n\nRiddlevox has asked me to take care of the problem, and I'm sure he was instructed to do so by one or more of the trade princes. Of course, the Director didn't tell me that. Let's just say I have a hunch.\n\nWhatever the case, Gerenzo must be removed, and it would be a fitting test to have Fizziks take care of him.",
+  "files": [
+   "quests/1095-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "f88d975693bb",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Ziz Fizziks",
+  "quest": "Further Instructions",
+  "en": "This envelope has all the information I was able to snatch as they booted me out the door... Venture Company internal documents, some manuals, technical things... Oh, and of course the Super Reaper 6000 blueprints.\n\nSputtervalve has taken up residence at Ratchet in the Barrens. Shouldn't have much trouble finding him, he's a little green fellow.",
+  "files": [
+   "quests/1094-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "87f0f8b3d143",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Ziz Fizziks",
+  "quest": "Further Instructions",
+  "en": "Eliminate Gerenzo? Now there is a prospect that I have no objections to.\n\nGnomes are bad enough as it is, but what I learned about Gerenzo only makes it worse. Apparently, he was one of the head engineers in Gnomeregan, where he was working on their secret project--we could never infiltrate Dun Morogh well enough to find out specific details. It was a failure. Our reports say that whatever it was literally exploded in their faces.",
+  "files": [
+   "quests/1095-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "647d09821f37",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Ziz Fizziks",
+  "quest": "Gerenzo Wrenchwhistle",
+  "en": "I met Gerenzo once, but let me tell you, he's not easy on the eyes. His flesh looks like it's rotting away, and he's grafted metal and gears onto his body, replaced some of his limbs with mechanical ones.\n\nNortheast of here, far above Cragpool Lake, up near the water wheel is where Gerenzo watches over the entire site. There's no way I could fight my way up there, not to mention take on Gerenzo... But you look like you might be able to make it.\n\nIf you kill him for me, I'll make it worth your while!",
+  "files": [
+   "quests/1096-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "c4850a9b479d",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Ziz Fizziks",
+  "quest": "Gerenzo Wrenchwhistle",
+  "en": "Look at that thing... it'd take a gnome to come up with something like that. I can't understand why you'd cut off an arm, and replace it with that, when you could just keep both arms and add a third!\n\nGnomes, I tell you...\n\nAt least Gerenzo's out of commission. Hopefully that'll be enough proof, and Sputtervalve will assign me to one of the Tinkers' Union workshops in Gadgetzan or maybe even Undermine.",
+  "files": [
+   "quests/1096-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "985b078d5c48",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Piznik",
+  "quest": "Gerenzo's Orders",
+  "en": "You know, I was once the second most important person here at this site. That all changed when Gerenzo took over. Fired my boss, Ziz Fizziks, and sent me down to work in the mines. Ziz told me to stay here and gather information, though. His new boss will pay us well if we can find out what Gerenzo's plans are.\n\nAnyways, what I do know is that Gerenzo has ordered large amounts of this gold-green ore to be mined. I can get you a sample to bring to Ziz, but you'll have to watch for patrols while I get it.",
+  "files": [
+   "quests/1090-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "e2d9404b28ff",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Piznik",
+  "quest": "Gerenzo's Orders",
+  "en": "Thanks, Adventurer. It was looking a little dicey there for a second and we've probably drawn far too much attention to ourselves.\n\nThe important part is that we have the ore sample, though, and we should get it to Ziz as soon as possible.",
+  "files": [
+   "quests/1090-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "c2fc8b76fcf7",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Piznik",
+  "quest": "Gerenzo's Orders",
+  "en": "I guess I'd better think about getting out of here, also. It won't take long for word of what happened here to spread to the higher ups, and I'm sure they wouldn't take too kindly to meeting me again.\n\nI'll sneak out and meet with Ziz. Hopefully, he'll be able to find me a new job!\n\nI'll try and clean up this mess a little, but you should take the ore sample to Ziz right away. He told me that he'd set up camp somewhere on the western side of Windshear Crag. Good luck.",
+  "files": [
+   "quests/1092-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "d98d02007541",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Ziz Fizziks",
+  "quest": "Gerenzo's Orders",
+  "en": "Ahhh, I knew that I did the right thing by telling Piznik to stay behind. I'm sure the engineers in Undermine will be most interested to look at this...\n\nOf course I'll want to keep a little piece for myself, but what they don't know won't hurt them, yes?",
+  "files": [
+   "quests/1092-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "2d06d51d0966",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Seereth Stonebreak",
+  "quest": "Goblin Invaders",
+  "en": "The spirits of Stonetalon still rage, adventurer.",
+  "files": [
+   "followup/1425-orc-female-shaman"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "397fcd5d5fe8",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Seereth Stonebreak",
+  "quest": "Goblin Invaders",
+  "en": "I fear we may never soothe them...",
+  "files": [
+   "followup/1426-orc-female-shaman"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "df52b9bb52ad",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Seereth Stonebreak",
+  "quest": "Goblin Invaders",
+  "en": "The goblin-run Venture Company moved into the Stonetalon Mountains, chopping down trees and burning huge stretches of forest. The spirits of this place are nearly blind with pain and rage. We must stop the Venture Company!\n\nHead northwest, beyond the Greatwood Vale and into the Windshear Crag. You will find the goblins and their servants at work -- show them the Horde will not allow the exploitation of Stonetalon. Show them in the language they best understand...\n\nViolence.",
+  "files": [
+   "quests/1062-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "0a2c3b6086a4",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Seereth Stonebreak",
+  "quest": "Goblin Invaders",
+  "en": "Bravely done, Adventurer.\n\nWe may ultimately need the wisdom of tauren elders to calm the spirits of Stonetalon, but...\n\nRidding the Venture Company of its personnel is a good first move against them.",
+  "files": [
+   "quests/1062-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "e8ad108e824b",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Maggran Earthbinder",
+  "quest": "Harpies Threaten",
+  "en": "Tauren take pride as the protector of these lands. Undoubtedly you can guess why I am alarmed with the number of harpies that dwell here in Stonetalon.\n\nThe Bloodfuries are the source of the increasing number of harpies in Kalimdor; they encroach upon all likes of life preventing the innocent from leaving their boundaries.\n\nI need you to cull the harpies, Adventurer!",
+  "files": [
+   "quests/6282-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "636d590d7dce",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Maggran Earthbinder",
+  "quest": "Harpies Threaten",
+  "en": "This is most excellent news! Tell me again how you cast fear into the cold hearts of those vile harpies. The Bloodfuries have been dealt a serious blow!",
+  "files": [
+   "quests/6282-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "2c17f8e6cbb0",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gaxim Rustfizzle",
+  "quest": "Ineptitude + Chemicals = Fun",
+  "en": "Your task has been done flawlessly, Adventurer.\n\nNG-5 is the unequivocal component in the recipe to ignite the wagons of dynamite.\n\nWhat? Yes, dynamite... wagons of it. It's the perfect distraction, I tell you... just wait and see.",
+  "files": [
+   "quests/1074-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "4a55e7c79c04",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lomac Gearstrip",
+  "quest": "Ineptitude + Chemicals = Fun",
+  "en": "Hahaha... you need Nitromirglyceronium to stop goblins from destroying a forest?!\n\nI don't care if you know Gaxim or not... I'll give you the stuff just to see you or them explode into itty bitty pieces.\n\nThere's a problem though: I'm all out.\n\nBut I'll tell you what, you bring me the correct potions, and I'll make some up for you right away.\n\nThe least you can do is prove you've got some skill as an alchemist before I just give you a sample of my greatest creation.",
+  "files": [
+   "quests/1073-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "be39952060e9",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lomac Gearstrip",
+  "quest": "Ineptitude + Chemicals = Fun",
+  "en": "This'll do nicely.\n\nIf I didn't know better, stranger, I'd say you knew somethin' about alchemy. Good, good... the world's not all about swords and sorcery, you know?",
+  "files": [
+   "quests/1073-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "cdafcfa0eb8f",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Lomac Gearstrip",
+  "quest": "Ineptitude + Chemicals = Fun",
+  "en": "Here you go, stranger. Take heed with it though... it's volatile stuff.\n\nIf you're really a friend of Gaxim's, then tell him I say hello. If you're not, then have fun blowin' yerself up.",
+  "files": [
+   "quests/1074-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "9bd3dd543c28",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Jin'Zil",
+  "quest": "Jin'Zil's Forest Magic",
+  "en": "Ah, feel the magic seep into the cave, my little elves... muhahaha.",
+  "files": [
+   "followup/1406-troll-male-dark"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "8f6548facaea",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Jin'Zil",
+  "quest": "Jin'Zil's Forest Magic",
+  "en": "So much for the power of nature... muhahahaha.",
+  "files": [
+   "followup/1407-troll-male-dark"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "bd4c8bbe2188",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Jin'Zil",
+  "quest": "Jin'Zil's Forest Magic",
+  "en": "So excited I am!\n\nThree little cages for three little elves! But what shall we do with our lovely tree-hugging friends? Why, let's give them a taste of... what do they call it... forest magic!\n\nI'll need a good mess of Stonetalon sap. From those horrid felines, bring me some twilight whiskers. This calls for plenty of courser eyes, of course -- can never have enough eyes. Oh, and lest we forget, a precious scale from a fey dragon.\n\nHurry to Stonetalon Peak, adventurer, so I can brew some forest magic!",
+  "files": [
+   "quests/1058-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "a75b9e503387",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "troll-male",
+  "speakerGender": "male",
+  "npc": "Witch Doctor Jin'Zil",
+  "quest": "Jin'Zil's Forest Magic",
+  "en": "Oh how happy these little woodland nymphs shall be! We'll make them feel right at home with this special concoction!",
+  "files": [
+   "quests/1058-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "57d31e248c6e",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gaxim Rustfizzle",
+  "quest": "Kaela's Update",
+  "en": "Adventurer, take these letters to Kaela. I'm sure she'll want to know about this. Or at least the Sentinels will.\n\nMake sure you tell her how successful we were and how we couldn't have done it without a little bit of magic.",
+  "files": [
+   "quests/1091-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "e5b6ed58f333",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Kaela Shadowspear",
+  "quest": "Kaela's Update",
+  "en": "This is interesting indeed.\n\nYou and Gaxim have done very well, Adventurer. Thank you.",
+  "files": [
+   "quests/1091-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "045690ef4e00",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Makaba Flathoof",
+  "quest": "Kaya's Alive",
+  "en": "Tell Tammra Windfield, Kaya's aunt who's at Sun Rock Retreat, about the good news! Kaya is alive! We had thought she was lost after the brutal attack on our village. Follow the path to the west to get to Sun Rock Retreat.",
+  "files": [
+   "quests/6401-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "774537e81898",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Tammra Windfield",
+  "quest": "Kaya's Alive",
+  "en": "My goodness, my niece Kaya is alive! That is good news indeed. Thank you, adventurer.",
+  "files": [
+   "quests/6401-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "d0a1416e546e",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Makaba Flathoof",
+  "quest": "Kill Grundig Darkcloud",
+  "en": "Adventurer, you've done a fine job killing Grimtotem. If you dare, Grundig Darkcloud and his personal band of brutes is by far the worst of the lot. He was the one who led the brutal attack on my village.\n\nYou will find him in Grimtotem Post a bit further up the path to the west. Kill him, and I will be forever grateful.",
+  "files": [
+   "quests/6629-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "df1f6f9d1f0a",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Makaba Flathoof",
+  "quest": "Kill Grundig Darkcloud",
+  "en": "Grundig Darkcloud is dead! Adventurer, I will always be grateful for what you've done here today.",
+  "files": [
+   "quests/6629-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "a514da8fd628",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Tammra Windfield",
+  "quest": "New Life",
+  "en": "As you have seen, adventurer, though the land is in pain, the cycle of life is a powerful thing. Now we must do our part help it along. You must plant these seeds at the center of the destruction, to the west, in the Charred Vale. Beware, for harpies and angry fire elementals still plague the scarred land.\n\nAdventurer, take these enchanted Gaea seeds and plant them in fertile mounds of soil. The cycle of life must go on!",
+  "files": [
+   "quests/6381-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "1528a3f56e1f",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Tammra Windfield",
+  "quest": "New Life",
+  "en": "This is great victory for the land. In time, other things will come to pass: the Venture Co. will pack up their buzz saws and axes, the angry fire spirits will calm, and the harpies will be pushed out by the land.\n\nOnly then Adventurer, will Stonetalon be truly at peace.\n\nYou have done well adventurer; take one of these items as thanks for the new life you have created here today.",
+  "files": [
+   "quests/6381-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "daddd6686e19",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Braelyn Firehand",
+  "quest": "Ordanus",
+  "en": "They thought that they could halt the flow of magic. They were mistaken. They thought that they could hide Ordanus, but I will have his head!\n\nMagic grants me true sight. Yes... there he is. A crossroads... At the top of a great tree in Ashenvale Forest. A name... Raynewood. One of the eldest sons of the forest god. They spirited him away from the peak before I could find him, but his time runs short.\n\nBring it to me and I will share with you a mighty gift.",
+  "files": [
+   "quests/1088-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "f1de9dccb8b9",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Braelyn Firehand",
+  "quest": "Ordanus",
+  "en": "I knew Ordanus once, long ago. He had the arrogance of his kind, holding himself above even the Highborne.\n\nHis head does not rise so high now, does it, adventurer?\n\nI promised you a reward, and you shall have it. Attend to me.",
+  "files": [
+   "quests/1088-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "76137357b9a9",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Tah Winterhoof",
+  "quest": "Pigments for Paints",
+  "en": "Greetings, friend. I wonder if I may ask a favor of you? I have just run out of red pigment for my paints, and I am looking for one with younger hooves to make the long journey into the Stonetalon Mountains on my behalf.\n\nIn the middle of the mountain pass there lies a large circular lake, Mirkfallon Lake, that has a unique plant that grows within its waters. The pods of this plant, mirkweed, turn a vibrant red when dried. Gather the pods of this plant for me, and I will reward you well for your efforts.",
+  "files": [
+   "quests/97538-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "3abb49767a52",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Kaya Flathoof",
+  "quest": "Protect Kaya",
+  "en": "Let's go before they find out I'm free!",
+  "files": [
+   "followup/8327-tauren-female-standard"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "aa4bb96e33fd",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Kaya Flathoof",
+  "quest": "Protect Kaya",
+  "en": "Thank you for rescuing me! We must leave quickly before they discover that I am free. Please escort me to Camp Aparaje. From there, I know my way.\n\nMy father, Makaba Flathoof, will be desperate to know that I am safe.",
+  "files": [
+   "quests/6523-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "2738c5eb0558",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Makaba Flathoof",
+  "quest": "Protect Kaya",
+  "en": "Kaya is alive! adventurer, I have you to thank for rescuing her.",
+  "files": [
+   "quests/6523-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "89d0b37a2879",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Thenysil",
+  "quest": "Reception from Tyrande",
+  "en": "Adventurer, I am sure Tyrande Whisperwind herself would like to thank you for taking part in this mission.\n\nIt may not appear so on the surface, but what you've helped start could very well strengthen our foothold in the Stonetalon Mountains.\n\nIf you consider yourself our ally against these atrocities, go see Tyrande in the Temple of the Moon in Darnassus.",
+  "files": [
+   "quests/1081-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "9e7c32670d5d",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Tyrande Whisperwind",
+  "quest": "Reception from Tyrande",
+  "en": "Hello, Adventurer. I have indeed heard your name before, and although you are still full of youth, I am pleased to see the path you have set for yourself.\n\nYou would do me a great honor if you would accept this as a gift of appreciation.",
+  "files": [
+   "quests/1081-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "11fad23c80ef",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Falfindel Waywarder",
+  "quest": "Reclaiming the Charred Vale",
+  "en": "We must hurry.",
+  "files": [
+   "followup/1397-nightelf-male-official"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "e67666184074",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Falfindel Waywarder",
+  "quest": "Reclaiming the Charred Vale",
+  "en": "Keeper Albagorm was wise to send you with such urgency.\n\nLet us see if we cannot call forth aid from the great forest to travel to the Charred Vale before it is too late.",
+  "files": [
+   "quests/1059-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "4ea141dcd3c0",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Collin Mauren",
+  "quest": "Retrieval for Mauren",
+  "en": "Travelers keep asking me about the Stonetalon Mountains. It seems to be a popular place for adventure--it doesn't matter if you're seeking wyvern, elementals, or you have business with the Venture Co.\n\nWithin the Charred Vale, deep in Stonetalon, there used to be a species of basilisks whose scales, when ground to dust, made a wonderful reagent for some spells I've created.\n\nIf those basilisks still live, I would love to have a few of their scales.\n\nTake your time, it is no rush, but I can pay well.",
+  "files": [
+   "quests/1078-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "42c530cc527a",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Collin Mauren",
+  "quest": "Retrieval for Mauren",
+  "en": "This is perfect, Adventurer. Thank you greatly.\n\nPerhaps one day in the future I'll be able to help you as you have helped me.",
+  "files": [
+   "quests/1078-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "f61e3e2403bd",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Seereth Stonebreak",
+  "quest": "Shredding Machines",
+  "en": "There is a relation to the spiritual magic of shamans and the natural magic of druids. This is why we shamans can hear the plea of the spirits of Stonetalon. Many of their whisperings are lost to me, but one message, one vision, is clear...\n\nI saw a vision of two man-shaped machines in Windshear Crag, northwest of Greatwood Vale, felling trees with impossible speed. These metal beasts must be stopped!\n\nIn my vision, the machines were marked with strange symbols:\n\nXT:4 and XT:9.",
+  "files": [
+   "quests/1068-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "626edfe5234d",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Seereth Stonebreak",
+  "quest": "Shredding Machines",
+  "en": "The destruction of the machines XT:4 and XT:9 have soothed many of the spirits of Stonetalon, Adventurer. With their loss, let us hope the Venture Company will remove itself from these mountains.\n\nFor if they do not, then I fear the atrocities this place has suffered will pale to what lies ahead.",
+  "files": [
+   "quests/1068-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "edd67a89c5bd",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Collin Mauren",
+  "quest": "Special Delivery for Gaxim",
+  "en": "Here you are, Adventurer. This should do nicely.\n\nPlease give my regards to Gaxim when next you see him. I look forward to hearing about this adventure when it sees its completion.\n\nFare well.",
+  "files": [
+   "quests/1077-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "4f9916232b8e",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "gnome-male",
+  "speakerGender": "male",
+  "npc": "Gaxim Rustfizzle",
+  "quest": "Special Delivery for Gaxim",
+  "en": "This is perfect, Adventurer! Well done.\n\nThis spell, mixed with the NG-5, shall make the perfect remote explosive.\n\nWe'll be able to create the perfect distraction for you so you can sneak in and steal the Venture Co.'s letters and engineering plans.\n\nThat will surely slow down their deforestation acts.",
+  "files": [
+   "quests/1077-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "ac294d9cefc3",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Night Elf Courier",
+  "quest": "Stonetalon Supply Run",
+  "en": "<The unfortunate body here bears the marks of many strikes from the Pridewing wyverns. The pack nearby is rumpled and discarded, with its contents missing, and only a small note clutched in the courier's hand to indicate what was lost: a shipment meant for Innkeeper Faralia at Stonetalon Peak.>\n\n<The wyverns have probably carried off the supply bundles to line their nests.>",
+  "files": [
+   "quests/86574-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "0d78c3e52652",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Ziz Fizziks",
+  "quest": "Super Reaper 6000",
+  "en": "Terrible what the Venture Company has done here, eh? What were they thinking? Goblin company hiring a gnome!\n\nLucky for me, Sputtervalve knows a genius when he sees one. Hired me just after I'd been kicked out!\n\nTells me they built some enormous woodcutting machine, and Sput' wants me to steal the plans for him. Unfortunately, Gerenzo--bloody gnome--wants me dead on sight... maybe you could steal the plans for me? You should be able to find them on one of their operators.",
+  "files": [
+   "quests/1093-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "a84fab08d14b",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Ziz Fizziks",
+  "quest": "Super Reaper 6000",
+  "en": "Hey, is that what I think it is? Great!\n\nNow, let's see. Ugh... how am I supposed to understand this stuff... can't figure out the way gnomes think. Lemme tell you, I'm surprised they could build the wheel, let alone those flying machines they like so much.",
+  "files": [
+   "quests/1093-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "8da2cbe8bdca",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Braelyn Firehand",
+  "quest": "The Den",
+  "en": "The druids built the Talon Den on Stonetalon Peak, where they keep many powerful items.\n\nThey devised a complex scheme to keep them from falling into the wrong hands.\n\nLuckily, I managed to... extract some details from one of them.\n\nHidden in a small lantern at the entrance of the Den, you will find the Gatekeeper's Key--with it you will be able to open caches around the Den. The items from these caches will allow you to open their hoard, located in one of the central areas.",
+  "files": [
+   "quests/1089-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "0d8d6934ef92",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Talon Den Hoard",
+  "quest": "The Den",
+  "en": "As the three keys are slid into their matching openings, in the middle of the glowing light a number of items appear.",
+  "files": [
+   "quests/1089-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "90156ba51acf",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Magatha Grimtotem",
+  "quest": "The Elder Crone",
+  "en": "You were right to come. My wisdom will be yours.",
+  "files": [
+   "followup/1417-tauren-female-standard"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "a8317a6e8789",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Magatha Grimtotem",
+  "quest": "The Elder Crone",
+  "en": "I bid you greetings. You are here seeking counsel?",
+  "files": [
+   "quests/1063-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "ae990099b8d8",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Seereth Stonebreak",
+  "quest": "The Elder Crone",
+  "en": "To truly tend the spirits of Stonetalon we must consult the tauren elders.\n\nI do not know many of their leaders' names, but I do know of one: Magatha. I have heard that she is very old, and she knows much. If anyone can marshal spiritual aid from the tauren, it is she.\n\nMagatha resides in the tauren capital of Thunder Bluff, on Elder Rise -- the city's northeastern bluff. Speak with Magatha, and tell her of the peril of Stonetalon Mountains.",
+  "files": [
+   "quests/1063-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "c11d1b7e843c",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Seereth Stonebreak",
+  "quest": "The Spirits of Stonetalon",
+  "en": "Ah, a adventurer. Very good. We will need your skills to deal with these plunderers!",
+  "files": [
+   "quests/1061-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "6d0ce2d25c86",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Zor Lonetree",
+  "quest": "The Spirits of Stonetalon",
+  "en": "The spirits of the Stonetalon Mountains are angered, for goblins and their servants are plundering and burning the land. So the land has cried out, and those who listen for such things... have heard.\n\nSeereth Stonebreak, a promising shaman of the Horde, was sent to Stonetalon. She reports massive deforestation at the hands of the goblins, and requests aid.\n\nMeet Seereth in Stonetalon. To reach her, follow the road west of the Barrens' Crossroads. She is camped near the Greatwood Vale.",
+  "files": [
+   "quests/1061-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "a10a9c207afd",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Kaela Shadowspear",
+  "quest": "Update for Sentinel Thenysil",
+  "en": "Adventurer, you have done a great deed by lending a hand here.\n\nThe Sentinels of Ashenvale will reward you well if you informed them that Gaxim and I are alive. Tell them we are well on our way to stopping the Venture Co. and healing the lands.\n\nFind Tara Thenysil in Astranaar; she will be pleased to see you've returned with good news.",
+  "files": [
+   "quests/1082-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "b7b0fe69662e",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Thenysil",
+  "quest": "Update for Sentinel Thenysil",
+  "en": "Thank you, Adventurer. You have done a service to the Sentinels.\n\nI'm glad to see Kaela... and even Gaxim, are doing well.\n\nYou've earned our appreciation.",
+  "files": [
+   "quests/1082-complete"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "d866eeafff7e",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Kaela Shadowspear",
+  "quest": "Wounded Ancients",
+  "en": "It seems obvious to me that the protectors of the Vale--the treants--had something to do with the Venture Co. being driven back. Unfortunately, even those once great guardians have now become corrupt.\n\nGaxim thinks their corruption is somehow linked to the weapons the goblins used during their retreat.\n\nI told him I'd collect a sample from a wounded treant and allow him to study it in order to figure out if that's true.\n\nBring me some of the shrapnel so the gnome can tell me more...",
+  "files": [
+   "quests/1084-accept"
+  ],
+  "uiMap": 1442
+ },
+ {
+  "id": "b371fb371613",
+  "zone": "stonetalon-mountains",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Kaela Shadowspear",
+  "quest": "Wounded Ancients",
+  "en": "Thank you, Adventurer.\n\nThis should be more than sufficient for Gaxim to figure out how the treants were corrupted. I shall give this to him right away.",
+  "files": [
+   "quests/1084-complete"
+  ],
+  "uiMap": 1442
+ }
+]

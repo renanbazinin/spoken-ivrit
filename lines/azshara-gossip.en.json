@@ -1,0 +1,310 @@
+[
+ {
+  "id": "6970a2f9fc4f",
+  "zone": "azshara-gossip",
+  "kind": "gossip",
+  "voice": "orc-male",
+  "speakerGender": "male",
+  "npc": "Ag'tor Bloodfist",
+  "quest": null,
+  "en": "The days we've spent here in Azshara are not among our best and most glorious, but we are still young and blood still courses through our veins--we shall find victory here. It is only a matter of time.",
+  "files": [
+   "gossip/aab9a312cf4a0b71e47a29a0f34763ec"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "56d9125922e6",
+  "zone": "azshara-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Archmage Xylem",
+  "quest": null,
+  "en": "If you are here to beg for the privilege of working for me, then your company is quite welcome. Otherwise, there is little chance you are of any use to me.",
+  "files": [
+   "gossip/c1aac255927f0dd81f64be7c1bcd7096"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "bb16dfd71468",
+  "zone": "azshara-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Captain Vanessa Beltis",
+  "quest": null,
+  "en": "Ahoy, adventurer! Not a pretty picture, is it?\n\nThe Horizon Scout at the bottom of the sea, my crew in shambles, and our cargo and passengers strewn about like so much debris that you'd think this was one of Stormwind's canals after a festival.\n\nAnd that's not where the trouble ends...",
+  "files": [
+   "gossip/1b039b3e7e1c17e0186d14836df84d01"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "d07176e4ede6",
+  "zone": "azshara-gossip",
+  "kind": "gossip",
+  "voice": "human-female",
+  "speakerGender": "female",
+  "npc": "Captain Vanessa Beltis",
+  "quest": null,
+  "en": "You'll have to give me a moment, adventurer, the naga are attacking us right now. I'll speak to you as soon as the attack is done!",
+  "files": [
+   "gossip/577b34a2009f6599e2e71e1f5ebe9a56"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "87658c73a4af",
+  "zone": "azshara-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elder Skygleam",
+  "quest": null,
+  "en": "The village of Astranaar in Ashenvale is Elder Riversong's current home.",
+  "files": [
+   "gossip/5a0d87ae959e0cb2b313ff4cb86fdc3e"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "21c454864215",
+  "zone": "azshara-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Elder Skygleam",
+  "quest": null,
+  "en": "Elder Nightwind passes the days at the shrine in Jaedenar in Felwood.",
+  "files": [
+   "gossip/c7b7d395eb62116cbb37f311ed63417d"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "ffc5070c319e",
+  "zone": "azshara-gossip",
+  "kind": "gossip",
+  "voice": "orc-female",
+  "speakerGender": "female",
+  "npc": "Jediga",
+  "quest": null,
+  "en": "I am not here because of honor, adventurer. I am here because of one orc's pride.\n\nIf I had not rejected Belgrom's offers, then I'm sure I'd still be in Orgrimmar taking care of real business.\n\nHis desire for women is not unknown to many of the female warriors in Durotar, but that doesn't stop him from being his charming self.\n\nHe's lucky he didn't pursue his desire for me much longer though--he'd be short more than just the digits on his hands.",
+  "files": [
+   "gossip/6e8ee30a60a965991f527856399387d7"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "5ad016808bbd",
+  "zone": "azshara-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Loh'atu",
+  "quest": null,
+  "en": "Once a great city of the night elves, the Highborne once ruled there, practicing great and powerful arcane magics. They are cursed now, haunting the lands, and their ruined city has been victimized by the Spitelash naga. I understand that the naga search the ruins for powerful Highborne artifacts.",
+  "files": [
+   "gossip/177b136c703d996695ff9d9a6ee3304e"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "9d54d77f3343",
+  "zone": "azshara-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Loh'atu",
+  "quest": null,
+  "en": "Because you have aided me, I will tell you what I know of this land and of the things there are to see. My knowledge is not vast, but perhaps I can point out some things that might interest one such as yourself.",
+  "files": [
+   "gossip/898b582dd44193bf71686d4995bc5367"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "a2dfd1ec3e6a",
+  "zone": "azshara-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Loh'atu",
+  "quest": null,
+  "en": "I've seen terrible things happen to the furbolg over the last few years--they were victims on many fronts. But it's unclear to me what's become of this tribe. Are they corrupted by the same plague that's touched Felwood? Or perhaps they are simply angry at what's happened to their once peaceful people and now seek to defend themselves. Either way, most of them appear hostile to those who come into the area.",
+  "files": [
+   "gossip/b660919fd15bb4acba5ab26eedc550ac"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "1e3f9bedde37",
+  "zone": "azshara-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Loh'atu",
+  "quest": null,
+  "en": "My knowledge of night elf lore is limited, but it is said long ago--back when the night elves still held sacred the art of arcane spell casting--that Azshara was the greatest of their kind. A beautiful woman they named queen. Sadly, it was her addiction to the arcane that would one day be the catalyst for the most devastating events in this world's history.",
+  "files": [
+   "gossip/cadc0e431f4794433c9f20b321f3f84d"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "fbb07ffb927e",
+  "zone": "azshara-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Loh'atu",
+  "quest": null,
+  "en": "A powerful human mage is rumored to live to the north; he keeps watch over the land for some unknown reason. I have not traveled there myself, but it is said that visitors are welcome and can even earn favor with him if they are willing to do errands for him.",
+  "files": [
+   "gossip/ce97a3f0d9b87cbf8e4913c174a68681"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "322a06fe19b8",
+  "zone": "azshara-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Loh'atu",
+  "quest": null,
+  "en": "Greetings, adventurer.\n\nThose Sentinels over there have allowed me to share their camp as long as I promise no trouble will follow--I am sure you can appreciate the need for diplomacy while here, yes?\n\nI am here investigating disturbances to the land, and since it aids their cause also, they have agreed that my presence here could only aid the tenuous alliance between all of Azeroth's races. If you wish to aid me, then I would appreciate it, but regardless, please try not to cause any trouble.",
+  "files": [
+   "gossip/f54143d6861ddef271769d60b550b493"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "23962b654166",
+  "zone": "azshara-gossip",
+  "kind": "gossip",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Loh'atu",
+  "quest": null,
+  "en": "The blue dragons themselves aren't here, but followers of Malygos are. I do not know why, but I can tell you this: wherever the blue dragons are, expect to find arcane magic. I wouldn't be surprised if the dragonspawn are here protecting something... perhaps something the Highborne left behind.",
+  "files": [
+   "gossip/ff66933a79e40c4363ca877e0bc40aab"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "0415cfc6c89f",
+  "zone": "azshara-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Loramus Thalipedes",
+  "quest": null,
+  "en": "What Sevine, Allistarj, and Grol did not realize was that just as their servants were bound to the land, so would they be... You see, the price for their own immortality was also imprisonment and eternal servitude under the command of Razelikh. The cruel cunning of Razelikh had emerged the victor once again.",
+  "files": [
+   "gossip/1d4b8f39810a29599c94b8d4568dc49f"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "dfbc96ae8168",
+  "zone": "azshara-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Loramus Thalipedes",
+  "quest": null,
+  "en": "Tragically, it was Thrall's wisdom that finally sealed the bond between the demon lord and his minions. It was Trebor's regiment that served as the catalyst to unite the demon lord, the shadowsworn sects and the ogres. The lure of nearly unlimited power and the granting of immortal shock troops to each respective leader sealed the deal in blood.",
+  "files": [
+   "gossip/3726dcf3467f198a1a4e87d1350ab5d0"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "361b655ca1d0",
+  "zone": "azshara-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Loramus Thalipedes",
+  "quest": null,
+  "en": "Their minds are now tainted, traveler. Yes, even more so than before. They live only to serve and protect Razelikh. The amulet fragments they each hold are the key to summoning the demon lord. What you do not understand is that none of them can be harmed through any conventional means.",
+  "files": [
+   "gossip/8d0a66ad0cd5f9f1896db2efcf7f3e6d"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "d3495a220b61",
+  "zone": "azshara-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Loramus Thalipedes",
+  "quest": null,
+  "en": "In the age of war, Razelikh the Defiler served as the most fearsome of Lord Kazzak's lieutenants. When the Legion was defeated and Kazzak forced back into the Tainted Scar, Razelikh was tasked by his master to secure the Blasted Lands.\n\nWhile the Alliance fought petty battles with the Horde over territory outside of the Blasted Lands, Razelikh was uniting the differing Shadow Council sects and the brutish Dreadmaul ogres of the land.",
+  "files": [
+   "gossip/d1af7e5517ae83c4c66dff4c1ff060ca"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "67e68c9ca58d",
+  "zone": "azshara-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Loramus Thalipedes",
+  "quest": null,
+  "en": "Can you see them, mortal? No... I did not think you could. Sighted but sightless - it is your gift and your curse.",
+  "files": [
+   "gossip/f00870b9a046eed91eb4d0128f2dcee7"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "d5f2b8d18cca",
+  "zone": "azshara-gossip",
+  "kind": "gossip",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Loramus Thalipedes",
+  "quest": null,
+  "en": "Then let us pretend that you undergo the long and arduous task of creating the bane necessary to break through the demonic wards placed upon the triad. What would be your next course of action? To face the Defiler in his lair?",
+  "files": [
+   "gossip/f7c5603af9e4752420d6a1a348affa8e"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "8804e9fe9b2b",
+  "zone": "azshara-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Nyrill",
+  "quest": null,
+  "en": "Greetings, sir. I am Master Xylem's apprentice Nyrill. If you have any concerns, please feel free to bring them up with the master.\n\nI will be here to serve you when you're ready to return down to the base of the mountain.",
+  "files": [
+   "gossip/m-c25da7aea73e13a714910fc2805f839f"
+  ],
+  "uiMap": 1447
+ },
+ {
+  "id": "d8909eccf62c",
+  "zone": "azshara-gossip",
+  "kind": "gossip",
+  "voice": "human-male",
+  "speakerGender": "male",
+  "npc": "Peter Galen",
+  "quest": null,
+  "en": "If you are here to hunt dragons, be my guest. Where should I send my condolences?",
+  "files": [
+   "gossip/ecd8f490207aa548a5bde5be21a12239"
+  ],
+  "uiMap": 1447
+ }
+]

@@ -1,0 +1,705 @@
+[
+ {
+  "id": "f68c641569dc",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Chemist Fuely",
+  "quest": "... and a Batch of Ooze",
+  "en": "Have you heard of the Un'Goro Crater, Adventurer? It is near the Tanaris desert, and it is a magnificent place: lush, vibrant, full of creatures and plant life.\n\nIt is there you must go. Word has reached me that the place seems completely untainted by outside hands. Explorers are just now discovering its secrets.\n\nI would like to test the slimes or oozes there. If it is true--that they are uncorrupt--then I would like to see how such creatures have evolved.",
+  "files": [
+   "quests/4294-accept"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "8590b12e7bd2",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Chemist Fuely",
+  "quest": "... and a Batch of Ooze",
+  "en": "Truly amazing, Adventurer. This Un'Goro Crater is holding many more secrets than I expected. I wonder what else we will discover as we test further.\n\nSimply amazing... look at the purity of these samples. Hmm, I wonder what it could mean. They seem to be elemental in nature, but... something more. They remind me of... of the Old Gods. We've found traces of them throughout Azeroth, and now I wonder if these creatures aren't related to them somehow.\n\nWe shall have to test further.",
+  "files": [
+   "quests/4294-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "0a77007cd5b2",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Ralston Farnsley",
+  "quest": "A Donation of Runecloth",
+  "en": "Adventurer, you've been a tremendous contributor to our cloth drive. As we work hard to replenish our reserves, I must impart news upon you the most severe of our deficiencies - runecloth. We are in absolutely dire need of runecloth, and we hope that you will be able to help us as you have in the past.\nIf you are willing, please bring me what runecloth you can spare. We'll initially accept a single donation of sixty, and then we'll go from there.",
+  "files": [
+   "quests/7818-accept"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "30150ed73d99",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Ralston Farnsley",
+  "quest": "A Donation of Runecloth",
+  "en": "With all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future. Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!",
+  "files": [
+   "quests/7818-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "08a6b886fd0c",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Ralston Farnsley",
+  "quest": "A Donation of Runecloth",
+  "en": "Fantastic - these will go right to use, I assure you. Thank you again for your assistance! We'd certainly be lost without you.\n\nWith all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future. Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!",
+  "files": [
+   "quests/7818-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "1243e22eded3",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Ralston Farnsley",
+  "quest": "A Donation of Wool",
+  "en": "Wonderful! We thank you for your generous donation, Adventurer!",
+  "files": [
+   "quests/7813-complete",
+   "quests/7814-complete",
+   "quests/7817-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "48dca46fb0c2",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Chemist Fuely",
+  "quest": "A Sample of Slime...",
+  "en": "Felwood is a forest far north of the Barrens, even farther than Ashenvale. There, slimes are found all around pools of water blessed by the touch of Fel. The Scourge decimated the area with attacks of Infernals and other demonic magics--the slimes supposedly crept up through the earth during these attacks.\n\nGather samples of Felwood slimes and we will use the testing equipment next to me to create a control group for our tests against other samples you gather.",
+  "files": [
+   "quests/4293-accept"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "00e1de0ec867",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Chemist Fuely",
+  "quest": "A Sample of Slime...",
+  "en": "Ah, excellent. These samples will do nicely. I thank you for your help.\n\nOnce we've gathered all the samples of slimes, we'll be able to determine more. I am beginning to suspect that Lady Sylvanas' hunch was not only correct, but more insightful than even she could have predicted. These samples are very interesting. Just seeing how they've reacted with my compounds... hmm, yes, we'll definitely need to investigate further.",
+  "files": [
+   "quests/4293-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "2b252795e02e",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Ralston Farnsley",
+  "quest": "Additional Runecloth",
+  "en": "Adventurer - without heroes like you working on behalf of the tribe, we'd surely suffer. Thank you for your continued efforts!",
+  "files": [
+   "quests/7819-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "d7cc0a05917e",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Innkeeper Norman",
+  "quest": "Assisting Arch Druid Runetotem",
+  "en": "Excuse me adventurer, but I'd like just a moment of your time if possible.\n\nThe Cenarion Circle in Thunder Bluff is most interested in seasoned adventurers such as yourself to lend them aid in a vital research project. While I do not know the specifics, I can inform you that none other than Hamuul Runetotem is spearheading this research.\n\nPlease - if you are interested, speak with him directly on the Elder Rise within Thunder Bluff proper.",
+  "files": [
+   "quests/3784-accept"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "94bebdfd70f3",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Alessandro Luca",
+  "quest": "Errand for Apothecary Zinge",
+  "en": "Ah, Zinge needs a kit, does she? It saddens me that Zinge does not choose to grace myself with her sweet presence.\n\nVery well, let me procure a kit for you.",
+  "files": [
+   "quests/232-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "48314a1d4fea",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Alessandro Luca",
+  "quest": "Errand for Apothecary Zinge",
+  "en": "The kit is ready, adventurer. No doubt that Apothecary Zinge will want this as soon as possible. Take it to her without delay, and let her know that I will add the cost of the kit to the Society's tab. Also, please extend to her my warmest salutations.\n\nWell, don't just stand there. Such is the life of a simple courier, yes?",
+  "files": [
+   "quests/238-accept"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "ae0b7333f8a1",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Apothecary Zinge",
+  "quest": "Errand for Apothecary Zinge",
+  "en": "The Royal Apothecary Society needs your assistance. Listen closely, and both of us may profit from my plan.\n\nApothecary Keever in the next room may be... touched... but his research does potentially bear fruit if it were pursued by a clever researcher. Fortunately, I am such a researcher. I want you to take this purchase order to Alessandro Luca, the proprietor of Blue Moon Odds and Ends; he'll give you a testing kit. When you have it, bring it back to me and I'll outline your task in detail.",
+  "files": [
+   "quests/232-accept"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "361e56dea14a",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Apothecary Zinge",
+  "quest": "Errand for Apothecary Zinge",
+  "en": "Good - it pleases me to be working with someone who takes pride in not wasting my time.\n\nAfter I make some adjustments to this kit, you'll be ready to head out into the field. You'll be using it to collect some vital data to the task at hand.\n\nIt will take just a moment for me to finish the modifications. While you are waiting, you should probably start thinking about what you'd like to bring to the desert with you.\n\nYes, I said the desert.",
+  "files": [
+   "quests/238-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "7017f7375ebd",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Oran Snakewrithe",
+  "quest": "Lines of Communication",
+  "en": "The Quel'Danil Lodge is a center of communication for the high elves of the Hinterlands. Their ambassadors are working to establish relationships with other races, with whom they share their knowledge of the Witherbark trolls that inhabit the area in the southern Hinterlands. All of the documents regarding the communications are kept at the lodge.\n\nWe don't need the Highvale building alliances with others, Adventurer.\n\nDestroy the Highvale documents. We need to burn their lines of communication... literally.",
+  "files": [
+   "quests/2995-accept"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "5ba7932afaf2",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Oran Snakewrithe",
+  "quest": "Lines of Communication",
+  "en": "Perfect, Adventurer. While the Highvale work to recover their lost information, we will be able to seal off the lines even further...",
+  "files": [
+   "quests/2995-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "d051e02e05ad",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Chemist Fuely",
+  "quest": "Melding of Influences",
+  "en": "Here is some encased ooze created from the Felwood samples you recovered. Take the case to Un'Goro Crater and find a pure ooze... the primal variety will do nicely. When you get close enough, release the ooze in the case, and let us see what the two think of one another.\n\nAfter the experiment concludes, bring me a sample of whatever is left over. I will await you here in the Apothecarium.",
+  "files": [
+   "quests/4642-accept"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "b1e667874663",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Chemist Fuely",
+  "quest": "Melding of Influences",
+  "en": "Oh, most excellent, Adventurer. This is most excellent.\n\nSuch a tale. Who would have thought the two would interact with one another in such a way... I will have to spend more time looking at the environmental issues that cause changes in these creatures.\n\nI will continue my research for now. Perhaps we will speak again soon. Until then, I wish you well.",
+  "files": [
+   "quests/4642-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "d2171985d6f1",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Alessandro Luca",
+  "quest": "Prompt Potion Runner",
+  "en": "You! Quickly, I need you to bring this potion across the slime canal to Doctor Martin Felben in the Apothecarium!\n\nIt has a very limited shelf life, and no I can't go myself, my knees rattle and pop out if I attempt to run.\n\nJust another lovely side effect of undeath, apparently.\n\nBut we're wasting time! Here, take this and go!\n\n<Alessandro makes a shooing motion.>",
+  "files": [
+   "quests/97891-accept"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "0fcd5121325d",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Doctor Martin Felben",
+  "quest": "Prompt Potion Runner",
+  "en": "Ah, marvelous! I had been waiting for Alessandro's potion to arrive. The last six he sent destabilized along the way, but you've made it just in time!\n\nHere, take this for your effort. That is all for now, unless you have other business with me?\n\nIf not, remove yourself so I may continue my experiments unhindered.",
+  "files": [
+   "quests/97891-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "2097d8b379bb",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Apothecary Zinge",
+  "quest": "Return to Apothecary Zinge",
+  "en": "I will analyze this data immediately. Perhaps Keever's insanity will prove to be my genius after all.\n\nAs for you... you are useful to me, and I reward quite well those who remain useful. Take this item, this coin, and most importantly my thanks along with them.\n\nCheck back with me from time to time - I wager that our working together on this project is not at an end.",
+  "files": [
+   "quests/864-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "6c96e567912f",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Chief Engineer Bilgewhizzle",
+  "quest": "Return to Apothecary Zinge",
+  "en": "\"Here you go, the power source is safely removed and the data is preserved. Well, safe journeys and all that. Hope the nefarious science experiment worked out for you and all.\"\n\nThe goblin turns away from you to attend to the demands of the Gadgetzan Water Company. You secure the sealed testing kit for the journey back to the Undercity. Apothecary Zinge waits for you and the sealed field testing kit there.",
+  "files": [
+   "quests/864-accept"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "145648ac11d4",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Helbrim",
+  "quest": "Sample for Helbrim",
+  "en": "Ah, very good. If initial reports are true, then the toxicity of these hearts could lead to further advances in our knowledge of poisons.\n\nThis is a welcome delivery, Adventurer. Your reward is well earned.",
+  "files": [
+   "quests/1358-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "2c497822f68c",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Apothecary Zinge",
+  "quest": "Sample for Helbrim",
+  "en": "A colleague in Kalimdor, Apothecary Helbrim, is researching the effects of Lordaeron toxins on the beasts of Kalimdor. He would be very interested in a sample of the wolf hearts Renferrel sent me.\n\nHelbrim is stationed in the Barrens, in a village known as the Crossroads. To reach him, you must travel via zeppelin to the orc capital of Orgrimmar, then travel south, by foot, to Durotar. Head west into the Barrens, and you will soon reach the Crossroads.",
+  "files": [
+   "quests/1358-accept"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "9582826eeb55",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Chemist Cuely",
+  "quest": "Seeping Corruption",
+  "en": "There! Job's done.",
+  "files": [
+   "followup/4522-scourge-male-warrior"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "47f93f9811b6",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Chemist Cuely",
+  "quest": "Seeping Corruption",
+  "en": "See that tauren behind me--the one who looks like she's going to be ill at any moment? She was in Azshara recently. She claims she was wounded by some naga while making her way through the Ruins of Eldarath.\n\nAfter fighting off a few of them, she took a break on the beach and drank from one of the tide pools. Now she's feeling nauseous... among other things.\n\nI'd like to find out what she drank. Take this box, in it are some empty vials I labeled. Fill each at different pools and come back.",
+  "files": [
+   "quests/3568-accept"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "a79c0c20e563",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Chemist Cuely",
+  "quest": "Seeping Corruption",
+  "en": "Wonderful. You're back before she died. Good, good.\n\nLet's get started on this then, shall we?\n\nI've been studying her symptoms for some time now, and it's quite ugly. I'm surprised she's still standing. She's vomited three or four times all over the place... quite a pleasant odor.\n\nGive me just a moment to put something together to test on our... friend.",
+  "files": [
+   "quests/3568-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "8684cfd982d1",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Chemist Cuely",
+  "quest": "Seeping Corruption",
+  "en": "Give this to Thersa. Perhaps it will cure her... perhaps not. We really won't know until after she drinks it.",
+  "files": [
+   "quests/3569-accept"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "bfa70a83ac7e",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Chemist Cuely",
+  "quest": "Seeping Corruption",
+  "en": "I never dreamed the elixir would take hold that quickly. Thank you, Adventurer. I will get to work on the rest of these samples right away. I'm sure they'll be usable by the Lady Sylvanas and the Forsaken soon enough.",
+  "files": [
+   "quests/3570-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "f35c7e31f2e3",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Thersa Windsong",
+  "quest": "Seeping Corruption",
+  "en": "Wha... what's happening?",
+  "files": [
+   "followup/4533-tauren-female-standard"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "da149039cacf",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "tauren-female",
+  "speakerGender": "female",
+  "npc": "Thersa Windsong",
+  "quest": "Seeping Corruption",
+  "en": "Chemist Cuely has been very accommodating... disturbingly so. But if he says this will help me, then I have no other choice. I don't have time to find any other solution. I've already spoken to priests and shamans, none of which could help me.\n\nLet us hope that the Earthmother watches over my spirit.",
+  "files": [
+   "quests/3569-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "2375d387a5c6",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Testing Equipment",
+  "quest": "Testing for Impurities - Un'Goro Crater",
+  "en": "You pick up the petri dish with the slime sample in it. The only way to discern if the samples is pure enough is to open it and examine the contents yourself. Ideally you'll find a sample that fits Chemist Fuely's criteria.",
+  "files": [
+   "quests/4561-complete",
+   "quests/4661-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "e90ad78d9a40",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lady Sylvanas Windrunner",
+  "quest": "The Champion of the Banshee Queen",
+  "en": "It pleases me greatly to see the battle hardened join our cause. Our numbers grow in size and strength as each day passes. Perhaps you are prepared to test your mettle, adventurer?\n\nAmong the first of my champions was Nathanos, now known as the Blightcaller. Few exist with more dedication or vigor amidst our ranks.\n\nSeek him out in the Eastern Plaguelands. He resides at the Marris Stead; occasionally roaming the decimated wastes, slaying all Scourge and Alliance filth that cross his path.",
+  "files": [
+   "quests/5961-accept"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "e1cfe05ed029",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Nathanos Blightcaller",
+  "quest": "The Champion of the Banshee Queen",
+  "en": "Surely the Dark Lady does not believe you worthy to meet her champion. You are here to feed my hounds, yes? There could be no other reason for this interruption.",
+  "files": [
+   "quests/5961-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "bb518addfad0",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Melisara",
+  "quest": "The Crown of Will",
+  "en": "You were sent by Shalindra? Very well then, you'll find I don't waste much time with idle chatter.\n\nMug'Thol is an irritant, and we will deal with him quickly, thoroughly, and without incident.",
+  "files": [
+   "quests/495-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "04dfe3aa5c2e",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Jeremiah Payson",
+  "quest": "The Jeremiah Blues",
+  "en": "I haven't used that name in years... but yes, at one point in my life - before this glorious unlife - that was my last name.\n\nYou claim to have known my sister... or rather, have recently spoken to my sister.\n\nWho's been dead.\n\nFor four years.\n\nYou know, if my bones weren't already brittle enough, I'd be tempted to break my foot off on your posterior. You're quite the vulture, aren't you?\n\n What... you have a package for me from my sister?",
+  "files": [
+   "quests/5049-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "a74766f318f2",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Royal Overseer Bauhaus",
+  "quest": "The Jeremiah Blues",
+  "en": "From the evidence I am able to muster, the person you seek - and the intended recipient of the parcel - is Jeremiah Payson, the Undercity cockroach vendor.\n\nI've always been of the opinion that it takes a special gift to sell... cockroaches. No doubt you are on quite the epic sojourn now, mighty adventurer. I will leave you to your world-shaping endeavors. Allow me, however, to be a part of your magnum opus and reveal that he is located near the bank, suitably groveling under one of the walkways.",
+  "files": [
+   "quests/5049-accept"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "e0fd195d6047",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Bethor Iceshard",
+  "quest": "The Lich's Identity",
+  "en": "There is a lich who dwells on the island in Brightwater Lake to the north. Although he is a free-willed Forsaken, he believes all other Undead are Scourge slaves and has his minions attack anyone who approaches him.\n\nBut because he is Forsaken, the Queen will want him. And if he is skilled in Necromancy, then his knowledge would be...quite useful to us.\n\nTo discover his identity and his talents, I must see his spellbook. Steal into his camp and acquire it, then return to me.",
+  "files": [
+   "quests/357-accept"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "046700099261",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Bethor Iceshard",
+  "quest": "The Lich's Identity",
+  "en": "Very good, Adventurer. I will study this book and determine the identity of that lich. You have served your Queen well.\n\n\nAstonishing! The book you retrieved belongs to no one other than Gunther Arcanus!\n\nGunther was a skilled Necromancer in life; he and I were friends and comrades-in-arms, before the Plague. And judging from his book he has grown even more powerful in death.\n\nHis skills would be a great boon to us.",
+  "files": [
+   "quests/357-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "87a4338ccba9",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "tauren-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Hamuul Runetotem",
+  "quest": "The New Frontier",
+  "en": "Greetings, Adventurer.\n\nI am pleased to see the likes of you taking an interest in the well being of nature; tales of your mighty deeds precede you, and you are welcomed here. Seeing you before me instills the feeling of confidence that the Cenarion Circle will get the proper aid it needs.\n\nOur connection with the Cenarion Circle in Moonglade transcends racial and political divides. Remember this as you work on behalf of the Circle, and you will do well.",
+  "files": [
+   "quests/1004-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "5803d4311fc5",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Harbinger Balthazad",
+  "quest": "The New Frontier",
+  "en": "Attention, heroes!\n\nThe Cenarion Circle seeks able bodied individuals to assist them in exploring the vast new frontiers of Kalimdor! A forbidden wasteland of unimaginable dangers lies far to the west of Tanaris and Gadgetzan, and the Circle needs willing and honorable proxies to act in their stead.\n\nAll interested individuals should seek audience with the Cenarion Circle. Speak with the Arch Druid Hamuul Runetotem on the Elder's Rise of Thunder Bluff for more information!",
+  "files": [
+   "quests/1004-accept"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "9fbb75cbb5d9",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Keeper Bel'dugur",
+  "quest": "The Star, the Hand and the Heart",
+  "en": "I am impressed! You possess great skill, or great fortune, to have gained these relics. Either way, you are an asset to us.",
+  "files": [
+   "quests/736-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "3ccae5949a49",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Keeper Bel'dugur",
+  "quest": "The Star, the Hand and the Heart",
+  "en": "You need Yagyin's Digest? Your plan, then, is to gather another flock? Of course it is...and of course I will help you, brother.\n\nBut you must help me too.\n\nI require three items of power. Bring me these and the digest will be yours.\n\nI cannot utter the names of these items, but I will write them down.\n\nGet me the items on this list. If you can do that, then you are truly worthy of opening your own chapter of our order.",
+  "files": [
+   "quests/m-736-accept"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "64b5fa09aac7",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Calder Gray",
+  "quest": "Thundering Hearts",
+  "en": "Fascinating, aren't they? This is the first time I have ever been privy to the secrets of abomination creation.\n\nI have been studying these notes, and it appears we need a heart. A massive one!\n\nI hear there is a thunder lizard there of impressive size called Stormheart, that patrols along the canyon edge in Thousand Needles. With a name like that it must have the perfect heart. I must have that heart!\n\nOh, also I suggest you bring friends. Stormheart isn't known for being docile.",
+  "files": [
+   "quests/97985-accept"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "35dcfad34d56",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Genavie Callow",
+  "quest": "To Steal From Thieves",
+  "en": "The harlot! The swine! Kenata still lives; her family healthy and prospering while I suffer. Forsaken indeed!\n\nMy family is gone, taken by the plague. Our estate also forfeit; looted and burned during the war. And after all that, her and her lousy children had the audacity to steal the only precious belongings I had left.\n\nI don't care about the things they stole any more. What I want now are their heads!\n\nKill them for me! Go to the Dabyrie Farmstead in Arathi, northeast of Refuge Point.",
+  "files": [
+   "quests/1164-accept"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "cee1aaebf779",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Genavie Callow",
+  "quest": "To Steal From Thieves",
+  "en": "You stand before me as a figure of vengeance, and I bow down before you in thanks.\n\nWith that cow's death, and knowing that their seed will no longer spread over the face of Azeroth, I can put my energy into something more lucrative. I hope you looted their farmstead after you finished them off.",
+  "files": [
+   "quests/1164-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "163593541b1a",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Master Apothecary Faranell",
+  "quest": "Unending Torment",
+  "en": "Not cooperating, eh? Excellent. I always love a challenge.",
+  "files": [
+   "quests/97290-complete"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "69d6b8c18428",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "narrator-male",
+  "speakerGender": "male",
+  "npc": "Unfinished Abomination",
+  "quest": "Unending Torment",
+  "en": "You... abomination...\n\nWhy should... help you...\n\nBe gone...",
+  "files": [
+   "quests/97290-accept"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "bc1f933889eb",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-male",
+  "speakerGender": "male",
+  "npc": "Apothecary Renferrel",
+  "quest": "Zinge's Delivery",
+  "en": "The wolf hearts you acquired possess a quality unseen in similar specimens. There is a toxicity to them that should be deadly to the very wolves in which the hearts beat!\n\nIt's quite incredible, and we must study it further. I kept a few samples of the hearts acquired. Take them to my colleague, Apothecary Zinge. You will find her in our headquarters in the Undercity.",
+  "files": [
+   "quests/1359-accept"
+  ],
+  "uiMap": 1458
+ },
+ {
+  "id": "4f0625aa93c6",
+  "zone": "undercity",
+  "kind": "quest",
+  "voice": "scourge-female",
+  "speakerGender": "female",
+  "npc": "Apothecary Zinge",
+  "quest": "Zinge's Delivery",
+  "en": "Ah yes, the heart samples of which Renferrel spoke. I am eager to experiment with these... it is always of interest to the Royal Apothecary Society when new forms of toxins are discovered.",
+  "files": [
+   "quests/1359-complete"
+  ],
+  "uiMap": 1458
+ }
+]

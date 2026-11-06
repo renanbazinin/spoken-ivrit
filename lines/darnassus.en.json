@@ -1,0 +1,565 @@
+[
+ {
+  "id": "aac4adefe169",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Herald Moonstalker",
+  "quest": "A Call to Arms: The Plaguelands!",
+  "en": "Hear ye, hear ye! All heroes are called upon to heed these words!\n\nA call to arms has been issued by the Kingdom of Stormwind! All able bodied individuals are entreated to take up arms against the dark threat of the Scourge in the northern lands of the Eastern Kingdoms! Rumors fly of new threats rising from the ruins of the Plaguelands!\n\nHeroes of the realm - seek out Commander Ashlam Valorfist who has set up his base camp in Chillwind Camp, north of the Alterac Mountains!",
+  "files": [
+   "quests/5091-accept"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "63dcbcc69777",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Raedon Duskstriker",
+  "quest": "A Donation of Runecloth",
+  "en": "Adventurer, you've been a tremendous contributor to our cloth drive. As we work hard to replenish our reserves, I must impart news upon you the most severe of our deficiencies - runecloth. We are in absolutely dire need of runecloth, and we hope that you will be able to help us as you have in the past.\nIf you are willing, please bring me what runecloth you can spare. We'll initially accept a single donation of sixty, and then we'll go from there.",
+  "files": [
+   "quests/7800-accept"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "4a196983c516",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Raedon Duskstriker",
+  "quest": "A Donation of Runecloth",
+  "en": "With all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future. Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!",
+  "files": [
+   "quests/7800-complete"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "43fc413d4c1d",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Raedon Duskstriker",
+  "quest": "A Donation of Runecloth",
+  "en": "Fantastic - these will go right to use, I assure you. Thank you again for your assistance! We'd certainly be lost without you.\n\nWith all the donations you've made, I would certainly process any additional runecloth donations you care to make in the future. Just be sure to check in with me, and I'll personally make sure that your good deeds won't go unrecognized!",
+  "files": [
+   "quests/7800-complete"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "f39e725c8ac3",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Raedon Duskstriker",
+  "quest": "A Donation of Wool",
+  "en": "Wonderful! We thank you for your generous donation, Adventurer!",
+  "files": [
+   "quests/7792-complete",
+   "quests/7798-complete",
+   "quests/7799-complete"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "a8cd36260017",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Raedon Duskstriker",
+  "quest": "Additional Runecloth",
+  "en": "Adventurer - without heroes like you working on behalf of the tribe, we'd surely suffer. Thank you for your continued efforts!",
+  "files": [
+   "quests/7801-complete"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "738713076650",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Fandral Staghelm",
+  "quest": "Assisting Arch Druid Staghelm",
+  "en": "Well now, adventurer... since you were informed that I was leading this research myself, you obviously came as quickly as you could.\n\nNow that you are here, be sure to pay attention the first time I tell you the details; I have no desire to repeat myself.",
+  "files": [
+   "quests/3763-complete",
+   "quests/3790-complete"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "3613585ea2bf",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Innkeeper Saelienne",
+  "quest": "Assisting Arch Druid Staghelm",
+  "en": "Excuse me adventurer, but I'd like just a moment of your time if possible.\n\nThe Cenarion Circle in Darnassus is looking for seasoned adventurers such as yourself to lend them aid in a vital research project. While I do not know the specifics, I can inform you that none other than Arch Druid Fandral Staghelm is spearheading this research.\n\nPlease - if you are interested, speak with him directly in the Cenarion Enclave within Darnassus proper.",
+  "files": [
+   "quests/3763-accept"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "265bd5783338",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Gracina Spiritmight",
+  "quest": "Calm Before the Storm",
+  "en": "Adventurer, your help has been immeasurable. The time will come, no doubt, when I'll ask for your assistance against the silithid once more. We must absorb what we have learned in Un'Goro; I fear that my assumptions that the silithid originated from Un'Goro are now wrong... that indeed there is a far stronger presence somewhere.\n\nTake this note to Idriana at the bank. She'll give you something from my vault that should be viewed as a token of my gratitude. Thank you for your assistance, brave adventurer.",
+  "files": [
+   "quests/4510-accept"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "e73994431ed1",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Idriana",
+  "quest": "Calm Before the Storm",
+  "en": "This bank voucher authorizes me to withdraw an item from Gracina Spiritmight's account with us and present it to you. Congratulations would seem to be in order!",
+  "files": [
+   "quests/4510-complete"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "7d4dbeabc984",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Dalia Sunblade",
+  "quest": "Eyes of the Sentinels",
+  "en": "General Feathermoon ensures all sentinels have time to pray to Elune. A proper huntress wields not blade alone, but gifts of the goddess to overcome our enemies.\n\nYou may help with my daily duties. Place sentinels around the city--start with the tunnels leading beneath Cenarion Hold to the north, the bank at the center of town, the inn in the Craftsman's Terrace to the northeast, and the city gates. The guards can assist you.\n\nSomething is amiss in Teldrassil--we must remain vigilant.",
+  "files": [
+   "quests/98067-accept"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "19a476dd7d28",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sentinel Dalia Sunblade",
+  "quest": "Eyes of the Sentinels",
+  "en": "I thank you for your aid. Though I find peace in the daily rituals, it is nice to have a moment to reflect instead.",
+  "files": [
+   "quests/98067-complete"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "f815cf6a58e1",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lelanai",
+  "quest": "Frostsaber Replacement",
+  "en": "If you bring me your old frostsaber, I will trade it in for one from the new pack. The new swift saber will be just as fast as your old one, but have a different look to it. You can look at the swift sabers we already have around the yard here to see what it will look like.",
+  "files": [
+   "quests/7671-complete"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "14850ddb4ae5",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "goblin-male",
+  "speakerGender": "male",
+  "npc": "Alchemist Pestlezugg",
+  "quest": "March of the Silithid",
+  "en": "Yes, I gathered that Gracina sent you to me. Your experience in fighting these beasties is priceless; no one to my knowledge has ever dealt with their kind before. As for Gracina's idea that Un'Goro Crater is their heart... perhaps it is. Un'Goro is a mysterious and dangerous jungle to the west of here. Perhaps it is also one step closer to figuring out what the silithid are all about.",
+  "files": [
+   "quests/4493-complete"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "74340de4fede",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Gracina Spiritmight",
+  "quest": "March of the Silithid",
+  "en": "It would seem that the silithid's intent, nay - reason for being, is to devour everything in their path that is not of their ecology. Their focus is singular, and it is for this reason they are a grave threat to all life on Azeroth.\n\nWhat we've seen to date is but the first stages. I suspect that their strength comes from deeper in Kalimdor: Un'Goro Crater. Go to Gadgetzan in the Tanaris desert and speak to Alchemist Pestlezugg. Tell him of my theory; he will surely aid us in fighting the silithid.",
+  "files": [
+   "quests/4493-accept"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "4ac88152bb76",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Fandral Staghelm",
+  "quest": "Morrowgrain Research",
+  "en": "With what we call an Evergreen Pouch, we have cultivated Tharlendris seeds in the soil from Un'Goro Crater. These seeds blossom into an array of random, potent herbs. One result is morrowgrain, a mysterious herb we know little about; I intend to unravel this mystery.\n\nTake this to Mathrengyl downstairs, and he will give you some seeds so you can get started. If you run out, you will need to purchase more from him.",
+  "files": [
+   "quests/3781-accept"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "68a3dfbaee00",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mathrengyl Bearwalker",
+  "quest": "Morrowgrain Research",
+  "en": "Yes, this voucher is good for twenty packets of seeds. If you run out, we have more that can be provided. Unfortunately though, Tharlendris seeds are quite costly to produce in significant numbers. This is why the Cenarion Circle asks that those who are assisting us help out by offsetting some of the cost.\n\nThose who return with morrowgrain find that the reward the Arch Druid offers far makes up for the cost.",
+  "files": [
+   "quests/3781-complete"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "6a71d7ce3e86",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mathrengyl Bearwalker",
+  "quest": "Morrowgrain Research",
+  "en": "Here's your Evergreen Pouch that you'll need to use the Tharlendis seeds with. You also need to have Un'Goro soil samples on hand to use as fertilizer for the seeds. Just use the pouch when you have everything; the pouch will take care of the rest.\n\nWhen you have enough morrowgrain, bring them here to me in the enclave. Please don't bother the Arch Druid; he's a very busy man, and he doesn't need to be disturbed every time someone returns with another batch of morrowgrain!",
+  "files": [
+   "quests/3785-accept"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "dd03e2935b95",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mathrengyl Bearwalker",
+  "quest": "Morrowgrain Research",
+  "en": "Well done Adventurer, I will be sure to give these to the Arch Druid himself when he has need of them. Meanwhile, please accept this as a token of the Cenarion Circle's appreciation.\n\nOur need for morrowgrain is a continuous one; if you wish to continue aiding us, then please return to me when you have cultivated additional morrowgrain for us.",
+  "files": [
+   "quests/3785-complete"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "d2bfc3e76873",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mathrengyl Bearwalker",
+  "quest": "Morrowgrain to Darnassus",
+  "en": "Excellent - this morrowgrain will no doubt please the Arch Druid. I must admit though... just being near them makes me feel a little uncomfortable. I can only imagine how difficult it is for the Arch Druid to tolerate them in such large numbers!\n\nThis is for you, Adventurer. The Cenarion Circle thanks you for your continued support.",
+  "files": [
+   "quests/3803-complete"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "d29fe995caac",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mydrannul",
+  "quest": "Nessa Shadowsong",
+  "en": "A friend of mine, Nessa Shadowsong, is a fishing merchant in Rut'theran Village. She needs a parcel taken to Darkshore, and is looking for someone to help her.\n\nIf you're interested, then to reach Nessa you must take the portal in Darnassus to Rut'theran Village. You will find the portal west of the Temple Gardens.",
+  "files": [
+   "quests/6344-accept"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "fac05314723b",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Nessa Shadowsong",
+  "quest": "Nessa Shadowsong",
+  "en": "Yes, I have need of a courier who will take a package to Darkshore. Will you help me?",
+  "files": [
+   "quests/6344-complete"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "0c6568e3e6b7",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Lelanai",
+  "quest": "Nightsaber Replacement",
+  "en": "If you bring me your old nightsaber, I will trade it in for one from the new pack. The new swift saber will be just as fast as your old one, but have a different look to it. You can look at the swift sabers we already have around the yard here to see what it will look like.",
+  "files": [
+   "quests/7672-complete"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "0000b4625aa0",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mathrengyl Bearwalker",
+  "quest": "Rabine Saturna",
+  "en": "For this task, Keeper Remulos' majordomo in Moonglade - Rabine Saturna - seeks aid in exploring the vast wastelands far to the west of Tanaris... and even further west of Un'Goro. You should find him in Nighthaven, the main village of Moonglade.\n\nWhile your work will no doubt be of tremendous benefit to us all, I advise you to tread gingerly. There are tensions between Darnassus and Moonglade... ones that may grow over the course of time.",
+  "files": [
+   "quests/6762-accept"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "1fad064dd23a",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Rabine Saturna",
+  "quest": "Rabine Saturna",
+  "en": "I am Rabine Saturna, and on behalf of Keeper Remulos and all of the denizens of this sacred glade I bid you welcome.\n\nI appreciate your interest and eagerness to assist the Cenarion Circle. I also know that Arch Druid of Darnassus expressed his displeasure to you in your lending us aid. Rest assured that it is for the greater good, and that you will be safe from any ill-conceived repercussions you may be the target of.\n\nYou are among friends here, Adventurer.",
+  "files": [
+   "quests/6762-complete"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "82ef8f9896ca",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Priestess A'moora",
+  "quest": "Sathrah's Sacrifice",
+  "en": "Now you must finish the task to which you have been appointed. Take the spinnerets and offer Lady Sathrah's sacrifice to Elune; lay the great spider to rest.\n\nInside this temple, find the central fountain. There is where you may leave the sacrifice. The holy waters will purify and cleanse the corruption that drove Sathrah mad.\n\nWhen you have completed this, return to me.",
+  "files": [
+   "quests/2520-accept"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "7ca12ecf283b",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Priestess A'moora",
+  "quest": "Sathrah's Sacrifice",
+  "en": "The loss of Lady Sathrah is distressing, but in this way only may she be reborn with a renewed spirit.\n\nMay Elune willingly accept the sacrifice that you have offered her.",
+  "files": [
+   "quests/2520-complete"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "3839253a66b1",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Priestess A'moora",
+  "quest": "Tears of the Moon",
+  "en": "Lady Sathrah was once beloved of Elune. Graceful and pure, the spider spun her silver threads through the moonlight, catching the evening mist. The silvery dew had strong healing powers and was kept here in the temple.\n\nBut of late, Sathrah has descended into madness. Her future generations are now threatened as well.\n\nFind Lady Sathrah, Adventurer, and end her suffering. She dwells along the northern borders of Teldrassil, near Wellspring Lake. Gather her silvery spinnerets and bring them back to me.",
+  "files": [
+   "quests/2518-accept"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "c2ecba4fcd89",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Priestess A'moora",
+  "quest": "Tears of the Moon",
+  "en": "The forest mourns for Lady Sathrah, but it was something that had to be done.\n\nThank you, Adventurer.",
+  "files": [
+   "quests/2518-complete"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "016e135b5801",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Fandral Staghelm",
+  "quest": "The New Frontier",
+  "en": "I have relegated my second, Mathrengyl Bearwalker, to deal with Moonglade's call for aid. Speak to him on this matter - NOT me.\n\nLet me give you some... friendly... advice. It is I who led us out of the darkness - NOT the Cenarion Circle in Moonglade - when all was lost for our race. Teldrassil gives us all new life! They would have you believe otherwise, and to believe their propaganda would be a fool's task.\n\nI'll leave it to you to decide whether or not you're a fool.",
+  "files": [
+   "quests/6761-accept"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "1e59fe127b90",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Herald Moonstalker",
+  "quest": "The New Frontier",
+  "en": "Attention, heroes!\n\nThe Cenarion Circle seeks able bodied individuals to assist them in exploring the vast new frontiers of Kalimdor! A forbidden wasteland of unimaginable dangers lies far to the west of Tanaris and Gadgetzan, and the Circle needs willing and honorable proxies to act in their stead.\n\nAll interested individuals should seek audience with the Cenarion Circle. Speak with the Arch Druid in Darnassus, Fandral Staghelm, for more information!",
+  "files": [
+   "quests/1047-accept"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "8d04d0dec62f",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Mathrengyl Bearwalker",
+  "quest": "The New Frontier",
+  "en": "Yes adventurer, thank you for coming. I apologize about the misunderstanding... the air is thick with mistrust between the Arch Druid here and Keeper Remulos in Moonglade. Each suspect the other of chicanery, and the fact that strange corruptions of Teldrassil continue unabated are still an issue here. It does little to quell mistrust.\n\nRegardless, our duty to the Cenarion Circle remains... even if those who lead it may disagree with one another.",
+  "files": [
+   "quests/6761-complete"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "097642130752",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Laurna Morninglight",
+  "quest": "The Sisterhood of Elune",
+  "en": "Blessings to you, adventurer. The Sisterhood of Elune has stood as a pillar of kaldorei society for thousands of years.\n\nBefore the Great Sundering, before the War of the Ancients, through the Long Vigil, we have guided and healed our people through the darkness. Such is our charge, and such is the demand of the peerless Mother Moon.\n\nWe now require your aid in a matter of great importance. Sister Aquinne awaits your arrival in Darnassus.",
+  "files": [
+   "quests/98391-accept"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "47e8574cf50d",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sister Aquinne",
+  "quest": "The Sisterhood of Elune",
+  "en": "I am glad you arrived so quickly. The Sisterhood requires your aid.",
+  "files": [
+   "quests/98391-complete"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "54260f025dbf",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Priestess A'moora",
+  "quest": "The Temple of the Moon",
+  "en": "So, Sister Aquinne sent you?",
+  "files": [
+   "quests/2519-complete"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "4bb42424e461",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-female",
+  "speakerGender": "female",
+  "npc": "Sister Aquinne",
+  "quest": "The Temple of the Moon",
+  "en": "A once great creature of the forest is in need of help, traveler.\n\nThere is a difficult task that must be done.\n\nPlease seek out Priestess A'moora; she will explain things to you. Find her to the southeast of here, inside the Temple of the Moon.",
+  "files": [
+   "quests/2519-accept"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "9f80d53caee8",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "dwarf-female",
+  "speakerGender": "female",
+  "npc": "Archaeologist Hollee",
+  "quest": "Trouble In Darkshore?",
+  "en": "I'm so glad Chief Archeologist Greywhisker sent for us....",
+  "files": [
+   "quests/730-complete"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "d9bc63e9d4b4",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "dwarf-male",
+  "speakerGender": "male",
+  "npc": "Chief Archaeologist Greywhisker",
+  "quest": "Trouble In Darkshore?",
+  "en": "How nice it is to see a adventurer interested in the great archeological wonders of our world.\n\nOftentimes our work is dismissed as mere hobby by our friends in the Alliance. But what many fail to realize is that recent discoveries in Khaz Modan have proven that a great and powerful force threatens all of Azeroth, from Lordaeron to Kalimdor.\n\nI am most worried about my crew that I sent to Darkshore. They haven't sent word in weeks.\n\nTravel to Auberdine and look for a clue as to their whereabouts.",
+  "files": [
+   "quests/730-accept"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "94d21a6cd2d0",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Arch Druid Fandral Staghelm",
+  "quest": "Un'Goro Soil",
+  "en": "The soil of Un'Goro Crater is reportedly enriched with potent magical qualities. I want to know facts from falsehoods; go into the wilds of Un'Goro and acquire enough quality samples of soil for our continued study.\n\nYou may think that collection tasks are beneath you; that sort of attitude does not endear yourself to me or the Cenarion Circle. Bring the samples to Jenal, who is no doubt wasting time outside behind this tree; just look for the piles of dirt. He will handle the logistics - not I.",
+  "files": [
+   "quests/3764-accept"
+  ],
+  "uiMap": 1457
+ },
+ {
+  "id": "d944d7aea73b",
+  "zone": "darnassus",
+  "kind": "quest",
+  "voice": "nightelf-male",
+  "speakerGender": "male",
+  "npc": "Jenal",
+  "quest": "Un'Goro Soil",
+  "en": "Unload your precious cargo here, noble adventurer. It must have been quite the burden... not unlike the burden I carry being a visionary. Here is an honorarium for your work, as dictated by the Arch Druid himself.\n\nArch Druid Staghelm wants to speak with you again Adventurer, but for his next task you will be aided if you have a journeyman's understanding of Herbalism. If you don't know it though, you will still be able to aid the Circle!",
+  "files": [
+   "quests/3764-complete"
+  ],
+  "uiMap": 1457
+ }
+]
