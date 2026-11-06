@@ -94,8 +94,10 @@ Where sharing stands:
    `community/packs.json` with the zip's size and SHA-256, which `build_pack.py` prints. It can merge only
    after Spoken ships heIL. For each new version, upload the zip, then update `version`, `size`, `sha256`
    and `url` in that entry.
-3. **Font:** the captions use Noto Sans Hebrew (`fonts/`, SIL Open Font License 1.1), which may be shared.
-   Windows' Arial and Gisha may not.
+3. **Font:** the captions use Spoken Hebrew Sans, which `tools/make_font.py` merges from Noto Sans Hebrew
+   and Noto Sans's Latin and punctuation (`fonts/`, SIL Open Font License 1.1). It may be shared.
+   Windows' Arial and Gisha may not. Noto Sans Hebrew alone drew every comma, period and English
+   NPC name as a box.
 4. **Licence and credits:** the text is our translation of Blizzard's quest text, and the voices are
    clones of Blizzard's NPC recordings. Spoken's English packs are made the same way. Present it as
    non-commercial fan work.

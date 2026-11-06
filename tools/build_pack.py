@@ -26,9 +26,10 @@ MODULE = "SpokenCommunity_ivrit"
 SPOKEN = HERE / "vendor" / "spoken-wow" / "pipelines" / "quests"
 PYTHON = HERE / ".venv" / "Scripts" / "python.exe"
 # A face with Hebrew letters for the captions (the game's own fonts have none). It ships inside a
-# pack other players download, so it has to be a font we may share: Noto Sans Hebrew, SIL OFL 1.1,
-# whose licence travels in the font's own metadata. Windows' Arial and Gisha may not be shared.
-FONT = HERE / "fonts" / "NotoSansHebrew-Regular.ttf"
+# pack other players download, so it has to be a font we may share: Noto Sans Hebrew merged with
+# Noto Sans's Latin and punctuation (tools/make_font.py), SIL OFL 1.1, whose licence travels in
+# the font's own metadata. Windows' Arial and Gisha may not be shared.
+FONT = HERE / "fonts" / "SpokenHebrewSans-Regular.ttf"
 # Hebrew.lua tries a second face when the client will not load the first; with one open font,
 # both are the same file.
 FONT_FALLBACK = FONT
