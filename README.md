@@ -90,7 +90,7 @@ Where sharing stands:
 1. **Spoken support for heIL:** draft PR [rusty-key/spoken-wow#930](https://github.com/rusty-key/spoken-wow/pull/930),
    from the `add-hebrew-language` branch of [renanbazinin/spoken-wow](https://github.com/renanbazinin/spoken-wow).
    It mirrors the Polish commit `e7a1a957`.
-2. **Community listing:** releases of this repo carry the zip, and a second draft PR adds the pack to
+2. **Community listing:** releases of this repo carry the zip, and draft PR [rusty-key/spoken-wow#931](https://github.com/rusty-key/spoken-wow/pull/931) adds the pack to
    `community/packs.json` with the zip's size and SHA-256, which `build_pack.py` prints. It can merge only
    after Spoken ships heIL. For each new version, upload the zip, then update `version`, `size`, `sha256`
    and `url` in that entry.
