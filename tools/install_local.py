@@ -1,12 +1,13 @@
-"""Install the Hebrew pack into the local WoW Forever, and teach the installed Spoken the language.
+"""Install the Hebrew pack into the local WoW Forever, and teach an older Spoken the language.
 
-    python tools/install_local.py            # patch Spoken + copy the pack
+    python tools/install_local.py            # patch an older Spoken + copy the pack
     python tools/install_local.py --undo     # restore Spoken's files, remove the pack
 
-Spoken 3.8.x does not know Hebrew (heIL) yet. This adds one line to each list of languages it
-keeps, the same lines Spoken added for Polish (upstream commit e7a1a957), after backing each
-file up as <file>.before-heIL. A Spoken update replaces those files, so run this again after one
-(until Spoken ships heIL itself). Then in game: /sp -> Language -> Voice Language: עברית / Hebrew.
+Spoken 3.8.8 and later learn a language from the pack's .toc (X-SpokenQuests-Language: heIL), so
+they are left alone. Spoken up to 3.8.7 keeps hand-written lists of languages: this adds one line
+to each, the same lines Spoken added for Polish (upstream commit e7a1a957), after backing each
+file up as <file>.before-heIL. A Spoken update replaces those files, so run this again after one.
+Then in game: /sp -> Language -> Voice Language: Hebrew.
 """
 import argparse
 import pathlib
@@ -31,6 +32,9 @@ PATCHES = {
 
 
 def patch():
+    if (ADDONS / "Spoken" / "Languages.lua").exists():
+        print("ok   Spoken learns languages from packs (3.8.8+): nothing to patch")
+        return
     for rel, (anchor, line) in PATCHES.items():
         path = ADDONS / rel
         if not path.exists():

@@ -51,7 +51,7 @@ CONTRACT = [
     ("ClipFont keeps spokenOwnFace", clip_font, r"\.spokenOwnFace\b"),
     ("ClipFont keeps spokenClipFace", clip_font, r"\.spokenClipFace\b"),
     ("ClipFont keeps spokenClipWant", clip_font, r"\.spokenClipWant\b"),
-    ("ClipFont reads clip.present.font", clip_font, r"clip\.present\.font"),
+    ("ClipFont reads the clip's present.font", clip_font, r"\bpresent\.font\b"),
     ("Core.lua runs in SpokenEnv", core, r"^setfenv\(1, SpokenEnv\)"),
     ("Subtitle is a SpokenEnv table", subtitle, r"^Subtitle = "),
     ("Subtitle:Reveal", subtitle, r"^function Subtitle:Reveal\("),

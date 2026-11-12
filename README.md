@@ -8,6 +8,19 @@ Teldrassil, Durotar, Mulgore and Tirisfal Glades.
 **רוצים לעזור?** Want to help? Read [CONTRIBUTING.md](CONTRIBUTING.md) (in Hebrew): report a line that sounds wrong,
 fix a translation, or take a zone that isn't translated yet. You don't need an ElevenLabs key.
 
+## Install
+
+1. Install **Spoken** and the **Spoken Manager** (0.1.13 or later).
+2. In the Manager, open **Community** and install **Spoken Hebrew (Ivrit)**. Or download
+   `SpokenCommunity_ivrit-<version>.zip` from [Releases](https://github.com/renanbazinin/spoken-ivrit/releases)
+   and extract it into `Interface\AddOns`. Use one of the two, not both.
+3. In game, open `/sp`, go to Language, and set Voice Language to **Hebrew**. Leave "If a Voice Is
+   Missing" on English, so quests outside these zones still speak.
+
+Spoken 3.8.8 and later learn Hebrew from the pack. "Auto" follows the game client, and no client
+runs in Hebrew, so choose Hebrew once. An older Spoken does not list Hebrew: it reads the pack as
+English and plays it in place of the English voices.
+
 ## Getting the code
 
 ```bash
@@ -59,7 +72,7 @@ python tools/voices.py                      # voices/voices.json: clones the gam
 python tools/generate.py                    # audio/<id>.mp3 for every translated line
 python tools/review_page.py                 # review.html: listen, tick lines to redo
 python tools/build_pack.py --version 0.1.0  # build/dist/SpokenCommunity_ivrit + zip
-python tools/install_local.py               # into WoW Forever, and teach the installed Spoken heIL
+python tools/install_local.py               # into WoW Forever (and teach a Spoken older than 3.8.8 heIL)
 ```
 
 - The translations live in `lines/<zone>.he.json`, as `{"lines": {id: Hebrew}}`. Fix a line there, then
@@ -70,33 +83,30 @@ python tools/install_local.py               # into WoW Forever, and teach the in
 ## In game
 
 1. `python tools/build_pack.py --version 0.1.0`, then `python tools/install_local.py`.
-2. Start WoW Forever. Open `/sp`, go to Language, and set Voice Language to עברית (Hebrew). Keep the fallback on English
+2. Start WoW Forever. Open `/sp`, go to Language, and set Voice Language to Hebrew. Keep the fallback on English
    so quests outside these zones still speak.
 3. `python tools/install_local.py --undo` puts Spoken back and removes the pack.
 
-Spoken 3.8.3 does not know Hebrew yet. `install_local.py` adds one line to each of Spoken's language
-lists, the same lines Spoken added for Polish (upstream commit `e7a1a957`), and keeps a
+Spoken 3.8.8 and later learn Hebrew from the pack's `.toc` (`X-SpokenQuests-Language: heIL`), and
+`install_local.py` leaves them alone. On Spoken up to 3.8.7 it adds one line to each of Spoken's
+language lists, the same lines Spoken added for Polish (upstream commit `e7a1a957`), and keeps a
 `.before-heIL` backup of each file. A Spoken update overwrites these files, so run the script again
 after updating. `addon/Hebrew.lua` hooks Spoken's internals, so after a Spoken update also run
 `python tools/test_captions.py --spoken "<your AddOns folder>"`: it checks that what the captions use is
 still in that Spoken. If it is not, the pack turns its captions off by itself in game (the voice still
 plays, with Spoken's own text) and says so once in chat.
 
-## Before sharing it
+## Sharing
 
-**Only install the pack on a Spoken that knows Hebrew (`heIL`).** An older Spoken reads the pack as
-English. It would then play Hebrew to English listeners, because `SpokenCommunity_…` sorts ahead of
-the official packs. Until a Spoken release has Hebrew, `tools/install_local.py` patches your own copy.
-
-Where sharing stands:
-
-1. **Spoken support for heIL:** PR [rusty-key/spoken-wow#930](https://github.com/rusty-key/spoken-wow/pull/930),
-   from the `add-hebrew-language` branch of [renanbazinin/spoken-wow](https://github.com/renanbazinin/spoken-wow).
-   It mirrors the Polish commit `e7a1a957`.
-2. **Community listing:** releases of this repo carry the zip, and PR [rusty-key/spoken-wow#931](https://github.com/rusty-key/spoken-wow/pull/931) adds the pack to
-   `community/packs.json` with the zip's size and SHA-256, which `build_pack.py` prints. It can merge only
-   after Spoken ships heIL. For each new version, upload the zip, then update `version`, `size`, `sha256`
-   and `url` in that entry.
+1. **Spoken support for heIL:** since Spoken 3.8.8 (first in 3.8.8-beta.1), a pack declares its own
+   language: [rusty-key/spoken-wow#1037](https://github.com/rusty-key/spoken-wow/pull/1037), "Voice packs
+   bring their own language". It replaced our PR [#930](https://github.com/rusty-key/spoken-wow/pull/930),
+   which added Hebrew to Spoken's lists by hand.
+2. **Community listing:** releases of this repo carry the zip, and the pack is in Spoken's
+   `community/packs.json` since [#931](https://github.com/rusty-key/spoken-wow/pull/931) (merged
+   2026-11-11). The Manager shows it from 0.1.13. For each new version, upload the zip, then open a pull
+   request that updates `version`, `size`, `sha256` and `url` in that entry (`build_pack.py` prints the
+   size and SHA-256).
 3. **Font:** the captions use Spoken Hebrew Sans, which `tools/make_font.py` merges from Noto Sans Hebrew
    and Noto Sans's Latin and punctuation (`fonts/`, SIL Open Font License 1.1). It may be shared.
    Windows' Arial and Gisha may not. Noto Sans Hebrew alone drew every comma, period and English
