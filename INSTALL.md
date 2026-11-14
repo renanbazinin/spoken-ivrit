@@ -2,6 +2,8 @@
 
 [English](#english) · [עברית](#hebrew)
 
+**[מדריך מצולם בעברית: Spoken Manager או CurseForge](INSTALL-HE.md)**
+
 <a id="english"></a>
 
 ## English
@@ -19,7 +21,7 @@ the capitals and most zones up to level 30, and more zones are on the way.
 2. Open the Manager. On the **Spoken** tab, install or update Spoken.
 3. On the **Community** tab, find **Spoken Hebrew (Ivrit)** and press **Install**.
 4. Start the game. If it was open, restart it.
-5. Type `/sp`. Under **Language**, set **Voice Language** to **Hebrew**. Leave **If a Voice Is
+5. Type `/sp options`. Under **Language**, set **Voice Language** to **Hebrew**. Leave **If a Voice Is
    Missing** on **English**, so quests that have no Hebrew recording yet are read in English.
 
 Done. Talk to a quest giver.
@@ -60,7 +62,7 @@ Use the Manager or the zip, not both.
 2. פותחים את המנהל. בלשונית **Spoken** מתקינים או מעדכנים את Spoken.
 3. בלשונית **Community** מוצאים את **Spoken Hebrew (Ivrit)** ולוחצים **Install**.
 4. מפעילים את המשחק. אם הוא היה פתוח, סוגרים ופותחים אותו מחדש.
-5. כותבים `/sp` בצ'אט. תחת **Language**, ב-**Voice Language** בוחרים **Hebrew**. את **If a Voice Is
+5. כותבים `/sp options` בצ'אט. תחת **Language**, ב-**Voice Language** בוחרים **Hebrew**. את **If a Voice Is
    Missing** משאירים על **English**, כדי שמשימות שעוד לא הוקלטו בעברית יוקראו באנגלית.
 
 זהו. מדברים עם נותן משימות.

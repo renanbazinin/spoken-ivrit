@@ -10,9 +10,11 @@ fix a translation, or take a zone that isn't translated yet. You don't need an E
 
 ## Install
 
+**[מדריך התקנה מצולם בעברית](INSTALL-HE.md)** - שתי אפשרויות: Spoken Manager או CurseForge והתקנה ידנית של חבילת העברית.
+
 **Players: [INSTALL.md](INSTALL.md)**, in English and Hebrew (מדריך התקנה בעברית). In short: install
 **Spoken Hebrew (Ivrit)** from the Community tab of the Spoken Manager, then set Voice Language to
-Hebrew in `/sp`. It needs Spoken 3.9.0 or newer.
+Hebrew in `/sp options`. It needs Spoken 3.9.0 or newer.
 
 ## Getting the code
 
