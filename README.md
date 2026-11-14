@@ -2,24 +2,17 @@
 
 Hebrew voiceover for the [Spoken](https://github.com/rusty-key/spoken-wow) addon, in WoW Forever.
 The pack is a Spoken data module, `SpokenCommunity_ivrit`, built the same way as Spoken's own
-language packs. It covers the quests of the six starting zones: Elwynn Forest, Dun Morogh,
-Teldrassil, Durotar, Mulgore and Tirisfal Glades.
+language packs. Version 0.6.3 covers quests and gossip in the six starting zones, the six capitals
+and most zones up to level 30: about 5,100 recordings.
 
 **רוצים לעזור?** Want to help? Read [CONTRIBUTING.md](CONTRIBUTING.md) (in Hebrew): report a line that sounds wrong,
 fix a translation, or take a zone that isn't translated yet. You don't need an ElevenLabs key.
 
 ## Install
 
-1. Install **Spoken** and the **Spoken Manager** (0.1.13 or later).
-2. In the Manager, open **Community** and install **Spoken Hebrew (Ivrit)**. Or download
-   `SpokenCommunity_ivrit-<version>.zip` from [Releases](https://github.com/renanbazinin/spoken-ivrit/releases)
-   and extract it into `Interface\AddOns`. Use one of the two, not both.
-3. In game, open `/sp`, go to Language, and set Voice Language to **Hebrew**. Leave "If a Voice Is
-   Missing" on English, so quests outside these zones still speak.
-
-Spoken 3.8.8 and later learn Hebrew from the pack. "Auto" follows the game client, and no client
-runs in Hebrew, so choose Hebrew once. An older Spoken does not list Hebrew: it reads the pack as
-English and plays it in place of the English voices.
+**Players: [INSTALL.md](INSTALL.md)**, in English and Hebrew (מדריך התקנה בעברית). In short: install
+**Spoken Hebrew (Ivrit)** from the Community tab of the Spoken Manager, then set Voice Language to
+Hebrew in `/sp`. It needs Spoken 3.9.0 or newer.
 
 ## Getting the code
 
@@ -98,15 +91,17 @@ plays, with Spoken's own text) and says so once in chat.
 
 ## Sharing
 
-1. **Spoken support for heIL:** since Spoken 3.8.8 (first in 3.8.8-beta.1), a pack declares its own
+1. **Spoken support for heIL:** since Spoken 3.9.0 (first in 3.8.8-beta.1), a pack declares its own
    language: [rusty-key/spoken-wow#1037](https://github.com/rusty-key/spoken-wow/pull/1037), "Voice packs
    bring their own language". It replaced our PR [#930](https://github.com/rusty-key/spoken-wow/pull/930),
    which added Hebrew to Spoken's lists by hand.
-2. **Community listing:** releases of this repo carry the zip, and the pack is in Spoken's
-   `community/packs.json` since [#931](https://github.com/rusty-key/spoken-wow/pull/931) (merged
-   2026-11-11). The Manager shows it from 0.1.13. For each new version, upload the zip, then open a pull
-   request that updates `version`, `size`, `sha256` and `url` in that entry (`build_pack.py` prints the
-   size and SHA-256).
+2. **Community listing:** releases of this repo carry the zip. The Manager lists the pack on its
+   Community page, read from [spoken.quest](https://spoken.quest/packs) since Manager 0.1.14 (and
+   from `community/packs.json`, where [#931](https://github.com/rusty-key/spoken-wow/pull/931) added it,
+   for older Managers; that file is now frozen). For each new version: upload the zip to a new release
+   here, then on spoken.quest open My packs and submit the new version with the zip's link, size and
+   SHA-256 (`build_pack.py` prints them). An admin reviews it; players keep the last approved version
+   until then.
 3. **Font:** the captions use Spoken Hebrew Sans, which `tools/make_font.py` merges from Noto Sans Hebrew
    and Noto Sans's Latin and punctuation (`fonts/`, SIL Open Font License 1.1). It may be shared.
    Windows' Arial and Gisha may not. Noto Sans Hebrew alone drew every comma, period and English
